@@ -1,0 +1,18 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tr:home|Door43 (tr)]]
+
+**Resources**
+
+  * [[tr:obs|Open Bible Stories (tr)]]
+
+
+**Recent Changes**
+{{changes>ns = tr}}
+
+**Latest Status**
+{{page>en:uwadmin:tr:obs:status}}
+
