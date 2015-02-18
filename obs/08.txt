@@ -6,7 +6,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-01.jpg?direct&}}
 
-Kardeşleri Yusuf’tan nefret ediyorlardı, çünkü babaları onu en çok severdi ve Yusuf onların üzerinde hakim olacağını hayal ederdi. Kardeşlerinin yanına gelen Yusuf’u tutup köle tüccarlarına sattılar.
+Kardeşleri Yusuf’tan nefret ediyorlardı, çünkü babaları onu en çok severdi ve Yusuf onların üzerinde h<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>â</font> kim olacağını hayal ederdi. Kardeşlerinin yanına gelen Yusuf’u tutup köle tüccarlarına sattılar.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-03.jpg?direct&}}
 
@@ -14,7 +14,7 @@ Eve dönmeden önce kardeşler Yusuf’un elbisesini yırtıp kana bulaştırdı
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-04.jpg?direct&}}
 
-Köle tüccarları Yusuf’u Mısır’a götürdüler. Mısır Nil Nehri’nin kıyısında bulunan büyük, kudretli bir ülkeydi. Köle tüccarları Yusuf’u zengin bir hükûmet görevlisine sattılar. Yusuf efendisine iyi hizmet etti ve Tanrı Yusuf’u kutsadı.
+Köle tüccarları Yusuf’u Mısır’a götürdüler. Mısır Nil Nehri’nin kıyısında bulunan büyük, kudretli bir ülkeydi. Köle tüccarları Yusuf’u zengin bir hükûmet görevlisine sattılar. Yusuf, efendisine iyi hizmet etti ve Tanrı Yusuf’u kutsadı.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-05.jpg?direct&}}
 
@@ -22,11 +22,11 @@ Efendisinin karısı Yusuf’la yatmaya çalıştı, ama Yusuf bu teklifini redd
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-06.jpg?direct&}}
 
-Üstünden iki yıl geçmişti, Yusuf suçsuz olmasına rağmen hâlâ zindandaydı. Bir gece firavun - Mısırlılar krallarına firavun derlerdi - kendini son derece endişelendiren iki rüya görmüştü. Öğütçülerinden hiçbiri bu rüyalarını yorumlayamamıştı.
+Üstünden iki yıl geçmişti, Yusuf suçsuz olmasına rağmen hâlâ zindandaydı. Bir gece firavun -Mısırlılar krallarına firavun derlerdi- kendini son derece endişelendiren iki rüya görmüştü. Öğütçülerinden hiçbiri bu rüyalarını yorumlayamamıştı.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-07.jpg?direct&}}
 
-Tanrı’nın Yusuf’a rüya yorumlama yeteneği verdiğini duyan firavun Yusuf’un zindandan getirilmesini buyurdu. Yusuf ona rüyalarını şöyle yorumladı: “Tanrı yedi yıl bol hasat ve ardından yedi yıl kıtlık gönderecek.”
+Tanrı’nın Yusuf’a rüya yorumlama yeteneği verdiğini duyan firavun, Yusuf’un zindandan getirilmesini buyurdu. Yusuf ona rüyalarını şöyle yorumladı: “Tanrı yedi yıl bol hasat ve ardından yedi yıl kıtlık gönderecek.”
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-08.jpg?direct&}}
 
@@ -46,7 +46,7 @@ Bu yüzden Yakup erzak almaları için büyük oğullarını Mısır’a gönder
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-12.jpg?direct&}}
 
-Yusuf kardeşlerinin değişip değişmediklerini yoklamak için onları denedi, sonra şöyle dedi: “Ben kardeşiniz Yusuf’um! Korkmayın! Beni köle olarak sattığınızda kötülük yapmaya çalıştınız, ama Tanrı bu kötülüğü iyiliğe çevirdi! Mısır’da yaşamaya gelin, siniz ve ailelerinizin geçimini sağlayacağım.”
+Yusuf kardeşlerinin değişip değişmediklerini yoklamak için onları denedi, sonra şöyle dedi: “Ben kardeşiniz Yusuf’um! Korkmayın! Beni köle olarak sattığınızda kötülük yapmaya çalıştınız, ama Tanrı bu kötülüğü iyiliğe çevirdi! Mısır’da yaşamaya gelin, sizin ve ailelerinizin geçimini sağlayacağım.”
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-13.jpg?direct&}}
 
