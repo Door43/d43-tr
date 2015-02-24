@@ -6,7 +6,7 @@ Sonra İsa havarilere, kendisi halkı salıverirken tekneye binip gölün karş�
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-02.jpg?direct&}}
 
-Bu arada havariler kürek çekmelerine rağmen ancak gölün ortasına varmışlardı. Karşı yönden esen rüzgar yüzünden zorla kürek çekiyorlardı.
+Bu arada havariler kürek çekmelerine rağmen ancak gölün ortasına varmışlardı. Karşı yönden esen rüzg<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>â</font> r yüzünden zorla kürek çekiyorlardı.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-03.jpg?direct&}}
 
@@ -18,7 +18,7 @@ Havariler İsa’yı görünce hayalet gördüklerini zannederek dehşete kapıl
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg?direct&}}
 
-Bunun üzerine Petrus İsa’ya, “Efendimiz, eğer sen isen, bana emret, su üstünde sana geleyim” dedi. İsa Petrus’a, “Gel” dedi.
+Bunun üzerine Petrus İsa’ya, “Efendimiz, eğer sen isen, bana emret, su üstünde sana geleyim.” dedi. İsa Petrus’a, “Gel!” dedi.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-06.jpg?direct&}}
 
@@ -30,6 +30,6 @@ Petrus korkar korkmaz batmaya başladı. “Efendimiz, kurtar beni!” diye bağ
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-08.jpg?direct&}}
 
-Petrus’la İsa tekneye girer girmez rüzgâr durdu, su sütliman oldu. Havariler hayret içinde İsa’ya tapınarak, “Gerçekten, sen Tanrı’nın Oğlu’sun” dediler.
+Petrus’la İsa tekneye girer girmez rüzgâr durdu, su sütliman oldu. Havariler hayret içinde İsa’ya tapınarak, “Gerçekten, sen Tanrı’nın Oğlu’sun.” dediler.
 
 //Öykünün Kutsal Kitap’taki yeri: Matta 14:22-33; Markos 6:45-52; Yuhanna 6:16-21​//
