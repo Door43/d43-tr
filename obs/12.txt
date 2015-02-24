@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-01.jpg?direct&}}
 
-İsrailliler Mısır’ı terkettikleri için çok mutluydular. Atrık köle değildiler, üstelik Tanrı’nın vadettiği ülkeye doğru gidiyorlardı! Mısırlılar İsraillilere istedikleri her şeyi -altın, gümüş ve diğer değerli şeyleri bile- vermişlerdi. Başka milletlerden olan bazı insanlar da Tanrı’ya iman ederek İsraillilerle beraber Mısır’dan çıktılar.
+İsrailliler Mısır’ı terkettikleri için çok mutluydular. Atrık köle değillerdi, üstelik Tanrı’nın vadettiği ülkeye doğru gidiyorlardı! Mısırlılar İsraillilere istedikleri her şeyi -altın, gümüş ve diğer değerli şeyleri bile- vermişlerdi. Başka milletlerden olan bazı insanlar da Tanrı’ya iman ederek İsraillilerle beraber Mısır’dan çıktılar.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-02.jpg?direct&}}
 
@@ -14,15 +14,15 @@ Kısa bir süre sonra firavun ve halkı, fikirlerini değiştirerek İsrailliler
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-04.jpg?direct&}}
 
-O zaman firavunla ordusu İsraillileri tekrar kendilerine köle yapmak için peşlerine düştüler. İsrailliler Mısır ordusunun geldiğini görünce firavunun ordusu ile Kızıldeniz arasına sıkıştıklarını anladılar. Dehşete kapılıp, “Neden Mısır’ı terkettik? Helak olacağız!” diye bağırdılar.
+O zaman firavunla ordusu İsraillileri tekrar kendilerine köle yapmak için peşlerine düştüler. İsrailliler Mısır ordusunun geldiğini görünce firavunun ordusu ile Kızıldeniz arasına sıkıştıklarını anladılar. Dehşete kapılıp, “Neden Mısır’ı terkettik? Mahvolacağız!” diye bağırdılar.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-05.jpg?direct&}}
 
-Musa İsraillilere, “Korkmayın! - dedi. - Tanrı bugün sizin için savaşacak ve sizi kurtaracak!” Sonra Tanrı Musa’ya, “Halka söyle, Kızıldeniz’e ilerlesinler” dedi.
+Musa İsraillilere, “Korkmayın! Tanrı bugün sizin için savaşacak ve sizi kurtaracak!” dedi. Sonra Tanrı Musa’ya, “Halka söyle, Kızıldeniz’e ilerlesinler.” dedi.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-06.jpg?direct&}}
 
-Sonra Tanrı bulut sütununu İsraillilerle Mısırlılar arasına getirdi, böylece Mısırlılar İsraillileri göremez oldular.
+Sonra Tanrı İsraillilerle Mısırlılar arasına <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>bulut</font> sütununu<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> getirdi, böylece Mısırlılar İsraillileri göremez oldular.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-07.jpg?direct&}}
 
@@ -54,6 +54,6 @@ Bir de İsrailliler Tanrı’nın kendilerini ölümden ve kölelikten kurtardı
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-14.jpg?direct&}}
 
-Tanrı, Mısırlılar üzerinde zafer kazanmalarını ve kölelikten kurtulmalarını nasıl sağladığını hatırlamaları için İsraillilere her yıl Fısıh bayramını kutlamayı buyurdu. Onlar da her yıl kusursuz bir kuzu boğazlayıp mayasız ekmekle yiyerek bu bayramı kutladılar.
+Tanrı, Mısırlılar üzerinde zafer kazanmalarını ve kölelikten kurtulmalarını nasıl sağladığını hatırlamaları için İsraillilere her yıl Fısıh Bayramı'nı kutlamayı buyurdu. Onlar her yıl kusursuz bir kuzu boğazlayıp mayasız ekmekle yiyerek bu bayramı kutladılar.
 
 //Öykünün Kutsal Kitap’taki yeri: Çıkış 12:33-15:21​//
