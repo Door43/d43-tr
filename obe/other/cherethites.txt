@@ -1,0 +1,26 @@
+====== Cherethites ======
+
+===== Facts: =====
+
+The Cherethites were select soldiers from David's army that demonstrated  absolute loyalty to him.
+
+  * Benaiah, son of Jehoiada, a member of David's administrative corps, was their leader.
+  * The Cherethites remained with David when he had to flee Jerusalem because of Absalom's revolt.
+  * bullet
+
+(Translation suggestions: [[:tr:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: other)
+
+  * [[:tr:obe:other:chariot|Prev chunk]]: [[:tr:obe:other:chariot?do=diff&rev2[0]=1412187659&rev2[1]=&difftype=sidebyside|publish-current]]
+  * [[:tr:obe:other:cherubim|Next chunk]]: [[:tr:obe:other:cherubim?do=diff&rev2[0]=1438112712&rev2[1]=1423247345&difftype=sidebyside|review-publish]] | [[:tr:obe:other:cherubim?do=diff&rev2[0]=1423247345&rev2[1]=&difftype=sidebyside|publish-current]]
+
+===== Bible References: =====
+
+{{topic>cherethites&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>review ktlink}}

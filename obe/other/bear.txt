@@ -1,0 +1,23 @@
+====== bear ======
+
+===== Facts: =====
+
+A large mammal common in Israel during biblical times, the animal was a varitey of the brown bear.
+
+  * The bear was used in the OT as a symbol of strength,and both human and divine anger.
+  * A bear is one of the four beasts that comes out of the ocean in Daniel's vision.
+  * bullet
+
+(Translation suggestions: [[:tr:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: other)
+
+===== Bible References: =====
+
+{{topic>bear&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>draft dan07 ktlink}}

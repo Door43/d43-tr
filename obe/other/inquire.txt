@@ -1,0 +1,20 @@
+====== inquire ======
+
+===== Facts: =====
+
+To ask, to seek an answer from someone.
+
+  * The Old Testament records several instances where people inquired of the Lord.
+  * The word can also be used of a King or government official making a search through official written records.
+
+(Translation suggestions: [[:tr:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: other)
+
+===== Bible References: =====
+
+{{topic>inquire&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>draft ezk20 ktlink}}
