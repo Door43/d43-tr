@@ -8,6 +8,10 @@
 **Resources**
 
   * [[tr:obs|Open Bible Stories (tr)]]
+    *[[:tr:obs:notes|Open Bible Stories tN (tr)]]
+    * [[:tr:obs:notes:questions:home|Open Bible Stories tQ (tr)]]
+    * [[:tr:obe:home|Open Bible Stories tW (tr)]]
+
 
 **Downloads**
 
