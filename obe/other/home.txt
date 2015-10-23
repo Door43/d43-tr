@@ -6,4 +6,4 @@ Link to [[:tr:obe:kt:home|OBE Key Terms]] \\
 Link to [[:tr:obe:home|All OBE Terms]]
 
 
-<nspages en:obe:other -title -exclude:home -textPages="List of other terms:">
+<nspages tr:obe:other -title -exclude:home -textPages="List of other terms:">
