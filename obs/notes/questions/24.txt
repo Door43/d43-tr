@@ -2,29 +2,29 @@
 
 ===== Comprehension Questions and Answers =====
 
-  - **Where did John live when he grew up?**
-    *//He lived in the wilderness. [24-01]//
-  - **What message did John preach to the people?**
-    *//“Repent, for the kingdom of God is near!” [24-02]//
-  - **What did John do to the people who repented at his preaching?**
-    *//He baptized them. [24-03]//
-  - **Which group of people did John compare to poisonous snakes?**
-    *//This referred to many of the religious leaders who refused to repent. [24-04]//
-  - **What was John's answer when the Jews asked him if he was the Messiah?**
-    *//He said he was not the Messiah. [24-05]//
-  - **What title did John use for Jesus when he saw him coming to be baptized?**
-    *//He called him, "the Lamb of God who will take away the sin of the world.” [24-06]//
-  - **Why did Jesus not need to repent of his sins before John baptized him?**
-    *//Because Jesus had never sinned. [24-07]//
-  - **Why did Jesus say that John should baptize him?**
-    *//John baptized Jesus because it was the right thing to do. [24-07]//
-  - **Who came to rest on Jesus after he was baptized?**
-    *//The Spirit of God appeared in the form of a dove. [24-08]//
-  - **What did God say to Jesus after he was baptized?**
-    *//“You are my Son whom I love, and I am very pleased with you.” [24-08]//
-  - **Whom did God say the Holy Spirit would come down and rest upon?**
-    *//He would rest on the Son of God. [24-09]//
-  - **How many gods are there?**
-    *//There is only one God. [24-10]//
+  - **Yahya büyüdüğünde nerede yaşadı?**
+      * //Çölde yaşadı. [24-01]//
+  - **Yahya halka ne çağrıda bulundu?**
+      * //“Tövbe edin, çünkü Tanrı’nın Hükümranlığı yaklaştı!” [24-02]//
+  - **Yahya, çağrısını dinleyerek günahlarından dönen insanlara ne yaptı?**
+      * //Onları vaftiz etti. [24-03]//
+  - **Yahya kimleri zehirli yılanlara benzetti?**
+      * //Bu söz tövbe etmek istemeyen dini alimlerin çoğuna aitti. [24-04]//
+  - **Yahya kendisinin Mesih olup olmadığını soran Yahudilere nasıl karşılık verdi?**
+      * //Mesih olmadığını söyledi. [24-05]//
+  - **Yahya vaftiz olmak için yanına gelen İsa hakkında ne söyledi?**
+      * //O’nu görünce, “İşte! Dünyanın günahını ortadan kaldıran Tanrı Kuzusu!” dedi. [24-06]//
+  - **Neden İsa’nın Yahya tarafından vaftiz edilmeden önce tövbe etmesi gerekmiyordu?**
+      * //Çünkü İsa asla günah etmedi. [24-07]//
+  - **İsa Yahya’nın onu neden vaftiz etmesi gerektiğini söyledi?**
+      * //Yahya İsa’yı vaftiz etti çünkü bu, yapılması gereken doğru işti. [24-07]//
+  - **İsa vaftiz edildikten sonra O’nun üzerine inip duran kimdi?**
+      * //Tanrı’nın Ruhu güvercin biçiminde göründü. [24-08]//
+  - **İsa vaftiz edildikten sonra Tanrı O’na ne dedi?**
+      * //“Sevdiğim Oğlum Sensin, Senden çok razıyım!” [24-08]//
+  - **Tanrı Kutsal Ruh’un kimin üzerine inip duracağını söyledi?**
+      * //Tanrı’nın Oğlu’nun üzerine inip duracağını söyledi. [24-09]//
+  - **Kaç tanrı vardır?**
+      * //Tek bir Tanrı vardır. [24-10]//
 
 **[[tr/obs/notes/questions/23|<<  ]] | [[tr/obs/notes/questions/25| >>]]**

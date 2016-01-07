@@ -2,24 +2,23 @@
 
 ===== Comprehension Questions and Answers =====
 
-  - **Why did Abraham send his servant back to the land of Abraham's relatives?**
-    *//To bring back a wife for his son, Isaac. [06-01]//
-  - **How did the servant find Rebekah?**
-    *//God led him to her. [06-02]//
-  - **How was Rebekah related to Abraham?**
-    *//Rebekah was the granddaughter of Abraham's brother. [06-02]//
-  - **Was Rebekah forced to go with the servant to marry Isaac?**
-    *//No, she agreed to go. [06-03]//
-  - **What promises of God were passed on to Isaac when Abraham died?**
-    *//All of the promises that God had made to Abraham, including that he would have countless descendants. [06-04]//
-  - **Why did it appear that the promise of countless descendants would not be fulfilled through Isaac?**
-    *//Rebekah could not have children. [06-04]//
-  - **What did God tell Rebekah about her two twin sons before they were born?**
-    *//They would become two nations, and the older son will serve the younger one. [06-06]//
-  - **What was the name of the older son?**
-    *//Esau. [06-07]//
-  - **What was the name of the younger son?**
-    *//Jacob. [06-07]//
-
+  - **Neden İbrahim uşağını akrabalarının yaşadıkları yere gönderdi?**
+      * //Oğlu İshak’ın evleneceği kızı getirsin diye. [06-01]//
+  - **Uşak Rebeka’yı nasıl buldu?**
+      * //Tanrı uşağı Rebeka’ya yönlendirdi. [06-02]//
+  - **Rebeka İbrahim’in nesiydi?**
+      * //Rebeka İbrahim’in kardeşinin torunuydu. [06-02]//
+  - **Rebeka uşakla gidip İshak’la evlenmek zorunda mıydı?**
+      * //Hayır, buna kendisi razı oldu. [06-03]//
+  - **İbrahim öldükten sonra Tanrı’nın hangi vaatleri İshak’a geçti?**
+      * //Soyunun sayısız olacağı vaadi dahil olmak üzere Tanrı’nın İbrahim’e verdiği tüm vaatler İshak’a geçti. [06-04]//
+  - **Neden soyunun sayısız olacağı vaadinin İshak aracılığıyla gerçekleşemeyeceği gibi görünüyordu?**
+      * //Çünkü Rebeka çocuk sahibi olamıyordu. [06-04]//
+  - **Tanrı Rebeka’ya, iki oğlu doğmadan önce onların hakkında ne söyledi?**
+      * //Onlar iki halk olacaklar ve büyük oğul küçüğüne hizmet edecek. [06-06]//
+  - **Büyük oğulun adı neydi?**
+      * //Esav. [06-07]//
+  - **Küçük oğulun adı neydi?**
+      * //Yakup. [06-07]//
 
 **[[tr/obs/notes/questions/05|<< ]] | [[tr/obs/notes/questions/07| >>]]**

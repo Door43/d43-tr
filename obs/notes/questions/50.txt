@@ -2,35 +2,33 @@
 
 ===== Comprehension Questions and Answers =====
 
-
-  - **During the last 2000 years, what has happened to the number of people who believe in Jesus?**
-    *//The number has been increasing. [50-01]//
-  - **How does God want us to live as we wait for Jesus to return?**
-    *//He wants us to live in a way that is holy and that honors him. [50-02]//
-  - **What did Jesus say would happen before the end of the world comes?**
-    *//His disciples would preach the good news of the kingdom of God to people everywhere in the world. [50-02]//
-  - **How will the world that hated Jesus treat his disciples?**
-    *//The world will cause his disciples to suffer also. [50-04]//
-  - **What is God’s promise to those who remain faithful to the end?**
-    *//He promises to save them. [50-04]//
-  - **In Jesus’ story about the end of the world, how did the weeds come to be among the wheat?**
-    *//An enemy planted them. [50-05], [50-06]//
-  - **Why didn't the servants pull out the weeds?**
-    *//They did not want to accidentally pull out the wheat. [50-07]//
-  - **What does the good seed represent?**
-    *//The good seed represents the people of God's kingdom. [50-08]//
-  - **What does the harvest represent?**
-    *//The harvest represents the end of the world, when God’s angels will gather up the people who belong to the devil. [50-09], [50-10]//
-  - **What will happen to the people who belong to the devil at the end of the world?**
-    *//They will be thrown into a raging fire, where they will suffer terribly. [50-10]//
-  - **In what form will Jesus return to the earth?**
-    *//He will return the way that he left, with a physical body and on the clouds of the sky. [50-11]//
-  - **What will happen to all Christians when Jesus returns?**
-    *//Those who are alive will rise to meet him, and those who are dead will also rise to meet him in the sky. [50-12]//
-  - **What will Jesus do to Satan when he returns?**
-    *//Jesus will throw Satan into hell where he will burn forever. [50-15]//
-  - **What will life be like in the new heaven and new earth?**
-    *//Jesus will reign forever with peace and justice, and there will be no more suffering. [50-17]//
-
+  - **Son 2.000 yıl boyunca İsa’ya iman edenlerin sayısı ne oldu?**
+      * //Sayısı arttı. [50-01]//
+  - **Tanrı İsa’nın dönüşünü beklerken nasıl yaşamamızı istiyor?**
+      * //O’nu şereflendiren kutsal bir yaşam sürmemizi istiyor. [50-02]//
+  - **İsa dünyanın sonu gelmeden önce ne olacağını söyledi?**
+      * //O’na iman edenler Tanrı’nın Hükümranlığı’yla ilgili sevindirici haberi dünyanın her yerinde duyuracaklar. [50-02]//
+  - **İsa’ya nefret eden dünya O’na iman edenlere nasıl davranacak?**
+      * //O’na iman edenlere de acı çektirecek. [50-04]//
+  - **Sonuna dek sadık kalanlara Tanrı’nın vaadi nedir?**
+      * //Onları kurtaracağını vadeder. [50-04]//
+  - **İsa’nın dünyanın sonu hakkındaki öyküsünde buğdayla beraber delice nasıl ortaya çıktı?**
+      * //Deliceyi düşman ekti. [50-05], [50-06]//
+  - **Neden köleler deliceyi sökmediler?**
+      * //Yanlışlıkla buğdayı da sökmemek için. [50-07]//
+  - **İyi tohum neyi temsil eder?**
+      * //İyi tohum Tanrı’nın Hükümranlığı’na ait olan insanları temsil eder. [50-08]//
+  - **Hasat neyi temsil eder?**
+      * //Hasat, Tanrı’nın meleklerinin Şeytan’a ait olan insanları toplayacakları dünyanın sonunu temsil eder. [50-09], [50-10]//
+  - **Şeytan’a ait olan insanlara dünyanın sonunda ne olacak?**
+      * //Onlar kızgın ocağa atılacaklar ve çok acı çekecekler. [50-10]//
+  - **İsa yeryüzüne ne şekilde dönecek?**
+      * //Yeryüzünden ayrıldığı gibi aynen öyle gelecek, fiziksel bedeni olacak ve O, gökteki bulutlar üzerinde gelecek. [50-11]//
+  - **İsa döneceği zaman bütün Mesih inanlılarına ne olacak?**
+      * //Yaşamakta olanlar O’na katılmak üzere göğe yükselecekler, ölmüş olanlar da dirilerek gökte O’nunla buluşacaklar. [50-12]//
+  - **İsa döndüğünde Şeytan’a ne yapacak?**
+      * //İsa Şeytan’ı sonsuzluğa kadar yakılmak üzere cehenneme atacak. [50-15]//
+  - **Yeni gökte ve yeni yerde hayat nasıl olacak?**
+      * //İsa barış ve adalet ile ebediyen hüküm sürecek ve artık acılar olmayacak. [50-17]//
 
 **[[tr/obs/notes/questions/49|<< ]]**

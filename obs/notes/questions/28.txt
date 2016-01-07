@@ -1,31 +1,28 @@
 ====== Story #28: The Rich Young Ruler ======
 
-
 ===== Comprehension Questions and Answers =====
 
-
-  - **What did the rich young ruler ask Jesus?**
-    *//What must I do to have eternal life? [28-01]//
-  - **What did Jesus tell the young man to do in order to have eternal life?**
-    *//He told him to obey God's laws. [28-01]//
-  - **What did the young ruler say about the laws that Jesus listed?**
-    *//He said he had obeyed them ever since he was a boy. [28-03]//
-  - **What additional thing did Jesus tell the young man to do?**
-    *//He told him to sell everything he owned and give the money to the poor, and then follow Jesus. [28-04]//
-  - **What reward did Jesus promise the rich young ruler if he would do this?**
-    *//He would have treasure in heaven. [28-04]//
-  - **Why did the young ruler become sad and then go away from Jesus?**
-    *//He did not want to give away all the things he possessed. [28-05]//
-  - **How difficult is it for a rich man to enter the kingdom of God?**
-    *//It is easier for a camel to go through the eye of a needle. [28-06]//
-  - **Is it possible for a rich man to be saved?**
-    *//Yes, with God everything is possible. [28-08]//
-  - **What had the disciples left behind in order to follow Jesus?**
-    *//They had left everything. [28-09]//
-  - **What did Jesus say would be their reward?**
-    *//They would receive one hundred times more in the next world, and also eternal life. [28-10]//
-  - **Who else can receive this reward?**
-    *//Everyone who leaves houses, brothers, sisters, father, mother, children, or property for the sake of Jesus’ name. [28-10]//
-
+  - **Zengin genç İsa’ya ne sordu?**
+      * //Ebedî hayatı miras almak için ne yapmalıyım? [28-01]//
+  - **İsa genç adama ebedî hayata kavuşması için ne yapması gerektiğini söyledi?**
+      * //Tanrı’nın emirlerine uymasını söyledi. [28-01]//
+  - **Zengin genç İsa’nın bahsettiği emirler hakkında ne dedi?**
+      * //Bu emirlere çocukluğundan beri hep uyduğunu söyledi. [28-03]//
+  - **İsa genç adama daha ne yapması gerektiğini söyledi?**
+      * //Varını yoğunu satıp parayı yoksullara vermesini ve sonra İsa’yı takip etmesini söyledi. [28-04]//
+  - **İsa zengin gence bunu yaparsa ne mükafatı vadetti?**
+      * //Göklerde hazinesi olacağını söyledi. [28-04]//
+  - **Neden zengin genç üzülüp İsa’dan uzaklaştı?**
+      * //Sahip olduğu şeyleri kimseye vermek istemiyordu. [28-05]//
+  - **Zengin birinin Tanrı’nın Hükümranlığı’na girmesi ne kadar zordur?**
+      * //Bir devenin iğne deliğinden geçmesi daha kolaydır. [28-06]//
+  - **Zengin birinin kurtulması mümkün müdür?**
+      * //Evet, Tanrı için her şey mümkündür. [28-08]//
+  - **Havariler İsa’yı izlemek için ne bıraktılar?**
+      * //Her şeyi bıraktılar. [28-09]//
+  - **İsa onların mükafatlarının ne olacağını söyledi?**
+      * //Onlar ahirette yüz katını alacak ve üstelik ebedî hayata kavuşacaklardı. [28-10]//
+  - **Bu mükafatı daha kimler alabilirler?**
+      * //Evini, kardeşlerini, babasını, annesini, çocuklarını ya da mal mülkünü İsa’nın uğruma bırakan herkes. [28-10]//
 
 **[[tr/obs/notes/questions/27|<< ]] | [[tr/obs/notes/questions/29| >>]]**

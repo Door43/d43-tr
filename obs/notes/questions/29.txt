@@ -1,33 +1,30 @@
 ====== Story #29: The Story of the Unmerciful Servant ======
 
-
 ===== Comprehension Questions and Answers =====
 
-
-  - **What question did Peter ask Jesus?**
-    *//"How many times should I forgive my brother when he sins against me?" [29-01]//
-  - **How many times did Peter think he should forgive his brother?**
-    *//Seven times. [29-01]//
-  - **How many times did Jesus say he should forgive his brother?**
-    *//Seventy times seven. [29-01]//
-  - **What did Jesus mean when he said, "Seventy times seven?**
-    *//He meant that we should always forgive. [29-01]//
-  - **	Was the servant able to pay his huge debt to the king?**
-    *//No. [29-03]//
-  - **How did the king punish the servant with the huge debt?**
-    *//The king ordered that the man and his family be sold as slaves. [29-03]//
-  - **What did the king do when the servant begged him to be patient?**
-    *//The king felt pity on the servant and cancelled his debt. [29-04]//
-  - **What did the servant then do to a fellow servant who owed him a small debt?**
-    *//He grabbed him and demanded that he pay the money that he owed him. [29-05]//
-  - **What did the servant do when his fellow servant fell on his knees and asked him to be patient?**
-    *//He threw his fellow servant into prison. [29-06]//
-  - **How did the other servants react when he threw his fellow servant in prison?**
-    *//They were greatly disturbed and told the king about it. [29-07]//
-  - **How did the king punish the servant who did not forgive his fellow servant?**
-    *//He threw him into prison. [29-08]//
-  - **Will God forgive us if we do not forgive others from our heart?**
-    *//No. [29-09]//
-
+  - **Petrus İsa’ya ne sordu?**
+      * //“Bana karşı günah işleyen kardeşimi kaç kere bağışlamalıyım?” [29-01]//
+  - **Petrus kaç kere bağışlaması gerektiğini düşünüyordu?**
+      * //Yedi kere. [29-01]//
+  - **İsa Petrus’a kardeşini kaç kere bağışlaması gerektiğini söyledi?**
+      * //Yetmiş kere yedi. [29-01]//
+  - **İsa “Yetmiş kere yedi!” dediğinde kastı neydi?**
+      * //Kastı her zaman affetmemiz gerektiğiydi. [29-01]//
+  - **Hizmetkâr büyük borcunu krala ödemeye kadir miydi?**
+      * //Hayır. [29-03]//
+  - **Kral büyük borcu olan hizmetkârı nasıl cezalandırmıştı?**
+      * //Kral bu adamla ailesinin köle olarak satılmasını buyurmuştu. [29-03]//
+  - **Hizmetkâr krala ona sabretmesi için yalvardığında kral ne yaptı?**
+      * //Kral hizmetkâra acıdı ve borcunu sildi. [29-04]//
+  - **Hizmetkâr, kendisine küçük borcu olan bir başka hizmetkâra ne yaptı?**
+      * //Boğazına sarılarak borcunu ona ödemesini talep etti. [29-05]//
+  - **Hizmetkâr, başka hizmetkârın diz çöküp ona sabretmesi için yalvarması üzerine ne yaptı?**
+      * //Başka hizmetkârı zindana kapattırdı. [29-06]//
+  - **Diğer hizmetkârlar onun bu davranışına nasıl tepki gösterdiler?**
+      * //Çok üzüldüler ve bu olayı krala anlattılar. [29-07]//
+  - **Kral başka hizmetkârı bağışlamayan o hizmetkârı nasıl cezalandırdı?**
+      * //Onu zindana kapattırdı. [29-08]//
+  - **Biz başkalarını yürekten affetmezsek Tanrı bizi affedecek mi?**
+      * //Hayır. [29-09]//
 
 **[[tr/obs/notes/questions/28|<< ]] | [[tr/obs/notes/questions/30| >>]]**

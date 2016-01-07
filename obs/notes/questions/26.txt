@@ -2,32 +2,31 @@
 
 ===== Comprehension Questions and Answers =====
 
-  - **Where did Jesus go after he overcame Satan’s temptations?**
-    *//Jesus went to the region of Galilee where he lived. [26-01]//
-  - **What was the name of the city where Jesus lived as a child?**
-    *//Nazareth. [26-02]//
-  - **Where did Jesus go on the Sabbath?**
-    *//He went to the place of worship. [26-02]//
-  - **Why did the people in the place of worship hand Jesus the scroll of Isaiah?**
-    *//They wanted Jesus to read from it. [26-02]//
-  - **The passage of Scripture that Jesus read referred to what person?**
-    *//The Messiah. [26-04]//
-  - **What did Jesus say about the Scripture that he had just read?**
-    *//He said it was being fulfilled right then. [26-04]//
-  - **How did the people of Jesus' hometown react to his words?**
-    *//They were amazed and asked, “Isn't this the son of Joseph?” [26-04]//
-  - **What examples did Jesus give of God's prophets helping people from other nations?**
-    *//God helped a widow during a drought in Elijah’s time, and he healed Naaman, a commander of Israel’s enemies. [26-05], [26-06]//
-  - **How did the people respond when Jesus told them these stories?**
-    *//They were furious and tried to kill Jesus. [26-06], [26-07]//
-  - **How did Jesus escape from the crowd?**
-    *//Jesus walked through the crowd and left the town. [26-07]//
-  - **How did the crowds in Galilee respond to Jesus?**
-    *//They brought him many who were sick or handicapped so he could heal them. [26-08]//
-  - **Who did the demons acknowledge Jesus to be when he commanded them to come out of people?**
-    *//They said Jesus was the Son of God. [26-09]//
-  - **How many men did Jesus choose to be his apostles?**
-    *//He chose twelve apostles. [26-10]//
-
+  - **İsa Şeytan’ın ayartılarına karşı galip geldikten sonra nereye gitti?**
+      * //Kendi yaşadığı Celile bölgesine gitti. [26-01]//
+  - **İsa’nın çocukluğunda oturduğu kentin adı nedir?**
+      * //Nasıra. [26-02]//
+  - **İsa Şabat günü nereye gitti?**
+      * //Havraya gitti. [26-02]//
+  - **Neden havradaki insanlar İsa’ya Yeşaya Peygamber’in tomarını verdiler.**
+      * //Çünkü İsa’nın ondan okumasını istemişlerdi. [26-02]//
+  - **İsa’nın Yazı’dan okuduğu parça kime aitti?**
+      * //Mesih’e. [26-04]//
+  - **İsa okuduğu sözler hakkında ne söyledi?**
+      * //Bunların o gün gerçek olduğunu söyledi. [26-04]//
+  - **Kendi memleketindeki insanlar İsa’nın sözlerine nasıl tepki gösterdiler?**
+      * //Şaşırdılar ve “Yusuf’un oğlu değil mi bu?” dediler. [26-04]//
+  - **İsa Tanrı’nın diğer milletlerden olan insanlara yardım eden peygamberlerinden hangi misaller gösterdi.**
+      * //Tanrı İlyas Peygamber’in zamanında kuraklık sırasında bir dul kadına yardım etti ve İsrail’in düşmanlarının bir ordu komutanı olan Naaman’a şifa verdi. [26-05], [26-06]//
+  - **İnsanlar İsa’nın bu öyküleri anlatmasına nasıl tepki gösterdiler?**
+      * //Öfkeden kudurdular ve İsa’yı öldürmeye çalıştılar. [26-06], [26-07]//
+  - **İsa nasıl kalabalıktan kurtuldu?**
+      * //İsa kalabalığın arasından geçerek kenti terketti. [26-07]//
+  - **Celile’deki kalabalıklar İsa’ya nasıl tepki gösterdi?**
+      * //Şifa vermesi için O’na birçok hasta ve engelli insan getirdiler. [26-08]//
+  - **İsa cinlere insanlardan çıkmayı buyurduğunda cinler İsa’nın kim olduğunu ikrar ederlerdi?**
+      * //İsa’nın Tanrı’nın Oğlu olduğunu söylerlerdi. [26-09]//
+  - **İsa havari diye adlandırılan kaç adam seçti?**
+      * //İsa on iki havari seçti. [26-10]//
 
 **[[tr/obs/notes/questions/25|<< ]] | [[tr/obs/notes/questions/27| >>]]**

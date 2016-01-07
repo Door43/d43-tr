@@ -2,26 +2,25 @@
 
 ===== Comprehension Questions and Answers =====
 
-  - **What was God's message that Moses and Aaron gave to Pharaoh?**
-    *//"Let my people go!" [10-01]//
-  - **What did Pharaoh do when he heard this command?**
-    *//He forced the Israelites to work even harder. [10-01]//
-  - **What did God do when Pharaoh refused to let the Israelites go?**
-    *//He sent ten terrible plagues on Egypt. [10-02]//
-  - **What did God show Pharaoh through these plagues?**
-    *//That he is more powerful than Pharaoh and all of Egypt's gods. [10-02]//
-  - **What did God do to the water in the Nile River?**
-    *//God turned water in the Nile River into blood. [10-03]//
-  - **Who was affected by the plague of the painful skin sores?**
-    *//The sores appeared on the Egyptians, but not on the Israelites. [10-07]//
-  - **Did the plague of darkness affect everyone equally?**
-    *//No. It was dark where the Egyptians lived, but there was light where the Israelites lived. [10-11]//
-  - **How did Pharaoh respond to each of the first nine plagues?**
-    *//He refused to let the people go free. [10-12]//
-  - **What did God do after Pharaoh did not respond to the first nine plagues?**
-    *//God planned to send one last plague. [10-12]//
-  - **What would this last plague do that the first nine had not done?**
-    *//It would change Pharaoh's mind. [10-12]//
-
+  - **Musa ve Harun’un firavuna verecekleri Tanrı sözü neydi?**
+      * //«Halkımı salıver!» [10-01]//
+  - **Firavun bu sözü duyunca ne yaptı?**
+      * //İsraillilerin işlerini daha da ağırlaştırdı. [10-01]//
+  - **Firavun İsraillileri salıvermeyi reddedince Tanrı ne yaptı?**
+      * //Mısır’a on korkunç bela gönderdi. [10-02]//
+  - **Tanrı bu belalar vasıtasıyla firavuna ne gösterdi?**
+      * //Firavundan ve bütün Mısır ilâhlarından güçlü olduğunu gösterdi. [10-02]//
+  - **Tanrı Nil Nehri’ne ne yaptı?**
+      * //Tanrı Nil Nehri’ni kana dönüştürdü. [10-03]//
+  - **Çok ağrıyan çıbanlar belası kimi etkiledi?**
+      * //Mısırlıların bedenlerinde çok ağrıyan çıbanlar çıktı, İsraillilerin bedenlerinde ise çıkmadı. [10-07]//
+  - **Karanlık belası herkesi eşit olarak etkiledi mi?**
+      * //Hayır. Mısırlıların yaşadığı yerler karanlık, İsraillilerin yaşadığı yerlerse aydınlıktı. [10-11]//
+  - **Firavun ilk dokuz belasının her birine nasıl tepki gösterdi?**
+      * //Halkı serbest bırakmayı reddetti. [10-12]//
+  - **Firavunun ilk dokuz belasına gereken tepkiyi göstermemesi üzerine Tanrı ne yaptı?**
+      * //Tanrı son belayı göndermeyi planladı. [10-12]//
+  - **Bu son bela, ilk dokuz belanın yapamayacağı hangi işi yapacaktı?**
+      * //Firavunun fikrini değişmesine sebep olacaktı. [10-12]//
 
 **[[tr/obs/notes/questions/09|<< ]] | [[tr/obs/notes/questions/11| >>]]**

@@ -2,34 +2,33 @@
 
 ===== Comprehension Questions and Answers =====
 
-  - **How did the Israelites disobey God after Joshua died?**
-    *//They did not drive out the Canaanites, and worshiped the Canaanite gods instead of Yahweh, the true God. [16-01]//
-  - **How did God punish the Israelites for their disobedience?**
-    *//God allowed their enemies to defeat them. [16-02]//
-  - **How did God respond when the Israelites cried out for help?**
-    *//He provided a deliverer who rescued them and brought peace to the land. [16-03]//
-  - **What was Gideon doing when the angel of Yahweh came to him?**
-    *//Gideon was threshing grain secretly so the Midianites would not steal it. [16-05]//
-  - **What two signs did God do to prove that he would save Israel through Gideon?**
-    *//God made the morning dew fall only on the cloth and not the ground, and then the dew fell only on the ground and not the cloth. [16-08], [16-09]//
-  - **Why did Gideon send home all except 300 of the soldiers?**
-    *//Because God told him he had too many men. [16-10]//
-  - **What additional sign did God give Gideon so he would not be afraid?**
-    *//Gideon heard a Midianite soldier tell of his dream that Gideon's army would defeat the Midianite army. [16-11]//
-  - **What did Gideon do when he heard the Midianite soldier's dream?**
-    *//He worshiped God. [16-11]//
-  - **How did Gideon and his men attack the Midianites?**
-    *//They surrounded the Midianite camp, broke their pots to reveal their torches, and blew their horns and shouted, "A sword for Yahweh and for Gideon." [16-13]//
-  - **What did God do to help Gideon defeat the Midianites?**
-    *//God confused the Midianites so they attacked and killed each other. [16-14]//
-  - **What did Gideon do that later led the people to return to idol worship?**
-    *//He made a special garment of gold that the people later began to worship as an idol. [16-16]//
-  - **What was the pattern that Israel repeated many times?**
-    *//The Israelites would sin, God would punish them, they would repent, and God would send a deliverer to save them. [16-17]//
-  - **Why did the people ask God for a king?**
-    *//All the other nations had kings, and they wanted someone to lead them into battle. [16-18]//
-  - **How did God answer their request?**
-    *//He gave them a king just as they had asked. [16-18]//
-
+  - **Yeşu’nun ölümünden sonra İsrailliler Tanrı’ya karşı nasıl itaatsiz oldular?**
+      * //Kenanlıları ülkeden kovmadılar ve gerçek Tanrı Yahve yerine Kenan ilâhlarına taptılar. [16-01]//
+  - **Tanrı İsraillileri itaatsiz oldukları için nasıl cezalandırdı?**
+      * //Tanrı onların düşmanlarına mağlup olmalarına izin verdi. [16-02]//
+  - **Tanrı İsraillilerin yardım için yalvarışlarına nasıl karşılık verdi?**
+      * //Onları kurtaracak ve ülkeye selâmet getirecek kurtarıcı  gönderdi. [16-03]//
+  - **Yahve’nin meleği Gidyon’a geldiğinde Gidyon ne yapıyordu?**
+      * //Gidyon, Midyanlılar çalamasınlar diye gizlice buğday dövüyordu. [16-05]//
+  - **Tanrı, Gidyon’un vasıtasıyla İsrail’i kurtaracağını kanıtlamak için hangi iki alâmeti yaptı?**
+      * //Tanrı sabah çiyin yalnızca yapağının üzerine düşmesini, toprağınsa kuru kalmasını sağladı ve sonra çiy yalnız toprağa düştü, yapağıysa kuru kaldı. [16-08], [16-09]//
+  - **Neden Gidyon 300 asker hariç herkesi eve gönderdi?**
+      * //Çünkü Tanrı ona çok fazla adamı olduğunu söyledi. [16-10]//
+  - **Tanrı Gidyon’a korkmasın diye daha hangi alâmet verdi?**
+      * //Gidyon, Midyanlı bir askerin, Gidyon’un ordusunun Midyanlıların ordusunu mağlup edeceği konusunda gördüğü rüyayı arkadaşına anlattığını duydu. [16-11]//
+  - **Gidyon bu Midyanlı askerin anlattığı rüyayı duyunca ne yaptı?**
+      * //Tanrı’ya tapındı. [16-11]//
+  - **Gidyon ve askerleri Midyanlılara nasıl saldırdılar?**
+      * //Midyanlıların ordugâhını kuşattılar, çıralarının ışığıyla ortalığı aydınlatmak için testilerini kırdılar, borularını çaldılar ve, “Yahve’nin ve Gidyon’un kılıcı!” diye bağırdılar. [16-13]//
+  - **Tanrı Gidyon’un Midyanlıları bozguna uğratmasına yardım etmek için ne yaptı?**
+      * //Tanrı Midyanlıları şaşkına çevirdi, onlar birbirine saldırıp birbirini öldürdüler. [16-14]//
+  - **Gidyon’un daha sonra yaptığı hangi iş halkın yine putlara tapınmasına sebep oldu?**
+      * //Gidyon altından özel bir giysi yaptırdı ve halk daha sonra bu giysiye bir put olarak tapınmaya başladı. [16-16]//
+  - **İsraillilerin defalarca tekrarladıkları durum nedir?**
+      * //İsrailliler günah işler, Tanrı onları cezalandırır, onlar tövbe eder ve Tanrı onları kurtaracak bir kurtarıcı gönderir. [16-17]//
+  - **Neden halk Tanrı’dan onlara da bir kral vermesini istedi?**
+      * //Diğer milletlerin hepsinde kral vardı ve onlar kendilerini savaşa götürecek birini istediler. [16-18]//
+  - **Tanrı bu dileklerine nasıl karşılık verdi?**
+      * //O onlara istedikleri kralı verdi. [16-18]//
 
 **[[tr/obs/notes/questions/15|<< ]] | [[tr/obs/notes/questions/17| >>]]**

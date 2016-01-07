@@ -2,32 +2,31 @@
 
 ===== Comprehension Questions and Answers =====
 
-  - **What question did the expert in the Jewish law ask Jesus?**
-    *//“Teacher, what must I do to inherit eternal life?” [27-01]//
-  - **What question did Jesus ask the expert in response?**
-    *//He asked, "What is written in God's law?" [27-01]//
-  - **Who does God's law say we should love?**
-    *//The Lord our God and our neighbor. [27-02]//
-  - **Why did the expert in the Jewish law ask who his neighbor was?**
-    *//He wanted to prove that he was righteous. [27-03]//
-  - **In Jesus’ story, what happened to the Jewish man while he was traveling?**
-    *//He was attacked by robbers, who took everything he had, and beat him until he was almost dead. [27-05]//
-  - **Who was the first person to see the wounded man?**
-    *//A Jewish priest. [27-06]//
-  - **What did the priest do when he saw the wounded man?**
-    *//He ignored him and passed by on the other side of the road. [27-06]//
-  - **Who was the second person to see the wounded man and pass by?**
-    *//A Levite. [27-07]//
-  - **What did the Levite do when he saw the wounded man?**
-    *//He ignored him and passed by on the other side of the road. [27-07]//
-  - **Who was the third person to see the wounded man?**
-    *//A Samaritan. [27-08]//
-  - **What was the relationship between Jews and Samaritans?**
-    *//They hated each other. [27-08]//
-  - **How did the Samaritan help the wounded man?**
-    *//He bandaged his wounds, took him to a roadside inn, and took care of him. [27-09], [27-10]//
-  - **Which of the three men acted like a neighbor to the wounded man?**
-    *//The Samaritan who was merciful to him. [27-11]//
-
+  - **Tevrat bilgini İsa’ya ne sordu?**
+      * //“Hocam, ebedî hayatı miras almak için ne yapmalıyım?” [27-01]//
+  - **Bunun karşılığında İsa Tevrat bilginine ne sordu?**
+      * //İsa ona “Tevrat’ta ne yazılmıştır?” diye sordu. [27-01]//
+  - **Tanrı’nın yasasına göre kimi sevmemiz gerekir?**
+      * //Tanrın Rab’bi ve komşunu. [27-02]//
+  - **Neden Tevrat bilgini “Komşum kim?” diye sordu?**
+      * //O, sâlih olduğunu kanıtlamak istiyordu. [27-03]//
+  - **İsa’nın öyküsünde Yahudi adamın yolculuğu sırasında başına ne olay geldi?**
+      * //Haydutlar ona saldırdılar, elindeki her şeyi alıp götürdüler, kendisini dövdüler, yarı ölü bırakıp gittiler. [27-05]//
+  - **Yaralı adamı gören birinci adam kimdi?**
+      * //Yahudi bir kâhin. [27-06]//
+  - **Kâhin yaralı adamı görünce ne yaptı?**
+      * //Adamı ihmal etti ve yolun öbür yanına geçti. [27-06]//
+  - **Yaralı adamı gören ikinci adam kimdi?**
+      * //Bir Levili. [27-07]//
+  - **Levili yaralı adamı görünce ne yaptı?**
+      * //Adamı ihmal etti ve yolun öbür yanına geçti. [27-07]//
+  - **Yaralı adamı gören üçüncü adam kimdi?**
+      * //Bir Samiriyeli. [27-08]//
+  - **Yahudiler ile Samiriyeliler arasındaki ilişkiler nasıldı?**
+      * //Birbirinden nefret ediyorlardı. [27-08]//
+  - **Samiriyeli, yaralı adama nasıl yardım etti?**
+      * //Yaralarını sardı, onu bir hana götürdü ve onunla ilgilendi. [27-09], [27-10]//
+  - **O üç adamdan hangisi yaralı adama komşu gibi davrandı?**
+      * //Ona acıyan Samiriyeli. [27-11]//
 
 **[[tr/obs/notes/questions/26|<< ]] | [[tr/obs/notes/questions/28| >>]]**

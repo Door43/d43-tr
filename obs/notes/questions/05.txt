@@ -2,36 +2,35 @@
 
 ===== Comprehension Questions and Answers =====
 
-  - **Why did Sarai think she would not have children?**
-    *//She was too old. [05-01]//
-  - **What did Sarai tell Abram to do in order to have a child?**
-    *//Marry her servant Hagar, so Hagar could have a child for her. [05-01]//
-  - **What was the name of Hagar's child?**
-    *//Ishmael. [05-02]//
-  - **What problem happened between Sarai and Hagar?**
-    *//Sarai became jealous of Hagar. [05-02]//
-  - **What covenant promises did God make to Abram?**
-    *//Abram would be the father of many nations, and God would give the land of Canaan to him and to his descendants. [05-03]//
-  - **What did God tell Abram to do as a sign of the covenant between them?**
-    *//Circumcise every male in his family. [05-03]//
-  - **Who did God say would be the son of the promise?**
-    *//Isaac, Sarai's son. [05-04]//
-  - **Who did God say would become a great nation?**
-    *//Both Isaac and Ishmael. [05-04]//
-  - **What did Abram's new name, Abraham, mean?**
-    *//Father of many. [05-04]//
-  - **What did God ask Abraham to do to Isaac when Isaac was a young man?**
-    *//God asked Abraham to sacrifice Isaac to him. [05-06]//
-  - **Why did God ask Abraham to sacrifice Isaac?**
-    *//To test Abraham's faith. [05-06]//
-  - **What did Abraham tell Isaac was the reason they did not have a lamb for the sacrifice?**
-    *//Abraham said God would provide the lamb for the sacrifice. [05-07]//
-  - **Did God want Abraham to kill Isaac?**
-    *//No. He only wanted to see if Abraham would obey him. [05-08]//
-  - **What did God provide as a sacrifice instead of Isaac?**
-    *//He provided a ram stuck in a bush. [05-09]//
-  - **What did God promise to do for Abraham because Abraham had obeyed him?**
-    *//He promised that Abraham's descendents would be more than the stars in the sky, and that all the families of the world would be blessed through his family. [05-10]//
-
+  - **Neden Saray çocuk sahibi olamayacağını düşündü?**
+      * //Çocuk sahibi olacak yaşta olmadığı için. [05-01]//
+  - **Saray çocuk sahibi olmak için Avram’a ne teklifte bulundu?**
+      * //Cariyesi Hacer’le evlensin ve Hacer Saray için çocuk doğursun. [05-01]//
+  - **Hacer’in çocuğunun adı neydi?**
+      * //İsmail. [05-02]//
+  - **Saray ile Hacer arasında ne sorun ortaya çıktı?**
+      * //Saray Hacer’e kıskanmaya başladı. [05-02]//
+  - **Tanrı Avram’a ahdinde ne vaatler verdi?**
+      * //Avram birçok milletin babası olacak ve Tanrı Kenan toprağını ona ve onun soyuna verecek. [05-03]//
+  - **Tanrı Avram’a ahdinin belirtisi olarak ne yapmasını buyurdu?**
+      * //Ailesinde her erkeği sünnet etmesini. [05-03]//
+  - **Tanrı kimin vadedilen oğul olduğunu söyledi?**
+      * //Saray’ın oğlu İshak’ın. [05-04]//
+  - **Tanrı kimin büyük millet olacağını söyledi?**
+      * //Hem İshak’ın hem de İsmail’in. [05-04]//
+  - **Avram’ın yeni adı İbrahim ne anlama gelir?**
+      * //Birçok milletin babası. [05-04]//
+  - **İshak hâlâ çocuk iken Tanrı İbrahim’den ne yapmasını istedi?**
+      * //Tanrı İbrahim’den İshak’ı O’na kurban olarak sunmasını istedi. [05-06]//
+  - **Neden Tanrı İbrahim’den İshak’ı O’na kurban olarak sunmasını istedi?**
+      * //İbrahim’in imanını denemek için. [05-06]//
+  - **İbrahim kurbanlık kuzunun olmayışının nedenini İshak’a nasıl açıkladı?**
+      * //İbrahim Tanrı’nın kurbanlık kuzuyu sağlayacağını söyledi. [05-07]//
+  - **Tanrı İbrahim’in İshak’ı öldürmesini istedi mi?**
+      * //Hayır. O sadece İbrahim’in O’na itaat edip etmeyeceğini görmek istedi. [05-08]//
+  - **Tanrı, İshak’ın yerine kurban olarak ne sağladı?**
+      * //Boynuzları çalılara takılmış bir koç sağladı. [05-09]//
+  - **İbrahim Tanrı’ya itaat ettiği için Tanrı onun için ne yapacağını vadetti?**
+      * //İbrahim’in soyunun gökteki yıldızlar kadar çok olacağını ve yeryüzünün bütün milletlerinin onun milleti aracılığıyla kutsanacağını vadetti. [05-10]//
 
 **[[tr/obs/notes/questions/04|<< ]] | [[tr/obs/notes/questions/06| >>]]**

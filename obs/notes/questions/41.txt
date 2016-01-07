@@ -2,29 +2,27 @@
 
 ===== Comprehension Questions and Answers =====
 
-
-  - **What had Jesus said would happen three days after his death?**
-    *//He would rise from the dead. [41-01]//
-  - **What did the Jewish leaders think of Jesus' prediction that he would rise again?**
-    *//They thought he was a liar. [41-01]//
-  - **What were the Jewish leaders afraid that the disciples would do?**
-    *//They thought the disciples would steal the body and claim Jesus had risen from the dead. [41-01]//
-  - **What did the Jewish leaders do to secure Jesus’ tomb?**
-    *//They placed soldiers to guard the tomb and put a seal on the stone at the entrance of the tomb. [41-02]//
-  - **When did the women go to Jesus’ tomb?**
-    *//Very early on the morning after the Sabbath day. [41-03]//
-  - **What miraculous events happened at the tomb before the women arrived there?**
-    *//There was an earthquake and an angel appeared, rolled away the stone, and sat on it. [41-04]//
-  - **What did the soldiers do when they saw that angel?**
-    *//They were terrified and fell to the ground like dead men. [41-04]//
-  - **What did the angel say to the women when they arrived at the tomb?**
-    *//Do not be afraid. Jesus has risen from the dead. Look in the tomb and see. [41-05]//
-  - **What did the angel tell the women to say to the disciples?**
-    *//He told them to tell the disciples that Jesus has risen from the dead, and that he would go to Galilee ahead of them. [41-06]//
-  - **Who appeared to the women as they were on their way to speak to the disciples?**
-    *//Jesus appeared to them. [41-08]//
-  - **What did the women do when they saw Jesus?**
-    *//They worshiped him. [41-08]//
-
+  - **İsa ölümünden üç gün sonra ne olacağını söyledi?**
+      * //Ölümden dirileceğini. [41-01]//
+  - **Yahudi ileri gelenleri İsa’nın ölümden dirileceğine dair önbildirisi hakkında ne düşündüler?**
+      * //İsa’nın yalancı olduğunu düşündüler. [41-01]//
+  - **Yahudi ileri gelenleri havarilerin ne yapacaklarından korkuyorlardı?**
+      * //Havarilerin İsa’nın cesedini çalıp ölümden dirileceğini ilan edeceklerini düşünüyorlardı. [41-01]//
+  - **Yahudi ileri gelenleri İsa’nın mezarını emniyet altına almak için ne yaptılar?**
+      * //Mezarı korumak için askerleri diktiler ve mezarın girişindeki taşı mühürlediler. [41-02]//
+  - **Kadınlar ne zaman İsa’nın mezarına gittiler?**
+      * //Şabat Günü’nden sonraki günün sabahı çok erkenden. [41-03]//
+  - **Kadınlar mezara yetişmeden önce orada hangi mucizeler oldu?**
+      * //Deprem oldu, melek göründü, mezarın girişini kapayan taşı yana yuvarlayıp üstünde oturdu. [41-04]//
+  - **Askerler meleği görünce ne yaptılar?**
+      * //Korkuya düştüler ve ölü gibi yere yığıldılar. [41-04]//
+  - **Kadınlar mezara varınca melek onlara ne dedi?**
+      * //“Korkmayın! İsa ölümden dirildi! Mezarın içine bakın, görün.” [41-05]//
+  - **Melek kadınlara havarilere ne söylemelerini buyurdu?**
+      * //Melek onlara İsa’nın ölümden dirilmiş olduğunu ve onlardan önce Celile’ye gideceğini söylemelerini buyurdu. [41-06]//
+  - **Kadınlar havarilerle konuşmaya koşarken yolda onlara kim göründü? **
+      * //Onlara İsa göründü. [41-08]//
+  - **Kadınlar İsa’yı görünce ne yaptılar?**
+      * //O’na tapındılar. [41-08]//
 
 **[[tr/obs/notes/questions/40|<< ]] | [[tr/obs/notes/questions/42| >>]]**

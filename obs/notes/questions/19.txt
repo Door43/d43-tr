@@ -2,38 +2,37 @@
 
 ===== Comprehension Questions and Answers =====
 
-  - **Where did the prophets get the messages that they spoke to the people?**
-    *//They heard the messages from God. [19-01]//
-  - **What prophecy did Elijah speak to King Ahab?**
-    *//“There will be no rain or dew in the kingdom of Israel until I say so.” [19-02]//
-  - **How did God provide for Elijah in the wilderness where he was hiding?**
-    *//God sent birds every morning and evening with bread and meat. [19-03]//
-  - **How did God provide for Elijah when he lived with the widow and her son?**
-    *//God caused their flour jar and bottle of oil to never become empty. [19-04]//
-  - **What great evil did Elijah say that Ahab had committed?**
-    *//Ahab had abandoned Yahweh, the true God, and had worshiped Baal. [19-05]//
-  - **What choice did Elijah tell the people they must make?**
-    *//If Yahweh is God, serve him, but if Baal is God, serve him. [19-06]//
-  - **How did God demonstrate he was the real God?**
-    *//God sent fire from the sky and burned up the meat, the wood, the rocks, the dirt, and the water around the altar. [19-11]//
-  - **How did the people respond when they saw this demonstration of power?**
-    *//They fell on the ground and said, “Yahweh is God! Yahweh is God!” [19-11]//
-  - **What happened to the prophets of Baal?**
-    *//They were taken away and killed. [19-12]//
-  - **What did Elisha tell Naaman to do to in order to heal his skin disease?**
-    *//Dip himself seven times in the Jordan River. [19-14]//
-  - **What did Naaman do after he heard Elisha’s instructions?**
-    *//At first he was angry and would not do it because it seemed foolish, but later he changed his mind and did it, and was completely healed. [19-15]//
-  - **What was the common message of the prophets to the people?**
-    *//Stop worshiping idols and show justice and mercy to others; otherwise, God will punish you. [19-16]//
-  - **In general, how did the people treat the prophets?**
-    *//The people mistreated the prophets and sometimes even killed them. [19-17]//
-  - **How did the people mistreat the prophet Jeremiah?**
-    *//The people put Jeremiah in a dry well and left him there to die. [19-17]//
-  - **Did Jeremiah die in the well?**
-    *//No. The king had mercy on him and had his servants pull Jeremiah out. [19-17]//
-  - **The prophets reminded the people that God would send a special person. Who was that person?**
-    *//The person that God would send was the Messiah. [19-18]//
-
+  - **Peygamberler halka ilettikleri sözleri nereden alırlardı?**
+      * //Tanrı’nın sesini duyarlardı. [19-01]//
+  - **İlyas Krav Ahav’a ne peygamberlik etti?**
+      * //“Ben söylemedikçe İsrail Krallığı’nda ne yağmur yağacak ne de çiy düşecek!” [19-02]//
+  - **İlyas çölde saklanırken Tanrı onu nasıl kayırdı?**
+      * //Tanrı ona her sabah ve her akşam ekmekle et getiren kuşlar gönderdi. [19-03]//
+  - **İlyas oğluyla yaşayan dul kadının evinde kalırken Tanrı onu nasıl kayırdı?**
+      * //Tanrı onların küplerinden unun, çömleklerinden yağın hiç eksilmemesini sağladı. [19-04]//
+  - **İlyas Ahav’ın yaptığı hangi büyük kötülükten bahsetti?**
+      * //Ahav gerçek Tanrı Yahve’yi terketti ve Baal’a tapındı. [19-05]//
+  - **İlyas halka hangi seçimi yapması gerektiğini söyledi?**
+      * //Eğer Yahve Tanrı’ysa ona hizmet edin! Yok eğer Baal Tanrı’ysa ona hizmet edin! [19-06]//
+  - **Tanrı kendisinin gerçek Tanrı olduğunu nasıl kanıtladı?**
+      * //Tanrı gökten ateş yolladı ve eti, odunu, taşları, toprağı ve sunağın çevresindeki suyu yaktı. [19-11]//
+  - **İnsanlar kudretin sergilenmesini görünce nasıl tepki gösterdiler?**
+      * //Yüzüstü yere kapanarak, “Yahve Tanrı’dır! Yahve Tanrı’dır!” dediler. [19-11]//
+  - **Baal’ın peygamberlerine ne oldu?**
+      * //Onlar bir yere götürülüp orada öldürüldüler. [19-12]//
+  - **Elişa Naaman’a deri hastalığının iyileşmesi için ne yapmasını buyurdu?**
+      * //Şeria Nehri’nde yedi kez suya dalmasını buyurdu. [19-14]//
+  - **Naaman Elişa’nın buyruğunu duyduktan sonra ne yaptı?**
+      * //Önce öfkelenip bu işi budalaca olduğu için yapmayacağını söyledi, fakat biraz sonra fikrini değişip bunu yaptı ve tamamen şifa buldu. [19-15]//
+  - **Peygamberler genelde insanlara ne buyururlardı?**
+      * //Putlara tapmaktan vazgeçmesini ve insanlara adalet ve merhametle davranmasını buyururlardı, aksi hâlde Tanrı onları cezalandıracaktı. [19-16]//
+  - **İnsanlar genelde peygamberlere nasıl davranırlardı?**
+      * //İnsanlar peygamberlere kötü davranır, bazen onları öldürürlerdi. [19-17]//
+  - **Yeremya Peygamber’e nasıl kötülük yaptılar?**
+      * //İnsanlar Yeremya Peygamber’i sarnıca attılar ve ölmesi için orada bıraktılar. [19-17]//
+  - **Yeremya sarnıçta öldü mü?**
+      * //Hayır. Kral ona acıdı ve onun sarnıçtan çıkarılmasını emretti. [19-17]//
+  - **Peygamberler Tanrı’nın özel bir adamı göndereceğini halka hatırlatırlardı. O adam kimdi?**
+      * //Tanrı’nın göndereceği adam Mesih’ti. [19-18]//
 
 **[[tr/obs/notes/questions/18|<<  ]] | [[tr/obs/notes/questions/20| >>]]**

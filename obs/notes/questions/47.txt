@@ -2,33 +2,31 @@
 
 ===== Comprehension Questions and Answers =====
 
-
-  - **What was the Roman name that Saul began to use?**
-    *//Paul. [47-01]//
-  - **Where did Paul go in Philippi to proclaim the good news about Jesus?**
-    *//They went to a place by the river outside the city where people gathered to pray. [47-01]//
-  - **What made it possible for Lydia to believe in Jesus?**
-    *//God made it possible for Lydia to understand the message about Jesus. [47-02]//
-  - **What did Paul and Silas do to Lydia after she believed?**
-    *//They baptized Lydia and her family. [47-02]//
-  - **What did the demon-possessed slave girl keep yelling when she saw Paul and Silas?**
-    *//“These men are servants of the Most High God. They are telling you the way to be saved!” [47-04]//
-  - **How did Paul respond to the demon's testimony?**
-    *//Paul became annoyed and commanded the demon to leave the slave girl. [47-04], [47-05]//
-  - **Why were the owners of the slave girl angry that the demon was gone?**
-    *//They realized that people would no longer pay money for her to tell people the future. [47-06]//
-  - **What were Paul and Silas doing in the middle of the night in jail?**
-    *//They were singing songs of praise to God. [47-08]//
-  - **What happened while Paul and Silas were singing?**
-    *//There was a violent earthquake, the prison doors flew open, and the chains of the prisoners fell off. [47-09]//
-  - **Why was the jailer terrified?**
-    *//He thought all the prisoners had escaped, and that the Roman authorities would kill him. [47-10]//
-  - **What question did the jailer ask Paul?**
-    *//“What must I do to be saved?” [47-11]//
-  - **What did Paul say the jailer had to do in order to be saved?**
-    *//He had to believe in Jesus, the Master. [47-11]//
-  - **What happened to some of the letters Paul and other Christian leaders wrote to the believers in the churches?**
-    *//Some of these letters became books of the Bible. [47-14]//
-
+  - **Saul’un kullanmaya başladığı Romalı adı neydi?**
+      * //Pavlus. [47-01]//
+  - **Pavlus İsa’yla ilgili sevindirici haberi ilan etmek üzere Filipi’nin neresine gitti?**
+      * //Kentin dışında bulunan ırmak kıyısında insanların dua etmek için toplandıkları yere gitti. [47-01]//
+  - **Lidya’nın İsa’ya iman etmesi nasıl mümkün oldu?**
+      * //Tanrı, Lidya’nın İsa’yla ilgili haberi anlamasını sağladı. [47-02]//
+  - **Lidya iman ettikten sonra Pavlus’la Silas ona ne yaptılar?**
+      * //Lidya’yı ve ev halkını vaftiz ettiler. [47-02]//
+  - **Cine tutulmuş köle kız Pavlus’la Silas’ı gördüğünde ne bağırıp duruyordu?**
+      * //“Bu adamlar ulu Tanrı’nın kullarıdır! Size kurtuluş yolunu öğretiyorlar!” [47-04]//
+  - **Pavlus cinin bu şahadetine nasıl tepki verdi?**
+      * //Pavlus rahatsız oldu ve cine köle kızdan çıkmasını emretti. [47-04], [47-05]//
+  - **Neden köle kızın sahipleri cinin ondan çıkmasına çok öfkelendiler?**
+      * //Çünkü insanların, gelecekten haber vermesi için kızın efendilerine artık para vermeyeceklerini anlamışlardı. [47-06]//
+  - **Zindanda yatan Pavlus ve Silas gece yarısında ne yaptılar?**
+      * //Tanrı’ya hamt şarkıları söylediler. [47-08]//
+  - **Pavlus ve Silas söylerken ne oldu?**
+      * //Şiddetli bir deprem oldu, zindanın kapıları açıldı ve mahpusların zincirleri çözüldü. [47-09]//
+  - **Zindancı neden dehşete düştü?**
+      * //Bütün mahpusların kaçmış olduğunu ve Romalı yetkililerin kendisini öldüreceğini düşündüğü için. [47-10]//
+  - **Zindancı Pavlus’a ne sordu?**
+      * //“Kurtulmak için ne yapmalıyım?” [47-11]//
+  - **Pavlus zindancının kurtulmak için ne yapması gerektiğini söyledi?**
+      * //Rab İsa’ya iman etmesi gerektiğini söyledi. [47-11]//
+  - **Pavlus’la diğer kilise önderlerinin kilisedeki imanlılara yazdıkları bazı mektuplar ne oldu?**
+      * //Bazı mektupları Kutsal Kitap’a dahil oldu. [47-14]//
 
 **[[tr/obs/notes/questions/46|<< ]] | [[tr/obs/notes/questions/48| >>]]**

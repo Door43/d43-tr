@@ -2,34 +2,33 @@
 
 ===== Comprehension Questions and Answers =====
 
-  - **When it was time to enter the Promised Land, what did Joshua do first**
-    *//He sent two spies to Jericho. [15-01]//
-  - **What did the spies promise to do for Rahab the prostitute?**
-    *//They promised to protect Rahab and her family when the Israelites destroyed the city. [15-01]//
-  - **How were the Israelites able to cross the Jordan River?**
-    *//When the priests started to step into the Jordan River, the water stopped flowing. [15-02]//
-  - **How did the Israelites attack Jericho?**
-    *//They marched around the city once a day for six days, then on the seventh day they marched around the city seven more times. While they marched around the city for the last time, the soldiers shouted while the priests blew trumpets. [15-03], [15-04]//
-  - **What happened when the soldiers shouted and the priests blew trumpets?**
-    *//The walls of Jericho fell down so the Israelites could destroy everything in the city. [15-05]//
-  - **What happened to Rahab and her family?**
-    *//They were not killed, and became part of the Israelites. [15-05]//
-  - **How did the Gibeonites trick the Israelites into making a peace treaty with them?**
-    *//They said they were from a place far from Canaan. [15-06]//
-  - **Why did Joshua and the Israelites not know the Gibeonites were lying?**
-    *//They did not ask God. [15-06]//
-  - **Why did the Israelites keep the peace treaty and defend the Gibeonites?**
-    *//Because they had made a promise before God. [15-07]//
-  - **How did God fight for the Israelites against the Amorites?**
-    *//He confused the Amorites, sent large hailstones on them, and caused the sun to stay in one place so the Israelites had enough time to completely defeat them. [15-09], [15-10]//
-  - **What did Joshua and the Israelites do to the other Canaanite people groups who attacked them?**
-    *//Joshua and the Israelites destroyed them. [15-11]//
-  - **How was the Promised Land divided?**
-    *//God gave each of the twelve tribes of Israel its own section. [15-12]//
-  - **Why did Joshua call the Israelites together when he was old?**
-    *//To remind them of their obligation to obey the covenant that God had made with them. [15-13]//
-  - **How did the Israelites answer Joshua?**
-    *//They promised to remain faithful to God and to follow his laws. [15-13]//
-
+  - **Tanrı’nın vadettiği ülkeye girme zamanı geldiğinde Yeşu ilk önce ne yaptı?**
+      * //Eriha kentine iki casus gönderdi. [15-01]//
+  - **Casuslar, fahişe Rahav’a ne yapacaklarına söz verdiler?**
+      * //İsrailliler kenti yok ederken Rahav’la ailesini koruyacaklarına söz verdiler. [15-01]//
+  - **İsrailliler Şeria Nehri’ni nasıl geçebildiler?**
+      * //Kâhinler Şeria Nehri’ne ayak basınca yukarıdan gelen sular durdu. [15-02]//
+  - **İsrailliler Eriha kentine nasıl saldırdılar?**
+      * //Onlar kenti altı gün birer kez dolandılar, sonra yedinci günde kenti yedi kez daha dolandılar. Sonuncu kez dolanırken askerler bağırdılar, kâhinler de boru çaldılar. [15-03], [15-04]//
+  - **Askerler bağırınca ve kâhinler boru çalınca ne oldu?**
+      * //Eriha’nın surları çöktü ve İsrailliler kentteki her şeyi yok edebildiler. [15-05]//
+  - **Rahav’la ailesine ne oldu?**
+      * //Onlar öldürülmediler, fakat İsraillilere katıldılar. [15-05]//
+  - **Givonlular İsraillileri onlarla barış yapmaya nasıl kandırdılar?**
+      * //Kenan’dan çok uzakta yaşadıklarını söylediler. [15-06]//
+  - **Neden Yeşu’yla İsrailliler Givonluların yalan söylediklerini bilmediler?**
+      * //Çünkü Tanrı’ya sormadılar. [15-06]//
+  - **Neden İsrailliler Givonlularla barış içinde kaldılar ve onları savundular?**
+      * //Tanrı’nın önünde yemin ettikleri için. [15-07]//
+  - **Tanrı, İsrail için Amorlulara karşı nasıl savaştı?**
+      * //Tanrı Amorluları şaşkına çevirdi, onların üzerine iri iri dolu yağdırdı ve İsraillilerin Amorluları tamamen bozguna uğratabilmeleri için güneşin gökte aynı yerde durmasını sağladı. [15-09], [15-10]//
+  - **Yeşu’yla İsrailliler onlara saldıran bir başka Kenan halkına ne yaptılar?**
+      * //Yeşu’yla İsrailliler o halkı bozguna uğrattılar. [15-11]//
+  - **Tanrı’nın vadettiği ülke nasıl bölündü?**
+      * //Tanrı, İsrail’in on iki oymağının her birine belirli bir kısmı verdi. [15-12]//
+  - **Neden Yeşu yaşlandığında İsrail halkını topladı?**
+      * //Tanrı’nın onlarla yaptığı ahde sadık kalmaları gerektiğini onlara hatırlatmak için. [15-13]//
+  - **İsrailliler Yeşu’ya nasıl cevap verdiler?**
+      * //Tanrı’ya sadık kalacaklarına ve yasalarına uyacaklarına söz verdiler. [15-13]//
 
 **[[tr/obs/notes/questions/14|<< ]] | [[tr/obs/notes/questions/16| >>]]**

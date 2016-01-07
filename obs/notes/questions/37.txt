@@ -2,33 +2,31 @@
 
 ===== Comprehension Questions and Answers =====
 
-
-  - **What did Jesus say would be the end result of Lazarus’ sickness?**
-    *//It would be for the glory of God. [37-01]//
-  - **What did Jesus do after he heard about Lazarus’ sickness?**
-    *//He waited where he was for two more days. [37-01]//
-  - **Why were the disciples concerned when Jesus decided to go to Judea?**
-    *//Because the people there wanted to kill him. [37-02]//
-  - **What did the disciples think Jesus meant when he said that Lazarus had fallen asleep?**
-    *//They thought he was just asleep and would get better. [37-03]//
-  - **What did Jesus plainly tell the disciples about Lazarus?**
-    *//Jesus said that Lazarus had died. [37-03]//
-  - **Why was Jesus glad that he was not there when Lazarus died?**
-    *//Because something would happen that would make the disciples believe in Jesus. [37-03]//
-  - **Did Martha believe that Jesus could have healed Lazarus?**
-    *//Yes. [37-04]//
-  - **What will happen to believers because Jesus is the Resurrection and the Life?**
-    *//Whoever believes in him will live, even though he dies, and everyone who believes in him will never die. [37-05]//
-  - **Who did Martha believe that Jesus was?**
-    *//The Messiah, the Son of God. [37-05]//
-  - **How long had Lazarus been dead?**
-    *//He had been dead for four days. [37-04], [37-07]//
-  - **Why did Jesus thank the Father out loud?**
-    *//He did that so the people would believe that the Father had sent him. [37-09]//
-  - **What did Jesus command Lazarus to do?**
-    *//He commanded Lazarus to come out of the tomb! [37-09]//
-  - **How did the religious leaders of the Jews react when they saw the miracle?**
-    *//They became jealous and planned to kill Jesus and Lazarus. [37-11]//
-
+  - **İsa Lazar’ın hastalığının sonucunun nasıl olacağını söyledi?**
+      * //Tanrı’ya izzet getireceğini söyledi. [37-01]//
+  - **İsa Lazar’ın hasta olduğu haberi aldıktan sonra ne yaptı?**
+      * //İsa bulunduğu yerde iki gün kalıp bekledi. [37-01]//
+  - **Neden İsa’nın Yahudiye’ye gitme kararı havarileri endişelendirdi?**
+      * //Çünkü Yahudiye’deki insanlar O’nu öldürmek istemişlerdi. [37-02]//
+  - **İsa Lazar’ın uyumuş olduğunu söylediğinde havariler İsa’nın ne kastettiğini zannettiler?**
+      * //Lazar’ın uyuduğu için iyileşeceğini zannettiler. [37-03]//
+  - **İsa havarilere Lazar hakkında açıkça ne söyledi?**
+      * //İsa Lazar’ın öldüğünü söyledi. [37-03]//
+  - **Neden İsa, Lazar öldüğü zaman orada olmadığına sevindi?**
+      * //Çünkü bu vesileyle havarilerin İsa’ya iman etmesine sebep olacak bir olay gerçekleşecekti. [37-03]//
+  - **Marta İsa’nın Lazar’a şifa verebildiğine inanıyor muydu?**
+      * //Evet. [37-04]//
+  - **İsa diriliş ve hayat olduğu için imanlılar ne olacaklar?**
+      * //O’na iman edenler ölse bile yaşayacak ve O’na iman eden herkes asla ölmeyecek! [37-05]//
+  - **Marta İsa’nın kim olduğuna iman ediyordu?**
+      * //Tanrı’nın Oğlu Mesih. [37-05]//
+  - **Lazar öleli kaç gün olmuştu?**
+      * //Öleli dört gün olmuştu. [37-04], [37-07]//
+  - **Neden İsa yüksek sesle Baba’ya şükretti?**
+      * //İnsanlar Baba’nın O’nu gönderdiğine iman etsinler diye bunu yaptı. [37-09]//
+  - **İsa Lazar’a ne buyurdu?**
+      * //Mezardan dışarı çıkmasını buyurdu. [37-09]//
+  - **Yahudi din alimleri bu mucizeyi görünce nasıl tepki gösterdiler?**
+      * //İsa’yı kıskandılar ve İsa’yı ve Lazar’ı öldürmek için düzen kurdular. [37-11]//
 
 **[[tr/obs/notes/questions/36|<< ]] | [[tr/obs/notes/questions/38| >>]]**

@@ -2,34 +2,33 @@
 
 ===== Comprehension Questions and Answers =====
 
-  - **Where did God lead the Israelites after they crossed the Red Sea?**
-    *//He lead them to a mountain called Sinai. [13-01]//
-  - **What did God promise the Israelites that they would become if they would obey him?**
-    *//They would be his prized possession, a kingdom of priests, and a holy nation. [13-02]//
-  - **What signs accompanied God when he came down on Mount Sinai?**
-    *//Thunder, lightning, smoke, and a loud trumpet blast. [13-03]//
-  - **What would God do to the Israelites if they disobeyed his commandments?**
-    *//He would punish them. [13-07]//
-  - **What did God tell the Israelites to build for him?**
-    *//He told them to make the Tent of Meeting. [13-08]//
-  - **Who could enter into the room behind the curtain where God lived?**
-    *//Only the high priest. [13-08]//
-  - **How could the people cover their sin?**
-    *//They could bring an animal for the priests to sacrifice. The blood of the sacrifice would cover their sin. [13-09]//
-  - **Who did God choose to be his priests?**
-    *//Aaron and his descendants. [13-09]//
-  - **What did the people do when they got tired of waiting for Moses to return from Mount Sinai?**
-    *//They asked Aaron to make a gold idol, and then they worshiped it and made sacrifices to it. [13-11], [13-12]//
-  - **Why did God not destroy the Israelites when they disobeyed?**
-    *//Because Moses prayed for them. [13-12]//
-  - **What happened to the stones on which God had written the Ten Commandments?**
-    *//Moses was angry and smashed the stones. [13-13]// 
-  - **What did Moses do to the idol?**
-    *//He beat the idol into powder, threw it into water, and made the people drink the water. [13-14]//
-  - **How were the stones with the Ten Commandments replaced?**
-    *//Moses wrote the Ten Commandments on new stone tablets. [13-15]//
-  - **Where did the Israelites go after Mount Sinai?**
-    *//God led the Israelites toward the Promised Land. [13-15]//
-
+  - **İsrailliler Kızıldeniz’in içinden geçtikten sonra Tanrı onları nereye getirdi?**
+      * //Onları Sina Dağı adındaki bir dağa getirdi. [13-01]//
+  - **Tanrı İsrail halkına, sözüne itaat ederse ne olacağını vadetti?**
+      * //Onun çok kıymetli hazinesi, kâhinler krallığı, kutsal bir millet olacağını vadetti. [13-02]//
+  - **Tanrı’nın Sina Dağı’na inmesine hangi belirtiler eşlik etti?**
+      * //Gök gürültüsü, şimşek, duman ve güçlü bir boru sesi. [13-03]//
+  - **İsrailliler Tanrı’nın emirlerine uymadıkları takdirde Tanrı onlara ne yapacaktı?**
+      * //Onları cezalandıracaktı. [13-07]//
+  - **Tanrı İsraillilere O’nun için ne yapmayı buyurdu?**
+      * //Buluşma Çadırı kurmalarını söyledi. [13-08]//
+  - **Tanrı’nın yaşadığı perdenin arkasındaki odaya kim girebilirdi?**
+      * //Sadece baş kâhin. [13-08]//
+  - **İnsanlar kendi günahlarını nasıl örtebilirlerdi?**
+      * //Kâhinlerin kurban olarak sunmaları için bir hayvan verebilirlerdi. Hayvanın kanı onların günahını örterdi. [13-09]//
+  - **Tanrı kimi kâhinler olmak üzere seçti?**
+      * //Harun’u ve soyunu. [13-09]//
+  - **Musa’nın Sina Dağı’ndan dönüşünü beklemekten sıkılan halk ne yaptı?**
+      * //Harun’dan altın put yapmasını rica ettiler ve o puta taparak kurbanlar verdiler. [13-11], [13-12]//
+  - **İsrailliler itaatsizlik ettiğinde neden Tanrı onları yok etmedi?**
+      * //Çünkü Musa onlar için dua etti. [13-12]//
+  - **Üzerine Tanrı’nın On Emir’i yazdığı taş levhalarına ne oldu?**
+      * //Musa çok öfkelendi ve taş levhaları parçaladı. [13-13]//
+  - **Musa puta ne yaptı?**
+      * //Putu toz hâline gelinceye dek ezdi, suya attı ve İsraillilere içirdi. [13-14]//
+  - **On Emir yazılmış taş levhaların yenisi nasıl yapıldı?**
+      * //Musa yeni taş levhalarda On Emir’i yazdı. [13-15]//
+  - **İsrailliler Sina Dağı’ndan sonra nereye gittiler?**
+      * //Tanrı İsraillileri vadettiği ülkeye doğru yöneltti. [13-15]//
 
 **[[tr/obs/notes/questions/12|<< ]] | [[tr/obs/notes/questions/14| >>]]**

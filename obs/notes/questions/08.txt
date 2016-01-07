@@ -2,36 +2,35 @@
 
 ===== Comprehension Questions and Answers =====
 
-  - **Why did Joseph's brothers hate him?**
-    *//Because Joseph was Jacob's favorite son, and because Joseph had dreamed he would be their ruler. [08-02]//
-  - **What evil thing did Joseph's brothers do to him?**
-    *//They kidnapped him and sold him to some slave traders. [08-02]//
-  - **How did Joseph's brothers explain his disappearance to Jacob?**
-    *//They put goat's blood on Joseph's robe so that Jacob would think a wild animal had killed him. [08-03]//
-  - **Did God abandon Joseph in Egypt?**
-    *//No. In everything Joseph did, God blessed him. [08-04]//
-  - **Why was Joseph sent to prison in Egypt?**
-    *//Joseph refused to sleep with his master's wife, so she falsely accused him. [08-05]//
-  - **What ability had God given Joseph?**
-    *//The ability to interpret dreams. [08-07]//
-  - **What was the meaning of Pharaoh's dream?**
-    *//God was going to send seven years of plentiful harvests, followed by seven years of famine. [08-07]//
-  - **How did Pharaoh reward Joseph after Joseph interpreted his dream?**
-    *//He made Joseph the second most powerful man in Egypt. [08-08]//
-  - **How did Joseph prepare for the famine?**
-    *//Joseph told the Egyptians to store up large amounts of food during the seven good years, and then he sold the food to the people during the seven years of famine. [08-09]//
-  - **Why did Joseph's brothers come to Egypt?**
-    *//They came to buy food, because the famine was severe in Canaan also. [08-11]//
-  - **Before Joseph told his brothers who he was, why did he test them?**
-    *//He tested them to see if they had changed. [08-12]//
-  - **How did God cause good to come from Joseph's brothers selling him as a slave?**
-    *//Joseph became a powerful ruler in Egypt, and God used him to provide food for his family and many other people during the famine. [08-12]//
-  - **What did Jacob do after he found out that Joseph was alive?**
-    *//He moved his whole family to Egypt. [08-14]//
-  - **After Jacob died, who received the promises that God gave to Abraham?**
-    *//The twelve sons of Jacob. [08-15]//
-  - **What did the descendants of the twelve sons of Jacob become?**
-    *//The twelve tribes of Israel. [08-15]//
-
+  - **Neden kardeşleri Yusuf’tan nefret ediyorlardı?**
+      * //Çünkü Yusuf Yakup’un en sevdiği oğluydu ve Yusuf onların üzerinde hâkim olacağını hayal etmişti.  [08-02]//
+  - **Kardeşleri Yusuf’a ne kötülük yaptılar?**
+      * //Yusuf’u tutup köle tüccarlarına sattılar. [08-02]//
+  - **Kardeşleri Yusuf’un kaybolmasını Yakup’a nasıl anlattılar?**
+      * //Yakup’u Yusuf’un vahşi bir hayvan tarafından öldürüldüğüne inandırmak için Yusuf’un elbisesini keçi kanına bulaştırdılar. [08-03]//
+  - **Tanrı Yusuf’u Mısır’da terketti mi?**
+      * //Hayır. Yusuf’un yaptığı her işte Tanrı onu kutsadı. [08-04]//
+  - **Neden Yusuf Mısır’da zindana atıldı?**
+      * //Efendisinin karısı ile yatmayı reddetti ve kadın onu yalandan suçladı. [08-05]//
+  - **Tanrı Yusuf’a hangi yeteneği verdi?**
+      * //Rüya yorumlama yeteneğini. [08-07]//
+  - **Firavunun rüyasının anlamı neydi?**
+      * //Tanrı yedi yıl bol hasat ve ardından yedi yıl kıtlık gönderecekti. [08-07]//
+  - **Yusuf’un firavunun rüyasını yorumlaması üzerine firavun Yusuf’u nasıl ödüllendirdi?**
+      * //Firavun Yusuf’u Mısır’da ikinci güç sahibi olarak tayin etti. [08-08]//
+  - **Yusuf kıtlığa nasıl hazırlandı?**
+      * //Yusuf Mısırlılara yedi iyi yıl boyunca çok miktarda erzak saklamayı buyurdu ve sonra kıtlık olacak yedi yıl boyunca erzakı halka sattı. [08-09]//
+  - **Neden Yusuf’un kardeşleri Mısır’a geldiler?**
+      * //Kenan’da şiddetli kıtlık olduğu için yiyecek almaya geldiler. [08-11]//
+  - **Neden Yusuf kardeşlerine kim olduğunu bildirmeden önce onları denedi?**
+      * //Değişip değişmediklerini yoklamak için onları denedi. [08-12]//
+  - **Tanrı, Yusuf’un kardeşlerinin onu köle olarak satmalarını nasıl iyiliğe çevirdi?**
+      * //Yusuf Mısır üzerinde kudretli bir yönetici oldu ve Tanrı Yusuf’u kıtlık yıllarında hem kendi ailesine hem de birçok başka insana erzak sağlamak için kullandı. [08-12]//
+  - **Yakup Yusuf’un sağ olduğunu öğrenince ne yaptı?**
+      * //Bütün soyu ile beraber Mısır’a taşındı. [08-14]//
+  - **Yakup öldükten sonra Tanrı’nın İbrahim’e verdiği vaatleri kim aldı?**
+      * //Yakup’un on iki oğlu. [08-15]//
+  - **Yakup’un on iki oğlunun soyundan gelenler ne oldular?**
+      * //İsrail’in on iki oymağı. [08-15]//
 
 **[[tr/obs/notes/questions/07|<< ]] | [[tr/obs/notes/questions/09| >>]]**

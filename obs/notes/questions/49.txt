@@ -2,41 +2,39 @@
 
 ===== Comprehension Questions and Answers =====
 
-
-  - **How is Jesus both God and human?**
-    *//Because he was born of a virgin woman, and was also God’s Son. [49-01]//
-  - **How did Jesus prove that he was God?**
-    *//He did many miracles. [49-02]//
-  - **How should we love other people?**
-    *//In the same way as we love ourselves. [49-03]//
-  - **Who should we love more than anything else?**
-    *//God. [49-04]//
-  - **What is the most important thing for anyone?**
-    *//To belong to the kingdom of God.  [49-05]//
-  - **What will happen to people who reject the message about Jesus?**
-    *//They will not enter into his kingdom. [49-06]//
-  - **What does God want to do for sinners?**
-    *//He wants to forgive them and make them his children. [49-07]//
-  - **What does God hate?**
-    *//Sin. [49-08]//
-  - **What do we deserve from God because of our sin?**
-    *//We deserve to die. [49-10]//
-  - **What did Jesus receive that he did not deserve when he died on the cross?**
-    *//He received my punishment. [49-10]//
-  - **Why was Jesus' sacrifice able to take away the sins of every person in the world?**
-    *//Because Jesus never sinned. [49-11]//
-  - **Who will be saved?**
-    *//Everyone who believes in Jesus and receives him as his Master. [49-13]//
-  - **Are Christians still enemies of God?**
-    *//No, they are now close friends of God. [49-16]//
-  - **Are Christians still tempted to sin?**
-    *//Yes. [49-17]//
-  - **What should Christians do when they sin?**
-    *//They should confess their sins to God. [49-17]//
-  - **What does God promise to do if we confess our sins?**
-    *//He promises to forgive us, and to give us strength to fight against sin. [49-17]//
-  - **What are some of the things that God tells Christians to do?**
-    *//We should pray, study his word, worship him, and tell others about what he has done for us. [49-18]//
-
+  - **İsa nasıl hem Tanrı hem insandır?**
+      * //İsa hem bakireden doğdu hem de Tanrı’nın Oğlu’dur. [49-01]//
+  - **İsa, Tanrı olduğunu nasıl kanıtladı?**
+      * //Çok mucize yaptı. [49-02]//
+  - **Başkalarını nasıl sevmemiz gerekir?**
+      * //Kendimizi sevdiğimiz gibi. [49-03]//
+  - **Kimi her şeyden çok sevmemiz gerekir?**
+      * //Tanrı’yı. [49-04]//
+  - **Herkes için en önemli şey nedir?**
+      * //Tanrı’nın Hükümranlığı’na ait olmaktır. [49-05]//
+  - **İsa’yla ilgili sevindirici haberi reddedenlere ne olacak?**
+      * //İsa’nın Hükümranlığı’na giremeyecekler. [49-06]//
+  - **Tanrı günahkârlara ne yapmak ister?**
+      * //Onları affetmek ve kendi çocuğu kılmak ister. [49-07]//
+  - **Tanrı neden nefret eder?**
+      * //Günahtan. [49-08]//
+  - **Kendi günahımız sebebiyle Tanrı’dan ne hak ederiz?**
+      * //Ölmeyi hak ederiz. [49-10]//
+  - **İsa çarmıh üzerinde ölürken hak etmediği hâlde neyi çekti?**
+      * //Cezamı çekti. [49-10]//
+  - **Neden İsa’nın kurbanı dünyadaki her insanın günahını ortadan kaldırmaya kadirdir?**
+      * //Çünkü İsa asla günah işlemedi. [49-11]//
+  - **Kim kurtulacak?**
+      * //İsa’ya iman eden ve O’nu Efendisi olarak kabul eden herkes. [49-13]//
+  - **Mesih inanlıları hâlâ Tanrı’nın düşmanları mıdır?**
+      * //Hayır, Tanrı’nın yakın dostlarıdır. [49-16]//
+  - **Mesih inanlıları hâlâ günahla ayartılıyorlar mı?**
+      * //Evet. [49-17]//
+  - **Mesih inanlıları günah işlediklerinde ne yapmalıdırlar?**
+      * //Günahlarını Tanrı’ya itiraf etmelidirler. [49-17]//
+  - **Günahlarımızı itiraf edersek Tanrı bize ne vadeder?**
+      * //Bizi affedeceğini ve günaha karşı mücadele etmek için bize güç vereceğini vadeder. [49-17]//
+  - **Tanrı’nın Mesih inanlılarına buyurduğu bazı şeyler nelerdir?**
+      * //Dua etmemiz, O’nun sözünü araştırmamız, O’na tapınmamız ve bizim için yaptıklarını başkalarına anlatmamız gerekir. [49-18]//
 
 **[[tr/obs/notes/questions/48|<< ]] | [[tr/obs/notes/questions/50| >>]]**
