@@ -1,11 +1,10 @@
-====== descendant ======
+====== soy ======
 
-===== Definition: =====
+===== Tanım =====
 
-A descendant is someone who is a direct blood relative of someone else further back in history.
-
-  * For example, Abraham was a descendant of Noah.
-  * A person's descendants are his children, grandchildren, great-great-grandchildren, etc.
+Soy demek, bir kişiden sonra gelen ve kan bağı ile ona doğrudan bağlı olan akrabaları demektir.
+  * Örneğin İbrahim Nuh’un soyudandı.
+  * Bir kişinin soyu çocuklarını, torunlarını, torunlarının çocuklarını vs. içerir.
 
 ===== Bible References: =====
 
@@ -13,13 +12,13 @@ A descendant is someone who is a direct blood relative of someone else further b
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:02-09|[02-09]]]** "The woman's **descendant** will crush your head, and you will wound his heel."
-  ***[[:tr:obs:notes:frames:04-09|[04-09]]]** "I give the land of Canaan to your **descendants**."
-  ***[[:tr:obs:notes:frames:05-10|[05-10]]]** "Your **descendants** will be more than the stars in the sky."
-  ***[[:tr:obs:notes:frames:17-07|[17-07]]]** "Someone from your family will always rule as king over Israel, and the Messiah will be one of your **descendants**!"
-  ***[[:tr:obs:notes:frames:18-13|[18-13]]]** The kings of Judah were **descendants** of David.
-  ***[[:tr:obs:notes:frames:21-04|[21-04]]]** God promised King David that the Messiah would be one of David's own **descendants**.
-  ***[[:tr:obs:notes:frames:48-13|[48-13]]]** God promised David that the Messiah would be one of his **descendants**. Jesus, the Messiah, was that special **descendant** of David.
+  ***[[:tr:obs:notes:frames:02-09|[02-09]]]** “Kadının **soyu** senin başını ezecek, sen de onun topuğuna saldıracaksın.”
+  ***[[:tr:obs:notes:frames:04-09|[04-09]]]** “Kenan toprağını senin **soyuna** vereceğim.”
+  ***[[:tr:obs:notes:frames:05-10|[05-10]]]** “**Soyun** gökteki yıldızlar kadar çok olacak.”
+  ***[[:tr:obs:notes:frames:17-07|[17-07]]]** “**Soyundan** bir kişi halkımın kralı olarak ebedî hüküm sürecek!”
+  ***[[:tr:obs:notes:frames:18-13|[18-13]]]** Yahuda’nın kralları Davut’un **soyundan** idiler.
+  ***[[:tr:obs:notes:frames:21-04|[21-04]]]** Tanrı, Kral Davut’a, **soyundan** bir kişinin Tanrı’nın halkının kralı olarak ebedî hüküm süreceğini vadetti.
+  ***[[:tr:obs:notes:frames:48-13|[48-13]]]** Tanrı, Kral Davut’a, **soyundan** bir kişinin Tanrı’nın halkının kralı olarak ebedî hüküm süreceğini vadetti. Davut’un **soyundan** olan bu özel adam Mesih İsa idi.
 
 ~~DISCUSSION~~{{tag>publish ktobs}}
 

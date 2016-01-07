@@ -1,21 +1,12 @@
-====== people group, people ======
+====== halk ======
 
-===== Definition: =====
+===== Tanım =====
 
-A "people group" usually refers to people who are descended from the same ancestor and who share a common language and culture,
-
-  * People groups often live together in a particular land or country.
-  * A people group may be made up of a single tribe, or of many tribes.
-  * The term "people group" can sometimes be translated as "nation," but these two terms do not always mean the same thing. Sometimes "nation" means "country" whereas the term "people group" is focused on the people and their culture.
-  * Sometimes the term "people" is used alone to mean "people group." For example "your people" can mean "your people group" or "your family."
-
-===== Translation Suggestions: =====
-
-  * Other ways to translate this term could include, "tribal group" or "language group" or "ethnic group."
-  * This term could also be translated by a word or phrase that means, "large community of related family groups."
-  *
-
-When a person says the phrase, “my people” this could be translated as,  “my relatives” or “my countrymen” or “my family” or “my people group,” depending on the context.
+«Halk» ile genellikle aynı cetten türeyen, ortak bir dile ve kültüre sahip olan insan grubu kastedilir.
+  * Halklar çoğu zaman belirli bir bölge ya da ülkede beraber yaşarlar.
+  * Halk sadece bir kabile ve birçok kabile olabilir.
+  * «Halk» terimi bazen «millet» olarak da çevrilebilir, ama bu iki sözcük her zaman aynı anlama gelmez. «Millet» bazen ülke anlamında kullanılır, «halk» ise insanlar ve onların kültürü ile alakalı bir terimdir.
+  * Ayrıca «halk» sözü yerine bazen «etnik grup» ya da «aile», «aşiret» kullanılabilir.
 
 ===== Bible References: =====
 
@@ -23,12 +14,13 @@ When a person says the phrase, “my people” this could be translated as,  “
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:14-02|[14-02]]]** God had promised Abraham, Isaac, and Jacob that he would give the Promised Land to their descendants, but now there were many **people groups**  living there.
-  * **[[:tr:obs:notes:frames:21-02|[21-02]]]** God promised Abraham that through him all **people groups**  of the world would receive a blessing. This blessing would be that the Messiah would come sometime in the future and provide the way of salvation for people from all the **people groups**  of the world.
-  * **[[:tr:obs:notes:frames:42-08|[42-08]]]**"It was also written in the scriptures that my disciples will proclaim that everyone should repent in order to receive forgiveness for their sins. They will do this starting in Jerusalem, and then go to all **people groups**  everywhere."
-  * **[[:tr:obs:notes:frames:42-10|[42-10]]]**"So go, make disciples of all **people groups**  by baptizing them in the name of the Father, the Son, and the Holy Spirit and by teaching them to obey everything I have commanded you."
-  * **[[:tr:obs:notes:frames:48-11|[48-11]]]** Because of this New Covenant, anyone from any **people group**  can become part of God's people by believing in Jesus.
-  * **[[:tr:obs:notes:frames:50-03|[50-03]]]** He (Jesus) said, "Go and make disciples of all **people groups**!" and, "The fields are ripe for harvest!"
+  ***[[:tr:obs:notes:frames:14-02|[14-02]]]** Tanrı İbrahim’e, İshak’a ve Yakup’a vadettiği ülkeyi soylarına vereceğini vadetmişti. O ülkede artık birçok **milletler** mesken salmışlardı.
+  ***[[:tr:obs:notes:frames:21-02|[21-02]]]** Tanrı İbrahim’e, yeryüzündeki bütün **halkların** onun sayesinde kutsanacağını vadetti. Bu kutsama, Mesih’in gelip yeryüzündeki her **halktan** olan insanların kurtuluş yolunu sağlamasıyla gerçekleşecekti.
+  ***[[:tr:obs:notes:frames:42-08|[42-08]]]** “Ayrıca bana iman edenlerin insanların günahlarının affedilmesi için tövbe etmesi gerektiğini ilan edecekleri de kutsal yazılarda önceden bildirilmiştir. Bu tövbe çağrısı Yeruşalim’den başlayarak her yerde yaşayan bütün **milletlere** duyurulacak.”
+  ***[[:tr:obs:notes:frames:42-10|[42-10]]]** “Bu yüzden gidin, bütün **milletleri** imanlı olarak yetiştirin. Onları Baba, Oğul ve Kutsal Ruh adıyla vaftiz edin ve size emrettiğim her şeye itaat etmeyi öğretin.”
+  ***[[:tr:obs:notes:frames:48-11|[48-11]]]** Bu Yeni Ahit sayesinde herhangi bir **milletten** her insan İsa’ya iman ederek Tanrı’nın halkına katılabilir.​
+  ***[[:tr:obs:notes:frames:50-03|[50-03]]]** (İsa) “Gidin, bütün **milletleri** imanlı olarak yetiştirin!” dedi. “Ekinler sararmış, biçilmeye hazırdır!”
+
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~

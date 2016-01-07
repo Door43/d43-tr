@@ -1,17 +1,24 @@
-====== suffer, suffering ======
+====== ıstırap ======
 
-===== Definition: =====
+===== Tanım =====
 
-The term "suffer" and "suffering" refer to experiencing something very unpleasant, such as illness, pain, or other hardships.
+«Istırap», «sıkıntı» ve «acı çekmek» terimleri ile hastalık, ağrı, meşakkat gibi hoş olmayan deneyimler kastedilir.
+  * İnsanlar zulüm, sıkıntı çektikleri ya da hasta oldukları zaman acı çekerler.
+  * İnsan ya kendi yanlış davranışı ya da elinde olmayan bir durum yüzünden acı çekebilir.
+  * Acı ağrı ya da hastalık gibi fiziksel ya da korku, üzüntü, yalnızlık duyguları gibi hissi olabilir.
 
-  * When people are persecuted or when they are sick, they suffer.
-  * A person can suffer because of his own wrong behavior or because of things that happen outside of his control.
-  * Suffering can be physical, such as feeling pain or sickness. It can also be emotional such as feeling fear, sadness, or loneliness.
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
+  * «Acı çekmek» terimi «ağrı hissetmek», «zorluk çekmek», «sıkıntı çekmek» ya da «zor durumlardan geçmek» şeklinde çevrilebilir.
+  * Bağlama dayalı olarak, «ıstırap» ya da «sıkıntı» ayrıca «son derece zor durum», «şiddetli zorluk», «zor deneyimler» ya da «ağrı veren deneyimlerin zamanı» olarak çevrilebilir."
 
-  * The term "suffer" can be translated as "feel pain" or "endure difficulty" or "experience hardships" or "go through difficult circumstances."
-  * Depending on the context, "suffering" could be translated as "extremely difficult circumstances" or "severe hardships" or "experiencing hardship" or "time of painful experiences."
+===== Kutsal Kitap referansları: ====={{topic>:en:bible?suffer&nocomments}}===== Kutsal Kitap öykülerinden örnekler: =====
+  * **[[:en:obs:notes:frames:09-13|[09-13]]]** Tanrı şöyle dedi: “Halkımın **çektiği sıkıntıları** gördüm.”
+  * **[[:en:obs:notes:frames:38-12|[38-12]]]** İsa üç kez şöyle dua etti: “Babam, eğer mümkünse bu **ıstırap** dolu kâseyi içmeyeyim.”
+  * **[[:en:obs:notes:frames:42-03|[42-03]]]** (İsa onlara) Peygamberlerin Mesih’in **acı çekip** öldürüleceğini ve üçüncü gün dirileceğini önceden bildirdiklerini hatırlattı.
+  * **[[:en:obs:notes:frames:42-07|[42-07]]]** İsa şöyle dedi: “Mesih’in **acı çekeceği**, öleceği, üçüncü gün ölümden dirileceği çok önceden yazılmıştır.”
+  * **[[:en:obs:notes:frames:44-05|[44-05]]]**“Ancak siz bunu yaparken ne yaptığınızın bilincinde değildiniz. Bu yaptıklarınızla Tanrı, Mesih’in **acı çekmesi** ve ölmesi ile ilgili peygamberliklerini gerçekleştirdi.”
+  * **[[:en:obs:notes:frames:46-04|[46-04]]]** Tanrı ona şöyle karşılık verdi: “Git! Ben bu adamı, Yahudilere ve diğer milletlerden insanlara benim adımı ilan etmesi için seçtim. Adım uğruna çok **acı çekecek**.”
 
 ===== Bible References: =====
 
@@ -19,13 +26,14 @@ The term "suffer" and "suffering" refer to experiencing something very unpleasan
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:09-13|[09-13]]]** God said, "I have seen the **suffering**  of my people."
-  * **[[:tr:obs:notes:frames:38-12|[38-12]]]** Jesus prayed three times, "My Father, if it is possible, please let me not have to drink this cup of **suffering**."
-  * **[[:tr:obs:notes:frames:42-03|[42-03]]]** He (Jesus) reminded them that the prophets said the Messiah would **suffer**  and be killed, but would rise again on the third day.
-  * **[[:tr:obs:notes:frames:42-07|[42-07]]]** He (Jesus) said, "It was written long ago that the Messiah would **suffer**, die, and rise from the dead on the third day."
-  * **[[:tr:obs:notes:frames:44-05|[44-05]]]**"Although you did not understand what you were doing, God used your actions to fulfill the prophecies that the Messiah would **suffer**  and die."
-  * **[[:tr:obs:notes:frames:46-04|[46-04]]]** God said, "I have chosen him (Saul) to declare my name to the unsaved. I will show him how much he must **suffer**  for my sake."
-  * **[[:tr:obs:notes:frames:50-17|[50-17]]]** He (Jesus) will wipe away every tear and there will be no more **suffering**, sadness, crying, evil, pain, or death.
+  ***[[:tr:obs:notes:frames:09-13|[09-13]]]** Tanrı Musa’ya, “Halkımın **çektiği sıkıntıları** gördüm.” dedi.
+  ***[[:tr:obs:notes:frames:38-12|[38-12]]]** İsa üç kez şöyle dua etti: “Babam, eğer mümkünse bu **ıstırap** dolu kâseyi içmeyeyim.”
+  ***[[:tr:obs:notes:frames:42-03|[42-03]]]** (İsa onlara) Peygamberlerin Mesih’in **acı çekip** öldürüleceğini ve üçüncü gün dirileceğini önceden bildirdiklerini hatırlattı.
+  ***[[:tr:obs:notes:frames:42-07|[42-07]]]** İsa şöyle dedi: “Mesih’in **acı çekeceği**, öleceği, üçüncü gün ölümden dirileceği çok önceden yazılmıştır.”
+  ***[[:tr:obs:notes:frames:44-05|[44-05]]]** “Ancak siz bunu yaparken ne yaptığınızın bilincinde değildiniz. Bu yaptıklarınızla Tanrı, Mesih’in **acı çekmesi** ve ölmesi ile ilgili peygamberliklerini gerçekleştirdi.”
+  ***[[:tr:obs:notes:frames:46-04|[46-04]]]** Tanrı ona şöyle karşılık verdi: “Git! Ben bu adamı (Saul’u), Yahudilere ve diğer milletlerden insanlara benim adımı ilan etmesi için seçtim. Adım uğruna çok **acı çekecek**.”
+  ***[[:tr:obs:notes:frames:50-17|[50-17]]]** O (İsa), gözyaşlarını silecek ve artık **ıstırap**, keder, ağlayış, kötülük, ağrı ya da ölüm olmayacak.
+
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~

@@ -1,28 +1,28 @@
-====== Aaron ======
+====== Harun ======
 
-===== Facts: =====
+===== Gerçeklikler =====
 
-God chose Aaron to be the first high priest for the people of Israel.
-
-  * Aaron was Moses' older brother.
-  * Aaron helped Moses speak to Pharaoh about letting the Israelites go free.
-  * While the Israelites were traveling through the desert, Aaron sinned by making an idol for the people to worship.
-  * God also appointed Aaron and his descendants to be the priests for the people of Israel.
+Tanrı, İsrail halkının ilk baş kâhini olarak Harun’u seçti.
+  * Harun Musa’nın büyük kardeşiydi.
+  * Musa’nın firavunla İsraillileri serbest bırakması konusunda konuşmasına Harun yardım ediyordu.
+  * İsrailliler çölde yolculuk ederken Harun tapmaları için bir put yapmakla günah işledi.
+  * Tanrı ayrıca Harun’u ve soyunu İsrail halkının kâhinleri olarak tayin etti.
 
 (Translation suggestions: [[en:ta:vol1:translate:translate_names]]) 
 
 (See also: [[en:obe:kt:priest]], [[moses]], [[israel]])
+
 ===== Bible References: =====
 
 {{topic>:en:bible?aaron&nocomments}}
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:09-15|[09-15]]]** God warned Moses and **Aaron**  that Pharaoh would be stubborn.
-  * **[[:tr:obs:notes:frames:10-05|[10-05]]]** Pharaoh called Moses and **Aaron**  and told them that if they stopped the plague, the Israelites could leave Egypt.
-  * **[[:tr:obs:notes:frames:13-09|[13-09]]]** God chose Moses' brother, **Aaron**, and Aaron's descendants to be his priests.
-  * **[[:tr:obs:notes:frames:13-11|[13-11]]]** So they (the Israelites) brought gold to **Aaron**  and asked him to form it into an idol for them!
-  * **[[:tr:obs:notes:frames:14-07|[14-07]]]** They (the Israelites) became angry with Moses and **Aaron**  and said, "Oh, why did you bring us to this horrible place?"
+  ***[[:tr:obs:notes:frames:09-15|[09-15]]]** Tanrı Musa ve **Harun**’a firavunun inat edeceğini bildirdi.
+  ***[[:tr:obs:notes:frames:10-05|[10-05]]]** Firavun Musa ile **Harun**’u çağırdı ve belayı kaldırmaları karşılığında İsraillilerin Mısır’dan çıkmasına izin vereceğini söyledi.
+  ***[[:tr:obs:notes:frames:13-09|[13-09]]]** Tanrı, Musa’nın kardeşi **Harun**’u ve soyunu kâhinler olmak üzere seçti.
+  ***[[:tr:obs:notes:frames:13-11|[13-11]]]** Dönüşünü beklemekten sıkılan halk dayanamadı, **Harun**’a altın getirerek kendilerine bir put yapmasını rica ettiler!
+  ***[[:tr:obs:notes:frames:14-07|[14-07]]]** (İsrailliler) Musa’yla **Harun**’a öfkelenerek bağırdılar: “Neden bizi bu korkunç yere getirdiniz?” 
 
 ~~DISCUSSION~~
 

@@ -1,15 +1,10 @@
-====== dream ======
+====== rüya ======
 
+===== Tanım =====
 
-===== Definition: =====
-
-
-Dreams are things that people see, hear, and experience in their minds while they are sleeping.
-
-
-    * Most of the time, the things that people experience in dreams are not really happening, although while the person is dreaming, it seems that they are.
-    * Sometimes God causes people to dream about something so they can learn from it. Sometimes God may speak directly to people in their dreams.
-
+Rüya ya da düş, insanların uyurken zihinlerinde gördükleri, işittikleri ve yaşadıkları şeylerdir.
+  * Çoğu zaman insanların rüyada yaşadıkları şeyler gerçekten olmayan şeylerdir, ancak insan uyurken sanki gerçekmiş gibi geliyor.
+  * Bazen Tanrı insanların rüyadan bir şeyler öğrenmeleri için rüya görmelerini sağlar. Bazen Tanrı rüyada doğrudan insanlarla konuşabilir.
 
 ===== Bible References: =====
 
@@ -18,11 +13,11 @@ Dreams are things that people see, hear, and experience in their minds while the
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:08-02|[08-02]]]** Joseph's brothers hated him because their father loved him most and because Joseph had **dreamed** that he would be their ruler.
-  ***[[:tr:obs:notes:frames:08-06|[08-06]]]** One night, the Pharaoh, which is what the Egyptians called their kings, had two **dreams** that disturbed him greatly. None of his advisors could tell him the meaning of the **dreams**.
-  ***[[:tr:obs:notes:frames:08-07|[08-07]]]** God had given Joseph the ability to interpret **dreams**, so Pharaoh had Joseph brought to him from the prison. Joseph interpreted the **dreams** for him and said, "God is going to send seven years of plentiful harvests followed by seven years of famine."
-  ***[[:tr:obs:notes:frames:16-11|[16-11]]]** So that night, Gideon went down to the camp and heard a Midianite soldier telling his friend about something he had **dreamed**. The man's friend said, "This **dream** means that Gideon's army will defeat the Midianite army!"
-  ***[[:tr:obs:notes:frames:23-01|[23-01]]]** He (Joseph) did not want to shame her (Mary), so he planned to quietly divorce her. Before he could do that, an angel came and spoke to him in a **dream**.
+  ***[[:tr:obs:notes:frames:08-02|[08-02]]]** Kardeşleri Yusuf’tan nefret ediyorlardı, çünkü babaları onu en çok severdi ve Yusuf onların üzerinde hâkim olacağını **hayal** ederdi.
+  ***[[:tr:obs:notes:frames:08-06|[08-06]]]** Bir gece firavun -Mısırlılar krallarına firavun derlerdi- kendini son derece endişelendiren iki **rüya** görmüştü. Öğütçülerinden hiçbiri bu **rüyalarını** yorumlayamamıştı.
+  ***[[:tr:obs:notes:frames:08-07|[08-07]]]** Tanrı’nın Yusuf’a **rüya** yorumlama yeteneği verdiğini duyan firavun, Yusuf’un zindandan getirilmesini buyurdu. Yusuf ona **rüyalarını** şöyle yorumladı: “Tanrı yedi yıl bol hasat ve ardından yedi yıl kıtlık gönderecek.”
+  ***[[:tr:obs:notes:frames:16-11|[16-11]]]** Gidyon gitti ve Midyanlı bir askerin gördüğü **düşü** arkadaşına anlattığını duydu. Arkadaşı ona şöyle dedi: “Gördüğün **düşün** anlamı şu: Gidyon’un ordusu Midyanlıların ordusunu mağlup edecek!”
+  ***[[:tr:obs:notes:frames:23-01|[23-01]]]** (Yusuf) Meryem’i rezil etmek istemediği için ondan sessizce ayrılmak niyetindeydi. Fakat o bunu yapmadan önce bir melek **rüyada** gelip onunla konuştu.
 
 ~~DISCUSSION~~
 

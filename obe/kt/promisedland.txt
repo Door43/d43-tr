@@ -1,16 +1,15 @@
-====== Promised Land ======
+====== Tanrı’nın vadettiği ülke ======
 
-===== Facts: =====
+===== Gerçeklikler =====
 
-The "Promised Land" was the land that God had promised to give to Abraham and his descendants. It was also called "Canaan."
+«Tanrı’nın vadettiği ülke» Tanrı’nın İbrahim’e ve soyuna vereceğini vadettiği ülkeydi. Ona ayrıca «Kenan» denirdi.
+  * Tanrı İbrahim’i Kenan’a gidip orada yaşamaya çağırdı. İbrahim’le soyu İsrailliler yıllar boyunca orada yaşadılar.
+  * Şiddetli kıtlık sebebiyle Kenan’da yiyecek olmadığı zaman İsrailliler Mısır’a göç ettiler.
+  * Dört yüz yıl sonra Tanrı İsraillileri Mısır köleliğinden kurtardı ve yeniden Tanrı’nın vadettiği ülkeye getirdi.
 
-  * God called Abraham to go live in the land of Canaan. He and his descendants, the Israelites, lived there for many years.
-  * When a severe famine caused there to be no food in Canaan, the Israelites moved to Egypt.
-  * Four hundred years later, God rescued the Israelites from slavery in Egypt and brought them back to the Promised Land again..
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * "The Promised Land" can be translated as the "the land that God said he would give to Abraham" or "the land that God promised to Abraham."
+  * «Tanrı’nın vadettiği ülke» ayrıca «Vadedilen Toprak» ya da «Tanrı’nın İbrahim’e vereceğini söylediği ülke» ya da «Tanrı’nın İbrahim’e vadettiği ülke» olarak çevrilebilir.
 
 (See also: [[:tr:obe:other:canaan|Canaan, Canaanite]])
 
@@ -20,13 +19,14 @@ The "Promised Land" was the land that God had promised to give to Abraham and hi
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:12-01|[12-01]]]** They (Israelites) were no longer slaves, and they were going to the **Promised Land**!
-  * **[[:tr:obs:notes:frames:14-01|[14-01]]]** After God had told the Israelites the laws he wanted them to obey as part of his covenant with them, God began leading them from Mount Sinai toward the **Promised Land**, which was also called Canaan.
-  * **[[:tr:obs:notes:frames:14-02|[14-02]]]** God had promised Abraham, Isaac, and Jacob that he would give the **Promised Land**  to their descendants, but now there were many people groups living there.
-  * **[[:tr:obs:notes:frames:14-14|[14-14]]]** Then God led the people to the edge of the **Promised Land**  again.
-  * **[[:tr:obs:notes:frames:15-02|[15-02]]]** The Israelites had to cross the Jordan River to enter into the **Promised Land**.
-  * **[[:tr:obs:notes:frames:15-12|[15-12]]]** After this battle, God gave each tribe of Israel its own section of the **Promised Land**.
-  * **[[:tr:obs:notes:frames:20-09|[20-09]]]** This period of time when God's people were forced to leave the **Promised Land**  is called the Exile.
+  ***[[:tr:obs:notes:frames:12-01|[12-01]]]** (İsrailliler) Artık köle değillerdi, üstelik **Tanrı’nın vadettiği ülkeye** doğru gidiyorlardı!
+  ***[[:tr:obs:notes:frames:14-01|[14-01]]]** Tanrı, İsraillilerle yaptığı ahit gereğince uymalarını istediği yasaları İsraillilere bildirdikten sonra Tanrı onları Sina Dağı’ndan **vadettiği Kenan ülkesine** doğru götürmeye başladı.
+  ***[[:tr:obs:notes:frames:14-02|[14-02]]]** Tanrı İbrahim’e, İshak’a ve Yakup’a **vadettiği ülkeyi** soylarına vereceğini vadetmişti. O ülkede artık birçok milletler mesken salmışlardı.
+  ***[[:tr:obs:notes:frames:14-14|[14-14]]]** O zaman Tanrı, halkını yine **vadettiği ülkenin** sınırına getirdi.
+  ***[[:tr:obs:notes:frames:15-02|[15-02]]]** **Tanrı’nın vadettiği ülkeye** girmeleri için İsraillilerin Şeria Nehri’ni geçmeleri lazımdı.
+  ***[[:tr:obs:notes:frames:15-12|[15-12]]]** Bu savaşlar bitince Tanrı, İsrail’in her oymağına **vadettiği ülkenin** belirli bir kısmını verdi.
+  ***[[:tr:obs:notes:frames:20-09|[20-09]]]** Halkın **Tanrı’nın vadettiği ülkeyi** terketmek zorunda kaldığı bu döneme ‘Sürgün dönemi’ denir.
+
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~

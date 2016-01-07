@@ -1,19 +1,18 @@
-====== wise, wisdom ======
+====== bilge ======
 
-===== Definition: =====
+===== Tanım =====
 
-The term "wise" describes someone who understands what is the right and moral thing to do and then does that. "Wisdom" is the understanding and practice of what is true and morally right.
+«Bilge» terimi, doğru ve ahlaksâl olanı anlayan ve yapan birini belirtir. «Bilgelik» demek, gerçek ve ahlâk açısından doğru olanı anlamak ve uygulamak demektir.
+  * Bilge olmak, iyi karar verme yeteneği, özellikle Tanrı’nın hoşuna giden işleri seçip yapma anlamına gelir.
+  * Kutsal Kitap’ta «dünyasal bilgelik» terimi mecazi anlamda bu dünyada kendini bilge sayan, hakikatte ise akılsız olan insanlara ait olarak kullanılır.
+  * İnsanlar Tanrı’nın sözünü dinlemek ve alçakgönüllü bir biçimde O’nun iradesine itaat etmek yolu ile bilge olurlar.
+  * Bilge kişi hayatında Kutsal Ruh’un sevinç, sevgi ve sabır gibi ürünlerini sergileyendir.
 
-  * Being wise includes the ability to make good decisions, especially choosing to do what pleases God.
-  * In the Bible, the term "worldly wisdom" is a figurative way of referring to what people in this world think is wise, but which is actually foolish.
-  * People become wise by listening to God and humbly obeying his will.
-  * A wise person will show the fruits of the Holy Spirit in his life, such as joy, kindness, love and patience.
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * Depending on the context, ways to translate "wise" could include words or phrases that mean, "prudent" or "sensible and obedient" or "God-fearing."
-  * "Wisdom" could be translated by a word or phrase that means, "prudence" or "wise living" or "sensible and obedient living" or "good judgment."
-  * It is best to translate "wise" and "wisdom" in such a way that they are different terms from other key terms like righteous or obedient.
+  * Bağlama dayalı olarak, «bilge» sözcüğü şu sözcük ya da ifadelerle çevrilebilir: «sağduyulu», «aklı başında ve itaatkâr» ya da «Tanrı’dan korkan.»
+  * «Bilgelik» «sağduyu», «hikmet», «bilge yaşam», «mantıklı, itaatkâr yaşam» ya da «doğru anlayış» anlamına gelen bir sözcük ya da ifade ile çevrilebilir.
+  * «Bilge» ve «bilgelik» sözcüklerini doğru ya da itaatkâr gibi başka terimlerden farklı olarak çevirmek iyi olur.
 
 (See: [[:tr:obe:other:obey]], [[:tr:obe:kt:fruit]])
 
@@ -23,11 +22,10 @@ The term "wise" describes someone who understands what is the right and moral th
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:02-05|[02-05]]]** She also wanted to be **wise**, so she picked some of the fruit and ate it.
-  * **[[:tr:obs:notes:frames:18-01|[18-01]]]** When Solomon asked for **wisdom**, God was pleased and made him the **wisest**  man in the world.
-  * **[[:tr:obs:notes:frames:23-09|[23-09]]]** Some time later, **wise**  men from countries far to the east saw an unusual star in the sky.
-  * **[[:tr:obs:notes:frames:45-01|[45-01]]]** He (Stephen) had a good reputation and was full of the Holy Spirit and of **wisdom**.
-
+  ***[[:tr:obs:notes:frames:02-05|[02-05]]]** Ayrıca **bilgi sahibi** olmayı arzuladı, dolayısıyla meyveyi koparıp yedi.
+  ***[[:tr:obs:notes:frames:18-01|[18-01]]]** Süleyman **bilgeliği** istedi, bu isteği Tanrı’nın hoşuna gitti. Tanrı Süleyman’ı dünyanın en **bilge** insanı etti.
+  ***[[:tr:obs:notes:frames:23-09|[23-09]]]** Bir süre sonra Doğu’daki uzak ülkelerden bazı **bilge** adamlar gökte olağanüstü bir yıldız gördüler.
+  ***[[:tr:obs:notes:frames:45-01|[45-01]]]** (İstefanos’un) Büyük itibarı vardı, Kutsal Ruh’la ve **bilgelikle** doluydu.
 
 ~~DISCUSSION~~{{tag>publish ktobs}}
 

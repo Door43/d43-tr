@@ -1,29 +1,17 @@
-====== death, die, dead ======
+====== ölüm ======
 
-===== Definition: =====
+===== Tanım =====
 
-This term is used to refer to both physical and spiritual death. Physically, it refers to when the physical body of a person stops living. Spiritually, it refers to sinners being separated from a holy God because of their sin.
+Bu terim Kutsal Kitap’ta iki farklı anlamda kullanılır. Fiziksel anlamda ölümle çoğu zaman bir kişinin fiziksel bedeninin yaşamayı durdurduğu bir durum kastedilir. Bundan başka, günahkârların kutsal Tanrı’dan ayrılması da kastedilebilir.
+  * «Ölüm» sözcüğü, «hayat»ın zıddıdır.
+  * Kutsal Kitap’ta fiziksel hayat ve ölüm sıkça ruhsal hayata ve ölüme benzetilir.
 
-=== 1. Physical death ===
+===== Çeviri için öneriler =====
 
-  * To "die" means to stop living. Death is the end of physical life.
-  * A person's spirit leaves his body when he dies.
-  * When Adam and Eve sinned, physical death came into the world.
-
-=== 2. Spiritual death ===
-
-  * Spiritual death is the separation of a person from God.
-  * Adam died spiritually when he disobeyed God. His relationship with God was broken. He became ashamed and tried to hide from God.
-  * Every descendant of Adam is a sinner, and is spiritually dead. God makes us spiritually alive again when we have faith in Jesus Christ.
-
-===== Translation Suggestions: =====
-
-  * To translate this term, it is best to use the everyday, natural word or phrase that refers to death in the target language.
-  * In some languages, "to die" may be expressed as "to not live." The term "dead" may be translated as "not alive" or "not having any life" or "not living."
-  * Many languages use figurative expressions to describe death, such as "to pass away" in English. However in the Bible it is best to use the most direct term for death that is used in everyday language, unless that would be offensive.
-  * In the Bible, physical life and death are often compared to spiritual life and death. It is important in a translation to use the same word or phrase for both physical death and spiritual death.
-  * In some languages it may be more clear to say "spiritual death" when the context requires that meaning. Some translators may also feel it is best to say "physical death" in contexts where it is being contrasted to spiritual death.
-  * The phrase, "the dead" is a nominal adjective that refers to people who have died. Some languages will translate this as, "dead people" or "people who have died."  (See: nominal adjective)
+  * Bu terimi çevirmek için hedef dilde ölümü belirtmek için günlük olarak kullanılan doğal bir sözcüğü kullanmak iyidir.
+  * Bazı dillerde «ölmek» terimi «yaşamamak» şeklinde çevrilebilir. «Ölü» teriminin çevirisi «diri olmayan» ya da «hayatı olmayan» olabilir.
+  * Birçok dilde ölüm için Türkçe «göçüp gitmek» gibi deyimler bulunur. Ancak Kutsal Kitap’ın çevirisinde, kaba gelmiyorsa, günlük yaşamda kullanılan sözcüğü kullanmak iyidir.
+  * Çeviride hem fiziksel hem de ruhsal ölüm için aynı sözcüğü kullanmak iyidir. Bazı dillerde bağlamda ruhsal ölüm kastedildiği yerlerde «ruhsal ölüm» söylemekle kasıt daha net açıklanabilir. Bazı çevirmenler fiziksel ölümün ruhsal ölümle karşılaştırıldığı yerlerde «fiziksel ölüm» söylemenin daha iyi olacağını düşünebilirler.
 
 (See also: [[:tr:obe:kt:life|life, live, living, alive]], [[:tr:obe:kt:believe|believe, believe in, belief]], [[:tr:obe:kt:faith|faith]])
 
@@ -33,15 +21,15 @@ This term is used to refer to both physical and spiritual death. Physically, it 
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:01-11|[01-11]]]** God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of good and evil. If he ate from this tree, he would **die**.
-  * **[[:tr:obs:notes:frames:02-11|[02-11]]]**"Then you will **die**, and your body will return to dirt."
-  * **[[:tr:obs:notes:frames:07-10|[07-10]]]** Then Isaac **died**, and Jacob and Esau buried him.
-  * **[[:tr:obs:notes:frames:37-05|[37-05]]]**"Jesus replied, "I am the Resurrection and the Life. Whoever believes in me will live, even though he **dies**. Everyone who believes in me will never **die**."
-  * **[[:tr:obs:notes:frames:40-08|[40-08]]]** Through his **death**, Jesus opened a way for people to come to God.
-  * **[[:tr:obs:notes:frames:43-07|[43-07]]]**"Although Jesus **died**, God raised him from the dead."
-  * **[[:tr:obs:notes:frames:48-02|[48-02]]]** Because they sinned, everyone on earth gets sick and everyone **dies**.
-  * **[[:tr:obs:notes:frames:50-17|[50-17]]]** He (Jesus) will wipe away every tear and there will be no more suffering, sadness, crying, evil, pain, or **death**.
-  *
+  ***[[:tr:obs:notes:frames:01-11|[01-11]]]** Tanrı Adem’e bahçede istediği ağacın meyvesini yiyebileceğini, yalnız iyiyle kötüyü bilme ağacından yememesini buyurdu. Eğer ondan yerse **öleceğini** söyledi.
+  ***[[:tr:obs:notes:frames:02-11|[02-11]]]** “Sonunda **öleceksin** ve bedenin toprağa dönecek.”
+  ***[[:tr:obs:notes:frames:07-10|[07-10]]]** Sonra İshak **öldü** ve Yakup’la Esav onu gömdüler.
+  ***[[:tr:obs:notes:frames:37-05|[37-05]]]** İsa Marta’ya, “Diriliş ve hayat Ben’im. Bana iman eden, **ölse** bile yaşayacak! Bana iman eden asla **ölmez**! Buna iman ediyor musun?” dedi.
+  ***[[:tr:obs:notes:frames:40-08|[40-08]]]** İsa kendi **ölümüyle** insanların Tanrı’ya dönmeleri için yol açtı.
+  ***[[:tr:obs:notes:frames:43-07|[43-07]]]** “İsa **öldüyse** bile, Tanrı O’nu ölümden diriltti.”
+  ***[[:tr:obs:notes:frames:48-02|[48-02]]]** Onların günahı yüzünden dünyada herkes hastalanır, **ölür**.
+  ***[[:tr:obs:notes:frames:50-17|[50-17]]]** O (İsa), gözyaşlarını silecek ve artık ıstırap, keder, ağlayış, kötülük, ağrı ya da **ölüm** olmayacak.
+
 ~~DISCUSSION~~{{tag>publish review ktobs}}
 
 ~~NOCACHE~~

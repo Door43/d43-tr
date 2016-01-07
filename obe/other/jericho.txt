@@ -1,14 +1,11 @@
-====== Jericho ======
+====== Eriha ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-Jericho was a powerful city in the Promised Land of Canaan.
-
-  * This was the first city in the land of Canaan that God told the Israelites to conquer.
-  * Like all the Canaanites, the people of Jericho worshiped false idols.
-  * When Joshua led the Israelites against Jericho, God did a great miracle to help them defeat the city.
-
+Eriha, Tanrı’nın vadettiği Kenan ülkesinde kuvvetli bir kentti.
+  * Orası, Tanrı’nın Kenan ülkesinde İsraillilerin fethetmesini buyurduğu ilk kentti.
+  * Bütün Kenanlılar gibi Eriha’da oturanlar da putlara tapan insanlardı.
+  * Yeşu İsraillilerin Eriha’ya karşı savaşında önderlik ederken Tanrı büyük mucize ile onların o kenti yenmesine yardım etti.
 
 ===== Bible References: =====
 
@@ -17,9 +14,9 @@ Jericho was a powerful city in the Promised Land of Canaan.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:15-01|[15-01]]]** Joshua sent two spies to the Canaanite city of **Jericho**.
-  ***[[:tr:obs:notes:frames:15-03|[15-03]]]** After the people crossed the Jordan River, God told Joshua how to attack the powerful city of **Jericho**.
-  ***[[:tr:obs:notes:frames:15-05|[15-05]]]** Then the walls around **Jericho** fell down! The Israelites destroyed everything in the city as God had commanded.
+  ***[[:tr:obs:notes:frames:15-01|[15-01]]]** Yeşu, Kenan’ın **Eriha** kentine iki casus gönderdi.
+  ***[[:tr:obs:notes:frames:15-03|[15-03]]]** Halk Şeria Nehri’ni geçtikten sonra Tanrı Yeşu’ya kuvvetli **Eriha** kentine nasıl saldıracağını anlattı.
+  ***[[:tr:obs:notes:frames:15-05|[15-05]]]** O zaman **Eriha**’nın surları çöktü ve İsrailliler Tanrı’nın buyurduğu gibi kentteki her şeyi yok edebildiler.
 
 ~~DISCUSSION~~
 

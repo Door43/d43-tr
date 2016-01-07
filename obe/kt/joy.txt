@@ -1,21 +1,20 @@
-====== joy, joyful ======
+====== sevinç ======
 
-===== Definition: =====
+===== Tanım =====
 
-Joy is a feeling of delight and deep satisfaction that comes from God. The related term, "joyful" describes a person who feels very glad and full of deep happiness.
+Sevinç, Tanrı’dan gelen haz ve derin tatmin duygusudur. Buna bağlı olan «sevinçli» terimi kendini çok mutlu hisseden birini belirtir.
+  * Yaşadığı durumun çok iyi olduğunu derinden hisseden bir kişi sevinç duyar.
+  * İnsanlara gerçek sevinci veren, Tanrı’dır.
+  * Sevinçli olma, hoş durumlara bağlı değildir. Tanrı insanlara çok zor durum yaşadıkları zaman bile sevinç verebilir.
+  * Bazen evler ya da kentler gibi şeyler de «sevinçli» olarak nitelendirilir, o zaman orada yaşayan insanların sevinçli olduğu kastedilir.
 
-  * A person feels joy when he has a deep sense that what he is experiencing is very good.
-  * God is the one who gives true joy to people.
-  * Having joy does not depend on pleasant circumstances. God can give people joy even when very difficult things are happening in their lives.
-  * Sometimes things such as houses or cities are described as "joyful," which means that the people who live there are joyful.
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * The term "joy" could also be translated as "gladness" or "delight" or "great happiness."
-  * The phrase, "be joyful" could be translated as "rejoice" or "be glad."
-  * A person who is joyful could be described as "very happy" or "delighted" or "deeply glad."
-  * A phrase such as "make a joyful shout" could be translated as "shout in a way that shows you are very happy."
-  * A "joyful city" or "joyful house" could be translated as "city where joyful people live" or "house full of joyful people."
+  * «Sevinç» terimi ayrıca «neşe», «haz» ya da «mutluluk» olarak çevrilebilir.
+  * «Sevinçli ol» ifadesi «sevin» ya da «mutlu ol» şeklinde çevrilebilir.
+  * Sevinçli olan kişi «çok mutlu», «memnun» ya da «derinden sevinen» olarak tasvir edilebilir.
+  * «Sevinçli çığlık atmak» gibi ifade «çok mutlu olduğunu gösterecek şekilde bağırmak» olarak çevrilebilir.
+  * «Sevinçli kent» ya da «sevinçli ev» şöyle çevrilebilir: «sevinçli insanların yaşadıkları» ya da «sevinçli insanlarla dolu ev.»
 
 (See also: [[:tr:obe:other:rejoice|rejoice]])
 
@@ -25,9 +24,10 @@ Joy is a feeling of delight and deep satisfaction that comes from God. The relat
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:33-07|[33-07]]]**"The rocky ground is a person who hears God's word and accepts it with **joy**."
-  * **[[:tr:obs:notes:frames:34-04|[34-04]]]**"The kingdom of God is also like hidden treasure that someone hid in a field.. Another man found the treasure and then buried it again. He was so filled with **joy**, that he went and sold everything he had and used the money to buy that field."
-  * **[[:tr:obs:notes:frames:41-07|[41-07]]]** The women were full of fear and great **joy**. They ran to tell the disciples the good news.
+  ***[[:tr:obs:notes:frames:33-07|[33-07]]]** “Kayalık yer, Tanrı’nın sözünü duyup **sevinçle** kabul eden kişidir.”
+  ***[[:tr:obs:notes:frames:34-04|[34-04]]]** “Bundan başka, Tanrı’nın Hükümranlığı bir adamın tarlada gömdüğü defineye benzer. Başka birisi o defineyi bulup tekrar gömer. Çok **sevinir**, hatta gidip sahip olduğu her şeyi satar ve elde ettiği parayla o tarlayı satın alır.”
+  ***[[:tr:obs:notes:frames:41-07|[41-07]]]** Kadınlar hem korktular hem de çok **sevindiler**. Bu sevindirici haberi havarilere anlatmak için koştular.
+
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~

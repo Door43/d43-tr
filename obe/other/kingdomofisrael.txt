@@ -1,16 +1,12 @@
-====== kingdom of Israel ======
+====== İsrail Krallığı ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-After King Solomon died, the Israelites split into two kingdoms. The kingdom of Israel was the northern kingdom, composed of ten of the tribes of Israel.
-
-  * All of the kings of the kingdom of Israel were evil. They convinced the people to stop worshiping God at the Temple in Jerusalem, and to serve idols and false gods instead. So God eventually sent the Assyrians to attack them and to take many of them away as captives.
-  * The Assyrians brought foreigners to live with the few remaining people of the kingdom of Israel. These foreigners intermarried with the Israelites, and their descendants became the Samaritan people.
-
+Kral Süleyman öldükten sonra İsrailliler iki krallığa bölündüler. İsrail Krallığı, İsrail’in on oymağından oluşan kuzey krallığıydı.
+  * İsrail Krallığı’nın bütün kralları kötüydü. Onlar halkı Yeruşalim’deki Tapınak’ta Tanrı’ya tapmamaya, bunun yerine putlara ve yalancı ilâhlara kulluk etmeye ikna etti. Dolayısıyla Tanrı sonunda Asurluların onlara saldırmalarını ve onların birçoğunu esir tutmalarını sağladı.
+  * Asurlular İsrail Krallığı’ndaki halktan kalan azınlıkla beraber yaşasınlar diye ülkeye yabancıları getirdi. Bu yabancılar İsraillilerle evlendiler ve soyları Samiriyeli halkı oldular.
 
 (See also: [[kingdom]], [[israel]], [[kingdomofjudah]], [[assyria]], [[samaria]])
-
 
 ===== Bible References: =====
 
@@ -19,12 +15,12 @@ After King Solomon died, the Israelites split into two kingdoms. The kingdom of 
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:18-08|[18-08]]]** The other ten tribes of the nation of Israel that rebelled against Rehoboam appointed a man named Jeroboam to be their king. They set up their kingdom in the northern part of the land and were called the **kingdom of Israel**.
-  ***[[:tr:obs:notes:frames:18-10|[18-10]]]** The **kingdoms of Judah and Israel** became enemies and often fought against each other.
-  ***[[:tr:obs:notes:frames:18-11|[18-11]]]** In the new **kingdom of Israel**, all the kings were evil.
-  ***[[:tr:obs:notes:frames:20-01|[20-01]]]** The **kingdoms of Israel** and Judah both sinned against God.
-  ***[[:tr:obs:notes:frames:20-02|[20-02]]]** The **kingdom of Israel** was destroyed by the Assyrian Empire, a powerful, cruel nation. The Assyrians killed many people in the **kingdom of Israel**, took away everything of value, and burned much of the country.
-  ***[[:tr:obs:notes:frames:20-04|[20-04]]]** Then the Assyrians brought foreigners to live in the land where the **kingdom of Israel** had been. The foreigners rebuilt the destroyed cities and married the Israelites who were left there. The descendants of the Israelites who married foreigners were called Samaritans.
+  ***[[:tr:obs:notes:frames:18-08|[18-08]]]** İsrail’in Rehavam’a karşı başkaldıran öbür on oymağı Yarovam adında bir adamı kralları olarak kabul ettiler. Onlar ülkenin kuzey bölgesinde krallık kurdular ve **İsrail Krallığı** olarak adlandırıldılar.
+  ***[[:tr:obs:notes:frames:18-10|[18-10]]]** **Yahuda ve İsrail krallıkları** birbirine düşman oldular ve sık sık birbiriyle savaştılar.
+  ***[[:tr:obs:notes:frames:18-11|[18-11]]]** Yeni **İsrail Krallığı**’nda bütün krallar kötüydü.
+  ***[[:tr:obs:notes:frames:20-01|[20-01]]]** **İsrail Krallığı** ve Yahuda Krallığı Tanrı’ya karşı günah işlediler.
+  ***[[:tr:obs:notes:frames:20-02|[20-02]]]** **İsrail Krallığı** kuvvetli ve acımasız Asur İmparatorluğu tarafından tahrip edildi. Asurlular **İsrail Krallığı**’nda çok insan öldürdüler, değerli eşyaların hepsini götürdüler, ülkenin büyük kısmını yaktılar.
+  ***[[:tr:obs:notes:frames:20-04|[20-04]]]** Sonra Asurlular, eskiden **İsrail Krallığı** olan ülkeye yabancıları yerleştirdiler. Yabancılar, tahrip edilen kentleri yeniden kurdular, orada kalan İsraillilerle evlendiler. Yabancılarla evlenen İsraillilere Samiriyeli dendi.
 
 ~~DISCUSSION~~
 

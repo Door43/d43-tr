@@ -1,31 +1,27 @@
-====== son ======
+====== oğul ======
 
+===== Tanım =====
 
-===== Definition: =====
+«Oğul» terimi, ebeveynlerine ilişkisinde erkek bir çocuk ya da yetişkin anlamına gelir. Her yaşta bir kişiye ait olarak kullanılabilecek, ilişkiye ima eden bir terimdir.
+  * «Oğul» sözcüğü birinin soyundaki bir erkeğe ait olarak kullanılabilir. Ayrıca birinin evlat edindiği erkek çocuk anlamına gelebilir.
+  * Bazen «oğul» sözcüğü, kendisiyle biyolojik oğlu ya da evlatlığı gibi ilgilendiği bir erkek çocuğa ya da yetişkin kişiye ait olarak kullanılabilir.
+  * Ayrıca yaşça kendinden küçük olan bir erkek çocuğa ya da adama «oğlum» diye müracaat edilebilir.
+  * «Oğul» terimi Kutsal Kitap’ta torun ya da torunun oğlu gibi akrabalara ait olarak mecazi anlamda da sık sık kullanılır. Dolayısıyla İsa’ya denen «Davut oğlu» ifadesinin anlamı «Davut’un soyundan olan» anlamına gelir.
+  * Bazen İncil’de Mesih inanlısı hakkında mecazi anlamda «oğul» olarak bahsedilir. İnançları sayesinde Mesih inanlıları artık «Tanrı’nın oğulları»dır ve oğulların haklı mirasına sahip olurlar.
+  * Oğul’un başka mecazi anlamı «tabiatına ya da niteliklerine sahip», örneğin:
+  * «ışık oğulları»
+  * «itaatsizlik oğulları»
+  * «barış oğlu»
+  * «gök gürlemesi oğulları»
 
-The term "son" refers to a boy or man in relation to his parents. It can refer either to someone's male offspring or adopted son.
+===== Çeviri için öneriler =====
 
-  * The phrase "son of" is frequently used in the Bible to say exactly which person is being talked about. For example, in 1 Kings 4, "Azariah, son of Zadok" is a different person than "Azariah, son of Nathan." These two men are also different from "Azariah, son of Amaziah" in 2 Kings 15. This is similar to how family names are used in modern times to tell the difference between people who have the same first name.
-  * This term can also be used as a polite form of address to a boy or man who is younger.
-  * "Son" is often used figuratively in the Bible to refer to any male descendant, such as a grandson or great-grandson.
-  * Sometimes "sons of God" is used figuratively in the New Testament to refer to believers in Christ.
-  * Another figurative use of son means "having the nature or characteristics of" as in:
-      * "sons of the light"
-      * "sons of disobedience"
-      * "son of peace"
-      * "sons of thunder"
-
-
-===== Translation Suggestions: =====
-
-  * In most occurrences of this term, it is best to translate "son" using the literal term in the language that is used to refer to a son.
-  * When translating the term "Son of God," the usual, common term for "son" should be used.
-  * When used to refer to a descendant rather than a direct son, the term "descendant" could be used, as in referring to Jesus as the "descendant of David" or in genealogies where sometimes "son" refers to a male descendant.
-  * Sometimes "sons" can be translated as "children" when both males and females are being referred to. For example, "sons of God" could be translated as "children of God" since this expression also includes girls and women.
-  * The figurative expression "son of" can be translated as "someone who has the characteristics of" or "someone who is like" or "someone who has" or "someone who acts like."
+  * Bu terimin kullanıldığı durumların çoğunda dilin «oğul» için kullandığı genel sözcük kullanılmalı.
+  * «Oğul» ile torun, torunun oğlu (vs.) kastedildiği zaman «soy» olarak çevrilebilir.
+  * Bazen «oğullar» ile hem erkek hem kadın kastedildiğinde «evlatlar» söylenebilir. Örneğin, «Tanrı’nın oğulları» ifadesi kızlara ve kadınlara da ait olduğu için «Tanrı’nın evlatları» ya da «Tanrı’nın çocukları» olarak çevrilebilir.
+  * Yukarıdaki gibi mecazi anlamda kullanılan «oğul» sözcüğü «niteliğine sahip olan kişi», «benzeyen kişi», «sahip olan kişi» ya da «gibi davranan kişi» olarak çevrilebilir.
 
 (See also: [[:tr:obe:kt:sonofgod]], [[:tr:obe:other:father]], [[:tr:obe:other:descendant]])
-
 
 ===== Bible References: =====
 
@@ -34,14 +30,14 @@ The term "son" refers to a boy or man in relation to his parents. It can refer e
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:04-08|[04-08]]]** God spoke to Abram and promised again that he would have a **son**  and as many descendants as the stars in the sky.
-  * **[[:tr:obs:notes:frames:04-09|[04-09]]]** God said, ""I will give you a **son**  from your own body."
-  * **[[:tr:obs:notes:frames:05-05|[05-05]]]** About a year later, when Abraham was 100 years old and Sarah was 90, Sarah gave birth to Abraham's **son**.
-  * **[[:tr:obs:notes:frames:05-08|[05-08]]]** When they reached the place of sacrifice, Abraham tied up his **son**  Isaac and laid him on an altar. He was about to kill his **son**  when God said, "Stop! Do not hurt the boy! Now I know that you fear me because you did not keep your only **son**  from me."
-  * **[[:tr:obs:notes:frames:09-07|[09-07]]]** When she saw the baby, she took him as her own **son**.
-  * **[[:tr:obs:notes:frames:11-06|[11-06]]]** God killed every one of the Egyptians' firstborn **sons**.
-  * **[[:tr:obs:notes:frames:18-01|[18-01]]]** After many years, David died, and his **son**  Solomon began to rule.
-  * **[[:tr:obs:notes:frames:26-04|[26-04]]]**"Is this the **son**  of Joseph?‚" they said.
+  ***[[:tr:obs:notes:frames:04-08|[04-08]]]** Tanrı Avram’a tekrar seslenerek Avram’ın bir **oğlu** olacağını ve soyunun gökteki yıldızlar kadar çok olacağını vadetti.
+  ***[[:tr:obs:notes:frames:04-09|[04-09]]]** Tanrı Avram’a, “Senin öz **oğlun** olacak.” dedi.
+  ***[[:tr:obs:notes:frames:05-05|[05-05]]]** Yaklaşık olarak bir sene sonra İbrahim 100 ve Sara 90 yaşlarında oldukları zaman Sara İbrahim’e bir **oğul** doğurdu.
+  ***[[:tr:obs:notes:frames:05-08|[05-08]]]** Kurban verilecek yere varınca İbrahim, **oğlu** İshak’ı bağlayıp sunağa yatırdı. **Oğlunu** tam kesecekken Tanrı, “Dur!” dedi. “Çocuğa dokunma! Şimdi benden korktuğunu anladım, çünkü biricik **oğlunu** benden esirgemedin.”
+  ***[[:tr:obs:notes:frames:09-07|[09-07]]]** Bebeği görünce sevdi, öz **oğlu** olarak aldı.
+  ***[[:tr:obs:notes:frames:11-06|[11-06]]]** Tanrı Mısırlıların ilk doğan **erkek çocuklarının** hepsini öldürdü.
+  ***[[:tr:obs:notes:frames:18-01|[18-01]]]** Aradan uzun yıllar geçti. Davut öldü ve **oğlu** Süleyman İsrail’in kralı oldu.
+  ***[[:tr:obs:notes:frames:26-04|[26-04]]]** Herkes şaşırarak, “Yusuf’un **oğlu** değil mi bu?” dedi.
 
 ~~DISCUSSION~~{{tag>publish ktobs}}
 

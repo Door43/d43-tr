@@ -1,15 +1,14 @@
-====== humble, humility ======
+====== alçakgönüllü ======
 
-===== Definition: =====
+===== Tanım =====
 
-A humble person does not think of himself as better than others. He is not proud or arrogant.
-
-  * Being humble before God means understanding our weakness and imperfection in comparison with his greatness, wisdom and perfection.
-  * If a person humbles himself, he puts himself in a position of lower importance.
-  * Humility is thinking of the needs of others before one’s own needs.
-  * Humility also means serving with a modest attitude when using one's gifts and abilities.
-  * The phrase "be humble" could be translated as "don't be prideful."
-  * "Humble yourself before God" could be translated as, "Submit your will to God, recognizing his greatness."
+Alçakgönüllü insan kendini başkalarından üstün bilmez. Gururlu ya da kibirli olmaz.
+  * Tanrı’nın önünde alçakgönüllü olmak demek, Tanrı’nın yüceliği, bilgeliği ve mükemmelliğinin yanında zayıf olduğumuzun, kâmil olmadığımızın bilincinde olmak demektir.
+  * Kendini küçük gören kişi kendine daha az önem veren biridir.
+  * Alçakgönüllülük kendi ihtiyaçlarından önce başkalarının ihtiyaçlarını düşünmektir.
+  * Alçakgönüllülük ayrıca kendi armağan ve yeteneklerini kullanırken gurursuz tavırla hizmette bulunmaktır.
+  * «Alçakgönüllü ol» ifadesi «gururlu olma» şeklinde çevrilebilir.
+  * «Tanrı’nın önünde alçakgönüllü ol» şöyle çevrilebilir: «Tanrı’nın önünde kendini küçült» ya da «Tanrı’nın yüceliğini anlayarak iradeni Tanrı’ya teslim et.»
 
 (See also: [[proud|proud]])
 
@@ -19,7 +18,7 @@ A humble person does not think of himself as better than others. He is not proud
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:17-02|[17-02]]]** David was a **humble** and righteous man who trusted and obeyed God.
-  ***[[:tr:obs:notes:frames:34-10|[34-10]]]** "God will **humble** everyone who is proud, and he will lift up whoever **humbles** himself."
+  ***[[:tr:obs:notes:frames:17-02|[17-02]]]** Davut, Tanrı’ya iman ve itaat eden **alçakgönüllü** ve doğru bir adamdı.
+  ***[[:tr:obs:notes:frames:34-10|[34-10]]]** Tanrı kibirlenen herkesi **küçültür**, kendini **küçük gören** herkesi ise yüceltir.
 
 ~~DISCUSSION~~{{tag>publish ktobs}}

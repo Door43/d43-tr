@@ -1,15 +1,12 @@
-====== pray, prayer ======
+====== dua etmek ======
 
+===== Tanım =====
 
-===== Definition: =====
-
-To pray is to talk to God.
-
-  * People often pray to God to ask him to help them or other people. 
-  * People also thank and praise God in their prayers.
-  * Praying can also mean confessing our sins to God and asking him to forgive us.
-  * When people try to talk to their false god, this is also called "praying."
-
+Dua demek, Tanrı’yla sohbet demektir.
+  * İnsanlar sık sık Tanrı’dan kendilerine ya da başkalarına yardım etmesini dilemek için dua ederler. 
+  * İnsanlar ayrıca kendi dualarında Tanrı’ya hamt ve şükür ederler.
+  * Dua ayrıca Tanrı’ya günahlarımızı itiraf etmemiz ve O’ndan af dilememiz şeklinde olabilir.
+  * İnsanların yalancı ilâhlarına konuşmaya çalışmasına da «dua» denir.
 
 ===== Bible References: =====
 
@@ -17,13 +14,13 @@ To pray is to talk to God.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:06-05|[06-05]]]**  Isaac **prayed** for Rebekah, and God allowed her to get pregnant with twins.
-  ***[[:tr:obs:notes:frames:13-12|[13-12]]]**  But Moses **prayed** for them, and God listened to his **prayer** and did not destroy them.
-  ***[[:tr:obs:notes:frames:19-08|[19-08]]]**  Then the prophets of Baal **prayed** to Baal, "Hear us, O Baal!"
-  ***[[:tr:obs:notes:frames:21-07|[21-07]]]**  Priests also **prayed** to God for the people.
-  ***[[:tr:obs:notes:frames:38-11|[38-11]]]**  Jesus told his disciples to **pray** that they would not enter into temptation.
-  ***[[:tr:obs:notes:frames:43-13|[43-13]]]** The disciples continually listened to the teaching of the apostles, spent time together, ate together, and **prayed** with each other.
-  ***[[:tr:obs:notes:frames:49-18|[49-18]]]**  God tells you to **pray**, to study his word, to worship him with other Christians, and to tell others what he has done for you. 
+  ***[[:tr:obs:notes:frames:06-05|[06-05]]]** İshak Rebeka için **dua** etti ve Tanrı, ikiz bebeğe hamile kalmasını sağladı.
+  ***[[:tr:obs:notes:frames:13-12|[13-12]]]** Fakat Musa onlar için **dua** etti ve Tanrı Musa’nın **duası** sayesinde onları yok etmedi.
+  ***[[:tr:obs:notes:frames:19-08|[19-08]]]** Sonra Baal’ın peygamberleri, “Ey Baal, bizi işit!” diye **dua** ettiler.
+  ***[[:tr:obs:notes:frames:21-07|[21-07]]]** Kâhinler ayrıca halk için Tanrı’ya **dua** ederlerdi.
+  ***[[:tr:obs:notes:frames:38-11|[38-11]]]** İsa, havarilerine ayartılmamak için **dua** etmelerini söyledi.
+  ***[[:tr:obs:notes:frames:43-13|[43-13]]]** İmanlılar sürekli olarak havarilerin öğretisini dinliyor, birlikte vakit geçiriyor, yemek yiyor ve **dua** ediyorlardı.
+  ***[[:tr:obs:notes:frames:49-18|[49-18]]]** Tanrı sana **dua** etmeyi, sözünü araştırmayı, başka Mesih inanlılarıyla birlikte tapınmayı ve senin için yaptıklarını başkalarına anlatmayı buyuruyor.
 
 ~~DISCUSSION~~
 

@@ -1,23 +1,19 @@
-====== false god, god ======
+====== yalancı ilâh ======
 
-===== Definition: =====
+===== Tanım =====
 
-A false god is something that people worship instead of the one true God.
+Yalancı tanrı, insanların tek gerçek Tanrı’dan başka taptığı bir şeydir.
+  * Bu «tanrılar» hiç mevcut değiller. Hiçbir rakibi olmayan tek Tanrı, Yahve’dir.
+  * İnsanlar bazen yalancı tanrılarının simgesi olarak nesnelere put olarak taparlar.
+  *  Kutsal Kitap’ta Tanrı’nın halkı sık sık yalancı tanrılara tapmak için O’na itaat etmekten dönerdi.
+  * Cinler sık sık insanları aldatıp taptıkları yalancı tanrıların ve putların kudretli olduklarına inandırırlar.
 
-  * These "gods" do not exist. Yahweh is the only God, and he has no rival.
-  * People sometimes make objects into idols to worship as symbols of their false gods.
-  *  In the Bible, God's people frequently turned away from obeying him in order to worship false gods.
-  * Demons often deceive people into believing that the false gods and idols they worship have power.
+===== Çeviri için öneriler =====
 
- 
-
-===== Translation Suggestions: =====
-
-
-  * There may already be a word for "god" or "false god" in the language or in a nearby language.
-  * The term "idol" could be used to refer to false gods.
-  * In English, a small “g” is used to refer to false gods and large “G” is used to refer to the one true God. Other languages also do that.
-  * Another option would be to use a different word to refer to the false gods.
+  * Dilinizde ya da ona yakın bir dilde «yalancı tanrı» ya da «ilâh» kavramı için bir terim  artık bulunuyor olabilir.
+  * «Put» terimi yalancı tanrılara ait olarak kullanılabilir.
+  * Türkçe küçük “t” ile başlayan sözcük yalancı tanrılara, büyük “T” ile başlayan sözcük ise tek gerçek Tanrı’ya ait olarak kullanılır. Bu, başka diller için de söz konusudur.
+  * Başka bir seçenek, yalancı tanrılara ait olarak değişik sözcüğün kullanılmasıdır.
 
 (See also: [[:tr:obe:kt:god|God]], [[:tr:obe:other:idol|idol]], [[:tr:obe:kt:demon|demon, evil spirit, unclean spirit]], image, graven image other)
 
@@ -27,11 +23,12 @@ A false god is something that people worship instead of the one true God.
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:10-02|[10-02]]]** Through these plagues, God showed Pharaoh that he is more powerful than Pharaoh and all of Egypt's **gods**.
-  * **[[:tr:obs:notes:frames:13-04|[13-04]]]** Then God gave them the covenant and said, "I am Yahweh, your God, who saved you from slavery in Egypt. Do not worship other **gods**."
-  * **[[:tr:obs:notes:frames:14-02|[14-02]]]** They (Canaanites) worshiped false **gods**  and did many evil things.
-  * **[[:tr:obs:notes:frames:16-01|[16-01]]]** The Israelites began to worship the Canaanite **gods**  instead of Yahweh, the true God.
-  * **[[:tr:obs:notes:frames:18-13|[18-13]]]** But most of Judah's kings were evil, corrupt, and they worshiped idols. Some of the kings even sacrificed their children to false **gods**.
+  ***[[:tr:obs:notes:frames:10-02|[10-02]]]** Bu belalar vasıtasıyla Tanrı firavundan ve bütün Mısır **ilâhlarından** güçlü olduğunu gösterdi.
+  ***[[:tr:obs:notes:frames:13-04|[13-04]]]** Tanrı onlarla ahit yaparak şöyle dedi: “Seni Mısır’dan, köle olduğun ülkeden kurtaran Tanrın Yahve benim. Başka **ilâhlara** tapmayacaksın!”
+  ***[[:tr:obs:notes:frames:14-02|[14-02]]]** (Kenanlılar) Yalancı **ilâhlara** tapar ve çok kötülük yaparlardı.
+  ***[[:tr:obs:notes:frames:16-01|[16-01]]]** (İsrailliler) gerçek Tanrı Yahve yerine Kenan **ilâhlarına** taptılar.
+  ***[[:tr:obs:notes:frames:18-13|[18-13]]]** Fakat Yahuda’nın krallarının çoğu putlara tapan kötü ve bozuk kişilerdi. Bazı krallar çocuklarını yalancı **ilâhlara** kurban verdiler bile.
+
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~

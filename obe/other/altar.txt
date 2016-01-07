@@ -1,12 +1,11 @@
-====== altar ======
+====== sunak ======
 
-===== Definition: =====
+===== Tanım =====
 
-An altar was a raised structure on which the Israelites burned animals and grains as offerings to God.
-
-  * During Bible times, simple altars were often made by packing together a mound of earth or by carefully placing large stones to form a stable pile.
-  * Some special, box-shaped altars were made of wood overlaid with metals such as gold, brass, or bronze.
-  * Other people groups living nearby the Israelites also built altars to offer sacrifices to their gods.
+Sunak, İsraillilerin hayvan ve tahılları yakarak Tanrı’ya kurban sundukları bir yapıydı.
+  * Kutsal Kitap’ın yazıldığı zamanlarda basit sunaklar çoğu zaman toprak yığınından ya da iri taşlardan kurulurdu.
+  * Bazı kutu biçimli özel sunaklar tahtadan yapılır, üstü altın, bakır ya da tunç gibi metallerle kaplanırdı.
+  * İsraillilerin yakınında oturan diğer halklar da kendi ilâhlarına kurban sunmak amacıyla sunaklar kururlardı.
 
 (See also: [[sacrifice|sacrifice, offering]])
 
@@ -16,10 +15,11 @@ An altar was a raised structure on which the Israelites burned animals and grain
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:03-14|[03-14]]]** After Noah got off the boat, he built an **altar**  and sacrificed some of each kind of animal which could be used for a sacrifice.
-  * **[[:tr:obs:notes:frames:05-08|[05-08]]]** When they reached the place of sacrifice, Abraham tied up his son Isaac and laid him on an **altar**.
-  * **[[:tr:obs:notes:frames:13-09|[13-09]]]** A priest would kill the animal and burn it on the **altar**.
-  * **[[:tr:obs:notes:frames:16-06|[16-06]]]** He (Gideon) built a new altar dedicated to God near where the **altar**  to the idol used to be and made a sacrifice to God on it.
+  ***[[:tr:obs:notes:frames:03-14|[03-14]]]** Nuh gemiden çıktıktan sonra bir **sunak** yaptı ve kurbanlık olabilecek her hayvan türünden kurban sundu. Tanrı bu kurbandan razı oldu ve Nuh’la ailesini kutsadı.
+  ***[[:tr:obs:notes:frames:05-08|[05-08]]]** Kurban verilecek yere varınca İbrahim, oğlu İshak’ı bağlayıp **sunağa** yatırdı.
+  ***[[:tr:obs:notes:frames:13-09|[13-09]]]** Tanrı’nın yasasına karşı itaatsizlik eden herkes Buluşma Çadırı’nın önündeki **sunakta** Tanrı’ya bir hayvanı kurban olarak sunabilirdi.
+  ***[[:tr:obs:notes:frames:16-06|[16-06]]]** (Gidyon) Yıkılan put **sunağının** yanında Tanrı’ya yeni bir **sunak** yaptı ve üzerinde Tanrı’ya bir sunu sundu.
+
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~

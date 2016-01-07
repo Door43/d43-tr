@@ -1,17 +1,14 @@
-====== fast ======
+====== oruç ======
 
+===== Tanım =====
 
-===== Definition: =====
-
-To fast is to stop eating food, or certain foods and drinks, for a period of time, such as for a day or more.
-
-  * Fasting can help people to focus on God and pray without being distracted by food.
-  * Jesus condemned the Jewish religious leaders for fasting for the wrong reasons. They fasted so that others would think they were very religious people.
-  * Sometimes people fast in order to show that they are very sad or grieved about something.
-  * This can be translated as "to refrain from eating."
+Oruç, bir gün ya da daha uzun bir süre için tüm ya da bazı yiyecek ve içeceklerden vazgeçmek anlamına gelir.
+  * Oruç, insanın Tanrı’da odaklanmasına ve yemek için oyalanmadan dua etmesine yardım edebilir.
+  * İsa Yahudi din alimlerini yanlış amaçla oruç tuttukları için azarlardı. Onlar başkalarının onları çok dindar saymaları için oruç tutarlardı.
+  * Bazen insanlar bir şeye çok üzüldüklerini göstermek için oruç tutarlar.
+  * Bu, «yemekten vazgeçmek» şeklinde çevrilebilir.
 
 (See also: [[jewishleaders]])
-
 
 ===== Bible References: =====
 
@@ -20,9 +17,9 @@ To fast is to stop eating food, or certain foods and drinks, for a period of tim
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:25-01|[25-01]]]** Immediately after Jesus was baptized, the Holy Spirit led him out into the wilderness, where he **fasted** for forty days and forty nights.
-  ***[[:tr:obs:notes:frames:34-08|[34-08]]]** "'For example, I **fast** two times every week and I give you ten percent of all the money and goods that I receive.'"
-  ***[[:tr:obs:notes:frames:46-10|[46-10]]]** One day, while the Christians at Antioch were **fasting** and praying, the Holy Spirit said to them, "Set apart for me Barnabas and Saul to do the work I have called them to do." 
+  ***[[:tr:obs:notes:frames:25-01|[25-01]]]** İsa’nın vaftizinden hemen sonra Kutsal Ruh O’nu çöle götürdü. İsa kırk gün kırk gece çölde kalarak **oruç** tuttu.
+  ***[[:tr:obs:notes:frames:34-08|[34-08]]]** “Meselâ, haftada iki gün **oruç** tutarım, elime geçen paranın ve her şeyin onda birini sana veririm.”
+  ***[[:tr:obs:notes:frames:46-10|[46-10]]]** Bir gün Antakya’daki imanlılar **oruç** tutup dua ederlerken Kutsal Ruh onlara, “Barnaba’yla Saul’u kendilerini çağırdığım işe ayırın.” diye buyurdu.
 
 ~~DISCUSSION~~
 

@@ -1,34 +1,35 @@
-====== Jerusalem ======
+====== Yeruşalim ======
 
-===== Facts: =====
+===== Gerçeklikler =====
 
-Jerusalem was originally an ancient Canaanite city that later became of central political and religious importance in Israel. It is still the capital city of present-day Israel.
-
-  * The Old Testament city of Salem was probably the same as the city of Jerusalem. Both names have the root meaning of "peace."
-  * Abraham offered his son Isaac on Mount Moriah which is part of the city of Jerusalem.
-  * King David captured Jerusalem from the Jebusites and made it his capital city.
-  * David's son Solomon built the first templeon Mount Moriah in Jerusalem.
-  * The Babylonians destroyed Jerusalem, but 70 years later God allowed them to return and rebuild the city.
-  * Because the temple was located there, Jerusalem was the center for celebrating the major Jewish festivals.
-  * In the New Testament, Jesus was dedicated as a baby at the temple in Jerusalem and it was in Jerusalem where he was put on trial and sentenced to die on a cross.
-  * After Jesus came back to life, Jerusalem was one of the main places where Jesus spent time with his disciples before he returned to heaven.
-  * Since Jerusalem was located in the mountains of Israel, people normally referred to going to Jerusalem as "going up to Jerusalem." 
+Eskiden bir Kenan kenti olan Yeruşalim daha sonra İsrail’in önemli bir siyasi ve dinî merkezi oldu. Bugün hâlâ İsrail’in başkentidir.
+  * Eski Ahit’te Şalem olarak adlandırılan kent galiba Yeruşalim’in ta kendisiydi. Her ikisinin kökeni «sulh» anlamına geliyor.
+  * İbrahim’in oğlu İshak’ı kurban olarak sunmaya geldiği yer, Yeruşalim’in bir kısmı olan Moriya dağıdır.
+  * Kral Davut Yeruşalim’i Yevuslulardan fethedip kendi başkenti yaptı.
+  * Davut’un oğlu Süleyman ilk tapınağı Yeruşalim’deki Moriya dağında inşa etti.
+  * Babilliler Yeruşalim’i darmadağın ettiler, ama 70 yıl sonra Tanrı onların dönüp kenti yeniden kurmasına izin verdi.
+  * Tapınak orada bulunduğu için Yeruşalim önemli Yahudi bayramlarının kutlanma merkeziydi.
+  * Yeni Ahit’te İsa’nın bebekken Yeruşalim’deki tapınağa getirildiği ve ömrünün sonunda Yeruşalim’de yargılanıp idam edildiği tasvir edilir.
+  * İsa hayata döndükten sonra Yeruşalim, İsa’nın göğe alınmadan önce havarileriyle zaman geçirdiği başlıca yerlerden biriydi.
+  * Yeruşalim İsrail’in dağlarında bulunduğu için insanlar genelde Yeruşalim’e gitmekten bahsederken «Yeruşalim’e çıkmak» derlerdi.
 
 (See also: [[:tr:obe:other:david]], [[:tr:obe:other:solomon]], [[:tr:obe:kt:christ]], [[:tr:obe:kt:jesus]], [[:tr:obe:other:jebusites]], [[:tr:obe:other:zion]])
+
 ===== Bible References: =====
 
 {{topic>:en:bible?jerusalem&nocomments}}
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:17-05|[17-05]]]** David conquered **Jerusalem**  and made it his capital city.
-  * **[[:tr:obs:notes:frames:18-02|[18-02]]]** In **Jerusalem**, Solomon built the Temple for which his father David had planned and gathered materials.
-  * **[[:tr:obs:notes:frames:20-07|[20-07]]]** They (Babylonians) captured the city of **Jerusalem**, destroyed the Temple, and took away all the treasures of the city and the Temple.
-  * **[[:tr:obs:notes:frames:20-12|[20-12]]]** So, after seventy years in exile, a small group of Jews returned to the city of **Jerusalem**  in Judah.
-  * **[[:tr:obs:notes:frames:38-01|[38-01]]]** About three years after Jesus first began preaching and teaching publicly, Jesus told his disciples that he wanted to celebrate this Passover with them in **Jerusalem**, and that he would be killed there.
-  * **[[:tr:obs:notes:frames:38-02|[38-02]]]** After Jesus and the disciples arrived in **Jerusalem**, Judas went to the Jewish leaders and offered to betray Jesus to them in exchange for money.
-  * **[[:tr:obs:notes:frames:42-08|[42-08]]]** "It was also written in the scriptures that my disciples will proclaim that everyone should repent in order to receive forgiveness for their sins. They will do this starting in **Jerusalem**, and then go to all people groups everywhere."
-  * **[[:tr:obs:notes:frames:42-11|[42-11]]]** Forty days after Jesus rose from the dead, he told his disciples, "Stay in **Jerusalem**  until you receive power when the Holy Spirit comes on you."
+  ***[[:tr:obs:notes:frames:17-05|[17-05]]]** Davut **Yeruşalim**’i fethederek başkenti yaptı.
+  ***[[:tr:obs:notes:frames:18-02|[18-02]]]** Süleyman **Yeruşalim**’de babası Davut’un tasarladığı ve inşası için hazırlık yaptığı tapınağı inşa ettirdi.
+  ***[[:tr:obs:notes:frames:20-07|[20-07]]]** (Babilliler) **Yeruşalim** kentini fethettiler, Tapınak’ı yıktılar, kentin ve Tapınak’ın bütün hazinelerini götürdüler.
+  ***[[:tr:obs:notes:frames:20-12|[20-12]]]** Böylece yetmiş yıllık sürgünden sonra küçük grup Yahudi Yahuda’daki **Yeruşalim** kentine döndü.
+  ***[[:tr:obs:notes:frames:38-01|[38-01]]]** İsa halka vazetmeye ve öğretmeye başladıktan üç yıl sonra havarilerine onlarla beraber **Yeruşalim**’de Fısıh Bayramı’nı kutlamak istediğini ve orada öldürüleceğini söyledi.​
+  ***[[:tr:obs:notes:frames:38-02|[38-02]]]** İsa’yla havarileri **Yeruşalim**’e vardıklarında Yahuda Yahudi ileri gelenlerine gitti ve para karşılığında İsa’yı onlara teslim etmeyi önerdi.
+  ***[[:tr:obs:notes:frames:42-08|[42-08]]]** “Ayrıca bana iman edenlerin insanların günahlarının affedilmesi için tövbe etmesi gerektiğini ilan edecekleri de kutsal yazılarda önceden bildirilmiştir. Bu tövbe çağrısı **Yeruşalim**’den başlayarak her yerde yaşayan bütün milletlere duyurulacak.”
+  ***[[:tr:obs:notes:frames:42-11|[42-11]]]** İsa, ölümden dirilmesinden kırk gün sonra havarileri ve diğer imanlı kardeşlerine, “Kutsal Ruh’un üzerinize inmesiyle kudreti alıncaya kadar **Yeruşalim**’de kalın.” dedi.
+
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~

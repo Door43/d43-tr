@@ -1,16 +1,15 @@
-====== Sarah, Sarai ======
+====== Sara ======
+
+===== Gerçeklikler =====
 
 
-===== Facts: =====
+  * Sara, İbrahim’in karısıydı.
+  * Sara’nın asıl ismi «Saray»dı, ama Tanrı onun adını Sara olarak değiştirdi.
+  * Sara, Tanrı’nın İbrahim’le kendisine vadettiği oğlu doğurdu.
 
-    * Sarah was Abraham's wife.
-    * Sarah's name was originally "Sarai," but God changed it to Sarah.
-    * Sarah gave birth to the son God had promised to her and Abraham.
- 
 (Translation suggestions: [[en:ta:vol1:translate:translate_names]])
    
 (See also: [[en:obe:other:abraham]], [[isaac]])
-
 
 ===== Bible References: =====
 
@@ -19,10 +18,10 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:05-01|[05-01]]]** "So Abram's wife, **Sarai**, said to him, "Since God has not allowed me to have children and now I am too old to have children, here is my servant, Hagar. Marry her also so she can have a child for me."
-  ***[[:tr:obs:notes:frames:05-04|[05-04]]]** "'Your wife, **Sarai**, will have a son--he will be the son of promise.'"
-  ***[[:tr:obs:notes:frames:05-04|[05-04]]]** "God also changed **Sarai's** name to **Sarah**, which means "princess."
-  ***[[:tr:obs:notes:frames:05-05|[05-05]]]** "About a year later, when Abraham was 100 years old and **Sarah** was 90, **Sarah** gave birth to Abraham's son. They named him Isaac as God had told them to do."
+  ***[[:tr:obs:notes:frames:05-01|[05-01]]]** Bir gün **Saray** Avram’a şöyle teklifte bulundu: “Madem Tanrı beni çocuk sahibi olmaktan mahrum etmiş ve şimdi artık çocuk sahibi olacak yaşta değilim cariyem Hacer’i sana veriyorum. Onunla da evlen, benim için çocuk doğursun.”
+  ***[[:tr:obs:notes:frames:05-04|[05-04]]]** “Karın **Saray**’ın bir oğlu olacak ve o, vadedilen oğul olacak.”
+  ***[[:tr:obs:notes:frames:05-04|[05-04]]]** Tanrı **Saray**’ın adını da “prenses” anlamına gelen **Sara** olarak değiştirdi.
+  ***[[:tr:obs:notes:frames:05-05|[05-05]]]** Yaklaşık olarak bir sene sonra İbrahim 100 ve **Sara** 90 yaşlarında oldukları zaman **Sara** İbrahim’e bir oğul doğurdu. Tanrı’nın buyurduğu gibi adını İshak koydular.
 
 ~~DISCUSSION~~
 

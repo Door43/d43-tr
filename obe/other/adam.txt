@@ -1,18 +1,15 @@
-====== Adam ======
+====== Adem ======
 
-===== Facts: =====
+===== Gerçeklikler =====
 
-Adam was made in the image of God. God made Adam with many qualities that God has in himself, like personality, the ability to love, the capacity to make choices, to be self-aware, and to be capable of relationships and to communicate, plus many more.
+Adem Tanrı’nın suretinde yaratıldı. Tanrı Adem’i yarattığında kişilik, sevme yeteneği, karar verme, kendinin farkında olma, ilişki ve iletişim kurma yetileri gibi kendisinin de sahip olduğu birçok nitelikle onu yarattı.
+  * Adem ilk insandı.
+  * Tanrı onu topraktan yarattı ve ona hayat nefesi üfürdü.
+  * Adem’in adı İbranice «çamur» ya da «toprak» sözcüğüne benzer.
+  * Eski Ahit’te «Adem» ismi ve «insanlık» ya da «insan» sözcükleri aynıdır.
+  * Bütün insanlar Adem’le Havva’nın soyudurlar.
 
-  * Adam was the first man.
-  * God formed him from dirt and breathed life into him.
-  * Adam's name sounds similar to the Hebrew word for "red dirt" or "ground."
-  * The name "Adam" is the same as the Old Testament word for "mankind" or "human being."
-  * All people are descendants of Adam and Eve.
-
-Adam and Eve disobeyed God. They did what God told them not to do. This separated them from God and brought spiritual and physical death into their lives and into the world that God had made.
-
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+Adem ve Havva Tanrı’ya itaatsizlik ettiler. Tanrı’nın yapmamalarını buyurduğu işi yaptılar ve böylece Tanrı’dan ayrılmış oldular, hayatlarına ve Tanrı’nın onları koyduğu dünyaya manevi ve fiziksel ölüm getirmiş oldular.(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
 
 (See also: [[:tr:obe:other:eve|Eve]])
 
@@ -22,11 +19,12 @@ Adam and Eve disobeyed God. They did what God told them not to do. This separate
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:01-09|[01-09]]]** Then God said, "Let us make human beings in our image to be like us."
-  * **[[:tr:obs:notes:frames:01-10|[01-10]]]** This man's name was **Adam**. God planted a garden where **Adam**  could live, and put him there to care for it.
-  * **[[:tr:obs:notes:frames:01-12|[01-12]]]** Then God said, "It is not good for man to be alone." But none of the animals could be **Adam's**  helper.
-  * **[[:tr:obs:notes:frames:02-11|[02-11]]]** And God clothed **Adam**  and Eve with animal skins.
-  * **[[:tr:obs:notes:frames:02-12|[02-12]]]** So God sent **Adam**  and Eve away from the beautiful garden.
-  * **[[:tr:obs:notes:frames:49-08|[49-08]]]** When **Adam**  and Eve sinned, it affected all of their descendants.
-  * **[[:tr:obs:notes:frames:50-16|[50-16]]]** Because **Adam**  and Eve disobeyed God and brought sin into this world, God cursed it and decided to destroy it.
+  ***[[:tr:obs:notes:frames:01-09|[01-09]]]** Sonra Tanrı dedi: “Kendi suretimizde, kendimize benzer insanları yaratalım.”
+  ***[[:tr:obs:notes:frames:01-10|[01-10]]]** İlk insanın adı **Adem** oldu. Tanrı, **Adem**’in yaşayacağı ve işleyeceği bir bahçe dikip **Adem**’i oraya koydu.
+  ***[[:tr:obs:notes:frames:01-12|[01-12]]]** Sonra Tanrı, “Adamın yalnız kalması iyi değil.” dedi. Fakat hayvanlardan hiçbiri **Adem**’e uygun bir yardımcı olmadı.
+  ***[[:tr:obs:notes:frames:02-11|[02-11]]]** Tanrı, **Adem**’le Havva’ya hayvan derisi giydirdi.
+  ***[[:tr:obs:notes:frames:02-12|[02-12]]]** Bu sebeple Tanrı, **Adem** ve Havva’yı güzel bahçeden kovdu.
+  ***[[:tr:obs:notes:frames:49-08|[49-08]]]** **Adem**’le Havva’nın işlediği günah onların bütün soyunu etkiledi.
+  ***[[:tr:obs:notes:frames:50-16|[50-16]]]** **Adem**’le Havva Tanrı’ya karşı itaatsiz olup dünyaya günah getirdikleri için Tanrı dünyayı lanetledi, yok etmeye karar verdi.
+
 ~~DISCUSSION~~{{tag>publish ktobs}}

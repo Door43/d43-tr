@@ -1,18 +1,15 @@
-====== Joseph (OT) ======
+====== Yusuf (Tevrat) ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-Joseph was the eleventh son of Jacob and the first son of his mother Rachel.
-
-    * Joseph was his father's favorite son so his brothers were jealous of him; they sold him into slavery.
-    * Joseph went through difficult times, including being a slave and a prisoner in Egypt, yet he remained faithful to God.
-    * God brought him to the second highest place of power in Egypt and used him to save Egypt, and his father's family, from starving.
+Yusuf Yakup’un on birinci ve annesi Rahel’in birinci oğluydu.
+  * Yusuf babasının en çok sevdiği oğluydu ve dolayısıyla kardeşleri onu kıskandılar; onu köleliğe sattılar.
+  * Yusuf Mısır’da kölelik ve hapis dahil olmak üzere çok zor dönemlerden geçti, fakat Tanrı’ya sadık kaldı.
+  * Tanrı onu Mısır’da ikinci güç sahibi makamına yükseltti ve hem Mısır’ı hem de babasının ailesini kıtlıktan kurtarmak için kullandı.
 
 (Translation suggestions: [[en:ta:vol1:translate:translate_names]])
 
 (See also: [[jacob]], [[egypt]])
-
 
 ===== Bible References: =====
 
@@ -21,12 +18,12 @@ Joseph was the eleventh son of Jacob and the first son of his mother Rachel.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:08-02|[08-02]]]** **Joseph's** brothers hated him because their father loved him most and because Joseph had dreamed that he would be their ruler.
-  ***[[:tr:obs:notes:frames:08-04|[08-04]]]** The slave traders took **Joseph** to Egypt.
-  ***[[:tr:obs:notes:frames:08-05|[08-05]]]** Even in prison, **Joseph** remained faithful to God, and God blessed him.
-  ***[[:tr:obs:notes:frames:08-07|[08-07]]]** God had given **Joseph** the ability to interpret dreams, so Pharaoh had Joseph brought to him from the prison.
-  ***[[:tr:obs:notes:frames:08-09|[08-09]]]** **Joseph** told the people to store up large amounts of food during the seven years of good harvests.
-  ***[[:tr:obs:notes:frames:09-02|[09-02]]]** The Egyptians no longer remembered **Joseph** and all he had done to help them.
+  ***[[:tr:obs:notes:frames:08-02|[08-02]]]** Kardeşleri **Yusuf**’tan nefret ediyorlardı, çünkü babaları onu en çok severdi ve Yusuf onların üzerinde hâkim olacağını hayal ederdi.
+  ***[[:tr:obs:notes:frames:08-04|[08-04]]]** Köle tüccarları **Yusuf**’u Mısır’a götürdüler.
+  ***[[:tr:obs:notes:frames:08-05|[08-05]]]** **Yusuf** zindanda bile Tanrı’ya sadık kaldı ve Tanrı onu kutsadı.
+  ***[[:tr:obs:notes:frames:08-07|[08-07]]]** Tanrı’nın **Yusuf**’a rüya yorumlama yeteneği verdiğini duyan firavun, Yusuf’un zindandan getirilmesini buyurdu.
+  ***[[:tr:obs:notes:frames:08-09|[08-09]]]** **Yusuf** tüm halka bol hasatlı yedi yıl boyunca çok miktarda erzakın saklanmasını buyurdu.
+  ***[[:tr:obs:notes:frames:09-02|[09-02]]]** Mısırlılar artık **Yusuf**’u, onlara yardım etmek için bütün ettiklerini unutmuşlardı.
 
 ~~DISCUSSION~~
 

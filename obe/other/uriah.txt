@@ -1,13 +1,11 @@
-====== Uriah ======
+====== Uriya ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-Uriah was a righteous man and one of King David's best soldiers.
-
-  * Uriah had a very beautiful wife named Bathsheba.
-  * David committed adultery with Uriah's wife, and she became pregnant with David's child.
-  * David caused Uriah to be killed in battle in order to cover up his sin. David then married Bathsheba.
+Uriya doğru biri, Kral Davut’un en iyi askerlerinden biriydi.
+  * Uriya’nın Bat-Şeva adlı güzeller güzeli bir eşi vardı.
+  * Davut Uriya’nın eşiyle zina etti ve o, Davut’tan hamile kaldı.
+  * Davut kendi günahını örtbas etmek için Uriya’nın savaşta vurulup öldürülmesini düzenledi, sonra da Bat-Şeva’yla evlendi.
 
 (Translation suggestions: [[en:ta:vol1:translate:translate_names]])
 
@@ -20,8 +18,8 @@ Uriah was a righteous man and one of King David's best soldiers.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:17-12|[17-12]]]** Bathsheba's husband, a man named **Uriah**, was one of David's best soldiers. David called **Uriah** back from the battle and told him to go be with his wife. But **Uriah** refused to go home while the rest of the soldiers were in battle. So David sent **Uriah** back to the battle and told the general to place him where the enemy was strongest so that he would be killed.
-  ***[[:tr:obs:notes:frames:17-13|[17-13]]]** After **Uriah** was killed, David married Bathsheba.
+  ***[[:tr:obs:notes:frames:17-12|[17-12]]]** Bat-Şeva’nın kocası, Davut’un en iyi askerlerinden biri **Uriya**’ydı. Davut **Uriya**’nın karısıyla olması için savaştan eve dönmesini buyurdu. Fakat **Uriya**, diğer askerler savaşırken eve dönmekten vazgeçti. O zaman Davut **Uriya**’yı tekrar savaşa gönderdi ve vurulup öldürülmesi için düşmanın en çok kuvvetleri olduğu cepheye yerleştirilmesini sağladı.
+  ***[[:tr:obs:notes:frames:17-13|[17-13]]]** **Uriya** öldürüldükten sonra Davut Bat-Şeva’yla evlendi.
 
 ~~DISCUSSION~~
 

@@ -1,18 +1,15 @@
-====== Mary ======
+====== Meryem ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-Mary was the mother of Jesus and the wife of Joseph.
-
-  * The Holy Spirit miraculously caused Mary to become pregnant while she was a virgin. The baby in her was the Son of God. 
-  * Joseph took Mary as his wife, but Mary remained a virgin until after the baby was born.
-  * When the baby was born, Mary and Joseph named him Jesus.
+Meryem, İsa’nın annesi ve Yusuf’un karısıydı.
+  * Kutsal Ruh Meryem’in bakire iken mucizeyle hamile olmasını sağladı. Rahmindeki bebek Tanrı’nın Oğlu’ydu. 
+  * Yusuf Meryem’i karısı olarak kabul etti, ama Meryem çocuğunu doğurana kadar bakire kaldı.
+  * Çocuk doğunca Meryem’le Yusuf O’na İsa adını verdiler.
 
 (Translation suggestions: [[en:ta:vol1:translate:translate_names]])
 
 (See also: [[en:obe:kt:jesus]], [[josephnt]], [[en:obe:kt:sonofgod]], [[virgin]])
-
 
 ===== Bible References: =====
 
@@ -21,12 +18,12 @@ Mary was the mother of Jesus and the wife of Joseph.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:22-04|[22-04]]]** When Elizabeth was six months pregnant, the same angel appeared to Elizabeth's relative, whose name was **Mary**. She was a virgin and was engaged to be married to a man named Joseph. The angel said, "You will become pregnant and give birth to a son. You are to name him Jesus and he will be the Messiah."
-  ***[[:tr:obs:notes:frames:22-05|[22-05]]]** The angel explained, "The Holy Spirit will come to you, and the power of God will overshadow you. So the baby will be holy, the Son of God." **Mary** believed and accepted what the angel said.
-  ***[[:tr:obs:notes:frames:22-06|[22-06]]]** Soon after the angel spoke to **Mary**, she went and visited Elizabeth. As soon as Elizabeth heard **Mary's** greeting, Elizabeth's baby jumped inside her.
-  ***[[:tr:obs:notes:frames:23-02|[23-02]]]** The angel said, "Joseph, do not be afraid to take **Mary** as your wife. The baby in her body is from the Holy Spirit."
-  ***[[:tr:obs:notes:frames:23-04|[23-04]]]** Joseph and **Mary** had to make a long journey from where they lived in Nazareth to Bethlehem because their ancestor was David whose hometown was Bethlehem.
-  ***[[:tr:obs:notes:frames:49-01|[49-01]]]** An angel told a virgin named **Mary** that she would give birth to God's Son. So while she was still a virgin, she gave birth to a son and named him Jesus. 
+  ***[[:tr:obs:notes:frames:22-04|[22-04]]]** Elizabet’in hamileliğinin altıncı ayında melek ansızın Elizabet’in akrabası **Meryem**’e göründü. **Meryem** bakireydi ve Yusuf adındaki adamla nişanlanmıştı. Melek ona şöyle dedi: “Sen hamile kalıp bir oğul doğuracaksın. Ona İsa adını vereceksin. O, yüceler yücesi Tanrı’nın Oğlu olacak ve ebedî hüküm sürecek.”
+  ***[[:tr:obs:notes:frames:22-05|[22-05]]]** Melek ona, “Kutsal Ruh senin üzerine gelecek ve Tanrı’nın gücü sana gölge salacak. Bunun için senin çocuğun kutsal, Tanrı’nın Oğlu olacak.” dedi. **Meryem** meleğin sözüne inandı, dediğini kabul etti.
+  ***[[:tr:obs:notes:frames:22-06|[22-06]]]** Meleğin **Meryem**’le konuşmasından kısa bir süre sonra **Meryem** Elizabet’le görüşmeye gitti. Elizabet **Meryem**’in selamını duyunca rahmindeki çocuk hopladı.
+  ***[[:tr:obs:notes:frames:23-02|[23-02]]]** Melek dedi: “Yusuf, **Meryem**’i karın olarak kabul etmekten korkma. Rahmindeki çocuk Kutsal Ruh’tandır.”
+  ***[[:tr:obs:notes:frames:23-04|[23-04]]]** Nasıra kentinde oturan Yusuf’la **Meryem**, babaları Davut’un doğduğu kent Beytlehem’e uzun yol gitmeye mecbur oldular.
+  ***[[:tr:obs:notes:frames:49-01|[49-01]]]** Melek, **Meryem** adındaki bakire bir kıza Tanrı’nın Oğlu’nu doğuracağını söyledi. Böylece **Meryem** hâlâ bakireyken bir oğul doğurdu ve adını İsa koydu.
 
 ~~DISCUSSION~~
 

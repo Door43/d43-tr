@@ -1,14 +1,13 @@
-====== Israel, Israelites, nation of Israel ======
+====== İsrail ======
 
-===== Facts: =====
+===== Gerçeklikler =====
 
-Israel was the name God gave to Jacob. Israel means, "He struggles with God."
-
-  * Jacob's descendants became known as the people of Israel, the nation of Israel, or the Israelites.
-  * God formed his covenant with the people of Israel. They were his chosen people.
-  * Israel was the name of their nation.
-  * The Nation of Israel was made up of twelve tribes.
-  * Some time after King Solomon died, the nation was divided into two kingdoms: the southern kingdom, called Judah and the northern kingdom, called Israel.
+İsrail, Tanrı’nın Yakup’a verdiği addır. İsrail adının anlamı «O, Tanrı’yla güreşir.»
+  * Yakup’un soyu, İsrail halkı ya da İsrailliler olarak tanındı.
+  * Tanrı İsrail halkı ile ahdini yaptı. İsrailliler O’nun seçilmiş halkıydı.
+  * İsrail, onların milletinin adıydı.
+  * İsrail halkı, on iki oymaktan oluşuyordu.
+  * Kral Süleyman’ın ölümünden bir süre sonra halk Yahuda adındaki güney krallık ve İsrail adındaki kuzey krallık olmak üzere iki krallığa bölündü.
 
 (See also: [[jacob|Jacob, Israel]], [[kingdomofisrael|kingdom of Israel]], [[kingdomofjudah|kingdom of Judah, Judah]])
 
@@ -18,14 +17,14 @@ Israel was the name God gave to Jacob. Israel means, "He struggles with God."
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:08-15|[08-15]]]** The descendants of the twelve sons became the twelve tribes of **Israel**.
-  ***[[:tr:obs:notes:frames:09-03|[09-03]]]** The Egyptians forced the **Israelites** to build many buildings and even whole cities.
-  ***[[:tr:obs:notes:frames:09-05|[09-05]]]** A certain **Israelite** woman gave birth to a baby boy.
-  ***[[:tr:obs:notes:frames:10-01|[10-01]]]** They said, "This is what the God of **Israel** says, 'Let my people go!'"
-  ***[[:tr:obs:notes:frames:14-12|[14-12]]]** But despite all this, the people of **Israel ** complained and grumbled against God and against Moses.
-  ***[[:tr:obs:notes:frames:15-09|[15-09]]]** God fought for **Israel** that day. He caused the Amorites to be confused and he sent large hailstones that killed many of the Amorites.
-  ***[[:tr:obs:notes:frames:15-12|[15-12]]]** After this battle, God gave each tribe of **Israel ** its own section of the Promised Land. Then God gave **Israel** peace along all its borders.
-  ***[[:tr:obs:notes:frames:16-16|[16-16]]]** So God punished **Israel ** again for worshiping idols.
-  ***[[:tr:obs:notes:frames:43-06|[43-06]]]** "Men of **Israel**, Jesus was a man who did many mighty signs and wonders by the power of God, as you have seen and already know."
+  ***[[:tr:obs:notes:frames:08-15|[08-15]]]** Yakup’un on iki oğlunun soyundan gelenler **İsrail**’in on iki oymağı oldular.
+  ***[[:tr:obs:notes:frames:09-03|[09-03]]]** Mısırlılar **İsraillilere** birçok binalar, hatta kentler kurdurdular.
+  ***[[:tr:obs:notes:frames:09-05|[09-05]]]** Bir **İsrailli** kadın bir erkek çocuk doğurdu.
+  ***[[:tr:obs:notes:frames:10-01|[10-01]]]** (Onlar) şöyle dediler: “**İsrail**’in Tanrısı halkımı salıver diyor!”
+  ***[[:tr:obs:notes:frames:14-12|[14-12]]]** Buna rağmen **İsrail** halkı Tanrı’ya ve Musa’ya karşı söylendi, homurdandı.
+  ***[[:tr:obs:notes:frames:15-09|[15-09]]]** O gün Tanrı, **İsrail** için savaştı. Amorluları şaşkına çevirdi, onların üzerine gökten iri iri dolu yağdırarak birçoğunu öldürdü.
+  ***[[:tr:obs:notes:frames:15-12|[15-12]]]** Bu savaşlar bitince Tanrı, **İsrail**’in her oymağına vadettiği ülkenin belirli bir kısmını verdi. Sonra Tanrı **İsrail**’i sınırları içinde selâmete kavuşturdu.
+  ***[[:tr:obs:notes:frames:16-16|[16-16]]]** Bu yüzden Tanrı, yine putlara tapınmaya başlayan **İsrail** halkını cezalandırdı.
+  ***[[:tr:obs:notes:frames:43-06|[43-06]]]** “Ey **İsrail** halkı! Kendiniz zaten gördüğünüz ve bildiğiniz gibi, İsa Tanrı’nın kudretiyle birçok alâmet ve mucize yapan bir insandı.”
 
 ~~DISCUSSION~~{{tag>publish ktobs}}

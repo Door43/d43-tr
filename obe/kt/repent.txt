@@ -1,30 +1,30 @@
-====== repent, repentance ======
+====== tövbe etmek ======
 
-===== Definition: =====
+===== Tanım =====
 
-The term often translated as "repent" literally means to turn away from a sinful, human way of thinking and acting, and to turn to God's way of thinking and acting. Repentance is the act of repenting.
+Çoğu zaman «tövbe» olarak çevrilen sözcük günahlı, insani düşünce tarzından Tanrı’nın düşünce ve davranış tarzına dönme anlamına gelir.
+  * İnsanlar gerçekten günahlarından tövbe ettikleri zaman Tanrı onları affeder.
+  * Tövbe etmelerinin sonucu, Tanrı’ya itaat etmeye başlamalarıdır.
+  * Bu terimin anlamı yüreğin değişmesine, günahtan vazgeçip Tanrı’ya dönmesine ima eder.
 
-  * When people truly repent of their sins, God forgives them.
-  * The result of repenting will be that the person starts obeying God.
-  * This term involves a change of heart, a turning toward God and away from sin.
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * The term, "repent" can be translated with a word or phrase that means, "turn back (to God)" or "turn the mind away from sin and toward God" or "turn toward God, away from sin."
-  * The meaning includes having a change of heart, not just actions. It shows a change of thinking where sin is rejected and God is pursued.
+  * «Tövbe etmek» terimi «Tanrı’ya dönmek», «düşüncesini günahtan Tanrı’ya döndürmek» ya da «günahtan Tanrı’ya dönmek» olarak çevrilebilir.
+  * Bu sözcüğün anlamına sadece eylemlerin değil, yüreğin değişmesi dahildir. Tövbe, günahı reddeden ve Tanrı’ya yaklaşan bir düşünce değişikliğini gösterir.
 
 (See also: [[:tr:obe:kt:forgive]], [[:tr:obe:kt:sin]])
+
 ===== Bible References: =====
 
 {{topic>:en:bible?repent&nocomments}}
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:16-02|[16-02]]]** After many years of disobeying God and being oppressed by their enemies, the Israelites **repented**  and asked God to rescue them.
-  * **[[:tr:obs:notes:frames:17-13|[17-13]]]** David **repented**  of his sin and God forgave him.
-  * **[[:tr:obs:notes:frames:19-18|[19-18]]]** They (prophets) warned people that God would destroy them if they did not **repent**.
-  * **[[:tr:obs:notes:frames:24-02|[24-02]]]** Many people came out to the wilderness to listen to John. He preached to them, saying, "**Repent**, for the kingdom of God is near!"
-  * **[[:tr:obs:notes:frames:42-08|[42-08]]]**""It was also written in the scriptures that my disciples will proclaim that everyone should repent in order to **receive**  forgiveness for their sins. "
-  * **[[:tr:obs:notes:frames:44-05|[44-05]]]**"So now, **repent**  and turn to God so that your sins will be washed away."
+  ***[[:tr:obs:notes:frames:16-02|[16-02]]]** Tanrı’ya itaatsiz olup düşmanlarının baskısı altında yaşadıkları nice yıllardan sonra İsrailliler **tövbe** eder, Tanrı’ya kendilerini kurtarması için yalvarırlardı.
+  ***[[:tr:obs:notes:frames:17-13|[17-13]]]** Davut günahından **tövbe** etti ve Tanrı onu affetti.
+  ***[[:tr:obs:notes:frames:19-18|[19-18]]]** (Peygamberler) Halkı uyararak, **tövbe** etmezlerse Tanrı’nın onları yok edeceğini ilan ettiler.
+  ***[[:tr:obs:notes:frames:24-02|[24-02]]]** Çok insan Yahya’yı dinlemek için çöle giderdi. Yahya onlara, “**Tövbe** edin, çünkü Tanrı’nın Hükümranlığı yaklaştı!” diye seslenirdi.
+  ***[[:tr:obs:notes:frames:42-08|[42-08]]]** “Ayrıca bana iman edenlerin insanların günahlarının affedilmesi için **tövbe** etmesi gerektiğini ilan edecekleri de kutsal yazılarda önceden bildirilmiştir.”
+  ***[[:tr:obs:notes:frames:44-05|[44-05]]]** “Öyleyse şimdi **tövbe** edin ve Tanrı’ya dönün ki, günahlarınız silinsin.”
 
 ~~DISCUSSION~~{{tag>publish ktobs}}

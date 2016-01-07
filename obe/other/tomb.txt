@@ -1,12 +1,11 @@
-====== tomb, grave, burial place ======
+====== mezar ======
 
-===== Definition: =====
+===== Tanım =====
 
-A tomb is a place where people put the bodies of those who die.
-
-  * The Jews sometimes used natural caves as tombs, and sometimes they dug caves out of the rock on the side of a hill.
-  * In New Testament times, it was common to roll a large, heavy, round stone in front of the opening of a tomb in order to close it.
-  * This term can also be translated as, "grave." But if your word for grave can only refer to a hole in which the body is placed below the ground, then it might be better to translate tomb as, "cave" or "hole in a hill."
+Mezar, ölen insanların cesetlerinin konduğu yerdir.
+  * Yahudiler bazen mezar olarak doğal mağaraları kullanır, bazen tepe yamaçlarından mağara kazıp mezar yaparlardı.
+  * Yeni Ahit döneminde genel olarak mezarı kapatmak amacıyla girişine büyük, ağır, yuvarlak bir taş konurdu.
+  * Bu terim ayrıca «mezar» olarak çevrilebilir. Fakat sizin mezar anlamında kullandığınız sözcük ile sadece cesedin yer altına konduğu bir çukur kastediliyorsa, mezarın «mağara» ya da «tepedeki çukur» olarak çevrilmesi daha iyi olur.
 
 (See also: [[:tr:obe:kt:death]], [[:tr:obe:other:bury]])
 
@@ -16,12 +15,13 @@ A tomb is a place where people put the bodies of those who die.
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:32-04|[32-04]]]** The man lived among the **tombs**  in the area.
-  * **[[:tr:obs:notes:frames:37-06|[37-06]]]** Jesus asked them, "Where have you put Lazarus?" They told him, "In the **tomb**. Come and see."
-  * **[[:tr:obs:notes:frames:37-07|[37-07]]]** The **tomb**  was a cave with a stone rolled in front of its opening.
-  * **[[:tr:obs:notes:frames:40-09|[40-09]]]** Then Joseph and Nicodemus, two Jewish leaders who believed Jesus was the Messiah, asked Pilate for Jesus' body. They wrapped his body in cloth and placed it in a **tomb**  cut out of rock. Then they rolled a large stone in front the **tomb**  to block the opening.
-  * **[[:tr:obs:notes:frames:41-04|[41-04]]]** He (the angel) rolled away the stone that was covering the entrance to the **tomb**  and sat on it. The soldiers guarding the **tomb**  were terrified and fell to the ground like dead men.
-  * **[[:tr:obs:notes:frames:41-05|[41-05]]]** When the women arrived at the **tomb**, the angel told them, "Do not be afraid. Jesus is not here. He has risen from the dead, just like he said he would! Look in the **tomb**  and see." The women looked into the **tomb**  and saw where Jesus' body had been laid. His body was not there!
+  ***[[:tr:obs:notes:frames:32-04|[32-04]]]** Adam **mezarlar** arasında yaşıyor, gece gündüz bağırıyordu.
+  ***[[:tr:obs:notes:frames:37-06|[37-06]]]** İsa onlara, “Lazar’ı nereye koydunuz?” diye sordu. Onlar, “**Mezara** koyduk. Gel gör.” diye cevap verdiler.
+  ***[[:tr:obs:notes:frames:37-07|[37-07]]]** **Mezar**, ağzı büyük bir taşla kapatılmış bir mağaraydı.
+  ***[[:tr:obs:notes:frames:40-09|[40-09]]]** Sonra Yahudi ileri gelenlerinden iki kişi -İsa’nın Mesih olduğuna iman eden Yusuf ve Nikodim- Pilatus’a müracaat ederek İsa’nın cesedini istediler. İsa’nın bedenini keten bezlere sardılar ve kayaya oyulmuş bir **mezara** yatırdılar. Sonra **mezarın** girişine kocaman bir taş yuvarlatarak girişi kapattılar.
+  ***[[:tr:obs:notes:frames:41-04|[41-04]]]** (Melek) **mezarın** girişini kapayan taşı yana yuvarlayıp üstünde oturdu. **Mezarı** koruyan askerler korkuya düştüler ve ölü gibi yere yığıldılar.
+  ***[[:tr:obs:notes:frames:41-05|[41-05]]]** Kadınlar **mezara** varınca melek onlara, “Korkmayın! İsa burada değil. Önceden dediği gibi, ölümden dirildi! **Mezarın** içine bakın, görün.” dedi. Kadınlar **mezarın** içine baktılar, İsa’nın yattığı yeri gördüler. Orada cesedi yoktu!
+
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~

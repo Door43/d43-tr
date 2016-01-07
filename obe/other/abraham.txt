@@ -1,20 +1,17 @@
-====== Abraham, Abram ======
+====== İbrahim ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-Abraham was the person that God chose to start the family that would grow into the people known as the Israelites. 
-
-    * God promised Abraham that he would have many descendants and that they would become a great nation.
-    * God made his covenant with Abraham and promised to uphold it with his descendants forever.
-    * Abraham believed God and obeyed him. 
-    * Abraham's name was originally "Abram," but God changed it to Abraham.
-    * Abram means, "exalted father," and Abraham means, "father of many."
+İbrahim, büyüyüp İsrailliler olarak bilinen halka dönüşecek olan ailenin babası olmak üzere Tanrı’nın seçtiği kişiydi. 
+  * Tanrı İbrahim’e soyunun çok olacağını ve büyük millet olacağını vadetti.
+  * Tanrı İbrahim’le ahdini yaptı ve bu ahdi İbrahim’in soyu ile sonsuza dek sürdüreceğini vadetti.
+  * İbrahim Tanrı’ya iman ve itaat etti. 
+  * İbrahim’in adı önce Avram’dı, ama Tanrı onu İbrahim olarak değiştirdi.
+  * Avram «yüce baba», İbrahim ise «birçok milletin babası» anlamına gelir.
 
 (Translation suggestions: [[:tr:ta:vol1:translate:translate_names]]) 
 
 (See also: [[sarah]], [[isaac]])
-
 
 ===== Bible References: =====
  
@@ -24,14 +21,13 @@ Abraham was the person that God chose to start the family that would grow into t
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:04-06|[04-06]]]** When **Abram** arrived in Canaan, God said, "Look all around you. I will give to you and your descendants all the land that you can see as an inheritance."
-  ***[[:tr:obs:notes:frames:05-04|[05-04]]]** Then God changed **Abram**'s name to **Abraham**, which means "father of many."
-  ***[[:tr:obs:notes:frames:05-05|[05-05]]]** About a year later, when **Abraham** was 100 years old and Sarah was 90, Sarah gave birth to Abraham's son.
-  ***[[:tr:obs:notes:frames:05-06|[05-06]]]** When Isaac was a young man, God tested **Abraham's** faith by saying, "Take Isaac, your only son, and kill him as a sacrifice to me."
-  ***[[:tr:obs:notes:frames:06-01|[06-01]]]** When **Abraham** was very old and his son, Isaac, had grown to be a man, **Abraham** sent one of his servants back to the land where his relatives lived to find a wife for his son, Isaac.
-  ***[[:tr:obs:notes:frames:06-04| [06-04]]]** After a long time, **Abraham** died and all of the promises that God had made to him in the covenant were passed on to Isaac.
-  ***[[:tr:obs:notes:frames:21-02|[21-02]]]** God promised **Abraham** that through him all people groups of the world would receive a blessing.
-
+  ***[[:tr:obs:notes:frames:04-06|[04-06]]]** **Avram** Kenan’a vardığında Tanrı, “Etrafına bak! Gördüğün bu toprağın hepsini sana ve soyuna miras olarak vereceğim.” dedi.
+  ***[[:tr:obs:notes:frames:05-04|[05-04]]]** Sonra Tanrı **Avram**’ın adını “birçok milletin babası” anlamına gelen **İbrahim** olarak değiştirdi.
+  ***[[:tr:obs:notes:frames:05-05|[05-05]]]** Yaklaşık olarak bir sene sonra **İbrahim** 100 ve Sara 90 yaşlarında oldukları zaman Sara İbrahim’e bir oğul doğurdu.
+  ***[[:tr:obs:notes:frames:05-06|[05-06]]]** İshak hâlâ çocuk iken Tanrı **İbrahim**’in imanını denedi. “Biricik oğlunu, İshak’ı al, bana kurban olarak sun.” dedi.
+  ***[[:tr:obs:notes:frames:06-01|[06-01]]]** **İbrahim** iyice yaşlanmış, oğlu İshak genç adam olmuştu. Bir gün **İbrahim**, uşaklarından birini oğlu İshak’ın evleneceği kızı getirsin diye akrabalarının yaşadıkları ülkeye gönderdi.
+  ***[[:tr:obs:notes:frames:06-04|[06-04]]]** Uzun süre sonra **İbrahim** öldü ve Tanrı’nın ona ahit yaparken verdiği tüm vaatler İshak’a geçti.
+  ***[[:tr:obs:notes:frames:21-02|[21-02]]]** Tanrı **İbrahim**’e, yeryüzündeki bütün halkların onun sayesinde kutsanacağını vadetti.
 
 ~~DISCUSSION~~
 

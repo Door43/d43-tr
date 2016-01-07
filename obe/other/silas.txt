@@ -1,18 +1,15 @@
-====== Silas, Silvanus ======
+====== Silas ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-Silas was a leader among the believers in Jerusalem.
-
-    * The church in Jerusalem appointed Silas to go with Paul and Barnabas to the city of Antioch.
-    * Silas later traveled with Paul to other cities to teach people about Jesus.
-    * Paul and Silas were put in jail in the city of Philippi. They trusted God and sang praises to him while they were there. God released them from the jail, and used them to save the jailer.
+Silas, Yeruşalim’deki imanlıların bir önderiydi.
+  * Yeruşalim’deki kilise Silas’ı Pavlus ve Barnaba ile Antakya kentine gitmesi için tayin etti.
+  * Ondan sonra Silas Pavlus’la beraber başka kentleri ziyaret ederek insanlara İsa hakkında öğretti.
+  * Pavlus ve Silas Filipi kentinde hapsedildiler. Hapisteyken Tanrı’ya güvenerek hamt ilahilerini söylediler. Tanrı onları zindandan kurtardı ve zindancının kurtulması için onları kullandı.
 
 (Translation suggestions: [[en:ta:vol1:translate:translate_names]])
 
 (See also: [[jerusalem]], [[paul]], [[philippi]])
-
 
 ===== Bible References: =====
 
@@ -21,13 +18,13 @@ Silas was a leader among the believers in Jerusalem.
 
 ===== Examples from the Bible stories: =====
 
-    * **[[:tr:obs:notes:frames:47-01|[47-01]]]** One day, Paul and his friend **Silas** went to the town of Philippi to proclaim the good news about Jesus. 
-    * **[[:tr:obs:notes:frames:47-02|[47-02]]]** She (Lydia) invited Paul and **Silas** to stay at her house, so they stayed with her and her family.
-    * **[[:tr:obs:notes:frames:47-03|[47-03]]]** Paul and **Silas** often met with people at the place of prayer. 
-    * **[[:tr:obs:notes:frames:47-07|[47-07]]]** So the owners of the slave girl took Paul and **Silas** to the Roman authorities, who beat them  and threw them into jail.
-    * **[[:tr:obs:notes:frames:47-08|[47-08]]]** They put Paul and **Silas** in the most secure part of the prison and even locked up their feet. 
-    * **[[:tr:obs:notes:frames:47-11|[47-11]]]** The jailer trembled as he came to Paul and **Silas** and asked, "What must I do to be saved?" 
-    * **[[:tr:obs:notes:frames:47-13|[47-13]]]** The next day the leaders of the city released Paul and **Silas** from prison and asked them to leave Philippi. Paul and **Silas** visited Lydia and some other friends and then left the city. 
+  ***[[:tr:obs:notes:frames:47-01|[47-01]]]** Bir gün Pavlus dostu **Silas**’la beraber İsa’yla ilgili sevindirici haberi ilan etmek üzere Filipi kentine gitti.
+  ***[[:tr:obs:notes:frames:47-02|[47-02]]]** Sonra Lidya, Pavlus’la **Silas**’ı evinde kalmaya davet etti, onlar da kabul ettiler.
+  ***[[:tr:obs:notes:frames:47-03|[47-03]]]** Pavlus’la **Silas** sık sık dua yerlerinde insanlarla görüşüyorlardı.
+  ***[[:tr:obs:notes:frames:47-07|[47-07]]]** Bu yüzden köle kızın efendileri Pavlus’la **Silas**’ı yakalayıp Romalı yetkililere götürdüler. Onları dövüp hapse attılar.
+  ***[[:tr:obs:notes:frames:47-08|[47-08]]]** Pavlus’la **Silas**’ı zindanın en emniyetli hücresine attılar ve ayaklarını tomruğa vurdular.
+  ***[[:tr:obs:notes:frames:47-11|[47-11]]]** Zindancı titreyerek Pavlus’la **Silas**’a yaklaştı. “Kurtulmak için ne yapmalıyım?” diye sordu.
+  ***[[:tr:obs:notes:frames:47-13|[47-13]]]** Sabah olunca kentin yöneticileri Pavlus’la **Silas**’ı hapisten serbest bıraktılar ve Filipi’den ayrılmalarını rica ettiler. Pavlus’la **Silas** Lidya’yı ve başka dostlarını ziyaret ettikten sonra kenti terkettiler.
 
 ~~DISCUSSION~~
 

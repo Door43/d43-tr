@@ -1,16 +1,13 @@
-====== Jordan River ======
+====== Şeria Nehri ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-The Jordan River is a river that flows from north to south, and forms the eastern boundary of the land that was called Canaan.
-
-  * Today, the Jordan River separates Israel on the west from Jordan on the east. 
-  * The Jordan River flows through the Sea of Galilee and then empties into the Dead Sea.
-  * When Joshua led the Israelites into Canaan, they had to cross the Jordan River while it was flooding and very deep. Because it was too deep to wade across, God miraculously stopped the water from flowing so they could go across.
+Şeria Nehri kuzeyden güneye akarak Kenan adlandırılan ülkenin doğu sınırını oluşturan bir nehirdir.
+  * Bugün Şeria Nehri, batısında bulunan İsrail’i doğusunda bulunan Ürdün’den ayırmaktadır. 
+  * Şeria Nehri Celile Gölü’nden geçerek akar ve Ölü Deniz’de sona erer.
+  * Yeşu İsraillileri Kenan’a götürdüğünde onların Şeria Nehri’ni geçmeleri lazım oldu. O zaman Şeria Nehri yatağından taşmış ve çok derin olması sebebiyle onu yürüyerek geçmeleri imkansızdı. Tanrı onların öbür yakaya geçmeleri için bir mucize yapıp suyun taşmasını durdurdu.
 
 (See also: [[canaan]])
-
 
 ===== Bible References: =====
 
@@ -20,9 +17,9 @@ The Jordan River is a river that flows from north to south, and forms the easter
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:15-02|[15-02]]]** The Israelites had to cross the **Jordan River** to enter into the Promised Land. 
-  ***[[:tr:obs:notes:frames:15-03|[15-03]]]** After the people crossed the **Jordan River**, God told Joshua how to attack the powerful city of Jericho. 
-  ***[[:tr:obs:notes:frames:19-14|[19-14]]]** Elisha told him (Naaman) to dip himself seven times in the **Jordan River**. 
+  ***[[:tr:obs:notes:frames:15-02|[15-02]]]** Tanrı’nın vadettiği ülkeye girmeleri için İsraillilerin **Şeria Nehri**’ni geçmeleri lazımdı.
+  ***[[:tr:obs:notes:frames:15-03|[15-03]]]** Halk **Şeria Nehri**’ni geçtikten sonra Tanrı Yeşu’ya kuvvetli Eriha kentine nasıl saldıracağını anlattı.
+  ***[[:tr:obs:notes:frames:19-14|[19-14]]]** Elişa Naaman’a **Şeria Nehri**’nde yedi kez suya dalmasını buyurdu.
 
 ~~DISCUSSION~~
 

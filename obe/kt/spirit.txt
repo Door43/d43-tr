@@ -1,24 +1,22 @@
-====== spirit, spiritual ======
+====== ruh ======
 
-===== Definition: =====
+===== Tanım =====
 
-The spirit is the non-physical part of people which cannot be seen. When a person dies, his spirit leaves his body.
+Ruh, insanın fiziksel olmayan ve gözle görünemeyen kısmıdır. İnsan öldüğünde ruhu bedenini terkeder.
+  * İnsanın ruhu Tanrı’yı tanımaya ve O’na iman etmeye kadir olan kısmıdır. Ruh ayrıca insanın öbür insanlarla ilişki kuran kısmıdır.
+  * Genel olarak «ruhsal» terimi fiziksel olmayan dünyaya ait olan her şeyi belirtir.
+  * Kutsal Kitap’ta «ruhsal» terimi özellikle Tanrı’ya ait olan her şeye ve bilhassa Kutsal Ruh’a ima eder. Örneğin, «ruhsal gıda» Tanrı’nın insan ruhunu besleyen öğretileri anlamında, «ruhsal bilgelik» Kutsal Ruh’un gücünden gelen bilgi ve doğru davranış anlamında kullanılır.
+  * Tanrı Ruh’tur ve O, melekler gibi -kendisine karşı başkaldırıp kötü ruh olanlar dahil olmak üzere- başka ruhsal varlıkları yarattı.
 
-  * A person's spirit is the part of him that can know God and believe in him. The spirit is also the part of a person that relates to other people.
-  * In general, the term "spiritual" describes anything that relates to the non-physical world.
-  * In the Bible, the term "spiritual" especially refers to anything that relates to God, specifically to the Holy Spirit. So for example: "spiritual food" refers to God's teachings that give nourishment to a person's spirit, "spiritual wisdom" refers to the knowledge and righteous behavior that come from the power of the Holy Spirit.
-  * God is a spirit and he created other spirit beings such as angels, including those who rebelled against him and became evil spirits.
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * Depending on the context, some ways to translate "spirit" might include, "soul" or "non-physical being" or "inside part" or "inner being."
-  * Sometimes the term "spirit" is used to express the feelings of a person as in, "my spirit was grieved in my inmost being." This could also be translated as, "I felt grieved in my spirit" or "I felt deeply grieved."
-  * The term "spiritual" could be translated as, "non-physical" or "from the Holy Spirit" or "part of the non-physical world."
-  * The following are possible translations for these phrases:
-      * spiritual milk = "basic teachings from God" or "God's teachings that nourish the spirit (like milk does)."
-      * spiritual maturity = "godly behavior that shows obedience to the Holy Spirit."
-      * spiritual gift = "special ability that the Holy Spirit gives."
-  * Some languages may have different words for the different meanings of this term.
+  * Bağlama dayalı olarak, «ruh» sözcüğünün çevrilmesi için şu terimler kullanılabilir: «fiziksel olmayan varlık», «iç varlık» ya da «manevi kısmı.»
+  * «Ruhsal» terimi şöyle çevrilebilir: «fiziksel olmayan», «Kutsal Ruh’tan olan», «manevi» ya da «fiziksel olmayan dünyaya ait olan.»
+  * Aşağıda şu ifadelerin mümkün çevirileri veriliyor:
+  * ruhsal süt = «Tanrı’nın temel öğretileri» ya da «Tanrı’nın (süt gibi) ruhu besleyen öğretileri.»
+  * ruhsal olgunluk = «Kutsal Ruh’a itaati sergileyen mümin davranış.»
+  * ruhsal armağan = «Kutsal Ruh’un verdiği özel yetenek».
+  * Bazı dillerde bu terimin değişik anlamları için değişik sözcükler kullanılabilir.
 
 (See also: [[:tr:obe:kt:angel|angel]], [[:tr:obe:kt:satan|Satan, devil, evil one]], [[:tr:obe:kt:demon|demon, evil spirit, unclean spirit]], [[:tr:obe:kt:holyspirit|Holy Spirit]])
 
@@ -28,10 +26,11 @@ The spirit is the non-physical part of people which cannot be seen. When a perso
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:13-03|[13-03]]]** Three days later, after the people had prepared themselves **spiritually**, God came down on top of Mount Sinai with thunder, lightning, smoke, and a loud trumpet blast.
-  * **[[:tr:obs:notes:frames:40-07|[40-07]]]** Then Jesus cried out, "It is finished! Father, I give my **spirit**  into your hands." Then he bowed his head and gave up his **spirit**.
-  * **[[:tr:obs:notes:frames:45-05|[45-05]]]** As Stephen was dying, he cried out, "Jesus, receive my **spirit**."
-  * **[[:tr:obs:notes:frames:48-07|[48-07]]]** All the people groups are blessed through him, because everyone who believes in Jesus is saved from sin, and becomes a **spiritual**  descendant of Abraham.
+  ***[[:tr:obs:notes:frames:13-03|[13-03]]]** Üç gün sonra halk **manevi olarak** hazırlanınca Tanrı gök gürültüsü, şimşek, duman ve güçlü bir boru sesi ile Sina Dağı’na indi.
+  ***[[:tr:obs:notes:frames:40-07|[40-07]]]** O sırada İsa şöyle bağırdı: “Tamamlandı! Baba, ruhumu sana teslim ediyorum!” Ardından başını eğip **ruhunu** teslim etti.
+  ***[[:tr:obs:notes:frames:45-05|[45-05]]]** İstefanos can verirken, “Ey İsa, **ruhumu** al!” diye yakardı.
+  ***[[:tr:obs:notes:frames:48-07|[48-07]]]** Yeryüzünün bütün milletleri O’nun aracılığıyla kutsanır, çünkü İsa’ya iman eden herkes günahtan kurtularak İbrahim’in **ruhsal** çocuğu olur.
+
 ~~DISCUSSION~~{{tag>publish review ktobs}}
 
 ~~NOCACHE~~

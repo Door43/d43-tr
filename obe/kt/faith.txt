@@ -1,21 +1,21 @@
-====== faith ======
+====== iman ======
 
-===== Definition: =====
+===== Tanım =====
 
-In general, the term "faith" refers to a belief, trust or confidence in someone or something.
+«İman» terimi genel olarak birine ya da bir şeye inanç, güven ya da itimat anlamına gelir.
+  * Birine «iman etmek» demek, söyledikleri ve yaptıklarının gerçek ve güvenilir olduğuna inanmak demektir.
+  * «İsa’ya iman etmek» demek, Tanrı’nın İsa hakkındaki bütün öğretilerine inanmak; özellikle İsa’nın ve kurbanının insanı günahlarından temizleyip hak ettiği cezasından kurtaracağına inanmak demektir.
+  * İsa’ya gerçek imanı ya da inancı olan insan, Kutsal Ruh’un içinde yaşaması sayesinde iyi ruhsal ürün verecektir.
+  * Bazen «iman» ile İsa hakkındaki öğretilerinin tümü kastedilir, örneğin, «iman gerçekleri.»
+  * «İmanı korumak» ya da «imandan dönmek» gibi ifadelerde «iman» ile İsa hakkındaki öğretilerinin tümüne inanma durumu kastedilir.
 
-  * To "have faith" in someone is to believe that what he says and does is true and trustworthy.
-  * To "have faith in Jesus" means to believe all of God's teachings about Jesus. It especially means that people trust in Jesus and his sacrifice to cleanse them from their sin and to rescue them from the punishment they deserve because of their sin.
-  * True faith or belief in Jesus will cause a person to produce good spiritual fruits or behaviors because the Holy Spirit is living in him.
-  * Sometimes "faith" refers to all the teachings about Jesus, as in "the truths of the faith."
-  * Phrases such as "keep the faith" or "abandon the faith" use "faith" to refer to the state or condition of believing all the teachings about Jesus.
-===== Translation Suggestions: =====
+===== Çeviri için öneriler =====
 
-  * In some contexts, "faith" can be translated as "belief" or "conviction" or "confidence" or "trust."
-  * Some languages may prefer to translate the terms "faith," "faithful," and "faithfulness" using some form of the verb "believe" since all these concepts come from that verb.
-  * The idiom, "keep the faith" could be translated by, "keep believing in Jesus" or "continue to believe in Jesus."
-  * The sentence, "they must keep hold of the deep truths of the faith" could be translated by, "they must keep believing all the true things about Jesus that they have been taught."
-  * The phrase, "my true son in the faith" could be translated by something like, "who is like a son to me because I taught him to believe in Jesus" or "my true spiritual son, who believes in Jesus."
+  * Bazı bağlamlarda «iman» terimi «inanç», «kanaat», «itimat» ya da «güven» olarak çevrilebilir.
+  * Bazı dillerde «iman», «sadık» ve «sadakat» terimlerinin hepsinin «inanmak» fiilinden türemesi sebebiyle bu fiilin bir biçimi ile çevrilmesi tercih edilebilir.
+  * «İmanı korumak» deyimi «İsa’ya iman etmeye devam etmek» şeklinde çevrilebilir.
+  * «İmanın derin gerçeklerine sarılmalı» cümlesi şöyle çevrilebilir: «İsa hakkında öğrendikleri bütün gerçeklere inanmaya devam etmeli.»
+  * «İmanda gerçek oğlum» ifadesi şöyle çevrilebilir: «kendisine İsa’ya iman etmeyi öğrettiğim için bana oğul gibi olan» ya da «İsa’ya iman eden gerçek ruhsal oğlum.»
 
 (See also: [[:tr:obe:kt:believe|believe, believe in]], [[:tr:obe:kt:faithful|faithful, faithfulness]])
 
@@ -25,8 +25,9 @@ In general, the term "faith" refers to a belief, trust or confidence in someone 
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:05-06|[05-06]]]** When Isaac was a young man, God tested Abraham's **faith**  by saying, "Take Isaac, your only son, and kill him as a sacrifice to me."
-  * **[[:tr:obs:notes:frames:31-07|[31-07]]]** Then he (Jesus) said to Peter, "You man of little **faith**, why did you doubt?"
-  * **[[:tr:obs:notes:frames:32-16|[32-16]]]** Jesus said to her, "Your **faith**  has healed you. Go in peace."
-  * **[[:tr:obs:notes:frames:38-09|[38-09]]]** Then Jesus said to Peter, "Satan wants to have all of you, but I have prayed for you, Peter, that your **faith**  will not fail.
+  ***[[:tr:obs:notes:frames:05-06|[05-06]]]** İshak hâlâ çocuk iken Tanrı İbrahim’in **imanını** denedi. “Biricik oğlunu, İshak’ı al, bana kurban olarak sun.” dedi.
+  ***[[:tr:obs:notes:frames:31-07|[31-07]]]** Sonra (İsa) Petrus’a, “Seni kıt **imanlı**! Neden şüphelendin?” dedi.
+  ***[[:tr:obs:notes:frames:32-16|[32-16]]]** İsa ona, “**İmanın** seni kurtardı. Selâmetle git!” dedi.
+  ***[[:tr:obs:notes:frames:38-09|[38-09]]]** İsa Petrus’a şöyle dedi: “Şeytan hepinizi tutmak istiyor. Fakat ben senin için dua ettim, Petrus! **İmanını** kaybetmemen için dua ettim.”
+
 ~~DISCUSSION~~{{tag>publish ktobs}}

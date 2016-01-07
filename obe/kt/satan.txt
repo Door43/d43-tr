@@ -1,21 +1,20 @@
-====== Satan, devil, evil one ======
+====== Şeytan ======
 
-===== Facts: =====
+===== Gerçeklikler =====
 
-The devil is a spirit being that God created, but he rebelled against God and became God's enemy. The devil is also called "Satan" and "the evil one."
+İblis, Tanrı’nın yarattığı, ama Tanrı’ya karşı başkaldıran ve Tanrı’nın düşmanı olan ruhsal varlıktır. İblis ayrıca «Şeytan» ve «kötü olan» olarak adlandırılır.
+  * İblis, Şeytan Tanrı’nın yerini tutmak ve Tanrı gibi tapınılmak  istediği için Tanrı’dan ve Tanrı’nın yarattığı her şeyden nefret eder.
+  * Şeytan insanları Tanrı’ya karşı başkaldırmaya ayartır.
+  * Tanrı, insanları Şeytan’ın egemenliğinden kurtarmak için Oğlu İsa’yı gönderdi.
+  * «Şeytan» adının anlamı «hasım» ya da «düşman»dır.
+  * «İblis» adı «suçlayan» anlamına gelir.
 
-  * The devil, Satan, hates God and all that God created, because he wants to take the place of God and be worshiped as God.
-  * Satan tempts people to rebel against God.
-  * God sent his Son, Jesus to rescue people from Satan's control.
-  * The name "Satan" means "adversary" or "enemy."
-  * The word "devil" means "accuser."
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * The word "devil" could also be translated as "the accuser" or "the evil one" or "the king of evil spirits" or "the chief evil spirit."
-  * "Satan" can be translated as "Opponent" or "Adversary" or some other name that shows that he is the devil.
-  * These terms should be translated differently from demon and evil spirit.
-  * Consider how these terms are translated in a local or national language. (See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * «İblis» sözcüğünü ayrıca «suçlayan», «kötü olan» ya da «kötü ruhların kralı» şeklinde çevirebilirsiniz.
+  * «Şeytan» terimi «hasım» ya da iblis olduğunu gösteren herhangi bir sözcükle çevrilebilir.
+  * Bu terimlerin cin ve kötü ruh terimlerinden farklı olarak çevrilmesi gerekir.
+  * Bu terimlerin Kutsal Kitap’ın halk diline veya devlet diline çevirisinde nasıl çevrildiğine bakın.
 
 (Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
 
@@ -27,14 +26,15 @@ The devil is a spirit being that God created, but he rebelled against God and be
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:21-01|[21-01]]]** The snake who deceived Eve was **Satan**. The promise meant that the Messiah who would come would defeat **Satan**  completely.
-  * **[[:tr:obs:notes:frames:25-06|[25-06]]]** Then **Satan**  showed Jesus all the kingdoms of the world and all their glory and said, "I will give you all this if you bow down and worship me."
-  * **[[:tr:obs:notes:frames:25-08|[25-08]]]** Jesus did not give in to **Satan's**  temptations, so **Satan**  left him.
-  * **[[:tr:obs:notes:frames:33-06|[33-06]]]** So Jesus explained, "The seed is the word of God. The path is a person who hears God's word, but does not understand it, and the **devil**  takes the word from him."
-  * **[[:tr:obs:notes:frames:38-07|[38-07]]]** After Judas took the bread, **Satan**  entered into him.
-  * **[[:tr:obs:notes:frames:48-04|[48-04]]]** God promised that one of Eve's descendants would crush **Satan's**  head, and **Satan**  would wound his heel. This meant that **Satan**  would kill the Messiah, but God would raise him to life again, and then the Messiah will crush the power of **Satan**  forever.
-  * **[[:tr:obs:notes:frames:49-15|[49-15]]]** God has taken you out of **Satan's**  kingdom of darkness and put you into God's kingdom of light.
-  * **[[:tr:obs:notes:frames:50-09|[50-09]]]**"The weeds represent the people who belong to the **evil one**. The enemy who planted the weeds represents the **devil**."
-  * **[[:tr:obs:notes:frames:50-10|[50-10]]]**"When the world ends, the angels will gather together all the people who belong to the **devil**  and throw them into a raging fire, where they will cry and grind their teeth in terrible suffering."
-  * **[[:tr:obs:notes:frames:50-15|[50-15]]]** When Jesus returns, he will completely destroy **Satan**  and his kingdom. He will throw **Satan**  into hell where he will burn forever, along with everyone who chose to follow him rather than to obey God.
+  ***[[:tr:obs:notes:frames:21-01|[21-01]]]** Havva’yı aldatan yılan **Şeytan**’dı. Bu vaat, Mesih’in **Şeytan**’ı tümüyle mağlup edeceği anlamına gelir.
+  ***[[:tr:obs:notes:frames:25-06|[25-06]]]** Bunun üzerine **Şeytan**, İsa’ya dünyanın bütün krallıklarını görkemiyle beraber göstererek, “Yere kapanıp bana taparsan bütün bunları sana vereceğim.” dedi.
+  ***[[:tr:obs:notes:frames:25-08|[25-08]]]** İsa, **Şeytan**’ın ayartılarına uymadı, Şeytan da O’nu bırakıp gitti.
+  ***[[:tr:obs:notes:frames:33-06|[33-06]]]** Bu öykü havarileri şaşırttı. Dolayısıyla İsa onlara anlamını açıkladı: “Tohum Tanrı’nın sözüdür. Yolun kenarı, Tanrı’nın sözünü duyan ama anlamayan kişidir. **İblis** onlara ekilen sözü söküp atar.”
+  ***[[:tr:obs:notes:frames:38-07|[38-07]]]** Yahuda ekmeği alır almaz içine **Şeytan** girdi.
+  ***[[:tr:obs:notes:frames:48-04|[48-04]]]** Tanrı, Havva’nın soyundan gelen bir kişinin **Şeytan**’ın başını ezeceğini, **Şeytan**’ın da onun topuğuna saldıracağını vadetti. Bunun anlamı şuydu: **Şeytan** Mesih’i öldürecek, fakat Tanrı O’nu ölümden diriltecek ve sonra Mesih, **Şeytan**’ın gücünü sonsuzluğa kadar kıracak.
+  ***[[:tr:obs:notes:frames:49-15|[49-15]]]** Tanrı seni **Şeytan**’ın karanlık hükümranlığından çıkarıp Tanrı’nın ışık hükümranlığına getirdi.
+  ***[[:tr:obs:notes:frames:50-09|[50-09]]]** “Deliceler **Şeytan**’a ait olan insanları, deliceleri eken düşman **iblisi**; hasat dünyanın sonunu, orakçılar ise Tanrı’nın meleklerini temsil eder.”
+  ***[[:tr:obs:notes:frames:50-10|[50-10]]]** “Dünyanın sonunda melekler **Şeytan**’a ait olan bütün insanları toplayıp kızgın ocağa atacaklar. Orada feryat ve figan, diş gıcırtısı, korkunç acılar olacak.”
+  ***[[:tr:obs:notes:frames:50-15|[50-15]]]** İsa döndükten sonra **Şeytan**’la hükümranlığını tamamen yok edecek. **Şeytan**’ı ve Tanrı’nın değil **Şeytan**’ın yolunu seçen herkesi sonsuzluğa kadar yakılmak üzere cehenneme atacak.
+
 ~~DISCUSSION~~{{tag>publish ktobs}}

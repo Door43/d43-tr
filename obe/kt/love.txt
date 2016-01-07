@@ -1,23 +1,22 @@
-====== love ======
+====== sevgi ======
 
-===== Definition: =====
+===== Tanım =====
 
-To love another person is to care for that person and do things that will benefit him. God himself is love and is the source of true love.
+Başka birini sevmek demek, o kişiye ilgi göstermek ve ona yarar verecek şeyler yapmak demektir. Tanrı sevgidir ve gerçek sevginin kaynağıdır.
+  * «Sevgi»nin değişik anlamları vardır ve bazı dillerde bunlar bağlama dayalı olarak değişik sözcüklerle çevrilebilir. 
+  * Başlıca sevgi türü Tanrı’nın sevgisidir; bu sevgi bencil değildir, fedakârdır, başkalarının iyiliğinde odaklanır. Aynı sözcük, insanların Tanrı’yı sevmelerini ve birbirini bencil olmayan bir biçimde sevmelerini belirtir.
+  * İsa bizi günahtan ve ölümden kurtarmak için canını kurban vermesi ile bu tür sevgiyi sergiler. Ayrıca takipçilerine fedakâr sevgiyle birbirini sevmeyi öğretti.
+  * İnsanların başkalarını bu tür sevgiyle sevmeleri, bencillikten uzak, başka insanın iyi olmasını sağlayan eylemleri, özellikle başkalarını affetmeyi gerektirir.
+  * Yeni Ahit’te sevgi olarak çevrilen diğer sözcük, «kardeşlik sevgisi» ya da «bir dosta veya akrabaya karşı sevgi» anlamına gelir. Bununla dostlar ya da akrabalar arasındaki doğal insani sevgi kastedilir.
+  * Bu sözcük ayrıca şöyle bağlamlarda kullanılır: «Şölenlerde en seçkin yerlere kurulmaya bayılırlar.»
 
-  * There are different meanings for "love" which some languages may express using several different words, depending on the context.
-  * The kind of love that comes from God is focused on the good of others, even when it doesn't benefit oneself. This kind of love cares for others, no matter what they do.
-  * Jesus showed this kind of love by sacrificing his life in order to rescue us from sin and death. He also taught his followers to love others sacrificially.
-  * When people love others with this kind of love, it involves actions that show that someone is thinking of what will cause the other person to thrive. This especially includes forgiving others.
-  * Another word in the New Testament refers to brotherly love or love for a friend or family member. This is natural human love between friends or relatives.
-  * This word is also used in such contexts as, "they love to sit in the most important seats at a banquet."
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * Some languages may have a special word for the unselfish kind of love that God has for people and that he helps people have for others. Ways to translate this might include, "devoted, faithful caring" or "care for unselfishly" or "love from God." Make sure that the word used to translate God's love can include the characteristics of not being focused on self, of giving up one's own interests to benefit others, and loving others no matter what they do.
-  * Sometimes the English word "love" describes the deep caring that people have for friends and family members. Some languages might translate this with a word or phrase that means, "like very much" or "care for" or "have strong affection for."
-  * In contexts where "love" is used to express a strong preference for a thing, food, or activity, this could be translated by "strongly prefer" or "like very much" or "greatly desire."
-  * Some languages may also have a separate word that refers to romantic or sexual love between a husband and wife.
-  * Many languages must express "love" as an action. So for example, they might translate "love is patient, love is kind" as, "when a person loves someone, he is patient with him and kind to him."
+  * Bazı dillerde Tanrı’nın insanları sevdiği ve insanların başkalarını sevmesine yardım ettiği bu tür bencillikten uzak sevgisini belirten özel bir sözcük bulunabilir. Bu sevgi şöyle çevrilebilir: «bencillikten uzak ilgi» ya da «Tanrı’dan gelen sevgi.» Tanrı’nın sevgisini çevirmek için kullandığınız sözcüğün bencil olmayan, fedakâr ve koşulsuz bir sevgiyi belirtmesine dikkat edin.
+  * Bazen Türkçe «sevgi» kelimesi insanların dost ve akrabasına karşı olumlu bir duyguyu belirtir. Bazı dillerde bu duygu için kullanılabilecek «çok beğenmek», «ilgilenmek» ya da «güçlü şefkat göstermek» gibi sözler bulunabilir.
+  * «Sevgi» bir şeyi, yemeği ya da eylemi beğenme anlamında kullanıldığı bağlamlarda «kesinlikle tercih etmek», «çok beğenmek» ya da «şiddetle arzulamak» olarak çevrilebilir.
+  * Bazı dillerde ayrıca karı koca arasındaki romantik, cinsel anlamda sevgi için aşk gibi özel sözcükler bulunabilir.
+  * Birçok dillerde sevgi eylem olarak ifade ediliyor. Örneğin, «Sevgi sabırlıdır, sevgi şefkatlidir» ifadesi şöyle çevrilir: «Bir insan birini sevdiğinde ona sabreder ve acır...»
 
 (See also: [[:tr:obe:other:sacrifice|sacrifice, offering]], [[:tr:obe:kt:sin|sin, sinful, sinner, sinning]], [[:tr:obe:kt:save|save]], [[:tr:obe:kt:death|death, die, dead]])
 
@@ -27,16 +26,16 @@ To love another person is to care for that person and do things that will benefi
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:27-02|[27-02]]]** The law expert replied that God's law says, "**Love**  the Lord your God with all your heart, soul, strength, and mind. And **love**  your neighbor as yourself."
-  * **[[:tr:obs:notes:frames:33-08|[33-08]]]**"The thorny ground is a person who hears God's word, but, as time passes, the cares, riches, and pleasures of life choke out his **love**  for God."
-  * **[[:tr:obs:notes:frames:36-05|[36-05]]]** As Peter was talking, a bright cloud came down on top of them and a voice from the cloud said, "This is my Son whom I **love**."
-  * **[[:tr:obs:notes:frames:39-10|[39-10]]]**"Everyone who **loves**  the truth listens to me."
-  * **[[:tr:obs:notes:frames:47-01|[47-01]]]** She (Lydia) **loved**  and worshiped God.
-  * **[[:tr:obs:notes:frames:48-01|[48-01]]]** When God created the world, everything was perfect. There was no sin. Adam and Eve **loved**  each other, and they **loved**  God.
-  * **[[:tr:obs:notes:frames:49-03|[49-03]]]** He (Jesus) taught that you need to **love**  other people the same way you love yourself.
-  * **[[:tr:obs:notes:frames:49-04|[49-04]]]** He (Jesus) also taught that you need to **love**  God more than you **love**  anything else, including your wealth.
-  * **[[:tr:obs:notes:frames:49-07|[49-07]]]** Jesus taught that God **loves**  sinners very much.
-  * **[[:tr:obs:notes:frames:49-09|[49-09]]]** But God **loved**  everyone in the world so much that he gave his only Son so that whoever believes in Jesus will not be punished for his sins, but will live with God forever.
-  * **[[:tr:obs:notes:frames:49-13|[49-13]]]** God **loves**  you and wants you to believe in Jesus so he can have a close relationship with you.
-  * 
+  ***[[:tr:obs:notes:frames:27-02|[27-02]]]** Tevrat bilgini cevabında, “Tevrat, ‘Tanrın Rab’bi bütün kalbinle, varlığınla, kuvvetinle, düşüncenle **seveceksin**! Komşunu da kendini **sevdiğin** gibi **seveceksin**.’ diye buyuruyor.” dedi.
+  ***[[:tr:obs:notes:frames:33-08|[33-08]]]** “Dikenli çalının olduğu toprak, Tanrı’nın sözünü duyan ama kaygıların, zengin olma hırsının, dünyevi zevklerin Tanrı’ya olan **sevgisini** gittikçe yok ettiği kişidir.”
+  ***[[:tr:obs:notes:frames:36-05|[36-05]]]** Petrus konuşurken parlak bir bulut çevrelerini sardı ve buluttan bir ses geldi: “Bu benim **sevgili** Oğlum’dur.”
+  ***[[:tr:obs:notes:frames:39-10|[39-10]]]** “Hakikati **seven** herkes beni dinler.”
+  ***[[:tr:obs:notes:frames:47-01|[47-01]]]** Lidya Tanrı’yı **seven** ve tapınan biriydi.
+  ***[[:tr:obs:notes:frames:48-01|[48-01]]]** Tanrı dünyayı yarattığında her şey kâmildi. Günah yoktu. Adem ve Havva birbirini ve Tanrı’yı **severlerdi**.
+  ***[[:tr:obs:notes:frames:49-03|[49-03]]]** (İsa) Başkalarını kendini **sevdiğin** gibi **sevmen** gerektiğini öğretirdi.
+  ***[[:tr:obs:notes:frames:49-04|[49-04]]]** (İsa) Bir de Tanrı’yı, zenginlik de dahil olmak üzere her şeyden daha çok **sevmen** gerektiğini öğretirdi.
+  ***[[:tr:obs:notes:frames:49-07|[49-07]]]** İsa, Tanrı’nın günahkârları çok **sevdiğini** öğretirdi.
+  ***[[:tr:obs:notes:frames:49-09|[49-09]]]** Fakat Tanrı dünyadaki her insanı o kadar **sevdi** ki, biricik Oğlu’nu verdi. Öyle ki, İsa’ya iman eden herkes günahlarının cezasını çekmesin, Tanrı’yla ebediyen yaşasın.
+  ***[[:tr:obs:notes:frames:49-13|[49-13]]]** Tanrı seni **seviyor** ve seninle kişisel ilişki kurmak için İsa’ya iman etmeni istiyor.
+
 ~~DISCUSSION~~{{tag>publish ktobs}}

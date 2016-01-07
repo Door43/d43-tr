@@ -1,21 +1,20 @@
-====== miracle, wonder, sign ======
+====== mucize ======
 
-===== Definition: =====
+===== Tanım =====
 
-Miracles are things that could never happen unless God caused them. For example, calming a storm and healing a blind person are miracles.
+Mucizeler, Tanrı yapmazsa asla olamayan şeylerdir. Örneğin, fırtınanın dindirilmesi ve kör kişinin iyileşmesi birer mucizedir.
+  * İnsanlarda hayranlık uyandırdığı için mucizelere bazen «harikalar» denir. «Harika» sözcüğü çoğu zaman daha genel anlam taşır ve Tanrı’nın kudretinin hayret verici sergilenişine, örneğin gökleri ve yeri yaratmasına ait olur.
+  * Mucizeler Tanrı’nın her şeye kadir ve tüm evrene egemen olduğunu işaret ettiği için onlara bazen «alâmet» denir.
+  * Tanrı’nın İsraillileri Mısır köleliğinden çıkarması ya da aslan çukuruna atılan Daniel’i koruması gibi kurtarış eylemleri olan bazı mucizeler vardır.
+  * Diğer mucizeler -Nuh’un dönemindeki tufan ve Mısır’a verilen korkunç cezalar- Tanrı’nın yargı eylemleridir.
+  * Tanrı’nın mucizelerinin çoğu hastaların sağalması ve ölülerin diriltilmesiydi.
+  * Tanrı’nın kudreti İsa’da açıkça görüldü: İsa insanlara şifa verdi, fırtınaları dindirdi, su üstünde yürüdü, bazılarını ölümden diriltti. Bütün bunlar birer mucizeydi.
+  * Tanrı ayrıca peygamberlerle havarilere sadece Tanrı’nın kudretiyle mümkün olabilecek mucizeler yapma gücünü verdi.
 
-  * Miracles are sometimes called "wonders" because they cause people to be filled with wonder or amazement. The term "wonder" is often more general and refers to amazing displays of God's power, such as when he created the heavens and the earth.
-  * Sometimes miracles are called "signs" because they are used as indicators or evidence that God is the all-powerful one who has complete authority over the universe.
-  * Some miracles were God's acts of redemption, such as when he rescued the Israelites from being slaves in Egypt and when he protected Daniel when he was thrown into a lion's den.
-  * Other wonders were God's acts of judgment, such as when he sent a worldwide flood in Noah's time and when he brought terrible plagues on the land of Egypt.
-  * Many of God's miracles were the physical healings of sick people or bringing dead people back to life.
-  * God's power was shown in Jesus when he healed people, calmed storms, walked on water and raised people from the dead. These were all miracles.
-  * God also enabled the prophets and the apostles to perform miracles of healing and other things that were only possible through God's power.
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * Possible translations of "miracles" or "wonders" could include, "impossible things that God does" or "powerful works of God" or "amazing acts of God."
-  * The frequent expression "signs and wonders" could be translated as "proofs and miracles" or "miraculous works that prove God's power" or "amazing miracles that show how great God is."
+  * «Mucizeler» ya da «harikalar» sözcüklerinin mümkün çeviri seçenekleri şunlardır: «Tanrı’nın yaptığı imkansız işler», «Tanrı’nın kudretli işleri» ya da «Tanrı’nın hayret verici işleri.»
+  * Sık sık kullanılan «alâmet ve mucize» ifadesi «kanıtlar ve harikalar», «Tanrı’nın kudretini kanıtlayan harika işler» ya da «Tanrı’nın ne yüce olduğunu gösteren hayret verici işler» şeklinde de çevrilebilir.
 
 (See also: [[:tr:obe:kt:power]], [[:tr:obe:kt:prophet]], [[:tr:obe:kt:apostle]],[[:tr:obe:kt:sign]])
 
@@ -25,11 +24,12 @@ Miracles are things that could never happen unless God caused them. For example,
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:16-08|[16-08]]]** Gideon asked God for two **signs**  so he could be sure that God would use him to save Israel.
-  * **[[:tr:obs:notes:frames:19-14|[19-14]]]** God did many **miracles**  through Elisha.
-  * **[[:tr:obs:notes:frames:37-10|[37-10]]]** Many of the Jews believed in Jesus because of this **miracle**.
-  * **[[:tr:obs:notes:frames:43-06|[43-06]]]**"Men of Israel, Jesus was a man who did many mighty **signs**  and **wonders**  by the power of God, as you have seen and already know."
-  * **[[:tr:obs:notes:frames:49-02|[49-02]]]** Jesus did many **miracles**  that prove he is God. He walked on water, calmed storms, healed many sick people, drove out demons, raised the dead to life, and turned five loaves of bread and two small fish into enough food for over 5,000 people.
+  ***[[:tr:obs:notes:frames:16-08|[16-08]]]** Gidyon Tanrı’nın kendisi vasıtasıyla İsrail’i kurtaracağından emin olmak için Tanrı’dan iki **alâmet** istedi.
+  ***[[:tr:obs:notes:frames:19-14|[19-14]]]** Tanrı Elişa vasıtasıyla çok **mucize** yaptı.
+  ***[[:tr:obs:notes:frames:37-10|[37-10]]]** Birçok Yahudi bu **mucize** sayesinde İsa’ya iman etti.
+  ***[[:tr:obs:notes:frames:43-06|[43-06]]]** “Ey İsrail halkı! Kendiniz zaten gördüğünüz ve bildiğiniz gibi, İsa Tanrı’nın kudretiyle birçok **alâmet** ve **mucize** yapan bir insandı.”
+  ***[[:tr:obs:notes:frames:49-02|[49-02]]]** İsa, Tanrı olduğunu kanıtlayan çok **mucize** yaptı. Su üstünde yürüdü, fırtınaları dindirdi, çok hastaya şifa verdi, cinleri çıkardı, ölüleri diriltti, beş ekmek ve iki küçük balıkla 5.000 kişiyi doyurdu.
+
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~

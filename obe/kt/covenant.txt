@@ -1,21 +1,20 @@
-====== covenant ======
+====== ahit ======
 
-===== Definition: =====
+===== Tanım =====
 
-A covenant is a formal, binding agreement between two parties that one or both parties must fulfill.
+Ahit, iki taraf arasında yapılan ve bir ya da her iki tarafın yerine getirmesi gereken bağlayıcı ve resmî antlaşmadır.
+  * Bu antlaşma bireyler, gruplar ya da Tanrı ile insanlar arasında yapılabilir.
+  * İnsanlar birbiriyle ahit yaparken bir şey yapacaklarına söz verirler ve onu yapmak zorundadırlar.
+  * İnsanlar arasında yapılan ahitlerin örnekleri evlilik antlaşması, iş sözleşmesi ve ülkeler arasındaki antlaşmalar.
+  * Kutsal Kitap’ta Tanrı haklıyla birkaç farklı ahit yapmıştır.
+  * Bazı ahitlerde Tanrı kendine düşen işi şartsız yerine getireceğini vadetti. Örneğin, Tanrı bir daha yeryüzünü tufanla yok etmeyeceği konusunda insanlıkla ahdini yaptığında bu vaadin hiçbir şartı yoktu.
+  * Başka ahitlerde Tanrı sadece insanlar O’na itaat eder ve ahitte onlara düşen işi yerine getirirlerse kendine düşen işi yerine getireceğini vadetti.
 
-  * This agreement can be between individuals, between groups of people, or between God and people.
-  * When people make a covenant with each other, they say that they will do something, and they must do it.
-  * Examples of human covenants include marriage covenants, business agreements, and treaties between countries.
-  * Throughout the Bible, God made several different covenants with his people.
-  * In some of the covenants, God promised to fulfill his part without conditions. For example when God established his covenant with mankind, promising to never destroy the earth again with a worldwide flood, this promise had no conditions for people to fulfill.
-  * In other covenants, God promised to fulfill his part only if the people obeyed him and fulfilled their part of the covenant.
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * Depending on the context, ways to translate this term could include "binding agreement" or "formal commitment" or "pledge" or "contract."
-  * Some languages may have different words for covenant depending on whether one party or both parties have made a promise they must keep. If the covenant is one-sided, it could be translated as "promise" or "pledge."
-  * Make sure the translation of this term does not sound like people proposed the covenant. In all cases of covenants between God and people, it was God who initiated the covenant.
+  * Bağlama dayalı olarak, bu terimin çevrilme yolları şunlar olabilir: «bağlayıcı antlaşma», «resmî adanma», «ant», «taahhüt» ya da «sözleşme.»
+  * Bazı dillerde sadece bir tarafın ya da her iki tarafın vaatte bulunmasına bağlı olarak ahit için çeşitli sözcükler bulunabilir. Ahit tek yönlü ise «vaat», «ant» ya da «taahhüt» olarak çevrilebilir.
+  * Bu terimin çevirisinden insanların ahdi başlattıkları anlaşılmamasına dikkat edin. Tanrı ile insanlar arasında yapılan tüm ahitlerde ahdi başlatan taraf Tanrı’ydı.
 
 (See also: [[:tr:obe:kt:promise|promise]], [[:tr:obe:kt:newcovenant|New Covenant]])
 
@@ -25,11 +24,12 @@ A covenant is a formal, binding agreement between two parties that one or both p
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:04-09|[04-09]]]** Then God made a **covenant**  with Abram. A **covenant**  is an agreement between two parties.
-  * **[[:tr:obs:notes:frames:05-04|[05-04]]]**"I will make Ishmael a great nation, too, but my **covenant**  will be with Isaac."
-  * **[[:tr:obs:notes:frames:06-04|[06-04]]]** After a long time, Abraham died and all of the promises that God had made to him in the **covenant**  were passed on to Isaac.
-  * **[[:tr:obs:notes:frames:07-10|[07-10]]]** The **covenant**  promises God had promised to Abraham and then to Isaac now passed on to Jacob."
-  * **[[:tr:obs:notes:frames:13-02|[13-02]]]** God said to Moses and the people of Israel, "If you will obey my voice and keep my **covenant**, you will be my prized possession, a kingdom of priests, and a holy nation."
-  * **[[:tr:obs:notes:frames:13-04|[13-04]]]** Then God gave them the **covenant**  and said, "I am Yahweh, your God, who saved you from slavery in Egypt. Do not worship other gods."
-  * **[[:tr:obs:notes:frames:15-13|[15-13]]]** Then Joshua reminded the people of their obligation to obey the **covenant**  that God had made with the Israelites at Sinai.
+  ***[[:tr:obs:notes:frames:04-09|[04-09]]]** Sonra Tanrı Avram’la bir **ahit** yaptı. Ahit, iki taraf arasındaki antlaşma anlamına gelir.
+  ***[[:tr:obs:notes:frames:05-04|[05-04]]]** “İsmail’i de büyük millet yapacağım, ancak **ahdimi** İshak’la sürdüreceğim.”
+  ***[[:tr:obs:notes:frames:06-04|[06-04]]]** Uzun süre sonra İbrahim öldü ve Tanrı’nın ona **ahit** yaparken verdiği tüm vaatler İshak’a geçti.
+  ***[[:tr:obs:notes:frames:07-10|[07-10]]]** Tanrı’nın **ahdinde** İbrahim’e verdiği vaatler bundan sonra İshak’tan Yakup’a geçti.
+  ***[[:tr:obs:notes:frames:13-02|[13-02]]]** Tanrı Musa’ya ve İsrail halkına şöyle seslendi: “Sözüme itaat eder, **ahdime** bağlı kalırsanız, çok kıymetli hazinem, kâhinler krallığı, kutsal bir millet olacaksınız.”
+  ***[[:tr:obs:notes:frames:13-04|[13-04]]]** Tanrı onlarla **ahit** yaparak şöyle dedi: “Seni Mısır’dan, köle olduğun ülkeden kurtaran Tanrın Yahve benim. Başka ilâhlara tapmayacaksın!”
+  ***[[:tr:obs:notes:frames:15-13|[15-13]]]** Yeşu yaşlandığında bütün İsrail halkını topladı ve Tanrı’nın Sina Dağı’nda İsrail’le yaptığı **ahde** sadık kalmaları gerektiğini onlara hatırlattı.
+
 ~~DISCUSSION~~{{tag>publish ktobs}}

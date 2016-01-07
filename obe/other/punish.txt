@@ -1,13 +1,11 @@
-====== punish, punishment ======
+====== cezalandırmak ======
 
-===== Definition: =====
+===== Tanım =====
 
-To punish someone is to cause that person to suffer a negative consequence for doing something wrong.
-
-  * God punished the Israelites when they disobeyed him, especially when they worshiped false gods.
-  * Sometimes punishment is intended to motivate a person to stop sinning, as when God punished the Israelites. 
-  * Jesus was punished for all the evil things that every person has ever done. He received each person's punishment on himself even though he did nothing wrong and did not deserve that punishment.
-
+Birine ceza vermek demek, o kişinin yaptığı yanlış bir işin olumsuz sonucundan acı çekmesini sağlamak demektir.
+  * İsrailliler Tanrı’ya itaatsizlik ettikleri, özellikle yalancı ilâhlara taptıkları zaman Tanrı onları cezalandırırdı.
+  * Bazen, örneğin Tanrı’nın İsraillileri cezalandırdığı durumda, ceza insanı günahından vazgeçmeye isteklendirmek amacıyla verilir. 
+  * İsa, her insanın yaptığı her kötülüğün cezasını aldı. Kendisi hiç bir yanlış yapmadığı ve cezayı hak etmediği hâlde İsa herkesin cezasını üstlendi.
 
 ===== Bible References: =====
 
@@ -16,13 +14,13 @@ To punish someone is to cause that person to suffer a negative consequence for d
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:13-07|[13-07]]]** God also gave many other laws and rules to follow. If the people obeyed these laws, God promised that he would bless and protect them. If they disobeyed them, God would **punish** them. 
-  ***[[:tr:obs:notes:frames:16-02|[16-02]]]** Because the Israelites kept disobeying God, he **punished** them by allowing their enemies to defeat them. 
-  ***[[:tr:obs:notes:frames:19-16|[19-16]]]** The prophets warned the people that if they did not stop doing evil and start obeying God, then God would judge them as guilty, and he would **punish** them. 
-  ***[[:tr:obs:notes:frames:48-06|[48-06]]]** Jesus was the perfect high priest because he took the **punishment** for every sin that anyone has ever committed.
-  ***[[:tr:obs:notes:frames:48-10|[48-10]]]** When anyone believes in Jesus, the blood of Jesus takes away that person's sin, and God's **punishment** passes over him.
-  ***[[:tr:obs:notes:frames:49-09|[49-09]]]** But God loved everyone in the world so much that he gave his only Son so that whoever believes in Jesus will not be **punished** for his sins, but will live with God forever.
-  ***[[:tr:obs:notes:frames:49-11|[49-11]]]** Jesus never sinned, but he chose to be **punished** and die as the perfect sacrifice to take away your sins and the sins of every person in the world. 
+  ***[[:tr:obs:notes:frames:13-07|[13-07]]]** Ayrıca Tanrı halkın uyması gereken diğer yasaları da verdi. Tanrı, bu yasalara uydukları takdirde halkı kutsayıp koruyacağını vadetti. Uymadıkları takdirde ise halkı **cezalandıracaktı**.
+  ***[[:tr:obs:notes:frames:16-02|[16-02]]]** İsrailliler sürekli Tanrı’ya itaatsiz oldukları için Tanrı onları düşmanlarına mağlup olmalarıyla **cezalandırırdı**.
+  ***[[:tr:obs:notes:frames:19-16|[19-16]]]** Peygamberler insanlara, kötü işlerinden vazgeçmezlerse, Tanrı’ya itaat etmeye başlamazlarsa Tanrı’nın onları suçlayıp mahkûm edeceğini, **cezalandıracağını** ikaz etti.
+  ***[[:tr:obs:notes:frames:48-06|[48-06]]]** İsa, herkesin işlediği her günahın **cezasını** kendi üstüne alan kâmil baş kâhin oldu.
+  ***[[:tr:obs:notes:frames:48-10|[48-10]]]** İsa’ya iman eden kişinin günahlarının bedelini İsa’nın kanı öder ve Tanrı’nın **cezası** bu insanın üzerinden geçer.
+  ***[[:tr:obs:notes:frames:49-09|[49-09]]]** Fakat Tanrı dünyadaki her insanı o kadar sevdi ki, biricik Oğlu’nu verdi. Öyle ki, İsa’ya iman eden herkes günahlarının **cezasını** çekmesin, Tanrı’yla ebediyen yaşasın.
+  ***[[:tr:obs:notes:frames:49-11|[49-11]]]** İsa asla günah işlemedi, fakat senin günahını ve dünyadaki her insanın günahını ortadan kaldırmak için **ceza** çekmeye, kâmil kurban olarak ölmeye razı oldu.
 
 ~~DISCUSSION~~
 

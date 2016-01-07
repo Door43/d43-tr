@@ -1,18 +1,15 @@
-====== Pilate ======
+====== Pilatus ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-Pilate was the Roman governor who sentenced Jesus to death.
-
-  * Because Pilate was the governor, he had the authority to put criminals to death.
-  * The Jewish religious leaders wanted Pilate to crucify Jesus, so they lied and said that Jesus was a criminal.
-  * Pilate realized that Jesus was not guilty, but he was afraid of the crowd, so he ordered his soldiers to crucify Jesus.
+Pilatus, İsa’yı ölüme mahkûm eden Roma valisiydi.
+  * Pilatus, vali olduğu için suçluları ölüme mahkûm etme yetkisine sahipti.
+  * Yahudi din alimleri Pilatus’un İsa’yı çarmıha germesini istiyorlardı; dolayısıyla yalan söyleyip İsa’nın suçlu olduğunu iddia ettiler.
+  * Pilatus İsa’nın suçlu olmadığını anladı, ama kalabalıktan korktuğu için askerlerine İsa’yı çarmıha germe emrini verdi.
 
 (Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
 
 (See also: [[rome|Rome, Roman]], [[en:obe:kt:crucify|crucify]], [[en:obe:kt:guilt|guilt, guilty]], [[governor]])
-
 
 ===== Bible References: =====
 
@@ -21,12 +18,12 @@ Pilate was the Roman governor who sentenced Jesus to death.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:39-09|[39-09]]]** Early the next morning, the Jewish leaders brought Jesus to **Pilate**, the Roman governor. They hoped that **Pilate** would condemn Jesus as guilty and sentenced him to be killed. **Pilate** asked Jesus, "Are you the King of the Jews?"
-  ***[[:tr:obs:notes:frames:39-10|[39-10]]]** **Pilate** said, "What is truth?"
-  ***[[:tr:obs:notes:frames:39-11|[39-11]]]** After speaking with Jesus, **Pilate** went out to the crowd and said, "I find no guilt in this man." But the Jewish leaders and the crowd shouted, "Crucify him!" **Pilate** replied, "He is not guilty." But they shouted even louder. Then **Pilate** said a third time, "He is not guilty!"
-  ***[[:tr:obs:notes:frames:39-12|[39-12]]]** **Pilate** became afraid that the crowd would begin to riot, so he ordered his soldiers to crucify Jesus.
-  ***[[:tr:obs:notes:frames:40-02|[40-02]]]** **Pilate** commanded that a sign be put above Jesus' head that read, "King of the Jews."
-  ***[[:tr:obs:notes:frames:41-02|[41-02]]]** **Pilate** said, "Take some soldiers and make the tomb as secure as you can."
+  ***[[:tr:obs:notes:frames:39-09|[39-09]]]** Ertesi gün sabahleyin erkenden Yahudi ileri gelenleri İsa’yı Roma valisi **Pilatus**’a götürdüler. **Pilatus**’un İsa’yı suçlu olarak ölüme mahkûm edeceğini ümit ediyorlardı. **Pilatus** İsa’ya, “Sen Yahudilerin Kralı mısın?” diye sordu.
+  ***[[:tr:obs:notes:frames:39-10|[39-10]]]** **Pilatus**, “Hakikat nedir?” diye sordu.
+  ***[[:tr:obs:notes:frames:39-11|[39-11]]]** İsa’yla konuştuktan sonra **Pilatus** halkın önüne çıktı. “Ben bu adamda hiçbir suç görmüyorum.” dedi. Fakat Yahudi ileri gelenleri ve kalabalık, “O’nu çarmıha ger!” diye bağırdılar. **Pilatus**, “Ama O suçsuzdur!” diye karşılık verdi. Halk daha yüksek sesle bağırdı. **Pilatus** üçüncü kez, “O suçsuzdur!” dedi.
+  ***[[:tr:obs:notes:frames:39-12|[39-12]]]** Kalabalığın ayaklanmasından korkan **Pilatus** sonunda askerlerinin İsa’yı çarmıha germesine razı oldu.
+  ***[[:tr:obs:notes:frames:40-02|[40-02]]]** **Pilatus**, İsa’nın gerildiği çarmıhın üzerine “Yahudilerin Kralı” yazılı bir yaftayı astırdı.
+  ***[[:tr:obs:notes:frames:41-02|[41-02]]]** **Pilatus** onlara, “Yanınıza askerleri alın, mezarın emniyet altına alınmasını sağlayın.”
 
 ~~DISCUSSION~~
 

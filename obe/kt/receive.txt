@@ -1,18 +1,17 @@
-====== receive ======
+====== almak ======
 
-===== Definition: =====
+===== Tanım =====
 
-The term "receive" generally means to accept something that is given, offered, or presented.
+«Almak» genel olarak verilen, sunulan ya da teklif edilen bir şeyi kabul etmek anlamına gelir.
+  * «Almak» ayrıca bir şeyi çekmek ya da yaşamak anlamına gelebilir, örneğin «yaptığının cezasını almak.»
+  * Ayrıca bir kişiyi «kabul etmek» anlamına gelebilir, örneğin, misafir kabul etmek, misafirle ilişki kurmak için onu ağırlamak, şerefle karşılamak.
+  * «Kutsal Ruh armağanını almak» demek, Kutsal Ruh’u hayatımıza kabul etmek, hayatımızda ve aracılığımızla çalışmasına izin vermek demektir.
+  * «İsa’yı kabul etmek» Tanrı’nın İsa Mesih aracılığıyla sunduğu kurtuluş teklifini kabul etmek anlamına gelir.
 
-  * To "receive" can also mean to suffer or experience something, as in "he received punishment for what he did."
-  * There is also a special sense in which we can "receive" a person. For example, to "receive" guests or visitors means to welcome them and to treat them with honor in order to build a relationship with them.
-  * To "receive the gift of the Holy Spirit" means we welcome the Holy Spirit into our lives, and allow him to work in and through us.
-  * To "receive Jesus" means to accept God's offer of salvation through Jesus Christ.
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * Depending on the context, "receive" can be translated as "accept" or "welcome" or "experience" or "be given."
-  * The expression, "you will receive power" could be translated as, "you will be given power" or "God will give you power" or "power will be given to you (by God)" or God will cause the Holy Spirit to work powerfully in you."
+  * Bağlama dayalı olarak, «almak» terimi «kabul etmek», «karşılamak», «verilmek», «yaşamak» olarak çevrilebilir.
+  * «Kudreti alacaksınız» sözü «size (Tanrı’dan) kudret verilecek» ya da «Tanrı size kudret verecek» ya da «Tanrı Kutsal Ruh’un sizde kudretle çalışmasını sağlayacak» şeklinde çevrilebilir.
 
 (See also: [[:tr:obe:kt:holyspirit]], [[:tr:obe:kt:lord]], [[:tr:obe:kt:jesus]], [[:tr:obe:kt:save]])
 
@@ -22,9 +21,10 @@ The term "receive" generally means to accept something that is given, offered, o
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:21-13|[21-13]]]** The prophets also said that the Messiah would be perfect, having no sin. He would die to **receive**  the punishment for other people's sin. His punishment would bring peace between God and people.
-  * **[[:tr:obs:notes:frames:45-05|[45-05]]]** As Stephen was dying, he cried out, "Jesus, **receive**  my spirit."
-  * **[[:tr:obs:notes:frames:49-06|[49-06]]]** He (Jesus) taught that some people will receive him and be saved, but other will not.
-  * **[[:tr:obs:notes:frames:49-10|[49-10]]]** When Jesus died on the cross, he **received**  your punishment.
-  * **[[:tr:obs:notes:frames:49-13|[49-13]]]** God will save everyone who believes in Jesus and **receives**  him as their Master.
+  ***[[:tr:obs:notes:frames:21-13|[21-13]]]** Peygamberler Mesih’in kâmil ve günahsız olacağını, diğer insanların günahının cezasını **çekerek** öleceğini bildirdiler. Çekeceği ceza Tanrı’yla insanlar arasında barış sağlayacak.
+  ***[[:tr:obs:notes:frames:45-05|[45-05]]]** İstefanos can verirken, “Ey İsa, ruhumu **al**!” diye yakardı.
+  ***[[:tr:obs:notes:frames:49-06|[49-06]]]** İsa, bazı insanların kendisini **kabul edip** kurtulacaklarını, diğerlerinin ise kurtuluşu reddedeceklerini öğretirdi.
+  ***[[:tr:obs:notes:frames:49-10|[49-10]]]** İsa çarmıh üzerinde ölürken senin cezanı **çekti**.
+  ***[[:tr:obs:notes:frames:49-13|[49-13]]]** Tanrı İsa’ya iman eden ve O’nu Efendisi olarak **kabul eden** herkesi kurtaracak.
+
 ~~DISCUSSION~~{{tag>publish ktobs}}

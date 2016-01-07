@@ -1,16 +1,13 @@
-======  Nile River ======
+====== Nil Nehri ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-The Nile is a very big river in northeastern Africa.
-
-  * The Nile River flows north through Egypt and empties into the Mediterranean Sea.
-  * Crops grow well in its fertile valley.
-  * Most Egyptians live near the Nile River since it is an important source of water and food crops. 
+Nil Nehri kuzeydoğu Afrika’da bulunan çok büyük bir nehirdir.
+  * Nil Nehri Mısır’da kuzeye doğru akar ve Akdeniz’e dökülür.
+  * Verimli vadisinde ürünler çok iyi yetişir.
+  * Nil Nehri önemli su ve yiyecek ürünlerin kaynağı olduğu için Mısırlıların çoğu onun yakınlığında yaşar.
 
 (See: [[Egypt]])
-
 
 ===== Bible References: =====
 
@@ -19,10 +16,10 @@ The Nile is a very big river in northeastern Africa.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:08-04|[08-04]]]** Egypt was a large, powerful country located along the **Nile River**.
-  ***[[:tr:obs:notes:frames:09-04|[09-04]]]** Pharaoh saw that the Israelites were having many babies, so he ordered his people to kill all Israelite baby boys by throwing them into the **Nile River**.
-  ***[[:tr:obs:notes:frames:09-06|[09-06]]]** When the boy's parents could no longer hide him, they put him in a floating basket among the reeds along the edge of the **Nile River** in order to save him from being killed. 
-  ***[[:tr:obs:notes:frames:10-03|[10-03]]]** God turned the **Nile River** into blood, but Pharaoh still would not let the Israelites go.
+  ***[[:tr:obs:notes:frames:08-04|[08-04]]]** Mısır **Nil Nehri**’nin kıyısında bulunan büyük, kudretli bir ülkeydi.
+  ***[[:tr:obs:notes:frames:09-04|[09-04]]]** İsraillilerin çocuklarının çoğaldığını gören firavun kendi halkına İsraillilerin yeni doğan erkek bebeklerini **Nil Nehri**’ne atarak öldürmelerini buyurdu.
+  ***[[:tr:obs:notes:frames:09-06|[09-06]]]** Annesi babası bebeği artık saklayamaz olunca öldürülmesin diye bebeği bir sepete koyarak **Nil Nehri**’ndeki bir sazlığa bıraktılar.
+  ***[[:tr:obs:notes:frames:10-03|[10-03]]]** Tanrı **Nil Nehri**’ni kana dönüştürdü, fakat firavun hâlâ İsraillileri salıvermek istemedi.
 
 ~~DISCUSSION~~
 

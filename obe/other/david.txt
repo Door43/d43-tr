@@ -1,21 +1,18 @@
-====== David ======
+====== Davut ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-David was the second king of Israel and he served God faithfully.
-
-  * God chose David to become king when he was still a young boy caring for his family's sheep.
-  * David became a great fighter and led the Israelite army in battles against their enemies.
-  * Saul tried to kill David, but God protected him, and made him king after Saul's death.
-  * David sinned against God, but he repented and God forgave him.
-  * David's son, King Solomon, built the temple for God that David had planned.
-  * Jesus, the Messiah, is a descendent of David, and is therefore called the "Son of David."
+Davut İsrail’in ikinci kralıydı ve Tanrı’ya sadakatle hizmet etti.
+  * Davut hâlâ ailesinin sürüsünü güden delikanlı iken Tanrı onu kral olarak seçti.
+  * Davut büyük savaşçı oldu ve İsrail ordusunun düşmanlarıyla savaşlarında öncülük etti.
+  * Saul Davut’u öldürmeye çalıştı, fakat Tanrı onu korudu ve Saul’un ölümünden sonra onu kral yaptı.
+  * Davut Tanrı’ya karşı günah işledi, ama tövbe etti ve Tanrı onu affetti.
+  * Davut’un oğlu Kral Süleyman, Davut’un tasarladığı Tanrı tapınağını inşa etti.
+  * İsa Mesih Davut’un soyundan olduğu için «Davut Oğlu» olarak adlandırılır.
 
 (Translation suggestions: [[en:ta:vol1:translate:translate_names]])
 
 (See also: [[saul]], [[solomon]])
-
 
 ===== Bible References: =====
 
@@ -24,13 +21,13 @@ David was the second king of Israel and he served God faithfully.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:17-02|[17-02]]]** God chose a young Israelite named **David** to be king after Saul. **David** was a shepherd from the town of Bethlehem. … **David** was a humble and righteous man who trusted and obeyed God. 
-  ***[[:tr:obs:notes:frames:17-03|[17-03]]]** **David** was also a great soldier and leader. When **David** was still a young man, he fought against a giant named Goliath. 
-  ***[[:tr:obs:notes:frames:17-04|[17-04]]]** Saul became jealous of the people's love for **David**. Saul tried many times to kill him, so **David** hid from Saul. 
-  ***[[:tr:obs:notes:frames:17-05|[17-05]]]** God blessed **David** and made him successful. **David** fought many battles and God helped him defeat Israel's enemies.  
-  ***[[:tr:obs:notes:frames:17-06|[17-06]]]** **David** wanted to build a temple where all the Israelites could worship God and offer him sacrifices. 
-  ***[[:tr:obs:notes:frames:17-09|[17-09]]]** **David** ruled with justice and faithfulness for many years, and God blessed him. However, toward the end of his life he sinned terribly against God. 
-  ***[[:tr:obs:notes:frames:17-13|[17-13]]]** God was very angry about what **David** had done, so he sent the prophet Nathan to tell **David** how evil his sin was. **David** repented of his sin and God forgave him. For the rest of his life, **David** followed and obeyed God, even in difficult times.
+  ***[[:tr:obs:notes:frames:17-02|[17-02]]]** Tanrı Saul’dan sonra kral olmak üzere **Davut** adında genç bir İsrailli adamı seçti. **Davut** Beytlehem kentinden bir çobandı... **Davut**, Tanrı’ya iman ve itaat eden alçakgönüllü ve doğru bir adamdı.
+  ***[[:tr:obs:notes:frames:17-03|[17-03]]]** **Davut** büyük asker ve önder oldu. Daha gençken Golyat adlı dev boylu bir adamla dövüştü.
+  ***[[:tr:obs:notes:frames:17-04|[17-04]]]** Halkın **Davut**’u sevdiğini gören Saul onu kıskandı. Defalarca onu öldürmeye kalkıştı, bu yüzden **Davut** Saul’dan gizlenmeye mecbur oldu.
+  ***[[:tr:obs:notes:frames:17-05|[17-05]]]** Tanrı **Davut**’u kutsadı ve başarılı kıldı. **Davut** Tanrı yolunda çok savaştı ve Tanrı ona İsrail’in düşmanları üzerinde zafer verdi.
+  ***[[:tr:obs:notes:frames:17-06|[17-06]]]** **Davut** bütün İsraillilerin Tanrı’ya tapınarak kurban sunabilecekleri bir tapınak kurmak istedi.
+  ***[[:tr:obs:notes:frames:17-09|[17-09]]]** **Davut** yıllar boyunca adalet ve sadakat ile hüküm sürdü ve Tanrı onu kutsadı. Ancak ömrünün sonuna doğru Tanrı’ya karşı korkunç bir günah işledi.
+  ***[[:tr:obs:notes:frames:17-13|[17-13]]]** Tanrı **Davut**’un bu işine çok öfkelendi, günahının ne kadar kötü olduğunu bildirmesi için ona Natan Peygamber’i gönderdi. **Davut** günahından tövbe etti, Tanrı da onu affetti. **Davut** ömrünün kalan kısmı boyunca Tanrı’nın sözünü dinledi, zor zamanda bile Tanrı’ya itaat etti.
 
 ~~DISCUSSION~~
 

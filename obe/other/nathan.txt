@@ -1,18 +1,15 @@
-====== Nathan ======
+====== Natan ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-Nathan was a faithful prophet of God who lived during the time when David was king over Israel.
-
-  * God sent Nathan to confront David after David sinned grievously against Uriah.
-  * Nathan rebuked David, in spite of the fact that David was the king.
-  * David repented of his sin after Nathan spoke to him.
+Natan, Davut İsrail’in kralı olduğu dönemde yaşayan Tanrı’nın sadık peygamberiydi.
+  * Davut Uriya’ya karşı ağır günah işledikten sonra Tanrı ona Natan’ı gönderdi.
+  * Natan Davut’u -kral olmasına rağmen- azarladı.
+  * Natan Davut’la konuştuktan sonra Davut günahından tövbe etti.
 
 (Translation suggestions: [[en:ta:vol1:translate:translate_names]])
 
 (See also: [[david]], [[uriah]])
-
 
 ===== Bible References: =====
 
@@ -20,9 +17,8 @@ Nathan was a faithful prophet of God who lived during the time when David was ki
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:17-07|[17-07]]]** God sent the prophet **Nathan** to David with this message, "Because you are a man of war, you will not build this Temple for me."
-  ***[[:tr:obs:notes:frames:17-13|[17-13]]]** God was very angry about what David had done, so he sent the prophet **Nathan** to tell David how evil his sin was. 
-
+  ***[[:tr:obs:notes:frames:17-07|[17-07]]]** Tanrı, **Natan** Peygamber’in vasıtasıyla Davut’a şu haberi gönderdi: “Sen savaşçı birisin, bu yüzden bana tapınak kurmayacaksın.”
+  ***[[:tr:obs:notes:frames:17-13|[17-13]]]** Tanrı Davut’un bu işine çok öfkelendi, günahının ne kadar kötü olduğunu bildirmesi için ona **Natan** Peygamberi’i gönderdi.
 
 ~~DISCUSSION~~
 

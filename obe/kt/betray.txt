@@ -1,15 +1,14 @@
-====== betray, betrayer ======
+====== ihanet etmek ======
 
-===== Definition: =====
+===== Tanım =====
 
-The term "betray" means to act in a way that deceives or harms someone who was trusting him. A "betrayer" is the one who betrays that friend.
+«İnahet etmek» fiili kendisine güvenen birini aldatacak ya da ona zarar verecek bir şekilde davranmak anlamına gelir. «Hain» ile dostuna ihanet eden kişi kastediliyor.
+  * Yahuda, Yahudi ileri gelenlerine İsa’yı tutuklama yolunu gösterdiği için «hain» adlandırılmıştır.
+  * Yahuda, İsa’nın bir havarisi olduğu ve İsa’nın adaletsiz idamı ile sonuçlanacak bilgiyi Yahudi ileri gelenlerine vermesi karşılığında para aldığı için ihaneti özellikle kötüydü.
 
-  * Judas was "the betrayer" because he told the Jewish leaders how to capture Jesus.
-  * The betrayal by Judas was especially evil because he was an apostle of Jesus who received money in exchange for giving the Jewish leaders information that would result in Jesus' unjust death,
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * Depending on the context, this could be translated as "deceive and cause harm to" or "turn over to the enemy" or "deal treacherously with."
+  * Bağlama dayalı olarak, bu terim şöyle çevrilebilir: «aldatıp zarar vermek», «düşmanın eline teslim etmek» ya da «haince davranmak.»
 
 (See also: [[:tr:obe:other:judasiscariot|Judas Iscariot]], [[:tr:obe:other:jewishleaders|Jewish leaders, religious leaders]], [[:tr:obe:kt:apostle|apostle, the twelve, the eleven]])
 
@@ -19,13 +18,14 @@ The term "betray" means to act in a way that deceives or harms someone who was t
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:21-11|[21-11]]]** Other prophets foretold that those who killed the Messiah would gamble for his clothes and he would be **betrayed**  by a friend. The prophet Zechariah foretold that the friend would be paid thirty silver coins as payment for **betraying**  the Messiah.
-  * **[[:tr:obs:notes:frames:38-02|[38-02]]]** After Jesus and the disciples arrived in Jerusalem, Judas went to the Jewish leaders and offered to **betray**  Jesus to them in exchange for money.
-  * **[[:tr:obs:notes:frames:38-03|[38-03]]]** The Jewish leaders, led by the high priest, paid Judas thirty silver coins to **betray**  Jesus.
-  * **[[:tr:obs:notes:frames:38-06|[38-06]]]** Then Jesus said to the disciples, "One of you will **betray**  me." … Jesus said, "The person to whom I give this piece of bread is the **betrayer**."
-  * **[[:tr:obs:notes:frames:38-13|[38-13]]]** When he returned the third time, Jesus said, "Wake up! My **betrayer**  is here."
-  * **[[:tr:obs:notes:frames:38-14|[38-14]]]** Then Jesus said, "Judas, do you **betray**  me with a kiss?"
-  * **[[:tr:obs:notes:frames:39-08|[39-08]]]** Meanwhile, Judas, the **betrayer**, saw that the Jewish leaders had condemned Jesus to die. He became full of sorrow and went away and killed himself.
+  ***[[:tr:obs:notes:frames:21-11|[21-11]]]** Başka peygamberler Mesih’i öldürenlerin giysileri için kura çekeceklerini ve Mesih’in bir dostu tarafından **ihanete uğrayacağını** önceden bildirdiler. Zekeriye Peygamber, Mesih’e **ihanet etmesi** için o adama ücret olarak otuz gümüş verileceğini söyledi.
+  ***[[:tr:obs:notes:frames:38-02|[38-02]]]** İsa’yla havarileri Yeruşalim’e vardıklarında Yahuda Yahudi ileri gelenlerine gitti ve para karşılığında İsa’yı onlara **teslim etmeyi** önerdi.
+  ***[[:tr:obs:notes:frames:38-03|[38-03]]]** Yahudi ileri gelenleri baş kâhinin öncülüğünde İsa’yı **teslim etmesi** için Yahuda’ya otuz gümüş para ödedi.
+  ***[[:tr:obs:notes:frames:38-06|[38-06]]]** Sonra İsa havarilerine, “Sizden biri bana **ihanet edecek**.” dedi... İsa, “Şu ekmeği verdiğim kişi **haindir**.” dedi. Sonra ekmeği Yahuda’ya verdi.
+  ***[[:tr:obs:notes:frames:38-13|[38-13]]]** İsa üçüncü kez döndüğünde, “Kalkın artık! Bana **ihanet eden** geldi!” dedi.
+  ***[[:tr:obs:notes:frames:38-14|[38-14]]]** O zaman İsa şöyle dedi: “Yahuda, bana öpücükle mi **ihanet ediyorsun**?”
+  ***[[:tr:obs:notes:frames:39-08|[39-08]]]** Bu arada **hain** Yahuda, Yahudi ileri gelenlerinin İsa’yı ölüme mahkûm ettiklerini gördü. Çok üzüldü, pişman oldu, gidip kendini astı.
+
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~

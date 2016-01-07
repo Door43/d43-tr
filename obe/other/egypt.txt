@@ -1,15 +1,13 @@
-====== Egypt, Egyptian ======
+====== Mısır ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-Egypt is a country in the northeast part of Africa, to the south and west of the Promised Land.
-
-    * In ancient times, Egypt was a powerful and wealthy country.
-    * Several times in the Bible, Israel's patriarchs had to go down to Egypt for food.
-    * One of these times, God used Jacob's son Joseph to preserve the Egyptian people during a time of famine and to keep his own family from starving.
-    * An Egyptian is a person who is a native of Egypt. 
-    * Though the Israelites lived in Egypt for many generations, they were never considered to be Egyptians. 
+Mısır, Afrika’nın kuzeydoğu bölgesinde, Tanrı’nın vadettiği ülkeden güneybatıda bulunan bir ülkedir.
+  * Eski zamanlarda Mısır kudretli ve zengin bir ülkeydi.
+  * Tevrat’ta İsrail’in atalarının defalarca yiyecek için Mısır’a gittikleri anlatılıyor.
+  * Bir keresinde Tanrı kıtlık zamanı  Mısır halkını ve kendi ailesini açlıktan ölmekten kurtarmak için Yakup’un oğlu Yusuf’u kullandı.
+  * Mısırlı, Mısır asıllı anlamına gelir. 
+  * İsrailliler nesiller boyunca Mısır’da yaşamalarına rağmen asla Mısırlı sayılmazlardı.
 
 ===== Bible References: =====
 
@@ -18,11 +16,11 @@ Egypt is a country in the northeast part of Africa, to the south and west of the
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:08-04|[08-04]]]** The slave traders took Joseph to **Egypt.** **Egypt** was a large, powerful country located along the Nile River.
-  ***[[:tr:obs:notes:frames:08-08|[08-08]]]** Pharaoh was so impressed with Joseph that he appointed him to be the second most powerful man in all of **Egypt**!
-  ***[[:tr:obs:notes:frames:08-11|[08-11]]]** So Jacob sent his older sons to **Egypt ** to buy food.
-  ***[[:tr:obs:notes:frames:08-14|[08-14]]]** Even though Jacob was an old man, he moved to **Egypt** with all of his family, and they all lived there.
-  ***[[:tr:obs:notes:frames:09-01|[09-01]]]** After Joseph died, all of his relatives stayed in **Egypt**.
+  ***[[:tr:obs:notes:frames:08-04|[08-04]]]** Köle tüccarları Yusuf’u **Mısır**’a götürdüler. **Mısır** Nil Nehri’nin kıyısında bulunan büyük, kudretli bir ülkeydi.
+  ***[[:tr:obs:notes:frames:08-08|[08-08]]]** Firavun Yusuf’a o kadar hayran oldu ki onu bütün **Mısır**’da ikinci güç sahibi olarak tayin etti!
+  ***[[:tr:obs:notes:frames:08-11|[08-11]]]** Bu yüzden Yakup erzak almaları için büyük oğullarını **Mısır**’a gönderdi.
+  ***[[:tr:obs:notes:frames:08-14|[08-14]]]** Yakup ihtiyar olmasına rağmen bütün soyu ile beraber **Mısır**’a taşındı ve onların hepsi orada yerleşti.
+  ***[[:tr:obs:notes:frames:09-01|[09-01]]]** Yusuf öldükten sonra bütün akrabaları **Mısır**’da kalmıştı.
 
 ~~DISCUSSION~~
 

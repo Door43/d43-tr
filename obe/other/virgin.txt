@@ -1,15 +1,12 @@
-====== virgin ======
+====== bakire ======
 
+===== Tanım =====
 
-===== Definition: =====
-
-A virgin is a woman who has not had sexual relations.
-
-    * The prophet Isaiah said that the Messiah would be born from a virgin.
-    * Mary was a virgin when she was pregnant with Jesus. He did not have a human father.
+Bakire, cinsel ilişkiye girmeyen kadındır.
+  * Yeşaya Peygamber, Mesih’in bakireden doğacağını bildirmiştir.
+  * Meryem İsa’ya hamile kaldığında bakireydi. İsa’nın insani babası olmamıştır.
 
 (See also: [[isaiah]], [[en:obe:kt:christ]], [[mary]], [[en:obe:kt:jesus]])
-
 
 ===== Bible References: =====
 
@@ -18,10 +15,10 @@ A virgin is a woman who has not had sexual relations.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:21-09|[21-09]]]** The prophet Isaiah prophesied that the Messiah would be born from a **virgin**.
-  ***[[:tr:obs:notes:frames:22-04|[22-04]]]** She (Mary) was a **virgin** and was engaged to be married to a man named Joseph.
-  ***[[:tr:obs:notes:frames:22-05|[22-05]]]** Mary replied, "How can this be, since I am a **virgin**?"
-  ***[[:tr:obs:notes:frames:49-01|[49-01]]]** An angel told a **virgin** named Mary that she would give birth to God's Son. So while she was still a **virgin**, she gave birth to a son and named him Jesus.
+  ***[[:tr:obs:notes:frames:21-09|[21-09]]]** Yeşaya Peygamber Mesih’in **bakireden** doğuşunu müjdeledi.
+  ***[[:tr:obs:notes:frames:22-04|[22-04]]]** Meryem **bakireydi** ve Yusuf adındaki adamla nişanlanmıştı.
+  ***[[:tr:obs:notes:frames:22-05|[22-05]]]** Meryem, “Bu nasıl olabilir? Ben **bakireyim**.” diye cevap verdi.
+  ***[[:tr:obs:notes:frames:49-01|[49-01]]]** Melek, Meryem adındaki **bakire** bir kıza Tanrı’nın Oğlu’nu doğuracağını söyledi. Böylece Meryem hâlâ **bakireyken** bir oğul doğurdu ve adını İsa koydu.
 
 ~~DISCUSSION~~
 

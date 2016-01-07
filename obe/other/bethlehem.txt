@@ -1,13 +1,12 @@
-====== Bethlehem ======
+====== Beytlehem ======
 
-===== Facts: =====
+===== Gerçeklikler =====
 
-Bethlehem was a small city in the land of Israel, near the city of Jerusalem. It still exists to the present day.
-
-  * King David was born in Bethlehem; for this reason it has been called the "city of David."
-  * The prophet Micah said that the Messiah would come from Bethlehem.
-  * Bethlehem is the city where Jesus was born.
-  * The name means "house of bread" or "house of food."
+Beytlehem İsrail’de Yeruşalim kentinin yakınlığında bulunan küçük bir kentti. Şimdiye dek mecvuttur.
+  * Kral Davut Beytlehem’de doğdu; bu sebeple orası «Davut’un kenti» olarak adlandırıldı.
+  * Mika Peygamber Mesih’in Beytlehem’den geleceğini ilan etti.
+  * Beytlehem, İsa’nın doğduğu şehirdir.
+  * Şehrin adı «ekmek evi» ya da «yiyecek evi» anlamına gelir.
 
 (See also: [[david]])
 
@@ -17,9 +16,9 @@ Bethlehem was a small city in the land of Israel, near the city of Jerusalem. It
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:17-02|[17-02]]]** David was a shepherd from the town of **Bethlehem**.
-  ***[[:tr:obs:notes:frames:21-09|[21-09]]]** The prophet Isaiah prophesied that the Messiah would be born from a virgin. The prophet Micah said that he would be born in the town of **Bethlehem**.
-  ***[[:tr:obs:notes:frames:23-04|[23-04]]]** Joseph and Mary had to make a long journey from where they lived in Nazareth to **Bethlehem** because their ancestor was David whose hometown was **Bethlehem**.
-  ***[[:tr:obs:notes:frames:23-06|[23-06]]]** "The Messiah, the Master, has been born in **Bethlehem**!"
+  ***[[:tr:obs:notes:frames:17-02|[17-02]]]** Davut **Beytlehem** kentinden bir çobandı.
+  ***[[:tr:obs:notes:frames:21-09|[21-09]]]** Yeşaya Peygamber Mesih’in bakireden doğuşunu müjdeledi. Mika Peygamber onun **Beytlehem** kentinde doğacağını ilan etti.
+  ***[[:tr:obs:notes:frames:23-04|[23-04]]]** Nasıra kentinde oturan Yusuf’la Meryem, babaları Davut’un doğduğu kent **Beytlehem**’e uzun yol gitmeye mecbur oldular.
+  ***[[:tr:obs:notes:frames:23-06|[23-06]]]** “**Beytlehem**’de Efendimiz Mesih doğdu!”
 
 ~~DISCUSSION~~{{tag>publish ktobs}}

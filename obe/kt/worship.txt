@@ -1,22 +1,17 @@
-====== worship ======
+====== tapınma ======
 
+===== Tanım =====
 
-===== Definition: =====
+«Tapmak» demek, birine, özellikle Tanrı’ya onur vermek, hamt ve itaat etmek demektir.
+  * Bu sözcük çoğu zaman alçakgönüllülükle birini onurlandırmak için gerçek anlamda «baş eğmek», «secde etmek» anlamına gelir.
+  * Biz Tanrı’ya hamt ve itaat ederek hizmet ve onur sunduğumuz zaman O’na taparız.
+  * İsrailliler Tanrı’ya taptıkları zaman sık sık sunakta hayvan kurban verirlerdi.
+  * Bazı insanlar yalancı ilâhlara taparlar.
 
-"To worship" means to honor, praise and obey someone, especially God.
+===== Çeviri için öneriler =====
 
-  * This term often means literally, "bow down" or "prostrate oneself" to humbly honor someone.
-  * We worship God when we serve and honor him, by praising him and obeying him.
-  * When the Israelites worshiped God, it often included sacrificing an animal on an altar. 
-  * Some people worship false gods.
-
-===== Translation Suggestions: =====
-
-  * The term "worship" could be translated as "bow down to" or "honor and serve" or "honor and obey."
-  * In some contexts, it could also be translated as "humbly praise" or "give honor and praise."
- 
-(See also: [[en:obe:other:sacrifice]], [[en:obe:other:praise]], [[:tr:obe:other:honor]])  
-
+  * «Tapmak» sözcüğü «secde etmek», «ibadet etmek», «onur ve hizmet sunmak» ya da «onurlandırmak ve itaat etmek» şeklinde çevrilebilir.
+  * Bazı bağlamlarda «alçakgönüllülükle hamt etmek» ya da «onur ve hamt sunmak» şeklinde çevrilebilir.
 
 ===== Bible References: =====
 
@@ -25,14 +20,14 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:13-04|[13-04]]]**  Then God gave them the covenant and said, "I am Yahweh, your God, who saved you from slavery in Egypt. Do not **worship** other gods."
-  ***[[:tr:obs:notes:frames:14-02|[14-02]]]**  The Canaanites did not **worship** or obey God. They **worshiped** false gods and did many evil things.
-  ***[[:tr:obs:notes:frames:17-06|[17-06]]]**  David wanted to build a temple where all the Israelites could **worship** God and offer him sacrifices.
-  ***[[:tr:obs:notes:frames:18-12|[18-12]]]**  All of the kings and most of the people of the kingdom of Israel **worshiped** idols.
-  ***[[:tr:obs:notes:frames:25-07|[25-07]]]**  Jesus replied, "Get away from me, Satan! In God's word he commands his people, '**Worship** only the Lord your God and only serve him.'"
-  ***[[:tr:obs:notes:frames:26-02|[26-02]]]**  On the Sabbath, he (Jesus) went to the place of **worship**.
-  ***[[:tr:obs:notes:frames:47-01|[47-01]]]**  There they met a woman named Lydia who was a merchant. She loved and **worshiped** God.
-  ***[[:tr:obs:notes:frames:49-18|[49-18]]]**  God tells you to pray, to study his word, to **worship** him with other Christians, and to tell others what he has done for you. 
+  ***[[:tr:obs:notes:frames:13-04|[13-04]]]** Tanrı onlarla ahit yaparak şöyle dedi: “Seni Mısır’dan, köle olduğun ülkeden kurtaran Tanrın Yahve benim. Başka ilâhlara **tapmayacaksın**!”
+  ***[[:tr:obs:notes:frames:14-02|[14-02]]]** Kenanlılar Tanrı’ya **tapmaz** ve itaat etmezlerdı. Yalancı ilâhlara **tapar** ve çok kötülük yaparlardı.
+  ***[[:tr:obs:notes:frames:17-06|[17-06]]]** Davut bütün İsraillilerin Tanrı’ya **tapınarak** kurban sunabilecekleri bir tapınak kurmak istedi.
+  ***[[:tr:obs:notes:frames:18-12|[18-12]]]** İsrail Krallığı’nın bütün kralları ve insanlarının çoğu **putlara** taparlardı.
+  ***[[:tr:obs:notes:frames:25-07|[25-07]]]** İsa cevabında ona, “Çekil benden, Şeytan! Tanrı, Sözü’nde halkına şöyle buyuruyor: ‘Yalnız Tanrın Rab’be **tapacaksın**, yalnız O’na kulluk edeceksin!’” dedi.
+  ***[[:tr:obs:notes:frames:26-02|[26-02]]]** Bir Şabat günü (İsa) havradaki **ibadete** katıldı.
+  ***[[:tr:obs:notes:frames:47-01|[47-01]]]** Orada Lidya adında tüccar bir kadınla tanıştılar. Lidya Tanrı’yı seven ve **tapınan** biriydi.
+  ***[[:tr:obs:notes:frames:49-18|[49-18]]]** Tanrı sana dua etmeyi, sözünü araştırmayı, başka Mesih inanlılarıyla birlikte **tapınmayı** ve senin için yaptıklarını başkalarına anlatmayı buyuruyor.
 
 ~~DISCUSSION~~
 

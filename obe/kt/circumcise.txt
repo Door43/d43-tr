@@ -1,21 +1,20 @@
-====== circumcise, circumcision ======
+====== sünnetetmek ======
 
-===== Definition: =====
+===== Tanım =====
 
-The term "circumcise" means to cut off the foreskin of a man or male child. A circumcision ceremony may be performed in connection with this.
+«Sünnet» terimi bir adamın ya da erkek çocuğun erkeklik organı derisinin kesilmesi anlamına gelir. Sünnet töreni buna bağlı olarak gerçekleştirilirdi.
+  * Tanrı İbrahim’e ailesinin tüm erkeklerini ve tüm erkek uşaklarını Tanrı’nın onlarla yaptığı ahdin bir belirtisi olarak sünnet etmesini buyurdu.
+  * Tanrı ayrıca İbrahim’in soyunun her doğan erkek çocuğunu sünnet etmelerini buyurdu.
+  * «Yüreğin sünneti» ifadesi mecazi olarak günahın insandan «kesilmesi» anlamında kullanılır.
+  * Ruhsal bir anlamda «sünnetliler» demek, Tanrı’nın İsa’nın kanı vasıtasıyla günahtan arındırdığı ve kendi halkı yaptığı insanlar demektir.
+  * «Sünnetsizler» terimi fiziksel açıdan sünnet edilmeyen kişilere aittir. Bu söz ayrıca mecazi olarak ruhsal açıdan sünnet edilmeyen, yani Tanrı’yla ilişkide bulunmayan kişilere aittir.
 
-  * God commanded Abraham to circumcise every male among his family and servants as a sign of God's covenant with them.
-  * God also commanded Abraham's descendants to continue to do this for every baby boy born into their households.
-  * The phrase, "circumcision of the heart" refers figuratively to the "cutting away" or removal of sin from a person.
-  * In a spiritual sense, "the circumcised" refers to people whom God has purified from sin through the blood of Jesus and who are his people.
-  * The term "uncircumcised" refers to those who have not been circumcised physically. It can also refer figuratively to those who have not been circumcised spiritually, who do not have a relationship with God.
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * If the culture of the target language performs circumcisions on males, the word used to refer to this should be used for this term.
-  * Other ways to translate this term would be, "cut around" or "cut in a circle" or "cut off the foreskin."
-  * In cultures where circumcision is not known, it may be necessary to explain it in a footnote or glossary.
-  * Make sure the term used to translate this does not refer to females. It may be necessary to translate this with a word or phrase that includes the meaning of "male."
+  * Hedef dilin kültüründe erkekler sünnet edilirse bu eylem için kullanılan kelimenin kullanılması gerekir.
+  * Bu terim ayrıca «erkeklik derisinin kesilmesi» olarak da çevrilebiir.
+  * Sünnetten habersiz olan kültürlerde bunun anlamının dipnotta ya da sözlükte açıklanması zorunlu olabilir.
+  * Bunu çevirmek için kullandığınız terimin kadınlara ait olmamasına dikkat edin. Bunu «erkek» anlamını içeren bir söz ya da ifade ile çevirmek lazım olabilir.
 
 (See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 
@@ -27,8 +26,9 @@ The term "circumcise" means to cut off the foreskin of a man or male child. A ci
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:05-03|[05-03]]]**"You must **circumcise**  every male in your family."
-  * **[[:tr:obs:notes:frames:05-05|[05-05]]]** That day Abraham **circumcised**  all the males in his household.
+  ***[[:tr:obs:notes:frames:05-03|[05-03]]]** Ailende her erkek **sünnet** edilecek.
+  ***[[:tr:obs:notes:frames:05-05|[05-05]]]** O gün İbrahim evindeki bütün erkekleri **sünnet** ettirdi.
+
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~

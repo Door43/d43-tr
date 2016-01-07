@@ -1,19 +1,16 @@
-====== Zechariah (NT) ======
+====== Zekeriya (İncil) ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-Zechariah was a Jewish priest who became the father of John the Baptist.
-
-    * Zechariah loved God and obeyed him.
-    * For many years Zechariah and his wife, Elizabeth, prayed earnestly to have a child, but did not have one. Then when they were very old, God answered their prayers and gave them a son.
-    * Zechariah prophesied that his son John would be the prophet who would announce and prepare the way for the Messiah.
+Zekeriya Vaftizci Yahya’nın babası olan Yahudi bir kâhindi.
+  * Zekeriya Tanrı’yı seven ve O’na itaat eden biriydi.
+  * Zekeriya ve karısı Elizabet çocuk sahibi olmak için yıllar boyunca dua etmişlerdi, ama çocukları olmamışlardı. Nihayet çok yaşlı oldukları zaman Tanrı onların dualarını cevaplayarak onlara bir oğul verdi.
+  * Zekeriya, oğlu Yahya’nın bizzat Mesih’i ilan edecek ve yolunu hazırlayacak peygamber olacağından haber verdi.
 
 (Translation suggestions: [[en:ta:vol1:translate:translate_names]])
 
 
 (See also: [[johnthebaptist]])
-
 
 ===== Bible References: =====
 
@@ -22,10 +19,10 @@ Zechariah was a Jewish priest who became the father of John the Baptist.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:22-01|[22-01]]]** Suddenly an angel came with a message from God to an old priest named **Zechariah**. **Zechariah** and his wife, Elizabeth, were godly people, but she had not been able to have any children.
-  ***[[:tr:obs:notes:frames:22-02|[22-02]]]** The angel said to **Zechariah**, "Your wife will have a son. You will name him John."
-  ***[[:tr:obs:notes:frames:22-03|[22-03]]]** Immediately, **Zechariah** was unable to speak.
-  ***[[:tr:obs:notes:frames:22-07|[22-07]]]** Then God allowed **Zechariah** to speak again.
+  ***[[:tr:obs:notes:frames:22-01|[22-01]]]** Nihayet **Zekeriya** adlı yaşlı bir kâhine Tanrı’nın sözü geldi. **Zekeriya**’yla karısı Elizabet mümin insanlardı, ancak Elizabet çocuk sahibi olamıyordu.
+  ***[[:tr:obs:notes:frames:22-02|[22-02]]]** Melek **Zekeriya**’ya şöyle dedi: «Senin karın bir oğul doğuracak. Adını Yahya koyacaksın.»
+  ***[[:tr:obs:notes:frames:22-03|[22-03]]]** **Zekeriya** hemen konuşamaz oldu.
+  ***[[:tr:obs:notes:frames:22-07|[22-07]]]** O zaman Tanrı **Zekeriya**’nın yeniden konuşmasına izin verdi.
 
 ~~DISCUSSION~~
 

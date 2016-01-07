@@ -1,18 +1,15 @@
-====== Moses ======
+====== Musa ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-Moses was a prophet and leader of the Israelite people for over 40 years.  
-
-    * God chose Moses to free the Israelites from slavery in Egypt and lead them to the Promised Land.
-    * God gave Moses the stone tablets with his commandments for the Israelite people.
-    * Near the end of his life, Moses disobeyed God so he didn't get to live in the Promised Land of Canaan.
+Musa 40’tan fazla yıl boyunca İsrail halkının peygamberi ve önderiydi.  
+  * Tanrı İsraillileri Mısır köleliğinden kurtarmak ve vadettiği ülkeye götürmek için Musa’yı seçti.
+  * Tanrı Musa’ya İsrail halkına verdiği emirlerin yazıldığı taş levhaları verdi.
+  * Ömrünün sonuna yakın Musa Tanrı’ya itaatsizlik etti ve bu yüzden Tanrı’nın vadettiği Kenan ülkesinde yaşayamadı.
 
 (Translation suggestions: [[en:ta:vol1:translate:translate_names]])
 
 (See also: [[egypt]], [[en:obe:kt:promisedland]])
-
 
 ===== Bible References: =====
 
@@ -20,12 +17,11 @@ Moses was a prophet and leader of the Israelite people for over 40 years.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:09-12|[09-12]]]** One day while **Moses** was taking care of his sheep, he saw a bush that was on fire.
-  ***[[:tr:obs:notes:frames:12-05|[12-05]]]** **Moses** told the Israelites, "Stop being afraid! God will fight for you today and save you."
-  ***[[:tr:obs:notes:frames:12-07|[12-07]]]** God told **Moses** to raise his hand over the sea and divide the waters.
-  ***[[:tr:obs:notes:frames:12-12|[12-12]]]** When the Israelites saw that the Egyptians were dead, they trusted in God and believed that Moses was a prophet of God.
-  ***[[:tr:obs:notes:frames:13-07|[13-07]]]** Then God wrote these Ten Commandments on two stone tablets and gave them to **Moses**.
-
+  ***[[:tr:obs:notes:frames:09-12|[09-12]]]** Bir gün **Musa** koyunlarını otarırken yanan bir çalı gördü.
+  ***[[:tr:obs:notes:frames:12-05|[12-05]]]** **Musa** İsraillilere, “Korkmayın! Tanrı bugün sizin için savaşacak ve sizi kurtaracak!” dedi.
+  ***[[:tr:obs:notes:frames:12-07|[12-07]]]** Tanrı **Musa**’ya elini denizin üzerine uzatarak deniz sularını ikiye bölmesini söyledi.
+  ***[[:tr:obs:notes:frames:12-12|[12-12]]]** İsrailliler Mısırlıların öldüklerini görünce Tanrı’ya iman ettiler ve **Musa**’nın Tanrı’nın peygamberi olduğuna inandılar.
+  ***[[:tr:obs:notes:frames:13-07|[13-07]]]** Sonra Tanrı bu On Emir’i iki taş levha üzerine yazıp **Musa**’ya verdi.
 
 ~~DISCUSSION~~
 

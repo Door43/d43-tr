@@ -1,18 +1,17 @@
-====== New Covenant ======
+====== Yeni Ahit ======
 
-===== Definition: =====
+===== Tanım =====
 
-The term "new covenant" refers to the commitment or agreement God made with his people through the sacrifice of his Son, Jesus. 
+«Yeni Ahit» terimi Tanrı’nın kendi Oğlu İsa vasıtasıyla insanlara yaptığı taahhüt ya da anlaşmaya aittir. 
+  * Kutsal Kitap’ın «Yeni Ahit» adlandırılan kısmı bu yeni ahde aittir ve yeni ahit Tanrı’nın Eski Ahit zamanında İsraillilerle yaptığı «eski» ahitle karşılaştırılır.
+  * Yeni Ahit, insanların günahlarını sonsuza dek tamamen aradan kaldıran İsa’nın kurbanı üzerinde kurulmuş olduğundan eski ahitten iyidir. Eski ahitte yapılan kurbanlar buna kadir değildi.
+  * Tanrı Yeni Ahit’i imanlıların yüreklerine yazar. Bunun sonucunda Mesih inanlıları Tanrı’ya itaat etmeyi arzu ederler ve Tanrı’nın onların içinde çalıştığını gösteren kutsal yaşam sürmeye başlarlar.
+  * Yeni Ahit Tanrı’nın yeryüzünde hükümranlığını gerçekleştirmesiyle tamamlanmış olacaktır. Her şey yaratılışta olduğu gibi tekrar çok iyi olacak. Artık günah, acı ya da adaletsizlik olmayacak. Bunun yerine Tanrı’nın halkı O’nunla uyum içinde yaşayacak.
 
-  * The part of the Bible called the "New Testament" refers to this new covenant, which is contrasted to the "old" covenant that God had made with the Israelites during Old Testament times.
-  * The New Covenant is better than the old one because it is based on the sacrifice of Jesus, which completely atoned for people's sins forever. The sacrifices made under the old covenant did not do this.
-  * God writes the New Covenant on the hearts of believers. As a result of this, Christians want to obey God, and they begin to live holy lives that show that God is working in them.
-  * The New Covenant will be completely fulfilled when God establishes his reign on earth. Everything will once again be very good, as it was at creation. There will be no more sin, suffering, or injustice. Instead, all of God's people will live with him in harmony.
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * The term "new covenant" could be translated as "new formal agreement" or or "new pact" or "new contract."
-  * The word "new" in these expressions has the meaning of "fresh" or "new kind of" or "another."
+  * «Yeni Ahit» terimi «yeni resmî anlaşma», «yeni antlaşma» ya da «yeni sözleşme» olarak da çevrilebilir.
+  * Bu ifadelerde «yeni» sözcüğü «taze», «yeni çeşit» ya da «başka» anlamına gelir.
 
 (See also: [[:tr:obe:kt:covenant|covenant]], [[:tr:obe:other:israel|Israel, Israelites, nation of Israel]], [[:tr:obe:other:moses|Moses]], [[:tr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]], [[:tr:obe:kt:sonofgod|Son of God, the Son]])
 
@@ -22,10 +21,11 @@ The term "new covenant" refers to the commitment or agreement God made with his 
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:21-05|[21-05]]]** Through the prophet Jeremiah, God promised that he would make a **New Covenant**, but not like the covenant God made with Israel at Sinai. In the **New Covenant**, God would write his law on the people's hearts, the people would know God personally, they would be his people, and God would forgive their sins. The Messiah would start the **New Covenant**.
-  * **[[:tr:obs:notes:frames:21-14|[21-14]]]** Through the Messiah's death and resurrection, God would accomplish his plan to save sinners and start the **New Covenant**.
-  * **[[:tr:obs:notes:frames:38-05|[38-05]]]** Then Jesus took a cup and said, "Drink this. It is my blood of the **New Covenant**  that is poured out for the forgiveness of sins. Do this to remember me every time you drink it."
-  * **[[:tr:obs:notes:frames:48-11|[48-11]]]** But God has now made a **New Covenant**  that is available to everyone. Because of this **New Covenant**, anyone from any people group can become part of God's people by believing in Jesus.
+  ***[[:tr:obs:notes:frames:21-05|[21-05]]]** Yeremya Peygamber vasıtasıyla Tanrı, halkıyla **Yeni Ahit** yapacağını vadetti. Ancak **Yeni Ahit**, Tanrı’nın İsrail’le Sina Dağı’nda yaptığı ahit gibi olmayacak. **Yeni Ahit**’te Tanrı yasalarını insanlarının yüreğine yazacak, herkes Tanrı’yı kişisel olarak tanıyacak, O’nun halkı olacak ve Tanrı onların günahlarını affedecek. Bu **Yeni Ahit** bizzat Mesih tarafından yapılacaktı.
+  ***[[:tr:obs:notes:frames:21-14|[21-14]]]** Mesih’in ölümü ve dirilişi vasıtasıyla Tanrı, günahkârların kurtuluşu ve **Yeni Ahit**’in başlatılması ile ilgili planını gerçekleştirecekti.
+  ***[[:tr:obs:notes:frames:38-05|[38-05]]]** Sonra İsa kâseyi alıp dedi: “Bundan için. Bu, günahların affedilmesi için akıtılan kanım, **Yeni Ahit**’i başlatan kandır. Her zaman bundan içtiğinizde beni anın.”
+  ***[[:tr:obs:notes:frames:48-11|[48-11]]]** Ama şimdi Tanrı, herkesin kabul edebileceği **Yeni Ahit**’i yapmıştır. Bu **Yeni Ahit** sayesinde herhangi bir milletten her insan İsa’ya iman ederek Tanrı’nın halkına katılabilir.​
+
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~

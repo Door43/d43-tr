@@ -1,13 +1,10 @@
-====== Amorite ======
+====== Amorlu ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-The Amorites were a group of people living in Canaan in the time of Joshua.
-
-  * The Amorites lived in cities on both sides of the Jordan River. Each city was ruled by a king.
-  * God had promised to give the Israelites the land of Canaan, including the land of the Amorites.  
-
+Amorlular, Yeşu’nun döneminde Kenan’da yaşayan bir halktı.
+  * Amorlular Şeria Nehri’nin her iki tarafında bulunan kentlerde yaşıyorlardı.
+  * Tanrı İsraillilere Amorluların toprağı dahil olmak üzere Kenan ülkesini vereceğini vadetmişti.
 
 ===== Bible References: =====
 
@@ -17,11 +14,10 @@ The Amorites were a group of people living in Canaan in the time of Joshua.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:15-07|[15-07]]]** Sometime later, the kings of another people group in Canaan, the **Amorites**, heard that the Gibeonites had made a peace treaty with the Israelites, so they combined their armies into one large army and attacked Gibeon. 
-  ***[[:tr:obs:notes:frames:15-08|[15-08]]]** In the early morning they surprised the **Amorite** armies and attacked them. 
-  ***[[:tr:obs:notes:frames:15-09|[15-09]]]** God fought for Israel that day. He caused the **Amorites** to be confused and he sent large hailstones that killed many of the **Amorites**.
-  ***[[:tr:obs:notes:frames:15-10|[15-10]]]** God also caused the sun to stay in one place in the sky so that Israel would have enough time to completely defeat the **Amorites**. 
-
+  ***[[:tr:obs:notes:frames:15-07|[15-07]]]** Bir süre sonra Kenan’ın **Amor** adında diğer bir halkın kralları, Givonluların İsraillilerle barış yaptıklarından haber alınca ordularını birleştirerek Givon’a saldırdılar.
+  ***[[:tr:obs:notes:frames:15-08|[15-08]]]** Sabahleyin erkenden **Amorluların** ordularına ansızın saldırdılar.
+  ***[[:tr:obs:notes:frames:15-09|[15-09]]]** O gün Tanrı, İsrail için savaştı. **Amorluları** şaşkına çevirdi, onların üzerine gökten iri iri dolu yağdırarak birçoğunu öldürdü.
+  ***[[:tr:obs:notes:frames:15-10|[15-10]]]** Ayrıca Tanrı, İsraillilerin **Amorluları** tamamen bozguna uğratabilmeleri için güneşin gökte aynı yerde durmasını sağladı.
 
 ~~DISCUSSION~~
 

@@ -1,19 +1,15 @@
-====== John (the apostle) ======
+====== Yuhanna (Havari) ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-John was one of Jesus' twelve apostles and one of Jesus' closest friends. 
-
-  * John's and his brother were the sons of Zebedee. 
-  * John was a different person than John the Baptist.
-  * After Jesus went back to heaven, John (the apostle) taught people about Jesus. 
-  * John also wrote two books and some letters about Jesus that are included in the Bible. 
+İsa’nın on iki havarisi ve en yakın dostlarından birinin adı Yuhanna’ydı. 
+  * Yuhanna ve kardeşi Zebedi’nin oğullarıydı. 
+  * Yahya Yuhanna’dan farklı bir kişiydi.
+  * İsa göğe alındıktan sonra Yuhanna
 
 (Translation suggestions: [[en:ta:vol1:translate:translate_names]])
 
 (See also: [[johnthebaptist]], [[en:obe:kt:apostle]])
-
 
 ===== Bible References: =====
 
@@ -22,11 +18,11 @@ John was one of Jesus' twelve apostles and one of Jesus' closest friends.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:36-01|[36-01]]]** One day, Jesus took three of his disciples, Peter, James, and **John** with him. (The disciple named **John** was not the same person who baptized Jesus.) They went up on a high mountain by themselves.
-  ***[[:tr:obs:notes:frames:44-01|[44-01]]]** One day, Peter and **John** were going to the Temple. As they approached the Temple gate, they saw a crippled man who was begging for money. 
-  ***[[:tr:obs:notes:frames:44-06|[44-06]]]** The leaders of the Temple were very upset by what Peter and **John** were saying. So they arrested them and put them into prison.
-  ***[[:tr:obs:notes:frames:44-07|[44-07]]]** The next day, the Jewish leaders brought Peter and **John** to the high priest and the other religious leaders. They asked Peter and **John**, "By what power did you heal this crippled man?" 
-  ***[[:tr:obs:notes:frames:44-09|[44-09]]]** The leaders were shocked that Peter and **John** spoke so boldly because they could see that these men were ordinary men who were uneducated. But then they remembered that these men had been with Jesus. After they threatened Peter and **John**, they let them go.
+  ***[[:tr:obs:notes:frames:36-01|[36-01]]]** Bir gün İsa üç havarisini -Petrus’u, Yakup’u ve **Yuhanna**’yı- yanına aldı. Onlar yalnız başlarında dua etmek için yüksek bir dağa çıktılar.
+  ***[[:tr:obs:notes:frames:44-01|[44-01]]]** Bir gün Petrus’la **Yuhanna** Tapınak’a gidiyorlardı. Tapınak’ın avlu kapısına gelince para dilenen sakat bir adam gördüler.
+  ***[[:tr:obs:notes:frames:44-06|[44-06]]]** Tapınak’ın görevlileri Petrus’la **Yuhanna**’nın dediği sözlere çok kızdılar. Onları yakalayıp zindana attırdılar.
+  ***[[:tr:obs:notes:frames:44-07|[44-07]]]** Ertesi gün Yahudi ileri gelenleri Petrus’la **Yuhanna**’yı baş kâhinin ve diğer din alimlerinin önüne çıkardılar. Petrus’la **Yuhanna**’ya, “Bu sakat adama hangi kudretle şifa verdiniz?” diye sordular.
+  ***[[:tr:obs:notes:frames:44-09|[44-09]]]** İleri gelenler Petrus’la **Yuhanna**’nın kendileriyle bu kadar cesaretle konuşmasına şaştılar. Çünkü onların eğitimsiz, sıradan insanlar oldukları belliydi. Sonra onların İsa’yla birlikte bulunduklarını hatırladılar. Petrus’la **Yuhanna**’ya gözdağı verip serbest bıraktılar.
 
 ~~DISCUSSION~~
 

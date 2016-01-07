@@ -1,22 +1,17 @@
-====== high priest ======
+====== baş kâhin ======
 
+===== Tanım =====
 
-===== Definition: =====
+Baş kâhin İsrail’in tüm kâhinlerinin önderiydi.
+  * İsraillilerin o dönemde çok kâhini vardı, fakat baş kâhin sadece bir kişiydi.
+  * Baş kâhinin özel sorumlulukları vardı. O, yılda bir kez özel kurban vermek için tapınağın en kutsal yerine girme hakkı olan tek kişiydi.
 
-
-The high priest was the leader over all of Israel's priests.
-
-
-    * The Israelites had many priests, but only one high priest at a time.
-    * The high priest had special responsibilities. He was the only one who was permitted to go into the most holy part of the temple to offer a special sacrifice once a year.
-
-===== Translation Suggestions: ======
-
-  * "High priest" could be translated as "supreme priest" or "highest ranking priest."
-  * Make sure this term is translated differently from the term "chief priest."
+===== Çeviri için öneriler =====
+=
+  * «Baş kâhin» ayrıca «yüce kâhin» ya da «yüksek rütbeli kâhin» şeklinde çevrilebilir.
+  * Bu terimi «başçı kâhin» teriminden farklı çevirmeye dikkat edin.
 
 (See also: [[priest]], [[en:obe:other:chiefpriests]],   [[temple]])
-
 
 ===== Bible References: =====
 
@@ -25,15 +20,15 @@ The high priest was the leader over all of Israel's priests.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:13-08|[13-08]]]** No one could enter the room behind the curtain except the **high priest**, because God lived there.
-  ***[[:tr:obs:notes:frames:21-07|[21-07]]]** The Messiah who would come would be the perfect **high priest** who would offer himself as a perfect sacrifice to God.
-  ***[[:tr:obs:notes:frames:38-03|[38-03]]]** The Jewish leaders, led by the **high priest**, paid Judas thirty silver coins to betray Jesus.
-  ***[[:tr:obs:notes:frames:39-01|[39-01]]]** The soldiers led Jesus to the house of the **high priest** in order for the **high priest** to question him. 
-  ***[[:tr:obs:notes:frames:39-03|[39-03]]]** Finally, the **high priest** looked directly at Jesus and said, "Tell us, are you the Messiah, the Son of the living God?"
-  ***[[:tr:obs:notes:frames:44-07|[44-07]]]** The next day, the Jewish leaders brought Peter and John to the **high priest** and the other religious leaders.
-  ***[[:tr:obs:notes:frames:45-02|[45-02]]]** So the religious leaders arrested Stephen and brought him to the **high priest** and the other leaders of the Jews, where more false witnesses lied about Stephen.
-  ***[[:tr:obs:notes:frames:46-01|[46-01]]]** The **high priest** gave Saul permission to go to the city of Damascus to arrest Christians there and bring them back to Jerusalem.
-  ***[[:tr:obs:notes:frames:48-06|[48-06]]]** Jesus is the Great **High Priest**. Unlike other priests, he offered himself as the only sacrifice that could to take away the sin of all the people in the world. Jesus was the perfect **high priest** because he took the punishment for every sin that anyone has ever committed.
+  ***[[:tr:obs:notes:frames:13-08|[13-08]]]** Perdenin arkasındaki odaya yalnız **baş kâhin** girebilirdi, çünkü orada Tanrı yaşıyordu.
+  ***[[:tr:obs:notes:frames:21-07|[21-07]]]** Gelecek olan Mesih, kendini Tanrı’ya kâmil kurban olarak sunan kâmil bir **kâhin** olacaktı.
+  ***[[:tr:obs:notes:frames:38-03|[38-03]]]** Yahudi ileri gelenleri **baş kâhinin** öncülüğünde İsa’yı teslim etmesi için Yahuda’ya otuz gümüş para ödedi.
+  ***[[:tr:obs:notes:frames:39-01|[39-01]]]** Askerler İsa’yı sorgulanması için **baş kâhinin** sarayına götürdüler.
+  ***[[:tr:obs:notes:frames:39-03|[39-03]]]** Sonunda **baş kâhin** dosdoğru İsa’nın yüzüne bakarak, “Bize söyle, Yaşayan Tanrı’nın Oğlu Mesih sen misin?” dedi.
+  ***[[:tr:obs:notes:frames:44-07|[44-07]]]** Ertesi gün Yahudi ileri gelenleri Petrus’la Yuhanna’yı **baş kâhinin** ve diğer din alimlerinin önüne çıkardılar.
+  ***[[:tr:obs:notes:frames:45-02|[45-02]]]** Bunun üzerine din alimleri İstefanos’u yakalayıp **baş kâhinin** ve diğer Yahudi ileri gelenlerinin önüne getirdiler. Oraya İstefanos’a karşı yalan ifadelerde bulunan daha çok şahit gelmişti.
+  ***[[:tr:obs:notes:frames:46-01|[46-01]]]** **Baş kâhin** Saul’un Şam kentine gitmesi, oradaki Mesih inanlılarını yakalayıp Yeruşalim’e getirmesi için izin verdi.
+  ***[[:tr:obs:notes:frames:48-06|[48-06]]]** İsa Büyük **Baş Kâhin**’dir. Başka kâhinlerden faklı olarak İsa, dünyadaki insanların günahlarını ortadan kaldırabilecek tek kurban olarak kendini sundu. İsa, herkesin işlediği her günahın cezasını kendi üstüne alan kâmil **baş kâhin** oldu.
 
 ~~DISCUSSION~~
 

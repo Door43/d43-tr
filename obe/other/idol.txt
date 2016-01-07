@@ -1,15 +1,14 @@
-====== idol, idolatrous ======
+====== put ======
 
-===== Definition: =====
+===== Tanım =====
 
-An idol is an object that people make so they can worship it. Something is described as "idolatrous" if it involves giving honor to something other than the one true God.
-
-  * People make idols to represent the gods that they worship.
-  * These false gods do not exist; there is no God besides Yahweh.
-  * Sometimes demons work through an idol to make it seem like it has power, even though it does not.
-  * Idols are often made of valuable materials like gold, silver, bronze, or expensive wood.
-  * An "idolatrous kingdom" means a "kingdom of people who worship idols" or "kingdom that worships earthly things.
-  * The term "idolatrous figure" is another word for a "carved image" or an "idol."
+Put, insanların tapmak için yarattıkları bir objedir. Tek gerçek Tanrı’dan başka bir şeye onur verme olayına «putperestlik» denir.
+  * İnsanlar, taptıkları ilâhları temsil edecek putlar yaparlar.
+  * Bu yalancı ilâhlar mevcut değiller; Yahve’den başka Tanrı yoktur.
+  * Bazen putu sahip olmadığı kuvvete sahipmiş gibi göstermek için cinler putlar aracılığıyla çalışırlar.
+  * Putlar çoğu zaman altın, gümüş, tunç ya da pahalı ağaç gibi değerli malzemelerden yapılır.
+  * «Putperest krallık», «putlara tapan halkın krallığı» ya da «dünyevi şeylere tapan krallık» anlamına gelir.
+  * «Put sureti» terimi «oyma put» ya da «sanem» anlamında kullanılan bir sözdür.
 
 (See also: [[en:obe:kt:falsegod]], [[en:obe:kt:worship]], [[:tr:obe:other:image]])
 
@@ -19,11 +18,11 @@ An idol is an object that people make so they can worship it. Something is descr
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:13-05|[13-05]]]** "Do not make **idols** or worship them, because I, Yahweh, am a jealous God."
-  ***[[:tr:obs:notes:frames:13-12|[13-12]]]** Aaron made a golden **idol** in the shape of a calf. The people began to wildly worship the **idol** and make sacrifices to it!
-  ***[[:tr:obs:notes:frames:14-03|[14-03]]]** "You must completely destroy all of their **idols**. If you do not obey me, you will worship their **idols** instead of me."
-  ***[[:tr:obs:notes:frames:18-12|[18-12]]]** All of the kings and most of the people of the kingdom of Israel worshiped **idols**. This kind of worship often included sexual immorality and sometimes even child sacrifice.
-  ***[[:tr:obs:notes:frames:19-16|[19-16]]]** They (the prophets) all told the people to stop worshiping **idols** and to start showing justice and mercy to others.
+  ***[[:tr:obs:notes:frames:13-05|[13-05]]]** “Kendine **put** yapmayacaksın, puta tapmayacaksın! Çünkü ben, Yahve’yim, kıskanç Tanrı’yım.”
+  ***[[:tr:obs:notes:frames:13-12|[13-12]]]** Harun buzağı biçiminde altın bir **put** yaptı. Halk **puta** çılgıncasına tapmaya, kurbanlar sunmaya başladı!
+  ***[[:tr:obs:notes:frames:14-03|[14-03]]]** “**Putlarının** hepsini yok edeceksiniz. Benim sözüme itaat etmezseniz, sonunda bana değil, onların **putlarına** tapacaksınız.”
+  ***[[:tr:obs:notes:frames:18-12|[18-12]]]** İsrail Krallığı’nın bütün kralları ve insanlarının çoğu **putlara** taparlardı. **Putlara** taparken çoğu zaman cinsel günahlar işler ve hatta çocuklarını kurban verirlerdi.
+  ***[[:tr:obs:notes:frames:19-16|[19-16]]]** Bütün peygamberler halka **putlara** tapmaktan vazgeçmesini ve insanlara adalet ve merhametle davranmasını buyururlardı.
 
 ~~DISCUSSION~~{{tag>publish ktobs}}
 

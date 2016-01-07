@@ -1,18 +1,14 @@
-====== Jeroboam ======
+====== Yarovam ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-
-Jeroboam was the first king of the northern kingdom of Israel. He ruled over the ten tribes of Israel that rebelled and separated from the tribes of Judah and Benjamin in the south.
-
-    * Jeroboam was a very wicked king. He set up idols and encouraged the people of the kingdom of Israel to worship them, instead of worshiping Yahweh at the Temple in Jerusalem.
-    * Future kings of the kingdom of Israel followed Jeroboam's evil example.
+Yarovam kuzeydeki İsrail Krallığı’nın ilk kralıydı. O, ayaklanarak güneydeki Yahuda ve Benyamin oymaklarından ayrılan on oymağın üzerinde hükümranlık etti.
+  * Yarovam çok kötü bir kraldı. İsrail Krallığı’nın halkını Yeruşalim’deki Tapınak’ta Yahve’ye tapınmak yerine kendi diktiği putlara tapınmaya teşvik ederdi.
+  * İsrail Krallığı’nın sonraki kralları da Yarovam’ın kötülüğünü sürdürdüler.
 
 (Translation suggestions: [[en:ta:vol1:translate:translate_names]])
 
 (See also: [[kingdomofisrael]], [[kingdomofjudah]])
-
 
 ===== Bible References: =====
 
@@ -21,8 +17,8 @@ Jeroboam was the first king of the northern kingdom of Israel. He ruled over the
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:18-08|[18-08]]]** The other ten tribes of the nation of Israel that rebelled against Rehoboam appointed a man named **Jeroboam** to be their king.
-  ***[[:tr:obs:notes:frames:18-09|[18-09]]]** **Jeroboam** rebelled against God and caused the people to sin. He built two idols for his people to worship instead of worshiping God at the Temple in the kingdom of Judah.
+  ***[[:tr:obs:notes:frames:18-08|[18-08]]]** İsrail’in Rehavam’a karşı başkaldıran öbür on oymağı **Yarovam** adında bir adamı kralları olarak kabul ettiler.
+  ***[[:tr:obs:notes:frames:18-09|[18-09]]]** **Yarovam** Tanrı’ya karşı başkaldırarak halkı günaha sürükledi. Yahuda’daki Tapınak’ta Tanrı’ya tapınmak yerine halkının tapınması için iki put dikti.
 
 ~~DISCUSSION~~
 

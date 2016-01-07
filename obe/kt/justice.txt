@@ -1,34 +1,25 @@
-====== just, justice, justly ======
+====== adaletli ======
 
-===== Definition: =====
+===== Tanım =====
 
-Justice is the fair and right treatment of all people under the laws of God and country.
+Adalet, Tanrı’nın ve devletin yasalarına uygun olarak bütün insanlara haklı ve doğru bir biçimde davranmadır.
+  * «Adaletli» olmak demek, başkalarına haklı ve doğru biçimde davranmak demektir. Ayrıca, Tanrı’nın nazarında ahlak açısından doğru olanı yapma erdemi kastedilir.
+  * «Adaletle» davranmak, Tanrı’nın yasalarına göre doğru, iyi ve uygun olan bir biçimde insanlara davranmaktır.
+  * Adalet görmek yasaya göre doğru muamele edilmek; ya yasanın korunması altında olmak ya da yasayı çiğnemesinin haklı cezasını çekmek anlamına gelir.
 
-  * To be "just" is to act in a fair and right way toward others. It also implies honesty and integrity to do what is morally right in God's eyes.
-  * To act "justly" means to treat people in a way that is right, good and proper according to God's laws.
-  * To receive justice means to be treated fairly under the law, either being protected by law or receiving due punishment for breaking the law.
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * Depending on the context, other ways to translate "just" could include, "morally right" or "fair."
-  * The term "justice" could be translated as, "fair treatment" or "deserved consequences"
-  * To act justly could be translated as, "treat (someone) fairly."
+  * Bağlama dayalı olarak, «adaletli» terimi «ahlak açısından doğru» ya da «haklı» olarak da çevrilebilir.
+  * «Adalet» terimi «haklı muamele» ya da «hak ettiği sonuçlar» şeklinde çevrilebilir.
+  * Adaletle davranmak «biri ile haklı muamele etmek» şeklinde çevrilebilir.
 
 (See also: [[:tr:obe:kt:judge|judge, judgment]])
 
-===== Bible References:  =====
-
-{{topic>:en:bible?justice&nocomments}}
-
-
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:17-09|[17-09]]]** David ruled with **justice**  and faithfulness for many years, and God blessed him.
-
-  * **[[:tr:obs:notes:frames:18-13|[18-13]]]** Some of these kings (of Judah) were good men who ruled **justly**  and worshiped God.
-
-  * **[[:tr:obs:notes:frames:19-16|[19-16]]]** They (the prophets) all told the people to stop worshiping idols and to start showing **justice**  and mercy to others.
-
-  * **[[:tr:obs:notes:frames:50-17|[50-17]]]** Jesus will rule his kingdom with peace and **justice**, and he will be with his people forever.
+  ***[[:tr:obs:notes:frames:17-09|[17-09]]]** Davut yıllar boyunca **adalet** ve sadakat ile hüküm sürdü ve Tanrı onu kutsadı.
+  ***[[:tr:obs:notes:frames:18-13|[18-13]]]** (Yahuda krallarının) Aralarında **adaletle** hüküm süren ve Tanrı’ya tapan iyi insanlar da vardı.
+  ***[[:tr:obs:notes:frames:19-16|[19-16]]]** Bütün peygamberler halka putlara tapmaktan vazgeçmesini ve insanlara **adalet** ve merhametle davranmasını buyururlardı.
+  ***[[:tr:obs:notes:frames:50-17|[50-17]]]** İsa barış ve **adalet** ile hüküm sürecek ve sonsuzluğa kadar halkıyla beraber olacaktır.
 
 ~~DISCUSSION~~{{tag>publish ktobs}}

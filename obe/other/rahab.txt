@@ -1,17 +1,14 @@
-====== Rahab ======
+====== Rahav ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-Rahab was a woman who lived in Jericho when Israel attacked the city. She was a prostitute.
-
-  * Rahab hid the two Israelites who came to spy on Jericho before the Israelites attacked it. She helped the spies escape back to the Israelite camp.
-  * Rahab became a believer in Yahweh and she and her family were saved when Jericho was destroyed. They came to live with the Israelites.
+Rahav, İsrail’in Eriha kentine saldırdığı zaman orada oturan yaşayan bir kadındı. Bir fahişeydi.
+  * Rahav İsraillilerin Eriha kentine saldırmadan önce casus olarak geldiği iki İsrailli adamı sakladı. Bu casusların kaçıp İsrail ordugâhına dönmesine yardım etti.
+  * Rahav Yahve’ye iman etti ve Eriha yok edildiğinde ailesiyle birlikte kurtuldu. Ondan sonra onlar İsraillilerle beraber yaşadılar.
 
 (Translation suggestions: [[en:ta:vol1:translate:translate_names]])
 
 (See also: [[jericho]], [[israel]])
-
 
 ===== Bible References: =====
 
@@ -20,8 +17,8 @@ Rahab was a woman who lived in Jericho when Israel attacked the city. She was a 
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:15-01|[15-01]]]** In that city there lived a prostitute named **Rahab** who hid the spies and later helped them to escape. She did this because she believed God. They promised to protect **Rahab** and her family when the Israelites would destroy Jericho. 
-  ***[[:tr:obs:notes:frames:15-05|[15-05]]]** The Israelites destroyed everything in the city as God had commanded. **Rahab** and her family were the only people in the city that they did not kill. They became part of the Israelites. 
+  ***[[:tr:obs:notes:frames:15-01|[15-01]]]** O kentte yaşayan **Rahav** adındaki bir fahişe, casusları sakladı ve kurtulmalarına yardım etti. Çünkü Tanrı’ya iman etmişti. Casuslar, İsraillilerin Eriha’yı yok ederken **Rahav**’la ailesini koruyacaklarına söz verdiler.
+  ***[[:tr:obs:notes:frames:15-05|[15-05]]]** İsrailliler, Tanrı’nın buyurduğu gibi kentteki her şeyi yok ettiler. Yalnızca **Rahav**’la ailesini korudular, onlar da zaten İsraillilere katılmışlardı.
 
 ~~DISCUSSION~~
 

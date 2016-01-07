@@ -1,17 +1,16 @@
-====== Holy Spirit, Spirit of God, Spirit of the Lord ======
+====== Kutsal Ruh ======
 
-===== Facts: =====
+===== Gerçeklikler =====
 
-These terms refer to the Holy Spirit, who is God. The one true God exists eternally as the Father, the Son, and the Holy Spirit.
+Bu terimler, Tanrı olan Kutsal Ruh’a aittir. Tek gerçek Tanrı sonsuzluk boyunca Baba, Oğul ve Kutsal Ruh olarak mevcuttur.
+  * Kutsal Ruh Tanrı olduğu için tamamen kutsal, büsbütün temiz, tabiatı ve işleri itibariyle manen kâmildir.
+  * Baba ve Oğul ile beraber Kutsal Ruh dünyanın yaratılışında etkindi.
+  * Tanrı’nın Oğlu İsa göklere döndüğünde Tanrı, kendi halkına onları öğretecek, yönlendirecek, teselli edecek ve onlara Tanrı’nın iradesini yerine getirme yeteneği verecek olan Kutsal Ruh’u gönderdi.
 
-  * Because the Holy Spirit is God, he is absolutely holy, infinitely pure, and morally perfect in all his nature and in everything he does.
-  * Along with the Father and the Son, the Holy Spirit was active in creating the world.
-  * When God's Son, Jesus, returned to heaven, God sent the Holy Spirit to his people to lead them, teach them, comfort them, and give them the ability to do God's will.
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * This term could be translated with the words used to translate "holy" and "spirit."
-  * Ways to translate this term could also include, "the Pure Spirit" or "Spirit who is Holy" or "God the Spirit."
+  * Bu terim «kutsal/mukaddes» ve «ruh» sözcüklerini çevirirken kullanılan terimlerle çevrilebilir.
+  * Bu terim ayrıca «Temiz Ruh», «Kutsal olan Ruh» ya da «Ruh Tanrı» şeklinde çevrilebilir.
 
 (See also: [[:tr:obe:kt:holy]], [[:tr:obe:kt:spirit]], [[:tr:obe:kt:god]], [[:tr:obe:kt:lordgod]], [[:tr:obe:kt:godthefather]], [[:tr:obe:kt:sonofgod]], [[:tr:obe:kt:gift]])
 
@@ -21,15 +20,16 @@ These terms refer to the Holy Spirit, who is God. The one true God exists eterna
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:01-01|[01-01]]]** But **God's Spirit**  was there over the water.
-  * **[[:tr:obs:notes:frames:24-08|[24-08]]]** When Jesus came up out of the water after being baptized, **the Spirit of God**  appeared in the form of a dove and came down and rested on him.
-  * **[[:tr:obs:notes:frames:26-01|[26-01]]]** After overcoming Satan's temptations, Jesus returned in the power of **the Holy Spirit**  to the region of Galilee where he lived.
-  * **[[:tr:obs:notes:frames:26-03|[26-03]]]** Jesus read, "God has given me **his Spirit**  so that I can proclaim good news to the poor, freedom to captives, recovery of sight for the blind, and release to the oppressed."
-  * **[[:tr:obs:notes:frames:42-10|[42-10]]]**"So go, make disciples of all people groups by baptizing them in the name of the Father, the Son, and **the Holy Spirit**  and by teaching them to obey everything I have commanded you."
-  * **[[:tr:obs:notes:frames:43-03|[43-03]]]** They were all filled with the **Holy Spirit**  and they began to speak in other languages.
-  * **[[:tr:obs:notes:frames:43-08|[43-08]]]**"And Jesus has sent the **Holy Spirit**  just as he promised he would do. The **Holy Spirit**  is causing the things that you are are now seeing and hearing."
-  * **[[:tr:obs:notes:frames:43-11|[43-11]]]** Peter answered them, "Every one of you should repent and be baptized in the name of Jesus Christ so that God will forgive your sins. Then he will also give you the gift of the **Holy Spirit**."
-  * **[[:tr:obs:notes:frames:45-01|[45-01]]]** He (Stephen) had a good reputation and was full of the **Holy Spirit**  and of wisdom.
+  ***[[:tr:obs:notes:frames:01-01|[01-01]]]** Ancak **Tanrı’nın Ruhu** suyun üzerinde hareket ediyordu.
+  ***[[:tr:obs:notes:frames:24-08|[24-08]]]** İsa vaftiz olduğunda sudan çıkınca **Tanrı’nın Ruhu** güvercin biçiminde görünerek İsa’nın üzerine inip durdu.
+  ***[[:tr:obs:notes:frames:26-01|[26-01]]]** Şeytan’ın ayartılarına karşı galip gelen İsa, **Kutsal Ruh**’un gücüyle Celile bölgesine döndü.
+  ***[[:tr:obs:notes:frames:26-03|[26-03]]]** “Tanrı **Ruhu**’nu bana verdi! Sevindirici haberini yoksullara duyurmak, tutsaklara serbest bırakılacaklarını, körlere gözlerinin açılacağını, ezilenlere özgürlüğe kavuşacaklarını müjdelemek için beni gönderdi.”
+  ***[[:tr:obs:notes:frames:42-10|[42-10]]]** “Bu yüzden gidin, bütün milletleri imanlı olarak yetiştirin. Onları Baba, Oğul ve **Kutsal Ruh** adıyla vaftiz edin ve size emrettiğim her şeye itaat etmeyi öğretin.”
+  ***[[:tr:obs:notes:frames:43-03|[43-03]]]** Hepsi **Kutsal Ruh**’la dolup başka dillerde konuşmaya başladı.
+  ***[[:tr:obs:notes:frames:43-08|[43-08]]]** “İsa vadettiği gibi **Kutsal Ruh**’u gönderdi. Şimdi görüp işittiğiniz bu şeylere **Kutsal Ruh** sebep oluyor.”
+  ***[[:tr:obs:notes:frames:43-11|[43-11]]]** Petrus onlara şöyle cevap verdi: “Her biriniz tövbe edip İsa Mesih’in adıyla vaftiz olmalı. O zaman Tanrı günahlarınızı affeder. Sonra da size **Kutsal Ruh**’u armağan eder.”
+  ***[[:tr:obs:notes:frames:45-01|[45-01]]]** (İstefanos’un) Büyük itibarı vardı, **Kutsal Ruh**’la ve bilgelikle doluydu.
+
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~

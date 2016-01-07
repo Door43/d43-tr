@@ -1,13 +1,12 @@
-====== Babylon, Babylonian ======
+====== Babil ======
 
-===== Facts: =====
+===== Gerçeklikler =====
 
-The ancient city of Babylon was the capital of the Babylonian Empire. It was located in the ancient region of Babylonia, which is now the country of Iraq.
-
-  * Babylon was located along the Euphrates River, in the same region where the Tower of Babel had been built hundreds of years before.
-  * Sometimes the word "Babylon" refers to the entire Babylonian Empire. For example, the "king of Babylon" ruled the entire empire, not just the city.
-  * The Babylonians were a powerful people group who attacked the kingdom of Judah and kept them in exile in Babylonia for 70 years.
-  * Part of this region was called "Chaldea" and the people living there were the "Chaldeans." Often "Chaldea" is just another name for "Babylonia."
+Eski Babil kenti, Babil İmparatorluğu’nun başkentiydi. Bu kentin bulunduğu Eski Babil bölgesi bugün Irak’a dahil olan bölgedeydi.
+  * Babil, Fırat’ın sahilinde, yüzlerce yıl önce Babil Kulesi’nin inşa edildiği bölgede bulunuyordu.
+  * Bazen «Babil» sözcüğü bütün Babil İmparatorluğu’na aittir. Örneğin, «Babil’in kralı» sadece kent değil, bütün imparatorluk üzerinde hüküm sürerdi.
+  * Babilliler, Yahuda Krallığı’na saldıran ve 70 yıl boyunca onları Babil sürgününde tutan güçlü bir halktı.
+  * Bu bölgenin bir kısmının adı «Kildan»dı ve orada yaşayan halk «Kildaniler» diye adlandırılırdı. «Kildan» çoğu zaman «Babil»in başka bir adı olarak kullanılır.
 
 (See also: [[:tr:obe:other:kingdomofjudah]], [[:tr:obe:other:nebuchadnezzar]], [[:tr:obe:other:Chaldeans]])
 
@@ -17,11 +16,10 @@ The ancient city of Babylon was the capital of the Babylonian Empire. It was loc
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:20-06|[20-06]]]** About 100 years after the Assyrians destroyed the kingdom of Israel, God sent Nebuchadnezzar, king of the **Babylonians**, to attack the kingdom of Judah. **Babylon**  was a powerful empire.
-  * **[[:tr:obs:notes:frames:20-07|[20-07]]]** But after a few years, the king of Judah rebelled against **Babylon**. So, the **Babylonians**  came back and attacked the kingdom of Judah. They captured the city of Jerusalem, destroyed the Temple, and took away all the treasures of the city and the Temple.
-  * **[[:tr:obs:notes:frames:20-09|[20-09]]]** Nebuchadnezzar and his army took almost all of the people of the kingdom of Judah to **Babylon**, leaving only the poorest people behind to plant the fields.
-  * **[[:tr:obs:notes:frames:20-11|[20-11]]]** About seventy years later, Cyrus, the king of the Persians, defeated **Babylon**.
-
+  ***[[:tr:obs:notes:frames:20-06|[20-06]]]** Asurluların İsrail Krallığı’nı tahrip etmesinden yaklaşık 100 yıl sonra Tanrı **Babil** kralı Nebukadnessar’ı Yahuda Krallığı’na saldırmaya gönderdi. **Babil** güçlü bir imparatorluktu.
+  ***[[:tr:obs:notes:frames:20-07|[20-07]]]** Fakat birkaç yıl sonra Yahuda’nın kralı **Babil**’e karşı ayaklandı. Bunun üzerine **Babilliler** dönüp Yahuda Krallığı’na saldırdılar. Yeruşalim kentini fethettiler, Tapınak’ı yıktılar, kentin ve Tapınak’ın bütün hazinelerini götürdüler.
+  ***[[:tr:obs:notes:frames:20-09|[20-09]]]** Nebukadnessar’la ordusu Yahuda Krallığı’nın hemen hemen bütün halkını **Babil**’e sürgün etti, yalnızca en yoksul insanları toprağı işlesinler diye bıraktı.
+  ***[[:tr:obs:notes:frames:20-11|[20-11]]]** Yaklaşık olarak yetmiş yıl sonra Pers kralı Koreş, **Babil**’i mağlup etti.
 
 ~~DISCUSSION~~{{tag>publish ktobs}}
 

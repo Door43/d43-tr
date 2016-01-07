@@ -1,15 +1,12 @@
-====== Midian, Midianites ======
+====== Midyan ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-Midian was a people group located in the northern Arabian Desert to the south of the land of Canaan. The people of that group were called "Midianites."
-
-  * Midian existed from around the 19th to the 11th centuries B.C. 
-  * Joseph was taken to Egypt by a group of Midianite slave traders.
-  * Many years later the Midianites attacked and raided the Israelites in the land of Canaan. Gideon led the Israelites in defeating them.
-  * Many of the modern-day Arabian tribes are descendants of this group. 
-
+Midyan, Arap Çölü’nün kuzeyinde, Kenan ülkesinden güneyde oturan bir halktı. O halkın insanlarına «Midyanlılar» denir.
+  * Midyan yaklaşık olarak M.Ö. 19 - 11. yüzyıllarda mevcuttu. 
+  * Yusuf’u Mısır’a götüren adamlar Midyanlı köle tüccarlarıydı.
+  * Aradan yıllar geçtikten sonra Midyanlılar Kenan ülkesinde İsraillilere saldırıyorlardı. Gidyon İsraillilerin onları bozguna uğratmasına önderlik yaptı.
+  * Çağdaş Arap aşiretlerinin çoğu bu halkın soyudur.
 
 ===== Bible References: =====
 
@@ -18,10 +15,10 @@ Midian was a people group located in the northern Arabian Desert to the south of
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:16-03|[16-03]]]** But then the people forgot about God and started worshiping idols again. So God allowed the **Midianites**, a nearby enemy people group, to defeat them. 
-  ***[[:tr:obs:notes:frames:16-04|[16-04]]]** The Israelites were so scared, they hid in caves so the **Midianites** would not find them. 
-  ***[[:tr:obs:notes:frames:16-11|[16-11]]]** The man's friend said, "This dream means that Gideon's army will defeat the **Midianite** army!" 
-  ***[[:tr:obs:notes:frames:16-14|[16-14]]]** God confused the **Midianites**, so that they started attacking and killing each other. 
+  ***[[:tr:obs:notes:frames:16-03|[16-03]]]** Fakat sonra halk yine Tanrı’yı unutarak putlara tapmaya başlardı. Tanrı, halkına düşman olan **Midyanlıların** halkını mağlup etmesine izin verdi.
+  ***[[:tr:obs:notes:frames:16-04|[16-04]]]** İsrailliler korku içindeydiler, **Midyanlılardan** mağaralarda saklanırlardı.
+  ***[[:tr:obs:notes:frames:16-11|[16-11]]]** Arkadaşı ona şöyle dedi: “Gördüğün düşün anlamı şu: Gidyon’un ordusu **Midyanlıların** ordusunu mağlup edecek!”
+  ***[[:tr:obs:notes:frames:16-14|[16-14]]]** Tanrı **Midyanlıları** şaşkına çevirdi, onlar birbirine saldırmaya, birbirini vurmaya başladılar.
 
 ~~DISCUSSION~~
 

@@ -1,16 +1,13 @@
-====== Red Sea, Sea of Reeds ======
+====== Kızıldeniz ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-The Red Sea is a body of water that separates northern Africa from the Arabian Peninsula.
-
-  * The Red Sea forms much of the eastern border of Egypt and is to the southwest of the Promised Land.
-  * The Red Sea is long and narrow. It is larger than a lake or river, but smaller than an ocean.
-  * The Israelites had to cross the Red Sea when they were fleeing from Egypt.
+Kızıldeniz Kuzey Afrika’yı Arap Yarımadası’ndan ayıran su kütlesidir.
+  * Kızıldeniz Mısır’ın doğu sınırının çok kısmını oluşturur ve Tanrı’nın vadettiği ülkenin güneybatısına kadar uzanır.
+  * Kızıldeniz uzun ve dar bir denizdir. Göl ya da nehirden büyük, ama okyanustan küçüktür.
+  * İsrailliler Mısır’dan kaçarken Kızıldeniz’i geçmek zorundaydılar.
 
 (See also: [[egypt]], [[en:obe:kt:promisedland]])
-
 
 ===== Bible References: =====
 
@@ -19,9 +16,9 @@ The Red Sea is a body of water that separates northern Africa from the Arabian P
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:12-04|[12-04]]]**  When the Israelites saw the Egyptian army coming, they realized they were trapped between Pharaoh's army and the **Red Sea**.
-  ***[[:tr:obs:notes:frames:12-05|[12-05]]]**  Then God told Moses, "Tell the people to move toward the **Red Sea**."
-  ***[[:tr:obs:notes:frames:13-01|[13-01]]]**  After God led the Israelites through the **Red Sea**, he led them through the wilderness to a mountain called Sinai.
+  ***[[:tr:obs:notes:frames:12-04|[12-04]]]** İsrailliler Mısır ordusunun geldiğini görünce firavunun ordusu ile **Kızıldeniz** arasına sıkıştıklarını anladılar.
+  ***[[:tr:obs:notes:frames:12-05|[12-05]]]** Sonra Tanrı Musa’ya, “Halka söyle, **Kızıldeniz**’e ilerlesinler.” dedi.
+  ***[[:tr:obs:notes:frames:13-01|[13-01]]]** Tanrı İsraillileri **Kızıldeniz**’in içinden geçirerek çöl yolu ile Sina Dağı adındaki bir dağa getirdi.
 
 ~~DISCUSSION~~
 

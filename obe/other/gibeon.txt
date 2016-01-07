@@ -1,14 +1,11 @@
-====== Gibeon, Gibeonite ======
+====== Givon ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-Gibeon was a city and a region in the land of Canaan where the Gibeonites lived.
-
-  * "Gibeonite" means "someone from the region called Gibeon."
-  * The Gibeonites had heard about how the Israelites had destroyed Jericho, and they were afraid. So the Gibeonites came to the leaders of Israel and pretended to be people from a far-away country. 
-  *  Israel made a treaty with the Gibeonites and did not destroy them.
-
+Givon, Kenan ülkesinde Givonluların yaşadığı bir kent ve bölgeydi.
+  * «Givonlu» demek, Givon adındaki bölgeden olan biri demektir.
+  * Givonlular İsraillilerin Eriha’yı darmadağın ettiğini duyup korkuya düşmüşlerdi. Bu yüzden Givonlular İsrail’in ileri gelenlerine uzak ülkeden geliyorlarmış gibi yaklaştılar. 
+  *  İsrail Givonlularla barış yaptı ve onları mahvetmedi.
 
 ===== Bible References: =====
 
@@ -17,9 +14,9 @@ Gibeon was a city and a region in the land of Canaan where the Gibeonites lived.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:15-06|[15-06]]]** But one of the Canaanite people groups, called the **Gibeonites**, lied to Joshua and said they were from a place far from Canaan.  
-  ***[[:tr:obs:notes:frames:15-07|[15-07]]]** Sometime later, the kings of another people group in Canaan, the Amorites, heard that the **Gibeonites** had made a peace treaty with the Israelites, so they combined their armies into one large army and attacked **Gibeon**.  
-  ***[[:tr:obs:notes:frames:15-08|[15-08]]]** So Joshua gathered the Israelite army and they marched all night to reach the **Gibeonites**. 
+  ***[[:tr:obs:notes:frames:15-06|[15-06]]]** Fakat **Givon** adında bir Kenan halkı, Kenan’dan çok uzakta yaşıyoruz diye Yeşu’yu aldatıp kendileriyle barış yapması için rica etti
+  ***[[:tr:obs:notes:frames:15-07|[15-07]]]** Bir süre sonra Kenan’ın Amor adında diğer bir halkın kralları, **Givonluların** İsraillilerle barış yaptıklarından haber alınca ordularını birleştirerek **Givon**’a saldırdılar.
+  ***[[:tr:obs:notes:frames:15-08|[15-08]]]** O zaman Yeşu, İsrail ordusunu topladı. Onlar **Givonlulara** ulaşmak için bütün gece yol gittiler.
 
 ~~DISCUSSION~~
 

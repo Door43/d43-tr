@@ -1,18 +1,15 @@
-====== Rehoboam ======
+====== Rehavam ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-Rehoboam was one of the sons of King Solomon, and became the king of the nation of Israel after Solomon died.
-
-  * When Rehoboam spoke too severely to the people of Israel, ten of the tribes rebelled against him. Because of this, the nation of Israel became two kingdoms: the kingdom of Israel in the north and the kingdom of Judah in the south.
-  * Rehoboam continued to be the king of the kingdom of Judah, which consisted of the two tribes who remained loyal to him.
-  * Rehoboam was a wicked king who did not obey Yahweh, but served false gods.
+Rehavam Kral Süleyman’ın oğullarından biriydi ve Süleyman’ın ölümünden sonra İsrail halkının kralı olmuştu.
+  * Ancak Rehavam İsrail halkına aşırı sertlikle konuşunca on oymak ona başkaldırdı. Bu yüzden İsrail halkı, kuzeyde İsrail Krallığı ve güneyde Yahuda Krallığı olmak üzere iki krallığa bölündü.
+  * Rehavam, ona sadık kalan iki oymaktan oluşan Yahuda Krallığı’nda hükümranlık etmeye devam etti.
+  * Rehavam, Yahve’ye itaat etmeyen, ama yalancı ilâhlara kulluk eden kötü bir kraldı.
 
 (Translation suggestions: [[en:ta:vol1:translate:translate_names]])
 
 (See also: [[solomon]], [[kingdomofjudah]])
-
 
 ===== Bible References: =====
 
@@ -21,9 +18,9 @@ Rehoboam was one of the sons of King Solomon, and became the king of the nation 
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:18-05|[18-05]]]** After Solomon died, his son, **Rehoboam**, became king. **Rehoboam** was a foolish man.
-  ***[[:tr:obs:notes:frames:18-06|[18-06]]]** **Rehoboam** answered foolishly and told them, "You thought my father Solomon made you work hard, but I will make you work harder than he did, and I will punish you more harshly than he did."
-  ***[[:tr:obs:notes:frames:18-07|[18-07]]]** Ten of the tribes of the nation of Israel rebelled against **Rehoboam**. Only two tribes remained faithful to him.
+  ***[[:tr:obs:notes:frames:18-05|[18-05]]]** Süleyman öldükten sonra oğlu **Rehavam** kral oldu. **Rehavam** akılsız biriydi.
+  ***[[:tr:obs:notes:frames:18-06|[18-06]]]** **Rehavam** halka akılsızca cevap verdi: “Babam Süleyman’ın üzerinize ağır işler koyduğunu zannetmişsiniz, bundan sonra ben üzerinize daha ağır işler koyacağım ve sizi daha sert cezalandıracağım.”
+  ***[[:tr:obs:notes:frames:18-07|[18-07]]]** İsrail halkının on oymağı **Rehavam**’a karşı başkaldırdı. Yalnızca iki oymağı ona sadık kaldı.
 
 ~~DISCUSSION~~
 

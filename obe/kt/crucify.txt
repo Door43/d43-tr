@@ -1,19 +1,14 @@
-====== crucify ======
+====== çarmıha germek ======
 
+===== Tanım =====
 
-===== Definition: =====
+«Çarmıha germek», birini çarmıha bağlayarak ya da çivileyerek şiddetli acılar içinde ölmeye bırakmak suretiyle idam etmek anlamına gelir. 
+  * Çarmıha gerilen insanlar kan kaybından ya da boğulmaktan ölürlerdi.
+  * Eski Roma İmparatorluğu’nda ağır suç işleyen ya da hükûmetin yetkisine karşı ayaklanan kişilerin cezası olarak bu idam yöntemi sık sık kullanılırdı.
+  * Yahudi din alimleri Roma valisine İsa’yı idam ettirmesi için ricada bulundular. Askerler İsa’yı çarmıha çivilediler. İsa altı saat boyunca orada acı çekti ve sonra öldü.
 
-The term "crucify" means to execute someone by attaching him to a cross and leaving him there to suffer and die in great pain.
- 
-  * The victim was either tied or nailed to the cross. Crucified people died from blood loss or from suffocation.
-  * The ancient Roman Empire frequently used this method of execution to punish and kill people who were terrible criminals or who had rebelled against the authority of their government.
-  * The Jewish religious leaders asked the Roman governor to order his soldiers to crucify Jesus. The soldiers nailed Jesus to a cross. He suffered there for six hours, and then died.
-
-===== Translation Suggestions: =====
-
-The term "crucify" could be translated as, "kill on a cross" or "execute by nailing to a cross."
-
-(See also: [[en:obe:kt:cross]], [[en:obe:other:rome]])
+===== Çeviri için öneriler =====
+«Çarmıha germek» terimi «çarmıhta öldürmek» ya da «çarmıha çivileyerek idam etmek» şeklinde çevrilebilir.(See also: [[en:obe:kt:cross]], [[en:obe:other:rome]])
 
 ===== Bible References: =====
 
@@ -22,13 +17,13 @@ The term "crucify" could be translated as, "kill on a cross" or "execute by nail
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:39-11|[39-11]]]** But the Jewish leaders and the crowd shouted, "**Crucify** him (Jesus)!"
-  ***[[:tr:obs:notes:frames:39-12|[39-12]]]** Pilate became afraid that the crowd would begin to riot, so he ordered his soldiers to **crucify** Jesus.
-  ***[[:tr:obs:notes:frames:40-01|[40-01]]]**  After the soldiers mocked Jesus, they led him away to **crucify** him. They made him carry the cross on which he would die.
-  ***[[:tr:obs:notes:frames:40-04|[40-04]]]** Jesus was **crucified** between two robbers.
-  ***[[:tr:obs:notes:frames:43-06|[43-06]]]** "Men of Israel, Jesus was a man who did many mighty signs and wonders by the power of God, as you have seen and already know. But you **crucified** him!" 
-  ***[[:tr:obs:notes:frames:43-09|[43-09]]]** "You **crucified** this man, Jesus."
-  ***[[:tr:obs:notes:frames:44-08|[44-08]]]** Peter answered them, "This man stands before you healed by the power of Jesus the Messiah. You **crucified** Jesus, but God raised him to life again!"
+  ***[[:tr:obs:notes:frames:39-11|[39-11]]]** Fakat Yahudi ileri gelenleri ve kalabalık, “O’nu (İsa’yı) **çarmıha ger**!” diye bağırdılar.
+  ***[[:tr:obs:notes:frames:39-12|[39-12]]]** Kalabalığın ayaklanmasından korkan Pilatus sonunda askerlerinin İsa’yı **çarmıha germesine** razı oldu.
+  ***[[:tr:obs:notes:frames:40-01|[40-01]]]** Askerler İsa’yla alay ettikten sonra O’nu **çarmıha germek** üzere götürdüler. Üzerinde öleceği çarmıhı O’na taşıttılar.
+  ***[[:tr:obs:notes:frames:40-04|[40-04]]]** İsa iki mahkûm arasında **çarmıha gerildi**.
+  ***[[:tr:obs:notes:frames:43-06|[43-06]]]** “Ey İsrail halkı! Kendiniz zaten gördüğünüz ve bildiğiniz gibi, İsa Tanrı’nın kudretiyle birçok alâmet ve mucize yapan bir insandı. Ama siz O’nu **çarmıha gerdiniz**!”
+  ***[[:tr:obs:notes:frames:43-09|[43-09]]]** Siz bu adamı -İsa’yı- **çarmıha gerdiniz**.
+  ***[[:tr:obs:notes:frames:44-08|[44-08]]]** Petrus onlara, “Bu adam İsa Mesih’in kudretiyle önünüzde sapasağlam duruyor. Siz İsa’yı **çarmıha gerdiniz**, fakat Tanrı O’nu diriltti!
 
 ~~DISCUSSION~~
 

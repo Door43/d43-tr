@@ -1,19 +1,16 @@
-====== church, Church ======
+====== kilise ======
 
-===== Definition: =====
+===== Tanım =====
 
-In the Bible, the term "church" refers to a local group of believers in Jesus who regularly meet together to pray and hear God's word preached. It can also refer to all Christians.
+Kutsal Kitap’ta «kilise» terimi İsa’ya iman eden ve düzenli olarak dua etmeye ve Tanrı’nın kelâmının vazedilmesini dinlemeye toplanan yerel imanlılar grubuna aittir. Ayrıca bütün Mesih inanlılarına ait olarak da kullanılabilir.
+  * Bu terim her yerde Mesih’in bedeninde bulunan bütün imanlılara ait olarak kullanıldığı durumda bazı Kutsal Kitap çevirilerinde büyük harfle yazılır
 
-  * When this term is used to refer to all believers everywhere in the whole body of Christ, some Bible translations capitalize it (Church) to distinguish it from the local church.
-  * The original meaning of this term is "called out (to meet together)." It refers to an assembly or gathering of people for a special purpose.
-  * In the Bible, "church" does not refer to a building.
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * The term "church" could be translated as a "gathering together" or "assembly" or "congregation" or "ones who meet together."
-  * The word or phrase that is used to translate this term should also be able to refer to all believers, not just one small group.
-  * Make sure that the translation of "church" does not just refer to a building.
-  * Also consider how it is translated in a local or national Bible translation. (See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]].)
+  * «Kilise» terimi «toplantı», «cemaat», «topluluk» ya da «birlikte toplananlar» şeklinde çevrilebilir.
+  * Bu terimi çevirmek için kullanılan söz ya da ifadesinin ayrıca sadece küçük bir gruba değil, bütün imanlılara ait olabilecek bir terim olması gerekir.
+  * «Kilise» sözcüğünün çevirisinin sadece binaya ait olmamasına dikkat edin.
+  * Ayrıca Kutsal Kitap’ın halk diline veya devlet diline çevirisinde bu terimin nasıl çevrildiğine bakın.
 
 (See also: [[:tr:obe:kt:christian]], [[:tr:obe:kt:believer]], [[:tr:obe:kt:assembly]])
 
@@ -23,11 +20,12 @@ In the Bible, the term "church" refers to a local group of believers in Jesus wh
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:43-12|[43-12]]]** About 3,000 people believed what Peter said and became disciples of Jesus. They were baptized and became part of the **church**  at Jerusalem.
-  * **[[:tr:obs:notes:frames:46-09|[46-09]]]** Most of the people in Antioch were not Jews, but for the first time, very many of them also became believers. Barnabas and Saul went there to teach these new believers more about Jesus and to strengthen the **church**.
-  * **[[:tr:obs:notes:frames:46-10|[46-10]]]** So the **church**  in Antioch prayed for Barnabas and Saul and placed their hands on them. Then they sent them off to preach the good news of Jesus in many other places.
-  * **[[:tr:obs:notes:frames:47-13|[47-13]]]** The good news of Jesus kept spreading, and the **Church**  kept growing.
-  * **[[:tr:obs:notes:frames:50-01|[50-01]]]** For almost 2,000 years, more and more people around the world have been hearing the good news about Jesus the Messiah. The **Church**  has been growing.
+  ***[[:tr:obs:notes:frames:43-12|[43-12]]]** Yaklaşık üç bin kişi Petrus’un dediğini kabul ederek İsa’ya iman etti. Onlar vaftiz oldular ve Yeruşalim’deki **kiliseye** katıldılar.
+  ***[[:tr:obs:notes:frames:46-09|[46-09]]]** Antakya’daki insanların çoğu Yahudi değildi ve ilk kez Yahudi olmayanlardan oluşan büyük bir kalabalık imana geldi. Barnaba’yla Saul bu yeni imanlılara İsa’yla ilgili daha çok şeyler öğretmek ve **kiliseyi** güçlendirmek amacıyla oraya gittiler.
+  ***[[:tr:obs:notes:frames:46-10|[46-10]]]** Bunun üzerine Antakya’daki **imanlılar**, Barnaba’yla Saul’un üstüne ellerini koyarak dua ettiler. Sonra başka yerlerde İsa’yla ilgili sevindirici haberi vazetmeleri için onları yolcu ettiler.
+  ***[[:tr:obs:notes:frames:47-13|[47-13]]]** İsa’yla ilgili sevindirici haber yayılmaya, **kilise** büyümeye devam etti.
+  ***[[:tr:obs:notes:frames:50-01|[50-01]]]** Neredeyse 2.000 yıldır dünyada gittikçe daha çok insan İsa Mesih’le ilgili sevindirici haberi duyuyor. **Kilise büyüyor**.
+
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~

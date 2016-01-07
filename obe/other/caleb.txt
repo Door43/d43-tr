@@ -1,12 +1,10 @@
-====== Caleb ======
+====== Kalev ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-Caleb was one of the twelve Israelite spies whom Moses sent to explore the land of Canaan.
-
-  * He and Joshua came back from exploring Canaan and told the people to trust God to help them defeat their enemies so that they could live at peace in that land.
-  * Joshua and Caleb were the only men of their generation who were allowed to enter the Promised Land of Canaan.
+Kalev, Musa’nın Kenan ülkesini araştırmaya gönderdiği on iki İsrailli casuslardan biriydi.
+  * Yeşu ve Kalev Kenan’ı araştırmaktan dönünce halka o ülkede huzur içinde yaşayabilmeleri için Tanrı’nın düşmanlarına zafer kazanmalarına yardım edeceğini söylediler.
+  * Yeşu ve Kalev, kendi nesillerinde Tanrı’nın vadettiği ülkeye girmelerine izin verilen tek insanlardı.
 
 (Translation suggestions: [[en:ta:vol1:translate:translate_names]])
 
@@ -18,9 +16,9 @@ Caleb was one of the twelve Israelite spies whom Moses sent to explore the land 
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:14-04|[14-04]]]** When the Israelites reached the edge of Canaan, Moses chose twelve men, one from each tribe of Israel. He gave the men instructions to go and spy on the land to see what it was like. 
-  ***[[:tr:obs:notes:frames:14-06|[14-06]]]** Immediately **Caleb** and Joshua, the other two spies, said, "It is true that the people of Canaan are tall and strong, but we can certainly defeat them! God will fight for us!"
-  ***[[:tr:obs:notes:frames:14-08|[14-08]]]** "Except for Joshua and **Caleb**, everyone who is twenty years old or older will die there and never enter the Promised Land."
+  ***[[:tr:obs:notes:frames:14-04|[14-04]]]** İsrailliler Kenan’ın sınırlarına varınca Musa İsrail’in her oymağından birer adam – toplam on iki kişi seçti. Ülkeyi araştırsınlar diye onları casus olarak gönderdi.
+  ***[[:tr:obs:notes:frames:14-06|[14-06]]]** Öbür iki kişi, **Kalev** ve Yeşu, hemen itiraz etti: “Kenanlılar gerçekten uzun boylu ve güçlüdürler, fakat biz onları mutlaka mağlup edeceğiz! Çünkü Tanrı bizim için savaşacak!”
+  ***[[:tr:obs:notes:frames:14-08|[14-08]]]** Yeşu ve **Kalev** hariç, yirmi ve daha yukarı yaşta olan herkes burada ölecek ve vadettiğim ülkeye giremeyecek.
 
 ~~DISCUSSION~~
 

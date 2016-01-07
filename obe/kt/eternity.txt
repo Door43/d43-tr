@@ -1,21 +1,19 @@
-====== everlasting, eternal, eternity ======
+====== sonsuz ======
 
-===== Definition: =====
+===== Tanım =====
 
-The terms “everlasting” and “eternal” have very similar meanings and refer to something that will always exist or that lasts forever.
+«Ebedî» ve «sonsuz» sözcüklerinin çok benzer anlamı var ve sonu olmayan, sonsuza dek devam edecek şeylere aittir.
+  * «Ebediyet» ile başlangıcı ve sonu olmayan bir varlığın durumu ya da asla sona ermeyecek hayat kastediliyor.
+  * Yeyüzünde yaşadıkları bu hayattan sonra insanlar ya göklerde Tanrı ile beraber ya da cehennemde Tanrı’dan ayrılıkta ebediyete geçerler.
+  * İncil’de «ebedî hayat» ya da «sonsuz yaşam» terimleri ile Tanrı’yla ebediyen göklerde yeni bedenlerimizde yaşamamız kastediliyor.
+  * «Ebetler ebedince» ya da «sonsuzluk boyunca» ifadesi asla sona ermeyen zaman anlamını taşıyor ve ebediyetin ya da ebedî hayatın niteliğini ifade ediyor.
 
-  * The term “eternity” refers to a state of being that has no beginning or end. It can also refer to life that never ends.
-  * After this present life on earth, humans will spend eternity either in heaven with God or in hell apart from God.
-  * The terms “eternal life” and “everlasting life” are used in the New Testament to refer to living forever with God in our new bodies in heaven.
-  * The phrase “forever and ever” has the idea of time that never ends and expresses what eternity or eternal life is like.
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * Other ways to translate "eternal" or "everlasting" could include,"unending" or "never stopping" or "always continuing."
-  * The terms "eternal life" and "everlasting life" could also be translated as “life that never ends” or “life that continues without stopping” or "the raising up of our bodies to live forever."
-  * Depending on the context, different ways to translate "eternity" could include, "existing outside of time" or "unending life" or "life in heaven."
-  * Also consider how this word is translated in a Bible translation in a local or national language. (See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
-
+  * «Ebedî» ya da «sonsuz» sözcüklerinin diğer çeviri seçenekleri «asla bitmeyecek» ya da «sonu olmayacak» ya da «sonsuza dek devam edecek» gibi ifadelerdir.
+  * «Ebedî hayat» ya da «sonsuz yaşam» terimleri ayrıca «asla sona ermeyen hayat» ya da «durmadan devam eden yaşam» ya da «bedenlerimizin sonsuza dek yaşamak üzere dirilmesi» şeklinde çevrilebilir.
+  * Bağlama dayalı olarak «ebediyet» sözcüğünün çeviri seçenekleri şunlar olabilir: «zaman dışı varlık» ya da «sonsuz yaşam» ya da «cennette yaşam.»
+  * Ayrıca bu sözün Kutsal Kitap’ın halk diline veya devlet diline nasıl çevirisinde nasıl çevrildiğine bakın.
 
 (See also: [[:tr:obe:kt:forever]], [[:tr:obe:kt:life]])
 
@@ -25,9 +23,8 @@ The terms “everlasting” and “eternal” have very similar meanings and ref
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, "Teacher, what must I do to inherit **eternal life**?"
-  * **[[:tr:obs:notes:frames:28-01|[28-01]]]** One day, a rich young ruler came up to Jesus and asked him, "Good Teacher, what must I do to have **eternal life**?" Jesus said to him, "Why do you ask me about what is good? There is only One who is good, and that is God. But if you want to have **eternal life**, obey God's laws."
-  * **[[:tr:obs:notes:frames:28-10|[28-10]]]** Jesus answered, "Everyone who has left houses, brothers, sisters, father, mother, children, or property for my name's sake, will receive 100 times more and will also receive **eternal life**."
-
+  ***[[:tr:obs:notes:frames:27-01|[27-01]]]** Bir gün Tevrat bilginlerinden biri İsa’yı denemek amacıyla O’na, “Hocam, **ebedî hayatı** miras almak için ne yapmalıyım?” diye sordu.
+  ***[[:tr:obs:notes:frames:28-01|[28-01]]]** Bir gün zengin bir genç İsa’ya yaklaşıp, “İyi Hocam, **ebedî hayata** kavuşmak için ne yapmalıyım?” diye sordu. İsa ona dedi: “Bana neden iyi diyorsun? İyi olan yalnız Tanrı’dır. **Ebedî hayata** kavuşmak istiyorsan, Tanrı’nın emirlerine uyacaksın.”
+  ***[[:tr:obs:notes:frames:28-10|[28-10]]]** İsa şöyle cevap verdi: “Evini, kardeşlerini, babasını, annesini, çocuklarını ya da mal mülkünü benim uğruma bırakan herkes, bunların 100 katını alacak ve üstelik b>ebedî hayata** kavuşacak.”
 
 ~~DISCUSSION~~{{tag>publish ktobs}}

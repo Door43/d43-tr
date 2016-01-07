@@ -1,19 +1,18 @@
-====== righteous, righteousness ======
+====== doğru ======
 
-===== Definition: =====
+===== Tanım =====
 
-The term, "righteous" describes someone or something that is morally good and without fault. Righteous people obey God and live in a way that pleases him. The term "righteousness" means the act or state of being righteous.
+«Doğru», «sâlih» terimleri manevi açıdan iyi ve kusursuz olan bir kişi ya da bir şey anlamına gelir. Doğru insanlar Tanrı’ya itaat eder ve O’nu hoşnut eden bir şekilde yaşarlar. «Doğruluk» kavramı doğru ya da sâlih olma durumunu ya da eylemini bildirir.
+  * <font 14px line-height: 13.0666666030884px/inherit;;inherit;;inherit>Doğru insan doğru, iyi ve gerekli olan işleri yapar. Ancak, Tanrı’dan başka hiç kimse tam doğru değildir.</font>
+  * İnsanlar kurtuluşları konusunda İsa’ya güvendiklerinde Tanrı onları günahlarından temizler ve <font 14px line-height: 13.0666666030884px/inherit;;inherit;;inherit>doğru ilan eder</font>    .
+  * İsa yeryüzünde tam doğru hayat sürdü. İnsanlar O’na güvendikleri ve itaatle O’nu izledikleri zaman Tanrı onlara İsa’nın  doğruluğunu verir.
 
-  * A righteous person does what is right, good, and proper. However, no one except God is completely righteous.
-  * When people trust in Jesus to save them, God cleanses them from their sins and declares them to be righteous.
-  * Jesus lived a completely righteous life on earth. When people trust in him and follow him in obedience, God gives them Jesus' righteousness.
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * The term "righteous" could also be translated as "morally good" or "just" or "living a God-pleasing life."
-  * The phrase, "the righteous" could also be translated as, "righteous people" or "God-fearing people."
-  * Sometimes "the righteous" refers to "people who think they are good" or "people who seem to be righteous."
-  * Depending on the context, "righteousness" could also be translated with a word or phrase that means, "being perfect before God" or "acting in a right way by obeying God" or "doing perfectly good and just things."
+  * «Doğru» terimi ayrıca «manevi açıdan iyi», «adil» ya da «Tanrı’yı hoşnut eden hayat süren» olarak çevrilebilir.
+  * «Doğru olanlar» ifadesi ayrıca «doğru insanlar», «sâlih insanlar» ya da «Tanrı’dan korkanlar» şeklinde çevrilebilir.
+  * Bazen «doğru olanlar» ile «kendini iyi sanan insanlar» ya da «sâlih görünen insanlar» kastedilir.
+  * Bağlama dayalı olarak, «doğruluk» ayrıca «Tanrı katında kâmil olma», «Tanrı’ya itaat ederek doğruluk yapma» ya da «mükemmel adil işler yapma» anlamına gelen bir sözle çevrilebilir.
 
 (See also: [[:tr:obe:kt:good]], [[:tr:obe:kt:holy]], [[:tr:obe:kt:evil]], [[:tr:obe:kt:justice]])
 
@@ -23,9 +22,10 @@ The term, "righteous" describes someone or something that is morally good and wi
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:03-02|[03-02]]]** But Noah found favor with God. He was a **righteous**  man, living among wicked people.
-  * **[[:tr:obs:notes:frames:04-08|[04-08]]]** God declared that Abram was **righteous**  because he believed in God's promise.
-  * **[[:tr:obs:notes:frames:17-02|[17-02]]]** David was a humble and **righteous**  man who trusted and obeyed God.
-  * **[[:tr:obs:notes:frames:23-01|[23-01]]]** Joseph, the man Mary was engaged to, was a **righteous**  man.
-  * **[[:tr:obs:notes:frames:50-10|[50-10]]]** Then the **righteous**  ones will shine like the sun in the kingdom of God their Father."
+  ***[[:tr:obs:notes:frames:03-02|[03-02]]]** Ancak Nuh Tanrı’nın gözünde lütuf buldu. Nuh bütün kötü insanlar arasında tek **doğru** insandı.
+  ***[[:tr:obs:notes:frames:04-08|[04-08]]]** Vaadine inandığı için Tanrı Avram’ı **doğru** adam ilan etti.
+  ***[[:tr:obs:notes:frames:17-02|[17-02]]]** Davut, Tanrı’ya iman ve itaat eden alçakgönüllü ve **doğru** bir adamdı.
+  ***[[:tr:obs:notes:frames:23-01|[23-01]]]** Meryem’in nişanlı olduğu Yusuf **doğru** bir adamdı.
+  ***[[:tr:obs:notes:frames:50-10|[50-10]]]** “O zaman **doğru** kişiler, Baba Tanrı’nın Hükümranlığı’nda güneş gibi patlayacaklar.”
+
 ~~DISCUSSION~~{{tag>publish review ktobs}}

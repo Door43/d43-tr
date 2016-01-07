@@ -1,19 +1,16 @@
-====== Solomon ======
+====== Süleyman ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-Solomon was one of King David's sons. His mother was Bathsheba.
-
-  * When Solomon became king, God told him to ask for anything he wanted. So Solomon asked for wisdom to rule the people justly and well. God was pleased with Solomon's request and gave him both wisdom and much wealth.
-  * Solomon built the temple for God in Jerusalem that his father, David, had planned to build.
-  * Although Solomon ruled wisely in the beginning years of his reign, later on he foolishly married many foreign women and started worshiping their gods. 
-  * Because of Solomon's unfaithfulness, after his death God divided the Israelites into two kingdoms: Israel and Judah. These kingdoms often fought against each other.
+Süleyman Kral Davut’un oğullarından biriydi. Annesi Bat-Şeva’ydı.
+  * Süleyman kral olduğu zaman Tanrı ona istediği herhangi şeyi kendisinden dilemesini söyledi. O zaman Süleyman halkını adaletle, doğrulukla yönetmesi için bilgelik diledi. Tanrı Süleyman’ın dileğinden hoşnut kaldı ve ona hem bilgelik hem de çok zenginlik verdi.
+  * Süleyman Yeruşalim’de babası Davut’un planlamış olduğu Tanrı tapınağını kurdu.
+  * Süleyman, krallığının ilk döneminde bilgece hükümranlık etmesine rağmen, zamanla çok yabancı kadınla evlenip ilâhlarına tapmaya başladı. 
+  * Süleyman’ın sadakatsizliği yüzünden Tanrı onun ölümünden sonra İsraillilerin İsrail ve Yahuda olmak üzere iki krallığa bölünmesini sağladı. Bu krallıklar sık sık birbiriyle savaşırlardı.
 
 (Translation suggestions: [[en:ta:vol1:translate:translate_names]])
 
 (See also: [[:En:obe:other:david]], [[:tr:obe:other:bathsheba]], [[en:obe:kt:temple]], [[:tr:obe:toher:Israel]], [[:tr:obe:other:Judah]])
-
 
 ===== Bible References: =====
 
@@ -22,11 +19,11 @@ Solomon was one of King David's sons. His mother was Bathsheba.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:17-14|[17-14]]]** Later,  David and Bathsheba had another son, and they named him **Solomon**.
-  ***[[:tr:obs:notes:frames:18-01|[18-01]]]** After many years, David died, and his son **Solomon** began to rule. God spoke to **Solomon** and asked him what he wanted most. When **Solomon** asked for wisdom, God was pleased and made him the wisest man in the world. **Solomon** learned many things and was a very wise judge. God also made him very wealthy.
-  ***[[:tr:obs:notes:frames:18-02|[18-02]]]** In Jerusalem, **Solomon** built the Temple for which his father David had planned and gathered materials.
-  ***[[:tr:obs:notes:frames:18-03|[18-03]]]** But **Solomon** loved women from other countries. ... When **Solomon** was old, he also worshiped their gods.
-  ***[[:tr:obs:notes:frames:18-04|[18-04]]]** God was angry with **Solomon** and, as a punishment for **Solomon's** unfaithfulness, he promised to divide the nation of Israel into two kingdoms after **Solomon's** death.
+  ***[[:tr:obs:notes:frames:17-14|[17-14]]]** Daha sonra Davut’la Bat-Şeva’nın başka bir oğlu oldu ve ona **Süleyman** adını verdiler.
+  ***[[:tr:obs:notes:frames:18-01|[18-01]]]** Aradan uzun yıllar geçti. Davut öldü ve oğlu **Süleyman** kral oldu. Tanrı **Süleyman**’a seslenerek en çok ne istediğini sordu. **Süleyman** bilgeliği istedi, bu isteği Tanrı’nın hoşuna gitti. Tanrı **Süleyman**’ı dünyanın en bilge insanı etti. **Süleyman** çok şey öğrenerek son derece bilge bir hâkim oldu. Ayrıca Tanrı onu zenginleştirdi.
+  ***[[:tr:obs:notes:frames:18-02|[18-02]]]** **Süleyman** Yeruşalim’de babası Davut’un tasarladığı ve inşası için hazırlık yaptığı tapınağı inşa ettirdi.
+  ***[[:tr:obs:notes:frames:18-03|[18-03]]]** Ancak **Süleyman** yabancı kadınlara âşık oldu... **Süleyman** yaşlanınca o kadınlarla birlikte ilâhlarına tapınıyordu.
+  ***[[:tr:obs:notes:frames:18-04|[18-04]]]** Tanrı **Süleyman**’a öfkelendi ve sadakatsizliğinin cezası olarak ölümünden sonra İsrail’in iki krallığa bölüneceğine söz verdi.
 
 ~~DISCUSSION~~
 

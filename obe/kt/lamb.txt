@@ -1,25 +1,21 @@
-====== lamb, Lamb of God ======
+====== kuzu ======
 
+===== Tanım =====
 
-===== Definition: =====
+Kuzu, koyunun yavrusudur. Koyun, kalın yünle kaplı dört ayaklı bir hayvandır.
+  * Koyunlar yün ya da yiyecek (et) için kullanılır.
+  * Bu hayvanlar savunmasızdır ve kolayca yoldan saptılırır. Tanrı insanları koyunlara benzetir.
+  * Tanrı halkına fiziksel açıdan kusursuz koyun ve kuzuları O’na kurban vermeyi buyurdu.
+  * İsa, insanların günahlarının bedelini ödemek için kurban verilen «Tanrı Kuzusu» adlandırılır. O kusursuz, lekesiz bir kurbandı, çünkü tamamen günahsızdı.
 
+===== Çeviri için öneriler =====
 
-A lamb is the young of a sheep. A sheep is a four-legged animal with thick, woolly hair.
-
-    * Sheep are raised for their wool or to be eaten.
-    * These animals are defenseless and are easily led astray. God compares human beings to sheep.
-    * God instructed his people to sacrifice physically perfect sheep and lambs to him.
-    * Jesus is called the "Lamb of God" who was sacrificed to pay for people's sins. He was a perfect, unblemished sacrifice because he was completely without sin.
-
-===== Translation Suggestions: =====
-
-  * If sheep are known in the language area, the name for their young should be used to translate the terms "lamb" and "Lamb of God."
-  * "Lamb of God" could be translated as "God's (sacrificial) Lamb," or "Lamb sacrificed to God" or "(sacrificial) Lamb from God."
-  * If sheep are not known, this term could be translated as "the young of a sheep" with a footnote that describes what sheep are like. The note could also compare sheep and lambs to an animal from that area that lives in herds, is timid and defenseless, and which often wanders off.
-  * Also consider how this term is translated in a Bible translation of a nearby local or national language. (See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * Koyunlar dil alanında biliniyorsa «kuzu» ve «Tanrı Kuzusu» için koyun yavrusu anlamına gelen sözcüğün kullanılması gerekir.
+  * «Tanrı Kuzusu» şöyle çevrilebilir: «Tanrı’nın (kurbanlık) kuzusu» ya da «Tanrı’dan olan (kurbanlık) Kuzu.»
+  * Koyunlar bilinmiyorsa, bu terim «koyunun yavrusu» olarak çevrilebilir ve dipnotta koyunun tasviri verilebilir. Dipnotta koyunlar ya da kuzular ayrıca o bölgede sürü olarak yaşayan ürkek, savunmasız, sık sık yoldan sapan bir hayvan ile karşılaştırılabilir.
+  * Ayrıca bu terimin Kutsal Kitap’ın yakın bir halkın diline veya devlet diline çevirisinde nasıl çevrildiğine bakın.
 
 (See also: [[en:obe:other:sheep]], [[en:obe:other:shepherd]])
-
 
 ===== Bible References: =====
 
@@ -28,12 +24,12 @@ A lamb is the young of a sheep. A sheep is a four-legged animal with thick, wool
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:05-07|[05-07]]]** As Abraham and Isaac walked to the place of the sacrifice Isaac asked, "Father, we have wood for the sacrifice, but where is the **lamb**?"
-  ***[[:tr:obs:notes:frames:11-02|[11-02]]]** God provided a way to save the firstborn son of anyone who believed in him. Each family had to choose a perfect **lamb** or goat and kill it.
-  ***[[:tr:obs:notes:frames:24-06|[24-06]]]** The next day, Jesus came to be baptized by John. When John saw him, he said, "Look! There is the **Lamb of God** who will take away the sin of the world."
-  ***[[:tr:obs:notes:frames:45-08|[45-08]]]** He read, "They led him like a **lamb** to be killed, and as a **lamb** is silent, he did not say a word.
-  ***[[:tr:obs:notes:frames:48-08|[48-08]]]** When God told Abraham to offer his son, Isaac, as a sacrifice, God provided a **lamb** for the sacrifice instead of his son, Isaac. We all deserve to die for our sins! But God provided Jesus, the **Lamb** of God, as a sacrifice to die in our place.
-  ***[[:tr:obs:notes:frames:48-09|[48-09]]]** When God sent the last plague on Egypt, he told each Israelite family to kill a perfect **lamb** and spread its blood around the tops and sides of their door frames. 
+  ***[[:tr:obs:notes:frames:05-07|[05-07]]]** İbrahim’le İshak kurban verilecek yere yürürken İshak, “Baba, kurban için odunumuz var, peki, **kurbanlık kuzu** nerede?” diye sordu.
+  ***[[:tr:obs:notes:frames:11-02|[11-02]]]** Tanrı, O’na iman eden herkesin ilk doğanlarının kurtulması için bir yol sağladı. Bunun için her ailenin kusursuz birer **kuzu** seçip boğazlaması gerekirdi.
+  ***[[:tr:obs:notes:frames:24-06|[24-06]]]** Ertesi gün İsa, vaftiz olmak için Yahya’nın yanına geldi. Yahya O’nu görünce, “İşte! Dünyanın günahını ortadan kaldıran **Tanrı Kuzusu**!” dedi.
+  ***[[:tr:obs:notes:frames:45-08|[45-08]]]** Okuduğu parça şuydu: “Kesime götürülen **koyun** gibi götürüldü, sessiz **kuzu** gibi tek kelime konuşmadı.”
+  ***[[:tr:obs:notes:frames:48-08|[48-08]]]** Tanrı, İbrahim’e oğlu İshak’ı kurban olarak sunmasını buyurduğunda oğlu İshak’ın yerine sunulacak bir **kuzu** sağladı. Hepimiz günahlarımız için ölümü hak ederiz! Fakat Tanrı İsa’yı yerimize ölen **kurbanlık kuzu** olarak sağladı.
+  ***[[:tr:obs:notes:frames:48-09|[48-09]]]** Tanrı Mısır’a son belayı gönderdiğinde her İsrailli aileye kusursuz birer **kuzu** kesmelerini ve kanını evlerinin kapıları etrafına sürmelerini buyurdu.
 
 ~~DISCUSSION~~
 

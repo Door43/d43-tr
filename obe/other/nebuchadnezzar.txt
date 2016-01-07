@@ -1,17 +1,14 @@
-====== Nebuchadnezzar ======
+====== Nebukadnessar ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-Nebuchadnezzar was a king of the Babylonian Empire. This was a powerful empire during the time of the kingdom of Israel and the kingdom of Judah.
-
-  * Nebuchadnezzar had a powerful army that conquered many other people groups.
-  * Under Nebuchadnezzar's leadership, the Babylonian army attacked and conquered the kingdom of Judah, and took most of the people of Judah to Babylon as captives. This "Babylonian Exile" lasted 70 years.
+Nebukadnessar, Babil İmparatorluğu’nun kralıydı. Bu, İsrail Krallığı ve Yahuda Krallığı’nın zamanında çok kuvvetli bir imparatorluktu.
+  * Nebukadnessar’ın çok halkı fetheden kuvvetli bir ordusu vardı.
+  * Nebukadnessar’ın yönetiminde Babil ordusu Yahuda Krallığı’na saldırdı ve onu fethederek Yahuda’nın halkının büyük çoğunluğunu Babil’e sürgün etti. Bu «Babil Sürgünü» 70 yıl devam etti.
 
 (Translation suggestions: [[en:ta:vol1:translate:translate_names]])
 
 (See also: [[babylon]], [[kingdomofjudah]])
-
 
 ===== Bible References: =====
 
@@ -20,11 +17,10 @@ Nebuchadnezzar was a king of the Babylonian Empire. This was a powerful empire d
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:20-06|[20-06]]]** About 100 years after the Assyrians destroyed the kingdom of Israel, God sent **Nebuchadnezzar**, king of the Babylonians, to attack the kingdom of Judah.
-  ***[[:tr:obs:notes:frames:20-06|[20-06]]]** The king of Judah agreed to be **Nebuchadnezzar's** servant and pay him a lot of money every year.
-  ***[[:tr:obs:notes:frames:20-08|[20-08]]]**  To punish the king of Judah for rebelling, **Nebuchadnezzar's** soldiers killed the king's sons in front of him and then made him blind.
-  ***[[:tr:obs:notes:frames:20-09|[20-09]]]** **Nebuchadnezzar** and his army took almost all of the people of the kingdom of Judah to Babylon, leaving only the poorest people behind to plant the fields.
-
+  ***[[:tr:obs:notes:frames:20-06|[20-06]]]** Asurluların İsrail Krallığı’nı tahrip etmesinden yaklaşık 100 yıl sonra Tanrı Babil kralı **Nebukadnessar**’ı Yahuda Krallığı’na saldırmaya gönderdi.
+  ***[[:tr:obs:notes:frames:20-06|[20-06]]]** Yahuda’nın kralı, **Nebukadnessar**’ın kulu olup her yıl ona çok para ödemeyi kabul etti.
+  ***[[:tr:obs:notes:frames:20-08|[20-08]]]** Yahuda’nın kralının ayaklanmasının cezası olarak **Nebukadnessar**’ın askerleri gözleri önünde oğullarını öldürdüler ve kendisini kör ettiler.
+  ***[[:tr:obs:notes:frames:20-09|[20-09]]]** **Nebukadnessar**’la ordusu Yahuda Krallığı’nın hemen hemen bütün halkını Babil’e sürgün etti, yalnızca en yoksul insanları toprağı işlesinler diye bıraktı.
 
 ~~DISCUSSION~~
 

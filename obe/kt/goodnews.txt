@@ -1,16 +1,15 @@
-====== good news, gospel ======
+====== müjde ======
 
-===== Definition: =====
+===== Tanım =====
 
-The phrase, "good news" means a message or announcement that tells people something that benefits them and makes them glad.
+«Sevindirici haber» ifadesi, insanlara yararlı olan, onları sevindiren bir mesaj ya da ilan anlamına gelir.
+  * Kutsal Kitap’ta bu terim genellikle İsa’nın çarmıhta sunduğu kurban vasıtasıyla Tanrı’nın insanlara sağladığı kurtuluş hakkındaki habere aittir.
+  * Kutsal Kitap’ın Türkçe çevirilerinin çoğunda genelde «Müjde» olarak çevrilen bu «sevindirici haber» ayrıca «İsa Mesih’in müjdesi», «Tanrı’nın müjdesi» ya da «Egemenliğin müjdesi» gibi ifadeler içinde kullanılıyor.
 
-  * In the Bible, this term usually refers to the message about God's salvation for people through Jesus' sacrifice on the cross.
-  * In most English Bibles, "good news" is usually translated as "gospel" and is also used in phrases such as, the "gospel of Jesus Christ," the "gospel of God" and the "gospel of the kingdom."
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * Different ways to translate this term could include, "good message" or "good announcement" or "glad word" or "God's message of salvation" or "the good things God teaches about Jesus."
-  * Depending on the context, ways to translate the phrase, "good news of" could include, "good news/message about" or "good message from" or "the good thing God tells us about" or "what God says about how he saves people."
+  * Bu terimin çeşitli çeviri seçenekleri arasında «iyi haber», «iyi bildiri», «Tanrı’nın kurtuluş bildirisi» ya da «Tanrı’nın İsa hakkında öğrettiği iyi şeyler» gibi ifadeler olabilir.
+  * Bağlama dayalı olarak, «...dair sevindirici haber» ifadesini şöyle çevirmek mümkündür: «...hakkında iyi haber» ya da «...den iyi mesaj» ya da «Tanrı’nın bize ... hakkında söylediği iyi haber» ya da «Tanrı’nın insanları nasıl kurtardığına dair söyledikleri.»
 
 (See: [[:tr:obe:kt:salvation]], [[:tr:obe:other:sacrifice]], [[:tr:obe:other:kingdom]])
 
@@ -20,15 +19,16 @@ The phrase, "good news" means a message or announcement that tells people someth
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:23-06|[23-06]]]** The angel said, "Do not be afraid, because I have some **good news**  for you. The Messiah, the Master, has been born in Bethlehem!"
-  * **[[:tr:obs:notes:frames:26-03|[26-03]]]** Jesus read, "God has given me his Spirit so that I can proclaim **good news**  to the poor, freedom to captives, recovery of sight for the blind, and release to the oppressed. This is the year of the Lord's favor."
-  * **[[:tr:obs:notes:frames:45-10|[45-10]]]** Philip also used other Scriptures to tell him the **good news of Jesus**.
-  * **[[:tr:obs:notes:frames:46-10|[46-10]]]** Then they sent them off to preach the **good news about Jesus**  in many other places.
-  * **[[:tr:obs:notes:frames:47-01|[47-01]]]** One day, Paul and his friend Silas went to the town of Philippi to proclaim the **good news about Jesus**.
-  * **[[:tr:obs:notes:frames:47-13|[47-13]]]** The **good news about Jesus**  kept spreading, and the Church kept growing.
-  * **[[:tr:obs:notes:frames:50-01|[50-01]]]** For almost 2,000 years, more and more people around the world have been hearing the **good news about Jesus**  the Messiah.
-  * **[[:tr:obs:notes:frames:50-02|[50-02]]]** When Jesus was living on earth he said, "My disciples will preach the **good news**  about the kingdom of God to people everywhere in the world, and then the end will come."
-  * **[[:tr:obs:notes:frames:50-03|[50-03]]]** Before he returned to heaven, Jesus told Christians to proclaim the **good news**  to people who have never heard it.
+  ***[[:tr:obs:notes:frames:23-06|[23-06]]]** Melek dedi: “Korkmayın! Çünkü size **sevindirici haber** getirdim! Beytlehem’de Efendimiz Mesih doğdu!”
+  ***[[:tr:obs:notes:frames:26-03|[26-03]]]** “Tanrı Ruhu’nu bana verdi! **Sevindirici haberini** yoksullara duyurmak, tutsaklara serbest bırakılacaklarını, körlere gözlerinin açılacağını, ezilenlere özgürlüğe kavuşacaklarını müjdelemek için beni gönderdi. Rab’bin lütuf yılı geldi!”
+  ***[[:tr:obs:notes:frames:45-10|[45-10]]]** Filipus... İsa’nın **müjdesini** anlatmak için ayrıca kutsal yazıların başka yerlerini de ona gösterdi.
+  ***[[:tr:obs:notes:frames:46-10|[46-10]]]** Birçok başka yerlerde İsa’yla ilgili **sevindirici haberi** vazetmeleri için onları yolcu ettiler.
+  ***[[:tr:obs:notes:frames:47-01|[47-01]]]** Bir gün Pavlus dostu Silas’la beraber **İsa’yla ilgili sevindirici haberi** ilan etmek üzere Filipi kentine gitti.
+  ***[[:tr:obs:notes:frames:47-13|[47-13]]]** **İsa’yla ilgili sevindirici haber** yayılmaya, kilise büyümeye devam etti.
+  ***[[:tr:obs:notes:frames:50-01|[50-01]]]** Neredeyse 2.000 yıldır dünyada gittikçe daha çok insan **İsa Mesih’le ilgili sevindirici haberi** duyuyor.
+  ***[[:tr:obs:notes:frames:50-02|[50-02]]]** İsa yeryüzündeyken şöyle dedi: “Bana iman edenler Tanrı’nın Hükümranlığı’yla ilgili **sevindirici haberi** dünyanın her yerinde duyuracaklar. O zaman son gelecektir.”
+  ***[[:tr:obs:notes:frames:50-03|[50-03]]]** İsa göğe dönmeden önce Mesih inanlılara bu **müjdeyi** henüz duymayan insanlara duyursunlar diye emir verdi.
+
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~

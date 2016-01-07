@@ -1,20 +1,16 @@
-====== proud, pride, prideful ======
+====== kibirli ======
 
+===== Tanım =====
 
-===== Definition: =====
-
-The terms "proud" and "prideful" refer to a person thinking too highly of himself, and thinking that he is better than other people.
-
-  * A proud person often does not admit his own faults. He is not humble.
-  * Pride can lead to disobeying God in other ways.
-  * The terms "proud" and "pride" can also be used in a positive sense, such as being "proud of" what someone else has achieved and being "proud of" your children. The expression, "take pride in your work" means to find joy in doing your work well.
-  * Someone can be proud of what he has done without being prideful about it.
-  * The term "prideful" is always negative, with the meaning of being "arrogant" or "conceited" or "self-important."
-  * The noun "pride" could be translated as, "arrogance" or "conceit" or "self-importance."
-
+«Kibirli» ile kendini yüksek gören, kendini başkalarından üstün sayan kişi kastedilir.
+  * Kibirli kişi çoğu zaman kendi hatalarını kabul etmez, alçakgönüllü olmaz.
+  * Kibri, başka yollarla Tanrı’ya karşı itaatsiz olmasına sebep olabilir.
+  * «Kibir»in eşanlamlısı olan «Gurur» olumlu anlamda da kullanılabilir, örneğin, insan başkalarının kazanımları ya da kendi çocukları ile «gurur» duyabilir. «Kendi işi ile gurur duymak» ifadesi kendi işini beğenmek, ondan zevk almak anlamına gelebilir.
+  * Biri kibirli olmaksızın kendi yaptığı işi ile gurur duyabilir.
+  * «Kibirli» sözcüğü her zaman olumsuzdur, «küstah», «kendini beğenen», «büyüklenen» anlamına gelir.
+  * «Kibir» ismi «küstahlık», «gurur» ya da «büyüklenme» olarak çevrilebilir.
 
 (See also: [[:tr:obe:other:humble]])
-
 
 ===== Bible References: =====
 
@@ -23,8 +19,8 @@ The terms "proud" and "prideful" refer to a person thinking too highly of himsel
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:04-02|[04-02]]]** They were very **proud**, and they did not care about what God said.
-  ***[[:tr:obs:notes:frames:34-10|[34-10]]]** Then Jesus said, "I tell you the truth, God heard the tax collector's prayer and declared him to be righteous. But he did not like the prayer of the religious leader. God will humble everyone who is **proud**, and he will lift up whoever humbles himself."
+  ***[[:tr:obs:notes:frames:04-02|[04-02]]]** Son derece **kibirli** olup, Tanrı’nın dediğine önem vermeyen insanlar, göğe erişecek kadar yüksek bir kule kurmakla uğraştılar.
+  ***[[:tr:obs:notes:frames:34-10|[34-10]]]** Sonra İsa şöyle dedi: “Size gerçeği söylüyorum: Tanrı, vergicinin duasını kabul etti ve kendisini doğru adam ilan etti. Din aliminin duası ise hoşuna gitmedi. Tanrı **kibirlenen** herkesi küçültür, kendini küçük gören herkesi ise yüceltir.”
 
 ~~DISCUSSION~~
 

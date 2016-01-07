@@ -1,15 +1,12 @@
-====== Ten Commandments ======
+====== On Emir ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-God told Moses many commands that He wanted the Israelites to obey. He wrote ten of these commands on two slabs of stone.
-
-  * These Ten Commandments were special commands to help the Israelites love and worship God and love other people.
-  * These commandments were also part of God's covenant with his people. By obeying what God had commanded them to do, the people of Israel would show that they loved God and belonged to him. 
+Tanrı Musa’ya İsraillilerin itaat etmelerini istediği birçok emri buyurdu. Bu emirlerden on tanesini iki taş levha üzerine yazdı.
+  * Bu On Emir İsraillilerin Tanrı’yı ve insanları sevmelerine ve Tanrı’ya tapınmalarına yardım edecek özel emirlerdi.
+  * Bu emirler ayrıca Tanrı’nın halkı ile ahdinin bir parçasıydı. Tanrı’nın onlara buyurduğuna itaat etmek suretiyle İsrail halkı Tanrı’yı sevdiklerini ve O’na ait olduklarını gösterecekti.
 
 (See also: [[en:obe:kt:lawofmoses]])
-
 
 ===== Bible References: =====
 
@@ -18,9 +15,9 @@ God told Moses many commands that He wanted the Israelites to obey. He wrote ten
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:13-07|[13-07]]]**  Then God wrote these **Ten Commandments** on two stone tablets and gave them to Moses.
-  ***[[:tr:obs:notes:frames:13-13|[13-13]]]**  When Moses came down the mountain and saw the idol, he was so angry that he smashed the stones on which God had written the **Ten Commandments**. 
-  ***[[:tr:obs:notes:frames:13-15|[13-15]]]**  Moses wrote the **Ten Commandments** on new stone tablets to replace the ones he had broken.
+  ***[[:tr:obs:notes:frames:13-07|[13-07]]]** Sonra Tanrı bu **On Emir**’i iki taş levha üzerine yazıp Musa’ya verdi.
+  ***[[:tr:obs:notes:frames:13-13|[13-13]]]** Musa dağdan aşağı inip putu gördüğünde çok öfkelendi ve üzerine Tanrı’nın **On Emir**’i yazdığı taş levhaları parçaladı.
+  ***[[:tr:obs:notes:frames:13-15|[13-15]]]** Musa parçaladığı taş levhaların yerine kestiği yeni taş levhalarda **On Emir**’i yazdı.
 
 ~~DISCUSSION~~
 

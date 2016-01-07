@@ -1,27 +1,25 @@
-====== priest, priesthood ======
+====== kâhin ======
 
-===== Definition: =====
+===== Tanım =====
 
-In the Bible, a priest was someone who was chosen to pray and offer sacrifices to God on behalf of God's people.
+Kutsal Kitap’ta kâhin, Tanrı’nın, halkı için dua etmek ve kendisine kurbanlar sunmak üzere seçtiği kişiydi.
+  * Eski Ahit’te Tanrı, Harun’u ve soyunu İsrail halkının kâhinleri olarak seçti.
+  * İsrailli kâhinlerin sorumluluğu, insanların Tanrı’ya verdikleri kurbanları sunmak ve tapınakta başka işler yapmaktı.
+  * Ayrıca kâhinler Tanrı’ya halkı için düzenli olarak dua ve diğer dinî törenleri yerine getirirdi.
+  * Kâhinler halkı resmen kutsar ve halka Tanrı’nın yasalarını öğretirlerdi.
+  * İsa’nın döneminde baş kâhinler ve onların üzerinde tek bir Baş Kâhin gibi değişik kâhinlik seviyeleri vardı.
+  * İsa, Tanrı’nın huzurunda bizim için aracılık yapan, büyük Baş Kâhinimiz’dir. O, günahın son kurbanı olarak kendini sundu. Dolayısıyla insani kâhinlerin sundukları kurbanlara artık ihtiyaç kalmadı.
+  * Ayrıca Tanrı, İsa’ya iman eden herkesi «kâhin» olarak adlandırıyor, çünkü her imanlı kâhin gibi duada doğrudan Tanrı’ya gelebilir ve hem kendisi hem de başkaları için aracılık yapabilir.
+  * Kutsal Kitap’ın yazıldığı zamanlarda ayrıca Baal gibi yalancı ilâhlara kurban sunan kâhinler de vardı.
 
-  * In the Old Testament, God chose Aaron and his descendants to be his priests for the people of Israel.
-  * The Israelite priests had the responsibility of offering the people's sacrifices to God, along with other duties in the temple.
-  * Priests also offered regular prayers to God on behalf of his people and performed other religious rites.
-  * The priests pronounced formal blessings on people and taught them God's laws.
-  * In Jesus' time, there were different levels of priests, including the chief priests and the high priest.
-  * Jesus is our Great High Priest who intercedes for us in God's presence. He offered himself as the ultimate sacrifice for sin. This means that the sacrifices made by human priests are no longer needed.
-  * God also calls every believer in Jesus a "priest" who can come directly to God in prayer to intercede for himself and other people.
-  * In Bible times, there were also priests who presented offerings to false gods such as Baal.
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * The term "priest" could be translated as "sacrifice person (for God)" or "God's intermediary" or "sacrificial mediator" or "person God appoints to represent him".
-  * The translation of "priest" should be different from the translation of "mediator."
-  * Some translations may prefer to always say something like, "Israelite priest" or "Jewish priest" or "Yahweh's priest" to make it clear that this does not refer to a modern-day type of priest.
-  * The term used to translate "priest" should be distinct from the terms for "chief priest" and "high priest" and "Levite" and "prophet."
+  * «Kâhin» sözcüğü «(Tanrı’ya) kurban sunan kişi», «Tanrı’nın aracı» ya da «Tanrı’nın kendisini temsil etmek üzere atadığı kişi» şeklinde çevrilebilir.
+  * «Kâhin»in çevirisi «aracı»nın çevirisiden farklı olmalı.
+  * Bazı çevirilerde bu terimin çağdaş kâhinlere ait olmadığını açıklamak için her zaman «İsrailli kâhin», «Yahudi kâhin» ya da «Yahve’nin kâhini» gibi sözlerin kullanması tercih edilebilir.
+  * «Kâhin» sözcüğünü çevirmek için kullanılan terim «baş kâhin», «Levili» ve «peygamber» terimlerinden farklı olmalı.
 
 (See also: [[en:obe:other:aaron]], [[en:obe:other:sacrifice]], [[en:obe:other:chiefpriests]], [[:tr:obe:kt:highpriest]], [[:tr:obe:other:mediator]])
-
 
 ===== Bible References: =====
 
@@ -30,9 +28,9 @@ In the Bible, a priest was someone who was chosen to pray and offer sacrifices t
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:04-07|[04-07]]]** "Melchizedek, the **priest** of God Most High"
-  ***[[:tr:obs:notes:frames:13-09|[13-09]]]** Anyone who disobeyed God's law could bring an animal to the altar in front of the Tent of Meeting as a sacrifice to God. A **priest** would kill the animal and burn it on the altar. The blood of the animal that was sacrificed covered the person's sin and made that person clean in God's sight. God chose Moses' brother, Aaron, and Aaron's descendants to be his **priests**.
-  ***[[:tr:obs:notes:frames:19-07|[19-07]]]** So the **priests** of Baal prepared a sacrifice but did not light the fire.
-  ***[[:tr:obs:notes:frames:21-07|[21-07]]]** An Israelite **priest** was someone who made sacrifices to God on behalf of the people as a substitute for the punishment of their sins. **Priests** also prayed to God for the people. 
+  ***[[:tr:obs:notes:frames:04-07|[04-07]]]** “Yüce Tanrı’nın **kâhini** Melkisedek”
+  ***[[:tr:obs:notes:frames:13-09|[13-09]]]** Tanrı’nın yasasına karşı itaatsizlik eden herkes Buluşma Çadırı’nın önündeki sunakta Tanrı’ya bir hayvanı kurban olarak sunabilirdi. **Kâhin** o hayvanı boğazlayıp sunakta yakardı. Hayvanın kanı o kişinin günahını örterek onu Tanrı’nın nazarında pak ederdi. Tanrı, Musa’nın kardeşi Harun’u ve soyunu **kâhinler** olmak üzere seçti.
+  ***[[:tr:obs:notes:frames:19-07|[19-07]]]** Bunun üzerine Baal’ın **kâhinleri** kurban hazırladılar, ama ateş yakmadılar.
+  ***[[:tr:obs:notes:frames:21-07|[21-07]]]** İsrailli **kâhinler**, günah işleyen halkın cezasının karşılığında Tanrı’ya kurban sunarlardı. **Kâhinler** ayrıca halk için Tanrı’ya dua ederlerdi.
 
 ~~DISCUSSION~~{{tag>publish ktobs}}

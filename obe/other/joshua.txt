@@ -1,22 +1,19 @@
-====== Joshua ======
+====== Yeşu ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-There were several Israelite men named Joshua in the Bible. The most well-known is Joshua son of Nun who was Moses' helper and who later became an important leader of God's people.
-
-  * Joshua was one of the twelve spies whom Moses sent to explore the Promised Land.
-  * Along with Caleb, Joshua showed his courage and trust in God when he encouraged the Israelites to obey God's command to enter the Promised Land and defeat the Canaanites.
-  * Many years later, after Moses died, God appointed Joshua to lead the people of Israel into the Promised Land.
-  * In the first and most famous battle against the Canaanites, Joshua led the Israelites to defeat the city of Jericho, as God had told him to do.
-  * The Old Testament book of Joshua was written about the events that happened during Joshua's leadership, including the conquest of the Promised Land and the division of the land for the tribes of Israel.
-  * A different man named Joshua is mentioned in the Old Testament books of Haggai and Zechariah. This Joshua was a high priest who helped rebuild the walls of Jerusalem. He was the son of Jozadak.
-  
+Kutsal Kitap’ta Yeşu adlı birkaç İsrailli kişi vardır. En ünlü olan, Musa’nın yardımcısı ve sonra Tanrı’nın halkının önemli önderi olan Nun oğlu Yeşu’ydu.
+  * Yeşu, Musa’nın Tanrı’nın vadettiği ülkeyi araştırsınlar diye gönderdiği on iki casuslardan biriydi.
+  * Kalev ve Yeşu cesaretle ve Tanrı’ya güvenerek İsraillileri teşvik etti ki, Tanrı’nın buyruğuna itaat etsinler, vadettiği ülkeye girip Kenanlıları bozguna uğratsınlar.
+  * Üstünden yıllar geçtikten ve Musa öldükten sonra Tanrı İsrail’i vadettiği ülkeye götürecek önder olarak Yeşu’yu atadı.
+  * Kenanlılara karşı birinci ve en ünlü savaşta İsrailliler, Yeşu’nun önderliğinde Tanrı’nın Yeşu’ya buyurduğu gibi Eriha kentini ele geçirdiler.
+  * Eski Ahit’te yer alan Yeşu bölümü, Yeşu’nun önderliği döneminde olup bitenlerden, yani Tanrı’nın vadettiği ülkenin fethi ve ülkenin İsrail’in on iki oymağı arasında bölünmesinden bahseder.
+  * Eski Ahit’in Hagay ve Zekeriya bölümlerinde Yeşu adındaki başka kişinin ismi geçer. O Yeşu, Yeruşalim’in surlarının yeniden inşa edilmesine yardım eden baş kâhindi. Yehosadak’ın oğluydu.
 
 (Translation suggestions: [[en:ta:vol1:translate:translate_names]])
 
 (See also: [[en:obe:other:moses]], [[en:obe:kt:promisedland]], [[:tr:obe:other:Jericho]], [[:tr:obe:other:Canaan]])
- 
+
 ===== Bible References: =====
 
 {{topic>:en:bible?joshua&nocomments}}
@@ -24,13 +21,12 @@ There were several Israelite men named Joshua in the Bible. The most well-known 
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:14-04|[14-04]]]** When the Israelites reached the edge of Canaan, Moses chose twelve men, one from each tribe of Israel. He gave the men instructions to go and spy on the land to see what it was like.
-  ***[[:tr:obs:notes:frames:14-06|[14-06]]]**  Immediately Caleb and **Joshua**, the other two spies, said, "It is true that the people of Canaan are tall and strong, but we can certainly defeat them!"
-  ***[[:tr:obs:notes:frames:14-08|[14-08]]]** Except for **Joshua** and Caleb, everyone who is twenty years old or older will die there and never enter the Promised Land."
-  ***[[:tr:obs:notes:frames:14-14|[14-14]]]** Moses was now very old, so God chose **Joshua** to help him lead the people.  
-  ***[[:tr:obs:notes:frames:14-15|[14-15]]]** **Joshua** was a good leader because he trusted and obeyed God. 
-  ***[[:tr:obs:notes:frames:15-03|[15-03]]]** After the people crossed the Jordan River, God told **Joshua** how to attack the powerful city of Jericho. 
-
+  ***[[:tr:obs:notes:frames:14-04|[14-04]]]** İsrailliler Kenan’ın sınırlarına varınca Musa İsrail’in her oymağından birer adam – toplam on iki kişi seçti. Ülkeyi araştırsınlar diye onları casus olarak gönderdi.
+  ***[[:tr:obs:notes:frames:14-06|[14-06]]]** Öbür iki kişi, Kalev ve **Yeşu**, hemen itiraz etti: “Kenanlılar gerçekten uzun boylu ve güçlüdürler, fakat biz onları mutlaka mağlup edeceğiz!”
+  ***[[:tr:obs:notes:frames:14-08|[14-08]]]** **Yeşu** ve Kalev hariç, yirmi ve daha yukarı yaşta olan herkes burada ölecek ve vadettiğim ülkeye giremeyecek.
+  ***[[:tr:obs:notes:frames:14-14|[14-14]]]** Musa’nın yaşı ilerlemişti ve Tanrı **Yeşu**’yu önder seçti.
+  ***[[:tr:obs:notes:frames:14-15|[14-15]]]** **Yeşu** Tanrı’ya güvendiği ve itaat ettiği için iyi bir önderdi.
+  ***[[:tr:obs:notes:frames:15-03|[15-03]]]** Halk Şeria Nehri’ni geçtikten sonra Tanrı **Yeşu**’ya kuvvetli Eriha kentine nasıl saldıracağını anlattı.
 
 ~~DISCUSSION~~
 

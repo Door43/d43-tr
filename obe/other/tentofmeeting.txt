@@ -1,17 +1,14 @@
-====== tent of meeting ======
+====== Buluşma Çadırı ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-When God gave his laws at Mount Sinai, he told the Israelites to make the tent of meeting. This was the holy place where he would meet with them. As they wandered through the wilderness, they would take it with them and set it up whenever God told them to do so.
-
-  * The tent of meeting was like a house made of cloth stretched over a wooden framework. 
-  * God told the people to set up the tent of meeting in the middle of a large courtyard surrounded by walls made of cloth and wood. 
-  * God told them to put the altar in front of the tent of meeting in the middle of the courtyard. The people could go into the courtyard to give offerings and sacrifices to God. The priests who were on duty would receive what the people brought and then offer it on the altar for a sacrifice as the law required. 
-  * The tent of meeting had a thick curtain hanging in the middle of it, which divided it into two rooms. The curtain was used as barrier to keep people from seeing the room on the other side, and to keep people from going into it. The first room was very holy, so only the priests could go into it. The second room was the most holy place, so only the high priest could go into it.
+Tanrı Sina Dağı’nda yasalarını verdiğinde İsraillilere Buluşma Çadırı kurmalarını söyledi. Orası Tanrı’nın onlarla buluşacağı kutsal yer olacaktı. İsrailliler çölde dolaştıkları sırada bu çadırı da beraberlerinde götürüp Tanrı’nın söylediği her yerde kururlardı.
+  * Buluşma Çadırı, tahta çerçeve üstüne gerilen kumaştan yapılan bir ev gibiydi. 
+  * Tanrı halkına kumaşla tahtadan yapılmış duvarlarla çevrili büyük bir avlunun ortasında Buluşma Çadırı’nı kurmasını söyledi. 
+  * Tanrı onlara avlunun ortasında Buluşma Çadırı’nın önünde bir sunak koymalarını söyledi. Halk avluya girip Tanrı’ya sunu ve kurban verebilirdi. Nöbette bulunan kâhinler insanların verdiklerini kabul eder ve sonra yasanın gerektirdiği gibi sunakta kurban olarak sunarlardı. 
+  * Buluşma Çadırı’nın ortasında onu iki odaya ayıran kalın bir perde asılıydı. Bu perde insanların öbür yandaki odayı görmelerini ve oraya girmelerini önlemek için kullanılırdı. Birinci oda yalnız kâhinlerin girebileceği çok kutsal yerdi. İkinci oda ise yanız baş kâhinin girebileceği en kutsal yerdi.
 
 (See also: [[en:obe:kt:priest]], [[en:obe:kt:highpriest]], [[sacrifice]])
-
 
 ===== Bible References: =====
 
@@ -20,10 +17,10 @@ When God gave his laws at Mount Sinai, he told the Israelites to make the tent o
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:13-08|[13-08]]]** God gave the Israelites a detailed description of a tent he wanted them to make. It was called the **Tent of Meeting**, and it had two rooms, separated by a large curtain. 
-  ***[[:tr:obs:notes:frames:13-09|[13-09]]]** Anyone who disobeyed God's law could bring an animal to the altar in front of the **Tent of Meeting** as a sacrifice to God. 
-  ***[[:tr:obs:notes:frames:14-08|[14-08]]]** God was very angry and came to the **Tent of Meeting**. 
-  ***[[:tr:obs:notes:frames:18-02|[18-02]]]** Instead of at the **Tent of Meeting**, people now worshiped God and offered sacrifices to him at the Temple. 
+  ***[[:tr:obs:notes:frames:13-08|[13-08]]]** Tanrı, İsraillilere kurmaları gereken çadırın detaylı tasvirini verdi. Bunu **Buluşma Çadırı** olarak adlandırdı. Çadırın içinde büyük bir perdeyle ayrılan iki oda vardı.
+  ***[[:tr:obs:notes:frames:13-09|[13-09]]]** Tanrı’nın yasasına karşı itaatsizlik eden herkes **Buluşma Çadırı**’nın önündeki sunakta Tanrı’ya bir hayvanı kurban olarak sunabilirdi.
+  ***[[:tr:obs:notes:frames:14-08|[14-08]]]** Tanrı çok öfkelendi ve **Buluşma Çadırı**’na geldi.
+  ***[[:tr:obs:notes:frames:18-02|[18-02]]]** Halk artık **Buluşma Çadırı**’nda değil Tapınak’ta Tanrı’ya tapınıyor ve kurban sunuyordu.
 
 ~~DISCUSSION~~
 

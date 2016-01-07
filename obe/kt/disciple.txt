@@ -1,22 +1,19 @@
-====== disciple ======
+====== öğrenci ======
 
+===== Tanım =====
 
-===== Definition: =====
+«Öğrenci», öğretmeni izleyen ve ondan öğrenen bir kişidir.
+  * İsa’yı izleyerek öğretilerini dinleyip yerine getiren insanlar «öğrenciler» adlandırılmıştır. Vaftizci Yahya’nın da öğrencileri vardı.
+  * İsa’nın hizmeti sırasında değişik zamanlarda O’nu izleyen ve öğretisini dinleyen çok öğrencisi oldu.
+  * İsa, kendisini izleyen çok öğrenciden on iki en yakın takipçisini «havari» olarak seçti. İsa’nın on iki öğrencisi aynı amanda «öğrenciler» adlanmaya devam etti.
+  * İsa göğe alınmadan önce öğrencilerine emretti ki, başka insanlar da O’nun öğrencisi olsun diye onlara öğretsinler.
+  * Günümüzde bile İsa’ya iman iman ve öğretisine itaat eden herkes İsa’nın öğrencisi (ya da şakirdi, talebesi) adlanıyor.
 
-The term "disciple" refers to a person who follows a teacher and learns from him.
+===== Çeviri için öneriler =====
 
-  * The people who followed Jesus around, listening to his teachings and obeying them, were called his "disciples." John the Baptist also had disciples.
-  * At different times during Jesus' ministry, there were many disciples who followed him and heard his teachings.
-  * From among the many disciples who followed Jesus, he chose twelve to be his closest followers; these men became known as his "apostles." Jesus' twelve apostles continued to also be called "disciples."
-  * Just before Jesus went up to heaven, he commanded his disciples to teach other people about him so that those people could become his disciples, too.
-  * In modern times as well, anyone who believes in Jesus and obeys his teachings is also called a disciple of Jesus.
-
-
-===== Translation Suggestions: =====
-
-  * The term "disciple" could be translated by a word or phrase that means "follower" or "student" or "pupil" or "learner."
-  * Make sure that the translation of this term does not refer only to a student who learns in a classroom.
-  * The translation of this term should be different from the translation of "apostle."
+  * «Öğrenci» terimi «takipçi», «öğrenen» anlamına gelen herhangi bir terim ya da ifade ile çevrilebilir.
+  * Bu terimin çevirisinin sadece bir dershanede ya da okulda eğitim alan öğrenciye ait olmamasına dikkat edin.
+  * Bu terimin çevirisi «havari» teriminin çevirisinden farklı olmalı.
 
 (See also: [[en:obe:kt:apostle]], [[en:obe:kt:believer]], [[:tr:obe:kt:jesus]], [[:En:obe:other:johnthebaptist]])
 
@@ -27,10 +24,10 @@ The term "disciple" refers to a person who follows a teacher and learns from him
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:30-08|[30-08]]]** He (Jesus) gave the pieces to his **disciples** to give to the people. The **disciples** kept passing out the food, and it never ran out!
-  ***[[:tr:obs:notes:frames:38-01|[38-01]]]** About three years after Jesus first began preaching and teaching publicly, Jesus told his **disciples** that he wanted to celebrate this Passover with them in Jerusalem, and that he would be killed there.
-  ***[[:tr:obs:notes:frames:38-11|[38-11]]]** Then Jesus went with his **disciples** to a place called Gethsemane. Jesus told his **disciples** to pray that they would not enter into temptation.
-  ***[[:tr:obs:notes:frames:42-10|[42-10]]]** Jesus said to his **disciples**, "All authority in heaven and on earth has been given to me. So go, make **disciples** of all people groups by baptizing them in the name of the Father, the Son, and the Holy Spirit, and by teaching them to obey everything I have commanded you."
+  ***[[:tr:obs:notes:frames:30-08|[30-08]]]** Sonra İsa ekmeklerle balıkları parçalara böldü, parçaları halka dağıtsınlar diye **havarilerine** verdi. **Havariler** yiyeceği dağıtmaya devam etti ve yiyecek hiç bitmedi!
+  ***[[:tr:obs:notes:frames:38-01|[38-01]]]** İsa halka vazetmeye ve öğretmeye başladıktan üç yıl sonra **havarilerine** onlarla beraber Yeruşalim’de Fısıh Bayramı’nı kutlamak istediğini ve orada öldürüleceğini söyledi.​
+  ***[[:tr:obs:notes:frames:38-11|[38-11]]]** Sonra İsa **havarileriyle** birlikte Getsemani denen yere gitti. İsa, **havarilerine** ayartılmamak için dua etmelerini söyledi.
+  ***[[:tr:obs:notes:frames:42-10|[42-10]]]** İsa **imanlılara** şöyle dedi: “Gökte ve yerde bütün yetki bana verildi. Bu yüzden gidin, bütün milletleri **imanlı** olarak yetiştirin. Onları Baba, Oğul ve Kutsal Ruh adıyla vaftiz edin. Size emrettiğim her şeye itaat etmeyi öğretin. Unutmayın, ben her zaman sizinle olacağım!”
 
 ~~DISCUSSION~~
 

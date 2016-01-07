@@ -1,22 +1,21 @@
-====== curse, cursed ======
+====== lanet ======
 
-===== Definition: =====
+===== Tanım =====
 
-The term "curse" means to cause negative things to happen to the person or thing that is being cursed.
+«Lanetlemek» sözcüğü, lanetlenen kişiye ya da bir şeye olumsuz şeylerin olmasına sebep olmak anlamına gelir.
+  * Lanet, birine ya da bir şeye bir zararın geleceğine dair söylenen söz olabilir.
+  * Birini lanetlemek ayrıca onun başına bir kötülüğün gelmesini arzu ettiğini bildirmek anlamına gelebilir.
+  * Ayrıca bir cezaya ya da birinin başkasının başına gelmesini sağladığı olumsuz şeylere ait olabilir.
 
-  * A curse can be a statement that harm will happen to someone or something.
-  * To curse someone can also be an expression of desire that bad things will happen to them.
-  * It can also refer to the punishment or other negative things that someone causes to happen to someone.
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * This term could be translated as "cause bad things to happen to" or "declare that something bad will happen to" or "swear to cause evil things to happen to."
-  * In the context of God sending curses on his disobedient people, it could be translated as, "punish by allowing bad things to happen."
-  * The term "cursed" when used to describe people could be translated as, "(this person) will experience much trouble."
-  * The phrase "cursed be" could be translated as, "May (this person) experience great difficulties."
-  * The phrase, "Cursed is the ground" could be translated as, "The soil will not be very fertile."
-  * "Cursed be the day I was born" could also be translated as, "I am so miserable it would have been better not to be born."
-  * However, if the target language has the phrase "cursed be" and it has the same meaning, then it is good to keep the same phrase.
+  * Bu terim şöyle çevrilebilir: «birinin başına kötülüğün gelmesini sağlamak», «birinin başına kötülüğün geleceğini ilan etmek» ya da «birinin başına kötülüğün gelmesini sağlamak için küfür etmek.»
+  * Tanrı’nın itaatsiz halkın üzerine lanet göndermesi bağlamında bu ayrıca «kötülüğün olmasını sağlayarak cezalandırmak» şeklinde çevrilebilir.»
+  * İnsanlar hakkında kullanılan «lanetli» terimi şöyle çevrilebilir: «(Bu insan) çok sorun yaşayacak.»
+  * «Lanet olsun!» sözü «(Bu insan) çok zorluk yaşasın!»
+  * «Toprak lanetlidir» ifadesi «Toprak pek verimli olmayacak» şeklinde de çevrilebilir.
+  * «Doğduğum güne lanet olsun!» ifadesi ayrıca şöyle çevrilebilir: «Ben o kadar mutsuzum ki, hiç doğmamış olmayı yeğlerdim!»
+  * Fakat hedef dilde aynı anlamda kullanılan «lanet olsun!» sözü varsa, onu kullanmak iyidir.
 
 (See also: [[:tr:obe:kt:bless|bless, blessed, blessing]])
 
@@ -26,9 +25,10 @@ The term "curse" means to cause negative things to happen to the person or thing
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:02-09|[02-09]]]** God said to the snake, "You are **cursed**!"
-  * **[[:tr:obs:notes:frames:02-11|[02-11]]]**"Now the ground is **cursed**, and you will need to work hard to grow food."
-  * **[[:tr:obs:notes:frames:04-04|[04-04]]]**"I will bless those who bless you and **curse**  those who **curse**  you."
-  * **[[:tr:obs:notes:frames:39-07|[39-07]]]** Then Peter vowed, saying, "May God **curse**  me if I know this man!"
-  * **[[:tr:obs:notes:frames:50-16|[50-16]]]** Because Adam and Eve disobeyed God and brought sin into this world, God **cursed**  it and decided to destroy it.
+  ***[[:tr:obs:notes:frames:02-09|[02-09]]]** Tanrı yılana şöyle dedi: “Sen **lanetlisin**!”
+  ***[[:tr:obs:notes:frames:02-11|[02-11]]]** “Bu yüzden toprak **lanetlendi**, artık yiyecek bulmak için çok emek harcaman gerekecek.”
+  ***[[:tr:obs:notes:frames:04-04|[04-04]]]** “Seni kutsayanları kutsayacak, seni **lanetleyenleri** **lanetleyeceğim**.”
+  ***[[:tr:obs:notes:frames:39-07|[39-07]]]** Bunun üzerine Petrus yemin ederek, “Bu adamı tanıyorsam Tanrı beni **lanetlesin**!” dedi.
+  ***[[:tr:obs:notes:frames:50-16|[50-16]]]** Adem’le Havva Tanrı’ya karşı itaatsiz olup dünyaya günah getirdikleri için Tanrı dünyayı **lanetledi**, yok etmeye karar verdi.
+
 ~~DISCUSSION~~{{tag>publish ktobs}}

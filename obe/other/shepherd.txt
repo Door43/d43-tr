@@ -1,21 +1,14 @@
-====== shepherd, to shepherd ======
+====== çoban ======
 
-===== Definition: =====
+===== Tanım =====
 
-A shepherd is a person who takes care of sheep. The verb "to shepherd" means to tend or care for sheep. This term is often used metaphorically in the Bible to refer to taking care of people's needs, both physically and spiritually.
-
-  * The shepherd may be the owner of the sheep, or he may be someone who is hired by their owner.
-  * In Bible times, shepherds often tended the sheep outdoors, leading them to places with good food and water. Shepherds also keep the sheep from getting lost and protect them from wild animals.
-  * In the Old Testament, God is called the shepherd of his people because he takes care of all their needs and protects them.
-  * In the New Testament, Jesus calls himself the "good shepherd" who cares for those who follow him.
-  * Also in the New Testament, the term "shepherd" is used to refer to a spiritual leader over other believers.
-  * The term "pastor" is the same word as "shepherd."
-
-===== Translation Suggestions =====
-
-  * This term could be translated as, "person who takes care of sheep" or "sheep tender" or "sheep caregiver."
-  * When used as a metaphor, different ways to translate this term could include, "spiritual shepherd" or "who is like a shepherd" or "who cares for his people like a shepherd cares for his sheep," depending on the context.
-  * Ways to translate the verb, "to shepherd" (a flock) could include, "to take care of" or "to spiritually nourish" or "to guide and teach like a spiritual shepherd."
+Çoban, koyunları güden biridir. «Çobanlık etmek» demek, koyunları kollamak ya da kayırmak demektir. Bu söz Kutsal Kitap’ta sık sık mecazi anamda insanların hem fiziksel hem de ruhsal ihtiyaçlarını karşılamak anlamında <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>kullanılır</font>    .
+  * Çoban koyunların sahibi olan ya da sahibi tarafından görevlendirilen biri olabilir.
+  * Kutsal Kitap’ın yazıldığı zamanlarda çobanlar çoğunlukla koyunları dışarıda güder, iyi otlak ve su olan yerlere götürürlerdi. Çobanlar ayrıca koyunları kaybolmaktan ve vahşi hayvanlardan korurlar.
+  * Eski Ahit’te Tanrı kendi halkının çobanı olarak adlandırılır, çünkü bütün ihtiyaçlarını sağlar ve onları korur.
+  * Yeni Ahit’te İsa kendine O’nu izleyenleri kayıran «İyi Çoban» der.
+  * Ayrıca Yeni Ahit’te «çoban» terimi başka imanlıları yöneten ruhsal önder anlamında kullanılır.
+  * «Pastör» sözcüğü «çoban» ile aynı anlama gelir.
 
 (See also: [[:tr:obe:other:sheep|sheep, ram]], [[:tr:obe:kt:pastor|pastor]], [[:tr:obe:kt:believer|believer]])
 
@@ -25,9 +18,10 @@ A shepherd is a person who takes care of sheep. The verb "to shepherd" means to 
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:09-11|[09-11]]]** Moses became a **shepherd**  in the wilderness far away from Egypt.
-  * **[[:tr:obs:notes:frames:17-02|[17-02]]]** David was a **shepherd**  from the town of Bethlehem. At different times while he was watching his father's sheep, David had killed both a lion and a bear that had attacked the sheep.
-  * **[[:tr:obs:notes:frames:23-06|[23-06]]]** That night, there were some **shepherds**  in a nearby field guarding their flocks.
-  * **[[:tr:obs:notes:frames:23-08|[23-08]]]** The **shepherds**  soon arrived at the place where Jesus was and they found him lying in a feeding trough, just as the angel had told them.
-  * **[[:tr:obs:notes:frames:30-03|[30-03]]]** To Jesus, these people were like sheep without a **shepherd**.
+  ***[[:tr:obs:notes:frames:09-11|[09-11]]]** Musa Mısır’dan uzak bir çölde **çoban** oldu.
+  ***[[:tr:obs:notes:frames:17-02|[17-02]]]** Davut Beytlehem kentinden bir **çobandı**. Babasının sürülerine baktığı sırada koyunlara saldıran aslanı ve ayıyı öldürdüğü zamanlar olmuştu.
+  ***[[:tr:obs:notes:frames:23-06|[23-06]]]** O gece o yörede sürülerini güden **çobanlar** vardı.
+  ***[[:tr:obs:notes:frames:23-08|[23-08]]]** Çok geçmeden **çobanlar** İsa’nın olduğu yere vardılar. Meleğin dediği gibi yemlikte yatan İsa’yı bulunca sevinçten coştular.
+  ***[[:tr:obs:notes:frames:30-03|[30-03]]]** İsa, **çobansız** bir sürüye benzeyen bu halka çok acıdı.
+
 ~~DISCUSSION~~{{tag>publish ktobs}}

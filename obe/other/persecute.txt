@@ -1,17 +1,14 @@
-====== persecute, persecution ======
+====== zulmetmek ======
 
+===== Tanım =====
 
-===== Definition: =====
-
-To persecute someone is to repeatedly attack him or to treat him cruelly.
-
-    * It is possible to persecute a single person, a small group of people, or even a large number of people.
-    * The Jewish religious leaders persecuted Jesus because they did not like what he was teaching.
-    * After Jesus went back to heaven, the Jewish religious leaders and the Roman government persecuted the Christians. However, the believers refused to stop preaching and teaching about Jesus, and the Church continued to grow.
-    * Other words for "persecution" are "mistreatment" or, "abuse" or, "oppression" or, "hostility."
+Birine zulmetmek demek, o kişiye tekrar tekrar saldırmak ya da ona acımasızca davranmak demektir.
+  * Tek kişiye zulmetmek mümkün olduğu gibi, küçük ve hatta büyük bir gruba zulmetmek mümkündür.
+  * Yahudi din alimleri İsa’nın öğrettiklerini beğenmedikleri için İsa’ya zulmettiler.
+  * İsa göğe alındıktan sonra Yahudi din alimleri ve Roma hükûmeti Mesih inanlılarına zulmettiler. Fakat imanlılar İsa’yı ilan etmekten vazgeçmek istemediler ve Kilise büyümeye devam etti.
+  * Zulüm anlamında kullanılan diğer sözler «sıkıntı», «düşmanlık» ya da «kötü muamele» olabilir.
 
 (See also: [[jewishleaders]], [[rome]], [[en:obe:kt:christian]], [[en:obe:kt:church]])
-
 
 ===== Bible References: =====
 
@@ -20,10 +17,10 @@ To persecute someone is to repeatedly attack him or to treat him cruelly.
 
 ===== Examples from the Bible stories: =====
 
-    * **[[:tr:obs:notes:frames:33-07|[33-07]]]** "The rocky ground is a person who hears God's word and accepts it with joy. But when he experiences hardship or **persecution**, he falls away."
-    * **[[:tr:obs:notes:frames:45-06|[45-06]]]** That day many people in Jerusalem started **persecuting** the followers of Jesus, so the believers fled to other places. 
-    * **[[:tr:obs:notes:frames:46-02|[46-02]]]** Saul heard someone say, "Saul! Saul! Why do you **persecute** me?" Saul asked, "Who are you, Master?" Jesus replied to him, "I am Jesus. You are **persecuting** me!"
-    * **[[:tr:obs:notes:frames:46-04|[46-04]]]** But Ananias said, "Master, I have heard how this man has **persecuted** the believers."
+  ***[[:tr:obs:notes:frames:33-07|[33-07]]]** “Kayalık yer, Tanrı’nın sözünü duyup sevinçle kabul eden kişidir. Fakat zorluk ya da **sıkıntı** ile karşılaşınca hemen imandan döner.”
+  ***[[:tr:obs:notes:frames:45-06|[45-06]]]** O günlerde Yeruşalim’deki insanların çoğu İsa’nın takipçilerine **zulmetmeye** başladı ve imanlılar başka yerlere kaçtılar.
+  ***[[:tr:obs:notes:frames:46-02|[46-02]]]** “Saul, Saul, neden bana **zulmediyorsun**?” diyen bir ses duydu. Saul, “Sen kimsin, Efendim?” diye sordu. İsa ona cevap verdi: “Ben İsa’yım. Sen bana **zulmediyorsun**!”
+  ***[[:tr:obs:notes:frames:46-04|[46-04]]]** Ama Hananya, “Ya Rab, bu adamın imanlılara ne kadar **zulmettiğini** duydum.” dedi.
 
 ~~DISCUSSION~~
 

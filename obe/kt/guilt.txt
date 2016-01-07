@@ -1,16 +1,15 @@
-====== guilt, guilty ======
+====== suç ======
 
-===== Definition: =====
+===== Tanım =====
 
-The term "guilt" refers to the fact of having sinned or committed a crime.
+«Suçluluk» terimi günah ya da suç işleme olgusuna aittir.
+  * «Suçlu olmak» demek, ahlak açısından yanlış bir şey yapmış, yani Tanrı’ya itaatsizlik etmiş olmak demektir.
+  * «Suçlu» sözcüğünün zıddı «suçsuz»dur.
 
-  * To "be guilty" means to have done something morally wrong, that is, to have disobeyed God.
-  * The opposite of "guilty" is "innocent."
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * Some languages might translate "guilt" as "the weight of one's sins" or "the counting of one's sins."
-  * Ways to translate "to be guilty" could include a word or phrase that means, "to be at fault" or "having done something morally wrong" or "having committed a sin."
+  * Bazı dillerde «suç» teriminin çevirisi şöyle olabilir: «günahlarının ağır yükü» ya da «günahlarının sayılması.»
+  * «Suçlu olmak» sözünün çevirisi, «kabahatli olmak», «ahlak açısından yanlış bir şey yapmış olmak» ya da «günah işlemiş olmak» anlamına gelen bir sözcük ya da ifade ile yapılabilir.
 
 (See also: [[:tr:obe:kt:innocent|innocent]], [[:tr:obe:kt:sin|sin, sinful, sinner]], [[:tr:obe:other:punish|punish, punishment]])
 
@@ -20,10 +19,11 @@ The term "guilt" refers to the fact of having sinned or committed a crime.
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:39-02|[39-02]]]** They brought many witnesses who lied about him (Jesus). However, their statements did not agree with each other, so the Jewish leaders could not prove he was **guilty**  of anything.
-  * **[[:tr:obs:notes:frames:39-11|[39-11]]]** After speaking with Jesus, Pilate went out to the crowd and said, "I find no **guilt**  in this man." But the Jewish leaders and the crowd shouted, "Crucify him!" Pilate replied, "He is not **guilty**." But they shouted even louder. Then Pilate said a third time, "He is not **guilty**!"
-  * **[[:tr:obs:notes:frames:40-04|[40-04]]]** Jesus was crucified between two robbers. One of them mocked Jesus, but the other said, "Don't you fear God? We are **guilty**, but this man is innocent.
-  * **[[:tr:obs:notes:frames:49-10|[49-10]]]** Because of your sin, you are **guilty**  and deserve to die.
+  ***[[:tr:obs:notes:frames:39-02|[39-02]]]** O’nu (İsa’yı) yalan yere suçlayan birçok yalancı şahit getirdiler. Ancak şahitlerin ifadeleri birbirini tutmadığı için Yahudi ileri gelenleri İsa’nın **suçlu** olduğunu bir türlü kanıtlayamadılar.
+  ***[[:tr:obs:notes:frames:39-11|[39-11]]]** İsa’yla konuştuktan sonra Pilatus halkın önüne çıktı. “Ben bu adamda hiçbir **suç** görmüyorum.” dedi. Fakat Yahudi ileri gelenleri ve kalabalık, “O’nu çarmıha ger!” diye bağırdılar. Pilatus, “Ama O **suçsuzdur**!” diye karşılık verdi. Halk daha yüksek sesle bağırdı. Pilatus üçüncü kez, “O **suçsuzdur**!” dedi.
+  ***[[:tr:obs:notes:frames:40-04|[40-04]]]** İsa iki mahkûm arasında çarmıha gerildi. Mahkûmlardan biri İsa’yla alay etti, diğeri ise, “Sen hiç Tanrı’dan korkmuyor musun? Biz **suçluyuz**, bu adam ise suçsuz.” dedi.
+  ***[[:tr:obs:notes:frames:49-10|[49-10]]]** Sen kendi günahın sebebiyle **suçlusun** ve ölmeyi hak edersin.
+
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~

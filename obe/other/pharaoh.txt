@@ -1,13 +1,12 @@
-====== Pharaoh, king of Egypt ======
+====== Firavun ======
 
-===== Facts: =====
+===== Gerçeklikler =====
 
-In ancient times, the kings who ruled over the country of Egypt were called pharaohs.
-
-  * Altogether, over 300 pharaohs ruled Egypt for more than 2,000 years.
-  * These Egyptians kings were very powerful and wealthy.
-  * Several of these pharaohs are mentioned in the Bible.
-  * Often this title is used as a name rather than as a title. In these cases, it is capitalized as "Pharaoh."
+Eski zamanlarda Mısır ülkesini yöneten krallara firavun denirdi.
+  * 2.000 yıldan uzun bir sürede toplam 300’den fazla firavun Mısır’ı yönetmiştir.
+  * Bu Mısırlılar çok güçlü ve zenginlerdi.
+  * Bu firavunlardan bazısından Kutsal Kitap’ta söz edilir.
+  * Firavun unvanı sıkça unvan değil isim olarak kullanılır. O zaman büyük harfle «Firavun» şeklinde yazılabilir.
 
 (Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
 
@@ -19,11 +18,12 @@ In ancient times, the kings who ruled over the country of Egypt were called phar
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:08-06|[08-06]]]** One night, the **Pharaoh**, which is what the Egyptians called their kings, had two dreams that disturbed him greatly.
-  * **[[:tr:obs:notes:frames:08-08|[08-08]]]****Pharaoh**  was so impressed with Joseph that he appointed him to be the second most powerful man in all of Egypt!
-  * **[[:tr:obs:notes:frames:09-02|[09-02]]]** So the **Pharaoh**  who was ruling over Egypt at that time made the Israelites slaves to the Egyptians.
-  * **[[:tr:obs:notes:frames:09-13|[09-13]]]**"I will send you to **Pharaoh**  so that you can bring the Israelites out of their slavery in Egypt."
-  * **[[:tr:obs:notes:frames:10-02|[10-02]]]** Through these plagues, God showed **Pharaoh **  that he is more powerful than **Pharaoh**  and all of Egypt's gods.
+  ***[[:tr:obs:notes:frames:08-06|[08-06]]]** Bir gece **firavun** -Mısırlılar krallarına firavun derlerdi- kendini son derece endişelendiren iki rüya görmüştü.
+  ***[[:tr:obs:notes:frames:08-08|[08-08]]]** **Firavun** Yusuf’a o kadar hayran oldu ki onu bütün Mısır’da ikinci güç sahibi olarak tayin etti!
+  ***[[:tr:obs:notes:frames:09-02|[09-02]]]** Bu yüzden o dönemde Mısır’ı yöneten **firavun** İsraillileri köleleştirdi.
+  ***[[:tr:obs:notes:frames:09-13|[09-13]]]** “Seni **firavunun** yanına göndereceğim ve sen İsraillileri Mısır’daki esaretten kurtaracaksın.”
+  ***[[:tr:obs:notes:frames:10-02|[10-02]]]** Bu belalar vasıtasıyla Tanrı **firavundan** ve bütün Mısır ilâhlarından güçlü olduğunu gösterdi.
+
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~

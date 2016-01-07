@@ -1,21 +1,16 @@
-====== Isaac ======
+====== İshak ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-
-Isaac was the son that God promised to give Abraham and Sarah even though they were very old.
-
-
-    * God promised that the covenant that he had made with Abraham would extend to Isaac and to all of Isaac's descendants forever.
-    * God tested Abraham's faith by telling him to sacrifice Isaac.
-    * Isaac's son Jacob had twelve sons. Their descendants later became the twelve tribes of the nation of Israel.
-    * Isaac means "he laughs." When God told Abraham that he and Sarah would have a child, he laughed because they were both very old.
+İshak, Tanrı’nın yaşlı olmalarına rağmen İbrahim’le Sara’ya vereceğini vadettiği oğuldur.
+  * Tanrı, İbrahim’le yaptığı ahdin İshak ve İshak’ın tüm soyu ile ebediyen süreceğini vadetti.
+  * Tanrı İbrahim’e İshak’ı kurban vermeyi buyurarak imanını denedi.
+  * İshak’ın oğlu Yakup’un on iki oğlu vardı. Onların soyları daha sonra İsrail halkının on iki oymağı oldular.
+  * İshak, «güler» anlamına gelir. Tanrı İbrahim’e Sara’yla kendisine bir evlat vereceğini söyleyince ikisi de çok yaşlı olduğu için bu söz İbrahim’i güldürdü.
 
 (Translation suggestions: [[en:ta:vol1:translate:translate_names]])
 
 (See also: [[en:obe:other:abraham]], [[sarah]], [[jacob]])
-
 
 ===== Bible References: =====
 
@@ -24,12 +19,12 @@ Isaac was the son that God promised to give Abraham and Sarah even though they w
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:05-04|[05-04]]]** "Your wife, Sarai, will have a son—he will be the son of promise. Name him **Isaac**."
-  ***[[:tr:obs:notes:frames:05-06|[05-06]]]** When **Isaac** was a young man, God tested Abraham's faith by saying, "Take **Isaac**, your only son, and kill him as a sacrifice to me."
-  ***[[:tr:obs:notes:frames:05-09|[05-09]]]** God had provided the ram to be the sacrifice instead of **Isaac**.
-  ***[[:tr:obs:notes:frames:06-01|[06-01]]]** When Abraham was very old and his son, **Isaac**, had grown to be a man, Abraham sent one of his servants back to the land where his relatives lived to find a wife for his son, **Isaac.** 
-  ***[[:tr:obs:notes:frames:06-05|[06-05]]]** **Isaac** prayed for Rebekah, and God allowed her to get pregnant with twins.
-  ***[[:tr:obs:notes:frames:07-10|[07-10]]]** Then **Isaac** died, and Jacob and Esau buried him. The covenant promises God had promised to Abraham and then to **Isaac** now passed on to Jacob.
+  ***[[:tr:obs:notes:frames:05-04|[05-04]]]** “Karın Saray’ın bir oğlu olacak ve o, vadedilen oğul olacak. Adını **İshak** koyacaksın.”
+  ***[[:tr:obs:notes:frames:05-06|[05-06]]]** **İshak** hâlâ çocuk iken Tanrı İbrahim’in imanını denedi. “Biricik oğlunu, **İshak**’ı al, bana kurban olarak sun.” dedi.
+  ***[[:tr:obs:notes:frames:05-09|[05-09]]]** Tanrı, **İshak**’ın yerine kurban verilsin diye bu koçu sağlamıştı.
+  ***[[:tr:obs:notes:frames:06-01|[06-01]]]** İbrahim iyice yaşlanmış, oğlu **İshak** genç adam olmuştu. Bir gün İbrahim, uşaklarından birini oğlu **İshak**’ın evleneceği kızı getirsin diye akrabalarının yaşadıkları ülkeye gönderdi.
+  ***[[:tr:obs:notes:frames:06-05|[06-05]]]** **İshak** Rebeka için dua etti ve Tanrı, ikiz bebeğe hamile kalmasını sağladı.
+  ***[[:tr:obs:notes:frames:07-10|[07-10]]]** Sonra **İshak** öldü ve Yakup’la Esav onu gömdüler. Tanrı’nın ahdinde İbrahim’e verdiği vaatler bundan sonra **İshak**’tan Yakup’a geçti.
 
 ~~DISCUSSION~~
 

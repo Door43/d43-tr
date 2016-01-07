@@ -1,20 +1,17 @@
-====== deliver, deliverer ======
+====== kurtarmak ======
 
-===== Definition: =====
+===== Tanım =====
 
-To "deliver" someone means to rescue that person. The term  "deliverer" refers to someone who rescues or frees people from slavery, oppression, or other dangers.
+«Kurtarıcı», insanları kölelikten, zulümden ve başka tehlikelerden kurtaran kişi anlamına gelir.
+  * Eski Ahit’te Tanrı İsraillileri onlara saldıran diğer halklara karşı savaşlarda onları korusunlar diye kurtarıcıları gönderirdi.
+  * Bu kurtarıcılara ayrıca «hakimler» denirdi ve Eski Ahit’in Hakimler bölümü bu kurtarıcıların İsrail’i yönettikleri tarihî dönemden bahseder.
+  * Tanrı’nın kendisi de «kurtarıcı» olarak adlandırılır. İsrail’in tarihi boyunca Tanrı halkını düşmanlarından defalarca kurtarırdı.
 
-  * In the Old Testament, God appointed deliverers to protect the Israelites by leading them in battle against other people groups who came to attack them.
-  * These deliverers were also called "judges" and the Old Testament book of Judges records the time in history when these judges were governing Israel.
-  * God is also called a "deliverer." Throughout the history of Israel, he delivered or rescued his people from their enemies.
-  * In certain contexts, the term "deliver" means to hand over to an enemy, such as when Judas delivered Jesus over to the Jewish leaders.
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * In the context of helping people escape from their enemies, the term "deliver" can be translated as "rescue" or "liberate" or "save."
-  * When it means to give someone to the enemy, "deliver" can be translated as "hand over" or "give over."
-  * The word "deliverer" can also be translated as, "rescuer" or "liberator."
-  * When the term "deliverer" refers to the judges who led Israel, it could also be translated as "governor" or "judge" or "leader."
+  * Düşmanlarından kurtulmasını sağlamak anlamında kullanılan «kurtarmak» sözcüğü ayrıca «özgür kılmak» olarak da çevrilebilir.
+  * «Kurtarıcı» sözcüğü de «kurtaran», «özgür kılan» olarak çevrilebilir.
+  * «Kurtarıcı» İsrail’i yöneten hakimlere ait olarak kullanıldığında «yönetici», «hakim» ya da «önder» olarak da çevrilebilir.
 
 (See:  [[:tr:obe:kt:judge]], [[:tr:obe:kt:save]])
 
@@ -24,9 +21,10 @@ To "deliver" someone means to rescue that person. The term  "deliverer" refers t
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:16-03|[16-03]]]** Then God provided a **deliverer**  who rescued them from their enemies and brought peace to the land.
-  * **[[:tr:obs:notes:frames:16-16|[16-16]]]** They (Israel) finally asked God for help again, and God sent them another **deliverer**.
-  * **[[:tr:obs:notes:frames:16-17|[16-17]]]** Over many years, God sent many **deliverers**  who saved the Israelites from their enemies.
+  ***[[:tr:obs:notes:frames:16-03|[16-03]]]** O zaman Tanrı, halkını düşmanlarından kurtaracak ve ülkeye selâmet getirecek **kurtarıcılar** gönderirdi.
+  ***[[:tr:obs:notes:frames:16-16|[16-16]]]** Sonunda halk tekrar Tanrı’dan yardım diledi ve Tanrı başka bir **kurtarıcı** gönderdi.
+  ***[[:tr:obs:notes:frames:16-17|[16-17]]]** Tanrı yıllar boyunca İsraillileri düşmanlarından kurtaran çok **kurtarıcı** göndermiştir.
+
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~

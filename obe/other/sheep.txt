@@ -1,13 +1,12 @@
-====== sheep, ram, ewe ======
+====== koyun ======
 
-===== Definition: =====
+===== Tanım =====
 
-A sheep is a medium-sized animal with four legs that has wool all over its body. The male sheep is called a ram. A young sheep is called a lamb.
-
-  * The Israelites often used rams and lambs for sacrifices.
-  * People eat meat from sheep and use their wool to make clothing and other things.
-  * Sheep are very trusting, weak, and timid. They are easily influenced to wander away. They need a shepherd to lead them in the right direction, to protect them, and to provide them with food, water, and shelter.
-  * In the Bible, people are compared to sheep who have God as their shepherd.
+Koyun, bütün bedeni yünle kaplı olan orta boylu dört ayaklı bir hayvandır. Koyunun erkeğine koç derler. Koyunun yavrusuna kuzu derler.
+  * İsrailliler kurban olarak çoğu zaman koç ve kuzu sunarlardı.
+  * İnsanlar koyun etini yer ve yününü giysi ve diğer eşyaların üretiminde kullanırlar.
+  * Koyun, çok kolay inanan, zayıf ve korkak hayvandır. Kolayca etkilenir, yoldan saptırılır. Koyunların doğru yönde gitmeleri, korunmaları, yiyecek, su ve barınakla sağlanmaları için çobana ihtiyaçları var.
+  * Kutsal Kitap’ta insanlar çobanları Tanrı olan koyunlara benzetilirler.
 
 (See also: [[:tr:obe:other:shepherd|shepherd]], [[:tr:obe:kt:lamb|lamb, Lamb of God]])
 
@@ -17,8 +16,9 @@ A sheep is a medium-sized animal with four legs that has wool all over its body.
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:09-12|[09-12]]]** One day while Moses was taking care of his **sheep**, he saw a bush that was on fire.
-  * **[[:tr:obs:notes:frames:17-02|[17-02]]]** David was a shepherd from the town of Bethlehem. At different times while he was watching his father's **sheep**, David had killed both a lion and a bear that had attacked the **sheep**.
-  * **[[:tr:obs:notes:frames:30-03|[30-03]]]** To Jesus, these people were like **sheep**  without a shepherd.
-  * **[[:tr:obs:notes:frames:38-08|[38-08]]]** Jesus said, "All of you will all abandon me tonight. It is written, 'I will strike the shepherd and all the **sheep**  will be scattered.'"
+  ***[[:tr:obs:notes:frames:09-12|[09-12]]]** Bir gün Musa **koyunlarını** otarırken yanan bir çalı gördü.
+  ***[[:tr:obs:notes:frames:17-02|[17-02]]]** Davut Beytlehem kentinden bir çobandı. Babasının sürülerine baktığı sırada **koyunlara** saldıran aslanı ve ayıyı öldürdüğü zamanlar olmuştu.
+  ***[[:tr:obs:notes:frames:30-03|[30-03]]]** İsa, çobansız bir **sürüye** benzeyen bu halka çok acıdı.
+  ***[[:tr:obs:notes:frames:38-08|[38-08]]]** İsa dedi: “Hepiniz bu gece beni terkedeceksiniz. Çünkü yazılmıştır: ‘Çobanı vuracağım ve **koyunlar** darmadağın olacak.’”
+
 ~~DISCUSSION~~{{tag>publish ktobs}}

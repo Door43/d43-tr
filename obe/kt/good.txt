@@ -1,25 +1,24 @@
-====== good, goodness ======
+====== iyi ======
 
-===== Definition: =====
+===== Tanım =====
 
-The word "good" has different meanings depending on the context. Many languages will use different words to translate these different meanings.
+«İyi» sözcüğünün bağlama dayalı olarak çeşitli anlamları var. Bu çeşitli anlamlar birçok dillerde çeşitli sözcüklerle çevrilir.
+  * Genelde, Tanrı’nın karakterine, amacına ve iradesine uygun olan bir şey «iyi» olur.
+  * «İyi» bir şey hoş, mükemmel, yararlı, uygun ya da ahlâk açısından doğru olabilir.
+  * «İyi» olan toprağa «verimli» denebilir.
+  * «İyi» tahıl «bol» olabilir.
+  * İnsan görevinde ya da mesleğinde becerikli ise «iyi» olabilir, örneğin, «iyi çiftçi.»
+  * Kutsal Kitap’ta «iyi»nin genel anlamı çoğu zaman «kötü» ile karşılaştırılır.
+  * «İyilik» terimi genelde ahlâk açısından iyi ya da düşünce ve eylemlerinde doğru olmaya aittir.
+  * Tanrı’nın iyiliği ile, insanlara iyi ve yararlı şeyler, nimetler ihsan etmesi ve ayrıca Tanrı’nın ahlâksal mükemmelliği kastedilebilir.
 
-  * In general, something is good if it fits with God's character, purposes, and will.
-  * Something that is "good" could be pleasing, excellent, helpful, suitable, profitable, or morally right.
-  * Land that is "good" could be called "fertile" or "productive."
-  * A "good" crop could be a "plentiful" crop.
-  * A person can be "good" at what they do if they are skillful at their task or profession, as in, "a good farmer."
-  * In the Bible, the general meaning of "good" is often contrasted with "evil."
-  * The term "goodness" usually refers to being morally good or righteous in thoughts and actions.
-  * The goodness of God refers to how he blesses people by giving them good and beneficial things. It also can refer to his moral perfection.
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * The general term for "good" in the target language should be used wherever this general meaning is accurate and natural, especially in contexts where it is contrasted to evil.
-  * Depending on the context, other ways to translate this term could include, "kind" or "excellent" or "pleasing to God" or "righteous" or "morally upright" or "profitable."
-  * "Good land" could be translated as, "fertile land" or "productive land"; a "good crop" could be translated as a "plentiful harvest" or "large amount of crops."
-  * The phrase "do good to" means to do something that benefits others and could be translated as to "be kind to" someone or to "help" or "benefit" someone.
-  * Depending on the context, ways to translate the term "goodness" could include, "blessing" or "kindness" or "moral perfection" or "righteousness" or "purity."
+  * Hedef dilde, özellikle kötü ile karşılaştırıldığı cümlelerde «iyi» için kullanılan genel terim -doğru ve doğal olduğu takdirde- kullanılmalı.
+  * Bağlama dayalı olarak, bu terimin çevirisi şöyle de olabilir: «sevecen», «ahlâklı», «mükemmel», «Tanrı’yı hoşnut eden», «doğru» ya da «yararlı.»
+  * «İyi toprak» «verimli toprak» olarak; «iyi tahıl» «bol hasat» ya da «çok miktarda tahıl» olarak çevrilebilir.
+  * «Birine iyilik yapmak» ifadesi, başka birine yarar veren bir şey yapmak anlamına gelir ve şöyle çevrilebilir: «birine yardımcı olmak» ya da «birine yarar vermek.»
+  * Bağlama dayalı olarak, «iyilik» terimi şöyle çevrilebilir: «ihsan», «bereket», «nimet», «ahlâksal mükemmellik», «doğruluk» ya da «paklık.»
 
 (See also: [[:tr:obe:kt:holy]], [[:tr:obe:other:profit]], [[:tr:obe:kt:righteous]], [[:tr:obe:kt:evil]])
 
@@ -29,14 +28,15 @@ The word "good" has different meanings depending on the context. Many languages 
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:01-04|[01-04]]]** God saw that what he had created was **good**.
-  * **[[:tr:obs:notes:frames:01-11|[01-11]]]** God planted…the tree of the knowledge of **good**  and evil."
-  * **[[:tr:obs:notes:frames:01-12|[01-12]]]** Then God said, "It is not **good**  for man to be alone."
-  * **[[:tr:obs:notes:frames:02-04|[02-04]]]**"God just knows that as soon as you eat it, you will be like God and will understand **good**  and evil like he does."
-  * **[[:tr:obs:notes:frames:08-12|[08-12]]]**"You tried to do evil when you sold me as a slave, but God used the evil for **good**!"
-  * **[[:tr:obs:notes:frames:14-15|[14-15]]]** Joshua was a **good**  leader because he trusted and obeyed God.
-  * **[[:tr:obs:notes:frames:18-13|[18-13]]]** Some of these kings were **good**  men who ruled justly and worshiped God.
-  * **[[:tr:obs:notes:frames:28-01|[28-01]]]**"**Good**  teacher, what must I do to have eternal life?" Jesus said to him, "Why do you call me '**good**?' There is only one who is **good**, and that is God."
+  ***[[:tr:obs:notes:frames:01-04|[01-04]]]** Tanrı, yaratmış olduğu her şeyin **iyi** olduğunu gördü​.
+  ***[[:tr:obs:notes:frames:01-11|[01-11]]]** Tanrı **iyiyle** kötüyü bilme ağacını dikti.
+  ***[[:tr:obs:notes:frames:01-12|[01-12]]]** Sonra Tanrı, “Adamın yalnız kalması **iyi** değil.” dedi.
+  ***[[:tr:obs:notes:frames:02-04|[02-04]]]** “Sadece Tanrı bu ağaçtan yer yemez her şeyi O’nun gibi anlayacağınızı biliyor. **İyiyle** kötüyü bilerek Tanrı gibi olacaksınız.” dedi.
+  ***[[:tr:obs:notes:frames:08-12|[08-12]]]** “Beni köle olarak sattığınızda kötülük yapmaya çalıştınız, ama Tanrı bu kötülüğü **iyiliğe** çevirdi!”
+  ***[[:tr:obs:notes:frames:14-15|[14-15]]]** Yeşu Tanrı’ya güvendiği ve itaat ettiği için **iyi** bir önderdi.
+  ***[[:tr:obs:notes:frames:18-13|[18-13]]]** Aralarında adaletle hüküm süren ve Tanrı’ya tapan **iyi** insanlar da vardı.
+  ***[[:tr:obs:notes:frames:28-01|[28-01]]]** Bir gün zengin bir genç İsa’ya yaklaşıp, “**İyi** Hocam, ebedî hayata kavuşmak için ne yapmalıyım?” diye sordu. İsa ona dedi: “Bana neden **iyi** diyorsun? **İyi** olan yalnız Tanrı’dır.”
+
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~

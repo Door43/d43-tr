@@ -1,19 +1,17 @@
-====== power ======
+====== kudret ======
 
-===== Definition: =====
+===== Tanım =====
 
-The term "power" refers to the ability to do things or make things happen, often using great strength and authority.
+«Kudret» terimi ile, çoğu zaman büyük güç ve yetkiyle bir şeyler yapma ya da olayları gerçekleştirme iktidarı kastedilir.
+  * «Tanrı’nın kudreti» Tanrı’nın insanların gücü yetmeyen şeyleri yapma iktidarına aittir.
+  * Tanrı en yüksek yetkidir ve yarattığı her şeye egemendir.
+  * Tanrı istediğini yapması için kendi halkına güç verir. Böylece Tanrı’nın halkı insanlara şifa verir ya da başka mucizeler yapar iken bunu Tanrı’nın gücüyle yapar.
+  * İsa ve Kutsal Ruh da Tanrı oldukları için aynı kudrete sahiplerdir.
 
-  * The "power of God" refers to God's ability to do things that are not possible for people to do.
-  * God is the highest authority, and has complete power over everything that he has created.
-  * God gives his people power to do what he wants, so that when they heal people or do other miracles, they do this by the power of God.
-  * Because Jesus and the Holy Spirit are also God, they have this same power.
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * Depending on the context, the term "power" could also be translated as "ability" or "strength" or "energy" or "ability to do miracles" or "control."
-  * An expression like "save us from the power of our enemies" could be translated as "save us from being oppressed by our enemies" or "rescue us from being controlled by our enemies." In this case, "power" has the meaning of using one's strength to control and oppress others.
-
+  * Bağlama dayalı olarak, «kudret» terimi ayrıca «yetenek», «güç», «enerji», «mucize yapma gücü» ya da «egemenlik» şeklinde çevrilebilir.
+  * «Bizi düşmanlarımızın kudretinden kurtar» ifadesi «düşmanlarımızın zulmünden/baskısından bizi kurtar» ya da «düşmanlarımızın bize egemen olmasından bizi kurtar» şeklinde çevrilebilir. Bu hâlde «kudret» teriminin anlamı başkalarına egemen olmak, zulmetmek, baskı yapmak için gücünü kullanmak anlamına gelir.
 
 (See also: [[:tr:obe:kt:miracle|miracle, wonder, sign]], [[:tr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]], [[:tr:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]])
 
@@ -23,12 +21,13 @@ The term "power" refers to the ability to do things or make things happen, often
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:22-05|[22-05]]]** The angel explained, "The Holy Spirit will come to you, and the **power**  of God will overshadow you. So the baby will be holy, the Son of God."
-  * **[[:tr:obs:notes:frames:26-01|[26-01]]]** After overcoming Satan's temptations, Jesus returned in the **power**  of the Holy Spirit to the region of Galilee where he lived.
-  * **[[:tr:obs:notes:frames:32-15|[32-15]]]** Immediately Jesus realized that **power**  had gone out from him.
-  * **[[:tr:obs:notes:frames:42-11|[42-11]]]** Forty days after Jesus rose from the dead, he told his disciples, "Stay in Jerusalem until my Father gives you **power**  when the Holy Spirit comes on you."
-  * **[[:tr:obs:notes:frames:43-06|[43-06]]]**"Men of Israel, Jesus was a man who did many mighty signs and wonders by the **power**  of God, as you have seen and already know."
-  * **[[:tr:obs:notes:frames:44-08|[44-08]]]** Peter answered them, "This man stands before you healed by the **power**  of Jesus the Messiah."
+  ***[[:tr:obs:notes:frames:22-05|[22-05]]]** Melek ona, “Kutsal Ruh senin üzerine gelecek ve Tanrı’nın **gücü** sana gölge salacak. Bunun için senin çocuğun kutsal, Tanrı’nın Oğlu olacak.”
+  ***[[:tr:obs:notes:frames:26-01|[26-01]]]** Şeytan’ın ayartılarına karşı galip gelen İsa, Kutsal Ruh’un **gücüyle** Celile bölgesine döndü.
+  ***[[:tr:obs:notes:frames:32-15|[32-15]]]** Hemen içinden **kuvvetin** çıktığını hisseden İsa dönüp, “Bana kim dokundu?” diye sordu.
+  ***[[:tr:obs:notes:frames:42-11|[42-11]]]** İsa, ölümden dirilmesinden kırk gün sonra havarileri ve diğer imanlı kardeşlerine, “Kutsal Ruh’un üzerinize inmesiyle **kudreti** alıncaya kadar Yeruşalim’de kalın.” dedi.
+  ***[[:tr:obs:notes:frames:43-06|[43-06]]]** “Ey İsrail halkı! Kendiniz zaten gördüğünüz ve bildiğiniz gibi, İsa Tanrı’nın **kudretiyle** birçok alâmet ve mucize yapan bir insandı.
+  ***[[:tr:obs:notes:frames:44-08|[44-08]]]** Petrus onlara, “Bu adam İsa Mesih’in **kudretiyle** önünüzde sapasağlam duruyor.
+
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~

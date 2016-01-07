@@ -1,18 +1,17 @@
-====== angel ======
+====== melek ======
 
-===== Definition: =====
+===== Tanım =====
 
-An angel is a powerful spirit being whom God created. These spirit beings exist to serve God by doing whatever he tells them to do.
+Melek, Tanrı’nın yarattığı kuvvetli bir ruhtur. Bu ruhlar Tanrı’nın buyurduğu her şeyi yaparak Tanrı’ya hizmet etmek için yaratılmışlardır.
+  * Melek sözcüğü «elçi» anlamına gelir.
+  *  Kutsal Kitap’ta melekler insanlara Tanrı’nın yapmaları istediği işleri ilan eden elçilerdi. Melekler ayrıca insanlara gelecekte olacak ya da artık olmuş olan olayları bildirirlerdi.
+  * Melekler, Tanrı’nın temsilcileri olarak O’nun yetkisine sahiplerdir ve bazen Kutsal Kitap’ta Tanrı’nın kendisi konuşurmuş gibi konuşurlar.
+  * Meleklerin Tanrı’ya sundukları diğer hizmetler insanları koruma ve kuvvetlendirme hizmetleridir.
 
-  * The word for "angel" means "messenger."
-  * In the Bible, angels gave messages to people from God about things he wanted them to do. Angels also told people about events that were going to happen in the future or events that had already happened.
-  * Angels have God's authority as his representatives and sometimes in the Bible they would speak as if it were God himself speaking.
-  * Other ways that angels serve God is by protecting and strengthening people.
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * Ways to translate "angel" could include, "messenger from God" or " God's heavenly servant" or "God's spirit messenger."
-  * Also consider how this term is translated in a national language or another local language. (See:[[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * «Melek» terimi şöyle çevrilebilir: «Tanrı’nın elçisi», «Tanrı’nın semavi hizmetçisi» ya da «Tanrı’nın elçi ruhu.»
+  * Ayrıca bu terimin Kutsal Kitap’ın halk diline veya devlet diline çevirisinde nasıl çevrildiğine bakın.
 
 ===== Bible References: =====
 
@@ -20,13 +19,14 @@ An angel is a powerful spirit being whom God created. These spirit beings exist 
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:02-12|[02-12]]]** God placed large, powerful **angels**  at the entrance to the garden to keep anyone from eating the fruit of the tree of life.
-  * **[[:tr:obs:notes:frames:22-03|[22-03]]]** The **angel**  responded to Zechariah,"I was sent by God to bring you this good news."
-  * **[[:tr:obs:notes:frames:23-06|[23-06]]]** Suddenly, a shining **angel**  appeared to them (the shepherds), and they were terrified. The **angel**  said, "Do not be afraid, because I have some good news for you."
-  * **[[:tr:obs:notes:frames:23-07|[23-07]]]** Suddenly, the skies were filled with **angels**  praising God…
-  * **[[:tr:obs:notes:frames:25-08|[25-08]]]** Then **angels**  came and took care of Jesus.
-  * **[[:tr:obs:notes:frames:38-12|[38-12]]]** Jesus was very troubled and his sweat was like drops of blood. God sent an **angel**  to strengthen him.
-  * **[[:tr:obs:notes:frames:38-15|[38-15]]]**"I could ask the Father for an army of **angels**  to defend me."
+  ***[[:tr:obs:notes:frames:02-12|[02-12]]]** Bu sebeple Tanrı, Adem ve Havva’yı güzel bahçeden kovdu ve insanların yaşam ağacından yemelerini önlemek için bahçenin girişinde büyük, güçlü **melekler** koydu.
+  ***[[:tr:obs:notes:frames:22-03|[22-03]]]** **Melek** Zekeriya’ya şöyle cevap verdi: “Sana bu müjdeyi bildirmek için Tanrı’dan gönderildim.”
+  ***[[:tr:obs:notes:frames:23-06|[23-06]]]** Ansızın çobanlara parlayan bir **melek** göründü. Çobanlar korkuya kapıldılar. **Melek** dedi: “Korkmayın! Çünkü size sevindirici haber getirdim!”
+  ***[[:tr:obs:notes:frames:23-07|[23-07]]]** Derken gökyüzü, Tanrı’ya hamdeden **meleklerle** doldu.
+  ***[[:tr:obs:notes:frames:25-08|[25-08]]]** Bunun üzerine **melekler** gelip İsa’yla ilgilendiler.
+  ***[[:tr:obs:notes:frames:38-12|[38-12]]]** İsa derin bir acı içindeydi. Teri kan damlaları gibiydi. Tanrı O’nu kuvvetlendirmek için **meleğini** gönderdi.
+  ***[[:tr:obs:notes:frames:38-15|[38-15]]]** “Baba’dan beni savunacak bir **melek** ordusu göndermesini rica edebilirdim.”
+
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~

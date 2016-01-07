@@ -1,20 +1,19 @@
-====== demon, evil spirit, unclean spirit ======
+====== cin ======
 
-===== Definition: =====
+===== Tanım =====
 
-All these terms refer to demons, which are spirit beings that oppose God's will.
+Bütün bu terimler Tanrı’nın iradesine karşı direnen cinlere aittir.
+  * Tanrı kendisine hizmet etsinler diye melekleri yarattı. İblis Tanrı’ya başkaldırdığında bazı melekler de başkaldırdılar ve cennetten kovuldular. Bu «düşmüş melekler»in cinler ve kötü ruhlar olduğuna inanılıyor.
+  * Bazen bu cinlere «murdar ruh» denir. «Murdar» kirli, kötü ya da «kutsal olmayan» anlamına gelir.
+  * Cinler iblise kulluk ettikleri için kötülük yapıyorlar. Bazen insanlar içinde yaşıyor ve insanları yönetiyorlar.
+  * Cinler insanlardan güçlüdürler, ama Tanrı kadar güçlü değiller.
 
-  * God created angels to serve him. When the devil rebelled against God, some of the angels also rebelled and were thrown out of heaven. It is believed that demons and evil spirits are these "fallen angels."
-  * Sometimes these demons are called "unclean spirits." The term "unclean" means "impure" or "evil" or "unholy."
-  * Because demons serve the devil, they do evil things. Sometimes they live inside people and control them.
-  * Demons are more powerful than humans, but not as powerful as God.
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * The term "demon" could also be translated as "evil spirit."
-  * The term "unclean spirit" could also be translated as "impure spirit" or "corrupt spirit" or "perverse spirit."
-  * Make sure that the word or phrase used to translate this term is different from the term used to refer to the devil.
-  * Also consider how the term "demon" is translated in a local or national language. (See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * «Cin» sözcüğü «kötü ruh» olarak çevrilebilir.
+  * «Murdar ruh» da «yalancı ruh» ya da «sapık ruh» şeklinde çevrilebilir.
+  * Bu terimi çevirirken kullandığınız sözcüğün iblise ait olan terimleri çevirdiğiniz sözcüklerden farklı olmasına dikkat edin.
+  * Ayrıca «iblis» teriminin Kutsal Kitap’ın halk diline veya devlet diline çevirisinde nasıl çevrildiğine bakın.
 
 (See also: [[:tr:obe:kt:demonpossessed]], [[:tr:obe:kt:satan]], [[:tr:obe:other:idol]], [[:tr:obe:kt:falsegod]], [[:tr:obe:kt:angel]], [[:tr:obe:kt:evil]], [[:tr:obe:kt:unclean]])
 
@@ -24,10 +23,10 @@ All these terms refer to demons, which are spirit beings that oppose God's will.
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:26-09|[26-09]]]** Many people who had **demons**  in them were brought to Jesus. When Jesus commanded them, the **demons**  came out of the people, and often shouted, "You are the Son of God!"
-  * **[[:tr:obs:notes:frames:32-08|[32-08]]]** The **demons**  came out of the man and entered the pigs.
-  * **[[:tr:obs:notes:frames:47-05|[47-05]]]** Finally one day when the slave girl started yelling, Paul turned to her and said to the **demon**  that was in her, "In the name of Jesus, come out of her." Right away the **demon**  left her.
-  * **[[:tr:obs:notes:frames:49-02|[49-02]]]** He (Jesus) walked on water, calmed storms, healed many sick people, drove out **demons**, raised the dead to life, and turned five loaves of bread and two small fish into enough food for over 5,000 people.
+  ***[[:tr:obs:notes:frames:26-09|[26-09]]]** İçinde **cinler** olan birçok insan İsa’ya getirildi. İsa’nın buyruğuyla insanlardan çıkan **cinler** çoğu zaman ‘Sen Tanrı’nın Oğlu’sun!’ diye bağırıyorlardı. Kalabalıklar buna hayran olup Tanrı’ya tapıyorlardı.
+  ***[[:tr:obs:notes:frames:32-08|[32-08]]]** **Cinler** adamdan çıkıp domuzların içine girdiler.
+  ***[[:tr:obs:notes:frames:47-05|[47-05]]]** Nihayet bir gün köle kız her zamanki gibi bağırmaya başlayınca Pavlus dönüp içindeki **cine**, “İsa’nın adıyla bu kızın içinden çık!” diye emretti. **Cin** hemen kızı terketti.
+  ***[[:tr:obs:notes:frames:49-02|[49-02]]]** (İsa) Su üstünde yürüdü, fırtınaları dindirdi, çok hastaya şifa verdi, **cinleri** çıkardı, ölüleri diriltti, beş ekmek ve iki küçük balıkla 5.000 kişiyi doyurdu.
 
 ~~DISCUSSION~~{{tag>publish ktobs}}
 

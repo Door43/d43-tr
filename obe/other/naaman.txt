@@ -1,12 +1,11 @@
 ====== Naaman ======
 
-===== Facts: =====
+===== Gerçeklikler =====
 
-Naaman was the commander of the army of one of Israel's enemies.
-
-  * Naaman had a terrible skin disease that no one knew how to cure.
-  * Elisha told Naaman to wash in the Jordan River. When Naaman obeyed, God healed him of his disease.
-  * Naaman believed in God because he had healed him of this disease.
+Naaman İsrail’in düşmanlarından birinin ordusunun komutanıydı.
+  * Naaman’ın korkunç deri hastalığı vardı ve bu hastalığa çareyi kimse bilmiyordu.
+  * Elişa Naaman’a Şeria Nehri’nde yıkanmasını söyledi. Naaman bu emre uyunca Tanrı onu iyileştirdi.
+  * Naaman Tanrı’ya iman etti, çünkü Tanrı onu bu hastalıktan kurtarmıştı.
 
 (Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
 
@@ -18,9 +17,9 @@ Naaman was the commander of the army of one of Israel's enemies.
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:19-14|[19-14]]]** One of the miracles happened to **Naaman**, an enemy commander, who had a horrible skin disease.
-  * **[[:tr:obs:notes:frames:19-15|[19-15]]]** At first **Naaman**  was angry and would not do it because it seemed foolish. But later he changed his mind and dipped himself seven times in the Jordan River.
-  * **[[:tr:obs:notes:frames:26-06|[26-06]]]**"He (Elisha) only healed the skin disease of **Naaman**, a commander of Israel's enemies."
+  ***[[:tr:obs:notes:frames:19-14|[19-14]]]** Mucizelerden biri düşman ordusunun komutanı **Naaman**’ın hayatında oldu. **Naaman** korkunç bir deri hastalığına tutulmuştu.
+  ***[[:tr:obs:notes:frames:19-15|[19-15]]]** **Naaman** önce öfkelenip budalaca olduğu için bu işi yapmayacağını söyledi. Fakat biraz sonra fikrini değiştirerek Şeria Nehri’nde yedi kez suya daldı.
+  ***[[:tr:obs:notes:frames:26-06|[26-06]]]** “(Elişa Peygamber) Yalnızca İsrail’in düşmanlarının ordu komutanı **Naaman**’a şifa verdi.”
 
 ~~DISCUSSION~~{{tag>publish ktobs}}
 

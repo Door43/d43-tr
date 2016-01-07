@@ -1,18 +1,16 @@
-====== God the Father, Heavenly Father ======
+====== Baba Tanrı ======
 
-===== Facts: =====
+===== Gerçeklikler =====
 
-The term "God the Father" is one way of referring to Yahweh, the one true God.
+«Baba Tanrı» terimi, tek gerçek Tanrı olan Yahve’den bahsetmenin bir yoludur.
+  * Tanrı; Baba Tanrı, Kutsal Ruh Tanrı ve Oğul Tanrı olarak vardır. Her biri tamamen Tanrı’dır, fakat onlar tek bir Tanrı’dır. Bu, insanın tam olarak kavrayamayacağı bir gizdir.
+  * «Baba Tanrı» unvanı «Oğul Tanrı» ile olan bir nevi kişisel ilişkisini ifade eder. Fiziksel ilişki söz konusu değildir. Fakat Oğul’un Baba’ya hürmet ve hizmet ettiğini gösterir.
+  * Baba Tanrı, Oğul Tanrı’yı gönderdi
 
-  * God exists as God the Father, God the Holy Spirit, and God the Son. Each one is fully God, and yet they are only one God. This is a mystery that mere humans cannot fully understand.
-  * The title, "God the Father," expresses the kind of personal relationship that he has with "God the Son." It is not a physical relationship. Rather, it expresses that the Son honors and serves the Father.
-  * God the Father sent God the Son (Jesus) into the world and he sends the Holy Spirit to his people.
-  * Anyone who believes in God the Son becomes a child of God the Father and God the Holy Spirit  comes to live in that person. This is another mystery that human beings cannot fully understand.
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * In the phrase "God the Father," it is best to translate "Father" with the same word that the language naturally uses to refer to a human father.
-  * The term "Heavenly Father" could be translated by "Father God who lives in Heaven" or "God our Father from Heaven" or "Father who lives in Heaven."
+  * «Baba» sözünü, bu dilde beşeri babalar için doğal olarak kullanılan bir kelimeyle çevirmek en iyi olur.
+  * «Semavi Baba» terimi «Göklerde yaşayan Baba Tanrı», «Göklerden olan Babamız Tanrı» ya da «Göklerde olan Baba» olarak çevrilebilir.
 
 (Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
 
@@ -24,12 +22,12 @@ The term "God the Father" is one way of referring to Yahweh, the one true God.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:24-09|[24-09]]]** There is only one God. But John heard **God the Father** speak, and saw Jesus the Son and the Holy Spirit when he baptized Jesus.
-  ***[[:tr:obs:notes:frames:29-09|[29-09]]]** Then Jesus said, "This is what my **heavenly Father** will do to every one of you if you do not forgive your brother from your heart."
-  ***[[:tr:obs:notes:frames:37-09|[37-09]]]** Then Jesus looked up to heaven and said, "**Father**, thank you for hearing me."
-  ***[[:tr:obs:notes:frames:40-07|[40-07]]]** Then Jesus cried out, "It is finished! **Father**, I give my spirit into your hands."
-  ***[[:tr:obs:notes:frames:42-10|[42-10]]]** "So go, make disciples of all people groups by baptizing them in the name of **the Father**, the Son, and the Holy Spirit and by teaching them to obey everything I have commanded you."
-  ***[[:tr:obs:notes:frames:43-08|[43-08]]]** "Jesus is now exalted to the right hand of **God the Father**."
-  ***[[:tr:obs:notes:frames:50-10|[50-10]]]** "Then the righteous ones will shine like the sun in the kingdom of **God their Father**."
+  ***[[:tr:obs:notes:frames:24-09|[24-09]]]** Tek bir Tanrı vardır. Ancak Yahya İsa’yı vaftiz ettiğinde **Baba Tanrı**’nın konuşmasını duydu, Oğul Tanrı olan İsa’yı gördü ve Kutsal Ruh’u da gördü.
+  ***[[:tr:obs:notes:frames:29-09|[29-09]]]** Sonra İsa dedi: “**Semavi Babam** da kardeşini yürekten affetmeyen her birinize böyle davranacak.”
+  ***[[:tr:obs:notes:frames:37-09|[37-09]]]** Sonra İsa göğe bakarak şöyle konuştu: “**Baba**, beni işittiğin için şükrediyorum.”
+  ***[[:tr:obs:notes:frames:40-07|[40-07]]]** O sırada İsa şöyle bağırdı: “Tamamlandı! **Baba**, ruhumu sana teslim ediyorum!”
+  ***[[:tr:obs:notes:frames:42-10|[42-10]]]** “Bu yüzden gidin, bütün milletleri imanlı olarak yetiştirin. Onları **Baba**, Oğul ve Kutsal Ruh adıyla vaftiz edin ve size emrettiğim her şeye itaat etmeyi öğretin.”
+  ***[[:tr:obs:notes:frames:43-08|[43-08]]]** “İsa şu anda yüce bir durumda, **Baba Tanrı**’nın sağındadır.”
+  ***[[:tr:obs:notes:frames:50-10|[50-10]]]** “O zaman doğru kişiler, **Baba Tanrı**’nın Hükümranlığı’nda güneş gibi patlayacaklar.”
 
 ~~DISCUSSION~~{{tag>publish ktobs}}

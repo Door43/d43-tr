@@ -1,15 +1,10 @@
-====== mock, ridicule ======
+====== alay etmek ======
 
+===== Tanım =====
 
-===== Definition: =====
-
-
-To deride or make fun of someone, especially  in a cruel way.
-
-    * Mocking often involves taunting someone and laughing at them.
-    * To mock someone is to pretend to honor them, but in a way that actually shows contempt for them.
-    * A person can also mock someone by imitating that person's words or actions with the intent to embarrass them.
-
+  * Alay etmek çoğu zaman birine sataşma, gülme, istihza etme şeklini alır.
+  * İstihza demek, insanı onurlandırıyormuş gibi görünürken aslında onları hor görmek demektir.
+  * Ayrıca bir kişi birini utandırmak amacıyla sözlerinin ya da eylemlerinin taklidini yaparak onunla alay edebilir.
 
 ===== Bible References: =====
 
@@ -18,12 +13,11 @@ To deride or make fun of someone, especially  in a cruel way.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:21-12|[21-12]]]** Isaiah prophesied that people would spit on, **mock**, and beat the Messiah. 
-  ***[[:tr:obs:notes:frames:39-05|[39-05]]]** The Jewish leaders all answered the high priest, "He deserves to die!" Then they blindfolded Jesus, spit on him, hit him, and **mocked** him.
-  ***[[:tr:obs:notes:frames:39-12|[39-12]]]** The soldiers whipped Jesus, and put a royal robe and a crown made of thorns on him. Then they **mocked** him by saying, "Look, the King of the Jews!"
-  ***[[:tr:obs:notes:frames:40-04|[40-04]]]** Jesus was crucified between two robbers. One of them **mocked** Jesus, but the other said, "Do you have no fear of God?"
-  ***[[:tr:obs:notes:frames:40-05|[40-05]]]** The Jewish leaders and the other people in the crowd **mocked** Jesus. They said to him, "If you are the Son of God, come down from the cross and save yourself! Then we will believe you."
-
+  ***[[:tr:obs:notes:frames:21-12|[21-12]]]** Yeşaya’nın bildirdiği üzere, insanlar Mesih’e tükürecek, **alay** edecek, vuracaklar.
+  ***[[:tr:obs:notes:frames:39-05|[39-05]]]** Yahudi ileri gelenleri baş kâhine, “Ölümü hak ediyor!” diye hep bir ağızdan cevap verdiler. Sonra İsa’nın gözlerini bağladılar, yüzüne tükürdüler, O’na vurdular, **alay** ettiler.
+  ***[[:tr:obs:notes:frames:39-12|[39-12]]]** Askerler İsa’yı kırbaçladılar, üzerine krallık cübbesi ve dikenli taç koydular. Sonra, “Bakın, Yahudilerin Kralı!” diyerek O’nunla **alay** ettiler.
+  ***[[:tr:obs:notes:frames:40-04|[40-04]]]** İsa iki mahkûm arasında çarmıha gerildi. Mahkûmlardan biri İsa’yla **alay** etti, diğeri ise, “Sen hiç Tanrı’dan korkmuyor musun?” dedi.
+  ***[[:tr:obs:notes:frames:40-05|[40-05]]]** Yahudi ileri gelenleriyle halk İsa’yla **alay** ederek, “Tanrı’nın Oğlu’ysan çarmıhtan aşağı in de kendini kurtar bakalım! O zaman sana iman edeceğiz.” dediler.
 
 ~~DISCUSSION~~
 

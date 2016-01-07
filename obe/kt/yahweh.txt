@@ -1,21 +1,18 @@
-====== Yahweh ======
+====== Yahve ======
 
-===== Facts: =====
+===== Gerçeklikler =====
 
-This is God's personal name that he revealed to Moses at the burning bush. God said that this was his name forever.
+Bu, Tanrı’nın yanan çalıdan Musa’ya ilan ettiği adıdır. Tanrı dedi ki, bu sonsuza dek O’nun adı olacak.
+  * «Yahve» adı eski İbranice «olmak» fiilinden türer ve «oluyor», «Olan» ya da «olmasını sağlayan» anlamına gelir.
+  * Bu ad, Tanrı’nın ezelden ebediyete kadar var olduğunu açıklar. Tanrı’nın kiminse O’nu yaratmasına ya da O’na hayat vermesine ihtiyacı yoktur. Ayrıca bu ad, Tanrı’nın her zaman her yerde var olduğunu bildirir.
+  * Tanrı Musa’ya görünürken «Ben’im» adıyla kendini tanıştırdı.
+  * Kutsal Kitap’ın İngilizce, Fransızca ve İspanyolca gibi birçok dile çevirilerinde «Yahve» adı «RAB» olarak çevrilmiştir; örneğin, «Tanrın RAB Ben’im» ve başka.
+  * Yeni Ahit’te Tanrı «Rab» ya da «Tanrı» olarak adlandırılır. Orada «Yahve» terimi İsa’nın «Ben’im» dediği cümleler hariç hiçbir yerde kullanılmamıştır.
 
-  * The name "Yahweh" comes from the word meaning "to be."
-  * This name can mean "he is" or "I am" or "the one who causes to be."
-  * This name reveals that God is eternal; he has always lived and will continue to live forever. He did not need anyone to create him or to give him life. It also means that he is always present.
-  * Many Bible versions in major languages such as English, French, and Spanish have used an equivalent of "the LORD" to represent "Yahweh," as in the phrase, "I am the LORD your God" and in many other contexts.
-  * However, the ULB and UDB only use "Yahweh" to translate God's name, "Yahweh."
-  * In the New Testament, God is referred to as "Lord" or "God." The term "Yahweh" is not used in the New Testament.
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * This term could be translated by a word or phrase that means "I am" or "living one" or "the one who is" or "he who is alive."
-  * Note that the ULB text only translates God's name literally, as "Yahweh." 
- 
+  * Çevirmenler Eski Ahit’te geçen Yahve adını, örneğin, «Tanrın Rab Yahve Ben’im» ve «Tanrı Rab olan Yahve» olarak çevirebilirler. Böylece Yeni Ahit’teki «Rab» sözcüğünün sıkça Eski Ahit’teki Yahve adına ait olduğu açıklanmış olur.
+  * Bu terim ayrıca «Ben’im» anlamına gelen bir sözcükle çevrilebilir.
 
 (See also: [[:tr:obe:kt:god|God]], [[lord]], [[moses]] other)
 
@@ -25,9 +22,10 @@ This is God's personal name that he revealed to Moses at the burning bush. God s
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:09-14|[09-14]]]** God said, "I AM WHO I AM. Tell them, 'I AM has sent me to you.' Also tell them, 'I am **Yahweh**, the God of your ancestors Abraham, Isaac, and Jacob. This is my name forever.'"
-  * **[[:tr:obs:notes:frames:13-04|[13-04]]]** Then God gave them the covenant and said, "I am **Yahweh**, your God, who saved you from slavery in Egypt. Do not worship other gods."
-  * **[[:tr:obs:notes:frames:13-05|[13-05]]]**"Do not make idols or worship them, for I, **Yahweh**, am a jealous God."
-  * **[[:tr:obs:notes:frames:16-01|[16-01]]]** The Israelites began to worship the Canaanite gods instead of **Yahweh**, the true God.
-  * **[[:tr:obs:notes:frames:19-10|[19-10]]]** Then Elijah prayed, "O **Yahweh**, God of Abraham, Isaac, and Jacob, show us today that you are the God of Israel and that I am your servant."
+  ***[[:tr:obs:notes:frames:09-14|[09-14]]]** Tanrı şöyle cevap verdi: “BEN OLANIM. Onlara de ki, Beni BEN OLANIM gönderdi. Bir de şöyle de: ‘Ben babalarınız İbrahim, İshak ve Yakup’un Tanrısı **Yahve**’yim. Bu, sonsuzluğa kadar adım olacak.’”
+  ***[[:tr:obs:notes:frames:13-04|[13-04]]]** Tanrı onlarla ahit yaparak şöyle dedi: “Seni Mısır’dan, köle olduğun ülkeden kurtaran Tanrın **Yahve** benim. Başka ilâhlara tapmayacaksın!”
+  ***[[:tr:obs:notes:frames:13-05|[13-05]]]** “Kendine put yapmayacaksın, puta tapmayacaksın! Çünkü ben, **Yahve**’yim, kıskanç Tanrı’yım.”
+  ***[[:tr:obs:notes:frames:16-01|[16-01]]]** İsrailliler gerçek Tanrı **Yahve** yerine Kenan ilâhlarına taptılar.
+  ***[[:tr:obs:notes:frames:19-10|[19-10]]]** Bundan sonra İlyas şöyle dua etti: “Ey İbrahim’in, İshak’ın ve Yakup’un Tanrısı **Yahve**, senin İsrail’in Tanrısı olduğunu, benim de senin hizmetkârın olduğumu bugün hepimize göster!”
+
 ~~DISCUSSION~~{{tag>publish ktobs review}}

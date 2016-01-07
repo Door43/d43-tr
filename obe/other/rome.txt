@@ -1,17 +1,14 @@
-====== Rome, Roman ======
+====== Roma ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-In the current day, Rome is the capital city of the country of Italy.
-
-    * During the time of Jesus and the apostles, Rome was the center of the Roman Empire.
-    * The Roman Empire ruled over all of the regions around the Mediterranean Sea, including Israel.
-    * The term, "Roman" refers to anything relating to the regions that the government in Rome controlled, including Roman citizens and Roman officials.
-    * The Apostle Paul was taken to the city of Rome as a prisoner because he preached the good news about Jesus.
+Halihazırda Roma İtalya devletinin başkentidir.
+  * İsa ve havarilerin döneminde Roma kenti, Roma İmparatorluğu’nun merkeziydi.
+  * Roma İmparatorluğu, İsrail dahil olmak üzere Akdeniz havzasındaki bütün bölgelerde hüküm sürüyordu.
+  * «Roma» ya da «Romalı» ile bu bölgelerle ilgili her şey ve ayrıca Roma’nın vatandaşları ve görevlileri de kastedilir.
+  * Havari Pavlus İsa ile ilgili sevindirici haberi ilan ettiği için Roma kentine mahpus olarak götürüldü.
 
 (See also: [[pilate]], [[paul]], [[en:obe:kt:goodnews]])
-
 
 ===== Bible References: =====
 
@@ -20,10 +17,10 @@ In the current day, Rome is the capital city of the country of Italy.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:23-04|[23-04]]]** When the time was near for Mary to give birth, the **Roman** government told everyone to go for a census to the town where their ancestors had lived. 
-  ***[[:tr:obs:notes:frames:32-06|[32-06]]]** Then Jesus asked the demon, "What is your name?" He replied, "My name is Legion, because we are many." (A "legion" was a group of several thousand soldiers in the **Roman** army.)
-  ***[[:tr:obs:notes:frames:39-09|[39-09]]]** Early the next morning, the Jewish leaders brought Jesus to the **Roman** governor, Pilate, hoping to have Jesus killed.
-  ***[[:tr:obs:notes:frames:39-12|[39-12]]]** The **Roman** soldiers whipped Jesus and put a royal robe and a crown made of thorns on him. Then they mocked him by saying, "Look, the King of the Jews!"
+  ***[[:tr:obs:notes:frames:23-04|[23-04]]]** Meryem’in doğurma vakti yaklaştığında **Roma** hükûmeti geçirdiği nüfus sayımıyla ilgili olarak herkesin babalarının kentine gitmesini emretti.
+  ***[[:tr:obs:notes:frames:32-06|[32-06]]]** O zaman İsa cine, “Adın ne?” diye sordu. Cin, “Adım Lejiyon’dur, çünkü biz çokluğuz” diye cevap verdi. (Lejiyon, **Roma** ordusunda birkaç bin askerden oluşan bir tümendi.)
+  ***[[:tr:obs:notes:frames:39-09|[39-09]]]** Ertesi gün sabahleyin erkenden Yahudi ileri gelenleri İsa’yı **Roma** valisi Pilatus’a götürdüler. Pilatus’un İsa’yı suçlu olarak ölüme mahkûm edeceğini ümit ediyorlardı.
+  ***[[:tr:obs:notes:frames:39-12|[39-12]]]** **Romalı** askerler İsa’yı kırbaçladılar, üzerine krallık cübbesi ve dikenli taç koydular. Sonra, “Bakın, Yahudilerin Kralı!” diyerek O’nunla alay ettiler.
 
 ~~DISCUSSION~~
 

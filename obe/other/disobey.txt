@@ -1,14 +1,13 @@
-====== disobey, disobedient, disobedience ======
+====== itaatsizlik etmek ======
 
-===== Definition: =====
+===== Tanım =====
 
-The term "disobey" means to not obey what someone in authority has commanded or instructed. A person who does this is being "disobedient."
-
-  * A person who does something he was told not to do is disobeying.
-  * To disobey also means to refuse to do something that was commanded.
-  * The term "disobedient" is also used to describe the character of someone who habitually disobeys or rebels. It means that they are sinful or wicked.
-  * The term "disobedience" means "the act of not obeying" or "behavior that is against what God wants."
-  * A "disobedient people" could be translated by "people who keep on disobeying" or "people who do not do what God commands."
+«İtaatsizlik etmek» terimi yetkili birinin buyurduğuna ya da öğrettiğine uymamak anlamına gelir. Böyle davranan kişi «itaatsiz» biridir.
+  * Yapmaması söylenen bir işi yapan biri itaatsizlik eder.
+  * İtaatsizlik etmek ayrıca buyurulan bir işi yapmaktan vazgeçmek anlamına gelir.
+  * «İtaatsiz» terimi ayrıca itaatsizlik etmek ya da başkaldırmak alışkanlık hâline gelmiş birine ait olarak kullanılır. Böyle biri günahkâr ya da kötü insandır.
+  * «İtaatsizlik» demek, «itaat etmeme eylemi» ya da «Tanrı’nın isteğine aykırı olan davranış» demektir.
+  * «İtaatsiz halk» şöyle çevrilebilir: «itaatsizlik etmeye devam eden insanlar» ya da «Tanrı’nın buyurduğunu yapmayan insanlar.»
 
 (See also: [[:tr:obe:kt:authority|authority]], [[:tr:obe:kt:evil|evil, wicked, wickedness]], [[:tr:obe:kt:sin|sin, sinful, sinner]], [[:tr:obe:other:obey|obey, obedient]])
 
@@ -18,10 +17,11 @@ The term "disobey" means to not obey what someone in authority has commanded or 
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:02-11|[02-11]]]** God said to the man, "You listened to your wife and **disobeyed**  me."
-  * **[[:tr:obs:notes:frames:13-07|[13-07]]]** If the people obeyed these laws, God promised that he would bless and protect them. If they **disobeyed**  them, God would punish them.
-  * **[[:tr:obs:notes:frames:16-02|[16-02]]]** Because the Israelites kept **disobeying**  God, he punished them by allowing their enemies to defeat them.
-  * **[[:tr:obs:notes:frames:35-12|[35-12]]]**"The older son said to his father, 'All these years I have worked faithfully for you! I never **disobeyed**  you, and still you did not give me one small goat so I could celebrate with my friends.'"
+  ***[[:tr:obs:notes:frames:02-11|[02-11]]]** Tanrı adama seslendi: “Karının sözünü dinleyip bana karşı **itaatsiz** oldun.”
+  ***[[:tr:obs:notes:frames:13-07|[13-07]]]** Tanrı, bu yasalara uydukları takdirde halkı kutsayıp koruyacağını vadetti. **Uymadıkları** takdirde ise halkı cezalandıracaktı.
+  ***[[:tr:obs:notes:frames:16-02|[16-02]]]** İsrailliler sürekli Tanrı’ya **itaatsiz** oldukları için Tanrı onları düşmanlarına mağlup olmalarıyla cezalandırırdı.
+  ***[[:tr:obs:notes:frames:35-12|[35-12]]]** “Büyük oğul babasına şöyle dedi: ‘Bunca yıl senin için sadakatle çalıştım! Sana karşı hiç **itaatsizlik** etmedim. Ama sen, arkadaşlarımla kutlamam için küçük bir oğlak bile vermedin!’”
+
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~

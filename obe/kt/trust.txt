@@ -1,18 +1,17 @@
-====== trust, trustworthy, trustworthiness ======
+====== güven ======
 
-===== Definition: =====
+===== Tanım =====
 
-The term "trust" refers to believing that something or someone is true or dependable. A "trustworthy" person can be relied on to do and say what is right and true.
+«Güven» terimi bir şeyin ya da birinin gerçek ya da güvenilir olduğuna inanma anlamına gelir. «Güvenilir» kişi, doğru ve gerçek olanı yapacağına ve söyleyeceğine güvenilen biridir.
+  * Güven imanla ilişkilidir. Birine güvendiğimiz zaman o kişinin söz verdiği yapacağına imanımız olur, yani buna inanırız.
+  * Birine güvenmek demek, ayrıca o adama bel bağlamak demektir.
+  * İsa’ya güvenmek, İsa’nın Tanrı olduğuna inanmak, çarmıhta kurban olarak ölmesi ile günahlarımızın bedelini ödediğine inanmak ve bizi kurtarması için O’na bel bağlamak anlamına gelir.
+  * «Güvenilir söz» ile gerçek olduğuna güvenebileceğimiz bir söz kastedilir.
 
-  * Trust is closely related to faith. If we trust someone, we have faith in that person to do what they promised to do.
-  * Having trust in someone also means depending on that person.
-  * Trusting in Jesus means believing that he is God, believing that his sacrificial death on the cross paid for our sins, and depending on him to save us.
-  * A "trustworthy saying" refers to something that is said that can be counted on to be true.
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * Ways to translate "trust" could include, "believe" or "have faith" or "have confidence" or "depend on."
-  * The term "trustworthy" could be translated as, "dependable" or "reliable" or "can always be trusted."
+  * «Güvenmek» sözcüğü şöyle çevrilebilir: «inanmak», «iman etmek», «itimat etmek» ya da «bel bağlamak.»
+  * «Güvenilir» terimi «emin» ya da «her zaman güvenilebilen» olarak çevrilebilir.
 
 (See also: [[:tr:obe:kt:faith]], [[:tr:obe:kt:believe]], [[:tr:obe:kt:confidence]], [[:En:obe:kt:faithful]])
 
@@ -22,10 +21,11 @@ The term "trust" refers to believing that something or someone is true or depend
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:12-12|[12-12]]]** When the Israelites saw that the Egyptians were dead, they **trusted**  in God and believed that Moses was a prophet of God.
-  * **[[:tr:obs:notes:frames:14-15|[14-15]]]** Joshua was a good leader because he **trusted**  and obeyed God.
-  * **[[:tr:obs:notes:frames:17-02|[17-02]]]** David was a humble and righteous man who **trusted**  and obeyed God.
-  * **[[:tr:obs:notes:frames:34-06|[34-06]]]** Then Jesus told a story about people who **trusted**  in their own good deeds and despised other people.
+  ***[[:tr:obs:notes:frames:12-12|[12-12]]]** İsrailliler Mısırlıların öldüklerini görünce Tanrı’ya **iman ettiler** ve Musa’nın Tanrı’nın peygamberi olduğuna inandılar.
+  ***[[:tr:obs:notes:frames:14-15|[14-15]]]** Yeşu Tanrı’ya **güvendiği** ve itaat ettiği için iyi bir önderdi.
+  ***[[:tr:obs:notes:frames:17-02|[17-02]]]** Davut, Tanrı’ya **iman** ve itaat eden alçakgönüllü ve doğru bir adamdı.
+  ***[[:tr:obs:notes:frames:34-06|[34-06]]]** Sonra İsa, kendi iyi amellerine **güvenerek** başkalarını hor gören bazı kişilere şu öyküyü anlattı.
+
 ~~DISCUSSION~~{{tag>publish  ktobs}}
 
 ~~NOCACHE~~

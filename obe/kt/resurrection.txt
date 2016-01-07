@@ -1,17 +1,16 @@
-====== resurrection ======
+====== diriliş ======
 
-===== Definition: =====
+===== Tanım =====
 
-The term "resurrection" refers to the act of becoming alive again after having died.
+«Diriliş» sözcüğüyle öldükten sonra tekrar yaşama dönme eylemi kastediliyor.
+  * Birini diriltmek demek, bu kişiyi tekrar hayata döndürmek demektir. Buna yalnızca Tanrı’nın gücü yeter.
+  * «Diriliş» sözcüğüyle çoğu zaman İsa’nın öldükten sonra hayata dönmesi kastedilir.
+  * İsa «Diriliş ve hayat Ben’im» dediğinde dirilişin kaynağı ve insanların hayata dönmesini sağlayan biri olduğunu kasteder.
 
-  * To resurrect someone means to bring that person back to life again. Only God has the power to do this.
-  * The word "resurrection" often refers to Jesus' coming back to life after he died.
-  * When Jesus said, "I am the Resurrection and the Life" he meant that he is the source of resurrection, and the one who causes people to come back to life.
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * The word "resurrection" could also be translated as, "coming back to life" or, "becoming alive again after being dead."
-  * The literal meaning of this word is "a rising up" or "the act of being raised (from the dead)." These would be other possible ways to translate this term.
+  * «Diriliş» sözcüğü ayrıca «hayata dönüş» ya da «ölü durumdan sonra diri duruma dönme» olarak çevrilebilir.
+  * Bu sözcüğün gerçek anlamı «kalkma» ya da «(ölü durumdan) kaldırılma eylemi»dir. Bu terimin başka mümkün çeviri yolları da bulunabilir.
 
 (See also: [[:tr:obe:kt:life|life, live, living, alive]], [[:tr:obe:kt:death|death, die, dead]], [[:tr:obe:kt:raise|raise, rise, risen]])
 
@@ -21,6 +20,7 @@ The term "resurrection" refers to the act of becoming alive again after having d
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:21-14|[21-14]]]** Through the Messiah's death and **resurrection**, God would accomplish his plan to save sinners and start the New Covenant.
-  * **[[:tr:obs:notes:frames:37-05|[37-05]]]** Jesus replied, "I am the **Resurrection**  and the Life. Whoever believes in me will live, even though he dies.
+  ***[[:tr:obs:notes:frames:21-14|[21-14]]]** Mesih’in ölümü ve **dirilişi** vasıtasıyla Tanrı, günahkârların kurtuluşu ve Yeni Ahit’in başlatılması ile ilgili planını gerçekleştirecekti.
+  ***[[:tr:obs:notes:frames:37-05|[37-05]]]** İsa Marta’ya, “**Diriliş** ve hayat Ben’im. Bana iman eden, ölse bile yaşayacak!
+
 ~~DISCUSSION~~{{tag>publish ktobs}}

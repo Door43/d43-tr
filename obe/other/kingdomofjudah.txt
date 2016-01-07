@@ -1,17 +1,13 @@
-====== Judah, kingdom of Judah ======
+====== Yahuda Krallığı ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-Judah was the largest of the twelve tribes of Israel. After King Solomon died, the Israelites split into two kingdoms: Israel and Judah. The kingdom of Judah was the southern kingdom, composed of the tribes of Judah and Benjamin.
-
-  * The capital city of the kingdom of Judah was Jerusalem.
-  * Some of the kings of the kingdom of Judah obeyed God and led the people to worship him. But many of Judah's kings were evil.
-  * Over 120 years after Assyria defeated Israel (the northern kingdom), Judah was conquered by the nation of Babylon. The Babylonians destroyed the city and the temple, and took most of the people from the kingdom of Judah away to Babylon as captives.
-
+Yahuda İsrail’in on iki oymağının en büyüğüydü. Kral Süleyman öldükten sonra İsrailliler İsrail ve Yahuda krallıkları olmak üzere iki krallığa bölündü. Yahuda Krallığı güneyde bulunuyor, Yahuda ve Benyamin oymaklarından oluşuyordu.
+  * Yahuda Krallığı’nın başkenti Yeruşalim’di.
+  * Yahuda Krallığı’nın bazı kralları Tanrı’ya itaat eder ve halkı O’na tapmaya teşvik ederlerdi. Fakat Yahuda’nın krallarının çoğu kötüydü.
+  * Asur İsrail’i mağlup ettikten 120 yıl sonra
 
 (See also: [[kingdom]], [[kingdomofisrael]], [[babylon]])
-
 
 ===== Bible References: =====
 
@@ -20,13 +16,13 @@ Judah was the largest of the twelve tribes of Israel. After King Solomon died, t
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:18-07|[18-07]]]** Only two tribes remained faithful to him (Rehoboam). These two tribes became the **kingdom of Judah**.
-  ***[[:tr:obs:notes:frames:18-10|[18-10]]]** The **kingdoms of Judah** and Israel became enemies and often fought against each other.
-  ***[[:tr:obs:notes:frames:18-13|[18-13]]]** The **kings of Judah** were descendants of David. Some of these kings were good men who ruled justly and worshiped God. But most of **Judah's** kings were evil, corrupt, and they worshiped idols.
-  ***[[:tr:obs:notes:frames:20-01|[20-01]]]** The **kingdoms of Israel and Judah** both sinned against God.
-  ***[[:tr:obs:notes:frames:20-05|[20-05]]]** The people in the **kingdom of Judah** saw how God had punished the people of the kingdom of Israel for not believing and obeying him. But they still worshiped idols, including the gods of the Canaanites.
-  ***[[:tr:obs:notes:frames:20-06|[20-06]]]** About 100 years after the Assyrians destroyed the kingdom of Israel, God sent Nebuchadnezzar, king of the Babylonians, to attack the **kingdom of Judah**.
-  ***[[:tr:obs:notes:frames:20-09|[20-09]]]** Nebuchadnezzar and his army took almost all of the people of **the kingdom of Judah** to Babylon, leaving only the poorest people behind to plant the fields.
+  ***[[:tr:obs:notes:frames:18-07|[18-07]]]** Yalnızca iki oymak ona (Rehavam’a) sadık kaldı. Bunlar **Yahuda Krallığı** oldular.
+  ***[[:tr:obs:notes:frames:18-10|[18-10]]]** **Yahuda ve İsrail krallıkları** birbirine düşman oldular ve sık sık birbiriyle savaştılar.
+  ***[[:tr:obs:notes:frames:18-13|[18-13]]]** **Yahuda’nın kralları** Davut’un soyundandı. Aralarında adaletle hüküm süren ve Tanrı’ya tapan iyi insanlar da vardı. Fakat **Yahuda**’nın krallarının çoğu putlara tapan kötü ve bozuk kişilerdi.
+  ***[[:tr:obs:notes:frames:20-01|[20-01]]]** İsrail Krallığı ve **Yahuda Krallığı** Tanrı’ya karşı günah işlediler.
+  ***[[:tr:obs:notes:frames:20-05|[20-05]]]** **Yahuda Krallığı**’nın halkı, Tanrı’nın İsrail halkına imansızlığı ve itaatsizliği için verdiği cezayı gördü. Buna rağmen hâlâ Kenan ilâhlarına ve diğer putlara tapınmaya devam etti.
+  ***[[:tr:obs:notes:frames:20-06|[20-06]]]** Asurluların İsrail Krallığı’nı tahrip etmesinden yaklaşık 100 yıl sonra Tanrı Babil kralı Nebukadnessar’ı **Yahuda Krallığı**’na saldırmaya gönderdi.
+  ***[[:tr:obs:notes:frames:20-09|[20-09]]]** Nebukadnessar’la ordusu **Yahuda Krallığı**’nın hemen hemen bütün halkını Babil’e sürgün etti, yalnızca en yoksul insanları toprağı işlesinler diye bıraktı.
 
 ~~DISCUSSION~~
 

@@ -1,20 +1,19 @@
-====== innocent ======
+====== suçsuz ======
 
-===== Definition: =====
+===== Tanım =====
 
-The term "innocent" means to not be guilty of a crime or other wrongdoing that a person is accused of.
+«Suçsuz» terimi birinin suçlandığı işte suçu olmadığı anlamına gelir.
+  * Yanlış bir şey yapmakla suçlanan kişi o işi yapmadıysa suçsuzdur.
+  * Tamamen suçsuz olan tek insan İsa’ydı, çünkü O asla yanlış bir şey yapmamıştır. İsa günahsızdı.
+  * Havari Pavlus «suçsuz» terimini saf, deneyimsiz, toy anlamında kullanmıştır.
+  * «Suçsuz» ayrıca genel olarak kötülüklere katılmamak anlamında kullanılır.
 
-  * A person accused of doing something wrong is innocent if he has not committed that wrong.
-  * Jesus is the only human being who was completely innocent, because he never did anything wrong. He was sinless.
-  * The apostle Paul uses "innocent" as a way of calling people simple, inexperienced, and naive.
-  * The term "innocent" is also used to refer generally to not being involved in evil things.
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * The term "innocent" could also be translated as "not guilty" or "having done nothing wrong."
-  * If possible, it is best to translate "sinless" and "innocent" differently.
-  * The frequently occurring idiom, "innocent blood" could be translated as, "people who did nothing wrong to deserve being killed."
-  * Depending on the context, other ways to translate "innocent" could include, "naive" or "pure" or "unsuspecting of evil" or "not mixed up in evil."
+  * «Suçsuz» terimi «yanlış bir şey yapmamış» olarak da çevrilebilir.
+  * Mümkünse «günahsız» ve «suçsuz» ayrı terimlerle çevrilmeli.
+  * Sıkça kullanılan «suçsuz kan» deyimi şöyle çevrilebilir: «öldürülmeyi hak edecek bir kötülük yapmayan insanlar.»
+  * Bağlama dayalı olarak, «suçsuz» sözcüğünün çevrilmesinin diğer seçenekleri «saf», «temiz» ya da «kötülüğü olmayan» olabilir.
 
 (See also: [[:tr:obe:kt:guilt|guilt, guilty]])
 
@@ -24,9 +23,10 @@ The term "innocent" means to not be guilty of a crime or other wrongdoing that a
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:08-06|[08-06]]]** After two years, Joseph was still in prison, even though he was **innocent**.
-  * **[[:tr:obs:notes:frames:40-04|[40-04]]]** One of them mocked Jesus, but the other said, "Do you have no fear of God? We are guilty, but this man is **innocent**."
-  * **[[:tr:obs:notes:frames:40-08|[40-08]]]** When the soldier guarding Jesus saw everything that happened, he said, "Certainly, this man was **innocent**. He was the Son of God."
+  ***[[:tr:obs:notes:frames:08-06|[08-06]]]** Üstünden iki yıl geçmişti, Yusuf **suçsuz** olmasına rağmen hâlâ zindandaydı.
+  ***[[:tr:obs:notes:frames:40-04|[40-04]]]** Mahkûmlardan biri İsa’yla alay etti, diğeri ise, “Sen hiç Tanrı’dan korkmuyor musun? Biz suçluyuz, bu adam ise **suçsuz**.” dedi.
+  ***[[:tr:obs:notes:frames:40-08|[40-08]]]** İsa’yı gözeten asker, olanları görünce, “Şüphesiz, bu adam **suçsuzdu**. Tanrı’nın Oğlu’ydu!” dedi.
+
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~

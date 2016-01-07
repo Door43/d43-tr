@@ -1,19 +1,16 @@
-====== Isaiah ======
+====== Yeşaya ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-Isaiah was a prophet of God.
-
-  * Isaiah wrote many prophecies about Israel that came true while he was still living.
-  * Isaiah is especially known for the prophecies he wrote about the Messiah that came true 700 years later when Jesus was living on earth.
-  * Jesus and his disciples quoted Isaiah's prophecies to teach people about the Messiah.
-  * The Book of Isaiah is one of the major books of the Bible.
+Yeşaya, Tanrı’nın bir peygamberiydi.
+  * Yeşaya İsrail hakkında hâlâ sağlığında gerçekleşen çok peygamberlik söyledi.
+  * Yeşaya Mesih hakkında yazdığı ve 700 yıl sonra İsa’nın hayatında gerçekleşen peygamberlik sözleri sayesinde özellikle ünlü bir peygamber olmuştur.
+  * İsa ve havarileri insanlara Mesih hakkında öğretirken Yeşaya’nın peygamberlik sözlerini sık sık alıntıladılar.
+  * Yeşaya’nın kitabı Kutsal Kitap’ın en büyük ve önemli bölümlerinden biridir.
 
 (Translation suggestions: [[en:ta:vol1:translate:translate_names]])
 
 (See also: [[en:obe:kt:prophet]], [[en:obe:kt:christ]])
-
 
 ===== Bible References: =====
 
@@ -22,13 +19,13 @@ Isaiah was a prophet of God.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:21-09|[21-09]]]** The prophet **Isaiah** prophesied that the Messiah would be born from a virgin.
-  ***[[:tr:obs:notes:frames:21-10|[21-10]]]** The prophet **Isaiah** said the Messiah would live in Galilee, comfort broken-hearted people, and proclaim freedom to captives and release to prisoners. 
-  ***[[:tr:obs:notes:frames:21-11|[21-11]]]** The prophet **Isaiah** also prophesied that the Messiah would be hated without reason and rejected.
-  ***[[:tr:obs:notes:frames:21-12|[21-12]]]** **Isaiah** prophesied that people would spit on, mock, and beat the Messiah. 
-  ***[[:tr:obs:notes:frames:26-02|[26-02]]]** They handed him (Jesus) the scroll of the prophet **Isaiah** so that he would read from it. Jesus opened up the scroll and read part of it to the people.
-  ***[[:tr:obs:notes:frames:45-08|[45-08]]]** When Philip approached the chariot, he heard the Ethiopian reading from what the prophet **Isaiah** wrote.
-  ***[[:tr:obs:notes:frames:45-10|[45-10]]]** Philip explained to the Ethiopian that **Isaiah** was writing about Jesus. 
+  ***[[:tr:obs:notes:frames:21-09|[21-09]]]** **Yeşaya** Peygamber Mesih’in bakireden doğuşunu müjdeledi.
+  ***[[:tr:obs:notes:frames:21-10|[21-10]]]** **Yeşaya** Peygamber Mesih’in Celile’de yaşayacağından, yüreği ezik olanlara teselli vereceğinden, tutsaklara serbest bırakılacaklarını, zindanlarda bulunanlara kurtulacaklarını ilan edeceğinden haber verdi.
+  ***[[:tr:obs:notes:frames:21-11|[21-11]]]** **Yeşaya** Peygamber ayrıca Mesih’in hiçbir sebep olmadan nefretle reddedileceğinden haber verdi.
+  ***[[:tr:obs:notes:frames:21-12|[21-12]]]** **Yeşaya**’nın bildirdiği üzere, insanlar Mesih’e tükürecek, alay edecek, vuracaklar.
+  ***[[:tr:obs:notes:frames:26-02|[26-02]]]** O’na (İsa’ya) okuması için **Yeşaya** Peygamber’in tomarını verdiler. İsa tomarı açıp halka bir parça okudu.
+  ***[[:tr:obs:notes:frames:45-08|[45-08]]]** Filipus arabaya yetişince Etiyopyalının **Yeşaya** Peygamber’in yazdığı kitabı okuduğunu işitti.
+  ***[[:tr:obs:notes:frames:45-10|[45-10]]]** Filipus Etiyopyalı adama **Yeşaya**’nın İsa’dan söz ettiğini izah etti.
 
 ~~DISCUSSION~~
 

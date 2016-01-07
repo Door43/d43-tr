@@ -1,21 +1,20 @@
-====== kingdom of God, kingdom of heaven ======
+====== Tanrı’nın Hükümranlığı ======
 
-===== Definition: =====
+===== Tanım =====
 
-Both of these terms refer to God's rule and authority over his people and over all creation. They also refer to the people who are ruled by God.
+Bu terimlerin ikisi de Tanrı’nın halkı ve bütün evren üzerindeki egemenliğine, hakimiyetine aittir. Bunlar ayrıca Tanrı’nın yönettiği halka aittir.
+  * Yeni Ahit’te, Matta bölümünde «Göklerin Egemenliği» terimi «Tanrı’nın Hükümranlığı» anlamında kullanılır. İkisinin anlamı aynıdır.
+  * Eski Ahit peygamberleri Tanrı’nın adaletle hüküm sürecek ve düşmanlarına karşı zafer kazanacak olan Mesih’i göndererek hükümranlığını kuracağını bildirmişlerdi.
+  * Tanrı’nın Oğlu İsa, Tanrı’nın Hükümranlığında hüküm sürecek olan Mesih’tir.
+  * Tanrı göklerde her zaman hüküm sürdüğü için O’nun ruhsal hükümranlığı orada her zaman mevcut olmuştur.
+  * Tanrı’nın fiziksel hükümranlığı, İsa Mesih olarak sonsuza dek hüküm sürmek üzere göklerden tekrar geleceği zaman yeryüzünde kurulacaktır.
 
-  * In the New Testament, the book by Matthew uses the expression "kingdom of heaven" to refer to the "kingdom of God." Both terms mean the same thing.
-  * The Old Testament prophets said that God would establish his kingdom by sending the Messiah to rule with righteousness and to conquer his enemies.
-  * Jesus, the Son of God, is the Messiah who will rule over God's kingdom.
-  * The spiritual kingdom of God has always existed in heaven because God has always reigned there.
-  * The physical kingdom of God will be established on earth when Jesus returns from heaven to rule as the Messiah forever.
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * Depending on the context, "kingdom of God" can be translated as "God's rule (as king)" or "when God reigns as king" or "God's realm of authority."
-  * The term "kingdom of heaven" should retain the word "heaven" since this is the term that Matthew used and is distinctive to his gospel. It could be translated as "God's rule from heaven as king" or "God in heaven reigning" or "heaven's reign" or "heaven's realm of authority."
-  * Some translations may prefer to capitalize "Heaven" to show that it refers to God. Others may include a note in the text such as "kingdom of Heaven (that is, God)."
-  * A footnote at the bottom of the page of a printed Bible may be used to explain the meaning of "heaven" in this expression.
+  * Bağlama göre, «Tanrı’nın hükümranlığı» «Tanrı’nın krallığı» ya da «Tanrı kral olarak hüküm süreceği zaman» olarak çevrilebilir.
+  * »Göklerin Egemenliği» teriminde «gökler» sözcüğü kalmalı, çünkü bu, Matta’nın Müjde’sinde özellikle kullandığı terimdir. Onu «Tanrı’nın göklerden Kral olarak hükmetmesi», «Tanrı’nın göklerdeki egemenliği», «göklerin hakimiyeti» ya da «göklerin hükümranlığı» şeklinde çevirmek mümkümdür.
+  * Bazı çevirilerde «Gökler» sözcüğünün Tanrı’ya ait olduğu belli olsun diye büyük harfle yazılması gerekebilir. Başkalarında metnin içinde şöyle not yapılabilir: «Göklerin (yani Tanrı’nın) Egemenliği.»
+  * Kutsal Kitap’ta sayfa altında verilen dipnot da bu ifadedeki «gökler» sözcüğünün anlamını açıklamak için kullanılabilir.
 
 (See also: [[:tr:obe:other:kingdom|kingdom]], [[:tr:obe:other:king|king]], [[:tr:obe:kt:god|God]])
 
@@ -26,16 +25,17 @@ Both of these terms refer to God's rule and authority over his people and over a
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:24-02|[24-02]]]** He (John) preached to them, saying, "Repent, for the **kingdom of God**  is near!"
-  * **[[:tr:obs:notes:frames:28-06|[28-06]]]** Then Jesus said to his disciples, "It is extremely hard for rich people to enter into the **kingdom of God**! Yes, it is easier for a camel to go through the eye of a needle than for a rich man to enter the **kingdom of God**."
-  * **[[:tr:obs:notes:frames:29-02|[29-02]]]** Jesus said, "The **kingdom of God**  is like a king who wanted to settle accounts with his servants."
-  * **[[:tr:obs:notes:frames:34-01|[34-01]]]** Jesus told many other stories about the **kingdom of God**. For example, he said, "The **kingdom of God**  is like a mustard seed that someone planted in his field."
-  * **[[:tr:obs:notes:frames:34-03|[34-03]]]** Jesus told another story, "The **kingdom of God**  is like yeast that a woman mixes into some bread dough until it spreads throughout the dough."
-  * **[[:tr:obs:notes:frames:34-04|[34-04]]]**"The **kingdom of God**  is also like hidden treasure that someone hid in a field.. Another man found the treasure and then buried it again."
-  * **[[:tr:obs:notes:frames:34-05|[34-05]]]**"The **kingdom of God**  is also like a perfect pearl of great value."
-  * **[[:tr:obs:notes:frames:42-09|[42-09]]]** He proved to his disciples in many ways that he was alive, and he taught them about the **kingdom of God**.
-  * **[[:tr:obs:notes:frames:49-05|[49-05]]]** Jesus said that the **kingdom of God**  is more valuable than anything else in the world.
-  * **[[:tr:obs:notes:frames:50-02|[50-02]]]** When Jesus was living on earth he said, "My disciples will preach the good news about the **kingdom of God**  to people everywhere in the world, and then the end will come."
+  ***[[:tr:obs:notes:frames:24-02|[24-02]]]** O Yahya onlara, «Tövbe edin, çünkü **Tanrı’nın Hükümranlığı** yaklaştı!» diye seslenirdi.
+  ***[[:tr:obs:notes:frames:28-06|[28-06]]]** O zaman İsa havarilerine, “Zengin insanlar **Tanrı’nın Hükümranlığı**’na zor girer!” dedi. “Bir devenin iğne deliğinden geçmesi, zengin adamın **Tanrı’nın Hükümranlığı**’na girmesinden daha kolaydır.”
+  ***[[:tr:obs:notes:frames:29-02|[29-02]]]** İsa dedi: “**Tanrı’nın Hükümranlığı**, hizmetkârlarıyla hesap görmek isteyen bir krala benzer.
+  ***[[:tr:obs:notes:frames:34-01|[34-01]]]** İsa **Tanrı’nın Hükümranlığı** konusunda birçok diğer öykü anlattı. Meselâ: “**Tanrı’nın Hükümranlığı**, birinin tarlasında ektiği hardal tohumuna benzer.
+  ***[[:tr:obs:notes:frames:34-03|[34-03]]]** İsa başka bir öykü anlattı: “**Tanrı’nın Hükümranlığı**, bir kadının una karıştırdığı mayaya benzer. Sonunda maya bütün hamuru kabartır.”
+  ***[[:tr:obs:notes:frames:34-04|[34-04]]]** “Bundan başka, **Tanrı’nın Hükümranlığı** bir adamın tarlada gömdüğü gizli defineye benzer. Başka birisi o defineyi bulup tekrar gömer.”
+  ***[[:tr:obs:notes:frames:34-05|[34-05]]]** “Ayrıca **Tanrı’nın Hükümranlığı** nadide bir inci gibidir.”
+  ***[[:tr:obs:notes:frames:42-09|[42-09]]]** İsa imanlı kardeşlere yaşadığına dair çok kanıt verdi ve **Tanrı’nın Hükümranlığı** konusunda öğretti.
+  ***[[:tr:obs:notes:frames:49-05|[49-05]]]** İsa, **Tanrı’nın Hükümranlığı**’nın dünyada her şeyden değerli olduğunu öğretirdi.
+  ***[[:tr:obs:notes:frames:50-02|[50-02]]]** İsa yeryüzündeyken şöyle dedi: “Bana iman edenler **Tanrı’nın Hükümranlığı**’yla ilgili sevindirici haberi dünyanın her yerinde duyuracaklar. O zaman son gelecektir.”
+
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~

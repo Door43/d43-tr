@@ -1,19 +1,16 @@
-====== Bathsheba ======
+====== Bat-şeva ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-Bathsheba was the wife of Uriah, a soldier in King David's army. She became the wife of David, and the mother of Solomon.
-
-  * David committed adultery with Bathsheba while she was married to Uriah.
-  * When Bathsheba became pregnant with David's child, David caused Uriah to be killed in battle. David then married Bathsheba. 
-  * God punished David for his sin by causing the child to die several days after he was born.
-  * Later, Bathsheba gave birth to another son, Solomon, who became king after David.
+Bat-Şeva, Davut’un ordusunda bir asker olan Uriya’nın eşiydi. Bat-Şeva Davut’un karısı ve Süleyman’ın annesi oldu.
+  * Bat-Şeva Uriya’yla evliyken Davut onunla zina etti.
+  * Bat-Şeva Davut’tan hamile olduğu zaman Davut Uriya’nın savaşta öldürülmesini düzenledi. Sonra Davut Bat-Şeva’yla evlendi. 
+  * Tanrı Davut’un günahının cezası olarak doğan oğlunun birkaç gün sonra ölmesini sağladı.
+  * Bir süre sonra Bat-Şeva’nın başka bir oğlu oldu. O, Davut’tan sonra kral olan Süleyman’dı.
 
 (Translation suggestions: [[en:ta:vol1:translate:translate_names]])
 
 (See also: [[uriah]], [[david]], [[solomon]])
-
 
 ===== Bible References: =====
 
@@ -22,12 +19,11 @@ Bathsheba was the wife of Uriah, a soldier in King David's army. She became the 
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:17-10|[17-10]]]** One day, when all of David's soldiers were away from home fighting battles, he got up from an afternoon nap and saw a beautiful woman bathing. Her name was **Bathsheba**.
-  ***[[:tr:obs:notes:frames:17-11|[17-11]]]** A short time later **Bathsheba** sent a message to David saying that she was pregnant.
-  ***[[:tr:obs:notes:frames:17-12|[17-12]]]** **Bathsheba's** husband, a man named Uriah, was one of David's best soldiers.
-  ***[[:tr:obs:notes:frames:17-13|[17-13]]]** After Uriah was killed, David married **Bathsheba**.
-  ***[[:tr:obs:notes:frames:17-14|[17-14]]]** Later,  David and **Bathsheba** had another son, and they named him Solomon.
-
+  ***[[:tr:obs:notes:frames:17-10|[17-10]]]** Bir gün Davut’un bütün askerleri evden uzakta, savaştayken, Davut gündüz şekerlemeden sonra kalktı, dışarı baktı ve yıkanmakta olan güzel bir kadın gördü. Kadının adı **Bat-Şeva**’ydı.
+  ***[[:tr:obs:notes:frames:17-11|[17-11]]]** Bir süre sonra **Bat-Şeva** hamile olduğu haberini Davut’a gönderdi.
+  ***[[:tr:obs:notes:frames:17-12|[17-12]]]** **Bat-Şeva**’nın kocası, Davut’un en iyi askerlerinden biri Uriya’ydı.
+  ***[[:tr:obs:notes:frames:17-13|[17-13]]]** Uriya öldürüldükten sonra Davut **Bat-Şeva**’yla evlendi.
+  ***[[:tr:obs:notes:frames:17-14|[17-14]]]** Daha sonra Davut’la **Bat-Şeva**’nın başka bir oğlu oldu ve ona Süleyman adını verdiler.
 
 ~~DISCUSSION~~
 

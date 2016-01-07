@@ -1,19 +1,18 @@
-====== tempt, temptation ======
+====== ayartmak ======
 
-===== Definition: =====
+===== Tanım =====
 
-To tempt someone is to try to get that person to do something wrong.
+Birini ayartmak demek, onu baştan çıkarmak, ona yanlış bir iş yaptırmak demektir.
+  * Ayartı bir kişinin yanlış iş yapmasına sebep olan bir şeydir.
+  * İnsanlar kendi günahlı tabiatları ya da başka insanlar tarafından ayartılabilirler.
+  * Şeytan da insanları Tanrı’ya itaatsizlik etmeye ve yanlış işler yaparak Tanrı’ya karşı günah işlemeye ayartır.
+  * Şeytan İsa’yı denerken ayartmaya çalıştı, ama İsa Şeytan’ın tüm ayartılarına karşı koydu ve asla günah işlemedi.
 
-  * A temptation is something that causes a person to want to do something wrong.
-  * People are tempted by their own sinful nature and by other people.
-  * Satan also tempts people to disobey God and to sin against God by doing wrong things.
-  * Satan tempted Jesus and tried to get him to do something wrong, but Jesus resisted all of Satan's temptations and never sinned.
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * The term "tempt" can be translated as, "try to cause to sin" or "entice" or "cause a desire to sin."
-  * The word translated as "tempt" can also mean, "put to the test."
-  * Ways to translate "temptations" could include, "things that tempt" or "things that entice someone to sin" or "things that cause desire to do something wrong."
+  * «Ayartmak» sözcüğü «baştan çıkarmak», «günaha sürüklemeye çalışmak» ya da «günah işlemeyi arzulamasını sağlamak» olarak çevrilebilir.
+  * Bazı bağlamlarda «ayartmak» yerine «denemek» sözcüğünün kullanılması gerekir.
+  * «Ayartı» sözcüğü şöyle çevrilebilir: «ayartıcı şeyler», «birini günaha sürükleyen şeyler» ya da «yanlış bir şey yapma arzusuna sebep olan şeyler.»
 
 (See also: [[:tr:obe:kt:sin|sin, sinful, sinner, sinning]], [[:tr:obe:other:disobey|disobey, disobedient]], [[:tr:obe:kt:satan|Satan, devil, evil one]])
 
@@ -23,9 +22,10 @@ To tempt someone is to try to get that person to do something wrong.
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:25-01|[25-01]]]** Then Satan came to Jesus and **tempted**  him to sin.
-  * **[[:tr:obs:notes:frames:25-08|[25-08]]]** Jesus did not give in to Satan's **temptations**, so Satan left him.
-  * **[[:tr:obs:notes:frames:38-11|[38-11]]]** Jesus told his disciples to pray that they would not enter into **temptation**.
+  ***[[:tr:obs:notes:frames:25-01|[25-01]]]** O zaman Şeytan O’nu (İsa’yı) **ayartmaya** geldi.
+  ***[[:tr:obs:notes:frames:25-08|[25-08]]]** İsa, Şeytan’ın **ayartılarına** uymadı, Şeytan da O’nu bırakıp gitti.
+  ***[[:tr:obs:notes:frames:38-11|[38-11]]]** İsa, havarilerine **ayartılmamak** için dua etmelerini söyledi.
+
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~

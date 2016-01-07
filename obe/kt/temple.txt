@@ -1,20 +1,19 @@
-====== temple ======
+====== tapınak ======
 
-===== Facts: =====
+===== Gerçeklikler =====
 
-The temple was a building surrounded by walled courtyards where the Israelites came to pray and to offer sacrifices to God. It was located on Mount Moriah in the city of Jerusalem.
+Tapınak, duvarlarla çevrelenen avluların içinde bulunan binaydı; İsrailliler o avlulara dua etmek ve Tanrı’ya kurban vermek için gelirlerdi. Tapınak Yeruşalim kentindeki Moriya dağında inşa edilmişti.
+  * «Tapınak» terimi çoğu zaman tapınak binası ve çevresindeki yapıların hepsine, ama bazen sadece tapınak binasına ait olarak kullanılır.
+  * Tapınak binasının Kutsal yer ve En Kutsal yer olmak üzere iki odası vardı.
+  * Tanrı tapınağı kendi konutu olarak adlandırdı.
+  * Yeni Ahit’te «Kutsal Ruh’un tapınağı» terimi İsa’ya iman edenlere ait olarak kullanılıyor, çünkü Kutsal Ruh onların içinde yaşıyor.
 
-  * Often the term "temple" refers to the whole temple complex, including the courtyards that surrounded the main building. Sometimes it refers only to the building.
-  * The temple building had two rooms, the Holy Place and the Most Holy Place.
-  * God referred to the temple as his dwelling place.
-  * In the New Testament, the term "temple of the Holy Spirit" is used to refer to believers in Jesus, because the Holy Spirit lives in them.
+===== Çeviri için öneriler =====
 
-===== Translation Suggestions: =====
-
-  * Usually when the text says that people were "in the temple," it is referring to the courtyards outside the building. This could be translated as "in the temple courtyards" or "in the temple complex."
-  * When it refers specifically to the building itself, some translations will translate "temple" as "temple building," to make it clear what is being referred to.
-  * Ways to translate "temple" could include, "God's holy house" or "sacred worship place."
-  * Often in the Bible, the temple is referred to as "the house of Yahweh" or "the house of God."
+  * Genelde bir metinde insanların «tapınakta» oldukları söylenirse tapınak binasının dışındaki avluda oldukları kastedilir. Bu şöyle de çevrilebilir: «tapınağın avlularında» ya da «tapınağın yapılarında.»
+  * Özel olarak tapınak binasından söz edildiği yerlerde bazı çevirilerde «tapınak» sözcüğüyle kastedilenin anlaşılması için «tapınak binası» şeklinde çevrilir.
+  * «Tapınak» terimi şöyle çevrilebilir: «Tanrı’nın kutsal evi» ya da «kutsal tapınma yeri.»
+  * Kutsal Kitap’ta çoğu zaman tapınak «Yahve’nin evi» ya da «Tanrı’nın evi» olarak çevrilir.
 
 (See also: [[:tr:obe:other:sacrifice]], [[:tr:obe:other:solomon]], [[:tr:obe:other:babylon]], [[:tr:obe:kt:holyspirit]], [[:tr:obe:kt:tabernacle]], [[:tr:obe:other:courtyard]] [[:tr:obe:other:zion]] [[:tr:obe:other:house]])
 
@@ -24,12 +23,13 @@ The temple was a building surrounded by walled courtyards where the Israelites c
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:tr:obs:notes:frames:17-06|[17-06]]]** David wanted to build a **temple**  where all the Israelites could worship God and offer him sacrifices.
-  * **[[:tr:obs:notes:frames:18-02|[18-02]]]** In Jerusalem, Solomon built the **Temple**  for which his father David had planned and gathered materials. Instead of at the Tent of Meeting, people now worshiped God and offered sacrifices to him at the **Temple**. God came and was present in the **Temple**, and he lived there with his people.
-  * **[[:tr:obs:notes:frames:20-07|[20-07]]]** They (Babylonians) captured the city of Jerusalem, destroyed the **Temple**, and took away all the treasures.
-  * **[[:tr:obs:notes:frames:20-13|[20-13]]]** When the people arrived in Jerusalem, they rebuilt the **Temple**  and the wall around the city of the city and the **Temple**.
-  * **[[:tr:obs:notes:frames:25-04|[25-04]]]** Then Satan took Jesus to the highest point on the **Temple**  and said, "If you are the Son of God, throw yourself down, for it is written, 'God will command his angels to carry you so your foot does not hit a stone.'"
-  * **[[:tr:obs:notes:frames:40-07|[40-07]]]** When he died, there was an earthquake and the large curtain that separated the people from the presence of God in the **Temple**  was torn in two, from the top to the bottom.
+  ***[[:tr:obs:notes:frames:17-06|[17-06]]]** Davut bütün İsraillilerin Tanrı’ya tapınarak kurban sunabilecekleri bir **tapınak** kurmak istedi.
+  ***[[:tr:obs:notes:frames:18-02|[18-02]]]** Süleyman Yeruşalim’de babası Davut’un tasarladığı ve inşası için hazırlık yaptığı **tapınağı** inşa ettirdi. Halk artık Buluşma Çadırı’nda değil **Tapınak**’ta Tanrı’ya tapınıyor ve kurban sunuyordu. Tanrı, halkıyla yaşamak üzere **Tapınak**’a geldi.
+  ***[[:tr:obs:notes:frames:20-07|[20-07]]]** (Babilliler) Yeruşalim kentini fethettiler, **Tapınak**’ı yıktılar, kentin ve **Tapınak**’ın bütün hazinelerini götürdüler.
+  ***[[:tr:obs:notes:frames:20-13|[20-13]]]** Yeruşalim’e dönen Yahudiler **Tapınak**’ı ve kentin surlarını yeniden kurdular.
+  ***[[:tr:obs:notes:frames:25-04|[25-04]]]** Sonra Şeytan, İsa’yı **Tapınak**’ın en yüksek yerine çıkarıp dedi: “Eğer Tanrı’nın Oğlu’ysan, kendini aşağı at, çünkü şöyle yazılmıştır: ‘Tanrı, meleklerine buyruk verecek, ayağın bir taşa çarpmasın diye seni elleri üzerinde taşıyacaklar.’”
+  ***[[:tr:obs:notes:frames:40-07|[40-07]]]** İsa öldüğü anda deprem oldu ve **Tapınak**’ta bulunan, insanları Tanrı’nın huzurundan ayıran büyük perde yukarıdan aşağıya kadar ikiye yırtıldı.
+
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~

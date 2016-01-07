@@ -1,18 +1,8 @@
-====== heal, cure ======
+====== şifa vermek ======
 
+===== Tanım =====
 
-===== Definition: =====
-
-
-To heal is to cause a person's wounds, disease, or disability (such as blindness) to no longer exist. It also means to cause a sick or disabled person to be healthy again.
-
-    * A person who is healed has been made well.
-    * Natural healing happens gradually. 
-    * Miraculous healing normally occur suddenly, as when Peter caused a crippled man to immediately be able to walk. 
-
-
-(See also: [[en:obe:kt:miracle]])
-
+Şifa vermek demek, birinin yara, hastalık ya da engelli durumunun iyileşmesini sağlamak demektir.(See also: [[en:obe:kt:miracle]])
 
 ===== Bible References: =====
 
@@ -21,14 +11,14 @@ To heal is to cause a person's wounds, disease, or disability (such as blindness
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:19-14|[19-14]]]** One of the miracles happened to Naaman, an enemy commander, who had a horrible skin disease. He had heard of Elisha so he went and asked Elisha to **heal** him.
-  ***[[:tr:obs:notes:frames:21-10|[21-10]]]** He (Isaiah) also predicted that the Messiah would **heal** sick people and those who could not hear, see, speak, or walk.
-  ***[[:tr:obs:notes:frames:26-06|[26-06]]]** Jesus continued saying, "And during the time of the prophet Elisha, there were many people in Israel with skin diseases. But Elisha did not **heal** any of them. He only **healed** the skin disease of Naaman, a commander of Israel's enemies."
-  ***[[:tr:obs:notes:frames:26-08|[26-08]]]** They brought many people who were sick or handicapped, including those who could not see, walk, hear, or speak, and Jesus **healed** them.
-  ***[[:tr:obs:notes:frames:32-14|[32-14]]]** She had heard that Jesus had **healed** many sick people and thought, "I'm sure that if I can just touch Jesus' clothes, then I will be **healed**, too!"
-  ***[[:tr:obs:notes:frames:44-03|[44-03]]]** Immediately, God **healed** the lame man, and he began to walk and jump around, and to praise God.
-  ***[[:tr:obs:notes:frames:44-08|[44-08]]]** Peter answered them, "This man stands before you **healed** by the power of Jesus the Messiah."
-  ***[[:tr:obs:notes:frames:49-02|[49-02]]]** ] Jesus did many miracles that prove he is God. He walked on water, calmed storms, **healed** many sick people, drove out demons, raised the dead to life, and turned five loaves of bread and two small fish into enough food for over 5,000 people.
+  ***[[:tr:obs:notes:frames:19-14|[19-14]]]** Mucizelerden biri düşman ordusunun komutanı Naaman’ın hayatında oldu. Naaman korkunç bir deri hastalığına tutulmuştu. Elişa hakkında duyunca yanına gitti ve ona **şifa** vermesini istedi.
+  ***[[:tr:obs:notes:frames:21-10|[21-10]]]** Üstelik (Yeşaya) Mesih’in hasta olanlara, duyamayan, göremeyen, konuşamayan ve yürüyemeyen insanlara **şifa** vereceğini bildirdi.
+  ***[[:tr:obs:notes:frames:26-06|[26-06]]]** İsa sözüne devam etti: “Elişa Peygamber’in zamanında da İsrail’de çok deri hastası vardı, fakat Elişa onlardan hiçbirine **şifa** vermedi. Yalnızca İsrail’in düşmanlarının ordu komutanı Naaman’a **şifa** verdi.”
+  ***[[:tr:obs:notes:frames:26-08|[26-08]]]** (İsa) O’na getirilen birçok hasta ve engelli insana: göremeyen, yürüyemeyen, duyamayan, konuşamayan hastalara **şifa** verdi.
+  ***[[:tr:obs:notes:frames:32-14|[32-14]]]** İsa’nın çok hastaya **şifa** verdiğini duymuştu, bu yüzden, “İsa’nın giysisine dokunabilsem **şifa** bulacağımdan eminim!” diye düşündü.
+  ***[[:tr:obs:notes:frames:44-03|[44-03]]]** Aniden Tanrı sakat adama **şifa** verdi. Adam yürümeye, sıçramaya ve Tanrı’ya hamdetmeye başladı.
+  ***[[:tr:obs:notes:frames:44-08|[44-08]]]** Petrus onlara, “Bu adam İsa Mesih’in kudretiyle önünüzde **sapasağlam** duruyor.” diye cevap verdi.
+  ***[[:tr:obs:notes:frames:49-02|[49-02]]]** İsa, Tanrı olduğunu kanıtlayan çok mucize yaptı. Su üstünde yürüdü, fırtınaları dindirdi, çok hastaya **şifa** erdi, cinleri çıkardı, ölüleri diriltti, beş ekmek ve iki küçük balıkla 5.000 kişiyi doyurdu.
 
 ~~DISCUSSION~~
 

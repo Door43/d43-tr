@@ -1,21 +1,18 @@
-====== Jacob, Israel  ======
+====== Yakup ======
 
+===== Gerçeklikler =====
 
-===== Facts: =====
-
-Jacob was the second of the twin sons that were born to Isaac and Rebekah. The first twin born was Esau.
-
-    * Jacob's name means "deceiver" or "trickster." 
-    * Jacob was clever and deceptive. He found ways to take both the firstborn inheritance rights and the blessing from his older brother, Esau.
-    * Esau was angry and planned to kill him, so Jacob left his homeland. But he later returned and lived peacefully with his brother.
-    * God changes Jacob's name to Israel, which means, "He struggles with God." 
-    * God kept his covenant to Abraham and his descendants through Abraham's son, Isaac, and Isaac's son, Jacob.
-    * Jacob had twelve sons. Their descendants became the twelve tribes of Israel.
+Yakup, İshak’la Rebeka’nın ikiz doğan oğullarının ikincisiydi. İlk doğan oğul Esav’dı.
+  * Yakup adının anlamı «yalancı» ya da «dolandırıcı»dır. 
+  * Yakup akıllı ve insan aldatan biriydi. Büyük kardeşinden hem ilk doğan oğulun miras hakkını hem de hayırduasını çalmak için yol buldu.
+  * Esav öfkelenip onu öldürmeye karar verdi, dolayısıyla Yakup vatanından kaçtı. Fakat daha sonra vatanına döndü ve kardeşi ile barış içinde yaşadı.
+  * Tanrı Yakup’un adını «Tanrı ile güreşen» anlamına gelen İsrail olarak değiştirdi. 
+  * Tanrı, İbrahim’in oğlu İshak ve İshak’ın oğlu Yakup vasıtasıyla İbrahim ve soyu ile yaptığı ahdi yerine getirdi.
+  * Yakup’un on iki oğlu vardı. Onların soyu İsrail’in on iki oymağı oldu.
 
 (Translation suggestions: [[en:ta:vol1:translate:translate_names]])
 
 (See also: [[isaac]], [[rebekah]], [[esau]], [[israel]])
-
 
 ===== Bible References: =====
 
@@ -24,12 +21,11 @@ Jacob was the second of the twin sons that were born to Isaac and Rebekah. The f
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:07-01|[07-01]]]** As the boys grew up, Rebekah loved **Jacob**, but Isaac loved Esau. **Jacob** loved to stay at home, but Esau loved to hunt.
-  ***[[:tr:obs:notes:frames:07-07|[07-07]]]**  **Jacob** lived there for many years, and during that time he married and had twelve sons and a daughter. God made him very wealthy.
-  ***[[:tr:obs:notes:frames:07-08|[07-08]]]** After twenty years away from his home in Canaan, **Jacob** returned there with his family, his servants, and all his herds of animals.
-  ***[[:tr:obs:notes:frames:07-10|[07-10]]]** The covenant promises God had promised to Abraham and then to Isaac now passed on to **Jacob**.
-  ***[[:tr:obs:notes:frames:08-01|[08-01]]]** Many years later, when **Jacob** was an old man, he sent his favorite son, Joseph, to check on his brothers who were taking care of the herds.
-
+  ***[[:tr:obs:notes:frames:07-01|[07-01]]]** Kardeşler büyüdükçe Rebeka **Yakup**’u, İshak ise Esav’ı sevdi. **Yakup** evde kalmaktan, Esav ise ava gitmekten hoşlanırdı. 
+  ***[[:tr:obs:notes:frames:07-07|[07-07]]]** **Yakup** yıllar boyunca Rebeka’nın akrabalarıyla yaşadı. Orada evlendi, on iki oğlu ve bir kızı oldu. Tanrı onu çok zenginleştirdi.
+  ***[[:tr:obs:notes:frames:07-08|[07-08]]]** Yirmi yıl Kenan’daki evinden uzak kaldıktan sonra **Yakup** ailesi, uşakları ve sürüleri ile beraber oraya döndü.
+  ***[[:tr:obs:notes:frames:07-10|[07-10]]]** Tanrı’nın ahdinde İbrahim’e verdiği vaatler bundan sonra İshak’tan **Yakup**’a geçti.
+  ***[[:tr:obs:notes:frames:08-01|[08-01]]]** Üstünden yıllar geçmiş, **Yakup**’un yaşı ilerlemişti. **Yakup** sevgili oğlu Yusuf’u sürü güden kardeşlerinin durumunu öğrenmek için onların yanına gönderdi.
 
 ~~DISCUSSION~~
 
