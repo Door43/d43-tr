@@ -1,39 +1,40 @@
 ====== 33. Çiftçi Öyküsü ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg}}
 
-Bir gün İsa, gölün kıyısına yakın bir yerde büyük kalabalığa öğretiyordu. Çok insan O’nu dinlemeye gelmişti, hatta İsa’nın onlara konuşabilmek için kıyıya yakın bir tekneye geçip oturması gerekti. Tekneden onlara birçok konuyu öğretiyordu.
+Bir gün İsa, gölün kıyısına yakın bir yerde büyük kalabalığa öğretiyordu. Çok insan O'nu dinlemeye gelmişti, hatta İsa'nın onlara konuşabilmek için kıyıya yakın bir tekneye geçip oturması gerekti. Tekneden onlara birçok konuyu öğretiyordu.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg}}
 
-İsa şu öyküyü anlattı: “Bir çiftçi tohum ekmeye çıktı. Serptiği tohumun bir kısmı yol kenarına düştü ve kuşlar gelip bu tohumların hepsini yedi.”
+İsa şu öyküyü anlattı: "Bir çiftçi tohum ekmeye çıktı. Serptiği tohumun bir kısmı yol kenarına düştü ve kuşlar gelip bu tohumların hepsini yedi."
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg}}
 
-“Diğer tohumlar toprağın az olduğu kayalık bir yere düştü. Kayalık yere düşen tohumlar çabucak filiz verdi, ama kökleri toprağın derinliğine gidemedi. Güneş tepeye çıkınca, hava sıcak olunca filizler kuruyup gitti.”
+"Diğer tohumlar toprağın az olduğu kayalık bir yere düştü. Kayalık yere düşen tohumlar çabucak filiz verdi, ama kökleri toprağın derinliğine gidemedi. Güneş tepeye çıkınca, hava sıcak olunca filizler kuruyup gitti."
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg}}
 
-“Diğer tohumlar dikenli çalılara düştü. Bu tohumlar filizlenmeye başlamıştı, fakat dikenler filizleri boğdu. Sonuçta dikenler arasında filiz veren tohumlar da hiç ürün vermedi.”
+"Diğer tohumlar dikenli çalılara düştü. Bu tohumlar filizlenmeye başlamıştı, fakat dikenler filizleri boğdu. Sonuçta dikenler arasında filiz veren tohumlar da hiç ürün vermedi."
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg}}
 
-“Diğer tohumlar iyi toprağa düştü. Bunlar büyüyüp 30, 60, hatta 100 kat ürün verdi. Kulağı olan işitsin!”
+"Diğer tohumlar iyi toprağa düştü. Bunlar büyüyüp 30, 60, hatta 100 kat ürün verdi. Kulağı olan işitsin!"
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg}}
 
-Bu öykü havarileri şaşırttı. Dolayısıyla İsa onlara anlamını açıkladı: “Tohum Tanrı’nın sözüdür. Yolun kenarı, Tanrı’nın sözünü duyan ama anlamayan kişidir. İblis onlara ekilen sözü söküp atar.”
+Bu öykü havarileri şaşırttı. Dolayısıyla İsa onlara anlamını açıkladı: "Tohum Tanrı'nın sözüdür. Yolun kenarı, Tanrı'nın sözünü duyan ama anlamayan kişidir. İblis onlara ekilen sözü söküp atar."
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg}}
 
-“Kayalık yer, Tanrı’nın sözünü duyup sevinçle kabul eden kişidir. Fakat zorluk ya da sıkıntı ile karşılaşınca hemen imandan döner.”
+"Kayalık yer, Tanrı'nın sözünü duyup sevinçle kabul eden kişidir. Fakat zorluk ya da sıkıntı ile karşılaşınca hemen imandan döner."
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg}}
 
-“Dikenli çalının olduğu torpak, Tanrı’nın sözünü duyan ama kaygıların, zengin olma hırsının, dünyevi zevklerin Tanrı’ya olan sevgisini gittikçe yok ettiği kişidir. Sonuçta duyduğu söz hiç ürün vermez.”
+"Dikenli çalının olduğu toprak, Tanrı'nın sözünü duyan ama kaygıların, zengin olma hırsının, dünyevi zevklerin Tanrı'ya olan sevgisini gittikçe yok ettiği kişidir. Sonuçta duyduğu söz hiç ürün vermez."
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg}}
 
-“İyi toprak ise Tanrı’nın sözünü duyan, imanla kabul eden ve bol ürün veren kişidir.”
+"İyi toprak ise Tanrı'nın sözünü duyan, imanla kabul eden ve bol ürün veren kişidir."
 
-//Öykünün Kutsal Kitap’taki yeri: Matta 13:1-8, 18-23; Markos 4:1-8, 13-20; Luka 8:4-15​//
+//Öykünün Kutsal Kitap'taki yeri: Matta 13:1-8, 18-23; Markos 4:1-8, 13-20; Luka 8:4-15​//
+

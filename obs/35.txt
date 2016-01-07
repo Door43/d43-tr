@@ -1,55 +1,56 @@
 ====== 35. Merhametli Baba Öyküsü ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-01.jpg}}
 
-Bir gün birçok vergici ve günahkâr kişi İsa’yı dinlemek için çevresinde toplanmıştı.
+Bir gün birçok vergici ve günahkâr kişi İsa'yı dinlemek için çevresinde toplanmıştı.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-02.jpg}}
 
-Orada bulunan bazı din alimleri İsa’nın bu günahkârlara dost gibi davrandığını görünce kendi aralarında O’nu eleştirmeye başladılar. Bu sebeple İsa onlara şu öyküyü anlattı.
+Orada bulunan bazı din alimleri İsa'nın bu günahkârlara dost gibi davrandığını görünce kendi aralarında O'nu eleştirmeye başladılar. Bu sebeple İsa onlara şu öyküyü anlattı.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-03.jpg}}
 
-“İki oğlu olan bir adam vardı. Küçük oğlu ona, ‘Baba, mirasımı hemen istiyorum!’ dedi. Baba da servetini iki oğlu arasında paylaştırdı.”
+"İki oğlu olan bir adam vardı. Küçük oğlu ona, 'Baba, mirasımı hemen istiyorum!' dedi. Baba da servetini iki oğlu arasında paylaştırdı."
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-04.jpg}}
 
-“Birkaç gün sonra küçük oğul her şeyini toplayıp çok uzağa gitti ve günah dolu bir hayat sürerek parasını savurdu.”
+"Birkaç gün sonra küçük oğul her şeyini toplayıp çok uzağa gitti ve günah dolu bir hayat sürerek parasını savurdu."
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-05.jpg}}
 
-“Sonra küçük oğulun bulunduğu ülkede şiddetli bir kıtlık oldu, yiyecek almaya bile parası olmadı. Bulduğu tek iş domuz gütmekti. Çaresizlikten, açlıktan domuzların yediğini bile yemeye razıydı.”
+"Sonra küçük oğulun bulunduğu ülkede şiddetli bir kıtlık oldu, yiyecek almaya bile parası olmadı. Bulduğu tek iş domuz gütmekti. Çaresizlikten, açlıktan domuzların yediğini bile yemeye razıydı."
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-06.jpg}}
 
-“Sonunda küçük oğul kendi kendine şöyle dedi: ‘Ben ne yapıyorum? Babamın bütün hizmetçilerinin bol yiyeceği var, bense burada açlıktan ölüyorum! Babama döneyim, beni hizmetçilerinden birisi olarak kabul etmesini rica edeyim.’”
+"Sonunda küçük oğul kendi kendine şöyle dedi: 'Ben ne yapıyorum? Babamın bütün hizmetçilerinin bol yiyeceği var, bense burada açlıktan ölüyorum! Babama döneyim, beni hizmetçilerinden birisi olarak kabul etmesini rica edeyim.'"
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-07.jpg}}
 
-“Böylece küçük oğul babasının evine döndü. Kendisi daha uzaktayken babası onu gördü ve ona acıdı. Koşup oğluna sarıldı ve öptü.”
+"Böylece küçük oğul babasının evine döndü. Kendisi daha uzaktayken babası onu gördü ve ona acıdı. Koşup oğluna sarıldı ve öptü."
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-08.jpg}}
 
-“Oğul, ‘Baba, Tanrı’ya ve sana karşı günah işledim. Artık oğlun olmaya layık değilim.’ dedi.”
+"Oğul, 'Baba, Tanrı'ya ve sana karşı günah işledim. Artık oğlun olmaya layık değilim.' dedi."
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-09.jpg}}
 
-“Fakat babası hizmetçilerinden birine şöyle buyruk verdi: ‘Çabuk ol, en iyi giysiyi getir ve oğluma giyindir! Parmağına yüzük, ayaklarına çarık tak! Sonra en iyi danamızı kes, bir ziyafet çekip kutlayalım! Çünkü oğlum ölmüştü, fakat tekrar hayata döndü! Kaybolmuştu, fakat şimdi bulundu!’”
+"Fakat babası hizmetçilerinden birine şöyle buyruk verdi: 'Çabuk ol, en iyi giysiyi getir ve oğluma giyindir! Parmağına yüzük, ayaklarına çarık tak! Sonra en iyi danamızı kes, bir ziyafet çekip kutlayalım! Çünkü oğlum ölmüştü, fakat tekrar hayata döndü! Kaybolmuştu, fakat şimdi bulundu!'"
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-10.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-10.jpg}}
 
-“Böylece eğlenmeye başladılar. Az sonra büyük oğul tarladan eve döndü. Çalgı ve oyun seslerini duyunca olanları merak etti.”
+"Böylece eğlenmeye başladılar. Az sonra büyük oğul tarladan eve döndü. Çalgı ve oyun seslerini duyunca olanları merak etti."
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-11.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-11.jpg}}
 
-“Kardeşinin eve dönüşünün kutlandığını öğrenince çok öfkelendi, hatta eve girmek istemedi. Babası dışarı çıktı, kutlamalarına katılması için ona yalvardı, ama o razı olmadı.”
+"Kardeşinin eve dönüşünün kutlandığını öğrenince çok öfkelendi, hatta eve girmek istemedi. Babası dışarı çıktı, kutlamalarına katılması için ona yalvardı, ama o razı olmadı."
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-12.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-12.jpg}}
 
-“Büyük oğul babasına şöyle dedi: ‘Bunca yıl senin için sadakatle çalıştım! Sana karşı hiç itaatsizlik etmedim. Ama sen, arkadaşlarımla kutlamam için küçük bir oğlak bile vermedin! Şimdiyse günahlara batarak paranı savuran şu oğlun eve geldi diye en iyi danayı kestirdin!’”
+"Büyük oğul babasına şöyle dedi: 'Bunca yıl senin için sadakatle çalıştım! Sana karşı hiç itaatsizlik etmedim. Ama sen, arkadaşlarımla kutlamam için küçük bir oğlak bile vermedin! Şimdiyse günahlara batarak paranı savuran şu oğlun eve geldi diye en iyi danayı kestirdin!'"
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-13.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-13.jpg}}
 
-“Babası ona şöyle cevap verdi: ‘Oğlum, sen her zaman yanımdasın, neyim varsa senindir. Fakat şimdi kutlamamız yerindedir. Çünkü kardeşin ölmüştü ve tekrar hayata döndü, kaybolmuştu ve şimdi bulundu!’”
+"Babası ona şöyle cevap verdi: 'Oğlum, sen her zaman yanımdasın, neyim varsa senindir. Fakat şimdi kutlamamız yerindedir. Çünkü kardeşin ölmüştü ve tekrar hayata döndü, kaybolmuştu ve şimdi bulundu!'"
 
-//Öykünün Kutsal Kitap’taki yeri: Luka 15:11-32​//
+//Öykünün Kutsal Kitap'taki yeri: Luka 15:11-32​//
+

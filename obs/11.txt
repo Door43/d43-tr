@@ -1,35 +1,36 @@
 ====== 11. Fısıh ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-01.jpg}}
 
-Tanrı firavuna, İsraillileri salıvermezse tüm insanların ve hayvanların ilk doğan erkek çocuklarını öldüreceğini söyledi. Bunu duyan firavun yine Tanrı’ya inanmak ve itaat etmek istemedi.
+Tanrı firavuna, İsraillileri salıvermezse tüm insanların ve hayvanların ilk doğan erkek çocuklarını öldüreceğini söyledi. Bunu duyan firavun yine Tanrı'ya inanmak ve itaat etmek istemedi.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-02.jpg}}
 
-Tanrı, O’na iman eden herkesin ilk doğanlarının kurtulması için bir yol sağladı. Bunun için her ailenin kusursuz birer kuzu seçip boğazlaması gerekirdi.
+Tanrı, O'na iman eden herkesin ilk doğanlarının kurtulması için bir yol sağladı. Bunun için her ailenin kusursuz birer kuzu seçip boğazlaması gerekirdi.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-03.jpg}}
 
-Tanrı İsraillilere, boğazladıkları kuzuların kanını evlerinin kapıları etrafına sürmelerini, etini de kızartıp mayasız ekmekle çabuk yemelerini buyurdu. Ayrıca yedikten sonra Mısır’ı terketmeye hazır olmalarını söyledi.
+Tanrı İsraillilere, boğazladıkları kuzuların kanını evlerinin kapıları etrafına sürmelerini, etini de kızartıp mayasız ekmekle çabuk yemelerini buyurdu. Ayrıca yedikten sonra Mısır'ı terketmeye hazır olmalarını söyledi.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-04.jpg}}
 
-İsrailliler herşeyi tıpkı Tanrı’nın buyurduğu gibi yaptılar. Gece yarısı Tanrı bütün Mısır’ı geçerek ilk doğan erkek çocukların hepsini öldürdü.
+İsrailliler her şeyi tıpkı Tanrı'nın buyurduğu gibi yaptılar. Gece yarısı Tanrı bütün Mısır'ı geçerek ilk doğan erkek çocukların hepsini öldürdü.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-05.jpg}}
 
 İsraillilerin bütün evlerinin kapıları etrafında kan vardı, bu yüzden Tanrı evlerinin üzerinden geçti ve içeride bulunanlar kurtuldular. Kuzuların kanı sayesinde kurtuldular.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-06.jpg}}
 
-Mısırlılar ise Tanrı’ya ve buyruklarına inanmamışlardı. Bu yüzden Tanrı onların evlerinin üzerinden geçmedi, Mısırlıların ilk doğan erkek çocuklarının hepsini öldürdü.
+Mısırlılar ise Tanrı'ya ve buyruklarına inanmamışlardı. Bu yüzden Tanrı onların evlerinin üzerinden geçmedi, Mısırlıların ilk doğan erkek çocuklarının hepsini öldürdü.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-07.jpg}}
 
-Zindandaki tutsağın ilk doğanından firavunun ilk doğanına kadar Mısırlıların bütün ilk doğan erkek çocukları öldüler. Mısır’a çöken derin hüzün yüzünden Mısırlıların çoğu ağlayıp feryat ettiler.
+Zindandaki tutsağın ilk doğanından firavunun ilk doğanına kadar Mısırlıların bütün ilk doğan erkek çocukları öldüler. Mısır'a çöken derin hüzün yüzünden Mısırlıların çoğu ağlayıp feryat ettiler.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-08.jpg}}
 
-O gece firavun Musa ile Harun’u çağırtıp, “İsraillileri alın ve bir an önce Mısır’ı terkedin!” dedi. Mısırlılar da İsraillilere bir an önce çıkıp gitmeleri için yalvardılar.
+O gece firavun Musa ile Harun'u çağırtıp, "İsraillileri alın ve bir an önce Mısır'ı terkedin!" dedi. Mısırlılar da İsraillilere bir an önce çıkıp gitmeleri için yalvardılar.
 
-//Öykünün Kutsal Kitap’taki yeri: Çıkış 11:1-12:32​//
+//Öykünün Kutsal Kitap'taki yeri: Çıkış 11:1-12:32​//
+

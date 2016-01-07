@@ -1,31 +1,32 @@
-====== 6. Tanrı İshak’ı Kayırıyor ======
+====== 6. Tanrı İshak'ı Kayırıyor ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-01.jpg}}
 
-İbrahim iyice yaşlanmış, oğlu İshak genç adam olmuştu. Bir gün İbrahim, uşaklarından birini oğlu İshak’ın evleneceği kızı getirsin diye akrabalarının yaşadıkları ülkeye gönderdi.
+İbrahim iyice yaşlanmış, oğlu İshak genç adam olmuştu. Bir gün İbrahim, uşaklarından birini oğlu İshak'ın evleneceği kızı getirsin diye akrabalarının yaşadıkları ülkeye gönderdi.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-02.jpg}}
 
-Tanrı, uzun bir yolculuktan sonra İbrahim’in akrabalarının yaşadıkları yere varan uşağı Rebeka’ya yönlendirdi. Rebeka, İbrahim’in kardeşinin torunuydu.
+Tanrı, uzun bir yolculuktan sonra İbrahim'in akrabalarının yaşadıkları yere varan uşağı Rebeka'ya yönlendirdi. Rebeka, İbrahim'in kardeşinin torunuydu.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-03.jpg}}
 
-Rebeka ailesinden ayrılıp İbrahim’in uşağıyla beraber İshak’ın evine gitmeye razı oldu. Onlar eve varır varmaz İshak Rebeka’yla evlendi.
+Rebeka ailesinden ayrılıp İbrahim'in uşağıyla beraber İshak'ın evine gitmeye razı oldu. Onlar eve varır varmaz İshak Rebeka'yla evlendi.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-04.jpg}}
 
-Uzun süre sonra İbrahim öldü ve Tanrı’nın ona ahit yaparken verdiği tüm vaatler İshak’a geçti. Tanrı İbrahim’e soyunun sayısız olacağını vadetmişti, fakat İshak’ın karısı Rebeka çocuk sahibi olamıyordu.
+Uzun süre sonra İbrahim öldü ve Tanrı'nın ona ahit yaparken verdiği tüm vaatler İshak'a geçti. Tanrı İbrahim'e soyunun sayısız olacağını vadetmişti, fakat İshak'ın karısı Rebeka çocuk sahibi olamıyordu.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-05.jpg}}
 
-İshak Rebeka için dua etti ve Tanrı, ikiz bebeğe hamile kalmasını sağladı. Bebekler Rebeka’nın karnında bile itiştiler ve Rebeka bunun anlamını Tanrı’ya sordu.
+İshak Rebeka için dua etti ve Tanrı, ikiz bebeğe hamile kalmasını sağladı. Bebekler Rebeka'nın karnında bile itiştiler ve Rebeka bunun anlamını Tanrı'ya sordu.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-06.jpg}}
 
-Tanrı Rebeka’ya, “Karnındaki iki oğlundan iki halk doğacak. Bunlar birbiriyle çarpışacaklar ve büyük oğul küçüğüne hizmet edecek.” dedi.
+Tanrı Rebeka'ya, "Karnındaki iki oğlundan iki halk doğacak. Bunlar birbiriyle çarpışacaklar ve büyük oğul küçüğüne hizmet edecek." dedi.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-07.jpg}}
 
-Rebeka’nın büyük oğlu kıpkırmızı ve tüylü doğdu, adını Esav koydular. Ardından gelen küçük kardeşi doğarken Esav’ın topuğunu tutuyordu, ona Yakup adını verdiler.
+Rebeka'nın büyük oğlu kıpkırmızı ve tüylü doğdu, adını Esav koydular. Ardından gelen küçük kardeşi doğarken Esav'ın topuğunu tutuyordu, ona Yakup adını verdiler.
 
-//Öykünün Kutsal Kitap’taki yeri: Yaratılış​ 24:1-25:26//
+//Öykünün Kutsal Kitap'taki yeri: Yaratılış​ 24:1-25:26//
+

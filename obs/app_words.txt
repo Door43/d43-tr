@@ -1,31 +1,22 @@
-//Translation for the unfoldingWord mobile app interface // 
+//Translation for the unfoldingWord mobile app interface //
 
+Remove this string: Bu dili çevrimdışı bellekten kaldır. Gelecekte bunu görmeniz için internete bağlanmanız gerekecek.
 
-Select a language: Select a Language
+OK: Tamam
 
+Save locally: Yerel olarak kaydet
 
-Chapters: Chapters
+Remove locally: Yerel olarak kaldır
 
+Chapters: Bölümler
 
-Languages: Languages
+Languages: Diller
 
+Save this string: Çevrimdışı kullanım için yerel olarak kaydet.
 
-Next chapter: Next Chapter
+Select a language: Dili seç
 
+Cancel: İptal
 
-OK: OK
+Next chapter: Sonraki Bölüm
 
-
-Cancel: Cancel
-
-
-Save locally: Save Locally
-
-
-Save this string: Save this language locally for offline use.
-
-
-Remove locally: Remove Locally
-
-
-Remove this string: Remove this language from offline storage. You will need an internet connection to view it in the future.
