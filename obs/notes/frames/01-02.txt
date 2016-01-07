@@ -10,7 +10,7 @@ Then **God said**, “**Let there be** light!” And there was **light**. God sa
 ==== Translation Notes: ====
 
   * **Tanrı dedi** - Tanrı sadece sözlü bir emir aracılığıyla ışığı yarattı.
-  * **olsun** - Bu, Tanrı tarafından verildiği için hemen yerine getirilen emirdir. Bunu kastedilen olayın muhakkak olacağına dair emniyeti ifade eden bir söz ile çevirmek daha çok doğal olabilir. Örneğin, şöyle bir çeviri olabilir: «Tanrı, ışık olacak! dedi.»
+  * **olsun** - Bu, Tanrı tarafından verildiği için hemen yerine getirilen emirdir. Bunu kastedilen olayın muhakkak olacağına dair emniyeti ifade eden bir söz ile çevirmek daha çok doğal olabilir. Örneğin, şöyle bir çeviri olabilir: "Tanrı, ışık olacak! dedi."
   * **ışık** - Bu, Tanrı’nın yarattığı özel ışıktı - güneş henüz yaratılmamıştı.
   * **iyi olduğunu** - Yaratılış öyküsünde sık sık kullanılan bu söz, yaratılışın her evresinin Tanrı’yı memnun ettiğini, O’nun planına, amacına uygun düştüğünü vurguluyor.
   * **yaratılış** - Bu söz burada Tanrı’nın var olan her şeyi yarattığı altı günlük süreye dair kullanılıyor.
