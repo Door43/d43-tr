@@ -13,11 +13,8 @@
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
-  * **it is right for us** - That is, "it is the right thing for us to do" or, "it is proper for us."
-  * **your brother** - The father refers to his younger son as, "your brother" to remind the older son of his relationship to the younger son and of how he should love his younger brother.
-  * **was dead, but now is alive** - See how you translated this in **[[:tr:obs:notes:frames:35-09|[35-09]]]**.
-  * **He was lost, but now is found!** - See how you translated this in **[[:tr:obs:notes:frames:35-09|[35-09]]]**.
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * **kutlamamız yerindedir** - Yani «kutlamamız, yapmamız gereken doğru iştir» ya da «kutlamamız bize yaraşır.»
+  * **kardeşin** - Baba büyük oğluna kardeşiyle ilişkisini ve onu sevmesi gerektiğini hatırlatmak için küçük oğlundan bahsederken «senin kardeşin» der.
+  * **ölmüştü ve tekrar hayata döndü** - Bunu <b>[[:en:obs:notes:frames:35-09|[35-09]]]</b>de nasıl çevirdiğinize dikkat edin.
+  * **Kaybolmuştu ve şimdi bulundu!** - Bunu <b>[[:en:obs:notes:frames:35-09|[35-09]]]</b>de nasıl çevirdiğinize dikkat edin.
 **[[:tr:obs:notes:frames:35-12|<<]] | [[:tr:obs:notes:35|Up]] | [[:tr:obs:notes:frames:36-01|>>]]**

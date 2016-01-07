@@ -15,11 +15,9 @@ One day, **Jesus** received a message that **Lazarus** was very sick. Lazarus an
 
 ===== Translation Notes: =====
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **Mary** - Jesus' mother was also named Mary. This was a different woman.
-  * **this sickness will not end in death** - This can also be translated as, "the final result of this sickness will not be death" or, "Lazarus is sick, but death is not the final result of this sickness." Jesus' disciples probably thought this meant that Lazarus would not die. But Jesus knew that, although Lazarus would die from his sickness, he would live in the end.
-  * **it is for the glory of God** - That is, "this will cause people to praise God for how great he is."
-  * **but he waited where he was for two days** - This could be translated as, "but he stayed where he was for two days, even though they wanted him to go and heal Lazarus."
-
-
+  * **Bir gün** - Bu sözle geçmişte olup bitmiş olay anlatılmaya başlanıyor, fakat tam zamanı belirtilmiyor. Çok dilde gerçek olayı anlatmaya başlamanın benzer yolları vardır.
+  * **Meryem** - İsa’nın annesinin da adı Meryem’di. Bu, başka bir kadındı.
+  * **Bu hastalık ölümle sonuçlanmayacak** - Bu cümle şöyle de çevrilebilir: «Bu hastalık ölümle bitmeyecek» ya da «Lazar hasta, ama bu hastalığın sonucu ölüm değil.» İsa’nın havarileri galiba bu sözü Lazar ölmeyecek anlamında anladılar. Fakat İsa Lazar’ın hastalığından ölmesine rağmen sonunda yaşayacağını biliyordu.
+  * **Tanrı’ya izzet getirecek** - Yani «insanların Tanrı’ya yüceliği için hamdetmelerine sebep olacak.»
+  * **bulunduğu yerde iki gün kalıp bekledi** - Bu şöyle çevrilebilir: «O’nun Lazar’a şifa vermesini isteseler de O, bulunduğu yerde iki gün kaldı.»
 **[[:tr:obs:notes:frames:36-07|<<]] | [[:tr:obs:notes:37|Up]] | [[:tr:obs:notes:frames:37-02|>>]]**

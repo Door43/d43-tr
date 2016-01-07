@@ -13,7 +13,5 @@
 
 ===== Translation Notes: =====
 
-  * **to be saved from your sin** - That is, "to be saved from being punished for your sin" or, "that God would save you from your sin" or, "to receive salvation from your sin."
-
-
+  * **günahından kurtulman** - Yani «günahının cezasını çekmekten kurtulman» ya da «Tanrı seni günahından kurtarsın diye» ya da «günahından kurtuluşu kabul etmen.»
 **[[:tr:obs:notes:frames:49-04|<<]] | [[:tr:obs:notes:49|Up]] | [[:tr:obs:notes:frames:49-06|>>]]**

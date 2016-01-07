@@ -16,8 +16,7 @@
 ===== Translation Notes: =====
 
 
-  * **God sent** - Noah did not need to find the animals. God sent them to him.
-  * **used for sacrifices** - For some languages it may be better to say something like, "animals that were acceptable to sacrifice to God." God had decided that people should sacrifice animals to him, but he only permitted them to sacrifice certain kinds of animals.
-  * **God himself closed the door** - This emphasizes that it was God who shut the door.
-
+  * **Tanrı... gönderdi** - Nuh hayvanları bulmak zorunda değildi. Tanrı onları kendisine gönderdi.
+  * **kurbanlık olabilecek** - Bazı dillerde «Tanrı’ya kurban olarak sunulmaya makbul olan hayvanlar» şeklinde söylemek daha iyidir. Tanrı, insanların O’na kurban sunmalarını buyurdu, ama sadece bazı hayvan türlerinin kurban olarak sunulmasına izin verdi.
+  * **Tanrı’nın kendisi kapıyı kapattı** - Bu, kapıyı kapatan kişinin Tanrı olduğunu vurguluyor.
 **[[:tr:obs:notes:frames:03-05|<<]] | [[:tr:obs:notes:03|Up]] | [[:tr:obs:notes:frames:03-07|>>]]**

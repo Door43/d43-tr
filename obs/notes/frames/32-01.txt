@@ -11,8 +11,6 @@
 
 ===== Translation Notes: =====
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **the Gerasene people** - The Gerasenes lived in an area along the eastern shore of the Sea of Galilee. They are descendants of the Jews, but we know few details about them.
-
-
+  * **Bir gün** - Bu sözle geçmişte olup bitmiş olay anlatılmaya başlanıyor, fakat tam zamanı belirtilmiyor. Çok dilde gerçek olayı anlatmaya başlamanın benzer yolları vardır.
+  * **Gerasalılar** - Gerasalılar Celile Gölü’nün doğu sahili boyunca bulunan bir bölgede yaşıyorlardı. Onlar Yahudilerin soyundandı, fakat onların hakkında çok az bilgimiz var.
 **[[:tr:obs:notes:frames:31-08|<<]] | [[:tr:obs:notes:32|Up]] | [[:tr:obs:notes:frames:32-02|>>]]**

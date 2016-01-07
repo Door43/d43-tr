@@ -11,8 +11,6 @@
 
 ===== Translation Notes: =====
 
-  * **left everything** - That is, "left everything behind" or, "given up everything we owned."
-  * **What will be our reward?** - Another way to say this is, "What reward will we receive" or, "How will we be rewarded?" or, "What will God give us as a reward?" It may also be necessary to add, "because we have done this?"
-
-
+  * **her şeyi bırakıp** - Yani «her şeyi terkedip» ya da «sahip olduğumuz her şeyden vazgeçip.»
+  * **Peki mükafatımız ne olacak?** - Bunu söylemenin başka bir yolu şu: «Ne mükafat alacağız?» ya da «Nasıl mükafatlandırılacağız?» ya da «Tanrı bize ne mükafat verecek?» Ayrıca «bunu yaptığımız için...» ilave etmemiz lazım olabilir.
 **[[:tr:obs:notes:frames:28-08|<<]] | [[:tr:obs:notes:28|Up]] | [[:tr:obs:notes:frames:28-10|>>]]**

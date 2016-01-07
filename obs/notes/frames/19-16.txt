@@ -23,7 +23,5 @@
 ==== Translation Notes: ====
 
 
-  * **start showing justice and mercy** - This can be translated as, "start being just and merciful" or, "begin to demonstrate justice and mercy."
-
-
+  * **adalet ve merhametle davranmasını** - Bu şöyle çevrilebilir: «adil ve merhametli olmasını» ya da «adalet ve merhametle davranmaya başlamasını.»
 **[[:tr:obs:notes:frames:19-15|<<]] | [[:tr:obs:notes:19|Up]] | [[:tr:obs:notes:frames:19-17|>>]]**

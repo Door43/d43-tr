@@ -19,10 +19,8 @@
 ==== Translation Notes: ====
 
 
-  * **From the very beginning** - That is, from when the earth was first created.
-  * **crush the snake's head** - Unless the head of a venomous snake is crushed, the snake can still hurt someone. Use a word for "crush" that communicates that its head is destroyed.
-  * **The snake…was Satan** – Satan spoke to Eve in the form of a snake. This does not mean that he is a snake now. This could be translated as, "The snake…was an appearance of Satan."
-  * **who deceived Eve** - That is, "who lied to Eve." The snake lied by making Eve doubt what God had said and tricking her into disobeying God.
-
-
+  * **Ta baştan beri** - Yani dünyanın yaratılmasından beri.
+  * **yılanın başını ezeceğini** - Zehirli yılan, başı ezilmese birine zarar verebilir. Başının mahvedildiğini belirten «ezmek» sözcüğünü kullanın.
+  * **yılan Şeytan’dı** - Şeytan Havva’ya yılan şeklinde yaklaşıp konuştu. Bu, Şeytan’ın şimdi yılan olduğu anlamına gelmiyor. Bu şöyle çevrilebilir: «Yılan Şeytan’ın bir görünümüydü.»
+  * **Havva’yı aldatan** - Yani «Havva’ya yalan söyleyen.» Yılan yalan söyleyerek Havva’yı Tanrı’nın dediğinden şüphelendirdi ve Tanrı’ya itaatsizlik etmeye kandırdı.
 **[[:tr:obs:notes:frames:20-13|<<]] | [[:tr:obs:notes:21|Up]] | [[:tr:obs:notes:frames:21-02|>>]]**

@@ -18,10 +18,8 @@ The **prophet Isaiah** said the Messiah would live in **Galilee**, comfort **bro
 ==== Translation Notes: ====
 
 
-  * **broken-hearted people** - This expression refers to people who are experiencing extreme sadness.
-  * **proclaim freedom to captives** - That is, "tell slaves they could be free." This could also refer to freeing people from slavery to sin.
-  * **release to prisoners** - That is, "he will set free those who have unjustly been put into prison." This could also refer to setting people free from the bondage of sin.
-  * **could not hear, see, speak, or walk** – It may be better to say, "could not hear, could not see, could not speak, or could not walk." Some languages have special words for these conditions, such as "deaf" and "blind."
-
-
+  * **yüreği ezik olanlar** - Bununla son derece kederli insanlar kastediliyor.
+  * **tutsaklara serbest bırakılacaklarını** - Yani «kölelere özgür olabileceklerini.» Ayrıca insanları günah tutsaklığından özgür kılma kastedilebilir.
+  * **zindanlarda bulunanlara kurtulacaklarını** - Yani «O haksız yere zindana atılanları özgür kılacak.» Bununla insanların günah tutsaklığından özgürleşmesi de kastedilebilir.
+  * **duyamayan, göremeyen, konuşamayan ve yürüyemeyen** - Bazı dillerde «sağır» ve «kör» gibi sözcükler kullanılabilir.
 **[[:tr:obs:notes:frames:21-09|<<]] | [[:tr:obs:notes:21|Up]] | [[:tr:obs:notes:frames:21-11|>>]]**

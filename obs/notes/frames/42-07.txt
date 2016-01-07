@@ -16,9 +16,7 @@
 
 ===== Translation Notes: =====
 
-  * **must be fulfilled** - This can be translated as, "must happen."
-  * **opened their minds so that they could understand** - This could also be translated as, "caused them to be able to understand" or, "made them able to comprehend."
-  * **on the third day** - That is, "after three days" or, "three days later."
-
-
+  * **yerine gelmesi gerekir** - Bu şöyle çevrilebilir: «olması gerekir.»
+  * **anlayabilmeleri için zihinlerini açtı** - Bu ayrıca şöyle çevrilebilir: «anlayabilmelerini sağladı» ya da «onları kavramaya kadir kıldı.»
+  * **üçüncü gün** - Yani «üç gün sonra.»
 **[[:tr:obs:notes:frames:42-06|<<]] | [[:tr:obs:notes:42|Up]] | [[:tr:obs:notes:frames:42-08|>>]]**

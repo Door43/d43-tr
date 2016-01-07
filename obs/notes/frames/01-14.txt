@@ -14,12 +14,10 @@ When **Adam** saw her, he said, “**At last**! This one is **like me**! Let her
 ==== Translation Notes: ====
 
 
-  * **At last!** - Adam's exclamation indicates that he had been waiting for something like the woman.
-  * **like me** - The woman was the same type of being as Adam, even though there were important differences between them.
-  * **Woman** - This word is the feminine form of the word for man.
-  * **made from man** - The woman was formed directly from Adam's own body.
-  * **a man leaves** - This is stated in the present tense to indicate what would become the normal situation in the future. Adam did not have a mother or father, but all other men would.
-  * **becomes one** - The husband and wife will share an intimate bond of unity and a commitment to one another that will surpass their relationships to anyone else.
-
-
+  * **Nihayet** - Adem’in bu haykırışı kadın gibi birini beklediğini gösteriyor.
+  * **benim gibi** - Kadın, Adem’den oldukça farklı olmasına rağmen, onun türünden bir canlı idi.
+  * **Kadın** - Bu sözcük adam sözcüğünün dişi şeklidir.
+  * **adamdan yaratıldı** - Kadın doğrudan Adem’in bedeninden biçimlendirildi.
+  * **adam... bırakır** - Bu, gelecekte normal olagelecek bir durumu belirtmek için söyleniyor. Adem’in annesi babası yoktu, ama ondan başka bütün insanlarınki olacak.
+  * **birleşir** - Koca ile karı arasında, başkaları ile ilişkilerini aşan sıkı birlik ve birbirine adanmışlık ilişkisi mevcuttur.
 **[[:tr:obs:notes:frames:01-13|<<]] | [[:tr:obs:notes:01|Up]] | [[:tr:obs:notes:frames:01-15|>>]]**

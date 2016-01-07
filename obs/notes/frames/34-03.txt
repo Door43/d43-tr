@@ -11,10 +11,8 @@
 
 ===== Translation Notes: =====
 
-  * **story** - See how you translated this term in **[[:tr:obs:notes:frames:34-01|[34-01]]]**.
-  * **yeast** - This can also be translated as, "leaven" or, "the little bit of leaven." It is added to bread dough to make it rise. A little bit of yeast can be mixed into a large amount of dough and make the whole batch of dough rise.
-  * **bread dough** - This is a mixture of flour and liquid that can be shaped and baked into bread. If you do not have words for dough or flour, you can borrow a word for flour or call it "ground-up grain."
-  * **it spreads throughout the dough** - That is, "every part of the dough has yeast in it" or, "the yeast grows throughout all the dough."
-
-
+  * **öykü** - Bunu <b>[[:en:obs:notes:frames:34-01|[34-01]]]</b>de nasıl çevirdiğinize dikkat edin.
+  * **maya** - Bu ayrıca «biraz maya» şeklinde çevrilebilir. Maya ekmeğe katılan ve ekmeğin pişerken kalkmasını sağlayan bir maddedir. Azıcık mayanın çok miktarda hamura katılması sonucunda bütün hamur kalkar.
+  * **hamur** - Biçimlenerek ekmek olarak pişirilebilecek unla sıvının karışımı. Hamur ya da un için sözcükleriniz yoksa un sözünü ödünç alabilirsiniz ya da buna «öğütülen tohum» diyebilirsiniz.
+  * **bütün hamuru kabartır** - Yani «hamurun her yerine yayılır» ya da «hamurun her yanında maya bulunur.»
 **[[:tr:obs:notes:frames:34-02|<<]] | [[:tr:obs:notes:34|Up]] | [[:tr:obs:notes:frames:34-04|>>]]**

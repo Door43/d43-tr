@@ -16,8 +16,6 @@ Next, **God** caused all the farm animals that belonged to the **Egyptians** to 
 ==== Translation Notes: ====
 
 
-  * **farm animals** - This refers to large animals that the Egyptians used to help them in their work, such as horses, donkeys, camels, cattle, sheep, and goats.
-  * **heart was hardened** - See note in **[[:tr:obs:notes:frames:10-04|[10-04]]]**.
-
-
+  * **evcil hayvanlar** - Mısırlıların işlerinde kullandıkları at, eşek, deve, inek, koyun, keçi gibi büyük hayvanlar.
+  * **kalbi tekrar taşlaşan** - <b>[[:en:obs:notes:frames:10-04|[10-04]]]</b>deki nota bakınız.
 **[[:tr:obs:notes:frames:10-05|<<]] | [[:tr:obs:notes:10|Up]] | [[:tr:obs:notes:frames:10-07|>>]]**

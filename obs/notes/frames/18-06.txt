@@ -15,7 +15,5 @@
 ==== Translation Notes: ====
 
 
-  * **foolishly answered** - Rehoboam's answer was harsh, and caused the people to turn against him.
-
-
+  * **akılsızca cevap verdi** - Rehavam’ın cevabı acımasızdı ve halkın ona karşı çıkmasına sebep oldu.
 **[[:tr:obs:notes:frames:18-05|<<]] | [[:tr:obs:notes:18|Up]] | [[:tr:obs:notes:frames:18-07|>>]]**

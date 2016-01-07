@@ -12,8 +12,6 @@
 
 ===== Translation Notes: =====
 
-  * **a great teacher** - That is, "a very important teacher" or, "an excellent teacher."
-  * **the same way ** - That is, "as much as" or, "the same amount that" or, "to the same degree that."
-
-
+  * **büyük bir öğretmendi** - Yani «çok önemli bir öğretmendi» ya da «harika bir öğretmendi.»
+  * **kendini sevdiğin gibi ** - Yani «kendini sevdiğin kadar.»
 **[[:tr:obs:notes:frames:49-02|<<]] | [[:tr:obs:notes:49|Up]] | [[:tr:obs:notes:frames:49-04|>>]]**

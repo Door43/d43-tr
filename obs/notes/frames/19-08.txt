@@ -15,10 +15,8 @@ Then the **prophets** of **Baal prayed to Baal**, “Hear us, Baal!” All day l
 ==== Translation Notes: ====
 
 
-  * **prayed to Baal** - the prophets of Baal asked Baal to send fire onto the bull they prepared as a sacrifice.
-  * **shouted** - They yelled or called out loudly to Baal.
-  * **cut themselves with knives** - They injured themselves with knives as an extreme way to show their devotion to Baal, hoping that this would persuade him to listen to them.
-  * **there was no answer** - There was no response of any kind to their shouting, and no fire came to burn up the sacrifice.
-
-
+  * **Ey Baal... diye dua ettiler** - Baal’ın peygamberleri, kurban olarak hazırladıkları boğanın üzerine ateş göndermesi için Baal’a yalvardılar.
+  * **bağırdılar** - Baal’a yüksek sesle seslendiler.
+  * **bedenlerini bıçakla kestiler** - Baal’a adanmış olduklarını kanıtlamanın aşırı bir yolu olarak kendilerini yaraladılar, bu yolla Baal’ı onlara kulak vermeye ikna edeceğini ümit ettiler.
+  * **karşılık veren olmadı** - Onların bağırmalarına hiçbir karşılık verilmedi ve kurbanı yakacak ateş gelmedi.
 **[[:tr:obs:notes:frames:19-07|<<]] | [[:tr:obs:notes:19|Up]] | [[:tr:obs:notes:frames:19-09|>>]]**

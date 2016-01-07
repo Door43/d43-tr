@@ -17,10 +17,8 @@
 ==== Translation Notes: ====
 
 
-  * **interpret dreams** - To "interpret" is to tell what something means. So Joseph was able to tell people what their dreams meant.
-  * **had Joseph brought to him** - Another way to say this would be, "ordered his servants to bring Joseph to him."
-  * **God is going to send** - God will cause the crops to grow well for seven years, and after that He will cause them to produce very little food so that the people and animals will not have enough to eat.
-  * **famine** - The gardens and fields would produce so little food that people and animals would not have enough to eat.
-
-
+  * **rüya yorumlama** - Yorumlamak demek, bir şeyin ne anlama geldiğini söylemek demektir. Böylece Yusuf insanlara rüyalarının anlamını açıklamaya kadirdi.
+  * **Yusuf’un... getirilmesini buyurdu** - Bunu söylemenin başka bir yolu şu: «uşaklarına Yusuf’u onun yanına getirmeleri için emir verdi.»
+  * **Tanrı... gönderecek** - Tanrı yedi yıl bol tahılın yetişmesini sağlayacak, ondan sonra insanlarla hayvanlara yetmeyecek kadar az tahılın yetişmesini sağlayacak.
+  * **kıtlık** - Bağlar ve tarlalar, insanlarla hayvanların doyması için yetmeyecek kadar az hasat verecek.
 **[[:tr:obs:notes:frames:08-06|<<]] | [[:tr:obs:notes:08|Up]] | [[:tr:obs:notes:frames:08-08|>>]]**

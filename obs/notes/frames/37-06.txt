@@ -14,9 +14,7 @@ Then **Mary** arrived. She **fell at the feet of Jesus** and said, “**Master**
 
 ===== Translation Notes: =====
 
-  * **Mary** - This was the same woman as in **[[:tr:obs:notes:frames:37-01|[37-01]]]**, not the mother of Jesus.
-  * **fell at the feet of Jesus** - That is, "knelt down at Jesus' feet" as a sign of respect.
-  * **my brother would not have died.** - That is, "you could have kept my brother from dying" or, "you could have prevented my brother's death" or, "my brother would still be alive."
-
-
+  * **Meryem** - Bu, İsa’nın annesi değil, <b>[[:en:obs:notes:frames:37-01|[37-01]]]</b>de bahsedilen kadındır.
+  * **İsa’nın ayaklarına kapanarak** - Yani saygı belirtisi olarak «İsa’nın ayakları önünde diz çöktü.»
+  * **kardeşim ölmezdi** - Yani «Sen kardeşimin ölmesini engelleyebilirdin» ya da «kardeşim hâlâ sağ olurdu.»
 **[[:tr:obs:notes:frames:37-05|<<]] | [[:tr:obs:notes:37|Up]] | [[:tr:obs:notes:frames:37-07|>>]]**

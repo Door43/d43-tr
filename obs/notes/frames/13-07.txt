@@ -21,10 +21,8 @@ Then **God** wrote **these Ten Commandments** on two **stone tablets** and gave 
 ==== Translation Notes: ====
 
 
-  * **these Ten Commandments** - This refers to the commands God gave to Moses for the Israelites to obey. They are listed in frames **[[:tr:obs:notes:frames:13-05|[13-05]]]** and **[[:tr:obs:notes:frames:13-06|[13-06]]]**.
-  * **stone tablets** - These were flat pieces of stone.
-  * **God also gave** - This can be translated as, "God also told them."
-  * **to follow** - This can be translated as, "that they must obey" or, "that they must keep."
-
-
+  * **bu On Emir** - Tanrı’nın İsraillilerin uyması için Musa’ya verdiği emirler kastediliyor. Bunlar <b>[[:en:obs:notes:frames:13-05|[13-05]]]</b> ve <b>[[:en:obs:notes:frames:13-06|[13-06]]]</b> kısımlarında listelenmiştir.
+  * **taş levha** - Bunlar tablet gibi yassı taş parçalarıydı.
+  * **Ayrıca Tanrı... verdi** - Bu şöyle de çevrilebilir: «Tanrı onlara şunu da dedi.» 
+  * **uyması gereken** - Bu şöyle çevrilebilir: «itaat etsinler diye» ya da «uysunlar diye.»
 **[[:tr:obs:notes:frames:13-06|<<]] | [[:tr:obs:notes:13|Up]] | [[:tr:obs:notes:frames:13-08|>>]]**

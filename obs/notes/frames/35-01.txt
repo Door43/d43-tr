@@ -12,8 +12,6 @@
 
 ===== Translation Notes: =====
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **tax collectors** - Tax collectors were considered to be the worst of sinners because often they stole money from people by collecting a higher tax than the government required.
-
-
+  * **Bir gün** - Bu sözle geçmişte olup bitmiş olay anlatılmaya başlanıyor, fakat tam zamanı belirtilmiyor. Çok dilde gerçek olayı anlatmaya başlamanın benzer yolları vardır.
+  * **vergici** - Vergiciler halktan devletin talep ettiğinden fazla vergi toplamak yolu ile insanlardan para çaldıkları için en büyük günahkâr sayılırlardı.
 **[[:tr:obs:notes:frames:34-10|<<]] | [[:tr:obs:notes:35|Up]] | [[:tr:obs:notes:frames:35-02|>>]]**

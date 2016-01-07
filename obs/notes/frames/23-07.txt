@@ -15,12 +15,10 @@
 ===== Translation Notes: =====
 
   * (The angel continued speaking.)
-  * **wrapped in pieces of cloth** - The custom of that time was to tightly wrap newborn babies in long strips of cloth. It may be necessary to say, "wrapped in long strips of cloth, in the customary way."
-  * **feeding trough** - That is, "animal feeding box." Also see how you translated this in **[[:tr:obs:notes:frames:23-05|[23-05]]]**.
-  * **filled with angels** - This means that there were so many angels that they seemed to fill the sky.
-  * **Glory to God** - This can also be translated as, "Let us all give glory to God!" or, "Our God deserves all glory and honor!" or, "We all give glory to God!"
-  * **peace on earth** - Another way to say this would be, "may there be peace on earth."
-  * **the people he favors** - This might be translated as, "people that God looks upon with favor, delight, or good will."
-
-
+  * **kundağa sarılmış** - O zamanki geleneğe göre yeni doğan bebekleri uzun beze sararlardı. Şöyle söylemek gerekli olabilir: «Geleneksel bir biçimde uzun beze sarılmış.»
+  * **yemlik** - Yani «hayvanlar için yem kutusu.» Ayrıca bunu <b>[[:en:obs:notes:frames:23-05|[23-05]]]</b>de nasıl çevirdiğinize dikkat edin.
+  * **meleklerle doldu** - Yani adeta bütün göğü dolduracak kadar çok melek görünmüştü.
+  * **Tanrı’ya izzet olsun** - Bu şöyle de çevrilebilir: «Hepimiz Tanrı’ya izzet verelim!» ya da «Tanrımız bütün izzete ve şana layıktır!» ya da «Hepimiz Tanrı’ya izzet veriyoruz!»
+  * **Yeryüzünde... selâmet olsun!** - Bunu söylemenin başka bir yolu şu: «Dünyada barış olsun!»
+  * **razı olduğu insanlara** - Bu şöyle çevrilebilir: «Tanrı’nın rıza gösterdiği, zevk aldığı insanlara.»
 **[[:tr:obs:notes:frames:23-06|<<]] | [[:tr:obs:notes:23|Up]] | [[:tr:obs:notes:frames:23-08|>>]]**

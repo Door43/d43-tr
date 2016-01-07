@@ -15,9 +15,7 @@
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
-  * **The religious leader prayed like this** - Another way to say this would be, "This is how the religious leader prayed" or, "The religious leader prayed in this way."
-  * **I am not a sinner like** - That is, "I am not sinful like" or, "I am righteous, not like."
-  * **unjust men** - That is, "men who are not righteous" or, "people who do evil things" or, "law breakers."
-
-
+  * **Din alimi şöyle dua etti** - Bunu söylemenin başka bir yolu şu: «Din önderinin duası şuydu» ya da «Din alimi şu şekilde dua etti.»
+  * **gibi günahkâr değilim** - Yani «gibi günahlı/suçlu değilim» ya da «gibi değilim, sâlihim.»
+  * **zalim** - Yani «doğru olmayan» ya da «kötülük yapan» ya da «yasayı çiğneyen.»
 **[[:tr:obs:notes:frames:34-06|<<]] | [[:tr:obs:notes:34|Up]] | [[:tr:obs:notes:frames:34-08|>>]]**

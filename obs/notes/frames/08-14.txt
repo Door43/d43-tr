@@ -16,8 +16,6 @@
 ==== Translation Notes: ====
 
 
-  * **Even though Jacob was an old man, he moved to Egypt** - Egypt was a great distance away from Canaan, and it would have been difficult for an elderly man to walk or ride a cart that far.
-  * **Before Jacob died** - Jacob died in Egypt. He did not get to return to Canaan, the land God had promised to give to him and his descendants.
-
-
+  * **Yakup ihtiyar olmasına rağmen... Mısır’a taşındı** - Mısır Kenan’dan uzak mesafede bulunuyordu ve ihtiyar adamın bu kadar uzak mesafeye yürüyerek ya da at arabasında yolculuk etmesi zordu.
+  * **Yakup ölmeden önce** - Yakup Mısır’da öldü. Tanrı’nın ona ve soyuna vereceğini vadettiği Kenan’a dönmedi.
 **[[:tr:obs:notes:frames:08-13|<<]] | [[:tr:obs:notes:08|Up]] | [[:tr:obs:notes:frames:08-15|>>]]**

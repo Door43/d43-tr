@@ -20,9 +20,7 @@
 ==== Translation Notes: ====
 
 
-  * **Then God gave them the covenant and said** - What God says next is the content of the covenant, that is, he tells the people the things that they must obey. This could be translated as, "Then God told them His covenant. He said" or, "Then God made this covenant with them:"
-  * **Yahweh your God** - In some languages it might be more natural to change the order and say "your God Yahweh." Make sure it does not sound like the Israelites had more than one God. It should be clear that Yahweh is the only God. Another way to translate this would be, "Yahweh, who is your God" or, "your God, whose name is Yahweh."
-  * **who saved you from slavery** - This could be translated as, "I freed you from slavery."
-
-
+  * **Tanrı onlarla ahit yaparak şöyle dedi** - Tanrı’nın bundan sonra söylediği şeyler ahdin içeriğidir, yani Tanrı halka uymaları gereken şeyleri söyler. Bu şöyle çevrilebilir: «O zaman Tanrı onlara ahdini açıkladı. O dedi...» ya da «O zaman Tanrı onlarla şu ahdini yaptı...»
+  * **Tanrın Yahve** - Bazı dillerde «Yahve Tanrın» şeklinde söylemek daha doğaldır. İsraillilerin birden fazla tanrısı varmış gibi anlam vermemesine dikkat edin. Yahve’nin tek Tanrı olduğu net şekilde anlaşılmalı. Bunu çevirmenin başka bir yolu şu olabilir: «Tanrın olan Yahve» ya da «Yahve adlı Tanrın.»
+  * **Seni... köle olduğun ülkeden kurtaran** - Bu «Seni kölelikten kurtardım» şeklinde çevrilebilir.
 **[[:tr:obs:notes:frames:13-03|<<]] | [[:tr:obs:notes:13|Up]] | [[:tr:obs:notes:frames:13-05|>>]]**

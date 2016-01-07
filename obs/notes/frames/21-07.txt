@@ -21,11 +21,9 @@
 ==== Translation Notes: ====
 
 
-  * **on behalf of** - This may be translated as, "for the benefit of" or, "in the place of."
-  * **as a substitute for the punishment for their sins** - God allowed people to bring animals to sacrifice for their sin as a reminder of the punishment that they deserved and their dependence on God to remove their sin. God accepted these sacrifices as a temporary covering for sin and did not punish the people for it.
-  * **perfect high priest** - Unlike the other high priests, the Messiah would never sin, and he would permanently take away all the sins of the people.
-  * **offer himself** – That is, "allow himself to be killed."
-  * **perfect sacrifice** - That is, "a sacrifice that has no fault or imperfection."
-
-
+  * **halkın cezasının karşılığında** - Bu şöyle de çevrilebilir: «halkın uğruna verilen cezanın karşılığında» ya da «halkın yerine verilen ceza olarak.»
+  * **günah işleyen halkın cezasının karşılığında Tanrı’ya kurban sunarlardı** - Tanrı insanların kendi günahları için hak ettikleri cezayı ve günahlarının kaldırılmasının Tanrı’ya bağlı olduğunu hatırlatmak için hayvanları kurban vermelerine izin verirdi. Tanrı bu kurbanları geçici olarak günahlarını örten araçlar olarak kabul eder ve bu yolla insanları cezadan kurtarırdı.
+  * **kâmil bir kâhin** - Mesih başka kâhinlerden farklı olarak hiçbir zaman günah işlemeyecek ve insanların bütün günahlarını kalıcı olarak ortadan kaldıracaktı.
+  * **kendini... kurban olarak sunan ** - Yani «kendisini öldürmelerine izin veren.»
+  * **kâmil kurban** - Yani «hiçbir kusuru ya da eksikliği olmayan kurban.»
 **[[:tr:obs:notes:frames:21-06|<<]] | [[:tr:obs:notes:21|Up]] | [[:tr:obs:notes:frames:21-08|>>]]**

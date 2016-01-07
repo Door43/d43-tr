@@ -19,10 +19,8 @@
 ==== Translation Notes: ====
 
 
-  * **After that** - This means, after God caused the painful sores to appear on the Egyptians' skin.
-  * **God sent hail** - God caused hail to fall from the sky.
-  * **hail** - Hail is like chunks of ice that fall down from the clouds as rain does. These chunks can be very small or very large. The larger ones will hurt or kill whatever they fall on.
-  * **You may go** - The word "you" refers to Moses, Aaron, and the Israelites.
-
-
+  * **Bundan sonra** - Yani Tanrı Mısırlıların bedenlerinde çok ağrıyan çıbanların çıkmasını sağladıktan sonra.
+  * **Tanrı... dolu yağdırdı** - Tanrı gökten dolunun düşmesini sağladı.
+  * **dolu** - Dolu, buz parçalarının yağmur gibi gökten düşme olayı. Bu buz parçaları çok küçük ya da çok büyük olabilir. Çok büyük dolu, üstünde düştüğü canlıları yaralayabilir ve hatta öldürebilir.
+  * **gidebilirsiniz** - Burada «siz» Musa, Harun ve İsraillilere aittir.
 **[[:tr:obs:notes:frames:10-07|<<]] | [[:tr:obs:notes:10|Up]] | [[:tr:obs:notes:frames:10-09|>>]]**

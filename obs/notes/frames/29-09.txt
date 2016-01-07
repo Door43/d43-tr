@@ -12,12 +12,9 @@
 
 ===== Translation Notes: =====
 
-  * **Then Jesus said** - Some languages may add, "to his disciples."
-  * **This** - "This" refers back to the way the king punished the unforgiving servant in **[[:tr:obs:notes:frames:29-08|[29-08]]]**.
-  * **my heavenly Father** - That is, "my Father in heaven." Jesus is expressing his unique, personal relationship to God the Father.
-  * **your brother** - See how you translated this in **[[:tr:obs:notes:frames:29-01|[29-01]]]**.
-  * **from your heart** - That is, "with sincerity" or, "truly" or, "genuinely" or, "honestly."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * **Sonra İsa dedi** - Bazı dillerde «öğrencilerine» diye ilave etmek lazım olabilir.
+  * **böyle** - «Böyle» kralın merhametsiz hizmetkârı <b>[[:en:obs:notes:frames:29-08|[29-08]]]</b>de nasıl cezalandırdığına ait olabilir.
+  * **Semavi Babam** - Yani «Göklerdeki Babam.» İsa Baba Tanrı’yla eşsiz kişisel ilişkisini anlatıyor.
+  * **kardeşini** - Bunu <b>[[:en:obs:notes:frames:29-01|[29-01]]]</b>de nasıl çevirdiğinize dikkat edin.
+  * **yürekten** - Yani «samimi», «gerçekten», «hakikaten» ya da «dürüst.»
 **[[:tr:obs:notes:frames:29-08|<<]] | [[:tr:obs:notes:29|Up]] | [[:tr:obs:notes:frames:30-01|>>]]**

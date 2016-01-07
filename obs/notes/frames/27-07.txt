@@ -13,9 +13,7 @@
 ===== Translation Notes: =====
 
   * (Jesus continues to tell the story.)
-  * **came down the road** - That is, "was traveling down that same road."
-  * **Levites were a tribe of Jews** - That is, "Levites were from the Israelite tribe of Levi" or, "Levites were from the Israelite clan of Levi."
-  * **ignored** - That is, "did not help."
-
-
+  * **oraya geldi** - Yani «Aynı yolda yolculuk ediyordu.»
+  * **Levililer, Yahudilerin... bir oymağıydı** - Yani «Levililer, İsrail’in Levi oymağına mensuplardı» ya da «Levililer İsrail’in Levi aşiretindenlerdi.»
+  * **ihmal etti** - Yani «yardım etmedi.»
 **[[:tr:obs:notes:frames:27-06|<<]] | [[:tr:obs:notes:27|Up]] | [[:tr:obs:notes:frames:27-08|>>]]**

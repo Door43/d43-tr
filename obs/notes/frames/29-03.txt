@@ -13,8 +13,6 @@
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
-  * **pay the debt** - That is, "pay back the money he owed to the king."
-  * **to make payment on his debt** - This could be translated as, "and use the money received from selling them to pay part of what he owes me."
-
-
+  * **borcunu asla ödeyemeyeceğini** - Yani «krala borçlu olduğu parayı geri ödedi.»
+  * **Bu adamın borcunun ödenmesi için** - Bu şöyle çevrilebilir: «ve onların satılmasından alınan parayla bana borçlu olduğu miktarın bir kısmının öde.»
 **[[:tr:obs:notes:frames:29-02|<<]] | [[:tr:obs:notes:29|Up]] | [[:tr:obs:notes:frames:29-04|>>]]**

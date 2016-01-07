@@ -15,8 +15,6 @@
 
 ===== Translation Notes: =====
 
-  * **he will get better** - The disciples intended this in the sense of, "there is no reason for us to go to him now, since he will get well."
-  * **I am glad** - This could be translated as, "I am happy" or, "It is good that." It does not mean he was happy that Lazarus died, but rather that he was happy that God was going to show how great he is.
-
-
+  * **iyileşecek** - Havariler bununla şunu kastettiler: «şimdi ona gitmemize gerek yok, çünkü zaten iyileşecek.»
+  * **seviniyorum** - Bu şöyle çevrilebilir: «mutluyum» ya da «iyi ki.» İsa Lazar’ın öldüğüne sevinmiyordu, ama Tanrı’nın ne kadar yüce olduğunu göstereceği için mutluydu.
 **[[:tr:obs:notes:frames:37-02|<<]] | [[:tr:obs:notes:37|Up]] | [[:tr:obs:notes:frames:37-04|>>]]**

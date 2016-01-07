@@ -15,7 +15,5 @@
 ===== Translation Notes: =====
 
   * (Peter continues preaching to the crowd.)
-  * **But know for certain that** - This could also be translated as, "But you can know that it is true that" or, "But you can be sure that."
-
-
+  * **Ama şunu kesinlikle bilin** - Bu ayrıca şöyle çevrilebilir: «Ama şunun kesinlikle gerçek olduğunu bilebilirsiniz» ya da «Ama şundan emin olabilirsiniz.»
 **[[:tr:obs:notes:frames:43-08|<<]] | [[:tr:obs:notes:43|Up]] | [[:tr:obs:notes:frames:43-10|>>]]**

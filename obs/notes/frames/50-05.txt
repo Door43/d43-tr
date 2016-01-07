@@ -12,9 +12,7 @@
 
 ===== Translation Notes: =====
 
-  * **good seed** - This seed was wheat grain. If this type of seed is not known in your language area, it is best to use a general term for "seed." If there is no general term, it may be necessary to choose a type of grain seed that is known and say, for example, "good seed like rice."
-  * **weed seeds** - The weed seeds that were planted would grow up as tall grass but could not be eaten. They were useless.
-  * **wheat** - That is, "wheat seeds." Wheat is a kind of grain that grows like a tall grass. It has seeds that people use for food.
-
-
+  * **iyi tohum** - Söz konusu tohum buğday tohumuydu. Bu çeşit tohum dilinizin konuşulduğu bölgede tanınmıyorsa genel «tohum» terimini kullanmak iyidir. Genel terim yoksa bilinen bir çeşit tohumu seçmeniz gerekebilir, örneğin «pirinç gibi iyi tohum.»
+  * **delice** - Ekilmiş delice tohumları uzun ot şeklinde yetişir ama yenmez. Dolayısıyla bunların hiç faydası yoktu.
+  * **buğday** - Yani «buğday tohumları.» Buğday uzun ot şeklinde yetişen tahıl çeşididir. Tohumları yiyecek için kullanılır.
 **[[:tr:obs:notes:frames:50-04|<<]] | [[:tr:obs:notes:50|Up]] | [[:tr:obs:notes:frames:50-06|>>]]**

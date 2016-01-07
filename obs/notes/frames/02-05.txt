@@ -14,8 +14,6 @@ The woman saw that the fruit was beautiful and looked delicious. She also wanted
 ==== Translation Notes: ====
 
 
-  * **wise** - The woman wanted to have insight and understanding like the snake seemed to have, and like God has.
-  * **who was with her** - This is important information because it shows that the man was present when the woman made the decision to eat the fruit.
-
-
+  * **bilgi sahibi** - Kadın, yılanın görünüşte sahip olduğu ve Tanrı’nın da sahip olduğu idrake, bilgiye sahip olmak istedi.
+  * **yanında bulunan** - Bu, önemli gerçektir, çünkü kadın meyveyi yemeye karar verirken adamın onun yanında bulunduğunu bildiriyor.
 **[[:tr:obs:notes:frames:02-04|<<]] | [[:tr:obs:notes:02|Up]] | [[:tr:obs:notes:frames:02-06|>>]]**

@@ -16,12 +16,10 @@ The **Persian Empire** was strong but **merciful** to the people it conquered. S
 ==== Translation Notes: ====
 
 
-  * **Persian Empire** - See how you translated this term in **[[:tr:obs:notes:frames:20-11|[20-11]]]**.
-  * **Cyrus** - See how you translated his name in **[[:tr:obs:notes:frames:20-11|[20-11]]]**.
-  * **Judah** - See the note about Judah in **[[:tr:obs:notes:frames:20-11|[20-11]]]**.
-  * **to return to Judah** - Since most of these Jews were the children and grandchildren of those who left Judah, they had never lived in Judah before. In some languages it might be better to say "to go to Judah."
-  * **exile** - See how you translated this term in **[[:tr:obs:notes:frames:20-09|[20-09]]]**.
-  * **returned** – That is, "went back." Some languages may prefer to say, "went" since most of these people had never been to Jerusalem.
-
-
+  * **Pers İmparatorluğu** - Bunu <b>[[:en:obs:notes:frames:20-11|[20-11]]]</b>de nasıl çevirdiğinize dikkat edin.
+  * **Koreş** - Bu adı <b>[[:en:obs:notes:frames:20-11|[20-11]]]</b>de nasıl çevirdiğinize dikkat edin.
+  * **Yahuda** - <b>[[:en:obs:notes:frames:20-11|[20-11]]]</b>de Yahuda hakkındaki nota bakınız.
+  * **Yahuda’ya dönmek** - Yahudilerin çoğu Yahuda’yı terkedenlerin çocukları ve torunları oldukları için daha önce hiç Yahuda’da yaşamamışlardı. Bazı dillerde «Yahuda’ya gitmek» şeklinde söylemek daha iyi ola bilir.
+  * **sürgün** - Bunu <b>[[:en:obs:notes:frames:20-09|[20-09]]]</b>de nasıl çevirdiğinize dikkat edin.
+  * **döndü** - Yani «geri döndü.» Bazı dillerde «gitti» sözcüğünün kullanılması tercih edilebilir, çünkü bu insanların çoğu hiçbir zaman Yeruşalim’e gitmemişti.
 **[[:tr:obs:notes:frames:20-11|<<]] | [[:tr:obs:notes:20|Up]] | [[:tr:obs:notes:frames:20-13|>>]]**

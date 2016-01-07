@@ -16,13 +16,11 @@
 
 ===== Translation Notes: =====
 
-  * **two robbers** - This could also be translated as, "two bandits." This refers to criminals who used force or violence to steal things.
-  * **Do you have no fear of God?** - The robber does not expect an answer to this question; it is a way that some languages use to make a strong statement. If your language does not use questions in this way, then translate this as, "You should fear God!"
-  * **We are guilty but this man is innocent** - This could be translated as, "You and I have done evil things and deserve to die, but this man, Jesus, has done nothing wrong and does not deserve to die." "We" here includes both robbers, but does not include Jesus.
-  * **this man** - This phrase refers to Jesus.
-  * **Please remember me** - That is, "Please accept me" or, "Please welcome me" or, "Please allow me to be with you." "Remember" here does not mean to recall something after forgetting it. Translate this in a way that communicates a humble request.
-  * **in your kingdom** - That is, "when you establish your kingdom" or, "when you are ruling as king."
-  * **Paradise** - This is another name for "heaven."
-
-
+  * **iki mahkûm** - Bunu «iki hırsız» ya da «iki haydut» şeklinde de çevirebilirsiniz. Şeyler çalmak için zor ya da şiddet kullanan mahkûmlar kastediliyor.
+  * **Sen hiç Tanrı’dan korkmuyor musun?** - Bu mahkûm, sorusuna cevap verilmesini beklemez, ama bazı dillerde soru şekli söyleneni kuvvetlendirmek için kullanılır. Eğer siniz diliniz farklıysa bu cümleyi «Tanrı’dan korkmalısın» şeklinde çeviriniz.
+  * **Biz suçluyuz, bu adam ise suçsuz** - Bu şöyle çevrilebilir: «Senle ben kötülük yaptık ve ölmeye layığız, ama bu adam yanlış hiçbir şey yapmadı ve ölmeye layık değil.» burada «biz»le iki adam kastediliyor, İsa ise kastedilmiyor.
+  * **bu adam** - İsa kastediliyor.
+  * **beni hatırla!** - Yani «lütfen beni kabul et!» ya da «Seninle olmama izin ver.» Burada «hatırla» unuttuğu bir şeyi akla getirmek anlamına gelmiyor. Bunu alçakgönüllü bir rica şeklinde çevirin.
+  * **Hükümranlığın’da** - Yani «Hükümranlığın’ı kurduktan sonra» ya da «Kral olarak hüküm süreceğin zaman.»
+  * **cennette** - Ya da «gökte.»
 **[[:tr:obs:notes:frames:40-03|<<]] | [[:tr:obs:notes:40|Up]] | [[:tr:obs:notes:frames:40-05|>>]]**

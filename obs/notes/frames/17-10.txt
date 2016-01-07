@@ -14,9 +14,7 @@
 ==== Translation Notes: ====
 
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **saw** - Bathsheba may have been bathing at her own house, but David's palace was very high and he was able to see over walls that were lower.
-  * **bathing** - This may be translated as, "taking a bath" or, "washing herself."
-
-
+  * **Bir gün** - Bu sözle geçmişte olup bitmiş olay anlatılmaya başlanıyor, fakat tam zamanı belirtilmiyor. Çok dilde gerçek olayı anlatmaya başlamanın benzer yolları vardır.
+  * **gördü** - Bat-Şeva kendi evinde yıkanıyor olabilirdi, ama Davut’un sarayı o kadar yüksekti ki, oradan daha alçak duvarları olan başka evleri görebiliyordu.
+  * **yıkanmakta olan** - «Banyo yapmakta olan» da çevrilebilir.
 **[[:tr:obs:notes:frames:17-09|<<]] | [[:tr:obs:notes:17|Up]] | [[:tr:obs:notes:frames:17-11|>>]]**

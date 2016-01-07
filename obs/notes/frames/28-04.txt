@@ -11,11 +11,9 @@
 
 ===== Translation Notes: =====
 
-  * **you** - If your language has different words for "you" depending on the number of people intended, use the singular form. Jesus was addressing this command to this one man.
-  * **perfect** - That is, "completely righteous."
-  * **everything you own** - That is, "all of your possessions."
-  * **treasure** - This could also be translated as, "riches" or, "great wealth."
-  * **in heaven** - This could also be translated as, "located in heaven when you arrive there." This treasure will exist "there and then," as opposed to the wealth that Jesus asked the young man to give up "here and now."
-
-
+  * **-** - -
+  * **Kâmil** - Yani «tamamen sâlih.»
+  * **varını yoğunu** - Yani «sahip olduğun her şeyi.»
+  * **hazinen** - Bu sözcük «servetin» ya da «büyük zenginliğin» olarak da çevrilebilir.
+  * **göklerde** - Bu şöyle de çevrilebilir: «göklere varacağınız zaman orada senin için bulunacak olan.» Söz konusu hazine, İsa’nın genç adamın «şimdi ve burada» vazgeçmesini istediği zenginlikten farklı olarak «o zaman ve orada» bulunur.
 **[[:tr:obs:notes:frames:28-03|<<]] | [[:tr:obs:notes:28|Up]] | [[:tr:obs:notes:frames:28-05|>>]]**

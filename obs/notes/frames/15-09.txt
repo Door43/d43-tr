@@ -15,9 +15,7 @@
 ==== Translation Notes: ====
 
 
-  * **God fought for Israel** - God fought on the side of Israel against Israel's enemies.
-  * **caused the Amorites to be confused** - This could be translated as, "made the Amorites panic" or, "caused the Amorites to be unable to fight together well."
-  * **large hailstones** - This could be translated as, "very large balls of ice to come down from the sky."
-
-
+  * **Tanrı, İsrail için savaştı** - Tanrı, İsrail’in düşmanlarına karşı İsrail’in yanında savaştı.
+  * **Amorluları şaşkına çevirdi** - Bu şöyle çevrilebilir: «Amorluları panik hâline düşürdü» ya da «Amorluların birlikte iyi savaşmamasını sağladı.»
+  * **iri iri dolu yağdırarak** - Bu şöyle çevrilebilir: «gökten çok büyük buz parçalarının düşmesini sağlayarak.»
 **[[:tr:obs:notes:frames:15-08|<<]] | [[:tr:obs:notes:15|Up]] | [[:tr:obs:notes:frames:15-10|>>]]**

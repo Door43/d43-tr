@@ -13,9 +13,7 @@ The twelve men traveled through **Canaan** for forty days and then **they came b
 ==== Translation Notes: ====
 
 
-  * **they came back** - They returned to where the rest of the Israelites were waiting, just outside the border of Canaan.
-  * **The cities are very strong** - The cities had strong walls around them, so it would be very difficult for the Israelites to attack them.
-  * **the people are giants** – This could be translated as, "the people are like giants compared to us!" or, "the people are much taller and stronger than we are!"
-
-
+  * **geri döndü** - Kalan İsraillilerin Kenan’ın sınırı dışında bekledikleri yere döndüler.
+  * **Kentleri çok güçlü** - Kentlerinin çevresinde güçlü duvarlar vardı ve İsraillilerin onlara saldırması çok zor olurdu.
+  * **kendileri de dev gibi** - Bu şöyle çevrilebilir: «kendileri de bize kıyasla dev gibidirler!» ya da «kendileri de bizden kat kat uzun boylu ve kuvvetlidirler!»
 **[[:tr:obs:notes:frames:14-04|<<]] | [[:tr:obs:notes:14|Up]] | [[:tr:obs:notes:frames:14-06|>>]]**

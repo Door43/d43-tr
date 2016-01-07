@@ -18,9 +18,7 @@
 ==== Translation Notes: ====
 
 
-  * **After the people crossed the Jordan River** – In some languages it is better to say, "The people crossed the Jordan River and then…"
-  * **how to attack** – This could be translated as, "exactly what he should do to attack."
-  * **once a day for six days** - That is, they went around the city one time every day for a total of six days.
-
-
+  * **Halk Şeria Nehri’ni geçtikten sonra** - Bazı dillerde şöyle söylemek daha iyidir: «Halk Şeria Nehri’ni geçti ve sonra...»
+  * **nasıl saldıracağını** - Bu şöyle de çevrilebilir: «saldırmak için tam olarak ne yapması gerektiğini.»
+  * **altı gün birer kez** - Yani altı gün boyunca her gün bir kez kenti dolandılar.
 **[[:tr:obs:notes:frames:15-02|<<]] | [[:tr:obs:notes:15|Up]] | [[:tr:obs:notes:frames:15-04|>>]]**

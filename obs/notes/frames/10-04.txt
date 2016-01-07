@@ -18,8 +18,6 @@
 ==== Translation Notes: ====
 
 
-  * **God sent frogs all over Egypt** - This could be translated as, "God caused many frogs to appear throughout Egypt."
-  * **hardened his heart** - He became stubborn again and refused to obey God.
-
-
+  * **Tanrı tüm Mısır’ın üzerine kurbağalar gönderdi** - Bu şöyle çevrilebilir: «Tanrı Mısır’ın her yerinde birçok kurbağanın çıkmasını sağladı.»
+  * **kalbini taşlaştırdı** - O yine inat ederek Tanrı’ya itaat etmeyi reddetti.
 **[[:tr:obs:notes:frames:10-03|<<]] | [[:tr:obs:notes:10|Up]] | [[:tr:obs:notes:frames:10-05|>>]]**

@@ -15,7 +15,5 @@
 ==== Translation Notes: ====
 
 
-  * **wilderness** - See how you translated this in **[[:tr:obs:notes:frames:09-10|[09-10]]]**.
-
-
+  * **çöl** - Bunu <b>[[:en:obs:notes:frames:09-10|[09-10]]]</b>de nasıl çevirdiğinize dikkat edin.
 **[[:tr:obs:notes:frames:09-10|<<]] | [[:tr:obs:notes:09|Up]] | [[:tr:obs:notes:frames:09-12|>>]]**

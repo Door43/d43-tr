@@ -14,14 +14,12 @@
 
 ===== Translation Notes: =====
 
-  * **You poisonous snakes** - This could be translated as, "You are like lying poisonous snakes!" John was calling them poisonous snakes because they were dangerous and deceptive.
-  * **Every tree that does not bear good fruit** - John is not really talking about trees. This is an expression that compares good fruit to good actions and attitudes that come from God.
-  * **will be cut down and thrown into the fire** - This means, "will be judged and punished by God."
-  * **John fulfilled** - That is, "John was doing" what the prophet said God's messenger would do.
-  * **See** - This could be translated as "Look and see" or, "Pay attention!"
-  * **my messenger** - That is, "I, Yahweh, will send my messenger." In some languages it would be more natural to use an indirect quote for this sentence, such as: "what the prophet Isaiah predicted when he said that God would send his messenger."
-  * **ahead of you** - In this phrase, the word "you" refers to the Messiah.
-  * **prepare your way** - God's messenger will prepare the people to listen to the Messiah.
-
-
+  * **Ey siz, zehirli yılanlar!** - Bu şöyle çevrilebilir: «Siz zehirli yılanlar gibisiniz!» Yahya onları, tehlikeli ve yalancı oldukları için zehirli yılanlar adlandırdı.
+  * **İyi meyve vermeyen her ağaç** - Yahya ağaçlardan bahsetmez. O, Tanrı’dan gelen iyi amelleri ve davranışları iyi meyveye benzetir.
+  * **kesilip ateşe atılacak** - Yani «Tanrı tarafından yargılanıp cezalandırılacak.»
+  * **Yahya, peygamberlerin şu sözünü gerçekleştirdi** - Yani «Yahya peygamberin dediğine göre Tanrı’nın elçisinin yapacağı işi yapıyordu.»
+  * **İşte** - Bu sözcük «Bakın ve görün» ya da «Dikkat edin» olarak da çevrilebilir.
+  * **elçimi** - Yani «Ben, Yahve, elçimi göndereceğim.» Bazı dillerde bu cümlede dolaylı alıntıyı vermek daha doğal olur, örneğin: «Yeşaya Peygamber’in Tanrı’nın elçisini göndereceğini ilan ederek önceden bildirdiği...»
+  * **senin önünden** - Burada «siz» Mesih’e aittir.
+  * **yolumu hazırlayacak** - Tanrı’nın elçisi insanları Mesih’i dinlemeye hazırlayacak.
 **[[:tr:obs:notes:frames:24-03|<<]] | [[:tr:obs:notes:24|Up]] | [[:tr:obs:notes:frames:24-05|>>]]**

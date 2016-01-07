@@ -16,9 +16,7 @@
 
 ===== Translation Notes: =====
 
-  * **guarded the robes of the men who killed Stephen** - See **[[:tr:obs:notes:frames:45-06|[45-06]]]**.
-  * **from house to house** - That is, "into many houses."
-  * **Damascus** - Damascus is now the capital of the country of Syria. During Saul's time, it was a city belonging to the Roman Empire. Most of the people there were not Jewish, but there were some Jews and also some Christians living there.
-
-
+  * **İstefanos’u öldürenlerin elbiselerini bekleyen** - Bkz: <b>[[:en:obs:notes:frames:45-06|[45-06]]]</b>.
+  * **ev ev dolaşıyor** - Yani «birçok eve giriyor.»
+  * **Şam** - Şam halihazırda Suriye’nin başkentidir. Saul’un döneminde bu kent Roma İmparatorluğu’na dahildi. Orada oturanların çoğu Yahudi değillerdi, fakat bazı Yahudiler ve Mesih inanlıları da orada oturuyorlardı.
 **[[:tr:obs:notes:frames:45-13|<<]] | [[:tr:obs:notes:46|Up]] | [[:tr:obs:notes:frames:46-02|>>]]**

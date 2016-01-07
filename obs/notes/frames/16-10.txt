@@ -15,9 +15,7 @@
 ==== Translation Notes: ====
 
 
-  * **32,000 Israelite soldiers came to Gideon** - Some languages might need to insert the following sentence at the beginning of the story: "Gideon called the Israelites to come fight against the Midianites." See **[[:tr:obs:notes:frames:16-08|[16-08]]]**.
-  * **too many** - This was more soldiers than God wanted for this fight. If that many solders fought and won, they would think that they won the battle with their own strength, and they would not know that God did it.
-  * **except for 300 soldiers** - This sentence could be translated as, "So Gideon allowed only 300 men to stay, and the rest of the men went home."
-
-
+  * **32.000 İsrailli asker Gidyon’a gelmişti** - Bazı dillerde öykünün başına şu cümlenin konması gerekebilir: «Gidyon İsraillileri Midyanlılara karşı savaşmaya çağırmıştı.» Bkz: <b>[[:en:obs:notes:frames:16-08|[16-08]]]</b>.
+  * **fazla** - Bu kadar asker, Tanrı’nın bu savaş için istediğinden çoktu. Bu kadar asker savaşıp kazansaydı savaşı kendi güçleriyle kazandıklarını zanneder ve Tanrı’nın bunu yaptığını bilemezlerdi.
+  * **300 asker hariç** - Bu cümle şöyle çevrilebilir: «Böylece Gidyon sadece 300 adamın kalmasına izin verdi, kalan adamlarsa evlerine gittiler.»
 **[[:tr:obs:notes:frames:16-09|<<]] | [[:tr:obs:notes:16|Up]] | [[:tr:obs:notes:frames:16-11|>>]]**

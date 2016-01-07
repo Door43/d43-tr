@@ -12,10 +12,8 @@
 ===== Translation Notes: =====
 
   * (Jesus told another story.)
-  * **treasure** - That is, "something that is very valuable."
-  * **buried it again** - It is also possible to add, "so that no one else would find it."
-  * **filled with joy** - Another way to say this is, "very happy" or, "excited."
-  * **buy that field** - Some people may want to add, "so that the treasure would be his."
-
-
+  * **define** - Yani «hazine» ya da «çok değerli bir şey.»
+  * **tekrar gömer** - Ayrıca «başka kimse onu bulamasın diye» şeklinde eklemek mümkündür.
+  * **Çok sevinir** - Bunu söylemenin başka bir yolu «çok mutlu olur» ya da «sevinçten coşar.»
+  * **o tarlayı satın alır** - Bazıları «defineye sahip olmak için» şeklinde ilave edebilirler.
 **[[:tr:obs:notes:frames:34-03|<<]] | [[:tr:obs:notes:34|Up]] | [[:tr:obs:notes:frames:34-05|>>]]**

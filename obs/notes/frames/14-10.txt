@@ -15,9 +15,7 @@
 ==== Translation Notes: ====
 
 
-  * **God did not go with them into this battle** - In other words, God did not help them in this fight.
-  * **turned back from Canaan** - They left Canaan and went back into the wilderness where they were before.
-  * **wandered through the wilderness** - They lived in the wilderness, and together they moved from place to place in that large, dry land, looking for food and water for themselves and their animals.
-
-
+  * **Tanrı onlarla savaşa gitmedi** - Başka bir deyişle, Tanrı bu savaşta onlara yardım etmedi.
+  * **Kenan’dan uzaklaşıp** - Onlar Kenan’ı terkedip önce oldukları çöle geri döndüler.
+  * **çölde dolaştılar** - Onlar çölde yaşadılar ve o kocaman kurak bölgede kendilerine ve hayvanlarına yemek ve su arayarak hep beraber yerden yere göçtüler.
 **[[:tr:obs:notes:frames:14-09|<<]] | [[:tr:obs:notes:14|Up]] | [[:tr:obs:notes:frames:14-11|>>]]**

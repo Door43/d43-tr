@@ -19,7 +19,5 @@
 ==== Translation Notes: ====
 
 
-  * **This pattern repeated many times** - This could be translated as, "These things kept happening again and again" or, "These things happened many times."
-
-
+  * **Bu durum defalarca tekrarlandı** - Bu şöyle çevrilebilir: «Bu şeyler tekrar tekrar oldu» ya da «Bu şeyler defalarca oldu.»
 **[[:tr:obs:notes:frames:16-16|<<]] | [[:tr:obs:notes:16|Up]] | [[:tr:obs:notes:frames:16-18|>>]]**

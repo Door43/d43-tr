@@ -11,8 +11,6 @@
 
 ===== Translation Notes: =====
 
-  * **they placed** - That is, "the religious leaders and the soldiers placed."
-  * **a seal on the stone** - They put a soft material like clay or wax between the stone and the tomb and marked it with an official seal. If anyone moved the stone, the material would break and show that someone had entered the tomb. This could also be translated as, "a mark on the stone to forbid people from moving it."
-
-
+  * **onlar... mühürlediler** - Yani «din alimleri ve askerler... mühürlediler.»
+  * **taşı mühürlediler** - Taş ile mezar arasına balçık ya da mum gibi yumuşak madde koydular ve ona resmî mühür bastılar. Biri taşı hareket ettirseydi o madde kırılır ve birinin mezarın içine girmiş olduğunu gösterirdi. Bu ayrıca «insanların taşı hareket ettirmesini önlemek için taşa basılan mühür» olarak çevrilebilir.
 **[[:tr:obs:notes:frames:41-01|<<]] | [[:tr:obs:notes:41|Up]] | [[:tr:obs:notes:frames:41-03|>>]]**

@@ -16,6 +16,5 @@
 ===== Translation Notes: =====
 
 
-  * **the boat** - The boat was big enough to carry eight people, two of every kind of animal, and their provisions for almost a year.
-
+  * **gemi** - Geminin, sekiz kişiyi, her hayvan türünden birer çifti ve neredeyse bir yıla yetecek erzakı içine alacak kadar büyük olması gerekirdi.
 **[[:tr:obs:notes:frames:03-02|<<]] | [[:tr:obs:notes:03|Up]] | [[:tr:obs:notes:frames:03-04|>>]]**

@@ -15,9 +15,7 @@
 
 ===== Translation Notes: =====
 
-  * **As Stephen was dying** - That is, "Just before Stephen died."
-  * **cried out** - That is, "called out in a loud voice" or, "said very loudly."
-  * **do no count this sin against them** - That is, "do not consider them guilty of the sin of killing me."
-
-
+  * **İstefanos can verirken** - Yani «İstefanos ölmeden hemen önce.»
+  * **bağırdı** - Yani «çok yüksek sesle söyledi.»
+  * **bu günahı onlara sayma** - Yani «onları, beni öldürmekle işledikleri günahtan suçlu sayma.»
 **[[:tr:obs:notes:frames:45-04|<<]] | [[:tr:obs:notes:45|Up]] | [[:tr:obs:notes:frames:45-06|>>]]**

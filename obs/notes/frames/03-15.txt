@@ -18,9 +18,8 @@
 ===== Translation Notes: =====
 
 
-  * **never again** - This means, "not ever again" or, "not again at any time" or, "truly not again". Examples: "I will not ever again curse the ground" or, "I will not curse the ground again at any time" or, "I will truly not curse the ground again".
-  * **curse the ground** - The earth and the other creatures suffered because of man's sin.
-  * **the world** – This refers to the earth and the living creatures that lived on it.
-  * **people are sinful from the time they are children** - Another way to say this would be, "people do sinful things their entire lives."
-
+  * **asla** - Bu, «bir daha hiçbir zaman» ya da «gerçekten artık hiçbir zaman» anlamına gelir. Örneğin: «Bir daha hiçbir zaman toprağı lanetlemeyeceğim» ya da «Gerçekten artık hiçbir zaman toprağı lanetlemeyeceğim.»
+  * **toprağı... lanetlemeyeceğim** - Yeryüzü ve başka yaratıklar adamın günahından zarar gördüler.
+  * **dünya** - Yeryüzü ve orada yaşayan canlılar kastediliyor.
+  * **insanlar genç yaşlarından günahlı olsalar da** - Bunu söylemenin başka bir yolu şu: «insanlar ömür boyunca günah işliyorlar.»
 **[[:tr:obs:notes:frames:03-14|<<]] | [[:tr:obs:notes:03|Up]] | [[:tr:obs:notes:frames:03-16|>>]]**

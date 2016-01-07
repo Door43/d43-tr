@@ -9,9 +9,9 @@ Then **God said**, “**Let there be** light!” And there was **light**. God sa
   * **[[:tr:obs:notes:key-terms:good|good]]**
 ==== Translation Notes: ====
 
-  * **God said**  - God created light by means of a simple verbal command.
-  * **let there be**  - This is a command that happened immediately because it was spoken by God. It may be more natural to translate this as a statement of certainty that this would definitely happen. For example, you could translate this as, "God said, 'There will be light.'"
-  * **light**  - This was a special light that God created–the sun was not created until later.
-  * **was good**  - This phrase is often repeated through the Creation story, and emphasizes that each stage of creation was pleasing to God and accomplished his plan and purpose.
-  * **creation**  - This word is used here to refer to the six-day period during which God made everything that exists.
+  * **Tanrı dedi** - Tanrı sadece sözlü bir emir aracılığıyla ışığı yarattı.
+  * **olsun** - Bu, Tanrı tarafından verildiği için hemen yerine getirilen emirdir. Bunu kastedilen olayın muhakkak olacağına dair emniyeti ifade eden bir söz ile çevirmek daha çok doğal olabilir. Örneğin, şöyle bir çeviri olabilir: «Tanrı, ışık olacak! dedi.»
+  * **ışık** - Bu, Tanrı’nın yarattığı özel ışıktı - güneş henüz yaratılmamıştı.
+  * **iyi olduğunu** - Yaratılış öyküsünde sık sık kullanılan bu söz, yaratılışın her evresinin Tanrı’yı memnun ettiğini, O’nun planına, amacına uygun düştüğünü vurguluyor.
+  * **yaratılış** - Bu söz burada Tanrı’nın var olan her şeyi yarattığı altı günlük süreye dair kullanılıyor.
 **[[:tr:obs:notes:frames:01-01|<<]] | [[:tr:obs:notes:01|Up]] | [[:tr:obs:notes:frames:01-03|>>]]**

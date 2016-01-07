@@ -21,10 +21,8 @@
 
 ===== Translation Notes: =====
 
-  * **Good works cannot save you** - That is, "Doing good things cannot save you from your sins" or, "You cannot do anything good enough to save yourself from the penalty for your sins."
-  * **wash away your sins** - That is, "completely remove your sins" or, "take away your sins and make you clean." This is talking about God purifying people in their spirit by completely removing their sins. It does not mean physical washing.
-  * **instead of you** - That is, " in your place."
-  * **raised him to life again** - This could also be translated as, "made him alive again."
-
-
+  * **İyi ameller seni kurtaramaz** - Yani «İyilik yapman seni günahlarından kurtaramaz» ya da «Sen kendini günahlarının cezasından kurtarmak için hiçbir şey yapamazsın.»
+  * **senin günahlarını silebilir** - Yani «Günahlarını tümüyle ortadan kaldırabilir» ya da «günahlarını ortadan kaldırıp seni pak edebilir.» Fiziksel temizlenmeden değil, Tanrı’nın insanların günahlarını tümüyle ortadan kaldırarak ruhlarını temizlemesinden bahsediliyor.
+  * **senin yerine** - Yani «senin için.»
+  * **O’nu ölümden dirilttiğine** - Bu «O’nu yeniden hayata döndürdü» şeklinde de çevrilebilir.
 **[[:tr:obs:notes:frames:49-11|<<]] | [[:tr:obs:notes:49|Up]] | [[:tr:obs:notes:frames:49-13|>>]]**

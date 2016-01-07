@@ -18,9 +18,7 @@ All the people of the **kingdom of Israel**, including the 450 **prophets** of *
 ==== Translation Notes: ====
 
 
-  * **Mount Carmel** - See how you translated this in **[[:tr:obs:notes:frames:19-05|[19-05]]]**.
-  * **How long will you** - This is not a real question asking for information. Elijah was rebuking the Israelites for repeatedly changing their minds about whether they would serve Yahweh or Baal. Some languages will have to express this as a statement such as, "Stop changing your minds about whom you will worship!"
-  * **If Yahweh is God…If Baal is God** - This does not mean that Elijah was undecided. He knew that Yahweh is the real God. He wanted the people to understand that when they worship false gods, they are rejecting Yahweh as the only true God. Translate this in a way that shows that the people had to make a choice.
-
-
+  * **Karmel Dağı** - Bunu <b>[[:en:obs:notes:frames:19-05|[19-05]]]</b>de nasıl çevirdiğinize dikkat edin.
+  * **Daha ne zamana kadar** - Bu, bilgi almak için sorulan gerçek soru değil. İlyas, Yahve’ye yoksa Baal’a hizmet edecekleri konusunda sık sık fikirlerini değiştikleri için İsraillileri azarlıyordu. Bazı dillerde bunu şöyle ifade ederler: «Kime tapınacağınız konusunda fikrinizi değiştirmekten vazgeçin!»
+  * **Eğer Yahve Tanrı’ysa... Yok eğer Baal Tanrı’ysa** - Bu, İlyas’ın mütereddit olduğu anlamına gelmiyor. İlyas Yahve’nin gerçek Tanrı olduğunu biliyordu. Fakat o, halkın yalancı ilâhlara tapındıkları zaman Yahve’yi tek gerçek Tanrı olarak reddettiklerini anlamasını istiyordu. Bunu, halkın bir seçim yapması gerektiğini gösterecek şekilde çevirin.
 **[[:tr:obs:notes:frames:19-05|<<]] | [[:tr:obs:notes:19|Up]] | [[:tr:obs:notes:frames:19-07|>>]]**

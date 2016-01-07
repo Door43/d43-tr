@@ -12,6 +12,6 @@
   * **[[:tr:obs:notes:key-terms:egypt|Egypt]]**
 ==== Translation Notes: ====
 
-  * **made without yeast**  – Yeast is something that is mixed into bread dough that makes the dough expand and it also makes the bread rise as it bakes. This could be translated as, "made without something that would make it rise." Making the bread with yeast would have taken much longer, so cooking the bread without yeast was a way to be prepared to leave Egypt quickly.
-  * **when they ate**  – This means they needed to be prepared to leave before they started to eat.
+  * **mayasız** - Maya, hamura ilave edilen, hamurun şişmesini, ekmeğin pişerken kalkmasını sağlayan bir maddedir. «Kalkmasını sağlayan madde kullanmadan pişirilen» şeklinde çevrilebilir. Mayalı ekmek pişirmek daha çok zaman alacaktı, mayasız ekmek pişirmek Mısır’ı çabuk terketmeye hazır olmanın bir yoluydu.
+  * **yedikten sonra** - Yani yemeye başlamadan önce gitmeye hazır olmaları gerekirdi.
 **[[:tr:obs:notes:frames:11-02|<<]] | [[:tr:obs:notes:11|Up]] | [[:tr:obs:notes:frames:11-04|>>]]**

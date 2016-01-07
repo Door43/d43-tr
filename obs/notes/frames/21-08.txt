@@ -17,8 +17,6 @@ A **king** is someone who rules over a **kingdom** and **judges** the people. Th
 ==== Translation Notes: ====
 
 
-  * **sit on the throne of his ancestor David** - A throne is a ceremonial chair for a king or queen that represents their authority. This expression could also be translated as, "have the authority to reign as his ancestor King David did" or, "be the descendant of King David and continue his rule over God's people."
-  * **the whole world** - This could also be translated as, "everyone everywhere."
-
-
+  * **babası Davut’un tahtında oturan** - Taht kralın ya da kraliçenin yetkisini sembolize eden törensel bir koltuktur. Bu tabir şöyle de çevrilebilir: «babası Kral Davut’un yetkisine benzer egemenlik sürme yetkisine sahip olan» ya da «Kral Davut’un soyu olarak Tanrı’nın halkı üzerindeki egemenliğini sürdüren.»
+  * **Bütün dünya** - Bu «Her yerde herkes» olarak da çevrilebilir.
 **[[:tr:obs:notes:frames:21-07|<<]] | [[:tr:obs:notes:21|Up]] | [[:tr:obs:notes:frames:21-09|>>]]**

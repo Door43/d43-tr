@@ -16,10 +16,8 @@
 ==== Translation Notes: ====
 
 
-  * **God made** - God formed the man and the woman in a very personal way.
-  * **in his own image** - An image is a physical representation of someone or something. God made people to display or represent some of his qualities and traits, but not to be equal to him.
-  * **very good** - More intense than the, "it was good" statements on previous days. "Very good" refers to all of creation, not just the man and the woman. Everything was exactly as God intended it to be.
-  * **creation** - The six-day period during which God made everything that exists.
-
-
+  * **Tanrı... yarattı** - Tanrı adamı ve kadını çok kişisel bir yolla yarattı.
+  * **kendi suretinde** - Suret bir kimsenin veya bir şeyin fiziksel timsalidir. Tanrı insanları kendisinin bazı vasıflarını, niteliklerini gösterecek ya da yansıtacak, fakat O’na eşit olmayacak şekilde yarattı.
+  * **çok iyi olduğunu** - Önceki günlerde söylenen «iyi olduğunu» sözünden daha kuvvetli bir söz. «Çok iyi» sadece adamla kadına değil bütün yaratılışa aittir. Her şey tam Tanrı’nın istediği gibi olmuştur.
+  * **yaratılış** - Tanrı’nın var olan her şeyi yarattığı altı günlük süre.
 **[[:tr:obs:notes:frames:01-14|<<]] | [[:tr:obs:notes:01|Up]] | [[:tr:obs:notes:frames:01-16|>>]]**

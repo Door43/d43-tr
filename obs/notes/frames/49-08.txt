@@ -16,7 +16,5 @@
 
 ===== Translation Notes: =====
 
-  * **is separated from God** - This can also be translated as, "cannot live with God" or, "cannot be near God" or, "cannot have a relationship with God."
-
-
+  * **Tanrı’dan ayrı düşer** - Bu şöyle çevrilebilir: «Tanrı’yla yaşayamaz olur» ya da «Tanrı’ya yakın olamaz» ya da «Tanrı’yla bağ içinde olamaz.»
 **[[:tr:obs:notes:frames:49-07|<<]] | [[:tr:obs:notes:49|Up]] | [[:tr:obs:notes:frames:49-09|>>]]**

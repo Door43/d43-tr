@@ -18,10 +18,8 @@ So **God sent a plague of gnats**. Then he sent a plague of **flies**. **Pharaoh
 ==== Translation Notes: ====
 
 
-  * **God sent a plague** – This could be translated as, "God caused there to be a plague" or, "God caused a plague (of gnats) to come over the land of Egypt."
-  * **gnats** - These were tiny, biting insects flying in large swarms, annoying and landing on all the people and animals of Egypt.
-  * **flies** - These were much bigger flying insects that were both annoying and destructive. There were so many of these flies that they covered everything, even filling the Egyptians' houses.
-  * **hardened his heart** - See note in **[[:tr:obs:notes:frames:10-04|[10-04]]]**.
-
-
+  * **Tanrı... belasını gönderdi** - Bu şöyle çevrilebilir: «Tanrı... belasını sağladı» ya da «Tanrı Mısır ülkesine (bit) belasının gelmesini sağladı.»
+  * **bit** - Bunlar büyük sürülerle uçan, Mısır’ın bütün insanlarına, hayvanlarına konan, ısıran, sıkıntı veren küçücük böceklerdi.
+  * **sinek** - Bunlar, sıkıntı ve zarar veren daha büyük böceklerdi. Bu sinekler o kadar çoktu ki, her yere, hatta Mısırlıların evlerine dolarlardı.
+  * **kalbini taşlaştırdı** - <b>[[:en:obs:notes:frames:10-04|[10-04]]]</b>deki nota bakınız.
 **[[:tr:obs:notes:frames:10-04|<<]] | [[:tr:obs:notes:10|Up]] | [[:tr:obs:notes:frames:10-06|>>]]**

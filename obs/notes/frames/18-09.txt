@@ -20,8 +20,6 @@
 ==== Translation Notes: ====
 
 
-  * **caused the people to sin** - This could be translated as, "led the people to sin" or, "motivated the people to sin." Rehoboam led the people into sin by making idols for them to worship.
-  * **instead of worshiping God at…Judah** - This can be translated as, "so that they would not worship God at" or, "instead of going to the kingdom of Judah to worship God at the Temple."
-
-
+  * **halkı günaha sürükledi** - Bu şöyle çevrilebilir: «halkı günaha çekti» ya da «halkı günah işlemeye isteklendirdi.» Rehavam halkın tapınacakları putlar yaparak halkı günaha çekti.
+  * **Yahuda’daki Tapınak’ta Tanrı’ya tapınmak yerine** - Bu şöyle çevrilebilir: «...Tanrı’ya tapınmasınlar diye» ya da «Tapınak’ta Tanrı’ya tapınmak için Yahuda krallığına gitmek yerine.»
 **[[:tr:obs:notes:frames:18-08|<<]] | [[:tr:obs:notes:18|Up]] | [[:tr:obs:notes:frames:18-10|>>]]**

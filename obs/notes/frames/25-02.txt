@@ -14,8 +14,6 @@
 
 ===== Translation Notes: =====
 
-  * **turn these rocks into bread** - This may also be translated as, "make these rocks become bread" or, "supernaturally change these rocks into bread."
-  * **bread** - This could be translated as, "food" for languages where bread is not a common food. In the Jews' culture, bread was the main food.
-
-
+  * **şu taşları ekmeğe çevir** - Bu şöyle de çevrilebilir: «şu taşların ekmek olmasını sağla» ya da «şu taşları doğaüstü bir şekilde ekmeye dönüştür.»
+  * **ekmek** - Ekmek kullanmayan kültürlerde bu sözcük «yiyecek» olarak da çevrilebilir. Yahudilerin kültüründe ekmek başlıca yiyecekti.
 **[[:tr:obs:notes:frames:25-01|<<]] | [[:tr:obs:notes:25|Up]] | [[:tr:obs:notes:frames:25-03|>>]]**

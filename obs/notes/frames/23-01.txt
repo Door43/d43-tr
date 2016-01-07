@@ -15,11 +15,9 @@
 
 ===== Translation Notes: =====
 
-  * **he knew it was not his baby** - That is, "he knew that he was not the one who had caused her to be pregnant."
-  * **to shame Mary** - That is, "to cause Mary to be publicly disgraced" or "to embarrass Mary publicly." Joseph was merciful to Mary, even though it seemed like she was an adulterer.
-  * **he planned to quietly divorce her** - This could also be translated as, "He planned to divorce her without telling others why," or, "He planned to divorce her without telling others about her pregnancy." Because Joseph was righteous, he wanted to resolve the situation in the best way possible, which in this culture would be to divorce her quietly.
-  * **divorce her** - For some languages it may be better to say, "break their engagement." Joseph and Mary were engaged or, "pledged to be married." But in Jewish culture a divorce was required in order to break off an engagement.
-  * **in a dream** - That is, "while he was asleep and dreaming."
-
-
+  * **bebeğin kendinden olmadığını anladı** - Yani «bildi ki, onun hamile kalmasına sebep olan adam o değil.»
+  * **Meryem’i rezil etmek** - Yani «Meryem’in insanlar içinde rezil olmasına sebep olmak» ya da «Meryem’i insanlar içinde utandırmak.» Meryem’in zina etmiş birine benzemesine rağmen Yusuf ona karşı merhametli oldu.
+  * **ondan sessizce ayrılmak niyetindeydi** - Bu ayrıca söyle de çevrilebilir: «başkalarına nedenini açıklamadan ondan ayrılmak niyetindeydi» ya da «başkalarına hamileliğinden bahsetmeden ondan ayrılmak niyetindeydi.» Yusuf sâlih biri olduğu için o durumda en iyi şekilde davranmak istiyordu ve o kültürde sessizce ondan ayrılmak en iyi çözümdü.
+  * **ondan... ayrılmak ** - Bazı dillerde «nişanını bozmak» söylemek daha iyi olabilir. Yusuf ve Meryem nişanlıydılar ya da «evlenmek niyetindeydiler.» Fakat Yahudi kültüründe nişanın bozulması için boşanma gerekliydi.
+  * **rüyada** - Yani «uykuda gördüğü rüyada.»
 **[[:tr:obs:notes:frames:22-07|<<]] | [[:tr:obs:notes:23|Up]] | [[:tr:obs:notes:frames:23-02|>>]]**

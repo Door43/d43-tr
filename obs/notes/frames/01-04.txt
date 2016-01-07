@@ -15,10 +15,8 @@ On the **third day**, **God spoke** and separated the water from the dry land. H
 ==== Translation Notes: ====
 
 
-  * **third day** - The next in the series of orderly days in which God prepared the earth for life.
-  * **God spoke** - God created the dry land by speaking a command.
-  * **earth** - This word is used here to refer to dirt or soil, which is what dry land is made of. The word "earth" in **[[:tr:obs:notes:frames:01-01|[01-01]]]** refers to the whole world that people live on.
-  * **created** - This word is used here in the sense of making something out of nothing.
-
-
+  * **üçüncü gün** - Tanrı’nın yeryüzünü hayata hazırladığı düzenli günler serisinde bir sonraki gün.
+  * **Tanrı bir söz söyleyince** - Tanrı bir emir vererek kuru toprağı yarattı.
+  * **kara** - Bu söz burada denizle örtülü olmayan kuru toprağa aittir.
+  * **yarattı** - Bu sözcük burada yoktan var etmek anlamında kullanılıyor.
 **[[:tr:obs:notes:frames:01-03|<<]] | [[:tr:obs:notes:01|Up]] | [[:tr:obs:notes:frames:01-05|>>]]**

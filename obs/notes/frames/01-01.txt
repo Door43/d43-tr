@@ -16,13 +16,12 @@ This is how **the beginning** of everything happened. **God created** the **univ
 ==== Translation Notes: ====
 
 
-  * **the beginning** - That is, "the beginning of all things," before anything existed except God.
-  * **created** - This is used here in the sense of making something out of nothing.
-  * **universe** - This includes everything that God created on the earth and in the heavens, both visible and invisible things.
-  * **dark** - It was completely dark. There was no light at all, since God had not yet created light.
-  * **empty** - God had not yet created anything except for the bare earth covered by water.
-  * **nothing had been formed** - There were no distinguishing features–just water covering everything.
-  * **God's Spirit** - The Spirit of God, sometimes called the Holy Spirit, was present in the beginning, moving freely over the earth in order to create all that he had planned to do.
-
-
+  * **başladı** - Yani Tanrı’dan başka hiçbir şey var olmadan önce «her şey başladı».
+  * **yarattı** - Bu sözcük burada yoktan var etmek anlamında kullanılıyor.
+  * **evren** - Buna Tanrı’nın gökte ve yerde yarattığı görülen ve görülmeyen her şey dahildir.
+  * **yer** - «Yer» ile insanların yaşadıkları tüm dünya kastediliyor.
+  * **karanlık** - Her yer tam karanlıktı, hiç ışık yoktu, çünkü Tanrı henüz ışığı yaratmamıştı.
+  * **boş** - Tanrı henüz suyla kaplanmış topraktan başka hiçbir şey yaratmamıştı.
+  * **hiçbir şey biçimlenmemişti** - Hiçbir ayırt edici özelliği yoktu, sadece her yeri kaplayan su vardı.
+  * **Tanrı’nın Ruhu** - Bazen Kutsal Ruh olarak adlandırılan Tanrı’nın Ruhu başlangıçta vardı, planladığı her şeyi yaratmak üzere yeryüzünün üzerinde serbestçe hareket ediyordu.
 **[[:tr:obs:notes:01|Up]] | [[:tr:obs:notes:frames:01-02|>>]]**

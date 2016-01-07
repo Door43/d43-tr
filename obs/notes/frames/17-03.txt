@@ -16,7 +16,5 @@
 ==== Translation Notes: ====
 
 
-  * **a giant named Goliath** - The word "giant" here describes a person who is unusually large and powerful. Goliath was a huge soldier in an army that was fighting against Israel.
-
-
+  * **Golyat adlı dev boylu bir adam** - Golyat, İsrail’e karşı savaşan orduda kocaman bir askerdi.
 **[[:tr:obs:notes:frames:17-02|<<]] | [[:tr:obs:notes:17|Up]] | [[:tr:obs:notes:frames:17-04|>>]]**

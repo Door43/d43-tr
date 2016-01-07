@@ -20,9 +20,7 @@ Eventually, **Saul** died in battle, and **David** became **king** of **Israel**
 ==== Translation Notes: ====
 
 
-  * **made him successful** - That is, "helped him accomplish the good things he wanted to do."
-  * **his capital city** - That is, "the capital city of his kingdom." David lived in Jerusalem and ruled from there.
-  * **During David's reign** - That is, "During the time when David was king over Israel" or, "During the time when David was ruling as king over Israel."
-
-
+  * **başarılı kıldı** - Yani «yapmak istediği iyi şeyleri gerçekleştirmesine yardım etti.»
+  * **başkenti** - Yani «krallığının başkenti.» Davut Yeruşalim’de oturdu ve oradan hüküm sürdü.
+  * **Davut’un krallığında** - Yani «Davut’un İsrail’de kral olduğu sürece» ya da «Davut’un İsrail’de kral olarak hüküm sürdüğü sürece.»
 **[[:tr:obs:notes:frames:17-04|<<]] | [[:tr:obs:notes:17|Up]] | [[:tr:obs:notes:frames:17-06|>>]]**

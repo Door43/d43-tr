@@ -18,9 +18,7 @@
 
 ===== Translation Notes: =====
 
-  * **proclaim** - That is, "announce" or, "preach."
-  * **They will do this starting in Jerusalem** - That is, "They will begin doing this in Jerusalem" or, "They will begin to proclaim these things in Jerusalem."
-  * **You are witnesses of these things** - That is, "You have seen these things happen" or, "You will tell other people the things that you have seen happen."
-
-
+  * **ilan edecekleri** - Yani «vazedecekleri.»
+  * **Bu tövbe çağrısı Yeruşalim’den başlayarak** - Yani «Bunu Yeruşalim’de ilan etmeye başlayacaklar.»
+  * **Siz de bu olayların şahitlerisiniz** - Yani «Siz bu olayları gören kişilersiniz» ya da «Gördüğünüz olayları başkalarına anlatacaksınız.»
 **[[:tr:obs:notes:frames:42-07|<<]] | [[:tr:obs:notes:42|Up]] | [[:tr:obs:notes:frames:42-09|>>]]**

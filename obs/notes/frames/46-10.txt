@@ -20,12 +20,9 @@
 
 ===== Translation Notes: =====
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **Set apart for me …** - This sentence could also be translated as, "Appoint Paul and Barnabas to do the special work I have chosen them to do."
-  * **the church** - This could also be translated as, "the believers" or, "the Christians."
-  * **placed their hands on them** - This could also be translated as, "blessed them with the power and authority of the Holy Spirit by putting their hands on them" or, "put their hands on them as a sign of their unity in the Spirit." Some languages may have to say where they placed their hands. If so, you could say they placed their hands on their head, shoulder or back.
-  * **sent them out ** - That is, "sent them away" or, "sent them on their journey."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * **Bir gün** - Bu sözle geçmişte olup bitmiş olay anlatılmaya başlanıyor, fakat tam zamanı belirtilmiyor. Çok dilde gerçek olayı anlatmaya başlamanın benzer yolları vardır.
+  * **çağırdığım işe ayırın** - Bu şöyle de çevrilebilir: «Pavlus’la Barnaba’yı yapmaları için seçtiğim özel bir işle görevlendirin.»
+  * **imanlılar** - Bu ayrıca «kilise» ya da «Mesih inanlıları» olarak da çevrilebilir.
+  * **Barnaba’yla Saul’un üstüne ellerini koyarak** - Bu şöyle de çevrilebilir: «Barnaba’yla Saul’un üstüne ellerini koymak suretiyle onları Kutsal Ruh’un gücü ve yetkisiyle kutsadılar» ya da «Barnaba’yla Saul ile ruhsal birliklerinin belirtisi olarak onların üstüne ellerini koydular.» Bazı dillerde ellerinin onların neresine konduğu belirtilmeli. Bu durumda onların başları, omuzları ya da sırtları üstüne ellerini koyduklarını söyleyebilirsiniz.
+  * **onları yolcu ettiler ** - Yani «onları gönderdiler» ya da «onları yolculuklarına gönderdiler.»
 **[[:tr:obs:notes:frames:46-09|<<]] | [[:tr:obs:notes:46|Up]] | [[:tr:obs:notes:frames:47-01|>>]]**

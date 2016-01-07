@@ -10,8 +10,6 @@ But the **law expert** wanted to prove that he was **righteous**, so he asked, �
 
 ===== Translation Notes: =====
 
-  * **law expert** - That is, "an expert in the Jewish law." See how you translated this term in **[[:tr:obs:notes:frames:27-01|[27-01]]]**.
-  * **Who is my neighbor?** - This could also be translated as, "What do you mean by 'neighbor'?" or, "Which people are my neighbors?" He knew that he did not love everyone, and was asking which people he needed to love.
-
-
+  * **Tevrat bilgini** - Yani «Tevrat bilginlerinden biri.» Bu terimi <b>[[:en:obs:notes:frames:27-01|[27-01]]]</b>de nasıl çevirdiğinize dikkat edin.
+  * **Komşum kim?** - Bu ayrıca şöyle de çevrilebilir: «Komşu demekle ne kastediyorsun?» ya da «Hangi insanlar komşularımdır?» Herkesi sevmediğini biliyordu ve hangi insanları sevmesi gerektiğini soruyordu.
 **[[:tr:obs:notes:frames:27-02|<<]] | [[:tr:obs:notes:27|Up]] | [[:tr:obs:notes:frames:27-04|>>]]**

@@ -14,10 +14,9 @@
 ===== Translation Notes: =====
 
 
-  * **After a long time** - This story happens many generations (hundreds of years) after creation.
-  * **very wicked and violent** - It may be more natural to say, "had become wicked and did violent things".
-  * **It became so bad** – It may be clearer to say, "People were behaving in such harmful and evil ways that God."
-  * **God decided to destroy** - This does not mean that the earth would be destroyed completely. Rather God planned to destroy all the people who had rebelled against him and who had caused such evil and violence. This flood would also kill all the land animals and the birds.
-  * **huge flood** - Very deep water that would cover the earth, even in places where the ground was normally dry, and even covering the tops of the highest mountains.
-
+  * **Yıllar sonra** - Bu olay yaratılıştan nesiller (yüzyıllar) geçtikten sonra oldu.
+  * **son derece kötü ve zorba ** - «Kötü olup zorbaca davranışlarda bulundular» söylemek daha doğal olabilir.
+  * **Durum o kadar fenaydı ki** - «İnsanlar o kadar kötü davrandılar ki Tanrı...» şeklinde çeviri daha net olabilir.
+  * **Tanrı... yok etmeye karar verdi** - Bu, yerin tamamen yok edildiği anlamına gelmez. Daha doğrusu, Tanrı kendisine karşı başkaldırarak bu kötülüğe ve zorbalığa neden olan insanları yok etmek niyetindeydi. Bu tufan aynı zamanda karada yaşayan hayvanların ve kuşların hepsini de yok edecekti.
+  * **büyük bir tufan** - Yeryüzünün normalde kuru olan yerlerini ve hatta en yüksek dağların doruklarını bile kaplayacak çok derin sular.
 **[[:tr:obs:notes:frames:02-12|<<]] | [[:tr:obs:notes:03|Up]] | [[:tr:obs:notes:frames:03-02|>>]]**

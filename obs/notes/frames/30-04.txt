@@ -11,8 +11,6 @@
 
 ===== Translation Notes: =====
 
-  * **Late in the day** - This could also be translated as, "When it was almost evening."
-  * **Send the people away** - This could be translated as, "Please tell the people to go to a town" or, "Shouldn't you tell the people to go somewhere?" or, "Let the people go to a town." Make sure it sounds like a polite request, not an order.
-
-
+  * **Akşama doğru** - Bu «Neredeyse akşamdı» olarak da çevrilebilir.
+  * **Halkı salıver** - Bu şöyle çevrilebilir: «Lütfen halka söyle, kente gitsinler» ya da «Halka bir yere gitmeyi söylemez misin» ya da «Bırak, halk kente gitsin.» Bunun bir emir gibi değil nazik bir rica gibi seslenmesine dikkat edin.
 **[[:tr:obs:notes:frames:30-03|<<]] | [[:tr:obs:notes:30|Up]] | [[:tr:obs:notes:frames:30-05|>>]]**

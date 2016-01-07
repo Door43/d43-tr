@@ -18,8 +18,6 @@ The snake responded to the woman, “That is not **true**! You will not **die**.
 ==== Translation Notes: ====
 
 
-  * **like God** - The man and the woman were already made in the likeness of God. The snake is suggesting that the woman would be more like God if she understood evil. However, God never intended for her to have this knowledge.
-  * **understand good and evil** - To know from personal experience what things are good and what things are bad, or being able to know whether something is good or bad.
-
-
+  * **Tanrı gibi** - Adamla kadın zaten Tanrı’ya benzer yaratılmışlardı. Yılan kadının kötüyü anladığı takdirde daha çok Tanrı gibi olacağını iddia ediyor. Ancak Tanrı kadının bu bilgiye sahip olmasını istememişti.
+  * **iyiyle kötüyü bilerek** - Neyin iyi, neyin kötü olduğunu kişisel deneyiminden bilmek ya da bir şeyin iyi yoksa kötü olduğunu bilmeye kadir olmak.
 **[[:tr:obs:notes:frames:02-03|<<]] | [[:tr:obs:notes:02|Up]] | [[:tr:obs:notes:frames:02-05|>>]]**

@@ -12,6 +12,6 @@ One day, **Jesus** took three of his **disciples**, **Peter**, **James**, and **
   * **[[:tr:obs:notes:key-terms:baptize|baptized]]**
 ===== Translation Notes: =====
 
-  * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **James**  - This is a different James than the one who wrote the Book of James in the Bible. To make this clear, some languages may need to use two slightly different names or to spell them differently.
+  * **Bir gün** - Bu sözle geçmişte olup bitmiş olay anlatılmaya başlanıyor, fakat tam zamanı belirtilmiyor. Çok dilde gerçek olayı anlatmaya başlamanın benzer yolları vardır.
+  * **Yakup** - Bu, İncil’deki Yakup’un Mektubu bölümünü yazan Yakup değildir. Bunu açıklamak için bazı dillerde biraz farklı olan iki isim kullanılabilir.
 **[[:tr:obs:notes:frames:35-13|<<]] | [[:tr:obs:notes:36|Up]] | [[:tr:obs:notes:frames:36-02|>>]]**

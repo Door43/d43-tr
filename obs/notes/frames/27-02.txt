@@ -17,15 +17,13 @@ The **law expert** replied that **God's law** says, “**Love the Lord your God 
 
 ===== Translation Notes: =====
 
-  * **law expert** - That is, "an expert in the Jewish law." See how you translated this term in **[[:tr:obs:notes:frames:27-01|[27-01]]]**.
-  * **Love the Lord your God** - You may choose to say, "We must love the Lord our God." Make sure it does not sound like the man is commanding Jesus. Rather, he is quoting what God's law commands people to do.
-  * **with all your heart, soul, strength, and mind** - That is, "with your whole self" or, "with every part of yourself." In some languages this might be translated as, "with all your liver, breath, strength, and thoughts." The focus is not on each of these parts, but on all of us. Use the concepts in your language that make up the whole person.
-  * **heart** - The heart refers to the part of a person that has desires and emotions.
-  * **soul** - The soul refers to the nonphysical, spiritual part of a person.
-  * **strength** - Strength refers to the physical body and all of its abilities.
-  * **mind** - The mind refers to the part of a person that thinks, plans, and has ideas.
-  * **neighbor** - The word "neighbor" normally refers to a person who lives near us. The Jews applied the term to someone who was neither a close relative nor a foreigner or enemy.
-  * **love your neighbor as yourself** - That is, "love your neighbor to the same extent that you love yourself."
-
-
+  * **Tevrat bilgini** - Yani «Tevrat bilginlerinden biri.» Bu terimi <b>[[:en:obs:notes:frames:27-01|[27-01]]]</b>de nasıl çevirdiğinize dikkat edin.
+  * **Tanrın Rab’bi... seveceksin!** - Şöyle de söyleyebilirsiniz: «Tanrımız Rab’bi... sevmeliyiz!» O adamın İsa’ya emredermiş gibi konuşmamasına dikkat edin. O sadece Tevrat’ın insanlara ne buyurduğunu anlatıyor.
+  * **bütün kalbinle, varlığınla, kuvvetinle, düşüncenle seveceksin** - Yani «bütün benliğinle» ya da «öz varlığının her kısmıyla.» Bazı dillerde «bütün ciğerin, nefesin, gücün ve fikirlerinle» şeklinde çevrilebilir. Odakta olan ayrı ayrı şeyler değil kişinin bütünüdür. Dilinizde bütün kişiliği oluşturan kavramları kullanın.
+  * **kalbinle** - Kalp insanın arzu ve duygularının bulunduğu kısmıdır.
+  * **varlığınla** - Varlık insanın kişiliğinin fiziksel olmayan, ruhsal kısmıdır.
+  * **kuvvetinle** - Kuvvet ile bütün yetenekleriyle fiziksel beden kastediliyor.
+  * **düşüncenle** - Düşünce insanın düşünen, anlayan, plan kuran kısmıdır.
+  * **komşu** - «Komşu» sözcüğü genel olarak bize yakın yaşayan biri anlamına gelir. Yahudiler bu sözcüğü ne yakın akraba ne de yabancı veya düşman olan biri anlamında kullanırlardı.
+  * **Komşunu da kendini sevdiğin gibi seveceksin** - Yani «Kendini sevdiğin kadar komşunu da sev.»
 **[[:tr:obs:notes:frames:27-01|<<]] | [[:tr:obs:notes:27|Up]] | [[:tr:obs:notes:frames:27-03|>>]]**

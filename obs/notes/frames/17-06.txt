@@ -20,7 +20,5 @@
 ==== Translation Notes: ====
 
 
-  * **build a temple** - David wanted to construct a permanent building for worshiping God that would replace the portable Tent of Meeting.
-
-
+  * **tapınak kurmak** - Davut taşınabilir Buluşma Çadırı’nın yerine Tanrı’ya daimi tapınma yeri inşa etmek istedi.
 **[[:tr:obs:notes:frames:17-05|<<]] | [[:tr:obs:notes:17|Up]] | [[:tr:obs:notes:frames:17-07|>>]]**

@@ -14,8 +14,6 @@ For almost 2,000 years, more and more people around the world have been hearing 
 
 ===== Translation Notes: =====
 
-  * **The Church has been growing** - This could also be translated as, "The number of people in the Church around the world has been increasing" or, "The number of believers in Jesus has been increasing."
-  * **at the end of the world** - This phrase means, "right before the present world comes to an end" or, "in the final days of this world."
-
-
+  * **Kilise büyüyor** - Bu ayrıca şöyle çevrilebilir: «Bütün dünyada kilisedeki insanların sayısı artıyor» ya da «İsa’ya iman edenlerin sayısı artıyor.»
+  * **dünyanın sonunda** - Bunun anlamı şu: «bu dünya son bulmadan hemen önce» ya da «bu dünyanın son günlerinde.»
 **[[:tr:obs:notes:frames:49-18|<<]] | [[:tr:obs:notes:50|Up]] | [[:tr:obs:notes:frames:50-02|>>]]**

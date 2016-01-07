@@ -18,9 +18,8 @@
 ===== Translation Notes: =====
 
 
-  * **give his blessing** - It was customary for fathers to formally express their desire for good things to happen to their children. Normally the older son received the best promise. Isaac wanted this extra prosperity to happen to Esau.
-  * **tricked him** - The word "trick" means to do something to deliberately deceive someone. Rebekah came up with a plan to deceive Isaac into giving Jacob the special blessing instead of Esau.
-  * **pretend** - The word "pretend" shows how Jacob would deceive his father (who had very poor eyesight in his old age).
-  * **goatskins** - The hairiness of the goatskins would make Jacob feel like Esau.
-
+  * **hayırduasını... verecekti** - Babaların oğullarına olacak iyilikleri resmen ilan etmesi bir gelenekti. Genelde büyük oğul en iyi vaadi alırdı. İshak bu bereket bolluğunun Esav’a nasip olmasını istiyordu.
+  * **onu kandırdılar** - Burada kullanılan «kandırmak» fiili birini kasıtla aldatmak için yapılan işi belirtiyor. Rebeka İshak’ın bu özel hayırduasını Yakup’a vermesi için onu aldatma planı kurdu.
+  * **gibi gösterdi** - «Gibi göstermek» sözü aslında Yakup’un babasını nasıl aldattığını bildiriyor. (Babasının yaşlılığında gözleri çok zayıf görüyordu.)
+  * **oğlak derisini** - Oğlak derisi tüylü olduğu için Yakup’un Esav gibi tüylü olmasını sağlayacaktı.
 **[[:tr:obs:notes:frames:07-02|<<]] | [[:tr:obs:notes:07|Up]] | [[:tr:obs:notes:frames:07-04|>>]]**

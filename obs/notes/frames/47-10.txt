@@ -11,8 +11,6 @@
 
 ===== Translation Notes: =====
 
-  * **The jailer** - That is, "the official in charge of the jail."
-  * **We** - Some languages have a special form of the word "we" which does not include the person being talked to. Here the "we" does not include the jailer, only Paul and the rest of the prisoners.
-
-
+  * **Zindancı** - Yani «Zindandan sorumlu olan görevli kişi.»
+  * **Hepimiz** - Bazı dillerde kendisine söz söylenilen kişiyi içermeyen bir form vardır. Burada «hepimiz» ile zindancı değil, sadece Pavlus ve öbür tutuklular kastediliyor.
 **[[:tr:obs:notes:frames:47-09|<<]] | [[:tr:obs:notes:47|Up]] | [[:tr:obs:notes:frames:47-11|>>]]**

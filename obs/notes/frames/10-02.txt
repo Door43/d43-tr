@@ -16,9 +16,7 @@
 ==== Translation Notes: ====
 
 
-  * **the people** - This refers to the people of Israel, also called, "the Israelites."
-  * **ten terrible plagues** - A plague is something very bad or terrible that happens to someone or something. A plague usually refers to something that affects many people or happens over a large geographic area. Another word for "plague" would be "disaster."
-  * **all of Egypt's gods** - It may be more clear to say, "all the gods that the Egyptian people worshiped." The people of Egypt worshiped many different false gods. These false gods were either spirit beings that the God of Israel created, or they did not actually exist.
-
-
+  * **halk** - «İsrailliler» olarak da adlandırılan İsrail halkı kastediliyor.
+  * **on korkunç bela** - Bela kimsenin ya da bir şeyin başına gelen çok kötü bir olaydır. Buradaki kavram veba gibi çok insana zarar veren ya da büyük coğrafi alanı etkileyen bir şeyi belirtiyor. «Bela» yerine «afet» söylenebilir.
+  * **bütün Mısır ilâhlarından** - Daha iyi anlaşılması için belki de «Mısır halkının taptığı bütün ilâhlar» şeklinde söylenebilir. Mısır halkı birçok değişik sahte ilâhlara tapıyordu. Bu sahte ilâhlar ya İsrail’in Tanrısı’nın yarattığı ruhsal varlıklar ya da gerçekten var olmayan şeyler idi.
 **[[:tr:obs:notes:frames:10-01|<<]] | [[:tr:obs:notes:10|Up]] | [[:tr:obs:notes:frames:10-03|>>]]**

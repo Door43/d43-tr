@@ -14,12 +14,10 @@ Then **Jesus** picked up a cup and said, “**Drink this**. **It is my blood of 
 
 ===== Translation Notes: =====
 
-  * **a cup** - That is, "a cup of wine" or, "a cup full of a drink made from grapes."
-  * **Drink this** - That is, "Drink what is in this cup" or, "Drink from this cup." The drink in the cup was made from grapes so that it had a deep red color.
-  * **blood of the New Covenant** - This could be translated as, "blood that makes the New Covenant possible" or, "blood that is the basis for the New Covenant."
-  * **is poured out** - This could be translated as, "will run out of my body" or, "I will bleed out."
-  * **for the forgiveness of sins** - That is, "so that God can completely forgive people for all of their sins."
-  * **remember me** - That is, "celebrate me" or, "commemorate me." It could also be translated as, "especially focus on me" or, "remind you of me."
-
-
+  * **kâse** - Yani «bir kâse şarap» ya da «üzümden yapılan içkiyle dolu bir kâse.»
+  * **Bundan için** - Yani «Bu kâsedeki içkiyi için» ya da «Bunu için.» Kâsedeki içki üzümden yapıldığı için koyu kırmızı renkteydi.
+  * **Yeni Ahit’i başlatan kandır** - Bu şöyle çevrilebilir: «Yeni Ahit’i mümkün kılan kandır» ya da «Yeni Ahit’in temeli olan kandır.»
+  * **akıtılan** - Bu şöyle çevrilebilir: «bedenimden akan» ya da «benden akan kan.»
+  * **günahların affedilmesi için** - Yani «Tanrı’nın insanların bütün günahlarını affedebilmesi için.»
+  * **beni anın** - Bu tabir şöyle de çevrilebilir: «özellikle bana odaklanın» ya da «size beni hatırlatsın.»
 **[[:tr:obs:notes:frames:38-04|<<]] | [[:tr:obs:notes:38|Up]] | [[:tr:obs:notes:frames:38-06|>>]]**

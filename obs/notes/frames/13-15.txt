@@ -15,8 +15,6 @@
   * **[[:tr:obs:notes:key-terms:promised-land|Promised Land]]**
 ==== Translation Notes: ====
 
-  * **Moses made**  - Moses carved the stone tablets with tools such as a hammer and chisel.
-  * **listened to**  - See how you translated this phrase in **[[:tr:obs:notes:frames:13-12|[13-12]]]**.
-
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
+  * **Musa... kesti** - Musa çekiç ve keski gibi aletlerle taş levhaları kazıdı.
+  * **duasını işitti** - Bkz: <b>[[:en:obs:notes:frames:13-12|[13-12]]]</b>.
 **[[:tr:obs:notes:frames:13-14|<<]] | [[:tr:obs:notes:13|Up]] | [[:tr:obs:notes:frames:14-01|>>]]**

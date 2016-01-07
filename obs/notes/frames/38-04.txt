@@ -14,11 +14,9 @@ In Jerusalem, **Jesus celebrated** the **Passover** with his **disciples**. Duri
 
 ===== Translation Notes: =====
 
-  * **celebrated** - That is, "was celebrating."
-  * **took some bread** - This could be translated as, "picked up a piece of bread" or, "picked up a flat loaf of bread."
-  * **broke it** - Some languages should say, "tore it in pieces" or, "tore it in half" or, "tore off part of it."
-  * **given for you** - This can also be translated as, "which I give for you."
-  * **Do this to remember me** - That is, "Do this as a way to remind yourselves of what I am doing for you." Jesus was referring to his death, which would happen soon.
-
-
+  * **kutluyordu** - Yani «kutlamaktaydı.»
+  * **ekmek alıp** - Bu şöyle çevrilebilir: «eline bir parça ekmek alıp» ya da «eline yassı ekmek alıp.»
+  * **böldü** - Bazı dillerde «parçalara böldü», «yarıya böldü» ya da «ondan bir kısım kopardı» diye söylenmesi gerekir.
+  * **uğrunuzda feda edilen ** - Bu ayrıca «size verdiğim» şeklinde de çevrilebilir.
+  * **Bunu beni anmak için yapın** - Yani «Bunu sizin için yaptığımı hatırlamak anlamında yapın.» İsa yakında olacak ölümünü kastediyordu.
 **[[:tr:obs:notes:frames:38-03|<<]] | [[:tr:obs:notes:38|Up]] | [[:tr:obs:notes:frames:38-05|>>]]**

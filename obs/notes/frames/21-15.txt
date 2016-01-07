@@ -17,8 +17,5 @@
 ==== Translation Notes: ====
 
 
-  * **into the world** - This could be translated as, "to the people of the world." The Messiah would be sent not only to the Jews, but to all people.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
-
+  * **dünyaya** - Bu şöyle çevrilebilir: «dünya insanlarına.» Mesih sadece Yahudilere değil bütün insanlara gönderilecekti.
 **[[:tr:obs:notes:frames:21-14|<<]] | [[:tr:obs:notes:21|Up]] | [[:tr:obs:notes:frames:22-01|>>]]**

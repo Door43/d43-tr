@@ -13,10 +13,8 @@
 ===== Translation Notes: =====
 
   * (Jesus continues to explain the story.)
-  * **rocky ground** - See how you translated this term in **[[:tr:obs:notes:frames:33-03|[33-03]]]**.
-  * **is a person** - See how you translated this comparison in **[[:tr:obs:notes:frames:33-06|[33-06]]]**.
-  * **accepts it with joy** - That is, "believes it joyfully" or, "joyfully agrees that it is true."
-  * **falls away** - That is, "no longer follows God or obeys him" or, "stops following or obeying God."
-
-
+  * **kayalık yer** - Bunu <b>[[:en:obs:notes:frames:33-03|[33-03]]]</b>de nasıl çevirdiğinize dikkat edin.
+  * **kişidir** - Bunu <b>[[:en:obs:notes:frames:33-06|[33-06]]]</b>de nasıl çevirdiğinize dikkat edin.
+  * **sevinçle kabul eden** - Yani «sevinçle inanan» ya da «bunun gerçek olduğunu sevinçle doğrular.»
+  * **imandan döner** - Yani «artık Tanrı’yı takip etmez veya Tanrı’ya itaat etmez» ya da «Tanrı’yı takip etmekten veya Tanrı’ya itaat etmekten vazgeçer.»
 **[[:tr:obs:notes:frames:33-06|<<]] | [[:tr:obs:notes:33|Up]] | [[:tr:obs:notes:frames:33-08|>>]]**

@@ -15,10 +15,8 @@
 
 ===== Translation Notes: =====
 
-  * **Get away from me** - This may also be translated as, "Leave me" or, "Leave me alone."
-  * **In God's word he commands his people, "Worship only the Lord your God and only serve him"** - This could be written as an indirect quote, "In God's word, he commands us that we must worship and serve only the Lord God, who rules over us."
-  * **Lord your God** - Translate this phrase the same way as you did in **[[:tr:obs:notes:frames:25-05|[25-05]]]**.
-  * **and only serve him** - Another way to say this would be, "He is the only one you should serve."
-
-
+  * **Çekil benden** - Bu «Bırak beni» ya da «Beni yalnız bırak» şeklinde de çevrilebilir.
+  * **Tanrı, Sözü’nde halkına şöyle buyuruyor: ‘Yalnız Tanrın Rab’be tapacaksın, yalnız O’na kulluk edeceksin!’** - Bu, dolaylı alıntı olarak da yazılabilir: «Tanrı, Sözü’nde yalnızca bizim üzerimizde egemen olan Rab Tanrı’ya tapınmamızı ve hizmet etmemizi buyuruyor.»
+  * **Tanrın Rab** - Bu sözü <b>[[:en:obs:notes:frames:25-05|[25-05]]]</b>deki gibi çevirin.
+  * **yalnız O’na kulluk edeceksin** - Bunu söylemenin başka bir yolu şu: «Hizmet etmeniz gereken tek varlık O’dur.»
 **[[:tr:obs:notes:frames:25-06|<<]] | [[:tr:obs:notes:25|Up]] | [[:tr:obs:notes:frames:25-08|>>]]**

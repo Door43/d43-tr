@@ -17,9 +17,7 @@ After **God** led the **Israelites** through the **Red Sea**, he led them throug
 ==== Translation Notes: ====
 
 
-  * **burning bush** - Before Moses returned to Egypt, God had spoken to him from a shrub that was on fire, but that was not burned up by the fire. See **[[:tr:obs:notes:frames:09-12|[09-12]]]**.
-  * **set up their tents** - The Israelites had to travel a great distance from Egypt to the Promised Land. So they took tents with them so that they could set them up as shelters and sleep in them along the way. Some languages could translate this as, "hung their tents."
-  * **base of the mountain** – This could be translated as, "bottom of the mountain." This refers to the area of land that is located next to the place where the ground starts to slant upward to form a mountain.
-
-
+  * **yanan çalı** - Musa Mısır’a dönmeden önce Tanrı ona yanan ama tükenmeyen bir çalı içinden dan seslenmişti. Bkz: <b>[[:en:obs:notes:frames:09-12|[09-12]]]</b>.
+  * **çadırlarını kurdu** - İsrailliler Mısır’dan Tanrı’nın vadettiği ülkeye uzun yol gitmek zorundaydılar. Bu yüzden yolda kurup içinde korunabilecekleri, uyuyabilecekleri çadırlar almışlardı. Bazı dillerde bu sözün «çadırlarını astı» şeklinde çevrilmesi gerekir.
+  * **dağın eteği** - Bu söz «dağın dibi» şeklinde de çevrilebilir. Dağın altında toprağın yükselmeye başladığı yerin yakınındaki araziye aittir.
 **[[:tr:obs:notes:frames:12-14|<<]] | [[:tr:obs:notes:13|Up]] | [[:tr:obs:notes:frames:13-02|>>]]**

@@ -14,11 +14,9 @@ Then **God** said, “**Let us** make human beings **in our image** to be **like
 ==== Translation Notes: ====
 
 
-  * **Let us** - This indicates God's deliberate, willful decision to create man in a particular way for a particular purpose. You could translate this as, "We will make."
-  * **us…our…us** - The Bible teaches that there is one God, but the Old Testament word "God" is a plural form, and God uses plural pronouns when speaking to himself. Some understand this as a special way of speaking that expresses God's majesty, and others understand this as God the Father speaking to the Son and the Spirit, who are all God.
-  * **in our image** - An image is a physical representation of someone or something. Humans were made in such a way that we display or represent some of the qualities or traits of God.
-  * **like us** - Humans share some of God's characteristics, but not all of his qualities. This phrase should be translated with words that show man is similar to God, but not equal with him or the same as he is.
-  * **authority** - God gave people the right and power to manage, guide, and control how the earth and the animals will be used.
-
-
+  * **Yaratalım** - Bu söz Tanrı’nın insanı belirli maksat için yarattığı kasıtlı, iradeli kararını belirtiyor ve «yaratacağız» şeklinde de çevrilebilir.
+  * **...imizde...imize...alım** - Kutsal Kitap tek Tanrı’nın varlığını öğretiyor, fakat Eski Ahit’te kullanılan «Tanrı» kelimesi çoğuldur ve Tanrı kendinden söz ederken çoğul zamirleri kullanıyor. Bazıları bunu Tanrı’nın yüceliğinin özel bir ifade biçimi olarak algılıyorlar, diğerleri ise bunda tek Tanrı olan Baba, Oğul ve Kutsal Ruh üçlemesini görüyor ve böyle ayetleri Baba Tanrı’nın Oğul’a ve Ruh’a seslenmesi olarak algılıyorlar.
+  * **suretimizde** - Suret bir kimsenin veya bir şeyin fiziksel timsalidir. İnsanlar Tanrı’nın bazı vasıflarını veya niteliklerini gösterecek ya da yansıtacak şekilde yaratıldılar.
+  * **kendimize benzer** - İnsanlar Tanrı’nın bazı özelliklerini paylaşıyor, ama tüm vasıflarına sahip değillerdir. Bu sözün çevirisinde şu gerçek yansıtılmalı: insan Tanrı’ya benziyor, ama O’na eşit ya da aynen O’nun gibi değildir.
+  * **egemen** - Tanrı, yeryüzünden ve hayvanlardan yararlanmasını yönetme, yönlendirme ve denetleme hakkını ve yetkisini insanlara vermiştir.
 **[[:tr:obs:notes:frames:01-08|<<]] | [[:tr:obs:notes:01|Up]] | [[:tr:obs:notes:frames:01-10|>>]]**

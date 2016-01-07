@@ -14,7 +14,5 @@
 ==== Translation Notes: ====
 
 
-  * **raise his hand over the sea** - This could be translated as, "held out his hand over the sea". This was a gesture to show that God was doing this miracle through Moses.
-
-
+  * **elini denizin üzerine uzatarak** - Bu şöyle çevrilebilir: «elini denizin üzerinde tutarak.» Bu işaretin anlamı, Tanrı’nın Musa aracılığıyla bu mucizeyi yaptığını göstermesidir.
 **[[:tr:obs:notes:frames:12-06|<<]] | [[:tr:obs:notes:12|Up]] | [[:tr:obs:notes:frames:12-08|>>]]**

@@ -16,7 +16,5 @@
 ==== Translation Notes: ====
 
 
-  * **turned the Nile River into blood** - Some languages may need to say, "turned the water in the Nile River into blood." Instead of water in the river there was blood, so the fish died and the people had no water to drink.
-
-
+  * **Nil Nehri’ni kana dönüştürdü** - Bazı dillerde «Nil Nehri’nin suyunu kana dönüştürdü» diye söylemek gerekebilir. Nehirde su yerine kan bulundu, dolayısıyla balıklar öldü ve insanların içmeye suyu olmadı.
 **[[:tr:obs:notes:frames:10-02|<<]] | [[:tr:obs:notes:10|Up]] | [[:tr:obs:notes:frames:10-04|>>]]**

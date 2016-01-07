@@ -16,9 +16,7 @@
 
 ===== Translation Notes: =====
 
-  * **When the time was near for Mary to give birth** - That is, "When it was near the end of Mary's pregnancy."
-  * **Roman government** - Rome had conquered and ruled over Israel at this time.
-  * **for a census** - That is, "to be counted for the government record" or, "so that the government could write their names on a list" or, "to be counted by the government." This census was probably made for the purpose of taxing the people.
-
-
+  * **Meryem’in doğurma vakti yaklaştığında** - Yani «Meryem’in hamileliğinin sonuna yakın.»
+  * **Roma hükûmeti** - O zaman Roma İsrail’i işgal etmişti ve İsrail üzerinde hüküm sürüyordu.
+  * **nüfus sayımıyla ilgili olarak** - Yani «devlet kaydı için», «devlet adlarını listeye yazsın diye» ya da «devlet tarafından sayılmak üzere.» Bu nüfus sayımı büyük olasılıkla insanlardan vergi almak amacıyla yapıldı.
 **[[:tr:obs:notes:frames:23-03|<<]] | [[:tr:obs:notes:23|Up]] | [[:tr:obs:notes:frames:23-05|>>]]**

@@ -15,8 +15,6 @@ Then the man and his wife heard the sound of **God walking** through the garden.
 ==== Translation Notes: ====
 
 
-  * **God walking** - It seems that God regularly came to the garden to walk and talk with the man and the woman. We do not know what this looked like. If it is possible, it is best to use the same word that would be used to talk about a person walking.
-  * **Where are you?** - God already knew the answer to this question. The purpose of the question was to force the man and the woman to explain why they were hiding.
-
-
+  * **Tanrı’nın gezindiğini** - Göründüğü üzere Tanrı sürekli olarak adam ve kadınla gezinip konuşmak için bahçeye gelirdi. Bunun nasıl olduğunu tam kesin bilmiyoruz. Mümkünse, gezinen bir kişiden bahsederken kullanılan sözcüğü kullanmak iyidir.
+  * **Neredesin?** - Tanrı bu sorunun cevabını zaten biliyordu. Amacı, adamla kadını neden saklandıklarını açıklamaya mecbur etmekti.
 **[[:tr:obs:notes:frames:02-06|<<]] | [[:tr:obs:notes:02|Up]] | [[:tr:obs:notes:frames:02-08|>>]]**

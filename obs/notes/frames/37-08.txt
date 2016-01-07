@@ -13,9 +13,7 @@
 
 ===== Translation Notes: =====
 
-  * **Did I not tell you?** - That is, "Remember that I told you." Jesus is not asking this question in order to get an answer, so some languages should translate this as a command.
-  * **see God's glory** - That is, "see the glory of God displayed" or, "see God show how great he is."
-  * **rolled the stone away** - Some languages should say, "rolled the stone away from the opening of the tomb."
-
-
+  * **Sana... demedim mi?** - Yani «Sana dediğimi hatırla.» İsa bu soruyu cevap almak için sormaz, dolayısıyla bazı dillerde bu bir emir olarak çevrilmeli.
+  * **Tanrı’nın izzetini göreceksin** - Yani «Tanrı’nın izzetinin sergilenmesini göreceksin» ya da «Tanrı’nın ne kadar yüce olduğunu gösterdiğini göreceksin.»
+  * **taşı yana yuvarladılar** - Bazı dillerde «taşı mezarın girişinden çektiler» diye söylenmesi gerekir.
 **[[:tr:obs:notes:frames:37-07|<<]] | [[:tr:obs:notes:37|Up]] | [[:tr:obs:notes:frames:37-09|>>]]**

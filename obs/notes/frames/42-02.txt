@@ -12,8 +12,6 @@
 
 ===== Translation Notes: =====
 
-  * **did not recognize him** - That is, "did not know that it was Jesus."
-  * **all the remarkable things that had happened** - This refers to the teaching and miracles of Jesus, his death, and the reports of his resurrection.
-
-
+  * **İsa’yı tanıyamadılar** - Yani «bu adamın İsa olduğunu bilmediler.»
+  * **İsa’yla ilgili olan bütün önemli olayları** - İsa’nın öğretisi ve mucizeleri, ölmesi ve dirildiği haberi kastediliyor. 
 **[[:tr:obs:notes:frames:42-01|<<]] | [[:tr:obs:notes:42|Up]] | [[:tr:obs:notes:frames:42-03|>>]]**

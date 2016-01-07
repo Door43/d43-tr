@@ -17,9 +17,7 @@
 ==== Translation Notes: ====
 
 
-  * **God confused the Midianites** - God caused the Midianites to be confused. They wanted to attack the Israelites, but instead, they attacked each other.
-  * **the rest of the Israelites** - This could be translated as, "many other Israelite men." This refers to the soldiers previously sent home in **[[:tr:obs:notes:frames:16-10|[16-10]]]**.
-  * **were called** – That is, "were called out" or, "were summoned." This sentence could also be translated as, "Gideon sent messengers to summon many other Israelite men from their homes."
-
-
+  * **Tanrı Midyanlıları şaşkına çevirdi** - Tanrı Midyanlıların şaşmasını sağladı. Onlar İsraillilere saldırmak istemişlerdi, fakat bunun yerine birbirine saldırdılar.
+  * **Kalan İsrailliler** - Bu şöyle çevrilebilir: «başka birçok İsrailli adamlar.» Bununla <b>[[:en:obs:notes:frames:16-10|[16-10]]]</b>de daha önce evlerine gönderilmiş askerler kastediliyor.
+  * **evlerinden çağrıldılar** - Bu cümle şöyle de çevrilebilir: «Gidyon daha çok İsrailli adamları evlerinden çağırsınlar diye elçilerini gönderdi.»
 **[[:tr:obs:notes:frames:16-13|<<]] | [[:tr:obs:notes:16|Up]] | [[:tr:obs:notes:frames:16-15|>>]]**

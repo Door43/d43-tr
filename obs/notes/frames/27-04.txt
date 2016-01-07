@@ -14,8 +14,6 @@
 ===== Translation Notes: =====
 
   * (The cloud-like frame around this picture indicates that Jesus is telling a story, and not necessarily explaining a historical event.)
-  * **law expert** - See how you translated this term in **[[:tr:obs:notes:frames:27-01|[27-01]]]**.
-  * **from Jerusalem to Jericho** - In some languages you could translate this as, "from the city of Jerusalem to the city of Jericho" or, "from Jerusalem City to Jericho City."
-
-
+  * **Tevrat bilgini** - Bunu <b>[[:en:obs:notes:frames:27-01|[27-01]]]</b>de nasıl çevirdiğinize dikkat edin.
+  * **Yeruşalim’den Eriha’ya** - Bazı dillerde bu «Yeruşalim kentinden Eriha kentine» ya da «Yeruşalim Kenti’nden Eriha Kenti’ne» şeklinde çevrilebilir.
 **[[:tr:obs:notes:frames:27-03|<<]] | [[:tr:obs:notes:27|Up]] | [[:tr:obs:notes:frames:27-05|>>]]**

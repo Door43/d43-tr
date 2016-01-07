@@ -13,8 +13,6 @@
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
-  * **sinned against God and against you** - This could be translated as, "sinned against God, and I have also sinned against you."
-  * **I am not worthy** - It is also possible to say, "So I am not worthy" or, "As a result, I am not worthy."
-
-
+  * **Tanrı’ya ve sana karşı günah işledim** - Bu şöyle çevrilebilir, «Tanrı’ya karşı günah işledim ve sana karşı da günah işledim.»
+  * **layık değilim** - Şöyle söylemek de mümkündür: «Bu yüzden... layık değilim» ya da «Bunun sonucunda... layık değilim.»
 **[[:tr:obs:notes:frames:35-07|<<]] | [[:tr:obs:notes:35|Up]] | [[:tr:obs:notes:frames:35-09|>>]]**

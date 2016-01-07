@@ -12,10 +12,8 @@
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
-  * **fell on his knees** - That is, "quickly knelt down on the ground." This was a way to show his humility and his desire for the king to help him. Make sure it doesn't sound like he fell down accidentally.
-  * **before the king** - This means, "in front of the king."
-  * **felt pity** - That is, "felt compassion for" or, "felt sorry for." The king knew that the servant and his family would suffer greatly if they were sold into slavery.
-  * **canceled all of his debt** - This can be translated as, "said that the servant did not need to pay back any of the money that he owed the king."
-
-
+  * **diz çöküp** - Yani «hemen diz çöktü.» Bu şekilde alçakgönüllülüğünü ve kralın ona yardım etmesini istediğini gösterdi. Tesadüfen yere düştüğü anlamında anlaşılmamasına dikkat edin.
+  * **kralın önünde** - Ya da «kralın karşısında.»
+  * **acıdı** - Yani «şefkatli oldu» ya da «üzüldü.» Kral bu hizmetkârla ailesinin köleliğe satıldıkları takdirde çok acı çekeceklerini biliyordu.
+  * **borcunu tamamen sildi** - Bu şöyle çevrilebilir: «Krala borçlu olduğu paranın hiçbir kısmını geri ödemeyeceğine karar verdi.»
 **[[:tr:obs:notes:frames:29-03|<<]] | [[:tr:obs:notes:29|Up]] | [[:tr:obs:notes:frames:29-05|>>]]**

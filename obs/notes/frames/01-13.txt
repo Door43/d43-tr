@@ -15,10 +15,8 @@ So **God** made **Adam** fall into **a deep sleep**. Then God **took one of Adam
 ==== Translation Notes: ====
 
 
-  * **a deep sleep** - This was a deeper sleep than normal.
-  * **took one of Adam's ribs and made** - The verbs indicate God's very personal act of removing the rib from Adam and shaping it into a woman.
-  * **a woman** - She was the first woman, the female version of human beings that was missing until now.
-  * **brought her to him** - God personally introduced them. He presented the woman to Adam, almost like offering a special gift.
-
-
+  * **derin bir uyku** - Bu uyku olağan uykudan daha derindi.
+  * **bir kaburga kemiğini alıp... yarattı** - Bu fiiller Tanrı’nın özel ve kişisel bir eylemini belirtiyor - Tanrı Adem’in kaburga kemiğini alıp ona kadın biçimi verdi.
+  * **bir kadın** - O, ilk kadındı, insanın o ana kadar eksik olan dişi şekliydi.
+  * **Adem’e getirdi** - Tanrı bizzat kendisi onları birbiriyle tanıştırdı. Kadını Adem’e adeta özel hediye gibi sundu.
 **[[:tr:obs:notes:frames:01-12|<<]] | [[:tr:obs:notes:01|Up]] | [[:tr:obs:notes:frames:01-14|>>]]**

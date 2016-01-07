@@ -20,11 +20,9 @@
 ==== Translation Notes: ====
 
 
-  * **to Pharaoh** – It may be clearer to say, "to Pharaoh's palace to talk to him."
-  * **God of Israel** - This could be translated as, "God, who chose the Israelites to be his people" or, "God, who rules the people of Israel" or, "the God whom the Israelites worship."
-  * **Let My people go** – Another way to say this would be, "Allow My people to go free" or, "Free My people to leave Egypt."
-  * **my people** - See "my people" in **[[:tr:obs:notes:frames:09-13|[09-13]]]**.
-  * **listen to** – This could be translated as "heed" or, "obey."
-
-
+  * **firavunun huzuruna** - «Firavunla görüşmek için sarayına» daha anlaşılır olabilir.
+  * **İsrail’in Tanrısı** - Bu şöyle çevrilebilir: «İsraillileri kendi halkı olarak seçmiş olan», «İsrail halkını yöneten Tanrı», ya da «İsraillilerin taptıkları Tanrı.»
+  * **halkımı salıver** - Bunu söylemenin başka yolları şunlardır: «Halkımın serbest gitmesine izin ver» ya da «Halkımı Mısır’ı terketmesi için özgür kıl.»
+  * **halkım** - Bkz: <b>[[:en:obs:notes:frames:09-13|[09-13]]]</b>de «halkım».
+  * **sözünü dinlemedi** - Bu sözcük «uymak» ya da «itaat etmek» olarak da çevrilebilir.
 **[[:tr:obs:notes:frames:09-15|<<]] | [[:tr:obs:notes:10|Up]] | [[:tr:obs:notes:frames:10-02|>>]]**

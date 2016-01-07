@@ -14,10 +14,8 @@
 
 ===== Translation Notes: =====
 
-  * **came to** - Some languages may prefer to say, "went to."
-  * **Greetings** - This can also be translated as, "Hello" or, "Peace" or, "Good evening."
-  * **the sign** - That is, "the signal."
-  * **do you betray me with a kiss?** - That is, "are you really going to betray me with a kiss?" Jesus is not looking for an answer to this question. So some languages would translate it as a statement, such as, "you are betraying me by kissing me!" or, "you make your betrayal even worse by kissing me!"
-
-
+  * **geldi** - Bazı dillerde «gitti» diye söylenmesi tercih edilebilir.
+  * **Selam** - Bu, «Merhaba» ya da «İyi akşamlar» şeklinde de çevrilebilir.
+  * **işaret** - Yani «sinyal.»
+  * **bana öpücükle mi ihanet ediyorsun?** - Yani «gerçekten mi bana öpücükle ihanet edersin?» İsa bu soruyu cevabını almak için sormaz. Dolayısıyla bazı dillerde bu şöyle çevrilebilir: «beni öperek mi bana ihanet ediyorsun?» ya da «beni öpmekle ihanetini daha kötü yapmış oluyorsun.»
 **[[:tr:obs:notes:frames:38-13|<<]] | [[:tr:obs:notes:38|Up]] | [[:tr:obs:notes:frames:38-15|>>]]**

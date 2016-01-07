@@ -14,9 +14,7 @@
 
 ===== Translation Notes: =====
 
-  * **cried bitterly** - That is, "cried, feeling deep sorrow" or, "cried, feeling deep regret."
-  * **the betrayer** - That is, "who had betrayed Jesus" or, "who had helped the leaders arrest Jesus."
-  * **had condemned Jesus to die** - That is, "had said that Jesus was guilty and must die."
-
-
+  * **acı acı ağladı** - Yani «derin keder duyarak ağladı» ya da «derin pişmanlık duyarak ağladı.»
+  * **hain** - Yani «İsa’ya ihanet eden» ya da «önderlerin İsa’yı tutuklamasına yardım eden.»
+  * **İsa’yı ölüme mahkûm ettiklerini** - Yani «İsa’nın suçlu olup ölmesi gerektiğini söyleyen.»
 **[[:tr:obs:notes:frames:39-07|<<]] | [[:tr:obs:notes:39|Up]] | [[:tr:obs:notes:frames:39-09|>>]]**

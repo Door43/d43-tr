@@ -16,13 +16,10 @@ When **the seventh day** came, **God** had **finished his work**. So **God reste
 ==== Translation Notes: ====
 
 
-  * **the seventh day** - The next day after the six days of creation were completed.
-  * **finished his work** - Specifically, God finished the work of creation. He still performs other work.
-  * **God rested** - God "rested" in the sense that he stopped working because creation was complete. God was not tired, or unable to continue.
-  * **blessed the seventh day** - God had a special, positive plan for the seventh day, and for every seventh day to follow.
-  * **made it holy** - That is, God "set apart" the day as a special day. It was not to be used in the same way as the other six days of the week.
-  * **the universe** - This includes everything that God created on the earth and in the heavens, both visible and invisible things.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
-
+  * **yedinci gün** - Yaratılışın altı gününden sonraki gün.
+  * **işlerini bitirmişti** - Tanrı özellikle yaratma işini bitirmişti. Başka işlerini ise sürdürüyor.
+  * **Tanrı dinlendi** - Tanrı, yaratılışı bitirdiği için işini durdurduğu anlamında «dinlendi». Yorulduğu ya da işi sürdürmeye gücü kalmadığı anlamında değil.
+  * **yedinci günü kutsadı** - Tanrı’nın o yedinci gün ve ondan sonraki her yedinci gün için özel olumlu bir planı vardı.
+  * **kutsal bir gün oldu** - Yani Tanrı o günü özel bir gün olarak «ayırdı». Böylece o gün haftanın öbür altı gün gibi kullanılmamalıydı.
+  * **evren** - Buna Tanrı’nın gökte ve yerde yarattığı görülen ve görülmeyen her şey dahildir.
 **[[:tr:obs:notes:frames:01-15|<<]] | [[:tr:obs:notes:01|Up]] | [[:tr:obs:notes:frames:02-01|>>]]**

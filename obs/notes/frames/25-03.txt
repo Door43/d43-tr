@@ -12,8 +12,6 @@
 
 ===== Translation Notes: =====
 
-  * **bread** - Make sure that you use the same word to translate "bread" here as you did in **[[:tr:obs:notes:frames:25-02|[25-02]]]**.
-  * **but they need every word that God speaks!** - Another way to translate this would be, "Rather, people need to listen to and obey everything God says" or, "Rather, people have real life by believing and obeying what God says."
-
-
+  * **ekmek** - «Ekmek» için <b>[[:en:obs:notes:frames:25-02|[25-02]]]</b>de kullandığınız sözcüğü burada da kullanmaya çok dikkat edin.
+  * **Tanrı’nın söylediği her söze ihtiyacı var** - Bunu çevirmenin başka bir yolu şu olabilir: «Ama insanların Tanrı’nın söylediği her şeye kulak verip itaat etmeleri gerekir» ya da «Ama insanların gerçek yaşamı Tanrı’nın söylediğine iman ve itaat etmektir.»
 **[[:tr:obs:notes:frames:25-02|<<]] | [[:tr:obs:notes:25|Up]] | [[:tr:obs:notes:frames:25-04|>>]]**

@@ -18,8 +18,6 @@ The **Israelites** had to cross the **Jordan River** to enter into the **Promise
 ==== Translation Notes: ====
 
 
-  * **Have the priests go first** – For some languages it may be helpful to add, "Have the priests go before the rest of the people to cross the river."
-  * **the water upstream stopped flowing** - In some languages it may be helpful to add, "and the water in front of them flowed away downstream."
-
-
+  * **Önce kâhinler gitsin!** - Bazı dillerde şöyle ilave etmek faydalı olabilir: «Kâhinler başka insanlardan önce gitsinler, nehri geçsinler.»
+  * **yukarıdan gelen sular durdu** - Bazı dillerde şöyle ilave etmek faydalı olabilir: «ve onların önündeki sular aşağıya akıp gitti.»
 **[[:tr:obs:notes:frames:15-01|<<]] | [[:tr:obs:notes:15|Up]] | [[:tr:obs:notes:frames:15-03|>>]]**

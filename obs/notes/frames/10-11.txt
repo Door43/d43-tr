@@ -15,8 +15,6 @@ Then **God sent darkness that lasted for three days**. It was so dark that the *
 ==== Translation Notes: ====
 
 
-  * **God sent darkness** - God caused darkness to cover or spread over most of Egypt. In other words, God took away the light from this part of Egypt.
-  * **darkness that lasted for three days** - This darkness was darker than ordinary nighttime darkness, and it continued to be totally dark for three whole days.
-
-
+  * **Tanrı... karanlığa bürüdü** - Tanrı Mısır’ın büyük kısmı üzerine karanlığın yayılmasını ya da onu örtmesini sağladı. Başka bir deyişle, Tanrı Mısır’ın bu kısmı üzerinden ışığı aldı.
+  * **üç gün koyu karanlığa** - Bu karanlık olağan gece karanlığından daha şiddetli ve tam üç gün süren bir karanlıktı.
 **[[:tr:obs:notes:frames:10-10|<<]] | [[:tr:obs:notes:10|Up]] | [[:tr:obs:notes:frames:10-12|>>]]**

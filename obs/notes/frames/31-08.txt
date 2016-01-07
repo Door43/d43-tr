@@ -15,10 +15,7 @@
 
 ===== Translation Notes: =====
 
-  * **When Peter and Jesus got into the boat, the wind** - It may be better to say, "Peter and Jesus got into the boat, and then the wind."
-  * **worshiped Jesus** - This could be translated as, "bowed down and worshiped Jesus." This word has the idea of physically bowing down in front of someone out of respect and reverence.
-  * **Truly you are the Son of God** - Other ways to say this would be, "You really are the Son of God" or, "It really is true that you are the Son of God."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * **Petrus’la İsa tekneye girer girmez rüzgâr** - Şöyle söylemek daha iyi olabilir: «Petrus’la İsa tekneye girdiler ve o zaman rüzgâr.»
+  * **İsa’ya tapınarak** - Bu şöyle çevrilebilir: «baş eğip İsa’ya tapınarak.» Bu söz saygı ile bir insanın önünde fiziksel şeklide baş eğme anlamına gelir.
+  * **Gerçekten, sen Tanrı’nın Oğlu’sun** - Bunu söylemenin başka yolları şöyle olabilir: «Sen doğrudan Tanrı’nın Oğlu’sun» ya da «Gerçekten öyledir: Sen Tanrı’nın Oğlu’sun.»
 **[[:tr:obs:notes:frames:31-07|<<]] | [[:tr:obs:notes:31|Up]] | [[:tr:obs:notes:frames:32-01|>>]]**

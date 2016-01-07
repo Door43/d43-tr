@@ -13,10 +13,8 @@
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
-  * **one small goat** - A small goat would have fed fewer people than the best calf, and would not be valued as much. The older brother is complaining that his father was treating the sinful younger son better than him.
-  * **this son of yours** - This expression shows that the older son was angry. It shows his rejection of his younger brother and his disapproval of his father for welcoming back this wayward son. Other languages may also have an indirect way of communicating these things.
-  * **consumed your money** - That is, "squandered the money that you gave him" or, "devoured your wealth." If possible, use an expression that shows the brother's anger.
-  * **killed the best calf** - That is, "killed the best calf to eat at a feast."
-
-
+  * **küçük bir oğlak** - Küçük oğlak en iyi danadan daha az insanı doyurur ve dolayısıyla o kadar değerli sayılmazdı. Büyük oğul babasının ona tavrının, günahkâr küçük kardeşine tavrından daha kötü olduğundan şikayet eder.
+  * **şu oğlun** - Bu tabir büyük oğlunun kızgınlığını gösteriyor. Küçük kardeşini reddettiğini ve babasının bu dik başlı oğlunu kabul edişini onaylamadığını gösteriyor. Başka dillerde bu şeyler dolaylı yolla iletilebilir.
+  * **paranı savuran** - Yani «ona verdiğin parayı çarçur eden» ya da «servetini harcayıp tüketen.» Mümkünse, büyük kardeşin kızgınlığını ifade edecek bir tabir kullanın.
+  * **en iyi danayı kestirdin** - Yani «şölende yemek için en iyi danayı kestirdin.»
 **[[:tr:obs:notes:frames:35-11|<<]] | [[:tr:obs:notes:35|Up]] | [[:tr:obs:notes:frames:35-13|>>]]**

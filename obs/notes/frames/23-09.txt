@@ -16,11 +16,9 @@
 
 ===== Translation Notes: =====
 
-  * **Sometime later** - It is not clear how long it was after the birth of Jesus before the wise men saw the star, but it may have taken as long as two years for them to prepare for the trip and then travel to Bethlehem.
-  * **wise men** - The "wise men" were probably astrologers who studied the stars. They may also have had access to the Old Testament prophets' writings that predicted the birth of the Messiah.
-  * **unusual star** - The star that they noticed was not a normal star. It was something that appeared at the time of Jesus' birth.
-  * **They realized** - Some languages may add, "From their studies, these scholars realized."
-  * **the house** - They were no longer staying in the place for animals where he was born.
-
-
+  * **Bir süre sonra** - İsa’nın doğuşundan bilge adamların yıldızı gördükleri zamana kadar geçtiği süre belli değil, ama Beytlehem’e yolculuk için hazırlanmalarının iki yıl kadar uzun sürdüğü olasıdır.
+  * **bilge adamlar** - «Bilge adamlar» büyük olasılıkla yıldızları araştıran müneccimlerdi. Ayrıca Mesih’in doğuşunu önceden bildiren Eski Ahit peygamberlerinin yazılarını da okumuş olmaları olasıdır.
+  * **olağanüstü bir yıldız** - Onların gördükleri yıldız olağan bir yıldız değildi. İsa’nın doğuşu zamanında ortaya çıkan bir şeydi.
+  * **anladılar** - Bazı dillerde şöyle ilave etmek gerekli olabilir: «yaptıkları araştırmaları sayesinde anladılar.»
+  * **ev** - İsa’nın doğduğu hayvan yerinde artık kalmıyorlardı.
 **[[:tr:obs:notes:frames:23-08|<<]] | [[:tr:obs:notes:23|Up]] | [[:tr:obs:notes:frames:23-10|>>]]**

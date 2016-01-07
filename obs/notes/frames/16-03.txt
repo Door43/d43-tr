@@ -18,10 +18,8 @@ Then **God provided a deliverer** who rescued them from their enemies and **brou
 ==== Translation Notes: ====
 
 
-  * **God provided** - This could be translated as, "God chose" or, "God appointed" or, "God raised up."
-  * **brought peace** - This could be translated as, "allowed the people to live without fear" or, "ended the fighting" or, "stopped their enemies from attacking them."
-  * **the land** - That refers to Canaan, the Promised Land that God had given to Abraham.
-  * **the people forgot about God** - This means, "The people stopped thinking about God and ignored what he had commanded them."
-
-
+  * **Tanrı... gönderirdi** - Bu «Tanrı... sağlardı», «...tayin ederdi» ya da «...meydana getirirdi» olarak da çevrilebilir.
+  * **selâmet getirecek** - Bu şöyle çevrilebilir: «halkın korkusuz yaşamasına izin verecek» ya da «savaşa son verecek» ya da «düşmanlarının onlara saldırmasını engelleyecek.»
+  * **ülke** - Yani Kenan, Tanrı’nın İbrahim’e verdiği vadettiği ülke.
+  * **halk yine Tanrı’yı unutarak** - Yani «Halk artık Tanrı’yı düşünmedi ve Tanrı’nın onlara verdiği buyruklara önem vermedi.»
 **[[:tr:obs:notes:frames:16-02|<<]] | [[:tr:obs:notes:16|Up]] | [[:tr:obs:notes:frames:16-04|>>]]**

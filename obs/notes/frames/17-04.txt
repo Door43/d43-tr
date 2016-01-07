@@ -16,9 +16,7 @@
 ==== Translation Notes: ====
 
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **to prove to Saul** - That is, "to convince Saul" or, "to show Saul."
-  * **to become king** – David would not dishonor God by killing the man that God placed as king over Israel.
-
-
+  * **Bir gün** - Bu sözle geçmişte olup bitmiş olay anlatılmaya başlanıyor, fakat tam zamanı belirtilmiyor. Çok dilde gerçek olayı anlatmaya başlamanın benzer yolları vardır.
+  * **Saul’u öldürmek niyetinde olmadığını kanıtlamış** - Ya da «Saul’u ikna etmiş», «Saul’a kanıtlamış», «Saul’a göstermiş.»
+  * **kral olmak için** - Davut Tanrı’nın İsrail’de kral olarak atamış olduğu adama asla saygısız davranmazdı.
 **[[:tr:obs:notes:frames:17-03|<<]] | [[:tr:obs:notes:17|Up]] | [[:tr:obs:notes:frames:17-05|>>]]**

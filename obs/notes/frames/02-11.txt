@@ -18,10 +18,9 @@
 ==== Translation Notes: ====
 
 
-  * **ground is cursed** - As punishment for Adam's disobedience, the earth would no longer be fruitful. Adam would have to work very hard to raise enough food to eat.
-  * **you will die** - The ultimate punishment for their disobedience was death. Spiritual death is our separation from God. Physical death is our separation from our body.
-  * **return to dirt** - God created Adam from the dirt or soil and gave him life. As a result of sin, his life will be taken from him and his body will decompose and become dirt again.
-  * **Eve, which means 'life-giver'** - God gave life to Adam and Eve, and it is passed on to every person through childbirth.
-  * **mother of all people** - This means that she would be the female ancestor of all people. Some languages say "she would be the grandmother of all people."
-
+  * **toprak lanetlendi** - Adem’in itaatsizliğinin cezası olarak toprak artık verimli olmayacak, Adem yeterince yiyecek sağlamak için çok emek harcamak zorunda kalacaktı.
+  * **öleceksin** - İtaatsizliklerinin son cezası ölümdü. Manevi ölüm Tanrı’dan ayrılmaktır. Cismani ölüm kendi bedeninden ayrılmaktır.
+  * **toprağa dönecek** - Tanrı Adem’i çamurdan ya da topraktan yarattı ve ona hayat verdi. Adem’in günahı yüzünden hayatı ondan alınacak ve bedeni çürüyüp tekrar toprak olacaktı.
+  * **“hayat” anlamına gelen Havva ** - Tanrı Adem’le Havva’ya hayat verdi ve bu hayat doğum vasıtasıyla her insana aktarılıyor.
+  * **bütün insanların annesiydi** - Bu, Havva’nın bütün insanların kadın ecdadı olacağı anlamına gelir. Bazı dillerde «o, bütün insanların nenesi olacak» şeklinde denebilir.
 **[[:tr:obs:notes:frames:02-10|<<]] | [[:tr:obs:notes:02|Up]] | [[:tr:obs:notes:frames:02-12|>>]]**

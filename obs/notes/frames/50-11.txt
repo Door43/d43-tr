@@ -13,10 +13,8 @@
 
 ===== Translation Notes: =====
 
-  * **he left** - This could also be translated as, "he left the earth" or, "he left to go back to heaven."
-  * **will come on the clouds in the sky** - That is, "the clouds in the sky will surround him as he comes" or, "the clouds of the sky will carry him along."
-  * **when Jesus returns** - That is, "when Jesus returns to the earth."
-  * **meet him in the sky** - That is, "join him in the sky." Those who believe in Jesus will go up to be near Jesus while he is in the sky.
-
-
+  * **ayrıldığı** - Bu ayrıca «yeryüzünden ayrıldı» ya da «göğe dönmek üzere ayrıldı» şeklinde çevrilebilir.
+  * **gökteki bulutlar üzerinde gelecek** - Yani «gökteki bulutlarla çevrilerek gelecek» ya da «gökyüzünün bulutları O’nu taşıyacak.»
+  * **İsa döneceği zaman** - Yani «İsa yeryüzüne döneceği zaman.»
+  * **gökte O’nunla buluşacak** - Yani «gökte O’na katılacak.» İsa’ya iman edenler İsa daha gökteyken O’na yakın olmak üzere kalkacaklar.
 **[[:tr:obs:notes:frames:50-10|<<]] | [[:tr:obs:notes:50|Up]] | [[:tr:obs:notes:frames:50-12|>>]]**

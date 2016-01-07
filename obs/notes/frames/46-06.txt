@@ -16,8 +16,6 @@
 
 ===== Translation Notes: =====
 
-  * **Right away** - This can also be translated as, "Immediately" or, "Then."
-  * **reasoned with the Jews** - This could also be translated as, "gave the Jews good reasons for believing in Jesus" or, "spoke persuasively with the Jews."
-
-
+  * **Bundan hemen sonra** - Bu, «O zaman» ya da «derhal» şeklinde de çevrilebilir.
+  * **Yahudilerle tartışarak** - Bu ayrıca şöyle de çevrilebilir: «Yahudilere İsa’ya iman etmeleri için iyi sebepler vererek» ya da «Yahudilerle ikna edici bir şekilde konuştu.»
 **[[:tr:obs:notes:frames:46-05|<<]] | [[:tr:obs:notes:46|Up]] | [[:tr:obs:notes:frames:46-07|>>]]**

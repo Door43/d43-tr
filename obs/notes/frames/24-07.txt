@@ -14,8 +14,6 @@
 
 ===== Translation Notes: =====
 
-  * **I am not worthy to baptize you** - This could be translated as, "I am not good enough to baptize you" or, "I am sinful, so I should not baptize you."
-  * **it is the right thing to do** - This might also be translated as, "it is the proper thing to do" or, "this is what God wants me to do."
-
-
+  * **Seni vaftiz etmeye layık değilim** - Bu şöyle çevrilebilir: «Seni vaftiz etmek için yeterince iyi değilim» ya da «Ben günahkâr olduğum için Seni vaftiz etmemeliyim.»
+  * **bu, yapılması gereken doğru iştir** - Bu şöyle de çevrilebilir: «bu, yapılması doğru olan iştir» ya da «bu, Tanrı’nın yapmamı istediği iştir.»
 **[[:tr:obs:notes:frames:24-06|<<]] | [[:tr:obs:notes:24|Up]] | [[:tr:obs:notes:frames:24-08|>>]]**

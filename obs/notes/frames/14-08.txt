@@ -18,8 +18,6 @@
 ==== Translation Notes: ====
 
 
-  * **came to** - God did not appear as a person, but came in some other form that showed his glory and power.
-  * **wander in the wilderness** - God would lead the people around in the wilderness with no specific destination until all of the adults who rebelled against him died.
-
-
+  * **geldi** - Tanrı bizzat kendisi gelmedi, ama görkemini ve kudretini gösteren başka bir şekilde geldi.
+  * **çölde dolaşacaksınız** - Tanrı, O’na karşı başkaldıran bütün yetişkinler ölünceye kadar halkı çölde dolaştıracaktı.
 **[[:tr:obs:notes:frames:14-07|<<]] | [[:tr:obs:notes:14|Up]] | [[:tr:obs:notes:frames:14-09|>>]]**

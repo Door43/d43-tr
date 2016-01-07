@@ -16,8 +16,6 @@
 
 ===== Translation Notes: =====
 
-  * **her masters** - In this case, this could also be translated as, "her owners."
-  * **as a fortuneteller** - That is, "as someone who told people what would happen to them in the future."
-
-
+  * **efendilerine** - Bu durumda bu sözcüğü «sahiplerine» şeklinde de çevirebilirsiniz.
+  * **falcılıkla** - Yani «insanlara gelecekte ne olacağını bildiren biri olarak.»
 **[[:tr:obs:notes:frames:47-02|<<]] | [[:tr:obs:notes:47|Up]] | [[:tr:obs:notes:frames:47-04|>>]]**

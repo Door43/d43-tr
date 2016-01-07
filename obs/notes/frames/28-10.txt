@@ -11,12 +11,9 @@
 
 ===== Translation Notes: =====
 
-  * **has left** - That is, "has left behind" or, "has given up" or, "has counted as less important than God."
-  * **for my sake** - This may also be translated as, "because of me" or, "on my account."
-  * **100 times more** - That is, "very much more than he had before."
-  * **many who are first will be last** - That is, "many people who are important now, will not be important then."
-  * **many who are last will be first** - That is, "many people who are considered to not be very important on earth will be considered very important in heaven" or, "Many people who are considered now to be of little value on earth will be highly valued in heaven."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * **bırakan** - Yani «terkeden», «geride bırakan», «vazgeçen» ya da «Tanrı’dan daha az önemli sayan.»
+  * **uğruma** - Bu «benim için» ya da «benim yolumda» şeklinde de çevrilebilir.
+  * **100 katını** - Yani «önce olduğundan kat kat daha fazla.»
+  * **Birinci olan birçok kişi sonuncu... olacak** - Yani «Şimdi önemli olan çok insan o zaman önemli olmayacak.»
+  * **sonuncu olan birçok kişi birinci olacak** - Yani «Yeryüzünde önemli sayılmayan çok insan göklerde çok önemli sayılacak» ya da «Şimdi yeryüzünde az değerli sayılan birçok kişi göklerde yüksek değerlendirilecek.»
 **[[:tr:obs:notes:frames:28-09|<<]] | [[:tr:obs:notes:28|Up]] | [[:tr:obs:notes:frames:29-01|>>]]**

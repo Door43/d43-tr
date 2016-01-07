@@ -17,7 +17,5 @@ Then **God** told **Moses** to throw ashes into the air in front of **Pharaoh**.
 ==== Translation Notes: ====
 
 
-  * **God hardened Pharaoh's heart** - God caused Pharaoh to continue to be stubborn. See also note in **[[:tr:obs:notes:frames:10-04|[10-04]]]**.
-
-
+  * **Tanrı firavunun kalbini taşlaştırdı** - Tanrı firavunun inadında devam etmesini sağladı. Ayrıca <b>[[:en:obs:notes:frames:10-04|[10-04]]]</b>deki nota bakınız.
 **[[:tr:obs:notes:frames:10-06|<<]] | [[:tr:obs:notes:10|Up]] | [[:tr:obs:notes:frames:10-08|>>]]**

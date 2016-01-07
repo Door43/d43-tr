@@ -21,8 +21,6 @@
 ==== Translation Notes: ====
 
 
-  * **until I say so** - This may be translated as, "until I command the rain and dew to come again."
-  * **This made Ahab very angry** – This could be translated as, "When Ahab heard what Elijah said, he became very angry."
-
-
+  * **Ben söylemedikçe** - Bu şöyle çevrilebilir: «Ben yağmurun yağmasını ve çiyin düşmesini buyurmadıkça.»
+  * **Bu söz Ahav’ı çok öfkelendirdi** - Bu şöyle çevrilebilir: «Ahav İlyas’ın dediği sözü duyunca çok öfkelendi.»
 **[[:tr:obs:notes:frames:19-01|<<]] | [[:tr:obs:notes:19|Up]] | [[:tr:obs:notes:frames:19-03|>>]]**

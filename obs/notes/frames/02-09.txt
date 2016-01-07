@@ -15,10 +15,9 @@
 ===== Translation Notes: =====
 
 
-  * **you are cursed** - This could also be translated as, "I curse you" or, "Great harm will come to you." Do not use a word that implies magic.
-  * **hate each other** - The woman would hate the snake and the snake would hate the woman. The women's descendants would also hate the snake's descendants, and the snake's descendants would hate them.
-  * **woman's descendant** - Refers to one of her descendants in particular.
-  * **crush your head** - The descendant of the woman will destroy the descendant of the snake.
-  * **wound his heel** - The descendant of the snake will wound the descendant of the woman.
-
+  * **sen lanetlisin** - Bu söz «seni lanetliyorum» ya da «başına büyük zarar gelecek» şeklinde çevirmek de mümkün. Büyü anlamına gelen bir söz kullanmayın.
+  * **birbirinden nefret edecek** - Kadın yılandan, yılan kadından nefret edecekti. Kadının evlatları yılanın yavrularından ve yılanın yavruları kadının evlatlarından nefret edeceklerdi.
+  * **kadının soyu** - Özel olarak soyundan gelecek bir kişiye aittir.
+  * **senin başını ezecek** - Kadının soyu yılanın soyunu mahvedecek.
+  * **onun topuğuna saldıracaksın** - Yılanın soyu kadının soyunu yaralayacak.
 **[[:tr:obs:notes:frames:02-08|<<]] | [[:tr:obs:notes:02|Up]] | [[:tr:obs:notes:frames:02-10|>>]]**

@@ -22,10 +22,8 @@
 
 ===== Translation Notes: =====
 
-  * **believe in him** - This can also be translated as, "trust in him" or, "trust in him to save you" or, "entrust your whole life to him."
-  * **be baptized** - This could also be translated as, "have someone baptize you" or, "let them baptize you."
-  * **believe that** - This can also be translated as, "acknowledge that" or, "agree that."
-  * **take away** - See note on **[[:tr:obs:notes:frames:49-11|[49-11]]]**.
-
-
+  * **O’na iman edip** - Bu ayrıca şöyle çevrilebilir: «O’na güvenip» ya da «O’nun seni kurtaracağına inanıp» ya da «bütün hayatını O’na emanet edip.»
+  * **vaftiz olmaya** - Bu «kendini kimseye vaftiz ettirmeye» ya da «kimse seni vaftiz etsin diye» şeklinde de çevrilebilir.
+  * **olduğuna iman ediyor musun?** - Bu şöyle de çevrilebilir: «olduğunu kabul ediyor musun?»
+  * **günahlarını ortadan kaldırmak** - Bkz: <b>[[:en:obs:notes:frames:49-11|[49-11]]]</b>.
 **[[:tr:obs:notes:frames:49-13|<<]] | [[:tr:obs:notes:49|Up]] | [[:tr:obs:notes:frames:49-15|>>]]**
