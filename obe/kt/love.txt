@@ -18,7 +18,7 @@ Başka birini sevmek demek, o kişiye ilgi göstermek ve ona yarar verecek şeyl
   * Bazı dillerde ayrıca karı koca arasındaki romantik, cinsel anlamda sevgi için aşk gibi özel sözcükler bulunabilir.
   * Birçok dillerde sevgi eylem olarak ifade ediliyor. Örneğin, «Sevgi sabırlıdır, sevgi şefkatlidir» ifadesi şöyle çevrilir: «Bir insan birini sevdiğinde ona sabreder ve acır...»
 
-(See also: [[:tr:obe:other:sacrifice|sacrifice, offering]], [[:tr:obe:kt:sin|sin, sinful, sinner, sinning]], [[:tr:obe:kt:save|save]], [[:tr:obe:kt:death|death, die, dead]])
+(See also: [[tr:obe:kt:sin]],[[tr:obe:kt:save]],[[tr:obe:kt:death]],[[tr:obe:kt:sin|günah, günahlı, günahkâr]],[[tr:obe:kt:save|kurtarmak]],[[tr:obe:kt:death|ölüm, ölmek, ölü]])
 
 ===== Bible References: =====
 

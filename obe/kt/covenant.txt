@@ -16,7 +16,7 @@ Ahit, iki taraf arasında yapılan ve bir ya da her iki tarafın yerine getirmes
   * Bazı dillerde sadece bir tarafın ya da her iki tarafın vaatte bulunmasına bağlı olarak ahit için çeşitli sözcükler bulunabilir. Ahit tek yönlü ise «vaat», «ant» ya da «taahhüt» olarak çevrilebilir.
   * Bu terimin çevirisinden insanların ahdi başlattıkları anlaşılmamasına dikkat edin. Tanrı ile insanlar arasında yapılan tüm ahitlerde ahdi başlatan taraf Tanrı’ydı.
 
-(See also: [[:tr:obe:kt:promise|promise]], [[:tr:obe:kt:newcovenant|New Covenant]])
+(See also: [[tr:obe:kt:promise]],[[tr:obe:kt:newcovenant]],[[tr:obe:kt:promise|vaat]],[[tr:obe:kt:newcovenant|yeni ahit]])
 
 ===== Bible References: =====
 

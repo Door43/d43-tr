@@ -10,9 +10,7 @@ Kutsal Kitap’ta Yeşu adlı birkaç İsrailli kişi vardır. En ünlü olan, M
   * Eski Ahit’te yer alan Yeşu bölümü, Yeşu’nun önderliği döneminde olup bitenlerden, yani Tanrı’nın vadettiği ülkenin fethi ve ülkenin İsrail’in on iki oymağı arasında bölünmesinden bahseder.
   * Eski Ahit’in Hagay ve Zekeriya bölümlerinde Yeşu adındaki başka kişinin ismi geçer. O Yeşu, Yeruşalim’in surlarının yeniden inşa edilmesine yardım eden baş kâhindi. Yehosadak’ın oğluydu.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
-
-(See also: [[en:obe:other:moses]], [[en:obe:kt:promisedland]], [[:tr:obe:other:Jericho]], [[:tr:obe:other:Canaan]])
+(See also: [[tr:obe:other:moses]],[[tr:obe:kt:promisedland]],[[tr:obe:other:jericho]],[[tr:obe:other:canaan]])
 
 ===== Bible References: =====
 

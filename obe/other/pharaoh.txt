@@ -8,9 +8,7 @@ Eski zamanlarda Mısır ülkesini yöneten krallara firavun denirdi.
   * Bu firavunlardan bazısından Kutsal Kitap’ta söz edilir.
   * Firavun unvanı sıkça unvan değil isim olarak kullanılır. O zaman büyük harfle «Firavun» şeklinde yazılabilir.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
-
-(See also: [[:tr:obe:other:egypt|Egypt, Egyptian]], [[:tr:obe:other:king|king]])
+(See also: [[tr:obe:other:egypt]],[[tr:obe:other:king]],[[tr:obe:other:egypt|mısır, mısırlı]],[[tr:obe:other:king|kral]])
 
 ===== Bible References: =====
 

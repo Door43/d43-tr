@@ -6,9 +6,7 @@ Kenan, Nuh’un oğlu Ham’dı. Onun soyu olan Kenanlılar, Şeria Nehri’nden
   * Tanrı bu ülkeyi İbrahim’e ve onun soyu olan İsrail’e vereceğini vadetti.
   * Bugün o bölgede bulunan ülkeler İsrail, Lübnan, Ürdün’ün bir kısmı, Suriye’nin bir kısmı ve Filistin’dir.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
-
-(See also: [[en:obe:kt:promisedland|Promised Land]], [[ham]])
+(See also: [[tr:obe:kt:promisedland]],[[tr:obe:kt:promisedland|tanrı’nın vadettiği ülke]],[[tr:obe:other:ham]])
 
 ===== Bible References: =====
 

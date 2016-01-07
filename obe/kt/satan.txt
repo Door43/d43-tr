@@ -16,9 +16,7 @@
   * Bu terimlerin cin ve kötü ruh terimlerinden farklı olarak çevrilmesi gerekir.
   * Bu terimlerin Kutsal Kitap’ın halk diline veya devlet diline çevirisinde nasıl çevrildiğine bakın.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
-
-(See also: [[:tr:obe:kt:kingdomofgod]], [[:tr:obe:kt:evil]], [[:tr:obe:kt:tempt]], [[:En:obe:kt:demon]])
+(See also: [[tr:obe:kt:kingdomofgod]],[[tr:obe:kt:evil]],[[tr:obe:kt:tempt]])
 
 ===== Bible References: =====
 

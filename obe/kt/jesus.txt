@@ -14,9 +14,7 @@
   * Başka dillerde «meshedilen biri» anlamına gelen bir söz ya da ifadenin kullanılması tercih edilebilir.
   * Ayrıca Kutsal Kitap’ın halk diline veya devlet diline çevirisinde bu adların nasıl çevrildiğine dikkat verin.
 
-(Translation suggestions: [[:tr:ta:vol1:translate:translate_names|How to Translate Names]])
-
-(See also: [[:tr:obe:kt:sonofgod|Son of God, the Son]], [[:tr:obe:kt:godthefather|God the Father, Heavenly Father]], [[:tr:obe:kt:god|God]], [[:tr:obe:other:mary|Mary]], [[:tr:obe:kt:kingdomofgod|kingdom of God, kingdom of heaven]], [[:tr:obe:kt:highpriest|high priest]], [[:tr:obe:kt:christ|Christ, Messiah]], [[:tr:obe:kt:savior|Savior]])
+(See also: [[tr:obe:kt:godthefather]],[[tr:obe:kt:god]],[[tr:obe:kt:kingdomofgod]],[[tr:obe:kt:highpriest]],[[tr:obe:kt:christ]])
 
 ===== Bible References: =====
 

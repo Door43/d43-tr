@@ -12,9 +12,7 @@
   * «Baba» sözünü, bu dilde beşeri babalar için doğal olarak kullanılan bir kelimeyle çevirmek en iyi olur.
   * «Semavi Baba» terimi «Göklerde yaşayan Baba Tanrı», «Göklerden olan Babamız Tanrı» ya da «Göklerde olan Baba» olarak çevrilebilir.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
-
-(See also: [[en:obe:kt:god]], [[:En:obe:kt:holyspirit]], [[:tr:obe:kt:sonofgod]], [[:tr:obe:other:father]], [[:En:obe:kt:jesus]], [[:tr:obe:kt:heaven]])
+(See also: [[tr:obe:kt:god]],[[tr:obe:kt:sonofgod]],[[tr:obe:kt:heaven]])
 
 ===== Bible References: =====
 

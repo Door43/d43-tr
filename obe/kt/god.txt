@@ -18,9 +18,7 @@ Kutsal Kitap’ta «Tanrı» terimi, evreni yoktan yaratan «Yahve» adlı ezel�
   * Türkçe ya «ilâh» ya da küçük «t» yazılan «tanrı» yalancı tanrıyı, büyük «T» ile yazılan Tanrı ise tek gerçek Tanrı’yı belirtilir. Başka dillerde de böyle yapmak mümkün olabilir. Ya da «ilâh» ve «Tanrı» gibi iki farklı sözcük kullanılabilir.
   * «Ben onların Tanrısı olacağım, onlar da benim halkın olacaklar» cümlesi ayrıca şöyle çevrilebilir: «Ben, Tanrı bu halkın üzerinde hükümranlık edeceğim; onlar bana ait olup tapacaklar.»
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
-
-(See also: [[:tr:obe:kt:yahweh|Yahweh]], [[:tr:obe:kt:godthefather|God the Father, Heavenly Father]], [[:tr:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]], [[:tr:obe:kt:sonofgod|Son of God, the Son]], [[:tr:obe:kt:falsegod|false god, god]], [[:tr:obe:other:creation|create, creation, Creator]], [[:tr:obe:other:idol|idol]])
+(See also: [[tr:obe:kt:yahweh]],[[tr:obe:kt:godthefather]],[[tr:obe:kt:holyspirit]],[[tr:obe:kt:sonofgod]],[[tr:obe:kt:falsegod]],[[tr:obe:kt:yahweh|yahve]],[[tr:obe:kt:godthefather|baba tanrı, semavi baba]],[[tr:obe:kt:holyspirit|kutsal ruh, tanrı’nın ruhu, rab’bin ruhu]],[[tr:obe:kt:sonofgod|tanrı’nın oğlu, oğul]],[[tr:obe:kt:falsegod|yalancı ilâh, ilâh]])
 
 ===== Bible References: =====
 

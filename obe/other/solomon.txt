@@ -8,9 +8,7 @@ Süleyman Kral Davut’un oğullarından biriydi. Annesi Bat-Şeva’ydı.
   * Süleyman, krallığının ilk döneminde bilgece hükümranlık etmesine rağmen, zamanla çok yabancı kadınla evlenip ilâhlarına tapmaya başladı. 
   * Süleyman’ın sadakatsizliği yüzünden Tanrı onun ölümünden sonra İsraillilerin İsrail ve Yahuda olmak üzere iki krallığa bölünmesini sağladı. Bu krallıklar sık sık birbiriyle savaşırlardı.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
-
-(See also: [[:En:obe:other:david]], [[:tr:obe:other:bathsheba]], [[en:obe:kt:temple]], [[:tr:obe:toher:Israel]], [[:tr:obe:other:Judah]])
+(See also: [[tr:obe:other:bathsheba]],[[tr:obe:kt:temple]],[[tr:obe:other:israel]],[[tr:obe:other:judah]])
 
 ===== Bible References: =====
 

@@ -7,9 +7,7 @@
   * İsmail Tanrı’nın kendisine ve geleceğine dair Hacer’e verdiği vaadin sahibi oldu
   * Ne var ki İsmail, Tanrı’nın İbrahim’e soyunun yıldızlar kadar çoğalacağına dair verdiği vaadin ait olduğu oğul değildi.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
-
-(See also: [[en:obe:other:Abraham]], [[:tr:obe:other:Sarah]], [[:En:obe:other:Isaac]] )
+(See also: [[tr:obe:other:abraham]],[[tr:obe:other:sarah]])
 
 ===== Bible References: =====
 

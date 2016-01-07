@@ -9,9 +9,7 @@
   * İbrahim’in adı önce Avram’dı, ama Tanrı onu İbrahim olarak değiştirdi.
   * Avram «yüce baba», İbrahim ise «birçok milletin babası» anlamına gelir.
 
-(Translation suggestions: [[:tr:ta:vol1:translate:translate_names]]) 
-
-(See also: [[sarah]], [[isaac]])
+(See also: [[tr:obe:other:sarah]],[[tr:obe:other:isaac]])
 
 ===== Bible References: =====
  

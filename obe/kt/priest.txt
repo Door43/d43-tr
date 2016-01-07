@@ -19,7 +19,7 @@ Kutsal Kitap’ta kâhin, Tanrı’nın, halkı için dua etmek ve kendisine kur
   * Bazı çevirilerde bu terimin çağdaş kâhinlere ait olmadığını açıklamak için her zaman «İsrailli kâhin», «Yahudi kâhin» ya da «Yahve’nin kâhini» gibi sözlerin kullanması tercih edilebilir.
   * «Kâhin» sözcüğünü çevirmek için kullanılan terim «baş kâhin», «Levili» ve «peygamber» terimlerinden farklı olmalı.
 
-(See also: [[en:obe:other:aaron]], [[en:obe:other:sacrifice]], [[en:obe:other:chiefpriests]], [[:tr:obe:kt:highpriest]], [[:tr:obe:other:mediator]])
+(See also: [[tr:obe:kt:highpriest]])
 
 ===== Bible References: =====
 

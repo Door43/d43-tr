@@ -15,7 +15,7 @@ Yalancı tanrı, insanların tek gerçek Tanrı’dan başka taptığı bir şey
   * Türkçe küçük “t” ile başlayan sözcük yalancı tanrılara, büyük “T” ile başlayan sözcük ise tek gerçek Tanrı’ya ait olarak kullanılır. Bu, başka diller için de söz konusudur.
   * Başka bir seçenek, yalancı tanrılara ait olarak değişik sözcüğün kullanılmasıdır.
 
-(See also: [[:tr:obe:kt:god|God]], [[:tr:obe:other:idol|idol]], [[:tr:obe:kt:demon|demon, evil spirit, unclean spirit]], image, graven image other)
+(See also: [[tr:obe:kt:god]],[[tr:obe:kt:demon]],[[tr:obe:kt:god|tanrı]],[[tr:obe:kt:demon|cin, kötü ruh]])
 
 ===== Bible References: =====
 

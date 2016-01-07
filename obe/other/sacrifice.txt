@@ -8,7 +8,7 @@
   * Sunuların adları neyin ve ne amaçla sunulmasına bağlıydı.
   * Sadece Tanrı’nın kâmil, günahsız Oğlu İsa’nın kurbanı insanları tamamen günahtan temizleyebilir. Hayvan kurbanları bunu asla yapamazdı.
 
-(See also: [[:tr:obe:kt:priest|priest]], [[:tr:obe:other:altar|altar]], [[:tr:obe:other:burntoffering]], [[:tr:obe:other:sinoffering]], [[:tr:obe:other:drinkoffering]])
+(See also: [[tr:obe:kt:priest]],[[tr:obe:other:altar]],[[tr:obe:kt:priest|kâhin]],[[tr:obe:other:altar|sunak]],[[tr:obe:other:burntoffering]],[[tr:obe:other:sinoffering]],[[tr:obe:other:drinkoffering]])
 
 ===== Bible References: =====
 

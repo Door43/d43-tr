@@ -12,7 +12,7 @@
   * «İmanlı» sözcüğünün diğer çeviri seçenekleri «İsa’nın takipçisi» ya da «İsa’yı tanıyan ve O’na itaat eden insan» olabilir.
   * «İmanlı», Mesih’e iman eden herkese ait genel bir terimdir, «öğrenci» ve «havari» ise İsa’yı yeryüzünde iken tanıyan insanlar anlamında daha somut olarak kullanılan terimlerdir. Bunları ayırmak için değişik bir şekilde çevirmek iyidir.
 
-(See also: [[:tr:obe:kt:believe|believe, believe in]], [[:tr:obe:kt:christian|Christian]], [[:tr:obe:kt:disciple|disciple]])
+(See also: [[tr:obe:kt:believe]],[[tr:obe:kt:christian]],[[tr:obe:kt:disciple]],[[tr:obe:kt:believe|inanmak, iman etmek]],[[tr:obe:kt:christian|hristiyan]],[[tr:obe:kt:disciple|öğrenci]])
 
 ===== Bible References: =====
 

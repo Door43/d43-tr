@@ -7,9 +7,7 @@ Pilatus, İsa’yı ölüme mahkûm eden Roma valisiydi.
   * Yahudi din alimleri Pilatus’un İsa’yı çarmıha germesini istiyorlardı; dolayısıyla yalan söyleyip İsa’nın suçlu olduğunu iddia ettiler.
   * Pilatus İsa’nın suçlu olmadığını anladı, ama kalabalıktan korktuğu için askerlerine İsa’yı çarmıha germe emrini verdi.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
-
-(See also: [[rome|Rome, Roman]], [[en:obe:kt:crucify|crucify]], [[en:obe:kt:guilt|guilt, guilty]], [[governor]])
+(See also: [[tr:obe:other:rome]],[[tr:obe:kt:crucify]],[[tr:obe:kt:guilt]],[[tr:obe:kt:crucify|çarmıha germek]],[[tr:obe:kt:guilt|suç, suçlu]],[[tr:obe:other:governor]])
 
 ===== Bible References: =====
 

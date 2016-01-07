@@ -14,7 +14,7 @@
   * Bağlama dayalı olarak, «yargılamak» sözcüğünün diğer çeviri yolları şunlar olabilir: «karar vermek», «mahkûm etmek», «cezalandırmak» ya da «emir vermek.»
   * «Yargı» terimi «ceza», «karar», «hüküm» ya da «mahkûmiyet» olarak çevrilebilir.
 
-(See also: [[:tr:obe:kt:justice]], [[:tr:obe:other:judgeposition]], [[:tr:obe:other:law]], [[:tr:obe:kt:LawofMoses]])
+(See also: [[tr:obe:kt:justice]],[[tr:obe:kt:lawofmoses]])
 
 ===== Bible References: =====
 

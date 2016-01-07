@@ -14,9 +14,7 @@ Tanrı’nın Oğlu, dünyayı kurtarmak ve hükümranlık etmek için insan ola
   * «Oğul» sözünü, bu dilde beşeri bir babanın «oğlu» için doğal olarak kullanılan bir kelimeyle çevirmek en iyi olur.
   * «Oğul»u çevirmek için kullandığınız sözcüğün «baba»yı çevirmek için kullandığınız sözcüğe uygun olmasına ve bu sözcüklerin gerçek baba-oğul ilişkisini belirten en doğal kelimeler olmasına dikkat edin.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
-
-(See also: [[en:obe:kt:jesus]], [[en:obe:kt:christ]], [[:tr:obe:kt:son]], [[en:obe:kt:god]], [[en:obe:kt:godthefather]], [[:tr:obe:other:father]])
+(See also: [[tr:obe:kt:jesus]],[[tr:obe:kt:christ]],[[tr:obe:kt:god]],[[tr:obe:kt:godthefather]],[[tr:obe:kt:jesus|isa, isa mesih, mesih isa]],[[tr:obe:kt:christ|mesih]],[[tr:obe:kt:god|tanrı]],[[tr:obe:kt:godthefather|baba tanrı, semavi baba]])
 
 ===== Bible References: =====
 

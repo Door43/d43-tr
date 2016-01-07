@@ -16,9 +16,7 @@
   * Sünnetten habersiz olan kültürlerde bunun anlamının dipnotta ya da sözlükte açıklanması zorunlu olabilir.
   * Bunu çevirmek için kullandığınız terimin kadınlara ait olmamasına dikkat edin. Bunu «erkek» anlamını içeren bir söz ya da ifade ile çevirmek lazım olabilir.
 
-(See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
-
-(See also: [[:tr:obe:kt:uncircumcised]], [[:tr:obe:kt:covenant]])
+(See also: [[tr:obe:kt:uncircumcised]],[[tr:obe:kt:covenant]])
 
 ===== Bible References: =====
 

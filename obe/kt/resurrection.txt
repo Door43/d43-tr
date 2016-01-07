@@ -12,7 +12,7 @@
   * «Diriliş» sözcüğü ayrıca «hayata dönüş» ya da «ölü durumdan sonra diri duruma dönme» olarak çevrilebilir.
   * Bu sözcüğün gerçek anlamı «kalkma» ya da «(ölü durumdan) kaldırılma eylemi»dir. Bu terimin başka mümkün çeviri yolları da bulunabilir.
 
-(See also: [[:tr:obe:kt:life|life, live, living, alive]], [[:tr:obe:kt:death|death, die, dead]], [[:tr:obe:kt:raise|raise, rise, risen]])
+(See also: [[tr:obe:kt:life]],[[tr:obe:kt:death]],[[tr:obe:kt:raise]],[[tr:obe:kt:life|hayat, yaşam, yaşamak, yaşayan, diri, canlı]],[[tr:obe:kt:death|ölüm, ölmek, ölü]],[[tr:obe:kt:raise|diriltmek, dirilmek, diriliş]])
 
 ===== Bible References: =====
 

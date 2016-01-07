@@ -12,7 +12,7 @@
   * Başka çeviri yolları şunlar olabilir: «iyi değil», «doğru değil», «vicdansız.»
   * Bu terimi çevirirken kullandığınız sözcük ya da ifadelerin hedef dilde bağlama doğal olarak uygun olmasına dikkat edin.
 
-(See also: [[:tr:obe:other:disobey|disobey, disobedient]], [[:tr:obe:kt:sin|sin, sinful, sinner]], [[:tr:obe:kt:good|good, goodness]], [[:tr:obe:kt:righteous|righteous]], demon, evil spirit, unclean spirit)
+(See also: [[tr:obe:kt:sin]],[[tr:obe:kt:good]],[[tr:obe:kt:righteous]],[[tr:obe:kt:sin|günah, günahlı, günahkâr]],[[tr:obe:kt:good|iyi, iyilik]],[[tr:obe:kt:righteous|doğru]])
 
 ===== Bible References: =====
 

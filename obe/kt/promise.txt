@@ -11,7 +11,7 @@ Vaat bir işi yerine getirmek için verilen söz ya da yemindir. Bir kişi vaatt
   * «Vaat» sözcüğü «birini bir şey yapacağına inandırmak» ya da «bir şeye adanmak» şeklinde çevrilebilir.
   * «Düşüncesiz bir vaatte bulunmak» ifadesi «bir konuda düşünmeden aceleyle vaatte bulunmak» olarak çevrilebilir.
 
-(See also: [[:tr:obe:kt:covenant]], [[:tr:obe:other:oath]], [[:tr:obe:kt:vow]])
+(See also: [[tr:obe:kt:covenant]],[[tr:obe:kt:vow]])
 
 ===== Bible References: =====
 

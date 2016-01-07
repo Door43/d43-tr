@@ -14,7 +14,7 @@
   * Bu terimi sadece ayrı ayrı gruplara mensup olanları değil İsa’ya iman eden herkesi belirten bir terimle çevirmeye dikkat edin.
   * Ayrıca Kutsal Kitap’ın halk diline veya devlet diline çevirisinde bu terimin nasıl çevrildiğine bakın.
 
-(See also: [[:tr:obe:kt:church|church, Church]], [[:tr:obe:kt:disciple|disciple]], [[:tr:obe:kt:believer|believer]], [[:tr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]], [[:tr:obe:kt:sonofgod|Son of God, the Son]], Christ, Messiah other)
+(See also: [[tr:obe:kt:church]],[[tr:obe:kt:disciple]],[[tr:obe:kt:believer]],[[tr:obe:kt:jesus]],[[tr:obe:kt:sonofgod]],[[tr:obe:kt:church|kilise, kilise]],[[tr:obe:kt:disciple|öğrenci]],[[tr:obe:kt:believer|imanlı]],[[tr:obe:kt:jesus|isa, isa mesih, mesih isa]],[[tr:obe:kt:sonofgod|tanrı’nın oğlu, oğul]])
 
 ===== Bible References: =====
 

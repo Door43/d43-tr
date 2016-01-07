@@ -17,8 +17,6 @@
   * Bağlama dayalı olarak, «Musa’nun Yasası» ayrıca «Musa’nun yazdığı yasa», «Musa’nın yazdığı kitaplar» ya da «Tanrı’nın Musa’ya İsraillilere vermesini buyurduğu yasalar» şeklinde çevrilebilir.
   * «Yasa» terimi ayrıca «Tanrı’nın emirleri», «Tanrı’nın buyurduğu her şey» ya da «Tanrı’nın kuralları» olarak da çevrilebilir.
 
-(See also: [[:tr:obe:other:moses|Moses]], [[:tr:obe:other:tencommandments|Ten Commandments]], [[:tr:obe:other:lawful|lawful]])
-
 ===== Bible References: =====
 
 {{topic>:en:bible?lawofmoses&nocomments}}

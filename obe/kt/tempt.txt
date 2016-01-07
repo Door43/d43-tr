@@ -14,7 +14,7 @@ Birini ayartmak demek, onu baştan çıkarmak, ona yanlış bir iş yaptırmak d
   * Bazı bağlamlarda «ayartmak» yerine «denemek» sözcüğünün kullanılması gerekir.
   * «Ayartı» sözcüğü şöyle çevrilebilir: «ayartıcı şeyler», «birini günaha sürükleyen şeyler» ya da «yanlış bir şey yapma arzusuna sebep olan şeyler.»
 
-(See also: [[:tr:obe:kt:sin|sin, sinful, sinner, sinning]], [[:tr:obe:other:disobey|disobey, disobedient]], [[:tr:obe:kt:satan|Satan, devil, evil one]])
+(See also: [[tr:obe:kt:sin]],[[tr:obe:kt:satan]],[[tr:obe:kt:sin|günah, günahlı, günahkâr]],[[tr:obe:kt:satan|şeytan, iblis, kötü olan]])
 
 ===== Bible References: =====
 

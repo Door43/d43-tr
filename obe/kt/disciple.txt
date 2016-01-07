@@ -15,7 +15,7 @@
   * Bu terimin çevirisinin sadece bir dershanede ya da okulda eğitim alan öğrenciye ait olmamasına dikkat edin.
   * Bu terimin çevirisi «havari» teriminin çevirisinden farklı olmalı.
 
-(See also: [[en:obe:kt:apostle]], [[en:obe:kt:believer]], [[:tr:obe:kt:jesus]], [[:En:obe:other:johnthebaptist]])
+(See also: [[tr:obe:kt:apostle]],[[tr:obe:kt:believer]],[[tr:obe:kt:jesus]])
 
 ===== Bible References: =====
 
