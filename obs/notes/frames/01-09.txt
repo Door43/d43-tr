@@ -7,15 +7,13 @@ Then **God** said, “**Let us** make human beings **in our image** to be **like
 
 ===== Important Terms: =====
 
-
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-
+  * **[[:tr:obe:kt:god]]**
 
 ==== Translation Notes: ====
 
 
-  * **Yaratalım** - Bu söz Tanrı’nın insanı belirli maksat için yarattığı kasıtlı, iradeli kararını belirtiyor ve «yaratacağız» şeklinde de çevrilebilir.
-  * **...imizde...imize...alım** - Kutsal Kitap tek Tanrı’nın varlığını öğretiyor, fakat Eski Ahit’te kullanılan «Tanrı» kelimesi çoğuldur ve Tanrı kendinden söz ederken çoğul zamirleri kullanıyor. Bazıları bunu Tanrı’nın yüceliğinin özel bir ifade biçimi olarak algılıyorlar, diğerleri ise bunda tek Tanrı olan Baba, Oğul ve Kutsal Ruh üçlemesini görüyor ve böyle ayetleri Baba Tanrı’nın Oğul’a ve Ruh’a seslenmesi olarak algılıyorlar.
+  * **Yaratalım** - Bu söz Tanrı’nın insanı belirli maksat için yarattığı kasıtlı, iradeli kararını belirtiyor ve "yaratacağız" şeklinde de çevrilebilir.
+  * **...imizde...imize...alım** - Kutsal Kitap tek Tanrı’nın varlığını öğretiyor, fakat Eski Ahit’te kullanılan "Tanrı" kelimesi çoğuldur ve Tanrı kendinden söz ederken çoğul zamirleri kullanıyor. Bazıları bunu Tanrı’nın yüceliğinin özel bir ifade biçimi olarak algılıyorlar, diğerleri ise bunda tek Tanrı olan Baba, Oğul ve Kutsal Ruh üçlemesini görüyor ve böyle ayetleri Baba Tanrı’nın Oğul’a ve Ruh’a seslenmesi olarak algılıyorlar.
   * **suretimizde** - Suret bir kimsenin veya bir şeyin fiziksel timsalidir. İnsanlar Tanrı’nın bazı vasıflarını veya niteliklerini gösterecek ya da yansıtacak şekilde yaratıldılar.
   * **kendimize benzer** - İnsanlar Tanrı’nın bazı özelliklerini paylaşıyor, ama tüm vasıflarına sahip değillerdir. Bu sözün çevirisinde şu gerçek yansıtılmalı: insan Tanrı’ya benziyor, ama O’na eşit ya da aynen O’nun gibi değildir.
   * **egemen** - Tanrı, yeryüzünden ve hayvanlardan yararlanmasını yönetme, yönlendirme ve denetleme hakkını ve yetkisini insanlara vermiştir.
