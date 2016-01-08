@@ -8,21 +8,20 @@ So **God took some dirt**, **formed it** into **a man**, and **breathed life** i
 
 ===== Important Terms: =====
 
-
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:life|life]]**
-  * **[[:tr:obs:notes:key-terms:adam|Adam]]**
+  * **[[:tr:obe:kt:god]]**
+  * **[[:tr:obe:kt:life]]**
+  * **[[:tr:obe:other:adam]]**
 
 
 ==== Translation Notes: ====
 
 
   * **çamur** - Tanrı insanı çamurdan veya toprağın kuru tozundan yaptı. Bu sözcük toprak anlamında kullanılan genel terimden farklı olmalı.
-  * **biçim verdi** - Bu söz, elleriyle bir şey yapan insanla kıyaslama yolu ile bizzat Tanrı’nın insanı biçimlendirdiğini belirtiyor. «Yaratmak»tan farklı bir sözcük kullanmaya dikkat edin. Bu, sadece sözlü emirle yarattığı başka her şeyin yaratılışından çok farklıdır.
+  * **biçim verdi** - Bu söz, elleriyle bir şey yapan insanla kıyaslama yolu ile bizzat Tanrı’nın insanı biçimlendirdiğini belirtiyor. "Yaratmak" tan farklı bir sözcük kullanmaya dikkat edin. Bu, sadece sözlü emirle yarattığı başka her şeyin yaratılışından çok farklıdır.
   * **insan** - O zaman sadece adam yaratılmıştı; kadın daha sonra değişik bir yolla yaratıldı.
   * **hayat nefesi üfürdü** - Bu söz Tanrı’nın çok kişisel, özel ve gizli işleyişini belirtiyor; Tanrı kendi hayatını Adem’in bedenine aktarmasını bir insanın nefes vermesine benzetmiştir.
   * **hayat** - Bu olayda Tanrı insana hem fiziksel hem de ruhsal hayatı üfürdü.
-  * **Adem** - Adem ismi Eski Ahit’te «adam» sözcüğü ile aynıdır ve biçimlendirdiği «çamur»u belirten sözcüğe benzer.
+  * **Adem** - Adem ismi Eski Ahit’te "adam" sözcüğü ile aynıdır ve biçimlendirdiği "çamur" u belirten sözcüğe benzer.
   * **bahçe** - Ağaç ve bitki yetiştirilen ve belirli bir amaçla -çoğunlukla yiyecek üretme ya da güzellik verme amacıyla- kullanılan yer parçası.
   * **işleyeceği** - Bahçeye emek vererek, onu yabani otlardan temizleyerek, sulayarak, ekip biçerek ona bakmak.
 **[[:tr:obs:notes:frames:01-09|<<]] | [[:tr:obs:notes:01|Up]] | [[:tr:obs:notes:frames:01-11|>>]]**
