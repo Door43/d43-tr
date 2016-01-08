@@ -8,19 +8,25 @@ Then **God** said, “Now that the human beings have become **like us by knowing
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:good|good]]**
-  * **[[:tr:obs:notes:key-terms:evil|evil]]**
-  * **[[:tr:obs:notes:key-terms:life|life]]**
-  * **[[:tr:obs:notes:key-terms:adam|Adam]]**
-  * **[[:tr:obs:notes:key-terms:eve|Eve]]**
-  * **[[:tr:obs:notes:key-terms:angel|angels]]**
+  * **[[:tr:obe:kt:god]]**
+  * **[[:tr:obe:kt:good]]**
+  * **[[:tr:obe:kt:evil]]**
+  * **[[:tr:obe:kt:life]]**
+  * **[[:tr:obe:other:adam]]**
+  * **[[:tr:obe:other:eve]]**
+  * **[[:tr:obe:kt:angel]]**
+
+
+
+
+
+
 
 
 ===== Translation Notes: =====
 
 
-  * **iyiyle kötüyü bilmekle bizim gibi** - Burada Adem’le Havva’nın Tanrı gibi olmasının yeni bir yönünden söz ediliyor. Günah işledikleri için kötülüğün bilincine varmış, kötülüğü deneyimleyebilirlerdi. Şöyle de çevirebilirsiniz: «artık iyiyle kötüyü bildikleri için...»
-  * **ağacından yiyip** - Hangi meyveyi yedikleri tam belirtilmediği için genel anlamda «ağacının meyvesini yiyip» şeklinde çevirebilirsiniz.
-  * **yaşam ağacı** - Bu, meyvesi olan gerçek bir ağaçtı. Bkz: <b>[[:en:obs:notes:frames:01-11|[01-11]]]</b>. Bu meyveyi yiyen kişi devamlı yaşar ve hiç ölmezdi.
+  * **iyiyle kötüyü bilmekle bizim gibi** - Burada Adem’le Havva’nın Tanrı gibi olmasının yeni bir yönünden söz ediliyor. Günah işledikleri için kötülüğün bilincine varmış, kötülüğü deneyimleyebilirlerdi. Şöyle de çevirebilirsiniz: "artık iyiyle kötüyü bildikleri için..."
+  * **ağacından yiyip** - Hangi meyveyi yedikleri tam belirtilmediği için genel anlamda "ağacının meyvesini yiyip" şeklinde çevirebilirsiniz.
+  * **yaşam ağacı** - Bu, meyvesi olan gerçek bir ağaçtı. Bkz: **[[:en:obs:notes:frames:01-11|[01-11]]]**. Bu meyveyi yiyen kişi devamlı yaşar ve hiç ölmezdi.
 **[[:tr:obs:notes:frames:02-11|<<]] | [[:tr:obs:notes:02|Up]] | [[:tr:obs:notes:frames:03-01|>>]]**
