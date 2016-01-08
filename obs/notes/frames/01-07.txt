@@ -8,11 +8,9 @@ On **the fifth day**, **God spoke** and **made everything that swims** in the wa
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:good|good]]**
-  * **[[:tr:obs:notes:key-terms:bless|blessed]]**
-
-
+  * **[[:tr:obe:kt:god]]**
+  * **[[:tr:obe:kt:good]]**
+  * **[[:tr:obe:kt:bless]]**
 ==== Translation Notes: ====
 
 
