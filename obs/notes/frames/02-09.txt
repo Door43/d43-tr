@@ -7,15 +7,15 @@
 
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:curse|cursed]]**
-  * **[[:tr:obs:notes:key-terms:descendant|descendant]]**
+  * **[[:tr:obe:kt:god]]**
+  * **[[:tr:obe:kt:curse]]**
+  * **[[:tr:obe:other:descendant]]**
 
 
 ===== Translation Notes: =====
 
 
-  * **sen lanetlisin** - Bu söz «seni lanetliyorum» ya da «başına büyük zarar gelecek» şeklinde çevirmek de mümkün. Büyü anlamına gelen bir söz kullanmayın.
+  * **sen lanetlisin** - Bu söz "seni lanetliyorum" ya da "başına büyük zarar gelecek" şeklinde çevirmek de mümkün. Büyü anlamına gelen bir söz kullanmayın.
   * **birbirinden nefret edecek** - Kadın yılandan, yılan kadından nefret edecekti. Kadının evlatları yılanın yavrularından ve yılanın yavruları kadının evlatlarından nefret edeceklerdi.
   * **kadının soyu** - Özel olarak soyundan gelecek bir kişiye aittir.
   * **senin başını ezecek** - Kadının soyu yılanın soyunu mahvedecek.
