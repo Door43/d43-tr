@@ -8,8 +8,9 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:noah|Noah]]**
+
+  * **[[:tr:obe:kt:god]]**
+  * **[[:tr:obe:other:noah]]**
 
 
 ===== Translation Notes: =====
