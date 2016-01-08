@@ -7,16 +7,16 @@
 
 ===== Important Terms: =====
 
+  * **[[:tr:obe:kt:god]]**
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
 
 
 ===== Translation Notes: =====
 
 
   * **Yıllar sonra** - Bu olay yaratılıştan nesiller (yüzyıllar) geçtikten sonra oldu.
-  * **son derece kötü ve zorba ** - «Kötü olup zorbaca davranışlarda bulundular» söylemek daha doğal olabilir.
-  * **Durum o kadar fenaydı ki** - «İnsanlar o kadar kötü davrandılar ki Tanrı...» şeklinde çeviri daha net olabilir.
+  * **son derece kötü ve zorba ** - "Kötü olup zorbaca davranışlarda bulundular" söylemek daha doğal olabilir.
+  * **Durum o kadar fenaydı ki** - "İnsanlar o kadar kötü davrandılar ki Tanrı..." şeklinde çeviri daha net olabilir.
   * **Tanrı... yok etmeye karar verdi** - Bu, yerin tamamen yok edildiği anlamına gelmez. Daha doğrusu, Tanrı kendisine karşı başkaldırarak bu kötülüğe ve zorbalığa neden olan insanları yok etmek niyetindeydi. Bu tufan aynı zamanda karada yaşayan hayvanların ve kuşların hepsini de yok edecekti.
   * **büyük bir tufan** - Yeryüzünün normalde kuru olan yerlerini ve hatta en yüksek dağların doruklarını bile kaplayacak çok derin sular.
 **[[:tr:obs:notes:frames:02-12|<<]] | [[:tr:obs:notes:03|Up]] | [[:tr:obs:notes:frames:03-02|>>]]**
