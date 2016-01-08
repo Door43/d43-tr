@@ -7,12 +7,13 @@
 
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:disobey|disobeyed]]**
-  * **[[:tr:obs:notes:key-terms:curse|cursed]]**
-  * **[[:tr:obs:notes:key-terms:death|die]]**
-  * **[[:tr:obs:notes:key-terms:eve|Eve]]**
-  * **[[:tr:obs:notes:key-terms:adam|Adam]]**
+ 
+  * **[[:tr:obe:kt:god]]**
+  * **[[:tr:obe:other:disobey]]**
+  * **[[:tr:obe:kt:curse]]**
+  * **[[:tr:obe:kt:death]]**
+  * **[[:tr:obe:other:eve]]**
+  * **[[:tr:obe:other:adam]]**
 
 
 ==== Translation Notes: ====
@@ -22,5 +23,5 @@
   * **öleceksin** - İtaatsizliklerinin son cezası ölümdü. Manevi ölüm Tanrı’dan ayrılmaktır. Cismani ölüm kendi bedeninden ayrılmaktır.
   * **toprağa dönecek** - Tanrı Adem’i çamurdan ya da topraktan yarattı ve ona hayat verdi. Adem’in günahı yüzünden hayatı ondan alınacak ve bedeni çürüyüp tekrar toprak olacaktı.
   * **“hayat” anlamına gelen Havva ** - Tanrı Adem’le Havva’ya hayat verdi ve bu hayat doğum vasıtasıyla her insana aktarılıyor.
-  * **bütün insanların annesiydi** - Bu, Havva’nın bütün insanların kadın ecdadı olacağı anlamına gelir. Bazı dillerde «o, bütün insanların nenesi olacak» şeklinde denebilir.
+  * **bütün insanların annesiydi** - Bu, Havva’nın bütün insanların kadın ecdadı olacağı anlamına gelir. Bazı dillerde "o, bütün insanların nenesi olacak" şeklinde denebilir.
 **[[:tr:obs:notes:frames:02-10|<<]] | [[:tr:obs:notes:02|Up]] | [[:tr:obs:notes:frames:02-12|>>]]**
