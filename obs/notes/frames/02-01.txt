@@ -8,15 +8,15 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:adam|Adam]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:sin|sin]]**
+  * **[[:tr:obe:other:adam]]**
+  * **[[:tr:obe:kt:god]]**
+  * **[[:tr:obe:kt:sin]]**
 
 
 ==== Translation Notes: ====
 
 
-  * **bahçe** - Tanrı’nın Adem’le Havva’nın zevk alacağı ve meyvelerini yiyeceği özel ağaç ve bitkilerin yetiştirildiği yer. Şurada kullanılan sözcüğün aynısı olmalı <b>[[:en:obs:notes:frames:01-11|[01-11]]]</b>. Bu sözü orada nasıl çevirdiğinizi yoklayın.
-  * **Tanrı’yla konuşurlardı** - Burada «konuşmak» sözü insanlarla sohbete ilişkin kullanılan sözün aynısı olmalı. Metinde adamla kadının Tanrı’yla yüz yüze konuştukları belirtildiği için Tanrı fiziksel bir surette gelip onlarla konuşuyor olabilirdi.
+  * **bahçe** - Tanrı’nın Adem’le Havva’nın zevk alacağı ve meyvelerini yiyeceği özel ağaç ve bitkilerin yetiştirildiği yer. Şurada kullanılan sözcüğün aynısı olmalı **[[:en:obs:notes:frames:01-11|[01-11]]]**. Bu sözü orada nasıl çevirdiğinizi yoklayın.
+  * **Tanrı’yla konuşurlardı** - Burada "konuşmak" sözü insanlarla sohbete ilişkin kullanılan sözün aynısı olmalı. Metinde adamla kadının Tanrı’yla yüz yüze konuştukları belirtildiği için Tanrı fiziksel bir surette gelip onlarla konuşuyor olabilirdi.
   * **utanma** - Günah işlediğimizi ve belirli eksikliğimizi bilmekten kaynaklanan duygu.
 **[[:tr:obs:notes:frames:01-16|<<]] | [[:tr:obs:notes:02|Up]] | [[:tr:obs:notes:frames:02-02|>>]]**
