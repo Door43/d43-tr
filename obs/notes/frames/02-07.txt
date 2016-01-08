@@ -8,8 +8,8 @@ Then the man and his wife heard the sound of **God walking** through the garden.
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:adam|Adam]]**
+  * **[[:tr:obe:kt:god]]**
+  * **[[:tr:obe:other:adam]]**
 
 
 ==== Translation Notes: ====
