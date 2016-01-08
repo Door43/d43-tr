@@ -8,11 +8,11 @@ The snake responded to the woman, “That is not **true**! You will not **die**.
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:true|true]]**
-  * **[[:tr:obs:notes:key-terms:death|die]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:good|good]]**
-  * **[[:tr:obs:notes:key-terms:evil|evil]]**
+  * **[[:tr:obe:kt:true]]**
+  * **[[:tr:obe:kt:death]]**
+  * **[[:tr:obe:kt:god]]**
+  * **[[:tr:obe:kt:good]]**
+  * **[[:tr:obe:kt:evil]]**
 
 
 ==== Translation Notes: ====
