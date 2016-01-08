@@ -8,9 +8,9 @@ When **the seventh day** came, **God** had **finished his work**. So **God reste
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:bless|blessed]]**
-  * **[[:tr:obs:notes:key-terms:holy|holy]]**
+  * **[[:tr:obe:kt:god]]**
+  * **[[:tr:obe:kt:bless]]**
+  * **[[:tr:obe:kt:holy]]**
 
 
 ==== Translation Notes: ====
@@ -18,8 +18,8 @@ When **the seventh day** came, **God** had **finished his work**. So **God reste
 
   * **yedinci gün** - Yaratılışın altı gününden sonraki gün.
   * **işlerini bitirmişti** - Tanrı özellikle yaratma işini bitirmişti. Başka işlerini ise sürdürüyor.
-  * **Tanrı dinlendi** - Tanrı, yaratılışı bitirdiği için işini durdurduğu anlamında «dinlendi». Yorulduğu ya da işi sürdürmeye gücü kalmadığı anlamında değil.
+  * **Tanrı dinlendi** - Tanrı, yaratılışı bitirdiği için işini durdurduğu anlamında "dinlendi". Yorulduğu ya da işi sürdürmeye gücü kalmadığı anlamında değil.
   * **yedinci günü kutsadı** - Tanrı’nın o yedinci gün ve ondan sonraki her yedinci gün için özel olumlu bir planı vardı.
-  * **kutsal bir gün oldu** - Yani Tanrı o günü özel bir gün olarak «ayırdı». Böylece o gün haftanın öbür altı gün gibi kullanılmamalıydı.
+  * **kutsal bir gün oldu** - Yani Tanrı o günü özel bir gün olarak "ayırdı". Böylece o gün haftanın öbür altı gün gibi kullanılmamalıydı.
   * **evren** - Buna Tanrı’nın gökte ve yerde yarattığı görülen ve görülmeyen her şey dahildir.
 **[[:tr:obs:notes:frames:01-15|<<]] | [[:tr:obs:notes:01|Up]] | [[:tr:obs:notes:frames:02-01|>>]]**
