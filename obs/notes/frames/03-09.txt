@@ -11,9 +11,8 @@ After **the rains stopped**, the boat floated on the water for five months, and 
 
 ===== Translation Notes: =====
 
-
-  * **Yağmur kesildikten** - «Yağmur durduktan», «yağmur bittikten» şeklinde çevrilebilir.
-  * **gemi... oturdu** - Yağmurdan dağları kaplayacak kadar çok su gelmişti. Gemi dağların üzerinde yüzdü ve sular çekilmeye başlayınca gemi de suyun üzerinde aşağı inip bir dağın doruğuna oturdu.
-  * **Üç ay daha** - Sonraki üç ay boyunca su çekilmeye devam etti.
-  * **dağların dorukları göründü** - Ya da «belirdi», «gözüktü», «görünmesi mümkün oldu». Belki de şöyle daha net olur: «Üç ay sonra su yeterince çekilmişti ki, Nuh’la ailesi dağların doruklarını açıkça görebiliyorlardı.»
+  * **Yağmur kesildikten**  - "Yağmur durduktan", "yağmur bittikten" şeklinde çevrilebilir.
+  * **gemi… oturdu**  - Yağmurdan dağları kaplayacak kadar çok su gelmişti. Gemi dağların üzerinde yüzdü ve sular çekilmeye başlayınca gemi de suyun üzerinde aşağı inip bir dağın doruğuna oturdu.
+  * **Üç ay daha**  - Sonraki üç ay boyunca su çekilmeye devam etti.
+  * **dağların dorukları göründü**  - Ya da "belirdi", "gözükt", "görünmesi mümkün oldu". Belki de şöyle daha net olur: "Üç ay sonra su yeterince çekilmişti ki, Nuh’la ailesi dağların doruklarını açıkça görebiliyorlardı."
 **[[:tr:obs:notes:frames:03-08|<<]] | [[:tr:obs:notes:03|Up]] | [[:tr:obs:notes:frames:03-10|>>]]**
