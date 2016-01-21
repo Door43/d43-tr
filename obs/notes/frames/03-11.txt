@@ -6,6 +6,5 @@ Later, **Noah** sent out a bird called a **dove**. But it also could not find an
 
 ===== Important Terms: =====
 
-  * **[[:tr/obe/other/noah]]**
+  * **[[:tr:obe:other:noah]]**
 
-__false__
