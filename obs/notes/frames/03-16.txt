@@ -8,8 +8,8 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:promise|promise]]**
+  * **[[:tr:obe:kt:god]]**
+  * **[[:tr:obe:kt:promise]]**
 
 
 ===== Translation Notes: =====
