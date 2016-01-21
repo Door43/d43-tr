@@ -16,11 +16,10 @@
 
 ===== Translation Notes: =====
 
-
-  * **Üstünden yüzyıllar geçmişti** - Bu şöyle çevrilebilir: «İnsanlar Babil’de değişik dil gruplarına bölündükten nesiller sonra» ya da «Bu olaydan uzun süre geçmişti.»
-  * **Ülkeni... bırak ** - Ülkeyle Avram’ın doğduğu ve büyüdüğü bölge (Ortadoğu’da «Ur» adında yer) kastediliyor. Bu, «doğduğun bölge», «vatanın» ya da buna benzer bir söz ile çevrilebilir.
-  * **aileni bırak** - Tanrı Avram’ı akrabalarının çoğunu bırakmaya çağırıyordu. Fakat Tanrı Avram’a sorumlu olduğu kişileri, özellikle eşini bırakmasını buyurmamıştı.
-  * **seni... büyük bir millet yapacağım** - Tanrı Avram’a çok nesil verecek ve onlar büyük ve önemli millet ya da ülke olacaklar.
-  * **ismini ünlendireceğim** - Bu demektir ki, Avram’ın ismi ve ailesi bütün dünyada ünlü olacak ve insanlar onlar hakkında iyi düşünecekler.
-  * **yeryüzündeki bütün halklar** - Avram’ın Tanrı’yı izleyeceğine dair kararı sadece kendi ailesini değil yeryüzündeki her etnik grubundan olan aileleri de etkileyecek.
+  * **Üstünden yüzyıllar geçmişti**  - Bu şöyle çevrilebilir: "İnsanlar Babil’de değişik dil gruplarına bölündükten nesiller sonra" ya da "Bu olaydan uzun süre geçmişti."
+  * **Ülkeni… bırak **  - Ülkeyle Avram’ın doğduğu ve büyüdüğü bölge (Ortadoğu’da "Ur" adında yer) kastediliyor. Bu, "doğduğun bölge", "vatanın" ya da buna benzer bir söz ile çevrilebilir.
+  * **aileni bırak**  - Tanrı Avram’ı akrabalarının çoğunu bırakmaya çağırıyordu. Fakat Tanrı Avram’a sorumlu olduğu kişileri, özellikle eşini bırakmasını buyurmamıştı.
+  * **seni… büyük bir millet yapacağım**  - Tanrı Avram’a çok nesil verecek ve onlar büyük ve önemli millet ya da ülke olacaklar.
+  * **ismini ünlendireceğim**  - Bu demektir ki, Avram’ın ismi ve ailesi bütün dünyada ünlü olacak ve insanlar onlar hakkında iyi düşünecekler.
+  * **yeryüzündeki bütün halklar**  - Avram’ın Tanrı’yı izleyeceğine dair kararı sadece kendi ailesini değil yeryüzündeki her etnik grubundan olan aileleri de etkileyecek.
 **[[:tr:obs:notes:frames:04-03|<<]] | [[:tr:obs:notes:04|Up]] | [[:tr:obs:notes:frames:04-05|>>]]**
