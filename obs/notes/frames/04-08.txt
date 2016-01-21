@@ -20,7 +20,6 @@
 
 ===== Translation Notes: =====
 
-
-  * **Üstünden yıllar geçmişti** - Tanrı’nın Avram’a bir oğlu olacağını ilk defa vadettiği günden birkaç yıl geçmişti.
-  * **gökteki yıldızlar kadar** - Bu söz Avram’ın soyunun sayılamayacak kadar büyük olacağı anlamına geliyor.
+  * **Üstünden yıllar geçmişti**  - Tanrı’nın Avram’a bir oğlu olacağını ilk defa vadettiği günden birkaç yıl geçmişti.
+  * **gökteki yıldızlar kadar**  - Bu söz Avram’ın soyunun sayılamayacak kadar büyük olacağı anlamına geliyor.
 **[[:tr:obs:notes:frames:04-07|<<]] | [[:tr:obs:notes:04|Up]] | [[:tr:obs:notes:frames:04-09|>>]]**
