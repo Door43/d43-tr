@@ -17,9 +17,8 @@
 
 ===== Translation Notes: =====
 
-
-  * **asla** - Bu, «bir daha hiçbir zaman» ya da «gerçekten artık hiçbir zaman» anlamına gelir. Örneğin: «Bir daha hiçbir zaman toprağı lanetlemeyeceğim» ya da «Gerçekten artık hiçbir zaman toprağı lanetlemeyeceğim.»
-  * **toprağı... lanetlemeyeceğim** - Yeryüzü ve başka yaratıklar adamın günahından zarar gördüler.
-  * **dünya** - Yeryüzü ve orada yaşayan canlılar kastediliyor.
-  * **insanlar genç yaşlarından günahlı olsalar da** - Bunu söylemenin başka bir yolu şu: «insanlar ömür boyunca günah işliyorlar.»
+  * **asla**  - Bu, "bir daha hiçbir zaman" ya da "gerçekten artık hiçbir zaman" anlamına gelir. Örneğin: "Bir daha hiçbir zaman toprağı lanetlemeyeceğim" ya da "Gerçekten artık hiçbir zaman toprağı lanetlemeyeceğim."
+  * **toprağı… lanetlemeyeceğim**  - Yeryüzü ve başka yaratıklar adamın günahından zarar gördüler.
+  * **dünya**  - Yeryüzü ve orada yaşayan canlılar kastediliyor.
+  * **insanlar genç yaşlarından günahlı olsalar da**  - Bunu söylemenin başka bir yolu şu: "insanlar ömür boyunca günah işliyorlar."
 **[[:tr:obs:notes:frames:03-14|<<]] | [[:tr:obs:notes:03|Up]] | [[:tr:obs:notes:frames:03-16|>>]]**
