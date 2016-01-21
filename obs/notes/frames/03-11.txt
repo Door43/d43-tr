@@ -6,9 +6,4 @@ Later, **Noah** sent out a bird called a **dove**. But it also could not find an
 ===== Important Terms: =====
 
   * **[[:tr:obs:notes:key-terms:noah|Noah]]**
-===== Translation Notes: =====
-
-  * **güvercin** - Tohum ya da meyve yiyen beyaz veya gri renkte küçük bir kuş.
-  * **zeytin dalı** - Zeytin ağacının ürünü, insanların yemek pişirdikleri veya derilerine uyguladıkları yağ içerir. Dilinizde «zeytin dalı» sözü yoksa bunu «‹zeytin› adında bir ağacın dalı» veya «zeytin ağacının dalı» olarak da çevirebilirsiniz.
-  * **sular çekilmiş** - Sizin dilinizde «sular alçalmış» ya da «suyun seviyesi aşağı inmiş» söylemek daha çok doğal olabilir.
-**[[:tr:obs:notes:frames:03-10|<<]] | [[:tr:obs:notes:03|Up]] | [[:tr:obs:notes:frames:03-12|>>]]**
+__false__
