@@ -13,9 +13,8 @@
 
 ===== Translation Notes: =====
 
-
-  * **Tufandan yıllar sonra** - Tufan bittikten sonra çok nesil gelip gitmişti.
-  * **insanlar yine çoğalmışlardı** - Nuh’un ailesi bir kent dolduracak kadar çoğalmıştı.
-  * **aynı dil** - Yani sadece tek dil vardı ve herkes birbirini anlayabiliyordu.
-  * **kent** - Metinde özel bir isim belirtilmediği için genel anlamda «kent» sözcüğünü kullanmak iyidir.
+  * **Tufandan yıllar sonra**  - Tufan bittikten sonra çok nesil gelip gitmişti.
+  * **insanlar yine çoğalmışlardı**  - Nuh’un ailesi bir kent dolduracak kadar çoğalmıştı.
+  * **aynı dil**  - Yani sadece tek dil vardı ve herkes birbirini anlayabiliyordu.
+  * **kent**  - Metinde özel bir isim belirtilmediği için genel anlamda "kent" sözcüğünü kullanmak iyidir.
 **[[:tr:obs:notes:frames:03-16|<<]] | [[:tr:obs:notes:04|Up]] | [[:tr:obs:notes:frames:04-02|>>]]**
