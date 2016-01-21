@@ -8,11 +8,11 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:promise|promise]]**
-  * **[[:tr:obs:notes:key-terms:curse|curse]]**
-  * **[[:tr:obs:notes:key-terms:evil|evil]]**
-  * **[[:tr:obs:notes:key-terms:sin|sinful]]**
+  * **[[:tr:obe:kt:god]]**
+  * **[[:tr:obe:kt:promise]]**
+  * **[[:tr:obe:kt:curse]]**
+  * **[[:tr:obe:kt:evil]]**
+  * **[[:tr:obe:kt:sin]]**
 
 
 ===== Translation Notes: =====
