@@ -7,12 +7,12 @@ Ten years after **Abram** and **Sarai** arrived in **Canaan**, **they still did 
 
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms:abraham|Abram]]**
-  * **[[:tr:obs:notes:key-terms:sarah|Sarai]]**
-  * **[[:tr:obs:notes:key-terms:canaan|Canaan]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:servant|servant]]**
-  * **[[:tr:obs:notes:key-terms:hagar|Hagar]]**
+  * **[[:tr:obe:other:abraham]]**
+  * **[[:tr:obe:other:sarah]]**
+  * **[[:ttr:obe:other:Canaan]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:servant]]**
+  * **[[:tr:obe:other:Hagar]]**
 
 ===== Translation Notes: =====
 
