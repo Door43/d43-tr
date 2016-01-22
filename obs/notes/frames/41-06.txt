@@ -5,12 +5,12 @@
 Then the **angel** told the women, “Go and tell the **disciples**, '**Jesus** has **risen** from the dead and **he will go to Galilee ahead of you**.'”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/angel|angel]]**
-  * **[[:tr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/raise|risen]]**
-  * **[[:tr:obs:notes:key-terms/death|dead]]**
-  * **[[:tr:obs:notes:key-terms/galilee|Galilee]]**
+  * **[[:tr:obe:kt:angel]]**
+  * **[[:tr:obe:kt:disciple]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:raise]]**
+  * **[[:tr:obe:kt:death]]**
+  * **[[:tr:obe:other:Galilee]]**
 
 
 ===== Translation Notes: =====
