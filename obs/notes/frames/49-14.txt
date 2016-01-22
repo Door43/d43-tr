@@ -8,7 +8,7 @@
 
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/messiah|Messiah]]**  
+  * **[[:tr:obe:kt:Christ]]**  
   * **[[:tr:obe:kt:Jesus]]**
   * **[[:tr:obe:kt:believe]]**
   * **[[:tr:obe:kt:baptize]]**
