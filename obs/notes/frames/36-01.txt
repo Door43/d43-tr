@@ -5,11 +5,12 @@
 One day, **Jesus** took three of his **disciples**, **Peter**, **James**, and **John**, with him. (The disciple named John was not the same person who **baptized** Jesus.) They went up on a high mountain by themselves to pray.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms:jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms:disciple|disciples]]**
-  * **[[:tr:obs:notes:key-terms:peter|Peter]]**
-  * **[[:tr:obs:notes:key-terms:john|John]]**
-  * **[[:tr:obs:notes:key-terms:baptize|baptized]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:disciple]]**
+  * **[[:tr:obe:other:Peter]]**
+  * **[[:tr:obe:other:JohntheApostle]]**
+  * **[[:tr:obe:kt:baptize]]**
+
 ===== Translation Notes: =====
 
   * **Bir gün** - Bu sözle geçmişte olup bitmiş olay anlatılmaya başlanıyor, fakat tam zamanı belirtilmiyor. Çok dilde gerçek olayı anlatmaya başlamanın benzer yolları vardır.
