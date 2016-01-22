@@ -5,12 +5,12 @@
 **Jesus** went to the town of **Nazareth** where he had lived during his childhood. On the **Sabbath**, he went to the **place of worship**. They handed him the **scroll of the prophet Isaiah** so that he would read from it. Jesus **opened up the scroll** and read part of it to the people.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/nazareth|Nazareth]]**
-  * **[[:tr:obs:notes:key-terms/sabbath|Sabbath]]**
-  * **[[:tr:obs:notes:key-terms/worship|worship]]**
-  * **[[:tr:obs:notes:key-terms/prophet|prophet]]**
-  * **[[:tr:obs:notes:key-terms/isaiah|Isaiah]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:other:Nazareth]]**
+  * **[[:tr:obe:kt:Sabbath]]**
+  * **[[:tr:obe:kt:worship]]**
+  * **[[:tr:obe:kt:prophet]]**
+  * **[[:tr:obe:other:Isaiah]]**
 
 
 ===== Translation Notes: =====
