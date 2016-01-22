@@ -5,18 +5,17 @@
 The **high priest** asked Stephen, “**Are these things true**?” Stephen replied by reminding them of many of the great things **God** had done from the time of **Abraham** to the time of **Jesus**, and how God's people continually **disobeyed** him. Then he said, “You stubborn and **rebellious** people **always reject the Holy Spirit**, just as **your ancestors** always rejected God and killed his **prophets**. But you did something worse than they did! You killed the **Messiah**!”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:tr:obs:notes:key-terms/true|true]]**
-  * **[[:tr:obs:notes:key-terms/god|God]]**
-  * **[[:tr:obs:notes:key-terms/abraham|Abraham]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/disobey|disobeyed]]**
-  * **[[:tr:obs:notes:key-terms/rebel|rebellious]]**
-  * **[[:tr:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:tr:obs:notes:key-terms/prophet|prophets]]**
   * **[[:tr:obs:notes:key-terms/messiah|Messiah]]**
-
-
+  * **[[:tr:obe:kt:highpriest]]**
+  * **[[:tr:obe:kt:true]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:Abraham]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:other:disobey]]**
+  * **[[:tr:obe:other:rebel]]**
+  * **[[:tr:obe:kt:HolySpirit]]**
+  * **[[:tr:obe:kt:prophet]]**
+  
 ===== Translation Notes: =====
 
   * **Bunlar doğru mu?** - Yani «Bu suçlamalar doğru mudur?» ya da «Bu insanların sizin hakkınızda söyledikleri doğru mudur?» ya da «Musa ve Tanrı hakkında kötü şeyler söylediğiniz doğru mudur?»
