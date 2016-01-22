@@ -6,10 +6,10 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms/satan|Satan]]**
-  * **[[:tr:obs:notes:key-terms/tempt|tempted]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/god-son|Son of God]]**
+  * **[[:tr:obe:kt:Satan]]**
+  * **[[:tr:obe:kt:tempt]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:SonofGod]]**
 
 
 ===== Translation Notes: =====
