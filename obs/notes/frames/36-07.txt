@@ -5,10 +5,10 @@
 **Jesus** and the three **disciples** went back down the mountain. Then Jesus said to them, “Do not tell anyone yet about what happened here. I will soon **die** and then come back to **life**. After that, you may tell people.”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:tr:obs:notes:key-terms/death|die]]**
-  * **[[:tr:obs:notes:key-terms/life|life]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:disciple]]**
+  * **[[:tr:obe:kt:death]]**
+  * **[[:tr:obe:kt:life]]**
 
 
 ===== Translation Notes: =====
