@@ -7,11 +7,11 @@
 
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/god|God]]**
-  * **[[:tr:obs:notes:key-terms/love|loves]]**
-  * **[[:tr:obs:notes:key-terms/sin|sinners]]**
-  * **[[:tr:obs:notes:key-terms/forgive|forgive]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:love]]**
+  * **[[:tr:obe:kt:sin]]**
+  * **[[:tr:obe:kt:forgive]]**
 
 
 ===== Translation Notes: =====
