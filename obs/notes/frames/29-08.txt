@@ -5,11 +5,11 @@
 “The **king called the servant** and said, ‘You wicked servant! I **forgave** your debt because you **begged me**. **You should have done the same**.’ The king was so angry that he **threw** the **wicked** servant into prison until he could pay back all of his debt.”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/king|king]]**
-  * **[[:tr:obs:notes:key-terms/servant|servant]]**
-  * **[[:tr:obs:notes:key-terms/forgive|forgave]]**
-  * **[[:tr:obs:notes:key-terms/beg|begged]]**
-  * **[[:tr:obs:notes:key-terms/evil|wicked]]**
+  * **[[:tr:obe:other:king]]**
+  * **[[:tr:obe:other:servant]]**
+  * **[[:tr:obe:kt:forgive]]**
+  * **[[:tr:obe:other:beg]]**
+  * **[[:tr:obe:kt:evil]]**
 
 
 ===== Translation Notes: =====
