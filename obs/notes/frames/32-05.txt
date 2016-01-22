@@ -5,8 +5,8 @@
 When the man came to **Jesus**, he **fell on his knees** in front of him. Jesus said to the **demon**, “Come out of this man!”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/demon|demon]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:demon]]**
 
 
 ===== Translation Notes: =====
