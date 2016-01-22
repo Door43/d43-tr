@@ -4,14 +4,13 @@
 
 **Paul** and other **Christian** leaders traveled to many cities, **preaching** and teaching people the **good news** about **Jesus**. They also wrote **many letters** to encourage and teach the **believers** in the **churches**. Some of these letters became books of the Bible.
 ===== Important Terms: =====
-
-  * **[[:tr:obs:notes:key-terms/paul|Paul]]**
-  * **[[:tr:obs:notes:key-terms/christian|Christian]]**
-  * **[[:tr:obs:notes:key-terms/preach|preaching]]**
-  * **[[:tr:obs:notes:key-terms/good-news|good news]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/believer|believers]]**
-  * **[[:tr:obs:notes:key-terms/church|churches]]**
+  * **[[:tr:obe:other:Paul]]**
+  * **[[:tr:obe:kt:Christian]]**
+  * **[[:tr:obe:other:preach]]**
+  * **[[:tr:obe:kt:goodnews]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:believer]]**
+  * **[[:tr:obe:kt:church]]**
 
 
 ===== Translation Notes: =====
