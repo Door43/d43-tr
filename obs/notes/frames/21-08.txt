@@ -7,11 +7,11 @@ A **king** is someone who rules over a **kingdom** and **judges** the people. Th
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:king|king]]**
-  * **[[:tr:obs:notes:key-terms:kingdom|kingdom]]**
-  * **[[:tr:obs:notes:key-terms:judge|judges]]**
-  * **[[:tr:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:tr:obs:notes:key-terms:david|David]]**
+  * **[[:tr:obe:other:king]]**
+  * **[[:tr:obe:other:kingdom]]**
+  * **[[:tr:obe:kt:judge]]**
+  * **[[:tr:obe:kt:Christ]]**
+  * **[[:tr:obe:other:David]]**
 
 
 ==== Translation Notes: ====
