@@ -5,9 +5,9 @@
 “The **rocky ground is a person** who hears **God’s word** and **accepts it with joy**. But when he experiences hardship or **persecution**, he **falls away**.”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/word-of-god|God's word]]**
-  * **[[:tr:obs:notes:key-terms/joy|joy]]**
-  * **[[:tr:obs:notes:key-terms/persecute|persecution]]**
+  * **[[:tr:obe:kt:WordofGod]]**
+  * **[[:tr:obe:kt:joy]]**
+  * **[[:tr:obe:other:persecute]]**
 
 
 ===== Translation Notes: =====
