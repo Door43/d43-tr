@@ -5,13 +5,13 @@
 **Jesus** did many **miracles** that prove he is **God**. He walked on water, calmed storms, **healed** many sick people, **drove out demons**, **raised the dead to life**, and turned five loaves of bread and two small fish into enough food for over 5,000 people.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/miracle|miracles]]**
-  * **[[:tr:obs:notes:key-terms/god|God]]**
-  * **[[:tr:obs:notes:key-terms/heal|healed]]**
-  * **[[:tr:obs:notes:key-terms/demon|demons]]**
-  * **[[:tr:obs:notes:key-terms/raise|raised]]**
-  * **[[:tr:obs:notes:key-terms/death|dead]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:miracle]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:heal]]**
+  * **[[:tr:obe:kt:demon]]**
+  * **[[:tr:obe:kt:raise]]**
+  * **[[:tr:obe:kt:death]]**
 
 
 ===== Translation Notes: =====
