@@ -5,9 +5,9 @@
 “Soon after that, a **Jewish priest happened to walk down** that same road. When this **religious leader** saw the man who had been robbed and beaten, he moved to the other side of the road, **ignored the man** who needed help, and **kept on going**.”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jew|Jewish]]**
-  * **[[:tr:obs:notes:key-terms/priest|priest]]**
-  * **[[:tr:obs:notes:key-terms/jewish-leaders|religious leader]]**
+  * **[[:tr:obe:other:Jew]]**
+  * **[[:tr:obe:kt:priest]]**
+  * **[[:tr:obe:other:Jewishleaders]]**
 
 
 ===== Translation Notes: =====
