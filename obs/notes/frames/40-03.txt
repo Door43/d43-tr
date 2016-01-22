@@ -5,9 +5,9 @@
 The soldiers **gambled for Jesus' clothing**. When they did this, **they fulfilled a prophecy that said**, “They divided my garments among them, and gambled for my clothing.”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus']]**
-  * **[[:tr:obs:notes:key-terms/fulfill|fulfilled]]**
-  * **[[:tr:obs:notes:key-terms/prophet|prophecy]]**
+  * **[[:tr:obe:kt:Jesus']]**
+  * **[[:tr:obe:kt:fulfill]]**
+  * **[[:tr:obe:kt:prophet]]**
 
 
 ===== Translation Notes: =====
