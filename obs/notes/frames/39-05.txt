@@ -5,11 +5,11 @@
 The **Jewish leaders** all answered the **high priest**, “He deserves to **die**!” Then **they blindfolded Jesus**, **spit on him**, hit him, and **mocked** him.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:tr:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:tr:obs:notes:key-terms/death|die]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/mock|mocked]]**
+  * **[[:tr:obe:other:Jewishleaders]]**
+  * **[[:tr:obe:kt:highpriest]]**
+  * **[[:tr:obe:kt:death]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:other:mock]]**
 
 
 ===== Translation Notes: =====
