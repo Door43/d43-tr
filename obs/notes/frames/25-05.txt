@@ -5,11 +5,11 @@
 But **Jesus** replied to **Satan** by quoting from the **scriptures**. He said, “**In God's word**, **he commands his people**, ‘**Do not test the Lord your God**.’”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/satan|Satan]]**
-  * **[[:tr:obs:notes:key-terms/word-of-god|scriptures]]**
-  * **[[:tr:obs:notes:key-terms/lord|Lord]]**
-  * **[[:tr:obs:notes:key-terms/god|God]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:Satan]]**
+  * **[[:tr:obe:kt:WordofGod]]**
+  * **[[:tr:obe:kt:Lord]]**
+  * **[[:tr:obe:kt:God]]**
 
 
 ===== Translation Notes: =====
