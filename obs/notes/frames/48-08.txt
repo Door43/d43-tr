@@ -5,16 +5,15 @@
 When **God** told **Abraham** to offer his **son**, **Isaac**, as a **sacrifice**, God provided a **lamb** for the sacrifice **instead of his son**, **Isaac**. We all **deserve to die** for our **sins**! But God provided **Jesus**, the **Lamb of God**, as a sacrifice **to die in our place**.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/god|God]]**
-  * **[[:tr:obs:notes:key-terms/abraham|Abraham]]**
-  * **[[:tr:obs:notes:key-terms/son|son]]**
-  * **[[:tr:obs:notes:key-terms/isaac|Isaac]]**
-  * **[[:tr:obs:notes:key-terms/sacrifice|sacrifice]]**
-  * **[[:tr:obs:notes:key-terms/lamb|lamb]]**
-  * **[[:tr:obs:notes:key-terms/death|die]]**
-  * **[[:tr:obs:notes:key-terms/sin|sins]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/lamb|Lamb of God]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:Abraham]]**
+  * **[[:tr:obe:kt:son]]**
+  * **[[:tr:obe:other:Isaac]]**
+  * **[[:tr:obe:other:sacrifice]]**
+  * **[[:tr:obe:kt:lamb]]**
+  * **[[:tr:obe:kt:death]]**
+  * **[[:tr:obe:kt:sin]]**
+  * **[[:tr:obe:kt:Jesus]]**
 
 
 ===== Translation Notes: =====
