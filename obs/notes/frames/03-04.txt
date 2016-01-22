@@ -15,7 +15,6 @@
 
 ===== Translation Notes: =====
 
-
-  * **Nuh insanları... uyararak** - Nuh Tanrı’nın günah yüzünden dünyayı yok edeceğini herkese söylüyordu.
-  * **Tanrı’ya dönmeye** - Bu, günahtan vazgeçip Tanrı’ya itaat etmeye başlamak anlamına gelir.
+  * **Nuh insanları… uyararak**  - Nuh Tanrı’nın günah yüzünden dünyayı yok edeceğini herkese söylüyordu.
+  * **Tanrı’ya dönmeye**  - Bu, günahtan vazgeçip Tanrı’ya itaat etmeye başlamak anlamına gelir.
 **[[:tr:obs:notes:frames:03-03|<<]] | [[:tr:obs:notes:03|Up]] | [[:tr:obs:notes:frames:03-05|>>]]**
