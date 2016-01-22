@@ -5,11 +5,11 @@
 Then **Satan** showed **Jesus** all the **kingdoms of the world** and all **their glory** and said, “**I will give you all this** if you bow down and **worship** me.”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/satan|Satan]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/kingdom|kingdoms]]**
-  * **[[:tr:obs:notes:key-terms/glory|glory]]**
-  * **[[:tr:obs:notes:key-terms/worship|worship]]**
+  * **[[:tr:obe:kt:Satan]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:other:kingdom]]**
+  * **[[:tr:obe:kt:glory]]**
+  * **[[:tr:obe:kt:worship]]**
 
 
 ===== Translation Notes: =====
