@@ -5,10 +5,10 @@
 When Philip **approached the chariot**, he heard the **Ethiopian** reading from what the **prophet Isaiah** wrote. The man read, “They led him like a **lamb** to be killed, and **as a lamb is silent**, he did not say a word. They treated him unfairly and did not respect him. **They took his life away from him**.”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/chariot|chariot]]**
-  * **[[:tr:obs:notes:key-terms/isaiah|prophet Isaiah]]**
-  * **[[:tr:obs:notes:key-terms/lamb|lamb]]**
-  * **[[:tr:obs:notes:key-terms/life|life]]**
+  * **[[:tr:obe:other:chariot]]**
+  * **[[:tr:obe:other:Isaiah]]**
+  * **[[:tr:obe:kt:lamb]]**
+  * **[[:tr:obe:kt:life]]**
 
 
 ===== Translation Notes: =====
