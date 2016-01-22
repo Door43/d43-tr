@@ -5,10 +5,10 @@
 “The weeds represent the people **who belong to the evil one**. The enemy who planted the weeds represents **the devil**. The harvest **represents the end of the world**, and **the harvesters** represent **God's angels**.”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/evil|evil]]**
-  * **[[:tr:obs:notes:key-terms/satan|devil]]**
-  * **[[:tr:obs:notes:key-terms/god|God's]]**
-  * **[[:tr:obs:notes:key-terms/angel|angels]]**
+  * **[[:tr:obe:kt:evil]]**
+  * **[[:tr:obe:kt:satan]]**
+  * **[[:tr:obe:kt:god]]**
+  * **[[:tr:obe:kt:angel]]**
 
 
 ===== Translation Notes: =====
