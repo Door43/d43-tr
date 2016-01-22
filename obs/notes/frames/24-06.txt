@@ -5,12 +5,12 @@
 The next day, **Jesus** came to be **baptized** by **John**. When John saw him, he said, “Look! **There is** the **Lamb of God** who **will take away** the **sin of the world**.”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/baptize|baptized]]**
-  * **[[:tr:obs:notes:key-terms/john-baptist|John]]**
-  * **[[:tr:obs:notes:key-terms/lamb|Lamb]]**
-  * **[[:tr:obs:notes:key-terms/god|God]]**
-  * **[[:tr:obs:notes:key-terms/sin|sin]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:baptize]]**
+  * **[[:tr:obe:other:JohntheBaptist]]**
+  * **[[:tr:obe:kt:lamb]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:sin]]**
 
 
 ===== Translation Notes: =====
