@@ -5,8 +5,8 @@
 But **Jesus** said to the **disciples**, “You give them something to eat!” They responded, “**How can we do that**? We only have five loaves of bread and two small fish.”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/disciple|disciples]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:disciple]]**
 
 
 ===== Translation Notes: =====
