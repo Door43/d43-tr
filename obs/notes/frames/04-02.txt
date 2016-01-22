@@ -8,11 +8,11 @@ They were very **proud**, and they did not care about what **God** said. They ev
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:proud|proud]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:heaven|heaven]]**
-  * **[[:tr:obs:notes:key-terms:evil|evil]]**
-  * **[[:tr:obs:notes:key-terms:sin|sinful]]**
+  * **[[:ttr:obe:other:proud]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:heaven]]**
+  * **[[:tr:obe:other:evil]]**
+  * **[[:tr:obe:other:sin]]**
 
 
 ===== Translation Notes: =====
