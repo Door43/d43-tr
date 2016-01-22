@@ -5,8 +5,8 @@
 “When the older **son** found out that they were celebrating because his brother had come home, he was very angry and would not go into the house. His father came out and **begged** him to come and celebrate with them, but he refused.”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/son|son]]**
-  * **[[:tr:obs:notes:key-terms/beg|begged]]**
+  * **[[:tr:obe:kt:son]]**
+  * **[[:tr:obe:other:beg]]**
 
 
 ===== Translation Notes: =====
