@@ -5,10 +5,10 @@
 Immediately, **God healed** the lame man, and he began to walk and jump around, and to **praise** God. The people in the **courtyard of the Temple** were amazed.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/god|God]]**
-  * **[[:tr:obs:notes:key-terms/heal|healed]]**
-  * **[[:tr:obs:notes:key-terms/praise|praise]]**
-  * **[[:tr:obs:notes:key-terms/temple|Temple]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:heal]]**
+  * **[[:tr:obe:other:praise]]**
+  * **[[:tr:obe:kt:Temple]]**
 
 
 ===== Translation Notes: =====
