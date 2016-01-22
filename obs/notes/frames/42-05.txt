@@ -5,11 +5,11 @@
 The two men said to each other, “That was **Jesus**! That is why **our hearts were burning** when he explained **God’s word** to us!” Immediately, they went back to **Jerusalem**. When they arrived, they told the **disciples**, “Jesus is **alive**! We have seen him!”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/word-of-god|God's word]]**
-  * **[[:tr:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:tr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:tr:obs:notes:key-terms/life|alive]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:wordofgod]]**
+  * **[[:tr:obe:other:Jerusalem]]**
+  * **[[:tr:obe:kt:disciple]]**
+  * **[[:tr:obe:kt:life]]**
 
 
 ===== Translation Notes: =====
