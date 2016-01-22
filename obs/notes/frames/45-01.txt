@@ -5,12 +5,12 @@
 One of the leaders **in the early Church** was a man named Stephen. He **had a good reputation** and **was full of the Holy Spirit and of wisdom**. Stephen did many **miracles** and **reasoned persuasively that** people should **believe** in **Jesus**.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/church|Church]]**
-  * **[[:tr:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:tr:obs:notes:key-terms/wise|wisdom]]**
-  * **[[:tr:obs:notes:key-terms/miracle|miracles]]**
-  * **[[:tr:obs:notes:key-terms/believe|believe]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
+  * **[[:tr:obe:kt:Church]]**
+  * **[[:tr:obe:kt:HolySpirit]]**
+  * **[[:tr:obe:kt:wise]]**
+  * **[[:tr:obe:kt:miracle]]**
+  * **[[:tr:obe:kt:believe]]**
+  * **[[:tr:obe:kt:Jesus]]**
 
 
 ===== Translation Notes: =====
