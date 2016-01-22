@@ -7,10 +7,10 @@ Philip explained to the Ethiopian man that **Isaiah** was writing about **Jesus*
 
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/isaiah|Isaiah]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/word-of-god|scriptures]]**
-  * **[[:tr:obs:notes:key-terms/good-news|good news]]**
+  * **[[:tr:obe:other:Isaiah]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:wordofgod]]**
+  * **[[:tr:obe:kt:goodnews]]**
 
 
 ===== Translation Notes: =====
