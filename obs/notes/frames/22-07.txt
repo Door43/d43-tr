@@ -6,15 +6,14 @@
 After **Elizabeth** gave birth to her baby boy, **Zechariah** and Elizabeth named the baby **John**, as the **angel** had commanded. Then **God** allowed **Zechariah** to speak again. Zechariah said, “**Praise God**, because he has remembered his people! You, my son, **will be called the prophet** of the **Most High God** who will tell the people how they can receive **forgiveness** for their **sins**!”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/zechariah-nt|Zechariah]]**
-  * **[[:tr:obs:notes:key-terms/john-baptist|John]]**
-  * **[[:tr:obs:notes:key-terms/angel|angel]]**
-  * **[[:tr:obs:notes:key-terms/god|God]]**
-  * **[[:tr:obs:notes:key-terms/zechariah-nt|Zechariah]]**
-  * **[[:tr:obs:notes:key-terms/praise|Praise]]**
-  * **[[:tr:obs:notes:key-terms/prophet|prophet]]**
-  * **[[:tr:obs:notes:key-terms/forgive|forgiveness]]**
-  * **[[:tr:obs:notes:key-terms/sin|sins]]**
+  * **[[:tr:obe:other:Zechariahnt]]**
+  * **[[:tr:obe:other:JohntheBaptist]]**
+  * **[[:tr:obe:kt:angel]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:praise]]**  * 
+  * **[[:tr:obe:kt:prophet]]**
+  * **[[:tr:obe:kt:forgive]]**
+  * **[[:tr:obe:kt:sin]]**
 
 
 ===== Translation Notes: =====
