@@ -3,11 +3,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?nolink}}
 
 Some **Jews** asked **John** if he was the **Messiah**. John replied, “I am not the Messiah, but there is someone coming after me. **He is so great** that I am **not even worthy to untie his sandals**.”
+====== Başlık ======
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jew|Jews]]**
-  * **[[:tr:obs:notes:key-terms/john-baptist|John]]**
-  * **[[:tr:obs:notes:key-terms/messiah|Messiah]]**
+  * **[[:tr:obe:other:Jew]]**
+  * **[[:tr:obe:other:JohntheBaptist]]**
+  * **[[:tr:obe:kt:Christ]]**
 
 
 ===== Translation Notes: =====
