@@ -5,9 +5,9 @@
 “The father answered, ‘My **son**, you are always with me, and everything I have is yours. But **it is right for us** to celebrate, because **your brother was dead**, **but now is alive**. **He was lost**, **but now is found**!’”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/son|son]]**
-  * **[[:tr:obs:notes:key-terms/death|dead]]**
-  * **[[:tr:obs:notes:key-terms/life|alive]]**
+  * **[[:tr:obe:kt:son]]**
+  * **[[:tr:obe:kt:death]]**
+  * **[[:tr:obe:kt:life]]**
 
 
 ===== Translation Notes: =====
