@@ -6,9 +6,9 @@
 When the people in **Jerusalem** heard the noise, **a crowd** came to see what was happening. When the people heard the **believers** proclaiming **the wonderful works of God**, they were astonished that they were hearing these things in their own native languages.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:tr:obs:notes:key-terms/believer|believers]]**
-  * **[[:tr:obs:notes:key-terms/god|God]]**
+  * **[[:tr:obe:other:Jerusalem]]**
+  * **[[:tr:obe:kt:believer]]**
+  * **[[:tr:obe:kt:God]]**
 
 
 ===== Translation Notes: =====
