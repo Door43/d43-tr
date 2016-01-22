@@ -5,19 +5,18 @@
 A **disciple** of **Jesus**' named Philip was one of the **believers** who fled from **Jerusalem** during the **persecution**. He went to **Samaria** where he **preached** about Jesus and many people were **saved**. Then **one day**, an **angel** from **God** told Philip to go to a certain road in the desert. As he walked along the road, Philip saw an important official from **Ethiopia** riding in his **chariot**. The **Holy Spirit** told Philip to go and talk to this man.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/disciple|disciple]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus']]**
-  * **[[:tr:obs:notes:key-terms/believer|believers]]**
-  * **[[:tr:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:tr:obs:notes:key-terms/persecute|persecution]]**
-  * **[[:tr:obs:notes:key-terms/samaria|Samaria]]**
-  * **[[:tr:obs:notes:key-terms/preach|preached]]**
-  * **[[:tr:obs:notes:key-terms/save|saved]]**
-  * **[[:tr:obs:notes:key-terms/angel|angel]]**
-  * **[[:tr:obs:notes:key-terms/god|God]]**
-  * **[[:tr:obs:notes:key-terms/chariot|chariot]]**
-  * **[[:tr:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-
+  * **[[:tr:obe:kt:disciple]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:believer]]**
+  * **[[:tr:obe:other:Jerusalem]]**
+  * **[[:tr:obe:other:persecute]]**
+  * **[[:tr:obe:other:Samaria]]**
+  * **[[:tr:obe:other:preach]]**
+  * **[[:tr:obe:kt:save]]**
+  * **[[:tr:obe:kt:angel]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:chariot]]**
+  * **[[:tr:obe:kt:HolySpirit]]**
 
 ===== Translation Notes: =====
 
