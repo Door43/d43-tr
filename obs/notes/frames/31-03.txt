@@ -5,9 +5,9 @@
 Then **Jesus** finished praying and went to the disciples. He walked on top of the water across the lake toward their boat!
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:tr:obs:notes:key-terms/pray|pray]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:disciple]]**
+  * **[[:tr:obe:other:pray]]**
 
 
 ===== Translation Notes: =====
