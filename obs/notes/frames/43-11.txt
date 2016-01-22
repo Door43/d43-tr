@@ -5,14 +5,15 @@
 **Peter** answered them, “Every one of you should **repent** and be **baptized in the name of Jesus Christ** so that **God** will **forgive** your **sins**. Then he will also give you the **gift of the Holy Spirit**.”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/peter|Peter]]**
-  * **[[:tr:obs:notes:key-terms/repent|repent]]**
-  * **[[:tr:obs:notes:key-terms/baptize|baptized]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]] [[:tr:obs:notes:key-terms/messiah|Christ]]**
-  * **[[:tr:obs:notes:key-terms/god|God]]**
-  * **[[:tr:obs:notes:key-terms/forgive|forgive]]**
-  * **[[:tr:obs:notes:key-terms/sin|sins]]**
-  * **[[:tr:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
+  * **[[:tr:obe:other:Peter]]**
+  * **[[:tr:obe:kt:repent]]**
+  * **[[:tr:obe:kt:baptize]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:Christ]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:forgive]]**
+  * **[[:tr:obe:kt:sin]]**
+  * **[[:tr:obe:kt:HolySpirit]]**
 
 
 ===== Translation Notes: =====
