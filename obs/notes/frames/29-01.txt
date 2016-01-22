@@ -5,11 +5,11 @@
 **One day**, **Peter** asked **Jesus**, “**Master**, how many times should I **forgive my brother** when he **sins against me**? As many as seven times?” Jesus said, “**Not seven times**, **but seventy times seven**!” **By this, Jesus meant** that we should always forgive. Then Jesus told the following story.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/peter|Peter]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/lord|Master]]**
-  * **[[:tr:obs:notes:key-terms/forgive|forgive]]**
-  * **[[:tr:obs:notes:key-terms/sin|sins]]**
+  * **[[:tr:obe:other:Peter]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:Lord]]**
+  * **[[:tr:obe:kt:forgive]]**
+  * **[[:tr:obe:kt:sin]]**
 
 
 ===== Translation Notes: =====
