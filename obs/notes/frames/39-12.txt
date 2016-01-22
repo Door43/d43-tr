@@ -7,12 +7,12 @@
 
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/pilate|Pilate]]**
-  * **[[:tr:obs:notes:key-terms/crucify|crucify]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/rome|Roman]]**
-  * **[[:tr:obs:notes:key-terms/mock|mocked]]**
-  * **[[:tr:obs:notes:key-terms/king-of-jews|King of the Jews]]**
+  * **[[:tr:obe:other:Pilate]]**
+  * **[[:tr:obe:kt:crucify]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:other:Rome]]**
+  * **[[:tr:obe:other:mock]]**
+  * **[[:tr:obe:kt:KingoftheJews]]**
 
 
 ===== Translation Notes: =====
