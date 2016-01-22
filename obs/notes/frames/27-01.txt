@@ -6,9 +6,10 @@
 **One day**, an **expert in the Jewish law** came to **Jesus to test him**, saying, “**Teacher**, what must I do **to inherit eternal life**?” Jesus answered, “**What is written in God's law**?”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/teacher|Teacher]]**
-  * **[[:tr:obs:notes:key-terms/inherit|inherit]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:Teacher]]**
+  * **[[:tr:obe:kt:inherit]]**
+
   * **[[:tr:obs:notes:key-terms/eternal-life|eternal life]]**
   * **[[:tr:obs:notes:key-terms/gods-law|God's law]]**
 
