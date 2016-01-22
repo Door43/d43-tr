@@ -6,10 +6,10 @@ The **leaders were shocked** that **Peter** and **John** spoke so boldly because
 
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jewish-leaders|leaders]]**
-  * **[[:tr:obs:notes:key-terms/peter|Peter]]**
-  * **[[:tr:obs:notes:key-terms/john|John]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
+  * **[[:tr:obe:other:Jewishleaders]]**
+  * **[[:tr:obe:other:Peter]]**
+  * **[[:tr:obs:notes:key-terms:John]]**
+  * **[[:tr:obe:kt:Jesus]]**
 
 
 ===== Translation Notes: =====
