@@ -5,11 +5,12 @@
 “You **crucified** this man, **Jesus**. **But know for certain that God** has caused Jesus to become both **Lord** and **Messiah**!”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/crucify|crucified]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/god|God]]**
-  * **[[:tr:obs:notes:key-terms/lord|Lord]]**
-  * **[[:tr:obs:notes:key-terms/messiah|Messiah]]**
+  * **[[:tr:obe:kt:crucify]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:Lord]]**
+  * **[[:tr:obe:kt:Christ]]**
+ 
 
 
 ===== Translation Notes: =====
