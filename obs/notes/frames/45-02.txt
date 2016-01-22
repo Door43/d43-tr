@@ -5,14 +5,14 @@
 **One day**, when Stephen was teaching about **Jesus**, some **Jews** who did not believe in Jesus began to argue with Stephen. They became very angry and lied about Stephen to the **religious leaders**. They said, “We heard him speak **evil** things about **Moses** and **God**!” So the religious leaders arrested Stephen and brought him to the **high priest** and the other leaders of the Jews, where more false **witnesses** lied about Stephen.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/jew|Jews]]**
-  * **[[:tr:obs:notes:key-terms/jewish-leaders|religious leaders]]**
-  * **[[:tr:obs:notes:key-terms/evil|evil]]**
-  * **[[:tr:obs:notes:key-terms/moses|Moses]]**
-  * **[[:tr:obs:notes:key-terms/god|God]]**
-  * **[[:tr:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:tr:obs:notes:key-terms/witness|witnesses]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:other:Jew]]**
+  * **[[:tr:obe:other:Jewishleaders]]**
+  * **[[:tr:obe:kt:evil]]**
+  * **[[:tr:obe:other:Moses]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:highpriest]]**
+  * **[[:tr:obe:kt:witness]]**
 
 
 ===== Translation Notes: =====
