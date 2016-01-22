@@ -5,17 +5,16 @@
 **One day**, while the Christians at Antioch were **fasting** and **praying**, the **Holy Spirit** said to them, “**Set apart for me Barnabas and Saul to do the work I have called them to do**.” So **the church** in Antioch **prayed** for **Barnabas** and **Saul** and **placed their hands on them**. Then they **sent them out** to **preach** the **good news** about **Jesus** in many other places. Barnabas and Saul taught people from different people groups, and many people **believed** in Jesus.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/fast|fasting]]**
-  * **[[:tr:obs:notes:key-terms/pray|praying]]**
-  * **[[:tr:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:tr:obs:notes:key-terms/church|church]]**
-  * **[[:tr:obs:notes:key-terms/pray|prayed]]**
-  * **[[:tr:obs:notes:key-terms/barnabas|Barnabas]]**
-  * **[[:tr:obs:notes:key-terms/paul|Saul]]**
-  * **[[:tr:obs:notes:key-terms/preach|preach]]**
-  * **[[:tr:obs:notes:key-terms/good-news|good news]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/believe|believed]]**
+  * **[[:tr:obe:other:fast]]**
+  * **[[:tr:obe:other:pray]]**
+  * **[[:tr:obe:kt:HolySpirit]]**
+  * **[[:tr:obe:kt:church]]**
+  * **[[:tr:obe:other:Barnabas]]**
+  * **[[:tr:obe:other:Paul]]**
+  * **[[:tr:obe:other:preach]]**
+  * **[[:tr:obe:kt:goodnews]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:believe]]**
 
 
 ===== Translation Notes: =====
