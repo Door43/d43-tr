@@ -7,11 +7,11 @@ Then **Peter** became afraid and began to sink in the water. He cried out, “**
 
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms:peter|Peter]]**
-  * **[[:tr:obs:notes:key-terms:lord|Master]]**
-  * **[[:tr:obs:notes:key-terms:save|save]]**
-  * **[[:tr:obs:notes:key-terms:jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms:faith|faith]]**
+  * **[[:tr:obe:other:Peter]]**
+  * **[[:tr:obe:kt:Lord]]**
+  * **[[:tr:obe:kt:save]]**
+  * **[[:tr:obe:kt::Jesus]]**
+  * **[[:tr:obe:kt:faith]]**
 
 
 ===== Translation Notes: =====
