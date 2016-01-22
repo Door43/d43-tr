@@ -8,10 +8,10 @@ When the people arrived in **Jerusalem**, they rebuilt the **Temple** and **the 
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:jerusalem|Jerusalem]]**
-  * **[[:tr:obs:notes:key-terms:temple|Temple]]**
-  * **[[:tr:obs:notes:key-terms:promised-land|Promised Land]]**
-  * **[[:tr:obs:notes:key-terms:worship|worshiped]]**
+  * **[[:tr:obe:other:Jerusalem]]**
+  * **[[:tr:obe:kt:Temple]]**
+  * **[[:tr:obe:kt:PromisedLand]]**
+  * **[[:tr:obe:kt:worship]]**
 
 
 ==== Translation Notes: ====
