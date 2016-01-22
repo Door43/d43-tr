@@ -5,10 +5,10 @@
 An angel told a **virgin** named **Mary** that she would give birth to **God's Son**. So while she was still a virgin, she gave birth to a son and named him **Jesus**. Therefore, Jesus is both God and human.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/virgin|virgin]]**
-  * **[[:tr:obs:notes:key-terms/mary|Mary]]**
-  * **[[:tr:obs:notes:key-terms/god-son|God's Son]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
+  * **[[:tr:obe:other:GodsSon]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:other:virgin]]**
+  * **[[:tr:obe:other:Mary]]**
 
 
 ===== Translation Notes: =====
