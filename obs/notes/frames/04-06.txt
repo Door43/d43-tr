@@ -8,11 +8,11 @@ When **Abram** arrived in **Canaan**, **God** said, “Look all around you. I wi
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:abraham|Abram]]**
-  * **[[:tr:obs:notes:key-terms:canaan|Canaan]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:descendant|descendants]]**
-  * **[[:tr:obs:notes:key-terms:inherit|inheritance]]**
+  * **[[:tr:obe:other:abraham]]**
+  * **[[:tr:obe:other:Canaan]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:descendant]]**
+  * **[[:tr:obe:other:inherit]]**
 
 
 ===== Translation Notes: =====
