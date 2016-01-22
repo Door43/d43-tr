@@ -5,13 +5,13 @@
 **Jesus** was **crucified** between **two robbers**. One of them **mocked** Jesus, but the other said, “Do you have no fear of **God**? We are **guilty**, **but this man is innocent**.” Then he said to Jesus, “**Please remember me in your kingdom**.” Jesus answered him, “Today, you will be with me in **Paradise**.”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/crucify|crucified]]**
-  * **[[:tr:obs:notes:key-terms/mock|mocked]]**
-  * **[[:tr:obs:notes:key-terms/god|God]]**
-  * **[[:tr:obs:notes:key-terms/guilt|guilty]]**
-  * **[[:tr:obs:notes:key-terms/innocent|innocent]]**
-  * **[[:tr:obs:notes:key-terms/kingdom-of-god|kingdom]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:crucify]]**
+  * **[[:tr:obe:other:mock]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:guilt]]**
+  * **[[:tr:obe:kt:innocent]]**
+  * **[[:tr:obe:kt:kingdomofGod]]**
 
 
 ===== Translation Notes: =====
