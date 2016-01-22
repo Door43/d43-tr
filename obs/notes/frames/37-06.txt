@@ -5,11 +5,11 @@
 Then **Mary** arrived. She **fell at the feet of Jesus** and said, “**Master**, if only you had been here, **my brother would not have died**.” Jesus asked them, “Where have you put **Lazarus**?” They told him, “In the **tomb**. Come and see.” Then Jesus wept.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/lord|Master]]**
-  * **[[:tr:obs:notes:key-terms/death|died]]**
-  * **[[:tr:obs:notes:key-terms/lazarus|Lazarus]]**
-  * **[[:tr:obs:notes:key-terms/tomb|tomb]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:Lord]]**
+  * **[[:tr:obe:kt:death]]**
+  * **[[:tr:obe:other:Lazarus]]**
+  * **[[:tr:obe:other:tomb]]**
 
 
 ===== Translation Notes: =====
