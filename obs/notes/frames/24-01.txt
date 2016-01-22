@@ -6,9 +6,9 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms/john-baptist|John]]**
-  * **[[:tr:obs:notes:key-terms/zechariah-nt|Zechariah]]**
-  * **[[:tr:obs:notes:key-terms/prophet|prophet]]**
+  * **[[:tr:obe:other:JohntheBaptist]]**
+  * **[[:tr:obe:other:Zechariahnt]]**
+  * **[[:tr:obe:kt:prophet]]**
 
 
 ===== Translation Notes: =====
