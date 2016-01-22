@@ -5,12 +5,12 @@
 Then **Joseph** and Nicodemus, two **Jewish leaders** who **believed Jesus** was the **Messiah**, **asked Pilate for Jesus’ body**. They wrapped his body in cloth and placed it in a **tomb** cut out of rock. Then they rolled a large stone in front of the tomb to block the opening.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:tr:obs:notes:key-terms/believe|believed]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:tr:obs:notes:key-terms/pilate|Pilate]]**
-  * **[[:tr:obs:notes:key-terms/tomb|tomb]]**
+  * **[[:tr:obe:other:jewishleaders]]**
+  * **[[:tr:obe:kt:believe]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:Christ]]**
+  * **[[:tr:obe:other:Pilate]]**
+  * **[[:tr:obe:other:tomb]]**
 
 
 ===== Translation Notes: =====
