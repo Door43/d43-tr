@@ -6,10 +6,10 @@
 The **angel** responded to Zechariah, “I was sent by **God** to bring you this good news. Because you did not **believe** me, you will not be able to speak until the child is born.” Immediately, **Zechariah** was unable to speak. Then the angel left Zechariah. After this, Zechariah returned home and his wife **became pregnant**.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/angel|angel]]**
-  * **[[:tr:obs:notes:key-terms/god|God]]**
-  * **[[:tr:obs:notes:key-terms/believe|believe]]**
-  * **[[:tr:obs:notes:key-terms/zechariah-nt|Zechariah]]**
+  * **[[:tr:obe:kt:angel]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:believe]]**
+  * **[[:tr:obe:other:ZechariahNT]]**
 
 
 ===== Translation Notes: =====
