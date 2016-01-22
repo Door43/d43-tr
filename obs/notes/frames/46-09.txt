@@ -5,14 +5,14 @@
 Some believers who fled from the **persecution** in **Jerusalem** went far away to the **city of Antioch** and preached about **Jesus**. Most of the people in Antioch were not **Jews**, but for the first time, very many of them also became believers. **Barnabas** and **Saul** went there to teach these new believers more about Jesus and to **strengthen the church**. It was at Antioch that believers in Jesus were first called “**Christians**.”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/persecute|persecution]]**
-  * **[[:tr:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/jew|Jews]]**
-  * **[[:tr:obs:notes:key-terms/barnabas|Barnabas]]**
-  * **[[:tr:obs:notes:key-terms/paul|Saul]]**
-  * **[[:tr:obs:notes:key-terms/church|church]]**
-  * **[[:tr:obs:notes:key-terms/christian|Christians]]**
+  * **[[:tr:obe:other:persecute]]**
+  * **[[:tr:obe:other:Jerusalem]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:other:Jew]]**
+  * **[[:tr:obe:other:Barnabas]]**
+  * **[[:tr:obe:other:Paul]]**
+  * **[[:tr:obe:kt:church]]**
+  * **[[:tr:obe:kt:Christian]]**
 
 
 ===== Translation Notes: =====
