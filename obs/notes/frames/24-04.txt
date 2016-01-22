@@ -5,11 +5,11 @@
 **John** said to the **religious leaders**, “**You poisonous snakes**! **Repent** and change your behavior. **Every tree that does not bear good fruit will be cut down and thrown into the fire**.” **John fulfilled** what the **prophets** said, “**See**, I send **my messenger ahead of you**, who will **prepare your way**.”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/john-baptist|John]]**
-  * **[[:tr:obs:notes:key-terms/jewish-leaders|religious leaders]]**
-  * **[[:tr:obs:notes:key-terms/repent|Repent]]**
-  * **[[:tr:obs:notes:key-terms/fulfill|fulfilled]]**
-  * **[[:tr:obs:notes:key-terms/prophet|prophets]]**
+  * **[[:tr:obe:other:JohntheBaptist]]**
+  * **[[:tr:obe:other:Jewishleaders]]**
+  * **[[:tr:obe:kt:Repent]]**
+  * **[[:tr:obe:kt:fulfill]]**
+  * **[[:tr:obe:kt:prophet]]**
 
 
 ===== Translation Notes: =====
