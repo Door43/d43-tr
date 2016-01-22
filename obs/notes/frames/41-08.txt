@@ -5,10 +5,10 @@
 As the women were on their way to tell the **disciples** the good news, **Jesus** appeared to them, and they **worshiped** him. Jesus said, “Do not be afraid. Go and tell my disciples to go to **Galilee**. They **will see me** there.”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/worship|worshiped]]**
-  * **[[:tr:obs:notes:key-terms/galilee|Galilee]]**
+  * **[[:tr:obe:kt:disciple]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:worship]]**
+  * **[[:tr:obe:other:Galilee]]**
 
 
 ===== Translation Notes: =====
