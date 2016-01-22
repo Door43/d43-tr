@@ -5,10 +5,10 @@
 Many people came out to the **wilderness** to listen to **John**. He **preached** to them, saying, “**Repent**, for **the kingdom of God is near**!”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/john-baptist|John]]**
-  * **[[:tr:obs:notes:key-terms/preach|preached]]**
-  * **[[:tr:obs:notes:key-terms/repent|Repent]]**
-  * **[[:tr:obs:notes:key-terms/kingdom-of-god|kingdom of God]]**
+  * **[[:tr:obe:other:JohntheBaptist]]**
+  * **[[:tr:obe:other:preach]]**
+  * **[[:tr:obe:kt:repent]]**
+  * **[[:tr:obe:kt:KingdomofGod]]**
 
 
 ===== Translation Notes: =====
