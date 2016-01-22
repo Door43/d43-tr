@@ -5,17 +5,17 @@
 **Peter** answered them, “This man stands before you **healed** by the **power** of **Jesus** the **Messiah**. You **crucified** Jesus, but **God raised** him to life again! You **rejected him**, **but there is no other way to be saved except through the power of Jesus**!”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/peter|Peter]]**
-  * **[[:tr:obs:notes:key-terms/heal|healed]]**
-  * **[[:tr:obs:notes:key-terms/power|power]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
+  * **[[:tr:obe:other:Peter]]**
+  * **[[:tr:obe:other:heal]]**
+  * **[[:tr:obe:kt:power]]**
+  * **[[:tr:obe:kt:Jesus]]**
   * **[[:tr:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:tr:obs:notes:key-terms/crucify|crucified]]**
-  * **[[:tr:obs:notes:key-terms/god|God]]**
-  * **[[:tr:obs:notes:key-terms/raise|raised]]**
-  * **[[:tr:obs:notes:key-terms/life|life]]**
-  * **[[:tr:obs:notes:key-terms/save|saved]]**
-
+  * **[[:tr:obe:kt:crucify]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:raise]]**
+  * **[[:tr:obe:kt:life]]**
+  * **[[:tr:obe:kt:save]]**
+  
 
 ===== Translation Notes: =====
 
