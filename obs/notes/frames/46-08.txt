@@ -5,13 +5,13 @@
 **Saul went to Jerusalem** to meet with the **disciples**, but they were afraid of him. Then a **believer** named **Barnabas** took Saul to the **apostles** and told them how Saul had **preached** boldly in Damascus. After that, the disciples **accepted Saul**.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/paul|Saul]]**
-  * **[[:tr:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:tr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:tr:obs:notes:key-terms/believer|believer]]**
-  * **[[:tr:obs:notes:key-terms/barnabas|Barnabas]]**
-  * **[[:tr:obs:notes:key-terms/apostle|apostles]]**
-  * **[[:tr:obs:notes:key-terms/preach|preached]]**
+  * **[[:tr:obe:other:Paul]]**
+  * **[[:tr:obe:other:Jerusalem]]**
+  * **[[:tr:obe:kt:disciple]]**
+  * **[[:tr:obe:kt:believer]]**
+  * **[[:tr:obe:other:Barnabas]]**
+  * **[[:tr:obe:kt:apostle]]**
+  * **[[:tr:obe:other:preach]]**
 
 
 ===== Translation Notes: =====
