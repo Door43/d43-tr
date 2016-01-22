@@ -5,11 +5,11 @@
 **Peter** went away and **cried bitterly**. Meanwhile, **Judas**, **the betrayer**, saw that the **Jewish leaders had condemned Jesus to die**. Judas became full of sorrow and went away and killed himself.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/peter|Peter]]**
-  * **[[:tr:obs:notes:key-terms/judas|Judas]]**
-  * **[[:tr:obs:notes:key-terms/betray|betrayer]]**
-  * **[[:tr:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
+  * **[[:tr:obe:other:Peter]]**  
+  * **[[:tr:obe:other:JudasIscariot]]**
+  * **[[:tr:obe:kt:betray]]**
+  * **[[:tr:obe:other:Jewishleaders]]**
+  * **[[:tr:obe:kt:Jesus]]**
 
 
 ===== Translation Notes: =====
