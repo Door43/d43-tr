@@ -5,12 +5,12 @@
 The soldiers brought **Jesus** to a place called “**the Skull**” and nailed his hands and feet to the **cross**. But Jesus said, “**Father**, **forgive them**, **because they do not know what they are doing**.” **Pilate** commanded that they write, “**King of the Jews**” on a sign and put it on the cross above Jesus’ head.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/cross|cross]]**
-  * **[[:tr:obs:notes:key-terms/god-father|Father]]**
-  * **[[:tr:obs:notes:key-terms/forgive|forgive]]**
-  * **[[:tr:obs:notes:key-terms/pilate|Pilate]]**
-  * **[[:tr:obs:notes:key-terms/king-of-jews|King of the Jews]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:cross]]**
+  * **[[:tr:obe:kt:godthefather]]**
+  * **[[:tr:obe:kt:forgive]]**
+  * **[[:tr:obe:other:Pilate]]**
+  * **[[:tr:obe:kt:KingoftheJews]]**
 
 
 ===== Translation Notes: =====
