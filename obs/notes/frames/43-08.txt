@@ -5,10 +5,10 @@
 “**Jesus is now exalted to the right hand of God the Father**. And Jesus has sent the **Holy Spirit** just as he **promised** he would do. The Holy Spirit is **causing** the things that you are now seeing and hearing.”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/god-father|God the Father]]**
-  * **[[:tr:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:tr:obs:notes:key-terms/promise|promised]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:GodtheFather]]**
+  * **[[:tr:obe:kt:HolySpirit]]**
+  * **[[:tr:obe:kt:promise]]**
 
 
 ===== Translation Notes: =====
