@@ -5,12 +5,12 @@
 **Satan** spoke through the snake in **the garden** in order to **deceive Eve**. Then she and **Adam sinned** against **God**. Because they sinned, everyone on earth gets sick and everyone **dies**.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/satan|Satan]]**
-  * **[[:tr:obs:notes:key-terms/eve|Eve]]**
-  * **[[:tr:obs:notes:key-terms/adam|Adam]]**
-  * **[[:tr:obs:notes:key-terms/sin|sinned]]**
-  * **[[:tr:obs:notes:key-terms/god|God]]**
-  * **[[:tr:obs:notes:key-terms/death|dies]]**
+  * **[[:tr:obe:kt:satan]]**
+  * **[[:tr:obe:other:Eve]]**
+  * **[[:tr:obe:other:Adam]]**
+  * **[[:tr:obe:kt:sin]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:death]]**  
 
 
 ===== Translation Notes: =====
