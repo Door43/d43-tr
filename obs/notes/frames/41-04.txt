@@ -5,10 +5,10 @@
 Suddenly, there was a **great earthquake**. An **angel that shone as bright as lightning** appeared from **heaven**. He rolled away the stone that was covering the entrance to the **tomb** and sat on it. The soldiers guarding the tomb were terrified and **fell to the ground like dead men**.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/angel|angel]]**
-  * **[[:tr:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:tr:obs:notes:key-terms/tomb|tomb]]**
-  * **[[:tr:obs:notes:key-terms/death|dead]]**
+  * **[[:tr:obe:kt:angel]]**
+  * **[[:tr:obe:kt:heaven]]**
+  * **[[:tr:obe:other:tomb]]**
+  * **[[:tr:obe:kt:death]]**
 
 
 ===== Translation Notes: =====
