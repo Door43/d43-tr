@@ -5,13 +5,14 @@
 **Right away**, **Saul** began **preaching** to the **Jews** in Damascus, saying, “**Jesus** is the **Son of God**!” The Jews were amazed that the man who had tried to destroy the **believers** now also believed in Jesus! Saul **reasoned with the Jews**, proving that Jesus was the **Messiah**.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/paul|Saul]]**
-  * **[[:tr:obs:notes:key-terms/preach|preaching]]**
-  * **[[:tr:obs:notes:key-terms/jew|Jews]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:tr:obs:notes:key-terms/believer|believers]]**
+  * **[[:tr:obe:other:Paul]]**
+  * **[[:tr:obe:other:preach]]**
+  * **[[:tr:obe:other:Jew]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:SonofGod]]**
+  * **[[:tr:obe:kt:believer]]**
   * **[[:tr:obs:notes:key-terms/messiah|Messiah]]**
+
 
 
 ===== Translation Notes: =====
