@@ -5,11 +5,11 @@
 A crowd of people quickly came to see the man who was **healed**. **Peter** said to them, “Why are you amazed that this man is healed? We did not heal him through our own power or goodness. Rather, it is the **power** of **Jesus** and the **faith** that Jesus gives that healed this man.”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/heal|healed]]**
-  * **[[:tr:obs:notes:key-terms/peter|Peter]]**
-  * **[[:tr:obs:notes:key-terms/power|power]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/faith|faith]]**
+  * **[[:tr:obe:other:heal]]**
+  * **[[:tr:obe:other:Peter]]**
+  * **[[:tr:obe:kt:power]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:faith]]**
 
 
 ===== Translation Notes: =====
