@@ -5,16 +5,14 @@
 **Because of your sin**, you are **guilty** and deserve to **die**. **God should be angry** with you, but **he poured out his anger on Jesus** instead of on you. When Jesus died on the **cross**, he **received your punishment**.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/sin|sin]]**
-  * **[[:tr:obs:notes:key-terms/guilt|guilty]]**
-  * **[[:tr:obs:notes:key-terms/death|die]]**
-  * **[[:tr:obs:notes:key-terms/god|God]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/cross|cross]]**
-  * **[[:tr:obs:notes:key-terms/receive|received]]**
-  * **[[:tr:obs:notes:key-terms/punish|punishment]]**
-
-
+  * **[[:tr:obe:kt:sin]]**
+  * **[[:tr:obe:kt:guilt]]**
+  * **[[:tr:obe:kt:death]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:cross]]**
+  * **[[:tr:obe:kt:receive]]**
+  * **[[:tr:obe:other:punish]]**
 ===== Translation Notes: =====
 
   * **kendi günahın sebebiyle** - Bu şöyle de çevrilebilir: «Günah işlediğin için.» Bütün insanlardan bahsedildiğinin anlaşılması için bazı dillerde bu tabiri şu şekilde çevirmek daha iyi olabilir: «Bütün insanlar günah işledikleri için suçludurlar. Ölümü hak ederler.»
