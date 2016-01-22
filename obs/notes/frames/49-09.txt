@@ -5,14 +5,15 @@
 But **God loved** everyone in the world so much that he **gave his only Son** so that **whoever believes in Jesus will not be punished for his sins**, **but will live with God foreve**r.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/god|God]]**
-  * **[[:tr:obs:notes:key-terms/love|loved]]**
-  * **[[:tr:obs:notes:key-terms/god-son|Son]]**
-  * **[[:tr:obs:notes:key-terms/believe|believes]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/punish|punished]]**
-  * **[[:tr:obs:notes:key-terms/sin|sins]]**
-  * **[[:tr:obs:notes:key-terms/life|live]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:love]]**
+  * **[[:tr:obe:kt:son]]**
+  * **[[:tr:obe:kt:believe]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:other:punish]]**
+  * **[[:tr:obe:kt:sin]]**
+  * **[[:tr:obe:kt:life]]**
+
 
 
 ===== Translation Notes: =====
