@@ -5,9 +5,8 @@
 Then **Jesus** chose twelve men **who were called his apostles**. The apostles traveled with Jesus and **learned from him**.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/apostle|apostles]]**
-
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:apostle]]**
 
 ===== Translation Notes: =====
 
