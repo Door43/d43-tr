@@ -7,9 +7,9 @@ Then **Jesus** took the five loaves of bread and the two fish, looked up to **he
 
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:tr:obs:notes:key-terms/god|God]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:heaven]]**
+  * **[[:tr:obe:kt:God]]**
 
 
 ===== Translation Notes: =====
