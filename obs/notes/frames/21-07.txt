@@ -7,15 +7,15 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:israel|Israelite]]**
-  * **[[:tr:obs:notes:key-terms:priest|priests]]**
-  * **[[:tr:obs:notes:key-terms:sacrifice|sacrifices]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:punish|punishment]]**
-  * **[[:tr:obs:notes:key-terms:sin|sins]]**
-  * **[[:tr:obs:notes:key-terms:pray|prayed]]**
-  * **[[:tr:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:tr:obs:notes:key-terms:priest-high|high priest]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:kt:priest]]**
+  * **[[:tr:obe:other:sacrifice]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:punish]]**
+  * **[[:tr:obe:kt:sin]]**
+  * **[[:tr:obe:other:pray]]**
+  * **[[:tr:obe:kt:Christ]]**
+  * **[[:tr:obe:kt:highpriest]]**
 
 
 ==== Translation Notes: ====
