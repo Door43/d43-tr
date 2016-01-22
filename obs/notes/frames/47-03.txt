@@ -5,13 +5,13 @@
 **Paul** and **Silas** often met with people at the place of **prayer**. Every day as they walked there, a **slave girl possessed by a demon** followed them. By means of this **demon** she predicted the future for people, so she made a lot of money for **her masters as a fortuneteller**.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/paul|Paul]]**
-  * **[[:tr:obs:notes:key-terms/silas|Silas]]**
-  * **[[:tr:obs:notes:key-terms/pray|prayer]]**
-  * **[[:tr:obs:notes:key-terms/servant|slave girl]]**
-  * **[[:tr:obs:notes:key-terms/demon-possessed|possessed by a demon]]**
-  * **[[:tr:obs:notes:key-terms/demon|demon]]**
-  * **[[:tr:obs:notes:key-terms/lord|masters]]**
+  * **[[:tr:obe:other:Paul]]**
+  * **[[:tr:obe:other:Silas]]**
+  * **[[:tr:obe:other:pray]]**
+  * **[[:tr:obe:other:servant]]**
+  * **[[:tr:obe:kt:demonpossessed]]**
+  * **[[:tr:obe:kt:demon]]**
+  * **[[:tr:obe:kt:lord]]**
 
 
 ===== Translation Notes: =====
