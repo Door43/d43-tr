@@ -5,12 +5,12 @@
 Then **Jesus** explained to them what **God’s word** said about the **Messiah**. He reminded them that the **prophets** said the Messiah would **suffer** and be killed, but would **rise** again **on the third day**. When they arrived at the town where the two men planned to stay, **it was almost evening**.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/word-of-god|God's word]]**
-  * **[[:tr:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:tr:obs:notes:key-terms/prophet|prophets]]**
-  * **[[:tr:obs:notes:key-terms/suffer|suffer]]**
-  * **[[:tr:obs:notes:key-terms/raise|rise]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:wordofgod]]**
+  * **[[:tr:obe:kt:christ]]**
+  * **[[:tr:obe:kt:prophet]]**
+  * **[[:tr:obe:kt:suffer]]**
+  * **[[:tr:obe:kt:raise]]**
 
 
 ===== Translation Notes: =====
