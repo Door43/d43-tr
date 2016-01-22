@@ -6,8 +6,8 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms/peter|Peter]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
+  * **[[:tr:obe:other:Peter]]**
+  * **[[:tr:obe:kt:Jesus]]**
 
 
 ===== Translation Notes: =====
