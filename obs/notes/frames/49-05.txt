@@ -5,10 +5,12 @@
 **Jesus** said that the **kingdom of God** is more valuable than anything else in the world. The most important thing for anyone is to belong to the kingdom of God. To enter into God's kingdom, you must **be saved from your sin**.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/kingdom-of-god|kingdom of God]]**
-  * **[[:tr:obs:notes:key-terms/save|saved]]**
-  * **[[:tr:obs:notes:key-terms/sin|sin]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:kingdomofGod]]**
+  * **[[:tr:obe:kt:save]]**
+  * **[[:tr:obe:kt:sin]]**
+
+
 
 
 ===== Translation Notes: =====
