@@ -5,11 +5,11 @@
 When people heard **John's** message, many of them **repented from their sins**, and John **baptized** them. Many **religious leaders** also came to be baptized by John, but they **did not repent** or **confess their sins**.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/john-baptist|John's]]**
-  * **[[:tr:obs:notes:key-terms/repent|repented]]**
-  * **[[:tr:obs:notes:key-terms/sin|sins]]**
-  * **[[:tr:obs:notes:key-terms/baptize|baptized]]**
-  * **[[:tr:obs:notes:key-terms/jewish-leaders|religious leaders]]**
+  * **[[:tr:obe:other:JohntheBaptist]]**
+  * **[[:tr:obe:kt:repent]]**
+  * **[[:tr:obe:kt:sin]]**
+  * **[[:tr:obe:kt:baptize]]**
+  * **[[:tr:obe:other:Jewishleaders]]**
 
 
 ===== Translation Notes: =====
