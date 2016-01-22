@@ -5,9 +5,9 @@
 “But the **good soil is a person** who hears the **word of God**, **believes** it, and **produces fruit**.”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/good|good]]**
-  * **[[:tr:obs:notes:key-terms/word-of-god|word of God]]**
-  * **[[:tr:obs:notes:key-terms/believe|believes]]**
+  * **[[:tr:obe:kt:good]]**
+  * **[[:tr:obe:kt:WordofGod]]**
+  * **[[:tr:obe:kt:believe]]**
 
 
 ===== Translation Notes: =====
