@@ -7,17 +7,17 @@ Through the **prophet Jeremiah**, **God promised** that he would make a **New Co
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:prophet|prophet]]**
-  * **[[:tr:obs:notes:key-terms:jeremiah|Jeremiah]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:promise|promised]]**
-  * **[[:tr:obs:notes:key-terms:covenant-new|New Covenant]]**
-  * **[[:tr:obs:notes:key-terms:covenant|covenant]]**
-  * **[[:tr:obs:notes:key-terms:israel|Israel]]**
-  * **[[:tr:obs:notes:key-terms:sinai|Sinai]]**
-  * **[[:tr:obs:notes:key-terms:forgive|forgive]]**
-  * **[[:tr:obs:notes:key-terms:sin|sins]]**
-  * **[[:tr:obs:notes:key-terms:messiah|Messiah]]**
+  * **[[:tr:obe:kt:prophet]]**
+  * **[[:tr:obe:other:Jeremiah]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:promise]]**
+  * **[[:tr:obe:kt:NewCovenant]]**
+  * **[[:tr:obe:kt:covenant]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:other:Sinai]]**
+  * **[[:tr:obe:kt:forgive]]**
+  * **[[:tr:obe:kt:sin]]**
+  * **[[:tr:obe:kt:Christ]]**
 
 
 ==== Translation Notes: ====
