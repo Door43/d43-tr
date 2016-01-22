@@ -5,15 +5,14 @@
 **One day**, a **rich young ruler came up to Jesus** and asked him, “**Good teacher**, what must I do **to have eternal life?**” Jesus said to him, “**Why do you call me 'good'**? **There is only one who is good**, **and that is God**. But if you want to have eternal life, **obey God's laws**.”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/good|Good]]**
-  * **[[:tr:obs:notes:key-terms/teacher|teacher]]**
-  * **[[:tr:obs:notes:key-terms/eternal-life|eternal life]]**
-  * **[[:tr:obs:notes:key-terms/god|God]]**
-  * **[[:tr:obs:notes:key-terms/obey|obey]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:good]]**
+  * **[[:tr:obe:kt:teacher]]**
+  * **[[:tr:obs:notes:key-terms/eternal-life|eternal life]]**  
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:obey]]**
   * **[[:tr:obs:notes:key-terms/gods-law|God's laws]]**
-
-
+  
 ===== Translation Notes: =====
 
   * **Bir gün** - Bu sözle geçmişte olup bitmiş olay anlatılmaya başlanıyor, fakat tam zamanı belirtilmiyor. Çok dilde gerçek olayı anlatmaya başlamanın benzer yolları vardır.
