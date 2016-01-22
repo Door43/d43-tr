@@ -7,13 +7,16 @@
 
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/god|God]]**
-  * **[[:tr:obs:notes:key-terms/promise|promised]]**
-  * **[[:tr:obs:notes:key-terms/david|King David]]**
-  * **[[:tr:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:tr:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:tr:obs:notes:key-terms/descendant|descendants]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
+  
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:promise]]**
+  * **[[:tr:obe:other:David]]**
+  * **[[:tr:obe:kt:godson]]**
+  * **[[:tr:obe:kt:messiah]]**
+  * **[[:tr:obe:other:descendant]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obs:notes:key-terms/god-son]]**
+  * **[[:tr:obs:notes:key-terms/Messiah]]**
 
 
 ===== Translation Notes: =====
