@@ -5,13 +5,13 @@
 **David** was the **king** of **Israel**, but **Jesus** is **the king of the entire universe**! He will come again and rule his **kingdom** with **justice** and **peace**, forever.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/david|David]]**
-  * **[[:tr:obs:notes:key-terms/king|king]]**
-  * **[[:tr:obs:notes:key-terms/israel|Israel]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/kingdom-of-god|kingdom]]**
-  * **[[:tr:obs:notes:key-terms/justice|justice]]**
-  * **[[:tr:obs:notes:key-terms/peace|peace]]**
+  * **[[:tr:obe:other:David]]**
+  * **[[:tr:obe:other:king]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:kingdomofgod]]**
+  * **[[:tr:obe:kt:justice]]**
+  * **[[:tr:obe:other:peace]]**
 
 
 ===== Translation Notes: =====
