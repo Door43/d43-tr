@@ -11,7 +11,7 @@ Jesus said to his **disciples**, “**All authority in heaven and on earth has b
   * **[[:tr:obe:kt:heaven]]**
   * **[[:tr:obe:other:peoplegroup]]**
   * **[[:tr:obe:kt:baptize]]**
-  * **[[:tr:obs:notes:key-terms/god-father|Father]]**
+  * **[[:tr:obe:kt:GodtheFather]]**
   * **[[:tr:obe:kt:son]]**
   * **[[:tr:obe:kt:HolySpirit]]**
   * **[[:tr:obe:other:obey]]**
