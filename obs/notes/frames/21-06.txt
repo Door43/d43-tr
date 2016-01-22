@@ -7,11 +7,11 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:god|God's]]**
-  * **[[:tr:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:tr:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:tr:obs:notes:key-terms:priest|priest]]**
-  * **[[:tr:obs:notes:key-terms:king|king]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:prophet]]**
+  * **[[:tr:obe:kt:Christ]]**
+  * **[[:tr:obe:kt:priest]]**
+  * **[[:tr:obe:other:king]]**
 
 
 ==== Translation Notes: ====
