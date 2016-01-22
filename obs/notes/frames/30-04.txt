@@ -5,8 +5,8 @@
 **Late in the day**, the **disciples** told **Jesus**, “It is late and there are no towns nearby. **Send the people away** so they can go get something to eat.”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
+  * **[[:tr:obe:kt:disciple]]**
+  * **[[:tr:obe:kt:Jesus]]**
 
 
 ===== Translation Notes: =====
