@@ -5,11 +5,11 @@
 The next day, the **Jewish leaders** brought **Peter** and **John** to the **high priest** and the other religious leaders. They asked Peter and John, “By what **power** did you heal this crippled man?”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:tr:obs:notes:key-terms/peter|Peter]]**
+  * **[[:tr:obe:other:Jewishleaders]]**
+  * **[[:tr:obe:other:Peter]]**
   * **[[:tr:obs:notes:key-terms/john|John]]**
-  * **[[:tr:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:tr:obs:notes:key-terms/power|power]]**
+  * **[[:tr:obe:kt:highpriest]]**
+  * **[[:tr:obe:kt:power]]**
 
 
 ===== Translation Notes: =====
