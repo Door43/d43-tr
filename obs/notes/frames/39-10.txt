@@ -5,14 +5,14 @@
 Jesus answered, “**You have said so**, but **my kingdom is not an earthly kingdom**. If it were, **my servants would fight for me**. I have come to earth to tell the **truth** about **God**. Everyone who **loves** the truth **listens to me**.” **Pilate** said, “**What is truth**?”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/kingdom-of-god|kingdom]]**
-  * **[[:tr:obs:notes:key-terms/kingdom|kingdom]]**
-  * **[[:tr:obs:notes:key-terms/servant|servants]]**
-  * **[[:tr:obs:notes:key-terms/true|truth]]**
-  * **[[:tr:obs:notes:key-terms/god|God]]**
-  * **[[:tr:obs:notes:key-terms/love|loves]]**
-  * **[[:tr:obs:notes:key-terms/pilate|Pilate]]**
+  * **[[:tr:obe:kt:Jesus]]**
+  * **[[:tr:obe:kt:kingdomofGod]]**
+  * **[[:tr:obe:other:kingdom]]**
+  * **[[:tr:obe:other:servant]]**
+  * **[[:tr:obe:kt:true]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:love]]**
+  * **[[:tr:obe:other:Pilate]]**
 
 
 ===== Translation Notes: =====
