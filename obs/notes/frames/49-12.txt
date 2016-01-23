@@ -7,7 +7,7 @@
 
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/god-son|Son of God]]**
+  * **[[:tr:obe:kt:SonofGod]]**
   * **[[:tr:obe:kt:save]]**
   * **[[:tr:obe:kt:god]]**
   * **[[:tr:obe:kt:jesus]]**
