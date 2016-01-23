@@ -3,7 +3,7 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-06.jpg?nolink}}
 
 **Right away**, **Saul** began **preaching** to the **Jews** in Damascus, saying, “**Jesus** is the **Son of God**!” The Jews were amazed that the man who had tried to destroy the **believers** now also believed in Jesus! Saul **reasoned with the Jews**, proving that Jesus was the **Messiah**.
-===== Important Terms: =====
+===== Terms: =====
 
   * **[[:tr:obe:other:Paul]]**
   * **[[:tr:obe:other:preach]]**
@@ -11,7 +11,7 @@
   * **[[:tr:obe:kt:Jesus]]**
   * **[[:tr:obe:kt:SonofGod]]**
   * **[[:tr:obe:kt:believer]]**
-  * **[[:tr:obs:notes:key-terms/messiah|Messiah]]**
+  * **[[:tr:obe:kt:Christ]]**
 
 
 
