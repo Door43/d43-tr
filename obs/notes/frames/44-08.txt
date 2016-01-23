@@ -9,7 +9,7 @@
   * **[[:tr:obe:other:heal]]**
   * **[[:tr:obe:kt:power]]**
   * **[[:tr:obe:kt:Jesus]]**
-  * **[[:tr:obs:notes:key-terms/messiah|Messiah]]**
+  * **[[:tr:obe:kt:Christ]]**
   * **[[:tr:obe:kt:crucify]]**
   * **[[:tr:obe:kt:God]]**
   * **[[:tr:obe:kt:raise]]**
