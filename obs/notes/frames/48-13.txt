@@ -11,8 +11,6 @@
   * **[[:tr:obe:kt:God]]**
   * **[[:tr:obe:kt:promise]]**
   * **[[:tr:obe:other:David]]**
-  * **[[:tr:obe:kt:godson]]**
-  * **[[:tr:obe:kt:messiah]]**
   * **[[:tr:obe:other:descendant]]**
   * **[[:tr:obe:kt:Jesus]]**
   * **[[:tr:obe:kt:SonofGod]]**
