@@ -13,7 +13,7 @@
   * **[[:tr:obe:kt:death]]**
   * **[[:tr:obe:kt:fulfill]]**
   * **[[:tr:obe:kt:prophet]]**
-  * **[[:tr:obs:notes:key-terms/messiah|Messiah]]**
+  * **[[:tr:obe:kt:Christ]]**
   * **[[:tr:obe:kt:suffer]]**
   * **[[:tr:obe:kt:repent]]**
   * **[[:tr:obe:kt:sin]]**
