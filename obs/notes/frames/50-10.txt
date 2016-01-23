@@ -5,7 +5,7 @@
 “When the world ends, the **angels** will gather together all the people **who belong to the devil** and throw them into **a raging fire**, where they will cry and grind their teeth in terrible **suffering**. Then **the righteous ones** will **shine like the sun** in the **kingdom** of **God their Father**.”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms:god-father|God their Father]]**
+  * **[[:tr:obe:kt:GodtheFather]]**
   * **[[:tr:obe:kt:angel]]**
   * **[[:tr:obe:kt:satan]]**
   * **[[:tr:obe:kt:suffer]]**
