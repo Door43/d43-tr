@@ -11,10 +11,10 @@ If you are a friend of **God** and a **servant** of **Jesus** the **Master**, yo
   * **[[:tr:obe:kt:lord]]**
   * **[[:tr:obe:other:obey]]**
   * **[[:tr:obe:kt:Christian]]**
-  * **[[:tr:obs:notes:key-terms/tempt]]**
+  * **[[:tr:obe:kt:tempt]]**
   * **[[:tr:obe:kt:sin]]**
-  * **[[:tr:obs:notes:key-terms/faithful]]**
-  * **[[:tr:obs:notes:key-terms/forgive]]**
+  * **[[:tr:obe:kt:faithful]]**
+  * **[[:tr:obe:kt:forgive]]**
 
 
 
