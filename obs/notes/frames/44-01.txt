@@ -6,7 +6,7 @@
 ===== Important Terms: =====
 
   * **[[:tr:obe:other:Peter]]**
-  * **[[:tr:obs:notes:key-terms/john|John]]**
+  * **[[:tr:obe:other:JohntheApostle]]**
   * **[[:tr:obe:kt:Temple]]**
   * **[[:tr:obe:other:beg]]**
 
