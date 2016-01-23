@@ -15,8 +15,8 @@
   * **[[:tr:obe:kt:messiah]]**
   * **[[:tr:obe:other:descendant]]**
   * **[[:tr:obe:kt:Jesus]]**
-  * **[[:tr:obs:notes:key-terms/god-son]]**
-  * **[[:tr:obs:notes:key-terms/Messiah]]**
+  * **[[:tr:obe:kt:SonofGod]]**
+  * **[[:tr:obe:kt:Christ]]**
 
 
 ===== Translation Notes: =====
