@@ -7,12 +7,12 @@ Then **Elijah** said to the **prophets** of **Baal**, “Kill a bull and prepare
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:elijah|Elijah]]**
-  * **[[:tr:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:tr:obs:notes:key-terms:baal|Baal]]**
-  * **[[:tr:obs:notes:key-terms:sacrifice|sacrifice]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:priest|priests]]**
+  * **[[:tr:obe:other:Elijah]]**
+  * **[[:tr:obe:kt:prophet]]**
+  * **[[:tr:obe:other:Baal]]**
+  * **[[:tr:obe:other:sacrifice]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:priest]]**
 
 
 ==== Translation Notes: ====
