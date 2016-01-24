@@ -12,12 +12,8 @@ After **Joshua** died, the **Israelites disobeyed God** and **did not drive out 
   * **[[:tr:obe:other:disobey]]**
   * **[[:tr:obe:kt:God]]**
   * **[[:tr:obe:other:Canaan]]**
-  * **[[:tr:obe:other:obey]]**
-  * 
-  * **[[:tr:obs:notes:key-terms:gods-law|God's laws]]**
-  * **[[:tr:obe:kt:GodsLaws]]**
-  * **[[:tr:obe:other:GodsLaws]]**
-  * 
+  * **[[:tr:obe:other:obey]]** 
+  * **[[:tr:obe:kt:lawofMoses]]**   
   * **[[:tr:obe:kt:worship]]**
   * **[[:tr:obe:kt:falsegod]]**
   * **[[:tr:obe:kt:Yahweh]]**
