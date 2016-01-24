@@ -7,13 +7,13 @@ After three and a half years, **God** told **Elijah** to return to the **kingdom
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:elijah|Elijah]]**
-  * **[[:tr:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel]]**
-  * **[[:tr:obs:notes:key-terms:ahab|Ahab]]**
-  * **[[:tr:obs:notes:key-terms:yahweh|Yahweh]]**
-  * **[[:tr:obs:notes:key-terms:worship|worshiped]]**
-  * **[[:tr:obs:notes:key-terms:baal|Baal]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:Elijah]]**
+  * **[[:tr:obe:other:kingdomofIsrael]]**
+  * **[[:tr:obe:other:Ahab]]**
+  * **[[:tr:obe:kt:Yahweh]]**
+  * **[[:tr:obe:kt:worship]]**
+  * **[[:tr:obe:other:Baal]]**
 
 
 ==== Translation Notes: ====
