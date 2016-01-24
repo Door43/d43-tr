@@ -7,11 +7,11 @@ The **prophets continued to speak for God** even though the people hated them. T
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:repent|repent]]**
-  * **[[:tr:obs:notes:key-terms:promise|promise]]**
-  * **[[:tr:obs:notes:key-terms:messiah|Messiah]]**
+  * **[[:tr:obe:kt:prophet]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:repent]]**
+  * **[[:tr:obe:kt:promise]]**
+  * **[[:tr:obe:kt:Christ]]**
 
 
 ==== Translation Notes: ====
