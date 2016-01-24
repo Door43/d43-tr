@@ -7,16 +7,16 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:joshua|Joshua]]**
-  * **[[:tr:obs:notes:key-terms:israel|Israel]]**
-  * **[[:tr:obs:notes:key-terms:obey|obey]]**
-  * **[[:tr:obs:notes:key-terms:covenant|covenant]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:tr:obs:notes:key-terms:sinai|Sinai]]**
-  * **[[:tr:obs:notes:key-terms:promise|promised]]**
-  * **[[:tr:obs:notes:key-terms:faithful|faithful]]**
-  * **[[:tr:obs:notes:key-terms:gods-law|his laws]]**
+  * **[[:tr:obe:other:Joshua]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:other:obey]]**
+  * **[[:tr:obe:kt:covenant]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:other:Sinai]]**
+  * **[[:tr:obe:kt:promise]]**
+  * **[[:tr:obe:kt:faithful]]**
+  * **[[:tr:obe:kt:lawofMoses]]**
 
 
 ==== Translation Notes: ====
