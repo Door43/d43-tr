@@ -7,13 +7,13 @@ After the time of **Elijah**, **God** chose a man named Elisha to be his **proph
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:elijah|Elijah]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:prophet|prophet]]**
-  * **[[:tr:obs:notes:key-terms:miracle|miracles]]**
-  * **[[:tr:obs:notes:key-terms:naaman|Naaman]]**
-  * **[[:tr:obs:notes:key-terms:heal|heal]]**
-  * **[[:tr:obs:notes:key-terms:jordan-river|Jordan River]]**
+  * **[[:tr:obe:other:Elijah]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:prophet]]**
+  * **[[:tr:obe:kt:miracle]]**
+  * **[[:tr:obe:other:Naaman]]**
+  * **[[:tr:obe:other:heal]]**
+  * **[[:tr:obe:other:JordanRiver]]**
 
 
 ==== Translation Notes: ====
