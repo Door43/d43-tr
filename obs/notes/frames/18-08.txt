@@ -7,12 +7,12 @@ The other ten tribes of the **nation of Israel** that rebelled against **Rehoboa
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:israel|nation of Israel]]**
-  * **[[:tr:obs:notes:key-terms:rehoboam|Rehoboam]]**
-  * **[[:tr:obs:notes:key-terms:jeroboam|Jeroboam]]**
-  * **[[:tr:obs:notes:key-terms:king|king]]**
-  * **[[:tr:obs:notes:key-terms:kingdom|kingdom]]**
-  * **[[:tr:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:other:Rehoboam]]**
+  * **[[:tr:obe:other:Jeroboam]]**
+  * **[[:tr:obe:other:king]]**
+  * **[[:tr:obe:other:kingdom]]**
+  * **[[:tr:obe:other:KingdomofIsrael]]**
 
 
 ==== Translation Notes: ====
