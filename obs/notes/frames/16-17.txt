@@ -7,13 +7,12 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:tr:obs:notes:key-terms:sin|sin]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:punish|punish]]**
-  * **[[:tr:obs:notes:key-terms:repent|repent]]**
-  * **[[:tr:obs:notes:key-terms:deliverer|deliverer]]**
-  * **[[:tr:obs:notes:key-terms:save|save]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:kt:sin]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:punish]]**
+  * **[[:tr:obe:kt:repent]]**
+  * **[[:tr:obe:kt:save]]**
 
 
 ==== Translation Notes: ====
