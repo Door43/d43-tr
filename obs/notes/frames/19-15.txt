@@ -7,10 +7,10 @@ At first **Naaman** was angry and **would not do it because it seemed foolish**.
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:naaman|Naaman]]**
-  * **[[:tr:obs:notes:key-terms:jordan-river|Jordan River]]**
-  * **[[:tr:obs:notes:key-terms:heal|healed]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
+  * **[[:tr:obe:other:Naaman]]**
+  * **[[:tr:obe:other:JordanRiver]]**
+  * **[[:tr:obe:other:heal]]**
+  * **[[:tr:obe:kt:God]]**
 
 
 ==== Translation Notes: ====
