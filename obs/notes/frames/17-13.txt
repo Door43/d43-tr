@@ -7,17 +7,17 @@ After **Uriah** was killed, **David** married **Bathsheba**. Later, she gave bir
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:uriah|Uriah]]**
-  * **[[:tr:obs:notes:key-terms:david|David]]**
-  * **[[:tr:obs:notes:key-terms:bathsheba|Bathsheba]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:prophet|prophet]]**
-  * **[[:tr:obs:notes:key-terms:nathan|Nathan]]**
-  * **[[:tr:obs:notes:key-terms:evil|evil]]**
-  * **[[:tr:obs:notes:key-terms:sin|sin]]**
-  * **[[:tr:obs:notes:key-terms:repent|repented]]**
-  * **[[:tr:obs:notes:key-terms:forgive|forgave]]**
-  * **[[:tr:obs:notes:key-terms:obey|obeyed]]**
+  * **[[:tr:obe:other:Uriah]]**
+  * **[[:tr:obe:other:David]]**
+  * **[[:tr:obe:other:Bathsheba]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:prophet]]**
+  * **[[:tr:obe:other:Nathan]]**
+  * **[[:tr:obe:kt:evil]]**
+  * **[[:tr:obe:kt:sin]]**
+  * **[[:tr:obe:kt:repent]]**
+  * **[[:tr:obe:kt:forgive]]**
+  * **[[:tr:obe:other:obey]]**
 
 
 ==== Translation Notes: ====
