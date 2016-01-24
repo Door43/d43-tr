@@ -7,9 +7,9 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:elijah|Elijah]]**
-  * **[[:tr:obs:notes:key-terms:ahab|Ahab]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:Elijah]]**
+  * **[[:tr:obe:other:Ahab]]**
 
 
 ==== Translation Notes: ====
