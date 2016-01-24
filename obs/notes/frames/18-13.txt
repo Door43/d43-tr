@@ -6,20 +6,20 @@
 The **kings** of **Judah** were **descendants** of **David**. Some of these kings were **good** men who **ruled justly** and **worshiped God**. But most of Judah’s kings were **evil**, **corrupt**, and they worshiped **idols**. Some of the kings even **sacrificed** their children to false **gods**. Most of the people of Judah also **rebelled** against God and worshiped other gods.
 ===== Important Terms: =====
 
-
-  * **[[:tr:obs:notes:key-terms:king|kings]]**
-  * **[[:tr:obs:notes:key-terms:kingdom-of-judah|Judah]]**
-  * **[[:tr:obs:notes:key-terms:descendant|descendants]]**
-  * **[[:tr:obs:notes:key-terms:david|David]]**
-  * **[[:tr:obs:notes:key-terms:good|good]]**
-  * **[[:tr:obs:notes:key-terms:justice|justly]]**
-  * **[[:tr:obs:notes:key-terms:worship|worshiped]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:evil|evil]]**
-  * **[[:tr:obs:notes:key-terms:idol|idols]]**
-  * **[[:tr:obs:notes:key-terms:sacrifice|sacrificed]]**
-  * **[[:tr:obs:notes:key-terms:god-false|gods]]**
-  * **[[:tr:obs:notes:key-terms:rebel|rebelled]]**
+e
+  * **[[:tr:obe:other:king]]**
+  * **[[:tr:obe:other:KingdomofJudah]]**
+  * **[[:tr:obe:other:descendant]]**
+  * **[[:tr:obe:other:David]]**
+  * **[[:tr:obe:kt:good]]**
+  * **[[:tr:obe:kt:justice]]**
+  * **[[:tr:obe:kt:worship]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:evil]]**
+  * **[[:tr:obe:other:idol]]**
+  * **[[:tr:obe:other:sacrifice]]**
+  * **[[:tr:obe:kt:falsegod]]**
+  * **[[:tr:obe:other:rebel]]**
 
 
 ==== Translation Notes: ====
