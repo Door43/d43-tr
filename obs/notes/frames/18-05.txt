@@ -7,10 +7,10 @@ After **Solomon** died, his son, **Rehoboam**, became **king**. Rehoboam was a f
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:solomon|Solomon]]**
-  * **[[:tr:obs:notes:key-terms:rehoboam|Rehoboam]]**
-  * **[[:tr:obs:notes:key-terms:king|king]]**
-  * **[[:tr:obs:notes:key-terms:israel|nation of Israel]]**
+  * **[[:tr:obe:other:Solomon]]**
+  * **[[:tr:obe:other:Rehoboam]]**
+  * **[[:tr:obe:other:king]]**
+  * **[[:tr:obe:other:Israel]]**
 
 
 ==== Translation Notes: ====
