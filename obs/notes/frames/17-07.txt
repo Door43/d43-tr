@@ -7,18 +7,18 @@ But **God** sent **the prophet Nathan** to **David** with this message, “Becau
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:prophet|prophet]]**
-  * **[[:tr:obs:notes:key-terms:nathan|Nathan]]**
-  * **[[:tr:obs:notes:key-terms:david|David]]**
-  * **[[:tr:obs:notes:key-terms:temple|Temple]]**
-  * **[[:tr:obs:notes:key-terms:son|son]]**
-  * **[[:tr:obs:notes:key-terms:bless|bless]]**
-  * **[[:tr:obs:notes:key-terms:king|king]]**
-  * **[[:tr:obs:notes:key-terms:israel|Israel]]**
-  * **[[:tr:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:tr:obs:notes:key-terms:descendant|descendants]]**
-  * **[[:tr:obs:notes:key-terms:sin|sin]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:prophet]]**
+  * **[[:tr:obe:other:Nathan]]**
+  * **[[:tr:obe:other:David]]**
+  * **[[:tr:obe:kt:Temple]]**
+  * **[[:tr:obe:kt:son]]**
+  * **[[:tr:obe:kt:bless]]**
+  * **[[:tr:obe:other:king]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:kt:Christ]]**
+  * **[[:tr:obe:other:descendant]]**
+  * **[[:tr:obe:kt:sin]]**
 
 
 ==== Translation Notes: ====
