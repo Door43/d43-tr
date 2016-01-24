@@ -7,9 +7,9 @@ Then **Elijah** said, â€œDo not let any of the **prophets** of **Baal escape**!â
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:elijah|Elijah]]**
-  * **[[:tr:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:tr:obs:notes:key-terms:baal|Baal]]**
+  * **[[:tr:obe:other:Elijah]]**
+  * **[[:tr:obe:kt:prophet]]**
+  * **[[:tr:obe:other:Baal]]**
 
 
 ==== Translation Notes: ====
