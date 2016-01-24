@@ -8,16 +8,16 @@ Then **Elijah prayed**, “**Yahweh**, **God** of **Abraham**, **Isaac**, and **
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:elijah|Elijah]]**
-  * **[[:tr:obs:notes:key-terms:pray|prayed]]**
-  * **[[:tr:obs:notes:key-terms:yahweh|Yahweh]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:abraham|Abraham]]**
-  * **[[:tr:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:tr:obs:notes:key-terms:jacob|Jacob]]**
-  * **[[:tr:obs:notes:key-terms:israel|Israel]]**
-  * **[[:tr:obs:notes:key-terms:servant|servant]]**
-  * **[[:tr:obs:notes:key-terms:true|true]]**
+  * **[[:tr:obe:other:Elijah]]**
+  * **[[:tr:obe:other:pray]]**
+  * **[[:tr:obe:kt:Yahweh]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:Abraham]]**
+  * **[[:tr:obe:other:Isaac]]**
+  * **[[:tr:obe:other:Jacob]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:other:servant]]**
+  * **[[:tr:obe:kt:true]]**
 
 
 ==== Translation Notes: ====
