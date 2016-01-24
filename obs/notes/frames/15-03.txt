@@ -7,12 +7,12 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:jordan-river|Jordan River]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:joshua|Joshua]]**
-  * **[[:tr:obs:notes:key-terms:jericho|Jericho]]**
-  * **[[:tr:obs:notes:key-terms:obey|obeyed]]**
-  * **[[:tr:obs:notes:key-terms:priest|priests]]**
+  * **[[:tr:obe:other:JordanRiver]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:Joshua]]**
+  * **[[:tr:obe:other:Jericho]]**
+  * **[[:tr:obe:other:obey]]**
+  * **[[:tr:obe:kt:priest]]**
 
 
 ==== Translation Notes: ====
