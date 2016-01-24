@@ -7,16 +7,16 @@ The **Israelites** were angry when they found out that the **Gibeonites** had de
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:tr:obs:notes:key-terms:gibeon|Gibeonites]]**
-  * **[[:tr:obs:notes:key-terms:peace|peace]]**
-  * **[[:tr:obs:notes:key-terms:promise|promise]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:king|kings]]**
-  * **[[:tr:obs:notes:key-terms:canaan|Canaan]]**
-  * **[[:tr:obs:notes:key-terms:amorite|Amorites]]**
-  * **[[:tr:obs:notes:key-terms:gibeon|Gibeon]]**
-  * **[[:tr:obs:notes:key-terms:joshua|Joshua]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:other:Gibeon]]**
+  * **[[:tr:obe:other:peace]]**
+  * **[[:tr:obe:kt:promise]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:king]]**
+  * **[[:tr:obe:other:Canaan]]**
+  * **[[:tr:obe:other:Amorite]]**
+  * **[[:tr:obe:other:Gibeon]]**
+  * **[[:tr:obe:other:Joshua]]**
 
 
 ==== Translation Notes: ====
