@@ -7,9 +7,9 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:rehoboam|Rehoboam]]**
-  * **[[:tr:obs:notes:key-terms:solomon|Solomon]]**
-  * **[[:tr:obs:notes:key-terms:punish|punish]]**
+  * **[[:tr:obe:other:Rehoboam]]**
+  * **[[:tr:obe:other:Solomon]]**
+  * **[[:tr:obe:other:punish]]**
 
 
 ==== Translation Notes: ====
