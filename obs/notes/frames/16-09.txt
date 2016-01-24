@@ -7,12 +7,12 @@ For the first **sign**, **Gideon** laid a **sheep skin** on the ground and asked
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:gideon|Gideon]]**
-  * **[[:tr:obs:notes:key-terms:sheep|sheep]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:save|save]]**
-  * **[[:tr:obs:notes:key-terms:israel|Israel]]**
-  * **[[:tr:obs:notes:key-terms:midian|Midianites]]**
+  * **[[:tr:obe:other:Gideon]]**
+  * **[[:tr:obe:other:sheep]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:save]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:other:Midian]]**
 
 
 ==== Translation Notes: ====
