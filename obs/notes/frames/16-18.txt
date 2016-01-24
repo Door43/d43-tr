@@ -7,8 +7,8 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:king|king]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:king]]**
 
 
 ==== Translation Notes: ====
