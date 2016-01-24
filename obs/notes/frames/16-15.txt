@@ -7,9 +7,9 @@ The people wanted to make **Gideon** their **king**. Gideon **did not allow them
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:gideon|Gideon]]**
-  * **[[:tr:obs:notes:key-terms:king|king]]**
-  * **[[:tr:obs:notes:key-terms:midian|Midianites]]**
+  * **[[:tr:obe:other:Gideon]]**
+  * **[[:tr:obe:other:king]]**
+  * **[[:tr:obe:other:Midian]]**
 
 
 ==== Translation Notes: ====
