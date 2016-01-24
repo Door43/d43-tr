@@ -7,9 +7,9 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:israel|Israelite]]**
-  * **[[:tr:obs:notes:key-terms:gideon|Gideon]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:other:Gideon]]**
+  * **[[:tr:obe:kt:God]]**
 
 
 ==== Translation Notes: ====
