@@ -7,10 +7,10 @@ At the end of the day, **Elijah** prepared a **sacrifice** to **God**. Then he t
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:elijah|Elijah]]**
-  * **[[:tr:obs:notes:key-terms:sacrifice|sacrifice]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:altar|altar]]**
+  * **[[:tr:obe:other:Elijah]]**
+  * **[[:tr:obe:other:sacrifice]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:altar]]**
 
 
 ==== Translation Notes: ====
