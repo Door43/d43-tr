@@ -8,11 +8,11 @@ Because the **Israelites** kept **disobeying God**, he **punished** them by allo
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:tr:obs:notes:key-terms:disobey|disobeying]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:punish|punished]]**
-  * **[[:tr:obs:notes:key-terms:repent|repented]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:other:disobey]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:punish]]**
+  * **[[:tr:obe:kt:repent]]**
 
 
 ==== Translation Notes: ====
