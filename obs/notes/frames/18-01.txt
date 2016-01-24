@@ -7,12 +7,12 @@ After many years, **David** died, and his son **Solomon** began to rule over **I
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:david|David]]**
-  * **[[:tr:obs:notes:key-terms:solomon|Solomon]]**
-  * **[[:tr:obs:notes:key-terms:israel|Israel]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:wise|wisdom]]**
-  * **[[:tr:obs:notes:key-terms:judge|judge]]**
+  * **[[:tr:obe:other:David]]**
+  * **[[:tr:obe:other:Solomon]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:wise]]**
+  * **[[:tr:obe:kt:judge]]**
 
 
 ==== Translation Notes: ====
