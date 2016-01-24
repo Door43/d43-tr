@@ -7,14 +7,14 @@ In **Jerusalem**, **Solomon** built the **Temple** for which his father **David*
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:jerusalem|Jerusalem]]**
-  * **[[:tr:obs:notes:key-terms:solomon|Solomon]]**
-  * **[[:tr:obs:notes:key-terms:temple|Temple]]**
-  * **[[:tr:obs:notes:key-terms:david|David]]**
-  * **[[:tr:obs:notes:key-terms:worship|worshiped]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:sacrifice|sacrifices]]**
-  * **[[:tr:obs:notes:key-terms:tent-of-meeting|Tent of Meeting]]**
+  * **[[:tr:obe:other:Jerusalem]]**
+  * **[[:tr:obe:other:Solomon]]**
+  * **[[:tr:obe:kt:Temple]]**
+  * **[[:tr:obe:other:David]]**
+  * **[[:tr:obe:kt:worship]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:sacrifice]]**
+  * **[[:tr:obe:other:TentofMeeting]]**
 
 
 ==== Translation Notes: ====
