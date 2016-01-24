@@ -7,12 +7,12 @@ One day, a man of Israel named **Gideon** was **threshing grain secretly** so th
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:gideon|Gideon]]**
-  * **[[:tr:obs:notes:key-terms:midian|Midianites]]**
-  * **[[:tr:obs:notes:key-terms:angel|angel]]**
-  * **[[:tr:obs:notes:key-terms:yahweh|Yahweh]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:israel|Israel]]**
+  * **[[:tr:obe:other:Gideon]]**
+  * **[[:tr:obe:other:Midian]]**
+  * **[[:tr:obe:kt:angel]]**
+  * **[[:tr:obe:kt:Yahweh]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:Israel]]**
 
 
 ==== Translation Notes: ====
