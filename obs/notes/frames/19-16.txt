@@ -7,17 +7,17 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:tr:obs:notes:key-terms:worship|worshiping]]**
-  * **[[:tr:obs:notes:key-terms:idol|idols]]**
-  * **[[:tr:obs:notes:key-terms:justice|justice]]**
-  * **[[:tr:obs:notes:key-terms:mercy|mercy]]**
-  * **[[:tr:obs:notes:key-terms:evil|evil]]**
-  * **[[:tr:obs:notes:key-terms:obey|obeying]]**
-  * **[[:tr:obs:notes:key-terms:judge|judge]]**
-  * **[[:tr:obs:notes:key-terms:guilt|guilty]]**
-  * **[[:tr:obs:notes:key-terms:punish|punish]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:prophet]]**
+  * **[[:tr:obe:kt:worship]]**
+  * **[[:tr:obe:other:idol]]**
+  * **[[:tr:obe:kt:justice]]**
+  * **[[:tr:obe:kt:mercy]]**
+  * **[[:tr:obe:kt:evil]]**
+  * **[[:tr:obe:other:obey]]**
+  * **[[:tr:obe:kt:judge]]**
+  * **[[:tr:obe:kt:guilt]]**
+  * **[[:tr:obe:other:punish]]**
 
 
 ==== Translation Notes: ====
