@@ -7,10 +7,10 @@ After this battle, **God gave each tribe of Israel its own section of the Promis
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:israel|Israel]]**
-  * **[[:tr:obs:notes:key-terms:promised-land|Promised Land]]**
-  * **[[:tr:obs:notes:key-terms:peace|peace]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:kt:PromisedLand]]**
+  * **[[:tr:obe:other:peace]]**
 
 
 ==== Translation Notes: ====
