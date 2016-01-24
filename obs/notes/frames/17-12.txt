@@ -7,9 +7,9 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:bathsheba|Bathsheba's]]**
-  * **[[:tr:obs:notes:key-terms:uriah|Uriah]]**
-  * **[[:tr:obs:notes:key-terms:david|David's]]**
+  * **[[:tr:obe:other:Bathsheba]]**
+  * **[[:tr:obe:other:Uriah]]**
+  * **[[:tr:obe:other:David]]**
 
 
 ==== Translation Notes: ====
