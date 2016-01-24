@@ -7,12 +7,12 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:solomon|Solomon]]**
-  * **[[:tr:obs:notes:key-terms:punish|punishment]]**
-  * **[[:tr:obs:notes:key-terms:promise|promised]]**
-  * **[[:tr:obs:notes:key-terms:israel|Israel]]**
-  * **[[:tr:obs:notes:key-terms:kingdom|kingdoms]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:Solomon]]**
+  * **[[:tr:obe:other:punish]]**
+  * **[[:tr:obe:kt:promise]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:other:kingdom]]**
 
 
 ==== Translation Notes: ====
