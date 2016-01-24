@@ -7,14 +7,14 @@ Then **Gideon used the gold to make a special garment** like the **high priest**
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:gideon|Gideon]]**
-  * **[[:tr:obs:notes:key-terms:priest-high|high priest]]**
-  * **[[:tr:obs:notes:key-terms:worship|worshiping]]**
-  * **[[:tr:obs:notes:key-terms:idol|idol]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:punish|punished]]**
-  * **[[:tr:obs:notes:key-terms:israel|Israel]]**
-  * **[[:tr:obs:notes:key-terms:deliverer|deliverer]]**
+  * **[[:tr:obe:other:Gideon]]**
+  * **[[:tr:obe:kt:highpriest]]**
+  * **[[:tr:obe:kt:worship]]**
+  * **[[:tr:obe:other:idol]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:punish]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:kt:deliverer]]**
 
 
 ==== Translation Notes: ====
