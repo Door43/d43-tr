@@ -7,10 +7,10 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:david|David]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:israel|Israel]]**
-  * **[[:tr:obs:notes:key-terms:praise|praised]]**
+  * **[[:tr:obe:other:David]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:other:praise]]**
 
 
 ==== Translation Notes: ====
