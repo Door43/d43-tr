@@ -7,11 +7,11 @@ Ten of the **tribes of the nation of Israel rebelled against Rehoboam**. Only tw
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:israel|nation of Israel]]**
-  * **[[:tr:obs:notes:key-terms:rebel|rebelled]]**
-  * **[[:tr:obs:notes:key-terms:rehoboam|Rehoboam]]**
-  * **[[:tr:obs:notes:key-terms:faithful|faithful]]**
-  * **[[:tr:obs:notes:key-terms:kingdom-of-judah|kingdom of Judah]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:other:rebel]]**
+  * **[[:tr:obe:other:Rehoboam]]**
+  * **[[:tr:obe:kt:faithful]]**
+  * **[[:tr:obe:other:KingdomofJudah]]**
 
 
 ==== Translation Notes: ====
