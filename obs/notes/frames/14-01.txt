@@ -5,12 +5,12 @@
 After **God** had told the **Israelites** the laws that he wanted them to obey as part of his **covenant** with them, they left **Mount Sinai**. God began leading them toward the **Promised Land**, which was also called **Canaan**. The **pillar of cloud** went ahead of them toward Canaan and they followed it.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:tr:obs:notes:key-terms:covenant|covenant]]**
-  * **[[:tr:obs:notes:key-terms:sinai|Mount Sinai]]**
-  * **[[:tr:obs:notes:key-terms:promised-land|Promised Land]]**
-  * **[[:tr:obs:notes:key-terms:canaan|Canaan]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:kt:covenant]]**
+  * **[[:tr:obe:other:Sinai]]**
+  * **[[:tr:obe:kt:PromisedLand]]**
+  * **[[:tr:obe:other:Canaan]]**
 ==== Translation Notes: ====
 
   * **bulut sütunu** - Bunu <b>[[:en:obs:notes:frames:12-02|[12-02]]]</b>de nasıl çevirdiğinize bakınız.
