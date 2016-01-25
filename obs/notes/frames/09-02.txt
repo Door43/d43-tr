@@ -8,11 +8,11 @@ After hundreds of years, the number of **Israelites** had become very large. The
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:tr:obs:notes:key-terms:egypt|Egyptians]]**
-  * **[[:tr:obs:notes:key-terms:joseph|Joseph]]**
-  * **[[:tr:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:tr:obs:notes:key-terms:servant|slaves]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:other:Egypt]]**
+  * **[[:tr:obe:other:JosephOT]]**
+  * **[[:tr:obe:other:Pharaoh]]**
+  * **[[:tr:obe:other:servant]]**
 
 
 ==== Translation Notes: ====
