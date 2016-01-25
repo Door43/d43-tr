@@ -7,13 +7,13 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:egypt|Egypt]]**
-  * **[[:tr:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:tr:obs:notes:key-terms:moses|Moses]]**
-  * **[[:tr:obs:notes:key-terms:aaron|Aaron]]**
-  * **[[:tr:obs:notes:key-terms:sin|sinned]]**
-  * **[[:tr:obs:notes:key-terms:pray|prayed]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:Egypt]]**
+  * **[[:tr:obe:other:Pharaoh]]**
+  * **[[:tr:obe:other:Moses]]**
+  * **[[:tr:obe:other:Aaron]]**
+  * **[[:tr:obe:kt:sin]]**
+  * **[[:tr:obe:other:pray]]**
 
 
 ==== Translation Notes: ====
