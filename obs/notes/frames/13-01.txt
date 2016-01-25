@@ -7,11 +7,11 @@ After **God** led the **Israelites** through the **Red Sea**, he led them throug
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:tr:obs:notes:key-terms:red-sea|Red Sea]]**
-  * **[[:tr:obs:notes:key-terms:sinai|Sinai]]**
-  * **[[:tr:obs:notes:key-terms:moses|Moses]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:other:RedSea]]**
+  * **[[:tr:obe:other:Sinai]]**
+  * **[[:tr:obe:other:Moses]]**
 
 
 ==== Translation Notes: ====
