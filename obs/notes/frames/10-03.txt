@@ -7,10 +7,10 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:nile-river|Nile River]]**
-  * **[[:tr:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:tr:obs:notes:key-terms:israel|Israelites]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:NileRiver]]**
+  * **[[:tr:obe:other:Pharaoh]]**
+  * **[[:tr:obe:other:Israel]]**
 
 
 ==== Translation Notes: ====
