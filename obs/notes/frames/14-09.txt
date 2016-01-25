@@ -7,10 +7,10 @@ When the people heard this, they were sorry **they had sinned**. They took their
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:sin|sinned]]**
-  * **[[:tr:obs:notes:key-terms:canaan|Canaan]]**
-  * **[[:tr:obs:notes:key-terms:moses|Moses]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
+  * **[[:tr:obe:kt:sin]]**
+  * **[[:tr:obe:other:Canaan]]**
+  * **[[:tr:obe:other:Moses]]**
+  * **[[:tr:obe:kt:God]]**
 
 
 ==== Translation Notes: ====
