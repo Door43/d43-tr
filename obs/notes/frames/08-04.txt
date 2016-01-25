@@ -8,12 +8,12 @@ The **slave** traders took **Joseph** to **Egypt**. Egypt was a large, powerful 
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:servant|slave]]**
-  * **[[:tr:obs:notes:key-terms:joseph|Joseph]]**
-  * **[[:tr:obs:notes:key-terms:egypt|Egypt]]**
-  * **[[:tr:obs:notes:key-terms:nile-river|Nile River]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:bless|blessed]]**
+  * **[[:tr:obe:other:servant]]**
+  * **[[:tr:obe:other:Josephot]]**
+  * **[[:tr:obe:other:Egypt]]**
+  * **[[:tr:obe:other:NileRiver]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:bless]]**
 
 
 ==== Translation Notes: ====
