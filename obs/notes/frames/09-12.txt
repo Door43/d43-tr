@@ -7,10 +7,10 @@ One day while **Moses** was **taking care of his sheep**, he saw a bush that was
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:moses|Moses]]**
-  * **[[:tr:obs:notes:key-terms:sheep|sheep]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:holy|holy]]**
+  * **[[:tr:obe:other:Moses]]**
+  * **[[:tr:obe:other:sheep]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:holy]]**
 
 
 ==== Translation Notes: ====
