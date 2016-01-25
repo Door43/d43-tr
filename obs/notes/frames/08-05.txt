@@ -8,11 +8,11 @@ His master’s wife **tried to sleep with Joseph**, but Joseph refused to **sin 
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:joseph|Joseph]]**
-  * **[[:tr:obs:notes:key-terms:sin|sin]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:faithful|faithful]]**
-  * **[[:tr:obs:notes:key-terms:bless|blessed]]**
+  * **[[:tr:obe:other:Josephot]]**
+  * **[[:tr:obe:kt:sin]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:faithful]]**
+  * **[[:tr:obe:kt:bless]]**
 
 
 ==== Translation Notes: ====
