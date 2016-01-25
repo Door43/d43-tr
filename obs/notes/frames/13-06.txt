@@ -7,7 +7,7 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:adultery|adultery]]**
+  * **[[:tr:obe:kt:adultery]]**
 
 
 ==== Translation Notes: ====
