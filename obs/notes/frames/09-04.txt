@@ -16,5 +16,5 @@
 ==== Translation Notes: ====
 
 
-  * **gören** - Bunu «anlayan» ya da «bilen» şeklinde de çevirebiliriz.
+  * **gören** - Bunu "anlayan" ya da "bilen" şeklinde de çevirebiliriz.
 **[[:tr:obs:notes:frames:09-03|<<]] | [[:tr:obs:notes:09|Up]] | [[:tr:obs:notes:frames:09-05|>>]]**
