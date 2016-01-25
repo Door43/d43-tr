@@ -8,13 +8,13 @@ Then **God** said to **Abraham**, “Because you were willing to give me everyth
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:abraham|Abraham]]**
-  * **[[:tr:obs:notes:key-terms:son|son]]**
-  * **[[:tr:obs:notes:key-terms:promise|promise]]**
-  * **[[:tr:obs:notes:key-terms:bless|bless]]**
-  * **[[:tr:obs:notes:key-terms:descendant|descendants]]**
-  * **[[:tr:obs:notes:key-terms:obey|obeyed]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:Abraham]]**
+  * **[[:tr:obe:kt:son]]**
+  * **[[:tr:obe:kt:promise]]**
+  * **[[:tr:obe:kt:bless]]**
+  * **[[:tr:obe:other:descendant]]**
+  * **[[:tr:obe:other:obey]]**
 
 
 ===== Translation Notes: =====
