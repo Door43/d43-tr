@@ -7,19 +7,19 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:promise|promised]]**
-  * **[[:tr:obs:notes:key-terms:abraham|Abraham]]**
-  * **[[:tr:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:tr:obs:notes:key-terms:jacob|Jacob]]**
-  * **[[:tr:obs:notes:key-terms:promised-land|Promised Land]]**
-  * **[[:tr:obs:notes:key-terms:descendant|descendants]]**
-  * **[[:tr:obs:notes:key-terms:people-group|people groups]]**
-  * **[[:tr:obs:notes:key-terms:canaan|Canaanites]]**
-  * **[[:tr:obs:notes:key-terms:worship|worship]]**
-  * **[[:tr:obs:notes:key-terms:obey|obey]]**
-  * **[[:tr:obs:notes:key-terms:god-false|false gods]]**
-  * **[[:tr:obs:notes:key-terms:evil|evil]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:promise]]**
+  * **[[:tr:obe:other:Abraham]]**
+  * **[[:tr:obe:other:Isaac]]**
+  * **[[:tr:obe:other:Jacob]]**
+  * **[[:tr:obe:kt:PromisedLand]]**
+  * **[[:tr:obe:other:descendant]]**
+  * **[[:tr:obe:other:peoplegroup]]**
+  * **[[:tr:obe:other:Canaan]]**
+  * **[[:tr:obe:kt:worship]]**
+  * **[[:tr:obe:other:obey]]**
+  * **[[:tr:obe:kt:falsegod]]**
+  * **[[:tr:obe:kt:evil]]**
 
 
 ==== Translation Notes: ====
