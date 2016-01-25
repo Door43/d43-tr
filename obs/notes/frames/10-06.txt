@@ -7,10 +7,10 @@ Next, **God** caused all the farm animals that belonged to the **Egyptians** to 
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:egypt|Egyptians]]**
-  * **[[:tr:obs:notes:key-terms:pharaoh|Pharaoh's]]**
-  * **[[:tr:obs:notes:key-terms:israel|Israelites]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:Egypt]]**
+  * **[[:tr:obe:other:Pharaoh]]**
+  * **[[:tr:obe:other:Israel]]**
 
 
 ==== Translation Notes: ====
