@@ -16,6 +16,6 @@
 ==== Translation Notes: ====
 
 
-  * **hayran oldu** - Firavun Yusuf’un bilgeliğine hayran oldu ve ona saygı duydu. Yusuf’un halkı faydalandıracak bilge kararlar vereceğine güvendi. Belki de «Yusuf’un bilgeliğine hayran oldu» ya da «...bilgeliğinden etkilendi» şeklinde söylendiğinde bu fikir daha iyi anlaşılır.
+  * **hayran oldu** - Firavun Yusuf’un bilgeliğine hayran oldu ve ona saygı duydu. Yusuf’un halkı faydalandıracak bilge kararlar vereceğine güvendi. Belki de "Yusuf’un bilgeliğine hayran oldu" ya da "...bilgeliğinden etkilendi" şeklinde söylendiğinde bu fikir daha iyi anlaşılır.
   * **ikinci güç sahibi** - Firavun Yusuf’u bütün Mısır üzerinde çok kudretli ve önemli yönetici yaptı.
 **[[:tr:obs:notes:frames:08-07|<<]] | [[:tr:obs:notes:08|Up]] | [[:tr:obs:notes:frames:08-09|>>]]**
