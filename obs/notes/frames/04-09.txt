@@ -9,9 +9,9 @@ Then **God** made a **covenant** with **Abram**. A covenant is an agreement betw
 
 
   * **[[:tr:obe:kt:God]]**
-  * **[[:tr:obe:other:covenant]]**
+  * **[[:tr:obe:kt:covenant]]**
   * **[[:tr:obe:other:abraham]]**
-  * **[[:ttr:obe:other:son]]**
+  * **[[:tr:obe:kt:son]]**
   * **[[:tr:obe:other:Canaan]]**
   * **[[:tr:obe:other:descendant]]**
 
