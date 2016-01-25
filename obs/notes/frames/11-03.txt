@@ -5,11 +5,11 @@
 **God** told the **Israelites** to put some of the **lamb's blood** around the door of their house, and to roast the meat and eat it quickly, along with bread that was **made without yeast**. He also told them to be ready to leave **Egypt when they ate**.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:tr:obs:notes:key-terms:lamb|lamb's]]**
-  * **[[:tr:obs:notes:key-terms:blood|blood]]**
-  * **[[:tr:obs:notes:key-terms:egypt|Egypt]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:kt:lamb]]**
+  * **[[:tr:obe:kt:blood]]**
+  * **[[:tr:obe:other:Egypt]]**
 ==== Translation Notes: ====
 
   * **mayasız** - Maya, hamura ilave edilen, hamurun şişmesini, ekmeğin pişerken kalkmasını sağlayan bir maddedir. «Kalkmasını sağlayan madde kullanmadan pişirilen» şeklinde çevrilebilir. Mayalı ekmek pişirmek daha çok zaman alacaktı, mayasız ekmek pişirmek Mısır’ı çabuk terketmeye hazır olmanın bir yoluydu.
