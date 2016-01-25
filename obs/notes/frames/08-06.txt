@@ -8,12 +8,12 @@ After two years, **Joseph** was still in prison, even though he was **innocent**
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:joseph|Joseph]]**
-  * **[[:tr:obs:notes:key-terms:innocent|innocent]]**
-  * **[[:tr:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:tr:obs:notes:key-terms:egypt|Egyptians]]**
-  * **[[:tr:obs:notes:key-terms:king|kings]]**
-  * **[[:tr:obs:notes:key-terms:dream|dreams]]**
+  * **[[:tr:obe:other:Josephot]]**
+  * **[[:tr:obe:kt:innocent]]**
+  * **[[:tr:obe:other:Pharaoh]]**
+  * **[[:tr:obe:other:Egypt]]**
+  * **[[:tr:obe:other:king]]**
+  * **[[:tr:obe:other:dream]]**
 
 
 ==== Translation Notes: ====
