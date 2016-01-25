@@ -8,9 +8,9 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:jacob|Jacob]]**
-  * **[[:tr:obs:notes:key-terms:rebekah|Rebekah's]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
+  * **[[:tr:obe:other:Jacob]]**
+  * **[[:tr:obe:other:Rebekah]]**
+  * **[[:tr:obe:kt:God]]**
 
 
 ===== Translation Notes: =====
