@@ -9,10 +9,10 @@ One day, **Abram** met **Melchizedek**, the **priest** of **God Most High**. Mel
 
 
   * **[[:tr:obe:other:abraham]]**
-  * **[[:tr:obe:other:priest]]**
-  * **[[:tr:obe:other:god]]**
-  * **[[:tr:obe:other:bless]]**
-  * **[[:tr:obe:other:heaven]]**
+  * **[[:tr:obe:kt:priest]]**
+  * **[[:tr:obe:kt:god]]**
+  * **[[:tr:obe:kt:bless]]**
+  * **[[:tr:obe:kt:heaven]]**
 
 
 ===== Translation Notes: =====
