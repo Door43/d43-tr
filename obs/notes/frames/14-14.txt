@@ -7,14 +7,14 @@ After the **Israelites** had wandered in the wilderness for forty years, all of 
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:tr:obs:notes:key-terms:rebel|rebelled]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:promised-land|Promised Land]]**
-  * **[[:tr:obs:notes:key-terms:moses|Moses]]**
-  * **[[:tr:obs:notes:key-terms:joshua|Joshua]]**
-  * **[[:tr:obs:notes:key-terms:promise|promised]]**
-  * **[[:tr:obs:notes:key-terms:prophet|prophet]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:other:rebel]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:PromisedLand]]**
+  * **[[:tr:obe:other:Moses]]**
+  * **[[:tr:obe:other:Joshua]]**
+  * **[[:tr:obe:kt:promise]]**
+  * **[[:tr:obe:kt:prophet]]**
 
 
 ==== Translation Notes: ====
