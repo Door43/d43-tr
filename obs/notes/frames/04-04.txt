@@ -9,8 +9,8 @@
 
   * **[[:tr:obe:kt:God]]**
   * **[[:tr:obe:other:abraham]]**
-  * **[[:tr:obe:other:bless]]**
-  * **[[:tr:obe:other:curse]]**
+  * **[[:tr:obe:kt:bless]]**
+  * **[[:tr:obe:kt:curse]]**
 
 ===== Translation Notes: =====
 
