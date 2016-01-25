@@ -8,12 +8,12 @@ When they reached the place of **sacrifice**, **Abraham** tied up his **son Isaa
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:sacrifice|sacrifice]]**
-  * **[[:tr:obs:notes:key-terms:abraham|Abraham]]**
-  * **[[:tr:obs:notes:key-terms:son|son]]**
-  * **[[:tr:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:tr:obs:notes:key-terms:altar|altar]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
+  * **[[:tr:obe:other:sacrifice]]**
+  * **[[:tr:obe:other:Abraham]]**
+  * **[[:tr:obe:kt:son]]**
+  * **[[:tr:obe:other:Isaac]]**
+  * **[[:tr:obe:other:|altar]]**
+  * **[[:tr:obe:kt:God]]**
 
 
 ===== Translation Notes: =====
