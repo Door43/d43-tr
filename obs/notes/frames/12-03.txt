@@ -7,11 +7,11 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:tr:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:tr:obs:notes:key-terms:servant|slaves]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:god-false|gods]]**
+  * **[[:tr:obe:other:Pharaoh]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:other:servant]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:falsegod]]**
 
 
 ==== Translation Notes: ====
