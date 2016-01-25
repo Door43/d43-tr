@@ -7,14 +7,14 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:moses|Moses]]**
-  * **[[:tr:obs:notes:key-terms:israel|Israel]]**
-  * **[[:tr:obs:notes:key-terms:obey|obey]]**
-  * **[[:tr:obs:notes:key-terms:covenant|covenant]]**
-  * **[[:tr:obs:notes:key-terms:kingdom|kingdom]]**
-  * **[[:tr:obs:notes:key-terms:priest|priests]]**
-  * **[[:tr:obs:notes:key-terms:holy|holy]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:Moses]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:other:obey]]**
+  * **[[:tr:obe:kt:covenant]]**
+  * **[[:tr:obe:other:kingdom]]**
+  * **[[:tr:obe:kt:priest]]**
+  * **[[:tr:obe:kt:holy]]**
 
 
 ==== Translation Notes: ====
