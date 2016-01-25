@@ -8,9 +8,9 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:tr:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:tr:obs:notes:key-terms:nile-river|Nile River]]**
+  * **[[:tr:obe:other:Pharaoh]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:other:NileRiver]]**
 
 
 ==== Translation Notes: ====
