@@ -7,10 +7,10 @@ A daughter of **Pharaoh** saw the basket and looked inside. When she saw the bab
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:tr:obs:notes:key-terms:son|son]]**
-  * **[[:tr:obs:notes:key-terms:israel|Israelite]]**
-  * **[[:tr:obs:notes:key-terms:moses|Moses]]**
+  * **[[:tr:obe:other:Pharaoh]]**
+  * **[[:tr:obe:kt:son]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:other:Moses]]**
 
 
 ==== Translation Notes: ====
