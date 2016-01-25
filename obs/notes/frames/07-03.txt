@@ -8,11 +8,11 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:tr:obs:notes:key-terms:bless|blessing]]**
-  * **[[:tr:obs:notes:key-terms:esau|Esau]]**
-  * **[[:tr:obs:notes:key-terms:rebekah|Rebekah]]**
-  * **[[:tr:obs:notes:key-terms:jacob|Jacob]]**
+  * **[[:tr:obe:other:Isaac]]**
+  * **[[:tr:obe:kt:bless]]**
+  * **[[:tr:obe:other:Esau]]**
+  * **[[:tr:obe:other:Rebekah]]**
+  * **[[:tr:obe:other:Jacob]]**
 
 
 ===== Translation Notes: =====
