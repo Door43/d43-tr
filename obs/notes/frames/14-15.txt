@@ -7,13 +7,13 @@ Then **God** told **Moses** to go to the top of a mountain so he could see the *
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:moses|Moses]]**
-  * **[[:tr:obs:notes:key-terms:promised-land|Promised Land]]**
-  * **[[:tr:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:tr:obs:notes:key-terms:joshua|Joshua]]**
-  * **[[:tr:obs:notes:key-terms:trust|trusted]]**
-  * **[[:tr:obs:notes:key-terms:obey|obeyed]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:Moses]]**
+  * **[[:tr:obe:kt:PromisedLand]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:other:Joshua]]**
+  * **[[:tr:obe:kt:trust]]**
+  * **[[:tr:obe:other:obey]]**
 
 
 ==== Translation Notes: ====
