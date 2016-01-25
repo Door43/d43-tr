@@ -8,9 +8,9 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:jacob|Jacob]]**
-  * **[[:tr:obs:notes:key-terms:egypt|Egypt]]**
-  * **[[:tr:obs:notes:key-terms:bless|blessed]]**
+  * **[[:tr:obe:other:Jacob]]**
+  * **[[:tr:obe:other:Egypt]]**
+  * **[[:tr:obe:kt:bless]]**
 
 
 ==== Translation Notes: ====
