@@ -18,8 +18,8 @@
 ==== Translation Notes: ====
 
 
-  * **halk** - Bkz: <b>[[:en:obs:notes:frames:09-13|[09-13]]]</b>de «halkım».
+  * **halk** - Bkz: <b>[[:en:obs:notes:frames:09-13|[09-13]]]</b>de "halkım".
   * **BEN OLANIM** - Bu açıklama Tanrı’nın bildiğimiz hiçbir şeyle değil, sadece kendisi ile tanımlanabileceğini ve hiç kimseye benzetilemeyeceğini gösteriyor.
   * **OLANIM** - Bu ad Tanrı’nın ezelden ebediyete kadar her zaman yaşayan tek varlık olduğunu vurguluyor.
-  * **adım** - Tanrı’nın Musa’ya ve İsrail’e kendisini «Yahve» adıyla çağırmasını buyurdu. Bu ad «OLANIM» adıyla ilişkili ve «O OLANDIR» anlamına geldiği düşünülüyor.
+  * **adım** - Tanrı’nın Musa’ya ve İsrail’e kendisini "Yahve" adıyla çağırmasını buyurdu. Bu ad "OLANIM" adıyla ilişkili ve "O OLANDIR" anlamına geldiği düşünülüyor.
 **[[:tr:obs:notes:frames:09-13|<<]] | [[:tr:obs:notes:09|Up]] | [[:tr:obs:notes:frames:09-15|>>]]**
