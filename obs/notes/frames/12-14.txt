@@ -7,12 +7,12 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:god]]**
-  * **[[:tr:obs:notes:key-terms:israel]]**
-  * **[[:tr:obs:notes:key-terms:passover]]**
-  * **[[:tr:obs:notes:key-terms:egypt]]**
-  * **[[:tr:obs:notes:key-terms:servant]]**
-  * **[[:tr:obs:notes:key-terms:lamb]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:kt:Passover]]**
+  * **[[:tr:obe:other:Egypt]]**
+  * **[[:tr:obe:other:servant]]**
+  * **[[:tr:obe:kt:lamb]]**
 
 
 ==== Translation Notes: ====
