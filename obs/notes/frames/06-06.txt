@@ -9,9 +9,9 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:rebekah|Rebekah]]**
-  * **[[:tr:obs:notes:key-terms:son|son]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:Rebekah]]**
+  * **[[:tr:obe:kt:son]]**
 
 
 ===== Translation Notes: =====
