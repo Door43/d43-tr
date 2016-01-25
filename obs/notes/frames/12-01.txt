@@ -7,13 +7,13 @@ The **Israelites** were very happy to leave **Egypt**. **They were no longer sla
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:tr:obs:notes:key-terms:egypt|Egypt]]**
-  * **[[:tr:obs:notes:key-terms:servant|slaves]]**
-  * **[[:tr:obs:notes:key-terms:promised-land|Promised Land]]**
-  * **[[:tr:obs:notes:key-terms:egypt|Egyptians]]**
-  * **[[:tr:obs:notes:key-terms:believe|believed]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:other:Egypt]]**
+  * **[[:tr:obe:other:servant]]**
+  * **[[:tr:obe:kt:PromisedLand]]**
+  * **[[:tr:obe:other:Egypt]]**
+  * **[[:tr:obe:kt:believe]]**
+  * **[[:tr:obe:kt:God]]**
 
 
 ==== Translation Notes: ====
