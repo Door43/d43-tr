@@ -7,9 +7,9 @@ Every **Egyptian** firstborn male died, **from the firstborn of the prisoner in 
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:egypt|Egyptian]]**
-  * **[[:tr:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:tr:obs:notes:key-terms:egypt|Egypt]]**
+  * **[[:tr:obe:other:Egypt]]**
+  * **[[:tr:obe:other:Pharaoh]]**
+  * **[[:tr:obe:other:Egypt]]**
 
 
 ==== Translation Notes: ====
