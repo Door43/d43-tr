@@ -9,12 +9,12 @@
 
   * **[[:tr:obe:other:abraham]]**
   * **[[:tr:obe:other:sarah]]**
-  * **[[:tr:obe:other:son]]**
+  * **[[:tr:obe:kt:son]]**
   * **[[:tr:obe:kt:God]]**
-  * **[[:tr:obe:other:promise]]**
+  * **[[:tr:obe:kt:promise]]**
   * **[[:tr:obe:other:descendant]]**
-  * **[[:tr:obe:other:believe]]**
-  * **[[:tr:obe:other:righteous]]**
+  * **[[:tr:obe:kt:believe]]**
+  * **[[:tr:obe:kt:righteous]]**
 
 ===== Translation Notes: =====
 
