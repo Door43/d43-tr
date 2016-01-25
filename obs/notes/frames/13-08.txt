@@ -7,10 +7,10 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:tr:obs:notes:key-terms:tent-of-meeting|Tent of Meeting]]**
-  * **[[:tr:obs:notes:key-terms:priest-high|high priest]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:other:TentofMeeting]]**
+  * **[[:tr:obe:kt:highpriest]]**
 
 
 ==== Translation Notes: ====
