@@ -7,11 +7,11 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:moses|Moses]]**
-  * **[[:tr:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:save|save]]**
-  * **[[:tr:obs:notes:key-terms:red-sea|Red Sea]]**
+  * **[[:tr:obe:other:Moses]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:save]]**
+  * **[[:tr:obe:other:RedSea]]**
 
 
 ==== Translation Notes: ====
