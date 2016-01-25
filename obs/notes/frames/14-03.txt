@@ -7,14 +7,14 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:tr:obs:notes:key-terms:canaan|Canaanites]]**
-  * **[[:tr:obs:notes:key-terms:promised-land|Promised Land]]**
-  * **[[:tr:obs:notes:key-terms:peace|peace]]**
-  * **[[:tr:obs:notes:key-terms:idol|idols]]**
-  * **[[:tr:obs:notes:key-terms:obey|obey]]**
-  * **[[:tr:obs:notes:key-terms:worship|worship]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:other:Canaan]]**
+  * **[[:tr:obe:kt:PromisedLand]]**
+  * **[[:tr:obe:other:peace]]**
+  * **[[:tr:obe:other:idol]]**
+  * **[[:tr:obe:other:obey]]**
+  * **[[:tr:obe:kt:worship]]**
 
 
 ==== Translation Notes: ====
