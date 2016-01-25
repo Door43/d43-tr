@@ -12,7 +12,7 @@ When **Abram** arrived in **Canaan**, **God** said, “Look all around you. I wi
   * **[[:tr:obe:other:Canaan]]**
   * **[[:tr:obe:kt:God]]**
   * **[[:tr:obe:other:descendant]]**
-  * **[[:tr:obe:other:inherit]]**
+  * **[[:tr:obe:kt:inherit]]**
 
 
 ===== Translation Notes: =====
