@@ -7,9 +7,9 @@ The **Israelites** did everything just as **God** had commanded them to do. In t
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:egypt|Egypt]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:other:Egypt]]**
 
 
 ==== Translation Notes: ====
