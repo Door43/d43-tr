@@ -8,12 +8,12 @@ God said, “I am **God** Almighty. I will make a **covenant** with you.” Then
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:covenant|covenant]]**
-  * **[[:tr:obs:notes:key-terms:abraham|Abram]]**
-  * **[[:tr:obs:notes:key-terms:descendant|descendants]]**
-  * **[[:tr:obs:notes:key-terms:canaan|Canaan]]**
-  * **[[:tr:obs:notes:key-terms:circumcise|circumcise]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:covenant]]**
+  * **[[:tr:obe:other:abraham]]**
+  * **[[:tr:obe:other:descendant]]**
+  * **[[:tr:obe:other:Canaan]]**
+  * **[[:tr:obe:kt:circumcise]]**
 
 
 ===== Translation Notes: =====
