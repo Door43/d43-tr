@@ -8,9 +8,9 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:egypt|Egypt]]**
-  * **[[:tr:obs:notes:key-terms:canaan|Canaan]]**
-  * **[[:tr:obs:notes:key-terms:jacob|Jacob]]**
+  * **[[:tr:obe:other:Egypt]]**
+  * **[[:tr:obe:other:Canaan]]**
+  * **[[:tr:obe:other:Jacob]]**
 
 
 ==== Translation Notes: ====
