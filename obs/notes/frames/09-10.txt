@@ -7,9 +7,9 @@ When **Pharaoh** heard what **Moses** had done, he tried to kill him. Moses ran 
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:tr:obs:notes:key-terms:moses|Moses]]**
-  * **[[:tr:obs:notes:key-terms:egypt|Egypt]]**
+  * **[[:tr:obe:other:Pharaoh]]**
+  * **[[:tr:obe:other:Moses]]**
+  * **[[:tr:obe:other:Egypt]]**
 
 
 ==== Translation Notes: ====
