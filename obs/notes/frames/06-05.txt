@@ -8,9 +8,9 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:tr:obs:notes:key-terms:rebekah|Rebekah]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
+  * **[[:tr:obe:other:Isaac]]**
+  * **[[:tr:obe:other:Rebekah]]**
+  * **[[:tr:obe:kt:God]]**
 
 
 ===== Translation Notes: =====
