@@ -8,9 +8,9 @@ So **Jacob** sent **his older sons** to **Egypt** to buy food. The brothers **di
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:jacob|Jacob]]**
-  * **[[:tr:obs:notes:key-terms:egypt|Egypt]]**
-  * **[[:tr:obs:notes:key-terms:joseph|Joseph]]**
+  * **[[:tr:obe:other:Jacob]]**
+  * **[[:tr:obe:other:Egypt]]**
+  * **[[:tr:obe:other:Josephot]]**
 
 
 ==== Translation Notes: ====
