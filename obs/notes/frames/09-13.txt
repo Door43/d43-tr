@@ -7,17 +7,17 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:suffer|suffering]]**
-  * **[[:tr:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:tr:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:tr:obs:notes:key-terms:servant|slavery]]**
-  * **[[:tr:obs:notes:key-terms:egypt|Egypt]]**
-  * **[[:tr:obs:notes:key-terms:canaan|Canaan]]**
-  * **[[:tr:obs:notes:key-terms:promise|promised]]**
-  * **[[:tr:obs:notes:key-terms:abraham|Abraham]]**
-  * **[[:tr:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:tr:obs:notes:key-terms:jacob|Jacob]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:suffer]]**
+  * **[[:tr:obe:other:Pharaoh]]**
+  * **[[:tr:obe:other:Israel]]**
+  * **[[:tr:obe:other:servant]]**
+  * **[[:tr:obe:other:Egypt]]**
+  * **[[:tr:obe:other:Canaan]]**
+  * **[[:tr:obe:kt:promise]]**
+  * **[[:tr:obe:other:Abraham]]**
+  * **[[:tr:obe:other:Isaac]]**
+  * **[[:tr:obe:other:Jacob]]**
 
 
 ==== Translation Notes: ====
