@@ -18,8 +18,8 @@
 ==== Translation Notes: ====
 
 
-  * **barış yapmamalarını** - İki grup insanın birbirine zarar vermeyecekleri, barış içinde yaşayıp birbirine yardım edecekleri konusunda bir sözleşme söz konusudur. Bunu «barış antlaşması» şeklinde de çevirebilirsiniz.
-  * **Fakat Givon adında bir Kenan halkı** - Bazı dillerde bu şöyle söylenebilir: «Fakat bir gün Givon adında bir Kenan halkı.»
-  * **diye Yeşu’yu aldatıp** - Bu şöyle çevrilebilir: «diye Yeşu’ya yalan söylediler» ya da «Yeşu’ya yanlış söylediler.»
-  * **Givonluların nereden geldiklerini** - Yani «Givonluların nerede yaşadıklarını» ya da «Givonluların yurtlarının nerede olduğunu.» «Givonlular» demek, «Givon halkı» demektir.
+  * **barış yapmamalarını** - İki grup insanın birbirine zarar vermeyecekleri, barış içinde yaşayıp birbirine yardım edecekleri konusunda bir sözleşme söz konusudur. Bunu "barış antlaşması" şeklinde de çevirebilirsiniz.
+  * **Fakat Givon adında bir Kenan halkı** - Bazı dillerde bu şöyle söylenebilir: "Fakat bir gün Givon adında bir Kenan halkı."
+  * **diye Yeşu’yu aldatıp** - Bu şöyle çevrilebilir: "diye Yeşu’ya yalan söylediler" ya da "Yeşu’ya yanlış söylediler."
+  * **Givonluların nereden geldiklerini** - Yani "Givonluların nerede yaşadıklarını" ya da "Givonluların yurtlarının nerede olduğunu." "Givonlular" demek, "Givon halkı" demektir.
 **[[:tr:obs:notes:frames:15-05|<<]] | [[:tr:obs:notes:15|Up]] | [[:tr:obs:notes:frames:15-07|>>]]**
