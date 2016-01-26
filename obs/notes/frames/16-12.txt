@@ -14,6 +14,6 @@ Then **Gideon** returned to his soldiers and gave each of them a **horn**, a cla
 ==== Translation Notes: ====
 
 
-  * **boru** - Bu «borazan» ya da «koç boynuzundan yapılan borazan» şeklinde çevrilebilir. Erkek koyundan yapılan bu borular erkekleri savaşa çağırmak için sık sık kullanılırdı.
+  * **boru** - Bu "borazan" ya da "koç boynuzundan yapılan borazan" şeklinde çevrilebilir. Erkek koyundan yapılan bu borular erkekleri savaşa çağırmak için sık sık kullanılırdı.
   * **çıralar** - Galiba değneğin bir ucuna sarılan ve yanması için yağa batırılan bez kastediliyor.
 **[[:tr:obs:notes:frames:16-11|<<]] | [[:tr:obs:notes:16|Up]] | [[:tr:obs:notes:frames:16-13|>>]]**
