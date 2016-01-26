@@ -14,7 +14,7 @@ Then, all of **Gideon's** soldiers broke their pots at the same moment, suddenly
 ==== Translation Notes: ====
 
 
-  * **bağırdılar** - Bu sözcük «yüksek sesle bağırdılar» ya da «çok yüksek sesle söylediler» olarak da çevrilebilir.
-  * **kılıç** - Kılıç uzun, keskin bir silahtır. Asker kılıcı kabzasından tutarak düşmanı vurur. Halkınızda böyle silah yoksa «uzun bıçak», «hançer» gibi sözcüklerle çevirebilirsiniz.
-  * **Yahve’nin ve Gidyon’un kılıcı!** - Yani «Yahve ve Gidyon uğruna savaşıyoruz!»
+  * **bağırdılar** - Bu sözcük "yüksek sesle bağırdılar" ya da "çok yüksek sesle söylediler" olarak da çevrilebilir.
+  * **kılıç** - Kılıç uzun, keskin bir silahtır. Asker kılıcı kabzasından tutarak düşmanı vurur. Halkınızda böyle silah yoksa "uzun bıçak", "hançer" gibi sözcüklerle çevirebilirsiniz.
+  * **Yahve’nin ve Gidyon’un kılıcı!** - Yani "Yahve ve Gidyon uğruna savaşıyoruz!"
 **[[:tr:obs:notes:frames:16-12|<<]] | [[:tr:obs:notes:16|Up]] | [[:tr:obs:notes:frames:16-14|>>]]**
