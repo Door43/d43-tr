@@ -17,6 +17,6 @@
 ==== Translation Notes: ====
 
 
-  * **Kısa bir süre sonra** - Üstünden galiba en az iki gün geçmişti. Bunu açıklamak için «Birkaç gün sonra» ya da «İsrailliler Mısır’ı terkettikten birkaç gün sonra» şeklinde çevrilebilir.
-  * **fikirlerini değişerek** - Yani «eskisinden farklı düşünmeye başladılar.»  Bazı dillerde bu tabirin aynısı bulunmayabilir ve bu anlamı açıklamak zorunda kalabilirler.
+  * **Kısa bir süre sonra** - Üstünden galiba en az iki gün geçmişti. Bunu açıklamak için "Birkaç gün sonra" ya da "İsrailliler Mısır’ı terkettikten birkaç gün sonra" şeklinde çevrilebilir.
+  * **fikirlerini değişerek** - Yani "eskisinden farklı düşünmeye başladılar."  Bazı dillerde bu tabirin aynısı bulunmayabilir ve bu anlamı açıklamak zorunda kalabilirler.
 **[[:tr:obs:notes:frames:12-02|<<]] | [[:tr:obs:notes:12|Up]] | [[:tr:obs:notes:frames:12-04|>>]]**
