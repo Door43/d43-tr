@@ -19,5 +19,5 @@
 ==== Translation Notes: ====
 
 
-  * **insanların ve hayvanların ilk doğan erkek çocuklarını** - Bu şöyle çevrilebilir: «her ailenin büyük oğlu ve her türden hayvanlarının ilk doğan erkek yavruları.»
+  * **insanların ve hayvanların ilk doğan erkek çocuklarını** - Bu şöyle çevrilebilir: "her ailenin büyük oğlu ve her türden hayvanlarının ilk doğan erkek yavruları."
 **[[:tr:obs:notes:frames:10-12|<<]] | [[:tr:obs:notes:11|Up]] | [[:tr:obs:notes:frames:11-02|>>]]**
