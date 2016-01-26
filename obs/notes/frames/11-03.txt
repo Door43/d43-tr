@@ -12,6 +12,6 @@
   * **[[:tr:obe:other:Egypt]]**
 ==== Translation Notes: ====
 
-  * **mayasız** - Maya, hamura ilave edilen, hamurun şişmesini, ekmeğin pişerken kalkmasını sağlayan bir maddedir. «Kalkmasını sağlayan madde kullanmadan pişirilen» şeklinde çevrilebilir. Mayalı ekmek pişirmek daha çok zaman alacaktı, mayasız ekmek pişirmek Mısır’ı çabuk terketmeye hazır olmanın bir yoluydu.
+  * **mayasız** - Maya, hamura ilave edilen, hamurun şişmesini, ekmeğin pişerken kalkmasını sağlayan bir maddedir. "Kalkmasını sağlayan madde kullanmadan pişirilen" şeklinde çevrilebilir. Mayalı ekmek pişirmek daha çok zaman alacaktı, mayasız ekmek pişirmek Mısır’ı çabuk terketmeye hazır olmanın bir yoluydu.
   * **yedikten sonra** - Yani yemeye başlamadan önce gitmeye hazır olmaları gerekirdi.
 **[[:tr:obs:notes:frames:11-02|<<]] | [[:tr:obs:notes:11|Up]] | [[:tr:obs:notes:frames:11-04|>>]]**
