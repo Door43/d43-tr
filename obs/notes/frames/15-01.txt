@@ -22,9 +22,9 @@
 ==== Translation Notes: ====
 
 
-  * **Nihayet... zamanı gelmişti** - «Nihayet» sonunda ya da uzun beklentiden sonra anlamına gelir. «Zaman»ın neye ait olduğunu açıklamak için şöyle söyleyebilirsiniz: «Onlar 40 yıl çölde dolaştıktan sonra Tanrı sonunda... izin verdi.»
-  * **Kenan’ın... Eriha kentine iki casus** - Bu şöyle çevrilebilir: «Kenan’daki bir kent olan Eriha hakkında bilgi toplamak için oraya iki casus.» Ayrıca <b>[[:en:obs:notes:frames:14-04|[14-04]]]</b>de «Ülkeyi araştırsınlar... casus olarak» sözüne dair verilen nota bakınız.
-  * **kuvvetli surlarla çevrilen** - Bu şöyle çevrilebilir: «düşmanlarından korunması için her yandan kalın, kuvvetli taş surlarla çevrilen.»
-  * **kurtulmalarına** - Şöyle ilave etmek de mümkündür: «onlara zarar vermek isteyen Eriha sakinlerinden kurtulmalarına.»
-  * **ailesini** - Rahav babasını, annesini ve kardeşlerini korumalarını rica etti. «Aile» sözcüğünü çevirmek için bütün bunları kapsayan bir terim kullanın.
+  * **Nihayet... zamanı gelmişti** - "Nihayet" sonunda ya da uzun beklentiden sonra anlamına gelir. "Zaman" ın neye ait olduğunu açıklamak için şöyle söyleyebilirsiniz: "Onlar 40 yıl çölde dolaştıktan sonra Tanrı sonunda... izin verdi."
+  * **Kenan’ın... Eriha kentine iki casus** - Bu şöyle çevrilebilir: "Kenan’daki bir kent olan Eriha hakkında bilgi toplamak için oraya iki casus." Ayrıca <b>[[:en:obs:notes:frames:14-04|[14-04]]]</b>de "Ülkeyi araştırsınlar... casus olarak" sözüne dair verilen nota bakınız.
+  * **kuvvetli surlarla çevrilen** - Bu şöyle çevrilebilir: "düşmanlarından korunması için her yandan kalın, kuvvetli taş surlarla çevrilen."
+  * **kurtulmalarına** - Şöyle ilave etmek de mümkündür: "onlara zarar vermek isteyen Eriha sakinlerinden kurtulmalarına."
+  * **ailesini** - Rahav babasını, annesini ve kardeşlerini korumalarını rica etti. "Aile" sözcüğünü çevirmek için bütün bunları kapsayan bir terim kullanın.
 **[[:tr:obs:notes:frames:14-15|<<]] | [[:tr:obs:notes:15|Up]] | [[:tr:obs:notes:frames:15-02|>>]]**
