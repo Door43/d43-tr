@@ -20,8 +20,8 @@
 ==== Translation Notes: ====
 
 
-  * **mucizeyle onlara kayadan su verdi** - Bu şöyle çevrilebilir: «Yalnızca Tanrı’nın yapabileceği bir şeyi yaparak suyun kayadan akmasını sağladı ki, insanlar ve hayvanlar içsinler.»
-  * **Buna rağmen** - Bu şöyle çevrilebilir: «Tanrı’nın onlara yiyeceği, suyu, giysiyi ve ihtiyaçları olan her şeyi sağlamasına rağmen.»
-  * **Yine** - Bu şöyle çevrilebilir: «İsraillilerin O’na karşı söylenmesine, yakınmasına rağmen.»
-  * **Tanrı... verdiği vaatlere sadık kaldı** - Bu şöyle çevrilebilir: «Tanrı, İbrahim’e, İshak’a ve Yakup’a yapacağını vadettiği şeyleri yapmaya devam etti.» Tanrı, yaşayıp büyük bir millet olsun ve sonunda Kenan ülkesine sahiplensin diye onların soyuna ihtiyacı olan her şeyi sağladı.
+  * **mucizeyle onlara kayadan su verdi** - Bu şöyle çevrilebilir: "Yalnızca Tanrı’nın yapabileceği bir şeyi yaparak suyun kayadan akmasını sağladı ki, insanlar ve hayvanlar içsinler."
+  * **Buna rağmen** - Bu şöyle çevrilebilir: "Tanrı’nın onlara yiyeceği, suyu, giysiyi ve ihtiyaçları olan her şeyi sağlamasına rağmen."
+  * **Yine** - Bu şöyle çevrilebilir: "İsraillilerin O’na karşı söylenmesine, yakınmasına rağmen."
+  * **Tanrı... verdiği vaatlere sadık kaldı** - Bu şöyle çevrilebilir: "Tanrı, İbrahim’e, İshak’a ve Yakup’a yapacağını vadettiği şeyleri yapmaya devam etti." Tanrı, yaşayıp büyük bir millet olsun ve sonunda Kenan ülkesine sahiplensin diye onların soyuna ihtiyacı olan her şeyi sağladı.
 **[[:tr:obs:notes:frames:14-11|<<]] | [[:tr:obs:notes:14|Up]] | [[:tr:obs:notes:frames:14-13|>>]]**
