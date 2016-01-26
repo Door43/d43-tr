@@ -17,6 +17,6 @@
 ==== Translation Notes: ====
 
 
-  * **Tanrı bugün sizin için savaşacak ve sizi kurtaracak!** - Bunu söylemenin başka bir yolu şu: «Bugün Tanrı Mısırlıları sizin için bozguna uğratacak ve size zarar vermekten alıkoyacak.»
-  * **ilerlesinler** - Bazı dillerde «yürüsünler» gibi daha çok kesin bir söz kullanılabilir.
+  * **Tanrı bugün sizin için savaşacak ve sizi kurtaracak!** - Bunu söylemenin başka bir yolu şu: "Bugün Tanrı Mısırlıları sizin için bozguna uğratacak ve size zarar vermekten alıkoyacak."
+  * **ilerlesinler** - Bazı dillerde "yürüsünler" gibi daha çok kesin bir söz kullanılabilir.
 **[[:tr:obs:notes:frames:12-04|<<]] | [[:tr:obs:notes:12|Up]] | [[:tr:obs:notes:frames:12-06|>>]]**
