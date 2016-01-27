@@ -22,5 +22,5 @@
 ==== Translation Notes: ====
 
 
-  * **sayesinde** - Yani "soyundan olan bir insan sayesinde.'
+  * **sayesinde** - Yani "soyundan olan bir insan sayesinde."
 **[[:tr:obs:notes:frames:21-01|<<]] | [[:tr:obs:notes:21|Up]] | [[:tr:obs:notes:frames:21-03|>>]]**
