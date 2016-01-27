@@ -23,5 +23,5 @@
 ==== Translation Notes: ====
 
 
-  * **adalet ve merhametle davranmasını** - Bu şöyle çevrilebilir: «adil ve merhametli olmasını» ya da «adalet ve merhametle davranmaya başlamasını.»
+  * **adalet ve merhametle davranmasını** - Bu şöyle çevrilebilir: "adil ve merhametli olmasını" ya da "adalet ve merhametle davranmaya başlamasını."
 **[[:tr:obs:notes:frames:19-15|<<]] | [[:tr:obs:notes:19|Up]] | [[:tr:obs:notes:frames:19-17|>>]]**
