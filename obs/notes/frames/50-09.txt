@@ -13,9 +13,9 @@
 
 ===== Translation Notes: =====
 
-  * **Şeytan’a ait olan** - Yani «kötü olana ait olan», «kötü olana uyan» ya da «kötü olan/Şeytan tarafından yönetilen.»
-  * **Şeytan** - Ya da Şeytan’ın karakterini nitelendiren «kötü olan» adı kullanılabilir.
-  * **iblis** - Bu «Şeytan» olarak da çevrilebilir.
-  * **dünyanın sonunu... temsil eder** - Yani «insanların dünyanın sonunda yaşayacakları olaylar.»
-  * **orakçılar** - Bu ayrıca şöyle çevrilebilir: «olgun tahılı biçen adamlar» ya da «olgun tahılı toplayan işçiler.»
+  * **Şeytan’a ait olan** - Yani "kötü olana ait olan", "kötü olana uyan" ya da "kötü olan/Şeytan tarafından yönetilen."
+  * **Şeytan** - Ya da Şeytan’ın karakterini nitelendiren "kötü olan" adı kullanılabilir.
+  * **iblis** - Bu "Şeytan" olarak da çevrilebilir.
+  * **dünyanın sonunu... temsil eder** - Yani "insanların dünyanın sonunda yaşayacakları olaylar."
+  * **orakçılar** - Bu ayrıca şöyle çevrilebilir: "olgun tahılı biçen adamlar" ya da "olgun tahılı toplayan işçiler."
 **[[:tr:obs:notes:frames:50-08|<<]] | [[:tr:obs:notes:50|Up]] | [[:tr:obs:notes:frames:50-10|>>]]**
