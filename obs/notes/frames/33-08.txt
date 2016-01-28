@@ -13,8 +13,8 @@
 ===== Translation Notes: =====
 
   * (Jesus continues to explain the story.)
-  * **Dikenli çalı** - <b>[[:en:obs:notes:frames:33-03|[33-03]]]</b>de «dikenler» sözcüğünü nasıl çevirdiğinize dikkat edin.
-  * **kişidir** - Bunu <b>[[:en:obs:notes:frames:33-06|[33-06]]]</b>de nasıl çevirdiğinize dikkat edin.
+  * **Dikenli çalı** - **[[:en:obs:notes:frames:33-03|[33-03]]]** de «dikenler» sözcüğünü nasıl çevirdiğinize dikkat edin.
+  * **kişidir** - Bunu **[[:en:obs:notes:frames:33-06|[33-06]]]** de nasıl çevirdiğinize dikkat edin.
   * **kaygılar** - Yani «endişeler», «ihtiyaçlar» ya da «sorunlar.»
   * **zengin olma hırsı** - Yani «zenginlik arzusu.»
   * **dünyevi zevkler** - Bu ayrıca şöyle de çevrilebilir: «zevk almak için çaba gösterme» ya da «zevk veren şeylerde odaklanma.»
