@@ -15,5 +15,5 @@
 
 ===== Translation Notes: =====
 
-  * **günahından kurtulman** - Yani «günahının cezasını çekmekten kurtulman» ya da «Tanrı seni günahından kurtarsın diye» ya da «günahından kurtuluşu kabul etmen.»
+  * **günahından kurtulman** - Yani "günahının cezasını çekmekten kurtulman" ya da "Tanrı seni günahından kurtarsın diye" ya da "günahından kurtuluşu kabul etmen."
 **[[:tr:obs:notes:frames:49-04|<<]] | [[:tr:obs:notes:49|Up]] | [[:tr:obs:notes:frames:49-06|>>]]**
