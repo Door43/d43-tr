@@ -12,7 +12,7 @@
 
 ===== Translation Notes: =====
 
-  * **iyi tohum** - Söz konusu tohum buğday tohumuydu. Bu çeşit tohum dilinizin konuşulduğu bölgede tanınmıyorsa genel «tohum» terimini kullanmak iyidir. Genel terim yoksa bilinen bir çeşit tohumu seçmeniz gerekebilir, örneğin «pirinç gibi iyi tohum.»
+  * **iyi tohum** - Söz konusu tohum buğday tohumuydu. Bu çeşit tohum dilinizin konuşulduğu bölgede tanınmıyorsa genel "tohum" terimini kullanmak iyidir. Genel terim yoksa bilinen bir çeşit tohumu seçmeniz gerekebilir, örneğin "pirinç gibi iyi tohum."
   * **delice** - Ekilmiş delice tohumları uzun ot şeklinde yetişir ama yenmez. Dolayısıyla bunların hiç faydası yoktu.
-  * **buğday** - Yani «buğday tohumları.» Buğday uzun ot şeklinde yetişen tahıl çeşididir. Tohumları yiyecek için kullanılır.
+  * **buğday** - Yani "buğday tohumları." Buğday uzun ot şeklinde yetişen tahıl çeşididir. Tohumları yiyecek için kullanılır.
 **[[:tr:obs:notes:frames:50-04|<<]] | [[:tr:obs:notes:50|Up]] | [[:tr:obs:notes:frames:50-06|>>]]**
