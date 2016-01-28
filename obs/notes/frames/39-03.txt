@@ -5,10 +5,10 @@
 Finally, the **high priest** looked directly at **Jesus** and said, “Tell us, are you the **Messiah**, the **Son of the living God**?”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:tr:obs:notes:key-terms/god-son|Son of the living God]]**
+  * **[[:tr:obe:kt:highpriest]]**
+  * **[[:tr:obe:kt:jesus]]**
+  * **[[:tr:obe:kt:christ]]**
+  * **[[:tr:obe:kt:sonofgod]]**
 
 
 ===== Translation Notes: =====
