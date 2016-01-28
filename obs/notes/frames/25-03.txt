@@ -12,6 +12,6 @@
 
 ===== Translation Notes: =====
 
-  * **ekmek** - «Ekmek» için <b>[[:en:obs:notes:frames:25-02|[25-02]]]</b>de kullandığınız sözcüğü burada da kullanmaya çok dikkat edin.
+  * **ekmek** - «Ekmek» için **[[:en:obs:notes:frames:25-02|[25-02]]]** de kullandığınız sözcüğü burada da kullanmaya çok dikkat edin.
   * **Tanrı’nın söylediği her söze ihtiyacı var** - Bunu çevirmenin başka bir yolu şu olabilir: «Ama insanların Tanrı’nın söylediği her şeye kulak verip itaat etmeleri gerekir» ya da «Ama insanların gerçek yaşamı Tanrı’nın söylediğine iman ve itaat etmektir.»
 **[[:tr:obs:notes:frames:25-02|<<]] | [[:tr:obs:notes:25|Up]] | [[:tr:obs:notes:frames:25-04|>>]]**
