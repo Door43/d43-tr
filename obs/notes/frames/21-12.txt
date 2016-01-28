@@ -7,11 +7,12 @@ The **prophets** also told about how the **Messiah** would **die**. **Isaiah pro
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:tr:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:tr:obs:notes:key-terms:death|die]]**
-  * **[[:tr:obs:notes:key-terms:isaiah|Isaiah]]**
-  * **[[:tr:obs:notes:key-terms:prophet|prophesied]]**
+
+  * **[[:tr:obe:kt:prophet]]**
+  * **[[:tr:obe:kt:Christ]]**
+  * **[[:tr:obe:kt:death]]**
+  * **[[:tr:obe:other:isaiah]]**
+
 
 
 ==== Translation Notes: ====
