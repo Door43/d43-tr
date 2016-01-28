@@ -19,10 +19,10 @@
 
 ===== Translation Notes: =====
 
-  * **üstün değildir** - Yani «daha önemli değildir» ya da bu bağlamda «daha iyi muamele görmez.»
-  * **yüzümden** - Yani «bana itaat ettiğiniz için» ya da «insanlara benim hakkımda öğrettiğiniz için» ya da «bana ait olduğunuz için.»
-  * **Bu dünyada** - Bu ayrıca «Bu ömrünüzde» şeklinde de çevrilebilir.
-  * **bana sadık kalırsanız** - Yani «bana itaat etmeye devam ederseniz.»
-  * **Sonuna dek** - Yani «Ömrünüzün sonuna dek.»
+  * **üstün değildir** - Yani "daha önemli değildir" ya da bu bağlamda "daha iyi muamele görmez."
+  * **yüzümden** - Yani "bana itaat ettiğiniz için" ya da "insanlara benim hakkımda öğrettiğiniz için" ya da "bana ait olduğunuz için."
+  * **Bu dünyada** - Bu ayrıca "Bu ömrünüzde" şeklinde de çevrilebilir.
+  * **bana sadık kalırsanız** - Yani "bana itaat etmeye devam ederseniz."
+  * **Sonuna dek** - Yani "Ömrünüzün sonuna dek."
   * **sizi kurtaracak** - Fiziksel zarardan kurtarma değil ruhsal kurtarma kastediliyor. Çok imanlının öldürüleceğinden ya da sıkıntı çekeceğinden artık bahsedilmiştir.
 **[[:tr:obs:notes:frames:50-03|<<]] | [[:tr:obs:notes:50|Up]] | [[:tr:obs:notes:frames:50-05|>>]]**
