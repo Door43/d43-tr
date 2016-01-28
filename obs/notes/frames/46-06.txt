@@ -17,6 +17,6 @@
 
 ===== Translation Notes: =====
 
-  * **Bundan hemen sonra** - Bu, «O zaman» ya da «derhal» şeklinde de çevrilebilir.
-  * **Yahudilerle tartışarak** - Bu ayrıca şöyle de çevrilebilir: «Yahudilere İsa’ya iman etmeleri için iyi sebepler vererek» ya da «Yahudilerle ikna edici bir şekilde konuştu.»
+  * **Bundan hemen sonra** - Bu, "O zaman" ya da "derhal" şeklinde de çevrilebilir.
+  * **Yahudilerle tartışarak** - Bu ayrıca şöyle de çevrilebilir: "Yahudilere İsa’ya iman etmeleri için iyi sebepler vererek" ya da "Yahudilerle ikna edici bir şekilde konuştu."
 **[[:tr:obs:notes:frames:46-05|<<]] | [[:tr:obs:notes:46|Up]] | [[:tr:obs:notes:frames:46-07|>>]]**
