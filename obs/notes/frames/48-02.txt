@@ -16,5 +16,5 @@
 ===== Translation Notes: =====
 
   * **bahçe** - Tanrı’nın yarattığı ve ilk adamla kadını koyduğu bahçe kastediliyor.
-  * **Havva’yı aldatmak** - Yani «Havva’ya yalan söylemek.» Şeytan yalan söyleyerek Havva’yı Tanrı’nın dediğinden şüphelendirdi. Böylece o, Havva’yı Tanrı’ya itaatsizlik etmeye kandırdı.
+  * **Havva’yı aldatmak** - Yani "Havva’ya yalan söylemek." Şeytan yalan söyleyerek Havva’yı Tanrı’nın dediğinden şüphelendirdi. Böylece o, Havva’yı Tanrı’ya itaatsizlik etmeye kandırdı.
 **[[:tr:obs:notes:frames:48-01|<<]] | [[:tr:obs:notes:48|Up]] | [[:tr:obs:notes:frames:48-03|>>]]**
