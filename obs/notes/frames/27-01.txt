@@ -9,9 +9,9 @@
   * **[[:tr:obe:kt:Jesus]]**
   * **[[:tr:obe:kt:Teacher]]**
   * **[[:tr:obe:kt:inherit]]**
-
-  * **[[:tr:obs:notes:key-terms/eternal-life|eternal life]]**
-  * **[[:tr:obs:notes:key-terms/gods-law|God's law]]**
+  * **[[:tr:obe:kt:eternity]]**
+  * **[[:tr:obe:kt:lawofmoses]]**
+ 
 
 
 ===== Translation Notes: =====
