@@ -15,8 +15,8 @@
 
 ===== Translation Notes: =====
 
-  * **Çekil benden** - Bu «Bırak beni» ya da «Beni yalnız bırak» şeklinde de çevrilebilir.
-  * **Tanrı, Sözü’nde halkına şöyle buyuruyor: ‘Yalnız Tanrın Rab’be tapacaksın, yalnız O’na kulluk edeceksin!’** - Bu, dolaylı alıntı olarak da yazılabilir: «Tanrı, Sözü’nde yalnızca bizim üzerimizde egemen olan Rab Tanrı’ya tapınmamızı ve hizmet etmemizi buyuruyor.»
+  * **Çekil benden** - Bu "Bırak beni" ya da "Beni yalnız bırak" şeklinde de çevrilebilir.
+  * **Tanrı, Sözü’nde halkına şöyle buyuruyor: ‘Yalnız Tanrın Rab’be tapacaksın, yalnız O’na kulluk edeceksin!’** - Bu, dolaylı alıntı olarak da yazılabilir: "Tanrı, Sözü’nde yalnızca bizim üzerimizde egemen olan Rab Tanrı’ya tapınmamızı ve hizmet etmemizi buyuruyor."
   * **Tanrın Rab** - Bu sözü **[[:en:obs:notes:frames:25-05|[25-05]]]** deki gibi çevirin.
-  * **yalnız O’na kulluk edeceksin** - Bunu söylemenin başka bir yolu şu: «Hizmet etmeniz gereken tek varlık O’dur.»
+  * **yalnız O’na kulluk edeceksin** - Bunu söylemenin başka bir yolu şu: "Hizmet etmeniz gereken tek varlık O’dur."
 **[[:tr:obs:notes:frames:25-06|<<]] | [[:tr:obs:notes:25|Up]] | [[:tr:obs:notes:frames:25-08|>>]]**
