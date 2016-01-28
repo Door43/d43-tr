@@ -13,5 +13,5 @@
 
 ===== Translation Notes: =====
 
-  * **Şeytan’ın ayartılarına uymadı** - Bu şöyle çevrilebilir: «Şeytan’ın ayartarak O’na yaptırmaya çalıştığı şeyleri yapmadı.»
+  * **Şeytan’ın ayartılarına uymadı** - Bu şöyle çevrilebilir: "Şeytan’ın ayartarak O’na yaptırmaya çalıştığı şeyleri yapmadı."
 **[[:tr:obs:notes:frames:25-07|<<]] | [[:tr:obs:notes:25|Up]] | [[:tr:obs:notes:frames:26-01|>>]]**
