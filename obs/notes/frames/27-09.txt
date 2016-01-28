@@ -11,7 +11,7 @@
 ===== Translation Notes: =====
 
   * (Jesus continues to tell the story.)
-  * **kendi eşeğine** - «Kendi» ile o Samiriyelinin kastedildiğinin anlaşılmasına dikkat edin.
-  * **han** - Yani «konaklanılan yer.» Yolcuların yiyecek alıp geceleyebilecekleri yer.
-  * **ve onunla ilgilendi** - Bu «ve orada onunla ilgilenmeye devam etti» şeklinde de çevrilebilir.
+  * **kendi eşeğine** - "Kendi" ile o Samiriyelinin kastedildiğinin anlaşılmasına dikkat edin.
+  * **han** - Yani "konaklanılan yer." Yolcuların yiyecek alıp geceleyebilecekleri yer.
+  * **ve onunla ilgilendi** - Bu "ve orada onunla ilgilenmeye devam etti" şeklinde de çevrilebilir.
 **[[:tr:obs:notes:frames:27-08|<<]] | [[:tr:obs:notes:27|Up]] | [[:tr:obs:notes:frames:27-10|>>]]**
