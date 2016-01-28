@@ -21,7 +21,7 @@ Then **God** wrote **these Ten Commandments** on two **stone tablets** and gave 
 ==== Translation Notes: ====
 
 
-  * **bu On Emir** - Tanrı’nın İsraillilerin uyması için Musa’ya verdiği emirler kastediliyor. Bunlar <b>[[:en:obs:notes:frames:13-05|[13-05]]]</b> ve <b>[[:en:obs:notes:frames:13-06|[13-06]]]</b> kısımlarında listelenmiştir.
+  * **bu On Emir** - Tanrı’nın İsraillilerin uyması için Musa’ya verdiği emirler kastediliyor. Bunlar **[[:en:obs:notes:frames:13-05|[13-05]]]** ve **[[:en:obs:notes:frames:13-06|[13-06]]]** kısımlarında listelenmiştir.
   * **taş levha** - Bunlar tablet gibi yassı taş parçalarıydı.
   * **Ayrıca Tanrı... verdi** - Bu şöyle de çevrilebilir: "Tanrı onlara şunu da dedi."
   * **uyması gereken** - Bu şöyle çevrilebilir: "itaat etsinler diye" ya da "uysunlar diye."
