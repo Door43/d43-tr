@@ -5,10 +5,10 @@
 Then **Jesus** went with his **disciples** to **a place called Gethsemane**. Jesus told his disciples to **pray** that they would not **enter into temptation**. Then Jesus went to pray **by himself**.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:tr:obs:notes:key-terms/pray|pray]]**
-  * **[[:tr:obs:notes:key-terms/tempt|temptation]]**
+  * **[[:tr:obe:kt:jesus]]**
+  * **[[:tr:obe:kt:disciple]]**
+  * **[[:tr:obe:other:pray]]**
+  * **[[:tr:obe:kt:tempt]]**
 
 
 ===== Translation Notes: =====
