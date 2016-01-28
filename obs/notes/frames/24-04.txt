@@ -14,12 +14,12 @@
 
 ===== Translation Notes: =====
 
-  * **Ey siz, zehirli yılanlar!** - Bu şöyle çevrilebilir: «Siz zehirli yılanlar gibisiniz!» Yahya onları, tehlikeli ve yalancı oldukları için zehirli yılanlar adlandırdı.
+  * **Ey siz, zehirli yılanlar!** - Bu şöyle çevrilebilir: "Siz zehirli yılanlar gibisiniz!" Yahya onları, tehlikeli ve yalancı oldukları için zehirli yılanlar adlandırdı.
   * **İyi meyve vermeyen her ağaç** - Yahya ağaçlardan bahsetmez. O, Tanrı’dan gelen iyi amelleri ve davranışları iyi meyveye benzetir.
-  * **kesilip ateşe atılacak** - Yani «Tanrı tarafından yargılanıp cezalandırılacak.»
-  * **Yahya, peygamberlerin şu sözünü gerçekleştirdi** - Yani «Yahya peygamberin dediğine göre Tanrı’nın elçisinin yapacağı işi yapıyordu.»
-  * **İşte** - Bu sözcük «Bakın ve görün» ya da «Dikkat edin» olarak da çevrilebilir.
-  * **elçimi** - Yani «Ben, Yahve, elçimi göndereceğim.» Bazı dillerde bu cümlede dolaylı alıntıyı vermek daha doğal olur, örneğin: «Yeşaya Peygamber’in Tanrı’nın elçisini göndereceğini ilan ederek önceden bildirdiği...»
-  * **senin önünden** - Burada «siz» Mesih’e aittir.
+  * **kesilip ateşe atılacak** - Yani "Tanrı tarafından yargılanıp cezalandırılacak."
+  * **Yahya, peygamberlerin şu sözünü gerçekleştirdi** - Yani "Yahya peygamberin dediğine göre Tanrı’nın elçisinin yapacağı işi yapıyordu."
+  * **İşte** - Bu sözcük "Bakın ve görün» ya da "Dikkat edin" olarak da çevrilebilir.
+  * **elçimi** - Yani "Ben, Yahve, elçimi göndereceğim." Bazı dillerde bu cümlede dolaylı alıntıyı vermek daha doğal olur, örneğin: "Yeşaya Peygamber’in Tanrı’nın elçisini göndereceğini ilan ederek önceden bildirdiği..."
+  * **senin önünden** - Burada "siz" Mesih’e aittir.
   * **yolumu hazırlayacak** - Tanrı’nın elçisi insanları Mesih’i dinlemeye hazırlayacak.
 **[[:tr:obs:notes:frames:24-03|<<]] | [[:tr:obs:notes:24|Up]] | [[:tr:obs:notes:frames:24-05|>>]]**
