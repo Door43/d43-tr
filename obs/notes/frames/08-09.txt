@@ -15,5 +15,5 @@
 
 
   * **çok miktarda erzakın saklanmasını** - Onlar bol hasattan elde edilen erzakı şehirlere götürüp ambarlara teslim ettiler. Ondan sonra erzak firavuna aitti.
-  * **kıtlık** - Bunu <b>[[:en:obs:notes:frames:08-07|[08-07]]]</b>de nasıl çevirdiğinize dikkat edin.
+  * **kıtlık** - Bunu **[[:en:obs:notes:frames:08-07|[08-07]]]** de nasıl çevirdiğinize dikkat edin.
 **[[:tr:obs:notes:frames:08-08|<<]] | [[:tr:obs:notes:08|Up]] | [[:tr:obs:notes:frames:08-10|>>]]**
