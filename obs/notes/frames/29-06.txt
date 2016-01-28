@@ -11,7 +11,7 @@
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
-  * **O hizmetkâr** - Bu sözü <b>[[:en:obs:notes:frames:29-05|[29-05]]]</b>deki gibi çevirin.
-  * **diz çökerek** - Bu sözün <b>[[:en:obs:notes:frames:29-04|[29-04]]]</b>deki gibi anlamı vardır.
+  * **O hizmetkâr** - Bu sözü **[[:en:obs:notes:frames:29-05|[29-05]]]** deki gibi çevirin.
+  * **diz çökerek** - Bu sözün **[[:en:obs:notes:frames:29-04|[29-04]]]** deki gibi anlamı vardır.
   * **onu borcunu ödeyinceye kadar zindana kapattırdı** - Bu şöyle de çevrilebilir: «zindana attı.» Bu durumda «atmak» kelimesi mecazi anlamda kullanılıyor ve «zorla» anlamına geliyor.
 **[[:tr:obs:notes:frames:29-05|<<]] | [[:tr:obs:notes:29|Up]] | [[:tr:obs:notes:frames:29-07|>>]]**
