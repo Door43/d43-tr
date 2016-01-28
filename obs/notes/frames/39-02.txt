@@ -5,10 +5,11 @@
 Inside the house, the **Jewish leaders put Jesus on trial**. They brought many false **witnesses** who **lied about him**. However, **their statements did not agree with each other**, so the Jewish leaders could not prove **he was guilty of anything**. Jesus did not say anything.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/witness|witnesses]]**
-  * **[[:tr:obs:notes:key-terms/guilt|guilty]]**
+
+  * **[[:tr:obe:other:jewishleaders]]**
+  * **[[:tr:obe:kt:jesus]]**
+  * **[[:tr:obe:kt:witness]]**
+  * **[[:tr:obe:kt:guilt]]**
 
 
 ===== Translation Notes: =====
