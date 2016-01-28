@@ -6,16 +6,15 @@
 The **prophets** foretold that the **Messiah** would **die** and that **God** would also **raise him from the dead**. **Through the Messiah’s death and resurrection**, **God would** accomplish his plan to **save sinners** and **start the New Covenant**.
 ===== Important Terms: =====
 
-
-  * **[[:tr:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:tr:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:tr:obs:notes:key-terms:death|die]]**
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:raise|raise]]**
-  * **[[:tr:obs:notes:key-terms:resurrection|resurrection]]**
-  * **[[:tr:obs:notes:key-terms:save|save]]**
-  * **[[:tr:obs:notes:key-terms:sin|sinners]]**
-  * **[[:tr:obs:notes:key-terms:covenant-new|New Covenant]]**
+  * **[[:tr:obe:kt:prophet]]**
+  * **[[:tr:obe:kt:Christ]]**
+  * **[[:tr:obe:kt:death]]**
+  * **[[:tr:obe:kt:God]]**
+  * **[[:tr:obe:kt:raise]]**
+  * **[[:tr:obe:kt:resurrection]]**
+  * **[[:tr:obe:kt:save]]**
+  * **[[:tr:obe:kt:sin]]**
+  * **[[:tr:obe:kt:newcovenant]]**
 
 
 ==== Translation Notes: ====
