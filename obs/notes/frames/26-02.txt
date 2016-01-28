@@ -15,8 +15,8 @@
 
 ===== Translation Notes: =====
 
-  * **havra** - Yani «Yahudilerin Tanrı’ya tapınmak için toplandıkları yer.» Bu «ibadethane» olarak da çevrilebilir.
+  * **havra** - Yani "Yahudilerin Tanrı’ya tapınmak için toplandıkları yer." Bu "ibadethane" olarak da çevrilebilir.
   * **tomarını** - Tomar, üstü yazılı dürülen kâğıt ya da deri parçasıydı.
-  * **Yeşaya Peygamber’in tomarını** - Yani «üzerinde Yeşaya Peygamber’in sözleri yazılan tomarını.» Bu, Yeşaya’nın birkaç yüzyıl önce üzerinde sözlerini yazdığı tomarın kopyasıydı.
-  * **tomarı açıp** - Bu «tomarı yayarak açtı» gibi da çevrilebilir.
+  * **Yeşaya Peygamber’in tomarını** - Yani "üzerinde Yeşaya Peygamber’in sözleri yazılan tomarını." Bu, Yeşaya’nın birkaç yüzyıl önce üzerinde sözlerini yazdığı tomarın kopyasıydı.
+  * **tomarı açıp** - Bu "tomarı yayarak açtı" gibi da çevrilebilir.
 **[[:tr:obs:notes:frames:26-01|<<]] | [[:tr:obs:notes:26|Up]] | [[:tr:obs:notes:frames:26-03|>>]]**
