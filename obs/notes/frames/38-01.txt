@@ -4,17 +4,16 @@
 
 Every year, the **Jews** celebrated the **Passover**. This was a celebration of how **God** had **saved** their ancestors from **slavery** in **Egypt many centuries earlier**. About three years after **Jesus** first began **preaching** and teaching publicly, Jesus told his **disciples** that he wanted to celebrate this Passover with them in **Jerusalem**, and that he would be killed there.
 ===== Important Terms: =====
-
-  * **[[:tr:obs:notes:key-terms/jew|Jews]]**
-  * **[[:tr:obs:notes:key-terms/passover|Passover]]**
-  * **[[:tr:obs:notes:key-terms/god|God]]**
-  * **[[:tr:obs:notes:key-terms/save|saved]]**
-  * **[[:tr:obs:notes:key-terms/servant|slavery]]**
-  * **[[:tr:obs:notes:key-terms/egypt|Egypt]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/preach|preaching]]**
-  * **[[:tr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:tr:obs:notes:key-terms/jerusalem|Jerusalem]]**
+  * **[[:tr:obe:other:jew]]**
+  * **[[:tr:obe:kt:passover]]**
+  * **[[:tr:obe:kt:god]]**
+  * **[[:tr:obe:kt:save]]**
+  * **[[:tr:obe:other:servant]]**
+  * **[[:tr:obe:other:egypt]]**
+  * **[[:tr:obe:kt:jesus]]**
+  * **[[:tr:obe:other:preach]]**
+  * **[[:tr:obe:kt:disciple]]**
+  * **[[:tr:obe:other:jerusalem]]**
 
 
 ===== Translation Notes: =====
