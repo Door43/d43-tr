@@ -16,7 +16,7 @@
 
 ===== Translation Notes: =====
 
-  * **İstefanos’u öldürenlerin elbiselerini bekleyen** - Bkz: <b>[[:en:obs:notes:frames:45-06|[45-06]]]</b>.
+  * **İstefanos’u öldürenlerin elbiselerini bekleyen** - Bkz: **[[:en:obs:notes:frames:45-06|[45-06]]]**.
   * **ev ev dolaşıyor** - Yani «birçok eve giriyor.»
   * **Şam** - Şam halihazırda Suriye’nin başkentidir. Saul’un döneminde bu kent Roma İmparatorluğu’na dahildi. Orada oturanların çoğu Yahudi değillerdi, fakat bazı Yahudiler ve Mesih inanlıları da orada oturuyorlardı.
 **[[:tr:obs:notes:frames:45-13|<<]] | [[:tr:obs:notes:46|Up]] | [[:tr:obs:notes:frames:46-02|>>]]**
