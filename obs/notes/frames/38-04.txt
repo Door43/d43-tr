@@ -5,11 +5,12 @@
 In Jerusalem, **Jesus celebrated** the **Passover** with his **disciples**. During the Passover meal, Jesus **took some bread** and **broke it**. He said, “Take and eat this. **This is my body**, which is **given for you**. **Do this to remember me**.” In this way, Jesus said that his body would be **sacrificed** for them.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/passover|Passover]]**
-  * **[[:tr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:tr:obs:notes:key-terms/sacrifice|sacrificed]]**
+  * **[[:tr:obe:other:jerusalem]]**
+  * **[[:tr:obe:kt:jesus]]**
+  * **[[:tr:obe:kt:passover]]**
+  * **[[:tr:obe:kt:disciple]]**
+  * **[[:tr:obe:other:sacrifice]]**
+
 
 
 ===== Translation Notes: =====
