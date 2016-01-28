@@ -16,6 +16,6 @@
 ===== Translation Notes: =====
 
 
-  * **ilk oğulluk hakkından** - Yakup babasının mal mülkünün büyük oğlu olarak Esav’ın payına düşmesi gereken büyük kısmına sahiplenmek için bir yol buldu. Şu kısma ait nota da bakınız: <b>[[:en:obs:notes:frames:07-02|[07-02]]]</b>.
-  * **babasının hayırduasından** - Yakup ayrıca babasını kandırarak Esav’a vermek istediği bereket bolluğunu ona vadetmesini sağladı. Şu kısma ait nota da bakınız: <b>[[:en:obs:notes:frames:07-03|[07-03]]]</b>.
+  * **ilk oğulluk hakkından** - Yakup babasının mal mülkünün büyük oğlu olarak Esav’ın payına düşmesi gereken büyük kısmına sahiplenmek için bir yol buldu. Şu kısma ait nota da bakınız: **[[:en:obs:notes:frames:07-02|[07-02]]]**.
+  * **babasının hayırduasından** - Yakup ayrıca babasını kandırarak Esav’a vermek istediği bereket bolluğunu ona vadetmesini sağladı. Şu kısma ait nota da bakınız: **[[:en:obs:notes:frames:07-03|[07-03]]]**.
 **[[:tr:obs:notes:frames:07-04|<<]] | [[:tr:obs:notes:07|Up]] | [[:tr:obs:notes:frames:07-06|>>]]**
