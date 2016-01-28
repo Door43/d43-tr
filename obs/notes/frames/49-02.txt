@@ -16,6 +16,6 @@
 
 ===== Translation Notes: =====
 
-  * **cinleri çıkardı** - Yani «cinlerin insanlardan dışarı çıkmasını sağladı.»
-  * **ölüleri diriltti** - Bu «ölü insanların yeniden hayata dönmesini sağladı» olarak da çevrilebilir.
+  * **cinleri çıkardı** - Yani "cinlerin insanlardan dışarı çıkmasını sağladı."
+  * **ölüleri diriltti** - Bu "ölü insanların yeniden hayata dönmesini sağladı" olarak da çevrilebilir.
 **[[:tr:obs:notes:frames:49-01|<<]] | [[:tr:obs:notes:49|Up]] | [[:tr:obs:notes:frames:49-03|>>]]**
