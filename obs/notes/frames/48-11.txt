@@ -15,5 +15,5 @@
 
 ===== Translation Notes: =====
 
-  * **seçtiği halkı olan İsrailliler** - Yani «seçilmiş halkı, İsrailliler.»
+  * **seçtiği halkı olan İsrailliler** - Yani "seçilmiş halkı, İsrailliler."
 **[[:tr:obs:notes:frames:48-10|<<]] | [[:tr:obs:notes:48|Up]] | [[:tr:obs:notes:frames:48-12|>>]]**
