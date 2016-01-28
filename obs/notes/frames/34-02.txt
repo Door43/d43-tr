@@ -8,7 +8,7 @@
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
-  * **hardal tohumu** - Bunu <b>[[:en:obs:notes:frames:34-01|[34-01]]]</b>de nasıl çevirdiğinize dikkat edin.
+  * **hardal tohumu** - Bunu **[[:en:obs:notes:frames:34-01|[34-01]]]** de nasıl çevirdiğinize dikkat edin.
   * **gelişir** - «Olgun bitkiye» ilave edebilirsiniz.
   * **bahçe bitkilerinden** - Bu, «bahçede ekilen bitkilerden» şeklinde de çevrilebilir.
   * **dallarında barınır** - Bu «dallarında oturur» ya da «dallarına konur» şeklinde de çevrilebilir.
