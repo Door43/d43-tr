@@ -15,7 +15,7 @@ Then **Jesus** told a **story** to some people who **trusted in their own good d
 
 ===== Translation Notes: =====
 
-  * **öykü** - Bunu <b>[[:en:obs:notes:frames:34-01|[34-01]]]</b>de nasıl çevirdiğinize dikkat edin.
+  * **öykü** - Bunu **[[:en:obs:notes:frames:34-01|[34-01]]]** de nasıl çevirdiğinize dikkat edin.
   * **kendi iyi amellerine güvenerek** - Yani «kendi iyi amelleri sayesinde sâlih olduklarına inanarak» ya da «Tanrı’nın yasasına mükemmel uydukları için gurur duyarak» ya da «kendi iyi amellerinin Tanrı’nın onlardan tamamıyla memnun olduğuna inanarak.»
   * **başkalarını hor gören** - Yani «başka insanları kendilerinden aşağı sayan» ya da «başka insanlara yukarıdan bakan.»
 **[[:tr:obs:notes:frames:34-05|<<]] | [[:tr:obs:notes:34|Up]] | [[:tr:obs:notes:frames:34-07|>>]]**
