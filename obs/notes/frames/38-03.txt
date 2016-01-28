@@ -5,12 +5,13 @@
 The **Jewish leaders**, led by the **high priest**, paid **Judas thirty silver coins** to **betray Jesus**. This happened just as the **prophets** had predicted. Judas agreed, took the money, and went away. He began looking for an opportunity to help them arrest Jesus.
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:tr:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:tr:obs:notes:key-terms/judas|Judas]]**
-  * **[[:tr:obs:notes:key-terms/betray|betray]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/prophet|prophets]]**
+  * **[[:tr:obe:other:jewishleaders]]**
+  * **[[:tr:obe:kt:highpriest]]**
+  * **[[:tr:obe:other:judasiscariot]]**
+  * **[[:tr:obe:kt:betray]]**
+  * **[[:tr:obe:kt:jesus]]**
+  * **[[:tr:obe:kt:prophet]]**
+
 
 
 ===== Translation Notes: =====
