@@ -18,5 +18,5 @@
   * **o hizmetkârı çağırıp** - Yani «hizmetkârın ona gelmesini buyurdu» ya da «bekçilerine o hizmetkârı getirtti.»
   * **Bana yalvardın** - Bu şöyle çevrilebilir: «Benden çok rica ettin» ya da «benden merhamet diledin.»
   * **Sen de böyle davranmalıydın** - Yani «Ben seni bağışladığım gibi sana borçlu olan o adamı bağışlaman gerekiyordu.»
-  * **kapattırdı** - Yani «kapatsınlar diye bekçilerine emir verdi.» Bu sözcüğün <b>[[:en:obs:notes:frames:29-06|[29-06]]]</b>de nasıl çevirdiğinize dikkat edin.
+  * **kapattırdı** - Yani «kapatsınlar diye bekçilerine emir verdi.» Bu sözcüğün **[[:en:obs:notes:frames:29-06|[29-06]]]** de nasıl çevirdiğinize dikkat edin.
 **[[:tr:obs:notes:frames:29-07|<<]] | [[:tr:obs:notes:29|Up]] | [[:tr:obs:notes:frames:29-09|>>]]**
