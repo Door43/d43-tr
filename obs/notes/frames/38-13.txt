@@ -4,14 +4,13 @@
 
 **After each time of prayer**, **Jesus** came back to his **disciples**, but they were asleep. When he returned the third time, Jesus said, “Wake up! My **betrayer** is here.”
 ===== Important Terms: =====
-
-  * **[[:tr:obs:notes:key-terms/pray|prayer]]**
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:tr:obs:notes:key-terms/betray|betrayer]]**
+  * **[[:tr:obe:other:pray]]**
+  * **[[:tr:obe:kt:jesus]]**
+  * **[[:tr:obe:kt:disciple]]**
+  * **[[:tr:obe:kt:betray]]**
 
 
 ===== Translation Notes: =====
 
-  * **Duadan sonra... her defa** - Yani «İsa bu duayı yaptığı her defa.» Bu, <b>[[:en:obs:notes:frames:38-12|[38-12]]]</b>da anlatıldığı gibi, üç kez ettiği duaya aittir.
+  * **Duadan sonra... her defa** - Yani "İsa bu duayı yaptığı her defa." Bu, **[[:en:obs:notes:frames:38-12|[38-12]]]** da anlatıldığı gibi, üç kez ettiği duaya aittir.
 **[[:tr:obs:notes:frames:38-12|<<]] | [[:tr:obs:notes:38|Up]] | [[:tr:obs:notes:frames:38-14|>>]]**
