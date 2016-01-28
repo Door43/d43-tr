@@ -5,19 +5,20 @@
 Jesus said, “**I am**, and you will see me **seated with God and coming from heaven**.” The **high priest tore his clothes in anger** and shouted to the other **religious leaders**, “We do not need any more **witnesses**! You have heard him say that he is the **Son of God**. **What is your judgment**?”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/god|God]]**
-  * **[[:tr:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:tr:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:tr:obs:notes:key-terms/jewish-leaders|religious leaders]]**
-  * **[[:tr:obs:notes:key-terms/witness|witnesses]]**
-  * **[[:tr:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:tr:obs:notes:key-terms/judge|judgment]]**
+
+  * **[[:tr:obe:kt:jesus]]**
+  * **[[:tr:obe:kt:god]]**
+  * **[[:tr:obe:kt:heaven]]**
+  * **[[:tr:obe:kt:highpriest]]**
+  * **[[:tr:obe:other:jewishleaders]]**
+  * **[[:tr:obe:kt:witness]]**
+  * **[[:tr:obe:kt:sonofgod]]**
+  * **[[:tr:obe:kt:judge]]**
 
 
 ===== Translation Notes: =====
 
-  * **Ben’im** - Yani «dediğin gibiyim» ya da «Mesih ve Tanrı’nın Oğlu’yum.» Ayrıca «Benim» Tanrı’nın adıdır (Bkz: <b>[[:en:obs:notes:frames:09-14|[09-14]]]<b>). Sadece «Benim» söylemek yolu ile İsa Tanrı olduğunu söylemiş olur. Mümkünse bunu insanların İsa’nın cevabı ile Tanrı’nın adı arasındaki benzerliği görebileceği şekilde çevirin.
+  * **Ben’im** - Yani «dediğin gibiyim» ya da «Mesih ve Tanrı’nın Oğlu’yum.» Ayrıca «Benim» Tanrı’nın adıdır (Bkz: **[[:en:obs:notes:frames:09-14|[09-14]]]**). Sadece «Benim» söylemek yolu ile İsa Tanrı olduğunu söylemiş olur. Mümkünse bunu insanların İsa’nın cevabı ile Tanrı’nın adı arasındaki benzerliği görebileceği şekilde çevirin.
   * **Tanrı’yla oturduğumu** - Bu «Tanrı’yla hüküm süreceğimi» şeklinde de çevrilebilir. Tanrı her şeye egemen olduğu için insanlar O’ndan semavi taht üzerinde Oturan olarak bahsederler. İsa Tanrı’yla oturduğunu söylerken Baba’yla hüküm sürme yetkisine sahip olduğunu ilan eder.
   * **Tanrı’yla oturduğumu ve gökten geldiğimi** - Bu şöyle de çevrilebilir: «Tanrı’nın yanında oturduğumu ve sonra gökten geldiğimi.»
   * **öfkeyle elbisesini yırtarak** - Yahudiler keder ve öfke göstermek için elbiselerini yırtarlardı. Eğer elbise yırtma dilinizde başka bir anlam veriyorsa «son derece öfkeliydi» gibi tabirler kullanabilirsiniz.
