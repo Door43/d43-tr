@@ -14,6 +14,6 @@
 
 ===== Translation Notes: =====
 
-  * **büyük bir öğretmendi** - Yani «çok önemli bir öğretmendi» ya da «harika bir öğretmendi.»
-  * **kendini sevdiğin gibi ** - Yani «kendini sevdiğin kadar.»
+  * **büyük bir öğretmendi** - Yani "çok önemli bir öğretmendi" ya da "harika bir öğretmendi."
+  * **kendini sevdiğin gibi ** - Yani "kendini sevdiğin kadar."
 **[[:tr:obs:notes:frames:49-02|<<]] | [[:tr:obs:notes:49|Up]] | [[:tr:obs:notes:frames:49-04|>>]]**
