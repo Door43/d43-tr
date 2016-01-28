@@ -16,5 +16,5 @@
 
 ===== Translation Notes: =====
 
-  * **seninle kişisel ilişki kurmak için** - Bu şöyle de çevrilebilir: «O’nun evladı olasın diye» ya da «O’nun dostu olasın diye» ya da «O’na mensup olasın diye.»
+  * **seninle kişisel ilişki kurmak için** - Bu şöyle de çevrilebilir: "O’nun evladı olasın diye" ya da "O’nun dostu olasın diye" ya da "O’na mensup olasın diye."
 **[[:tr:obs:notes:frames:49-12|<<]] | [[:tr:obs:notes:49|Up]] | [[:tr:obs:notes:frames:49-14|>>]]**
