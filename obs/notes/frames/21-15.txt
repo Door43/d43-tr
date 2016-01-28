@@ -9,9 +9,10 @@
 ===== Important Terms: =====
 
 
-  * **[[:tr:obs:notes:key-terms:god|God]]**
-  * **[[:tr:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:tr:obs:notes:key-terms:messiah|Messiah]]**
+
+  * **[[:tr:obe:kt:god]]**
+  * **[[:tr:obe:kt:prophet]]**
+  * **[[:tr:obe:kt:christ]]**
 
 
 ==== Translation Notes: ====
