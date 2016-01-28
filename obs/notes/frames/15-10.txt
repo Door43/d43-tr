@@ -15,7 +15,7 @@
 ==== Translation Notes: ====
 
 
- * //(There are no notes for this frame.)// 
+  * //(There are no notes for this frame.)// 
 
 
 **[[:tr:obs:notes:frames:15-09|<<]] | [[:tr:obs:notes:15|Up]] | [[:tr:obs:notes:frames:15-11|>>]]**
