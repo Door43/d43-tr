@@ -5,11 +5,12 @@
 **Peter** replied, “Even if all the others **abandon you**, I will not!” Then **Jesus** said to Peter, “**Satan** wants **to have all of you**, but I have **prayed** for you, Peter, **that your faith will not fail**. Even so, tonight, **before the rooster crows**, three times you will deny that you even know me.”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms:peter|Peter]]**
-  * **[[:tr:obs:notes:key-terms:jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms:satan|Satan]]**
-  * **[[:tr:obs:notes:key-terms:pray|prayed]]**
-  * **[[:tr:obs:notes:key-terms:faith|faith]]**
+  * **[[:tr:obe:other:peter]]**
+  * **[[:tr:obe:kt:jesus]]**
+  * **[[:tr:obe:kt:satan]]**
+  * **[[:tr:obe:other:pray]]**
+  * **[[:tr:obe:kt:faith]]**
+
 ===== Translation Notes: =====
 
   * **seni terketse** - Bu sözü <b>[[:en:obs:notes:frames:35-09|[35-09]]]</b>de nasıl çevirdiğinize dikkat edin.
