@@ -14,5 +14,5 @@
 ===== Translation Notes: =====
 
   * **Bir gün** - Bu sözle geçmişte olup bitmiş olay anlatılmaya başlanıyor, fakat tam zamanı belirtilmiyor. Çok dilde gerçek olayı anlatmaya başlamanın benzer yolları vardır.
-  * **sakat bir adam** - «Kötürüm bir adam» olarak da çevrilebilir. Bacaklarını tümüyle kullanamayan, ayakta durup yürüyemeyen bir adam kastediliyor.
+  * **sakat bir adam** - "Kötürüm bir adam" olarak da çevrilebilir. Bacaklarını tümüyle kullanamayan, ayakta durup yürüyemeyen bir adam kastediliyor.
 **[[:tr:obs:notes:frames:43-13|<<]] | [[:tr:obs:notes:44|Up]] | [[:tr:obs:notes:frames:44-02|>>]]**
