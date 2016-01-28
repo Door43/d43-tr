@@ -5,11 +5,11 @@
 Then **Jesus** picked up a cup and said, “**Drink this**. **It is my blood of the New Covenant** that **is poured out for the forgiveness of sins**. Do this to **remember me** every time you drink it.”
 ===== Important Terms: =====
 
-  * **[[:tr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tr:obs:notes:key-terms/blood|blood]]**
-  * **[[:tr:obs:notes:key-terms/covenant-new|New Covenant]]**
-  * **[[:tr:obs:notes:key-terms/forgive|forgiveness]]**
-  * **[[:tr:obs:notes:key-terms/sin|sins]]**
+  * **[[:tr:obe:kt:jesus]]**
+  * **[[:tr:obe:kt:blood]]**
+  * **[[:tr:obe:kt:newcovenant]]**
+  * **[[:tr:obe:kt:forgive]]**
+  * **[[:tr:obe:kt:sin]]**
 
 
 ===== Translation Notes: =====
