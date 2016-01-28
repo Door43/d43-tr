@@ -19,8 +19,8 @@
 
 ===== Translation Notes: =====
 
-  * **sapasağlam** - Yani «güçlü», «sağlıklı.»
-  * **O’nu reddettiniz** - Yani «O’nu kabul etmek istemediniz» ya da «İsa’ya iman etmeyi reddettiniz» ya da «İsa’nın Kurtartıcı olduğuna inanmak istemediniz.»
-  * **İsa’nın kudretinden başka kurtuluş yolu yoktur** - Bu ayrıca şöyle çevrilebilir: «kurtulmanın tek yolu İsa’nın kudreti aracılığıyla kurtuluştur» ya da «yalnızca İsa kendi kudretiyle bizi kurtarabilir.»
-  * **kurtuluş** - Bu şöyle de çevrilebilir: «günahlarımızdan kurtulmamız» ya da «günahlarımızdan kurtulabilelim diye.»
+  * **sapasağlam** - Yani "güçlü", "sağlıklı."
+  * **O’nu reddettiniz** - Yani "O’nu kabul etmek istemediniz" ya da "İsa’ya iman etmeyi reddettiniz" ya da "İsa’nın Kurtartıcı olduğuna inanmak istemediniz."
+  * **İsa’nın kudretinden başka kurtuluş yolu yoktur** - Bu ayrıca şöyle çevrilebilir: "kurtulmanın tek yolu İsa’nın kudreti aracılığıyla kurtuluştur" ya da "yalnızca İsa kendi kudretiyle bizi kurtarabilir."
+  * **kurtuluş** - Bu şöyle de çevrilebilir: "günahlarımızdan kurtulmamız" ya da "günahlarımızdan kurtulabilelim diye."
 **[[:tr:obs:notes:frames:44-07|<<]] | [[:tr:obs:notes:44|Up]] | [[:tr:obs:notes:frames:44-09|>>]]**
