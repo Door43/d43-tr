@@ -11,6 +11,6 @@
 
 ===== Translation Notes: =====
 
-  * **her şeyi bırakıp** - Yani «her şeyi terkedip» ya da «sahip olduğumuz her şeyden vazgeçip.»
-  * **Peki mükafatımız ne olacak?** - Bunu söylemenin başka bir yolu şu: «Ne mükafat alacağız?» ya da «Nasıl mükafatlandırılacağız?» ya da «Tanrı bize ne mükafat verecek?» Ayrıca «bunu yaptığımız için...» ilave etmemiz lazım olabilir.
+  * **her şeyi bırakıp** - "Yani her şeyi terkedip" ya da "sahip olduğumuz her şeyden vazgeçip."
+  * **Peki mükafatımız ne olacak?** - Bunu söylemenin başka bir yolu şu: "Ne mükafat alacağız?" ya da "Nasıl mükafatlandırılacağız?" ya da "Tanrı bize ne mükafat verecek?" Ayrıca "bunu yaptığımız için..." ilave etmemiz lazım olabilir.
 **[[:tr:obs:notes:frames:28-08|<<]] | [[:tr:obs:notes:28|Up]] | [[:tr:obs:notes:frames:28-10|>>]]**
