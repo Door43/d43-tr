@@ -14,7 +14,7 @@
 
 ===== Translation Notes: =====
 
-  * **Bu öykü havarileri şaşırttı.** - Yani «Havariler bu öyküyü anlamadılar.»
-  * **kişidir** - Bu karşılaştırma ayrıca «kişi gibidir», «kişiyi temsil eder», «kişiye işaret eder» ya da «kişiden bahseder» olarak çevrilebilir.
-  * **onlara ekilen sözü söküp atar** - Bu şöyle de çevrilebilir: «Tanrı’nın sözünü ondan götürür ve ona unutturur» ya da «inanıp kurtulmasın diye sözü onun yüreğinden çalar.» Ayrıca şunu da ekleyebilirsiniz: «kuşlar yola düşen tohumları yedikleri gibi.»
+  * **Bu öykü havarileri şaşırttı.** - Yani "Havariler bu öyküyü anlamadılar."
+  * **kişidir** - Bu karşılaştırma ayrıca "kişi gibidir", "kişiyi temsil eder", "kişiye işaret eder" ya da "kişiden bahseder»"olarak çevrilebilir.
+  * **onlara ekilen sözü söküp atar** - Bu şöyle de çevrilebilir: "Tanrı’nın sözünü ondan götürür ve ona unutturur" ya da "inanıp kurtulmasın diye sözü onun yüreğinden çalar." Ayrıca şunu da ekleyebilirsiniz: "kuşlar yola düşen tohumları yedikleri gibi."
 **[[:tr:obs:notes:frames:33-05|<<]] | [[:tr:obs:notes:33|Up]] | [[:tr:obs:notes:frames:33-07|>>]]**
