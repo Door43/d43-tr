@@ -12,5 +12,6 @@
 
   * (Jesus continues the story.)
   * **Ben ne yapıyorum?** - Yani "Neden böyle yaşıyorum?" ya da "Böyle yaşamamam gerekiyor!" ya da "Böyle yaşamamın anlamı yok."
-Oğul burada gerçek soru sormaz, bu yüzden bazı dillerde bunun olumlu cümle şeklinde çevrilmesi gerekebilir.
-**[[:tr:obs:notes:frames:35-05|<<]] | [[:tr:obs:notes:35|Up]] | [[:tr:obs:notes:frames:35-07|>>]]**
+  * **Oğul burada gerçek soru sormaz, bu yüzden bazı dillerde bunun olumlu cümle şeklinde çevrilmesi gerekebilir.
+
+**[[:tr:obs:notes:frames:35-05|<<]] | [[:tr:obs:notes:35|Up]] | [[:tr:obs:notes:frames:35-07|>>]]
