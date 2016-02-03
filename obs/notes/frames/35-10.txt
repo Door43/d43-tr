@@ -8,5 +8,5 @@
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
-  * **Az sonra** - Bu, «Çok geçmeden» ya da «Biraz sonra» şeklinde de çevrilebilir.
+  * **Az sonra** - Bu, "Çok geçmeden" ya da "Biraz sonra" şeklinde de çevrilebilir.
 **[[:tr:obs:notes:frames:35-09|<<]] | [[:tr:obs:notes:35|Up]] | [[:tr:obs:notes:frames:35-11|>>]]**
