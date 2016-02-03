@@ -13,8 +13,8 @@
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
-  * **kutlamamız yerindedir** - Yani «kutlamamız, yapmamız gereken doğru iştir» ya da «kutlamamız bize yaraşır.»
-  * **kardeşin** - Baba büyük oğluna kardeşiyle ilişkisini ve onu sevmesi gerektiğini hatırlatmak için küçük oğlundan bahsederken «senin kardeşin» der.
+  * **kutlamamız yerindedir** - Yani "kutlamamız, yapmamız gereken doğru iştir" ya da "kutlamamız bize yaraşır."
+  * **kardeşin** - Baba büyük oğluna kardeşiyle ilişkisini ve onu sevmesi gerektiğini hatırlatmak için küçük oğlundan bahsederken "senin kardeşin" der.
   * **ölmüştü ve tekrar hayata döndü** - Bunu **[[:en:obs:notes:frames:35-09|[35-09]]]** de nasıl çevirdiğinize dikkat edin.
   * **Kaybolmuştu ve şimdi bulundu!** - Bunu **[[:en:obs:notes:frames:35-09|[35-09]]]** de nasıl çevirdiğinize dikkat edin.
 **[[:tr:obs:notes:frames:35-12|<<]] | [[:tr:obs:notes:35|Up]] | [[:tr:obs:notes:frames:36-01|>>]]**
