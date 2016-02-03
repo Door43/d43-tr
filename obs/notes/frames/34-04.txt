@@ -12,8 +12,8 @@
 ===== Translation Notes: =====
 
   * (Jesus told another story.)
-  * **define** - Yani «hazine» ya da «çok değerli bir şey.»
-  * **tekrar gömer** - Ayrıca «başka kimse onu bulamasın diye» şeklinde eklemek mümkündür.
-  * **Çok sevinir** - Bunu söylemenin başka bir yolu «çok mutlu olur» ya da «sevinçten coşar.»
-  * **o tarlayı satın alır** - Bazıları «defineye sahip olmak için» şeklinde ilave edebilirler.
+  * **define** - Yani "hazine" ya da "çok değerli bir şey."
+  * **tekrar gömer** - Ayrıca "başka kimse onu bulamasın diye" şeklinde eklemek mümkündür.
+  * **Çok sevinir** - Bunu söylemenin başka bir yolu "çok mutlu olur" ya da "sevinçten coşar."
+  * **o tarlayı satın alır** - Bazıları "defineye sahip olmak için" şeklinde ilave edebilirler.
 **[[:tr:obs:notes:frames:34-03|<<]] | [[:tr:obs:notes:34|Up]] | [[:tr:obs:notes:frames:34-05|>>]]**
