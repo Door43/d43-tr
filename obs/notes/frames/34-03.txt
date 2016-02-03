@@ -12,7 +12,7 @@
 ===== Translation Notes: =====
 
   * **öykü** - Bunu **[[:en:obs:notes:frames:34-01|[34-01]]]** de nasıl çevirdiğinize dikkat edin.
-  * **maya** - Bu ayrıca «biraz maya» şeklinde çevrilebilir. Maya ekmeğe katılan ve ekmeğin pişerken kalkmasını sağlayan bir maddedir. Azıcık mayanın çok miktarda hamura katılması sonucunda bütün hamur kalkar.
-  * **hamur** - Biçimlenerek ekmek olarak pişirilebilecek unla sıvının karışımı. Hamur ya da un için sözcükleriniz yoksa un sözünü ödünç alabilirsiniz ya da buna «öğütülen tohum» diyebilirsiniz.
-  * **bütün hamuru kabartır** - Yani «hamurun her yerine yayılır» ya da «hamurun her yanında maya bulunur.»
+  * **maya** - Bu ayrıca "biraz maya" şeklinde çevrilebilir. Maya ekmeğe katılan ve ekmeğin pişerken kalkmasını sağlayan bir maddedir. Azıcık mayanın çok miktarda hamura katılması sonucunda bütün hamur kalkar.
+  * **hamur** - Biçimlenerek ekmek olarak pişirilebilecek unla sıvının karışımı. Hamur ya da un için sözcükleriniz yoksa un sözünü ödünç alabilirsiniz ya da buna "öğütülen tohum" diyebilirsiniz.
+  * **bütün hamuru kabartır** - Yani "hamurun her yerine yayılır" ya da "hamurun her yanında maya bulunur."
 **[[:tr:obs:notes:frames:34-02|<<]] | [[:tr:obs:notes:34|Up]] | [[:tr:obs:notes:frames:34-04|>>]]**
