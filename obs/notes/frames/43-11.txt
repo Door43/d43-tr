@@ -18,7 +18,7 @@
 
 ===== Translation Notes: =====
 
-  * **adıyla** - Bu söz hem «yetkisiyle» hem de «yetkisi altında» anlamına geliyor. Dilinizde anlaşılırsa harfiyen çevirebilirsiniz.
-  * **Mesih** - «Mesh edilmiş» ya da «Seçilmiş» anlamına gelen bir unvan. Bazı çevirmenler bu unvanın anlamını çevirmek yerine «Mesih» sözcüğünü kendi dillerinde yazabilirler.
-  * **İsa Mesih** - Mesih burada bir unvan olduğu için bazı çevirmenler sırasını değişerek «Mesih İsa» söyleyebilirler. Kutsal Kitap’ta her iki sıra kullanılır.
+  * **adıyla** - Bu söz hem "yetkisiyle" hem de "yetkisi altında" anlamına geliyor. Dilinizde anlaşılırsa harfiyen çevirebilirsiniz.
+  * **Mesih** - "Mesh edilmiş" ya da "Seçilmiş" anlamına gelen bir unvan. Bazı çevirmenler bu unvanın anlamını çevirmek yerine "Mesih" sözcüğünü kendi dillerinde yazabilirler.
+  * **İsa Mesih** - Mesih burada bir unvan olduğu için bazı çevirmenler sırasını değişerek "Mesih İsa" söyleyebilirler. Kutsal Kitap’ta her iki sıra kullanılır.
 **[[:tr:obs:notes:frames:43-10|<<]] | [[:tr:obs:notes:43|Up]] | [[:tr:obs:notes:frames:43-12|>>]]**
