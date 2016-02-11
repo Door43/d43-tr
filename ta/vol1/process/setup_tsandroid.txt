@@ -18,5 +18,5 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:process:tsandroid_translation|How to Translate in translationStudio]]
+  * [[tr:ta:vol1:process:tsandroid_translation|How to Translate in translationStudio Android]]
 
