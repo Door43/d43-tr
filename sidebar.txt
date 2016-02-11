@@ -1,17 +1,57 @@
-
 ----
-~~NOCACHE~~
+
+
 **Door43**
 
-  * [[tr:home|Door43 (tr)]]
+  * [[ar:home|Door43 (Turkish)]]
+
+**Help**
+
+  * [[:tr:ta|translationAcademy]]
+  * [[:tr:get-started|How to Get Started]]
+  * [[:tr:obs:help|Open Bible Stories Help]]
 
 **Resources**
 
-  * [[tr:obs|Open Bible Stories (tr)]]
-    *[[:tr:obs:notes|Open Bible Stories tN (tr)]]
-    * [[:tr:obs:notes:questions:home|Open Bible Stories tQ (tr)]]
-    * [[:tr:obe:home|Open Bible Stories tW (tr)]]
+  *  [[:tr:obs|Open Bible Stories]]
+      * [[:tr:obs:notes|translationNotes]]
+      * [[:tr:obs:notes:questions:home|translationQuestions]]
+      * [[:tr:obe:home|translationWords]]
+  *  [[:en:bible:intro|Bible (English)]]
+      * [[:en:ulb:ep:home|(English) Unlocked Literal Bible]]
+      * [[:en:udb:ep:home|(English) Unlocked Dynamic Bible]]
+      * [[:en:bible:notes:home|(English) translationNotes]]
+      * [[:en:bible:questions:comprehension:home|(English) translationQuestions]]
+      * [[:en:obe:home|(English) translationWords]]
+  * [[:en:lexicon|Open Bible Lexicon (English)]]
+  *  [[:en:library|Open Christian Library]]
+      * [[:en:pet|Plain English Translation]]
+      * [[:en:library:t4t:home|Translation for Translators]]
+  *  [[:tr:bible:intro|Bible (Turkish)]]
+      * [[:tr:ulb:ep:home|Unlocked Literal Bible]]
+      * [[:tr:udb:ep:home|Unlocked Dynamic Bible]]
+      * [[:tr:bible:notes:home|translationNotes]]
+      * [[:tr:bible:questions:comprehension:home|translationQuestions]]
+      * [[:tr:obe:home|translationWords]]
+  * [[:tr:ta|translationAcademy ]]
+      * [[:tr:ta:vol1:intro:toc_intro|Introduction]]
+      * [[:tr:ta:vol1:translate:toc_transvol1_2|Translation Manual]]
+      * [[:tr:ta:vol1:checking:toc_checkvol1_2|Checking Manual]]
+      * [[:tr:ta:vol1:tech:toc_techvol1_2|Technology Manual]]
+      * [[:tr:ta:vol1:process:toc_processvol1_2|Process Manual]]
 
+
+**About Door43**
+
+  * [[:tr:ta:vol1:intro:statement_of_faith|Statement of Faith]]
+  * [[:tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * [[:tr:ta:vol1:intro:open_license|Copyrights & Licensing]]
+
+**Door43 Development**
+
+  * [[:en:dev|Development Projects]]
+
+~~NOCACHE~~
 
 **Downloads**
 
@@ -23,8 +63,3 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 **Language Information**
 
 [[http://www.ethnologue.com/language/tr|Ethnologue data]]
-
-**Resources**
-
-  * [[tr:obs|Open Bible Stories (tr)]]
-
