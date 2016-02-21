@@ -1,8 +1,9 @@
 ===== Complete Translation =====
 
-This module answers the question: Is the translation complete?\\
+This module answers the question: //Is the translation complete?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:checking:accurate|Accurate Translation]]
+  * //[[tr:ta:vol1:checking:accurate|Accurate Translation]]//
 
 ==== A Complete Translation ====
 
@@ -17,6 +18,6 @@ If there is a place where the translation is not complete, make a note of that s
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:checking:self_assessment|Self-Assessment Rubric]]
-  * [[tr:ta:vol1:checking:good|Level 2 Affirmation]]
+  * //[[tr:ta:vol1:checking:self_assessment|Self-Assessment Rubric]]//
+  * //[[tr:ta:vol1:checking:good|Level 2 Affirmation]]//
 

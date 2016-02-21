@@ -1,10 +1,11 @@
 ===== Help with Translating =====
 
-This module answers the question: Where do I find help for translating?\\
+This module answers the question: //Where do I find help for translating?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:translate:translate_what|What to Start Translating]]
-  * [[tr:ta:vol1:translate:first_draft|Make a First Draft]]
-  * [[tr:ta:vol1:translate:resources_intro|Introduction to Resources]]
+  * //[[tr:ta:vol1:translate:translate_what|What to Start Translating]]//
+  * //[[tr:ta:vol1:translate:first_draft|Make a First Draft]]//
+  * //[[tr:ta:vol1:translate:resources_intro|Introduction to Resources]]//
 
 ==== Using Translation Helps ====
 
@@ -21,6 +22,6 @@ Once you have consulted the Translation Notes and Translation Words, then you ar
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:translate:resources_types|Types of Notes]]
-  * [[tr:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]
+  * //[[tr:ta:vol1:translate:resources_types|Types of Notes]]//
+  * //[[tr:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]//
 

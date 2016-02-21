@@ -1,10 +1,11 @@
 ===== The Qualities of a Good Translation =====
 
-This module answers the question: What are the qualities of a good translation?\\
+This module answers the question: //What are the qualities of a good translation?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
-  * [[tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]
-  * [[tr:ta:vol1:translate:translate_whatis|What is Translation]]
+  * //[[tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]]//
+  * //[[tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]//
+  * //[[tr:ta:vol1:translate:translate_whatis|What is Translation]]//
 
 ==== Four Main Qualities ====
 
@@ -48,9 +49,9 @@ In addition to being clear, natural, accurate, and church-approved, great transl
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:translate:guidelines_clear|Create Clear Translations]]
-  * [[tr:ta:vol1:translate:guidelines_natural|Create Natural Translations]]
-  * [[tr:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]
-  * [[tr:ta:vol1:translate:guidelines_church_approved|Create Church-Approved Translations]]
-  * [[tr:ta:vol1:translate:translate_process|The Translation Process]]
+  * //[[tr:ta:vol1:translate:guidelines_clear|Create Clear Translations]]//
+  * //[[tr:ta:vol1:translate:guidelines_natural|Create Natural Translations]]//
+  * //[[tr:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]//
+  * //[[tr:ta:vol1:translate:guidelines_church_approved|Create Church-Approved Translations]]//
+  * //[[tr:ta:vol1:translate:translate_process|The Translation Process]]//
 

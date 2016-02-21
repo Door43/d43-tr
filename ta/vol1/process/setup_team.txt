@@ -1,9 +1,10 @@
 ===== Setting Up A Translation Team =====
 
-This module answers the question: How can I set up a translation team?\\
+This module answers the question: //How can I set up a translation team?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:translate:translate_process|The Translation Process]]
-  * [[tr:ta:vol1:process:getting_started|Getting Started]]
+  * //[[tr:ta:vol1:translate:translate_process|The Translation Process]]//
+  * //[[tr:ta:vol1:process:getting_started|Getting Started]]//
 
 ==== Translation Teams and the Definition of a Good Translation ====
 
@@ -32,10 +33,10 @@ There are many decisions the translation team will have to make, many of them ri
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:translate:choose_team|Choosing a Translation Team]]
-  * [[tr:ta:vol1:translate:qualifications|Translator Qualifications]]
-  * [[tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]
-  * [[tr:ta:vol1:translate:translate_alphabet|Alphabet/Orthography]]
-  * [[tr:ta:vol1:translate:writing_decisions|Decisions for Writing Your Language]]
-  * [[tr:ta:vol1:translate:translate_what|What to Start Translating]]
+  * //[[tr:ta:vol1:translate:choose_team|Choosing a Translation Team]]//
+  * //[[tr:ta:vol1:translate:qualifications|Translator Qualifications]]//
+  * //[[tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
+  * //[[tr:ta:vol1:translate:translate_alphabet|Alphabet/Orthography]]//
+  * //[[tr:ta:vol1:translate:writing_decisions|Decisions for Writing Your Language]]//
+  * //[[tr:ta:vol1:translate:translate_what|What to Start Translating]]//
 

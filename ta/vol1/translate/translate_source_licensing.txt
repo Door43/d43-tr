@@ -1,9 +1,10 @@
 ===== Copyrights, Licensing, and Source Texts =====
 
-This module answers the question: What copyright and licensing considerations should be taken when choosing a source text?\\
+This module answers the question: //What copyright and licensing considerations should be taken when choosing a source text?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]
-  * [[tr:ta:vol1:intro:open_license|Open License]]
+  * //[[tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
+  * //[[tr:ta:vol1:intro:open_license|Open License]]//
 
 ==== Why Is It Important? ====
 
@@ -30,5 +31,5 @@ Note:
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:translate:translate_source_version|Source Texts and Version Numbers]]
+  * //[[tr:ta:vol1:translate:translate_source_version|Source Texts and Version Numbers]]//
 

@@ -1,6 +1,7 @@
 ===== Introduction to translationAcademy =====
 
-This module answers the question: What is translationAcademy?\\
+This module answers the question: //What is translationAcademy?//
+
 ==== Welcome to translationAcademy ====
 
 The “translationAcademy” is intended to enable anyone, anywhere to equip themselves so that they will be able to make high-quality translations of Biblical content into their own language. translationAcademy is designed to be highly flexible. It can be used in a systematic, in-advance approach or it can be used for just-in-time learning (or both, as needed). It is modular in structure. 
@@ -17,5 +18,5 @@ Each manual is separated into two volumes. Volume 1 of each manual covers the ba
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:intro:uw_intro|The unfoldingWord Project]]
+  * //[[tr:ta:vol1:intro:uw_intro|The unfoldingWord Project]]//
 

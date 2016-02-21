@@ -1,8 +1,9 @@
 ===== Accurate Translation =====
 
-This module answers the question: Is the translation accurate?\\
+This module answers the question: //Is the translation accurate?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:checking:church_leader_check|Church Leader Check]]
+  * //[[tr:ta:vol1:checking:church_leader_check|Church Leader Check]]//
 
 ==== An Accurate Translation ====
 
@@ -15,7 +16,7 @@ For instructions on how to do this, go to [[:tr:ta:vol1:checking:accuracy_check]
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:checking:complete|Complete Translation]]
-  * [[tr:ta:vol1:checking:accuracy_check|Accuracy Check]]
-  * [[tr:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]
+  * //[[tr:ta:vol1:checking:complete|Complete Translation]]//
+  * //[[tr:ta:vol1:checking:accuracy_check|Accuracy Check]]//
+  * //[[tr:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]//
 

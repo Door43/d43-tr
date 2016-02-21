@@ -1,9 +1,10 @@
 ===== Decisions for Writing Your Language =====
 
-This module answers the question: What are some decisions we need to make for writing our language?\\
+This module answers the question: //What are some decisions we need to make for writing our language?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]
-  * [[tr:ta:vol1:translate:choose_team|Choosing a Translation Team]]
+  * //[[tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
+  * //[[tr:ta:vol1:translate:choose_team|Choosing a Translation Team]]//
 
 ==== Important Questions to Answer About Writing ====
 
@@ -20,5 +21,5 @@ These questions will give the wider community an understanding of some of the pr
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:translate:translate_what|What to Start Translating]]
+  * //[[tr:ta:vol1:translate:translate_what|What to Start Translating]]//
 

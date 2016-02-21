@@ -1,8 +1,9 @@
 ===== Terms to Know =====
 
-This module answers the question: What terms should I know?\\
+This module answers the question: //What terms should I know?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]
+  * //[[tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]//
 
 ==== Important Words to Know ====
 
@@ -47,5 +48,5 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:translate:translate_whatis|What is Translation]]
+  * //[[tr:ta:vol1:translate:translate_whatis|What is Translation]]//
 

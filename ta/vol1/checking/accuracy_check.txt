@@ -1,10 +1,11 @@
 ===== Accuracy Check =====
 
-This module answers the question: How can I do an accuracy check?\\
+This module answers the question: //How can I do an accuracy check?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:checking:level1|Checking Level One – Translation Team Check]]
-  * [[tr:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]
-  * [[tr:ta:vol1:checking:important_term_check|Important Term Check]]
+  * //[[tr:ta:vol1:checking:level1|Checking Level One – Translation Team Check]]//
+  * //[[tr:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]//
+  * //[[tr:ta:vol1:checking:important_term_check|Important Term Check]]//
 
 ==== Checking the Translation for Accuracy ====
 
@@ -49,9 +50,9 @@ These questions can also be helpful for finding anything that might be inaccurat
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:checking:level2|Checking Level Two – External Check]]
-  * [[tr:ta:vol1:checking:language_community_check|Language Community Check]]
-  * [[tr:ta:vol1:checking:church_leader_check|Church Leader Check]]
-  * [[tr:ta:vol1:checking:other_methods|Other Methods]]
-  * [[tr:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]
+  * //[[tr:ta:vol1:checking:level2|Checking Level Two – External Check]]//
+  * //[[tr:ta:vol1:checking:language_community_check|Language Community Check]]//
+  * //[[tr:ta:vol1:checking:church_leader_check|Church Leader Check]]//
+  * //[[tr:ta:vol1:checking:other_methods|Other Methods]]//
+  * //[[tr:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]//
 

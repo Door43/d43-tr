@@ -1,11 +1,12 @@
 ===== Literal Translations =====
 
-This module answers the question: What are literal translations?\\
+This module answers the question: //What are literal translations?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:translate:translate_whatis|What is Translation]]
-  * [[tr:ta:vol1:translate:translate_process|The Translation Process]]
-  * [[tr:ta:vol1:translate:translate_fandm|Form and Meaning]]
-  * [[tr:ta:vol1:translate:translate_terms|Terms to Know]]
+  * //[[tr:ta:vol1:translate:translate_whatis|What is Translation]]//
+  * //[[tr:ta:vol1:translate:translate_process|The Translation Process]]//
+  * //[[tr:ta:vol1:translate:translate_fandm|Form and Meaning]]//
+  * //[[tr:ta:vol1:translate:translate_terms|Terms to Know]]//
 
 ==== Definition ====
 
@@ -39,5 +40,5 @@ Literal translations usually contain the following problems:
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]
+  * //[[tr:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]//
 

@@ -1,8 +1,9 @@
 ===== Setting Up translationStudio =====
 
-This module answers the question: How do I set up translationStudio?\\
+This module answers the question: //How do I set up translationStudio?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:process:platforms|Selecting a Platform]]
+  * //[[tr:ta:vol1:process:platforms|Selecting a Platform]]//
 
 === Set up the app ===
 
@@ -18,5 +19,5 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:process:tsandroid_translation|How to Translate in translationStudio Android]]
+  * //[[tr:ta:vol1:process:tsandroid_translation|How to Translate in translationStudio Android]]//
 

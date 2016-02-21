@@ -1,8 +1,9 @@
 ===== What is Translation =====
 
-This module answers the question: What is Translation?\\
+This module answers the question: //What is Translation?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]
+  * //[[tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]//
 
 ==== Definition ====
 
@@ -17,10 +18,10 @@ There are basically two kinds of translations: literal and dynamic (or meaning-b
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:translate:translate_why|Why We Translate the Bible]]
-  * [[tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]
-  * [[tr:ta:vol1:translate:translate_process|The Translation Process]]
-  * [[tr:ta:vol1:translate:translate_fandm|Form and Meaning]]
-  * [[tr:ta:vol1:translate:translate_literal|Literal Translations]]
-  * [[tr:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]
+  * //[[tr:ta:vol1:translate:translate_why|Why We Translate the Bible]]//
+  * //[[tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]//
+  * //[[tr:ta:vol1:translate:translate_process|The Translation Process]]//
+  * //[[tr:ta:vol1:translate:translate_fandm|Form and Meaning]]//
+  * //[[tr:ta:vol1:translate:translate_literal|Literal Translations]]//
+  * //[[tr:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]//
 

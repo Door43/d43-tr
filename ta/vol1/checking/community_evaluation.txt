@@ -1,10 +1,11 @@
 ===== Language Community Evaluation Questions =====
 
-This module answers the question: How can I show that the community approves the translation?\\
+This module answers the question: //How can I show that the community approves the translation?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:checking:language_community_check|Language Community Check]]
-  * [[tr:ta:vol1:checking:other_methods|Other Methods]]
-  * [[tr:ta:vol1:translate:writing_decisions|Decisions for Writing Your Language]]
+  * //[[tr:ta:vol1:checking:language_community_check|Language Community Check]]//
+  * //[[tr:ta:vol1:checking:other_methods|Other Methods]]//
+  * //[[tr:ta:vol1:translate:writing_decisions|Decisions for Writing Your Language]]//
 
 We, the members of the translation team, affirm that we have checked the translation with members of the language community. 
 
@@ -33,6 +34,6 @@ The community leaders might want to add their own information to this or make a 
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:checking:church_leader_check|Church Leader Check]]
-  * [[tr:ta:vol1:checking:self_assessment|Self-Assessment Rubric]]
+  * //[[tr:ta:vol1:checking:church_leader_check|Church Leader Check]]//
+  * //[[tr:ta:vol1:checking:self_assessment|Self-Assessment Rubric]]//
 

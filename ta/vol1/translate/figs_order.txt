@@ -1,6 +1,7 @@
 ===== Word Order =====
 
-This module answers the question: Is word order important?\\
+This module answers the question: //Is word order important?//
+
 Before you start this module have you learned about:
 
 ==== Parts of a Sentence ====
@@ -69,7 +70,7 @@ Also view the video for the [[http://youtu.be/PzMpNyCNlLQ|computer]] (http://you
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:translate:figs_you|Forms of You]]
-  * [[tr:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]
-  * [[tr:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]
+  * //[[tr:ta:vol1:translate:figs_you|Forms of You]]//
+  * //[[tr:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]//
+  * //[[tr:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]//
 

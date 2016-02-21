@@ -1,9 +1,10 @@
 ===== Welcome to the Technology Manual =====
 
-This module answers the question: What is the Technology Manual?\\
+This module answers the question: //What is the Technology Manual?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]
-  * [[tr:ta:vol1:checking:intro_check|Introduction to the Checking Manual]]
+  * //[[tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]//
+  * //[[tr:ta:vol1:checking:intro_check|Introduction to the Checking Manual]]//
 
 ==== The Technology Manual ====
 
@@ -19,7 +20,7 @@ In these sections you will find practical helps for installing, navigating, shar
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:tech:ts_intro|translationStudio]]
-  * [[tr:ta:vol1:tech:tk_intro|translationKeyboard]]
-  * [[tr:ta:vol1:intro:uw_intro|The unfoldingWord Project]]
+  * //[[tr:ta:vol1:tech:ts_intro|translationStudio]]//
+  * //[[tr:ta:vol1:tech:tk_intro|translationKeyboard]]//
+  * //[[tr:ta:vol1:intro:uw_intro|The unfoldingWord Project]]//
 

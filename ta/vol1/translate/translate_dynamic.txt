@@ -1,11 +1,12 @@
 ===== Meaning-Based Translations =====
 
-This module answers the question: What are Meaning Based Translations?\\
+This module answers the question: //What are Meaning Based Translations?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]
-  * [[tr:ta:vol1:translate:translate_process|The Translation Process]]
-  * [[tr:ta:vol1:translate:translate_literal|Literal Translations]]
-  * [[tr:ta:vol1:translate:translate_fandm|Form and Meaning]]
+  * //[[tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]//
+  * //[[tr:ta:vol1:translate:translate_process|The Translation Process]]//
+  * //[[tr:ta:vol1:translate:translate_literal|Literal Translations]]//
+  * //[[tr:ta:vol1:translate:translate_fandm|Form and Meaning]]//
 
 ==== Introduction ====
 
@@ -64,5 +65,5 @@ Notice that both of these translations have changed the word order to be more na
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:translate:translate_tform|Translate for Meaning]]
+  * //[[tr:ta:vol1:translate:translate_tform|Translate for Meaning]]//
 

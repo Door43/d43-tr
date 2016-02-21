@@ -1,8 +1,9 @@
 ===== Clear Translation =====
 
-This module answers the question: How can I tell if the translation is clear?\\
+This module answers the question: //How can I tell if the translation is clear?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:checking:level2|Checking Level Two – External Check]]
+  * //[[tr:ta:vol1:checking:level2|Checking Level Two – External Check]]//
 
 ==== A Clear Translation ====
 
@@ -19,8 +20,8 @@ Additional help:
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:checking:acceptable|Acceptable Style]]
-  * [[tr:ta:vol1:checking:natural|Natural Translation]]
-  * [[tr:ta:vol1:translate:guidelines_clear|Create Clear Translations]]
-  * [[tr:ta:vol1:checking:language_community_check|Language Community Check]]
+  * //[[tr:ta:vol1:checking:acceptable|Acceptable Style]]//
+  * //[[tr:ta:vol1:checking:natural|Natural Translation]]//
+  * //[[tr:ta:vol1:translate:guidelines_clear|Create Clear Translations]]//
+  * //[[tr:ta:vol1:checking:language_community_check|Language Community Check]]//
 

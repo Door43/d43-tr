@@ -1,8 +1,9 @@
 ===== How to Share Unpublished Content =====
 
-This module answers the question: How can I share unpublished content?\\
+This module answers the question: //How can I share unpublished content?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:process:intro_share|Introduction to Distribution]]
+  * //[[tr:ta:vol1:process:intro_share|Introduction to Distribution]]//
 
 ==== Sharing Unpublished Content from translationStudio ====
 
@@ -31,5 +32,5 @@ In addition to this,
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:process:share_published|How to Share Published Content]]
+  * //[[tr:ta:vol1:process:share_published|How to Share Published Content]]//
 

@@ -1,8 +1,9 @@
 ===== Install unfoldingWord on an Android Device =====
 
-This module answers the question: How do I install unfoldingWord on an Android device?\\
+This module answers the question: //How do I install unfoldingWord on an Android device?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:tech:uw_app|unfoldingWord Mobile App]]
+  * //[[tr:ta:vol1:tech:uw_app|unfoldingWord Mobile App]]//
 
 ==== How to Install uW app ====
 
@@ -23,9 +24,9 @@ The instructions for installing unfoldingWord are below. You can also watch the 
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:tech:uw_first|Use unfoldingWord for the First Time]]
-  * [[tr:ta:vol1:tech:uw_checking|About Checking Levels]]
-  * [[tr:ta:vol1:tech:uw_language|Language Information]]
-  * [[tr:ta:vol1:tech:uw_select|Select a Language]]
-  * [[tr:ta:vol1:tech:uw_audio|Use the Audio Feature in unfoldingWord]]
+  * //[[tr:ta:vol1:tech:uw_first|Use unfoldingWord for the First Time]]//
+  * //[[tr:ta:vol1:tech:uw_checking|About Checking Levels]]//
+  * //[[tr:ta:vol1:tech:uw_language|Language Information]]//
+  * //[[tr:ta:vol1:tech:uw_select|Select a Language]]//
+  * //[[tr:ta:vol1:tech:uw_audio|Use the Audio Feature in unfoldingWord]]//
 

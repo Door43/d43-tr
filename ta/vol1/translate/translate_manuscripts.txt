@@ -1,9 +1,10 @@
 ===== Original Manuscripts =====
 
-This module answers the question: Is there more information about the Original Language text?\\
+This module answers the question: //Is there more information about the Original Language text?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:translate:translate_process|The Translation Process]]
-  * [[tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]
+  * //[[tr:ta:vol1:translate:translate_process|The Translation Process]]//
+  * //[[tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
 
 ==== The Writing of the Original Manuscripts ====
 
@@ -19,9 +20,9 @@ To decide which copies were right at these places where there were small differe
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:translate:translate_textvariants|Textual Variants]]
-  * [[tr:ta:vol1:translate:translate_terms|Terms to Know]]
-  * [[tr:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]
-  * [[tr:ta:vol1:translate:translate_literal|Literal Translations]]
-  * [[tr:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]
+  * //[[tr:ta:vol1:translate:translate_textvariants|Textual Variants]]//
+  * //[[tr:ta:vol1:translate:translate_terms|Terms to Know]]//
+  * //[[tr:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]//
+  * //[[tr:ta:vol1:translate:translate_literal|Literal Translations]]//
+  * //[[tr:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]//
 

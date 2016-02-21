@@ -1,9 +1,10 @@
 ===== Word for Word Substitution =====
 
-This module answers the question: Why should I not translate using word for word substitution?\\
+This module answers the question: //Why should I not translate using word for word substitution?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:translate:translate_literal|Literal Translations]]
-  * [[tr:ta:vol1:translate:translate_fandm|Form and Meaning]]
+  * //[[tr:ta:vol1:translate:translate_literal|Literal Translations]]//
+  * //[[tr:ta:vol1:translate:translate_fandm|Form and Meaning]]//
 
 ==== Definition ====
 
@@ -67,7 +68,7 @@ Figures of Speech have meanings that are different from the individual words tha
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:translate:translate_problem|Problems with Literal Translations]]
-  * [[tr:ta:vol1:translate:figs_intro|Figures of Speech]]
-  * [[tr:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]
+  * //[[tr:ta:vol1:translate:translate_problem|Problems with Literal Translations]]//
+  * //[[tr:ta:vol1:translate:figs_intro|Figures of Speech]]//
+  * //[[tr:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]//
 

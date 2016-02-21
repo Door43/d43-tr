@@ -1,9 +1,10 @@
 ===== Create Natural Translations =====
 
-This module answers the question: How do I create natural translations?\\
+This module answers the question: //How do I create natural translations?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]
-  * [[tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * //[[tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]//
+  * //[[tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]]//
 
 ==== Natural Translations ====
 
@@ -35,8 +36,8 @@ These points are important in keeping a translation natural.
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:translate:guidelines_clear|Create Clear Translations]]
-  * [[tr:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]
-  * [[tr:ta:vol1:translate:guidelines_church_approved|Create Church-Approved Translations]]
-  * [[tr:ta:vol1:translate:translate_process|The Translation Process]]
+  * //[[tr:ta:vol1:translate:guidelines_clear|Create Clear Translations]]//
+  * //[[tr:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]//
+  * //[[tr:ta:vol1:translate:guidelines_church_approved|Create Church-Approved Translations]]//
+  * //[[tr:ta:vol1:translate:translate_process|The Translation Process]]//
 

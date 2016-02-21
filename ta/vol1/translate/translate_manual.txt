@@ -1,10 +1,11 @@
 ===== Introduction to Translation Manual =====
 
-This module answers the question: What is the Translation Manual?\\
+This module answers the question: //What is the Translation Manual?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:intro:ta_intro|Introduction to translationAcademy]]
-  * [[tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
-  * [[tr:ta:vol1:intro:finding_answers|Finding Answers]]
+  * //[[tr:ta:vol1:intro:ta_intro|Introduction to translationAcademy]]//
+  * //[[tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]]//
+  * //[[tr:ta:vol1:intro:finding_answers|Finding Answers]]//
 
 ==== What Does the Translation Manual Teach? ====
 
@@ -24,8 +25,8 @@ Some highlights in the Translation Manual:
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:translate:translate_why|Why We Translate the Bible]]
-  * [[tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]
-  * [[tr:ta:vol1:translate:translate_process|The Translation Process]]
-  * [[tr:ta:vol1:translate:translate_what|What to Start Translating]]
+  * //[[tr:ta:vol1:translate:translate_why|Why We Translate the Bible]]//
+  * //[[tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]//
+  * //[[tr:ta:vol1:translate:translate_process|The Translation Process]]//
+  * //[[tr:ta:vol1:translate:translate_what|What to Start Translating]]//
 

@@ -1,9 +1,10 @@
 ===== Checking Level Two – External Check =====
 
-This module answers the question: How do I do a level 2 check?\\
+This module answers the question: //How do I do a level 2 check?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:checking:intro_levels|Introduction to the Checking Levels]]
-  * [[tr:ta:vol1:checking:accuracy_check|Accuracy Check]]
+  * //[[tr:ta:vol1:checking:intro_levels|Introduction to the Checking Levels]]//
+  * //[[tr:ta:vol1:checking:accuracy_check|Accuracy Check]]//
 
 ==== Definition of Checking Level Two ====
 
@@ -19,8 +20,8 @@ Once this has been done, this work needs to be [[tr:ta:vol1:checking:good|affirm
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:checking:language_community_check|Language Community Check]]
-  * [[tr:ta:vol1:checking:church_leader_check|Church Leader Check]]
-  * [[tr:ta:vol1:checking:self_assessment|Self-Assessment Rubric]]
-  * [[tr:ta:vol1:checking:good|Level 2 Affirmation]]
+  * //[[tr:ta:vol1:checking:language_community_check|Language Community Check]]//
+  * //[[tr:ta:vol1:checking:church_leader_check|Church Leader Check]]//
+  * //[[tr:ta:vol1:checking:self_assessment|Self-Assessment Rubric]]//
+  * //[[tr:ta:vol1:checking:good|Level 2 Affirmation]]//
 

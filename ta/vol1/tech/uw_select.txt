@@ -1,8 +1,9 @@
 ===== Select a Language =====
 
-This module answers the question: How do I select a language?\\
+This module answers the question: //How do I select a language?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:tech:uw_app|unfoldingWord Mobile App]]
+  * //[[tr:ta:vol1:tech:uw_app|unfoldingWord Mobile App]]//
 
 ==== Selecting a Language ====
 
@@ -15,10 +16,10 @@ Go back to the __[[:tr:ta:vol1:tech:uw_intro|unfoldingWord]]__ page.
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:tech:uw_install|Install unfoldingWord on an Android Device]]
-  * [[tr:ta:vol1:tech:uw_first|Use unfoldingWord for the First Time]]
-  * [[tr:ta:vol1:tech:uw_checking|About Checking Levels]]
-  * [[tr:ta:vol1:tech:uw_language|Language Information]]
-  * [[tr:ta:vol1:tech:uw_update_content|Update unfoldingWord on an Android Device]]
-  * [[tr:ta:vol1:tech:uw_audio|Use the Audio Feature in unfoldingWord]]
+  * //[[tr:ta:vol1:tech:uw_install|Install unfoldingWord on an Android Device]]//
+  * //[[tr:ta:vol1:tech:uw_first|Use unfoldingWord for the First Time]]//
+  * //[[tr:ta:vol1:tech:uw_checking|About Checking Levels]]//
+  * //[[tr:ta:vol1:tech:uw_language|Language Information]]//
+  * //[[tr:ta:vol1:tech:uw_update_content|Update unfoldingWord on an Android Device]]//
+  * //[[tr:ta:vol1:tech:uw_audio|Use the Audio Feature in unfoldingWord]]//
 

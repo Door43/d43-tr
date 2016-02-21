@@ -1,9 +1,10 @@
 ===== Peer Check =====
 
-This module answers the question: How can others help me check my work?\\
+This module answers the question: //How can others help me check my work?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:checking:level1|Checking Level One – Translation Team Check]]
-  * [[tr:ta:vol1:checking:self_check|Self Check]]
+  * //[[tr:ta:vol1:checking:level1|Checking Level One – Translation Team Check]]//
+  * //[[tr:ta:vol1:checking:self_check|Self Check]]//
 
 ==== How to do a Peer Check ====
 
@@ -14,5 +15,5 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:checking:important_term_check|Important Term Check]]
+  * //[[tr:ta:vol1:checking:important_term_check|Important Term Check]]//
 

@@ -1,9 +1,10 @@
 ===== The Translation Process =====
 
-This module answers the question: What are two things I do to translate?\\
+This module answers the question: //What are two things I do to translate?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]
-  * [[tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]
+  * //[[tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]//
+  * //[[tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]//
 
 ==== How to Translate ====
 
@@ -16,8 +17,8 @@ Instructions for translation sometimes divide these two things into smaller step
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]
-  * [[tr:ta:vol1:translate:translate_retell|Re-telling the Meaning]]
-  * [[tr:ta:vol1:translate:translate_terms|Terms to Know]]
-  * [[tr:ta:vol1:translate:translate_fandm|Form and Meaning]]
+  * //[[tr:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]//
+  * //[[tr:ta:vol1:translate:translate_retell|Re-telling the Meaning]]//
+  * //[[tr:ta:vol1:translate:translate_terms|Terms to Know]]//
+  * //[[tr:ta:vol1:translate:translate_fandm|Form and Meaning]]//
 

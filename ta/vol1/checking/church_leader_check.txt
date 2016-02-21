@@ -1,8 +1,9 @@
 ===== Church Leader Check =====
 
-This module answers the question: How can the church leaders help improve the translation?\\
+This module answers the question: //How can the church leaders help improve the translation?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:checking:level2|Checking Level Two – External Check]]
+  * //[[tr:ta:vol1:checking:level2|Checking Level Two – External Check]]//
 
 ==== How to do a Church Leader Check ====
 
@@ -21,7 +22,7 @@ These reviewers should follow these steps:
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:checking:accuracy_check|Accuracy Check]]
-  * [[tr:ta:vol1:checking:accurate|Accurate Translation]]
-  * [[tr:ta:vol1:checking:good|Level 2 Affirmation]]
+  * //[[tr:ta:vol1:checking:accuracy_check|Accuracy Check]]//
+  * //[[tr:ta:vol1:checking:accurate|Accurate Translation]]//
+  * //[[tr:ta:vol1:checking:good|Level 2 Affirmation]]//
 

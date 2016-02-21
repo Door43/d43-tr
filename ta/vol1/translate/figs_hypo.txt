@@ -1,8 +1,9 @@
 ===== Hypothetical Situations =====
 
-This module answers the question: What are hypothetical situations?\\
+This module answers the question: //What are hypothetical situations?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:translate:figs_intro|Figures of Speech]]
+  * //[[tr:ta:vol1:translate:figs_intro|Figures of Speech]]//
 
 ==== Definition ====
 
@@ -49,17 +50,17 @@ Also watch the video for the [[http://youtu.be/GfFX1wWjJhA|computer]] (http://yo
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:translate:figs_metaphor|Metaphor]]
-  * [[tr:ta:vol1:translate:figs_simile|Simile]]
-  * [[tr:ta:vol1:translate:figs_rquestion|Rhetorical Question]]
-  * [[tr:ta:vol1:translate:figs_idiom|Idiom]]
-  * [[tr:ta:vol1:translate:figs_irony|Irony]]
-  * [[tr:ta:vol1:translate:figs_order|Word Order]]
-  * [[tr:ta:vol1:translate:figs_you|Forms of You]]
-  * [[tr:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]
-  * [[tr:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]
-  * [[tr:ta:vol1:translate:figs_explicit|Explicit and Implicit]]
-  * [[tr:ta:vol1:translate:figs_explicitinfo|Making Implicit Information Explicit]]
-  * [[tr:ta:vol1:translate:figs_events|Order of Events]]
-  * [[tr:ta:vol1:translate:figs_parables|Parables]]
+  * //[[tr:ta:vol1:translate:figs_metaphor|Metaphor]]//
+  * //[[tr:ta:vol1:translate:figs_simile|Simile]]//
+  * //[[tr:ta:vol1:translate:figs_rquestion|Rhetorical Question]]//
+  * //[[tr:ta:vol1:translate:figs_idiom|Idiom]]//
+  * //[[tr:ta:vol1:translate:figs_irony|Irony]]//
+  * //[[tr:ta:vol1:translate:figs_order|Word Order]]//
+  * //[[tr:ta:vol1:translate:figs_you|Forms of You]]//
+  * //[[tr:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]//
+  * //[[tr:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]//
+  * //[[tr:ta:vol1:translate:figs_explicit|Explicit and Implicit]]//
+  * //[[tr:ta:vol1:translate:figs_explicitinfo|Making Implicit Information Explicit]]//
+  * //[[tr:ta:vol1:translate:figs_events|Order of Events]]//
+  * //[[tr:ta:vol1:translate:figs_parables|Parables]]//
 

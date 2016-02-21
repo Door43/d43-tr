@@ -1,10 +1,11 @@
 ===== Choosing a Translation Team =====
 
-This module answers the question: How do I choose a translation team?\\
+This module answers the question: //How do I choose a translation team?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]
-  * [[tr:ta:vol1:translate:translate_whatis|What is Translation]]
-  * [[tr:ta:vol1:translate:translate_why|Why We Translate the Bible]]
+  * //[[tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]//
+  * //[[tr:ta:vol1:translate:translate_whatis|What is Translation]]//
+  * //[[tr:ta:vol1:translate:translate_why|Why We Translate the Bible]]//
 
 ==== Importance of a Translation Team ====
 
@@ -43,8 +44,8 @@ The people who are selected to check the translation for accuracy should be peop
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:translate:qualifications|Translator Qualifications]]
-  * [[tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]
-  * [[tr:ta:vol1:translate:translate_alphabet|Alphabet/Orthography]]
-  * [[tr:ta:vol1:translate:writing_decisions|Decisions for Writing Your Language]]
+  * //[[tr:ta:vol1:translate:qualifications|Translator Qualifications]]//
+  * //[[tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
+  * //[[tr:ta:vol1:translate:translate_alphabet|Alphabet/Orthography]]//
+  * //[[tr:ta:vol1:translate:writing_decisions|Decisions for Writing Your Language]]//
 

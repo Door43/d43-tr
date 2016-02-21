@@ -1,9 +1,10 @@
 ===== Natural Translation =====
 
-This module answers the question: Is the translation natural?\\
+This module answers the question: //Is the translation natural?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:checking:level2|Checking Level Two – External Check]]
-  * [[tr:ta:vol1:checking:clear|Clear Translation]]
+  * //[[tr:ta:vol1:checking:level2|Checking Level Two – External Check]]//
+  * //[[tr:ta:vol1:checking:clear|Clear Translation]]//
 
 ==== A Natural Translation ====
 
@@ -20,7 +21,7 @@ It is helpful to think about a situation in your village in which people would t
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:checking:acceptable|Acceptable Style]]
-  * [[tr:ta:vol1:translate:guidelines_natural|Create Natural Translations]]
-  * [[tr:ta:vol1:checking:language_community_check|Language Community Check]]
+  * //[[tr:ta:vol1:checking:acceptable|Acceptable Style]]//
+  * //[[tr:ta:vol1:translate:guidelines_natural|Create Natural Translations]]//
+  * //[[tr:ta:vol1:checking:language_community_check|Language Community Check]]//
 

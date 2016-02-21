@@ -1,9 +1,10 @@
 ===== Self Check =====
 
-This module answers the question: How do I check my first draft?\\
+This module answers the question: //How do I check my first draft?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:checking:level1|Checking Level One – Translation Team Check]]
-  * [[tr:ta:vol1:translate:first_draft|Make a First Draft]]
+  * //[[tr:ta:vol1:checking:level1|Checking Level One – Translation Team Check]]//
+  * //[[tr:ta:vol1:translate:first_draft|Make a First Draft]]//
 
 ==== How to do a Self-Check ====
 
@@ -17,5 +18,5 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:checking:peer_check|Peer Check]]
+  * //[[tr:ta:vol1:checking:peer_check|Peer Check]]//
 

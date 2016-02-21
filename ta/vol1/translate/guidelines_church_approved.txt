@@ -1,9 +1,10 @@
 ===== Create Church-Approved Translations =====
 
-This module answers the question: How do I create church-approved translations?\\
+This module answers the question: //How do I create church-approved translations?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]
-  * [[tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * //[[tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]//
+  * //[[tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]]//
 
 ==== Church-Approved Translations ====
 
@@ -33,8 +34,8 @@ At each level, the people leading the translation should encourage participation
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:translate:guidelines_clear|Create Clear Translations]]
-  * [[tr:ta:vol1:translate:guidelines_natural|Create Natural Translations]]
-  * [[tr:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]
-  * [[tr:ta:vol1:checking:intro_check|Introduction to the Checking Manual]]
+  * //[[tr:ta:vol1:translate:guidelines_clear|Create Clear Translations]]//
+  * //[[tr:ta:vol1:translate:guidelines_natural|Create Natural Translations]]//
+  * //[[tr:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]//
+  * //[[tr:ta:vol1:checking:intro_check|Introduction to the Checking Manual]]//
 

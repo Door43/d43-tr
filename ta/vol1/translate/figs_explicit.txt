@@ -1,6 +1,7 @@
 ===== Explicit and Implicit =====
 
-This module answers the question: What do the words explicit and implicit mean?\\
+This module answers the question: //What do the words explicit and implicit mean?//
+
 ==== Definition ====
 
 There are two different forms of communication found in both written and spoken messages. One is called **//explicit//** and the other is called //**implicit**//. When a speaker, or writer, has a message to give, he has a particular audience in mind as he gives the message. This affects the form of his message and his decision on what information to include or leave out.
@@ -20,17 +21,17 @@ When we translate the Bible, we are making it available to a new audience. This 
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:translate:figs_explicitinfo|Making Implicit Information Explicit]]
-  * [[tr:ta:vol1:translate:figs_metaphor|Metaphor]]
-  * [[tr:ta:vol1:translate:figs_simile|Simile]]
-  * [[tr:ta:vol1:translate:figs_rquestion|Rhetorical Question]]
-  * [[tr:ta:vol1:translate:figs_idiom|Idiom]]
-  * [[tr:ta:vol1:translate:figs_irony|Irony]]
-  * [[tr:ta:vol1:translate:figs_order|Word Order]]
-  * [[tr:ta:vol1:translate:figs_you|Forms of You]]
-  * [[tr:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]
-  * [[tr:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]
-  * [[tr:ta:vol1:translate:figs_hypo|Hypothetical Situations]]
-  * [[tr:ta:vol1:translate:figs_events|Order of Events]]
-  * [[tr:ta:vol1:translate:figs_parables|Parables]]
+  * //[[tr:ta:vol1:translate:figs_explicitinfo|Making Implicit Information Explicit]]//
+  * //[[tr:ta:vol1:translate:figs_metaphor|Metaphor]]//
+  * //[[tr:ta:vol1:translate:figs_simile|Simile]]//
+  * //[[tr:ta:vol1:translate:figs_rquestion|Rhetorical Question]]//
+  * //[[tr:ta:vol1:translate:figs_idiom|Idiom]]//
+  * //[[tr:ta:vol1:translate:figs_irony|Irony]]//
+  * //[[tr:ta:vol1:translate:figs_order|Word Order]]//
+  * //[[tr:ta:vol1:translate:figs_you|Forms of You]]//
+  * //[[tr:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]//
+  * //[[tr:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]//
+  * //[[tr:ta:vol1:translate:figs_hypo|Hypothetical Situations]]//
+  * //[[tr:ta:vol1:translate:figs_events|Order of Events]]//
+  * //[[tr:ta:vol1:translate:figs_parables|Parables]]//
 

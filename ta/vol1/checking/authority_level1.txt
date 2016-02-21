@@ -1,7 +1,8 @@
 ===== Authority Level 1 =====
 
-This module answers the question: What is authority level 1?\\
-Before you start this module have you learned about: [[tr:ta:vol1:checking:authority_process|Checking Authority and Process]]
+This module answers the question: //What is authority level 1?//
+
+Before you start this module have you learned about: //[[tr:ta:vol1:checking:authority_process|Checking Authority and Process]]//
 
 ==== Authority Level 1: Affirmation by Translation Team ====
 
@@ -15,6 +16,6 @@ The translator (or team) asserts that the translation has been done in accordanc
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:checking:authority_level2|Authority Level 2]]
-  * [[tr:ta:vol1:checking:level1|Checking Level One – Translation Team Check]]
+  * //[[tr:ta:vol1:checking:authority_level2|Authority Level 2]]//
+  * //[[tr:ta:vol1:checking:level1|Checking Level One – Translation Team Check]]//
 

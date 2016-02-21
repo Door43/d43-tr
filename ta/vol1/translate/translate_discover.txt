@@ -1,8 +1,9 @@
 ===== Discover the Meaning of the Text =====
 
-This module answers the question: How Do I Discover the Meaning of the Text?\\
+This module answers the question: //How Do I Discover the Meaning of the Text?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:translate:translate_process|The Translation Process]]
+  * //[[tr:ta:vol1:translate:translate_process|The Translation Process]]//
 
 ==== How to Discover the Meaning ====
 
@@ -19,6 +20,6 @@ There are many different things that we can do to help us to discover the meanin
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:translate:translate_terms|Terms to Know]]
-  * [[tr:ta:vol1:translate:translate_retell|Re-telling the Meaning]]
+  * //[[tr:ta:vol1:translate:translate_terms|Terms to Know]]//
+  * //[[tr:ta:vol1:translate:translate_retell|Re-telling the Meaning]]//
 

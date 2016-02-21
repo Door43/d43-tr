@@ -1,9 +1,10 @@
 ===== Links in the Notes =====
 
-This module answers the question: Why should I use the links in the Notes?\\
+This module answers the question: //Why should I use the links in the Notes?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:translate:translate_help|Help with Translating]]
-  * [[tr:ta:vol1:translate:resources_intro|Introduction to Resources]]
+  * //[[tr:ta:vol1:translate:translate_help|Help with Translating]]//
+  * //[[tr:ta:vol1:translate:resources_intro|Introduction to Resources]]//
 
 ==== Repeated Phrases in a Book ====
 
@@ -20,5 +21,5 @@ Sometimes a phrase is used multiple times in one book. When this happens, there 
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:translate:resources_types|Types of Notes]]
+  * //[[tr:ta:vol1:translate:resources_types|Types of Notes]]//
 

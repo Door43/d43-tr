@@ -1,8 +1,9 @@
 ===== Setting Up a Word Processor =====
 
-This module answers the question: How do I set up a Word Processor?\\
+This module answers the question: //How do I set up a Word Processor?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:process:platforms|Selecting a Platform]]
+  * //[[tr:ta:vol1:process:platforms|Selecting a Platform]]//
 
 ==== Obtaining the Source Text for Open Bible Stories ====
 
@@ -21,5 +22,5 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:process:word_translation|Translating in a Word Processor]]
+  * //[[tr:ta:vol1:process:word_translation|Translating in a Word Processor]]//
 

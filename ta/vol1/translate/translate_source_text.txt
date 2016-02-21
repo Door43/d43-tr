@@ -1,8 +1,9 @@
 ===== Choosing a Source Text =====
 
-This module answers the question: What factors should be considered when choosing a source text?\\
+This module answers the question: //What factors should be considered when choosing a source text?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:translate:choose_team|Choosing a Translation Team]]
+  * //[[tr:ta:vol1:translate:choose_team|Choosing a Translation Team]]//
 
 ==== Factors to Consider For A Source Text ====
 
@@ -21,7 +22,7 @@ It is important the the leaders of the churches in the language group agree that
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:translate:translate_source_licensing|Copyrights, Licensing, and Source Texts]]
-  * [[tr:ta:vol1:translate:translate_source_version|Source Texts and Version Numbers]]
-  * [[tr:ta:vol1:translate:translate_original|The Original and Source Languages]]
+  * //[[tr:ta:vol1:translate:translate_source_licensing|Copyrights, Licensing, and Source Texts]]//
+  * //[[tr:ta:vol1:translate:translate_source_version|Source Texts and Version Numbers]]//
+  * //[[tr:ta:vol1:translate:translate_original|The Original and Source Languages]]//
 

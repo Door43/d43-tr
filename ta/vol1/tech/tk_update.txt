@@ -1,8 +1,9 @@
 ===== Update translationKeyboard =====
 
-This module answers the question: How do I update translationKeyboard?\\
+This module answers the question: //How do I update translationKeyboard?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:tech:tk_intro|translationKeyboard]]
+  * //[[tr:ta:vol1:tech:tk_intro|translationKeyboard]]//
 
 ==== Updating tK ====
 
@@ -16,10 +17,10 @@ Sometimes you may need to update the keyboard.
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]
-  * [[tr:ta:vol1:tech:tk_start|Setting Up the translationKeyboard APP on an Android device]]
-  * [[tr:ta:vol1:tech:tk_enable|Enable translationKeyboard on an Android Device]]
-  * [[tr:ta:vol1:tech:tk_find|Select an Input Method]]
-  * [[tr:ta:vol1:tech:tk_create|Create a Keyboard in tK]]
-  * [[tr:ta:vol1:tech:tk_use|How to Use the translationKeyboard in translationStudio]]
+  * //[[tr:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]//
+  * //[[tr:ta:vol1:tech:tk_start|Setting Up the translationKeyboard APP on an Android device]]//
+  * //[[tr:ta:vol1:tech:tk_enable|Enable translationKeyboard on an Android Device]]//
+  * //[[tr:ta:vol1:tech:tk_find|Select an Input Method]]//
+  * //[[tr:ta:vol1:tech:tk_create|Create a Keyboard in tK]]//
+  * //[[tr:ta:vol1:tech:tk_use|How to Use the translationKeyboard in translationStudio]]//
 

@@ -1,9 +1,10 @@
 ===== The Original and Source Languages =====
 
-This module answers the question: What is the difference between the original language and the source language?\\
+This module answers the question: //What is the difference between the original language and the source language?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:translate:translate_process|The Translation Process]]
-  * [[tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]
+  * //[[tr:ta:vol1:translate:translate_process|The Translation Process]]//
+  * //[[tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
 
 ==== Original Language is the most Accurate ====
 
@@ -25,9 +26,9 @@ The only way to make sure the translation is as accurate as possible is to compa
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:translate:translate_manuscripts|Original Manuscripts]]
-  * [[tr:ta:vol1:translate:translate_terms|Terms to Know]]
-  * [[tr:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]
-  * [[tr:ta:vol1:translate:translate_literal|Literal Translations]]
-  * [[tr:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]
+  * //[[tr:ta:vol1:translate:translate_manuscripts|Original Manuscripts]]//
+  * //[[tr:ta:vol1:translate:translate_terms|Terms to Know]]//
+  * //[[tr:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]//
+  * //[[tr:ta:vol1:translate:translate_literal|Literal Translations]]//
+  * //[[tr:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]//
 

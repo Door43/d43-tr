@@ -1,9 +1,10 @@
 ===== Re-telling the Meaning =====
 
-This module answers the question: How do I re-tell the meaning?\\
+This module answers the question: //How do I re-tell the meaning?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:translate:translate_process|The Translation Process]]
-  * [[tr:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]
+  * //[[tr:ta:vol1:translate:translate_process|The Translation Process]]//
+  * //[[tr:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]//
 
 ==== How to Re-tell the Meaning ====
 
@@ -25,8 +26,8 @@ Following is a list of ordered steps. The purpose of these steps is to help the 
 //Credits: Used by permission, © 2013, SIL International, Sharing Our Native Culture, p. 59.//
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:translate:translate_fandm|Form and Meaning]]
-  * [[tr:ta:vol1:translate:translate_terms|Terms to Know]]
-  * [[tr:ta:vol1:translate:translate_literal|Literal Translations]]
-  * [[tr:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]
+  * //[[tr:ta:vol1:translate:translate_fandm|Form and Meaning]]//
+  * //[[tr:ta:vol1:translate:translate_terms|Terms to Know]]//
+  * //[[tr:ta:vol1:translate:translate_literal|Literal Translations]]//
+  * //[[tr:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]//
 

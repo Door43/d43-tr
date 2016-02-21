@@ -1,6 +1,7 @@
 ===== Forms of You =====
 
-This module answers the question: What are the different forms of you?\\
+This module answers the question: //What are the different forms of you?//
+
 Before you start this module have you learned about:
 
 ==== Singular / Dual / Plural ====
@@ -24,7 +25,7 @@ For more information regarding Formal / Informal forms of you [[:tr:ta:vol2:tran
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]
-  * [[tr:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]
-  * [[tr:ta:vol1:translate:figs_order|Word Order]]
+  * //[[tr:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]//
+  * //[[tr:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]//
+  * //[[tr:ta:vol1:translate:figs_order|Word Order]]//
 

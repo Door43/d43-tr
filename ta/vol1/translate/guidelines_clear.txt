@@ -1,9 +1,10 @@
 ===== Create Clear Translations =====
 
-This module answers the question: How do I create clear translations?\\
+This module answers the question: //How do I create clear translations?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]
-  * [[tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * //[[tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]//
+  * //[[tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]]//
 
 ==== Clear Translations ====
 
@@ -47,8 +48,8 @@ Translation is re-telling, as exactly as possible, the meaning of the original m
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:translate:guidelines_natural|Create Natural Translations]]
-  * [[tr:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]
-  * [[tr:ta:vol1:translate:guidelines_church_approved|Create Church-Approved Translations]]
-  * [[tr:ta:vol1:translate:translate_process|The Translation Process]]
+  * //[[tr:ta:vol1:translate:guidelines_natural|Create Natural Translations]]//
+  * //[[tr:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]//
+  * //[[tr:ta:vol1:translate:guidelines_church_approved|Create Church-Approved Translations]]//
+  * //[[tr:ta:vol1:translate:translate_process|The Translation Process]]//
 

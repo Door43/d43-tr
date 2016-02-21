@@ -1,8 +1,9 @@
 ===== Setting Up the translationKeyboard APP on an Android device =====
 
-This module answers the question: How do I set up the translationKeyboard APP on an Android device?\\
+This module answers the question: //How do I set up the translationKeyboard APP on an Android device?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]
+  * //[[tr:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]//
 
 ==== How Can I Set Up tK? ====
 
@@ -38,10 +39,10 @@ Watch the {{:en:ta:tech:setting_up_translationkeyboard-android_v2.mp4|Setting Up
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]
-  * [[tr:ta:vol1:tech:tk_use|How to Use the translationKeyboard in translationStudio]]
-  * [[tr:ta:vol1:tech:tk_enable|Enable translationKeyboard on an Android Device]]
-  * [[tr:ta:vol1:tech:tk_find|Select an Input Method]]
-  * [[tr:ta:vol1:tech:tk_create|Create a Keyboard in tK]]
-  * [[tr:ta:vol1:tech:tk_update|Update translationKeyboard]]
+  * //[[tr:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]//
+  * //[[tr:ta:vol1:tech:tk_use|How to Use the translationKeyboard in translationStudio]]//
+  * //[[tr:ta:vol1:tech:tk_enable|Enable translationKeyboard on an Android Device]]//
+  * //[[tr:ta:vol1:tech:tk_find|Select an Input Method]]//
+  * //[[tr:ta:vol1:tech:tk_create|Create a Keyboard in tK]]//
+  * //[[tr:ta:vol1:tech:tk_update|Update translationKeyboard]]//
 

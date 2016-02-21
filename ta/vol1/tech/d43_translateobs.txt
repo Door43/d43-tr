@@ -1,8 +1,9 @@
 ===== How to Tanslate the Open Bible Stories in Door43 =====
 
-This module answers the question: How do I tanslate the Open Bible Stories in Door43?\\
+This module answers the question: //How do I tanslate the Open Bible Stories in Door43?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:tech:d43_intro|Door43]]
+  * //[[tr:ta:vol1:tech:d43_intro|Door43]]//
 
 ==== Statement of Faith ====
 The [[:tr:ta:vol1:intro:statement_of_faith|Statement of Faith]] is subscribed to by all member organizations of and contributors to the unfoldingWord project. It is in agreement with the Lausanne Covenant.

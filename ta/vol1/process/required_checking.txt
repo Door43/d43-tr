@@ -1,8 +1,9 @@
 ===== How to Check =====
 
-This module answers the question: How do I check a translation?\\
+This module answers the question: //How do I check a translation?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:process:prechecking_training|Training Before Checking Begins]]
+  * //[[tr:ta:vol1:process:prechecking_training|Training Before Checking Begins]]//
 
 ==== Purpose of Checking Levels ====
 
@@ -31,5 +32,5 @@ After completing the Level 3 Check, you are encouraged to [[tr:ta:vol1:process:i
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:process:intro_publishing|Introduction to Publishing]]
+  * //[[tr:ta:vol1:process:intro_publishing|Introduction to Publishing]]//
 

@@ -1,9 +1,10 @@
 ===== Textual Variants =====
 
-This module answers the question: Why does the ULB have missing or added verses\\
+This module answers the question: //Why does the ULB have missing or added verses//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:translate:translate_manuscripts|Original Manuscripts]]
-  * [[tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]
+  * //[[tr:ta:vol1:translate:translate_manuscripts|Original Manuscripts]]//
+  * //[[tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
 
 ==== Explanation ====
 
@@ -33,5 +34,5 @@ We recommend that the Bible translator follow these guidelines when translating 
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:translate:translate_alphabet|Alphabet/Orthography]]
+  * //[[tr:ta:vol1:translate:translate_alphabet|Alphabet/Orthography]]//
 

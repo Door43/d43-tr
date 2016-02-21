@@ -1,8 +1,9 @@
 ===== Translator Qualifications =====
 
-This module answers the question: What are the qualifications of a translator?\\
+This module answers the question: //What are the qualifications of a translator?//
+
 Before you start this module have you learned about:
-  * [[tr:ta:vol1:translate:choose_team|Choosing a Translation Team]]
+  * //[[tr:ta:vol1:translate:choose_team|Choosing a Translation Team]]//
 
 ==== Qualifications of the Translator or Translation Team ====
 
@@ -29,5 +30,5 @@ After the translators have been working for awhile, the translation committee wi
 
 
 Next we recommend you learn about:
-  * [[tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]
+  * //[[tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
 
