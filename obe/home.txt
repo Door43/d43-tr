@@ -1,10 +1,11 @@
-====== Complete List of Important Terms - Turkish ======
+====== Complete List of translationWords -Turkish======
 
 ==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:tr:obe:kt:home]]
-  * [[:tr:obe:other:home]]
+  * [[:tr:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:tr:obe:other:home|List of the Other Terms in the OBE Directory]]
 
-==== All Important Terms: ====
+
+==== All Terms in the OBE: ====
 
 <nspages tr:obe -r -title -exclude:home -textPages="">
