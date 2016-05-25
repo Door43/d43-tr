@@ -1,44 +1,43 @@
-====== 34. İsa Diğer Öyküler Anlatıyor ======
+﻿====== 34. İsa Diğer Öyküler Anlatıyor ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-01.jpg?direct&}}
 
-İsa Tanrı'nın Hükümranlığı konusunda birçok diğer öykü anlattı. Meselâ: "Tanrı'nın Hükümranlığı, birinin tarlasında ektiği hardal tohumuna benzer. Hardal tohumunun bütün tohumların en küçüğü olduğunu biliyorsunuz."
+İsa Tanrı’nın Hükümranlığı konusunda birçok diğer öykü anlattı. Meselâ: “Tanrı’nın Hükümranlığı, birinin tarlasında ektiği hardal tohumuna benzer. Hardal tohumunun bütün tohumların en küçüğü olduğunu biliyorsunuz.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-02.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-02.jpg?direct&}}
 
-"Ama hardal tohumu ekildikten sonra gelişir, bütün bahçe bitkilerinden büyük olur. Hatta kuşlar gelip dallarında barınır."
+“Ama hardal tohumu ekildikten sonra gelişir, bütün bahçe bitkilerinden büyük olur. Hatta kuşlar gelip dallarında barınır.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-03.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-03.jpg?direct&}}
 
-İsa başka bir öykü anlattı: "Tanrı'nın Hükümranlığı, bir kadının una karıştırdığı mayaya benzer. Sonunda maya bütün hamuru kabartır."
+İsa başka bir öykü anlattı: “Tanrı’nın Hükümranlığı, bir kadının una karıştırdığı mayaya benzer. Sonunda maya bütün hamuru kabartır.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-04.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-04.jpg?direct&}}
 
-"Bundan başka, Tanrı'nın Hükümranlığı bir adamın tarlada gömdüğü defineye benzer. Başka birisi o defineyi bulup tekrar gömer. Çok sevinir, hatta gidip sahip olduğu her şeyi satar ve elde ettiği parayla o tarlayı satın alır."
+“Bundan başka, Tanrı’nın Hükümranlığı bir adamın tarlada gömdüğü defineye benzer. Başka birisi o defineyi bulup tekrar gömer. Çok sevinir, hatta gidip sahip olduğu her şeyi satar ve elde ettiği parayla o tarlayı satın alır.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-05.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-05.jpg?direct&}}
 
-"Ayrıca Tanrı'nın Hükümranlığı nadide bir inci gibidir. Değerli inciler arayan bir tüccar onu bulunca sahip olduğu her şeyi satar ve elde ettiği parayla o inciyi satın alır."
+“Ayrıca Tanrı’nın Hükümranlığı nadide bir inci gibidir. Değerli inciler arayan bir tüccar onu bulunca sahip olduğu her şeyi satar ve elde ettiği parayla o inciyi satın alır.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-06.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-06.jpg?direct&}}
 
-Sonra İsa, kendi iyi amellerine güvenerek başkalarını hor gören bazı kişilere şu öyküyü anlattı: "İki adam dua etmek için Tapınak'a gitti. Biri vergici, diğeri de din alimiydi."
+Sonra İsa, kendi iyi amellerine güvenerek başkalarını hor gören bazı kişilere şu öyküyü anlattı: “İki adam dua etmek için Tapınak’a gitti. Biri vergici, diğeri de din alimiydi.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-07.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-07.jpg?direct&}}
 
-"Din alimi şöyle dua etti: 'Ya Tanrı, Sana şükrederim! Başka insanlar -hırsız, zalim, zinaeden, ya da şu vergici- gibi günahkâr değilim.'"
+“Din alimi şöyle dua etti: ‘Ya Tanrı, Sana şükrederim! Başka insanlar -hırsız, zalim, zinaeden, ya da şu vergici- gibi günahkâr değilim.’”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-08.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-08.jpg?direct&}}
 
-"Meselâ, haftada iki gün oruç tutarım, elime geçen paranın ve her şeyin onda birini sana veririm."
+“Meselâ, haftada iki gün oruç tutarım, elime geçen paranın ve her şeyin onda birini sana veririm.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-09.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-09.jpg?direct&}}
 
-"Vergici ise din aliminden uzakta duruyor, başını göğe kaldıramıyordu bile. Ancak yumruğunu göğsüne vurarak, 'Ey Tanrı, bana merhamet et. Ben günahkârım!' diye dua ediyordu."
+“Vergici ise din aliminden uzakta duruyor, başını göğe kaldıramıyordu bile. Ancak yumruğunu göğsüne vurarak, ‘Ey Tanrı, bana merhamet et. Ben günahkârım!’ diye dua ediyordu.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-10.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-10.jpg?direct&}}
 
-Sonra İsa şöyle dedi: "Size gerçeği söylüyorum: Tanrı, vergicinin duasını kabul etti ve kendisini doğru adam ilan etti. Din aliminin duası ise hoşuna gitmedi. Tanrı kibirlenen herkesi küçültür, kendini küçük gören herkesi ise yüceltir."
+Sonra İsa şöyle dedi: “Size gerçeği söylüyorum: Tanrı, vergicinin duasını kabul etti ve kendisini doğru adam ilan etti. Din aliminin duası ise hoşuna gitmedi. Tanrı kibirlenen herkesi küçültür, kendini küçük gören herkesi ise yüceltir.”
 
-//Öykünün Kutsal Kitap'taki yeri: Matta 13:31-33, 44-46; Markos 4:30-32; Luka 13:18-21; 18:9-14​//
-
+//Öykünün Kutsal Kitap’taki yeri: Matta 13:31-33, 44-46; Markos 4:30-32; Luka 13:18-21; 18:9-14​//
