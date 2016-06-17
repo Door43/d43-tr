@@ -1,6 +1,6 @@
-===== Table of Contents - Introduction =====
+===== İçindekiler - Giriş =====
 
-This module answers the question: //What is in the Introduction?//
+This module answers the question: //Giriş’te ne bulunuyor?//
 
 ==== Introduction ====
 
