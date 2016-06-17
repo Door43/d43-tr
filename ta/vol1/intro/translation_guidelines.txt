@@ -19,23 +19,20 @@ Bu belgenin resmî versiyonu// [[https://unfoldingword.org/guidelines|unfoldingw
   - **[[:tr:ta:vol1:translate:guidelines_natural|Doğallık]]** — Etkili olan ve dilinizin ilgili bağlamlarda kullanıldığı yolları yansıtan biçimleri kullanın.
   - **[[:tr:ta:vol2:translate:guidelines_equal|Eşitlik]]** — Duygu ve tavırların ifadesi dahil olmak üzere kaynak metinle aynı kastı iletin. Orijinal metindeki öykü, şiir, teşvik ve peygamberlik dahil olmak üzere çeşitli edebiyat türlerini olabildiğince koruyun ve dilinizde benzer şekilde iletişim sağlayan türlerle çevirin.
 
-==== Identifying and Managing Translation Quality ====
+==== Çevirinin Kalitesini Belirleme ve Kontrol Etme ====
 
-The quality of a translation generally refers to the fidelity of the translation to the meaning of the original, and the degree to which the translation is understandable and effective for the speakers of the receptor language. The strategy we suggest involves checking the forms and communicative quality of the translation with the language community, and checking the fidelity of the translation with the Church in that people group.
+Çevirinin kalitesi ile genel olarak çevirinin orijinalin anlamına uygun olması ve alıcı dilin taşıyıcıları için anlaşılabilir ve etkili olma derecesi kastedilmektedir. Önerdiğimiz strateji, dil toplumuna çevirinin biçimlerini ve iletişimsel niteliğini yoklatmak ve söz konusu etnik gruptaki kiliseye çevirinin doğruluğunu yoklatmaktır.
 
-The specific steps involved may vary significantly, depending on the language and context of the translation project. Generally, we consider a good translation to be one that has been reviewed by the speakers of the language community and also by the leadership of the church in the language group so that it is:
-  - **Accurate, Clear, Natural, and Equal** — Faithful to the intended meaning of the original, as determined by the Church in that people group and in alignment with the Church global and historical, and consequently:
-  - **[[tr:ta:vol1:translate:guidelines_church_approved|Affirmed by the Church]]**  - Endorsed and used by the Church.
+Bu süreçte atılan somut adımlar, çeviri projesinin diline ve bağlamına dayalı olarak oldukça değişik olabilir. Genelde iyi çeviri ile kastettiğimiz şu: söz konusu etnik gruptaki kilisenin, ayrıca küresel ve tarihsel kilisenin düşüncesine uygun olarak,
 
-We also recommend that the translation work be:
+  - **Doğru, Açık, Doğal ve orijinalin**  — kastedilen anlamına Eşit ve Doğru olması açısından dil toplumu ve kilise önderliği tarafından kontrol edilmiş ve dolayısıyla:
+  - **[[:tr:ta:vol1:translate:guidelines_church_approved|Kilise tarafından onaylanmış]]**- Tavsiye edilip kullanılmakta olan çeviri.
+Ayrıca çeviri işinde şunları tavsiye ederiz:
 
-  - **[[tr:ta:vol2:translate:guidelines_collaborative|Collaborative]]** — Where possible, work together with other believers who speak your language to translate, check, and distribute the translated content, ensuring that it is of the highest quality and available to as many people as possible.
-  - **[[tr:ta:vol2:translate:guidelines_ongoing|Ongoing]]** — Translation work is never completely finished. Encourage those who are skilled with the language to suggest better ways to say things when they notice that improvements can be made. Any errors in the translation should also be corrected as soon as they are discovered. Also encourage the periodic review of translations to ascertain when revision or a new translation is needed. We recommend that each language community form a translation committee to oversee this ongoing work. Using the unfoldingWord online tools, these changes to the translation can be made quickly and easily.
-
-
-
+  - **[[:tr:ta:vol2:translate:guidelines_collaborative|İşbirliği]]** — Mümkün olduğu takdirde, çevirinin olabildiğince yüksek kalitesini ve olabildiğince çok insana ulaşmasını sağlamak amacıyla çevirme, çevrilen içeriğin yoklanması ve dağıtımı işlerinde dilinizde konuşan diğer imanlılarla birlikte çalışın.
+  - **[[:tr:ta:vol2:translate:guidelines_ongoing|Süreklilik]]** — Çeviri işi hiçbir zaman tamamen bitmiş olmaz. Dil yeteneği daha güçlü olan kişileri teşvik edin ki, farkında oldukları daha iyi söylenebilecek şeyleri söylesinler. Çevirideki yanlışlıklar da tespit edilince hemen düzeltilmeli. Ayrıca bir revizyonun ya da yeni çevirinin gerektiği zamanı tespit etmek amacıyla çevirinin düzenli aralıklarla tekrar gözden geçirilmesini teşvik edin. Her dil toplumunun bu sürekli işi yönetecek bir çeviri kurulu yaratmasını tavsiye ederiz. unfoldingWord çevrimiçi araçlarıyla çeviride hızlı ve kolayca değişiklikler yapılabilir.
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:intro:open_license|Open License]]//
-  * //[[tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]//
-  * //[[tr:ta:vol1:checking:intro_checking|Introduction to Translation Checking]]//
 
+  * //[[:tr:ta:vol1:intro:open_license|Open License]]//
+  * //[[:tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]//
+  * //[[:tr:ta:vol1:checking:intro_checking|Introduction to Translation Checking]]//
