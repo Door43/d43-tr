@@ -4,10 +4,10 @@ This module answers the question: //What is in the Introduction?//
 
 ==== Introduction ====
 
-  - [[:tr:ta:vol1:intro:ta_intro|Introduction to translationAcademy]]
-  - [[:tr:ta:vol1:intro:uw_intro|The unfoldingWord Project]]
-  - [[:tr:ta:vol1:intro:statement_of_faith|Statement of Faith]]
+  - [[:tr:ta:vol1:intro:ta_intro|translationAcademy’nin Tanıtımı]]
+  - [[:tr:ta:vol1:intro:uw_intro|UnfoldingWord Projesi]]
+  - [[:tr:ta:vol1:intro:statement_of_faith|İman Beyanı]]
   - [[:tr:ta:vol1:intro:translation_guidelines|Çeviri Kuralları]]
-  - [[:tr:ta:vol1:intro:open_license|Open License]]
-  - [[:tr:ta:vol1:intro:gl_strategy|Gateway Languages Strategy]]
-  - [[:tr:ta:vol1:intro:finding_answers|Finding Answers]]
+  - [[:tr:ta:vol1:intro:open_license|Açık Lisans]]
+  - [[:tr:ta:vol1:intro:gl_strategy|Anahtar Diller Stratejisi]]
+  - [[:tr:ta:vol1:intro:finding_answers|Cevap Bulma]]
