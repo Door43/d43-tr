@@ -22,5 +22,4 @@
       * //Tanrı son belayı göndermeyi planladı. [10-12]//
   - **Bu son bela, ilk dokuz belanın yapamayacağı hangi işi yapacaktı?**
       * //Firavunun fikrini değişmesine sebep olacaktı. [10-12]//
-
-**[[tr/obs/notes/questions/09|<< ]] | [[tr/obs/notes/questions/11| >>]]**
+**[[:tr:obs:notes:questions:09|<< ]] | [[:tr:obs:notes:questions:11| >>]]**
