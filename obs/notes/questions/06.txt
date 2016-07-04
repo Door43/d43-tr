@@ -20,5 +20,4 @@
       * //Esav. [06-07]//
   - **Küçük oğulun adı neydi?**
       * //Yakup. [06-07]//
-
-**[[tr/obs/notes/questions/05|<< ]] | [[tr/obs/notes/questions/07| >>]]**
+**[[:tr:obs:notes:questions:05|<< ]] | [[:tr:obs:notes:questions:07| >>]]**
