@@ -34,5 +34,4 @@
       * //Çünkü Avram Tanrı’nın vaadine inanmıştı. [04-08]//
   - **Ahit nedir?**
       * //İki taraf arasındaki antlaşmadır. [04-09]//
-
-**[[tr/obs/notes/questions/03|<< ]] | [[tr/obs/notes/questions/05| >>]]**
+**[[:tr:obs:notes:questions:03|<< ]] | [[:tr:obs:notes:questions:05| >>]]**
