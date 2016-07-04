@@ -3,7 +3,7 @@
 ===== Comprehension Questions and Answers =====
 
   - **Neden kardeşleri Yusuf’tan nefret ediyorlardı?**
-      * //Çünkü Yusuf Yakup’un en sevdiği oğluydu ve Yusuf onların üzerinde hâkim olacağını hayal etmişti.  [08-02]//
+      * //Çünkü Yusuf Yakup’un en sevdiği oğluydu ve Yusuf onların üzerinde hâkim olacağını hayal etmişti. [08-02]//
   - **Kardeşleri Yusuf’a ne kötülük yaptılar?**
       * //Yusuf’u tutup köle tüccarlarına sattılar. [08-02]//
   - **Kardeşleri Yusuf’un kaybolmasını Yakup’a nasıl anlattılar?**
@@ -32,5 +32,4 @@
       * //Yakup’un on iki oğlu. [08-15]//
   - **Yakup’un on iki oğlunun soyundan gelenler ne oldular?**
       * //İsrail’in on iki oymağı. [08-15]//
-
-**[[tr/obs/notes/questions/07|<< ]] | [[tr/obs/notes/questions/09| >>]]**
+**[[:tr:obs:notes:questions:07|<< ]] | [[:tr:obs:notes:questions:09| >>]]**
