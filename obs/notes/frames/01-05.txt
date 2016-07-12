@@ -16,10 +16,9 @@ Then **God said**, “**Let the earth produce all kinds** of trees and plants.�
 
 ==== Translation Notes: ====
 
-
-  * **Tanrı dedi** - Tanrı bir emir vererek tüm bitkileri yarattı.
-  * **yeryüzü üretsin** - Bu, Tanrı’nın buyurması üzerine hemen gerçekleşen olaydır.
-  * **her türlü** - Birçok çeşitli bitki ve ağaç türleri.
-  * **yarattı** - Bu sözcük burada yoktan var etmek anlamında kullanılıyor.
-  * **iyi olduğunu** - Yaratılış öyküsünde sık sık kullanılan bu söz, yaratılışın her evresinin Tanrı’yı memnun ettiğini, O’nun planına, amacına uygun düştüğünü vurguluyor.
+  * **Tanrı dedi**  - Tanrı bir emir vererek tüm bitkileri yarattı.
+  * **yeryüzü üretsin**  - Bu, Tanrı’nın buyurması üzerine hemen gerçekleşen olaydır.
+  * **her türlü**  - Birçok çeşitli bitki ve ağaç türleri.
+  * **yarattı**  - Bu sözcük burada yoktan var etmek anlamında kullanılıyor.
+  * **iyi olduğunu**  - Yaratılış öyküsünde sık sık kullanılan bu söz, yaratılışın her evresinin Tanrı’yı memnun ettiğini, O’nun planına, amacına uygun düştüğünü vurguluyor.
 **[[:tr:obs:notes:frames:01-04|<<]] | [[:tr:obs:notes:01|Up]] | [[:tr:obs:notes:frames:01-06|>>]]**
