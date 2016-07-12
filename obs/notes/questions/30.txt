@@ -22,5 +22,4 @@
       * //Kadın ve çocuk hariç beş bin kişi. [30-03]//
   - **Herkes yedikten sonra ne kadar yiyecekler kaldı?**
       * //On iki sepet dolduracak kadar. [30-09]//
-
-**[[tr/obs/notes/questions/29|<< ]] | [[tr/obs/notes/questions/31| >>]]**
+**[[:tr:obs:notes:questions:29|<< ]] | [[:tr:obs:notes:questions:31| >>]]**
