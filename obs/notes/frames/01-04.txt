@@ -14,9 +14,8 @@ On the **third day**, **God spoke** and separated the water from the dry land. H
 
 ==== Translation Notes: ====
 
-
-  * **üçüncü gün** - Tanrı’nın yeryüzünü hayata hazırladığı düzenli günler serisinde bir sonraki gün.
-  * **Tanrı bir söz söyleyince** - Tanrı bir emir vererek kuru toprağı yarattı.
-  * **kara** - Bu söz burada denizle örtülü olmayan kuru toprağa aittir.
-  * **yarattı** - Bu sözcük burada yoktan var etmek anlamında kullanılıyor.
+  * **üçüncü gün**  - Tanrı’nın yeryüzünü hayata hazırladığı düzenli günler serisinde bir sonraki gün.
+  * **Tanrı bir söz söyleyince**  - Tanrı bir emir vererek kuru toprağı yarattı.
+  * **kara**  - Bu söz burada denizle örtülü olmayan kuru toprağa aittir.
+  * **yarattı**  - Bu sözcük burada yoktan var etmek anlamında kullanılıyor.
 **[[:tr:obs:notes:frames:01-03|<<]] | [[:tr:obs:notes:01|Up]] | [[:tr:obs:notes:frames:01-05|>>]]**
