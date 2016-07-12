@@ -9,7 +9,7 @@
   - **Peygamberler Mesih’e ne olacağını önceden bildirmişlerdi? **
       * //Mesih acı çekip öldürülecek ve üçüncü gün dirilecek. [42-03]//
   - **İki imanlı kardeş İsa’yı ne yaparken tanıdılar?**
-      * //Tanrı’ya şükrederek ekmeği bölerken İsa’yı tanıdılar.  [42-04]//
+      * //Tanrı’ya şükrederek ekmeği bölerken İsa’yı tanıdılar. [42-04]//
   - **İsa gittikten sonra iki imanlı kardeş ne yaptı?**
       * //Yeruşalim’e dönüp öbür kardeşlere İsa’nın yaşadığını ve O’nu görmüş olduklarını anlattı. [42-05]//
   - **İsa kardeşlere hayalet olmadığını nasıl kanıtladı?**
@@ -19,7 +19,7 @@
   - **İsa’nın öğrencilerinin ilan edecekleri haber neydi?**
       * //Herkesin günahlarının affedilmesi için tövbe etmesi gerektiğini ilan edeceklerdi. [42-08]//
   - **İsa’nın öğrencileri bu haberi nerede duyuracaklardı?**
-      * //Önce Yeruşalim’de duyuracaklardı, sonra her yerde yaşayan bütün milletlere gideceklerdi.  [42-08]//
+      * //Önce Yeruşalim’de duyuracaklardı, sonra her yerde yaşayan bütün milletlere gideceklerdi. [42-08]//
   - **İsa öğrencilerine kaç gün görünmeye devam etti?**
       * //İsa onlara 40 gün göründü. [42-09]//
   - **İsa’yı bu süre içinde aynı zamanda gören en büyük grup kaç kişiden ibaretti?**
@@ -32,5 +32,4 @@
       * //Göğe yükseldi. [42-11]//
   - **İsa şimdi ne yapıyor?**
       * //İsa Tanrı’nın sağında oturmuştur ve her şeye egemendir. [42-11]//
-
-**[[tr/obs/notes/questions/41|<< ]] | [[tr/obs/notes/questions/43| >>]]**
+**[[:tr:obs:notes:questions:41|<< ]] | [[:tr:obs:notes:questions:43| >>]]**
