@@ -26,5 +26,4 @@
       * //Tanrı’nın Oğlu’nun üzerine inip duracağını söyledi. [24-09]//
   - **Kaç tanrı vardır?**
       * //Tek bir Tanrı vardır. [24-10]//
-
-**[[tr/obs/notes/questions/23|<<  ]] | [[tr/obs/notes/questions/25| >>]]**
+**[[:tr:obs:notes:questions:23|<< ]] | [[:tr:obs:notes:questions:25| >>]]**
