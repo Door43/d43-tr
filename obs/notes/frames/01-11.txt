@@ -17,12 +17,11 @@
 
 ==== Translation Notes: ====
 
-
-  * **ortasında** - Merkezdeki konumu iki ağacın önemini vurgular.
-  * **bahçe** - Ağaç ve bitki yetiştirilen ve belirli bir amaçla -çoğunlukla yiyecek üretme ya da güzellik verme amacıyla- kullanılan yer parçası.
-  * **yaşam ağacı** - Bu ağacın meyvesini yiyen herkes asla ölmeyecekti.
-  * **iyiyle kötüyü bilme ağacı** - Bu ağacın meyvesi insanın iyiyi ve kötüyü bilmesini sağlayabilirdi.
-  * **bilme** - Kişisel deneyim yoluyla bilme ya da anlama.
-  * **iyiyle kötü** - Kötü iyinin zıddıdır. "İyi" Tanrı’yı hoşnut eden şeylere ait olduğu gibi "kötü" Tanrı’yı hoşnut etmeyen her şeye aittir.
-  * **öleceğini** - Bu durumda insan hem cismen hem de ruhen ölecekti.
+  * **ortasında**  - Merkezdeki konumu iki ağacın önemini vurgular.
+  * **bahçe**  - Ağaç ve bitki yetiştirilen ve belirli bir amaçla -çoğunlukla yiyecek üretme ya da güzellik verme amacıyla- kullanılan yer parçası.
+  * **yaşam ağacı**  - Bu ağacın meyvesini yiyen herkes asla ölmeyecekti.
+  * **iyiyle kötüyü bilme ağacı**  - Bu ağacın meyvesi insanın iyiyi ve kötüyü bilmesini sağlayabilirdi.
+  * **bilme**  - Kişisel deneyim yoluyla bilme ya da anlama.
+  * **iyiyle kötü**  - Kötü iyinin zıddıdır. "İyi" Tanrı’yı hoşnut eden şeylere ait olduğu gibi "kötü" Tanrı’yı hoşnut etmeyen her şeye aittir.
+  * **öleceğini**  - Bu durumda insan hem cismen hem de ruhen ölecekti.
 **[[:tr:obs:notes:frames:01-10|<<]] | [[:tr:obs:notes:01|Up]] | [[:tr:obs:notes:frames:01-12|>>]]**
