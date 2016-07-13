@@ -14,10 +14,9 @@
 
 ===== Translation Notes: =====
 
-
-  * **sen lanetlisin** - Bu söz "seni lanetliyorum" ya da "başına büyük zarar gelecek" şeklinde çevirmek de mümkün. Büyü anlamına gelen bir söz kullanmayın.
-  * **birbirinden nefret edecek** - Kadın yılandan, yılan kadından nefret edecekti. Kadının evlatları yılanın yavrularından ve yılanın yavruları kadının evlatlarından nefret edeceklerdi.
-  * **kadının soyu** - Özel olarak soyundan gelecek bir kişiye aittir.
-  * **senin başını ezecek** - Kadının soyu yılanın soyunu mahvedecek.
-  * **onun topuğuna saldıracaksın** - Yılanın soyu kadının soyunu yaralayacak.
+  * **sen lanetlisin**  - Bu söz "seni lanetliyorum" ya da "başına büyük zarar gelecek" şeklinde çevirmek de mümkün. Büyü anlamına gelen bir söz kullanmayın.
+  * **birbirinden nefret edecek**  - Kadın yılandan, yılan kadından nefret edecekti. Kadının evlatları yılanın yavrularından ve yılanın yavruları kadının evlatlarından nefret edeceklerdi.
+  * **kadının soyu**  - Özel olarak soyundan gelecek bir kişiye aittir.
+  * **senin başını ezecek**  - Kadının soyu yılanın soyunu mahvedecek.
+  * **onun topuğuna saldıracaksın**  - Yılanın soyu kadının soyunu yaralayacak.
 **[[:tr:obs:notes:frames:02-08|<<]] | [[:tr:obs:notes:02|Up]] | [[:tr:obs:notes:frames:02-10|>>]]**
