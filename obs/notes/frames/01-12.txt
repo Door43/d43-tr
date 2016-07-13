@@ -16,8 +16,7 @@ Then **God** said, “It is **not good** for man to be **alone**.” But none of
 
 ==== Translation Notes: ====
 
-
-  * **iyi değil** - Burada ilk kez yaratılışta iyi olmayan bir şey görüyoruz. "Henüz iyi değil" anlamına geliyor, çünkü Tanrı insanların yaratılışını henüz bitirmemişti.
-  * **yalnız** - Adem tek insandı, başka bir kişiyle ilişki kurma fırsatı olmamıştı, çocuk dünyaya getirip çoğalmaya kadir değildi.
-  * **Adem’e uygun bir yardımcı** - Adem’le ortaklaşarak Tanrı’nın ona verdiği görevi yerine getirmesine yardım edebilecek, Ademe benzer hiç kimse yoktu. Hayvanlardan hiç biri buna yaramıyordu.
+  * **iyi değil**  - Burada ilk kez yaratılışta iyi olmayan bir şey görüyoruz. "Henüz iyi değil" anlamına geliyor, çünkü Tanrı insanların yaratılışını henüz bitirmemişti.
+  * **yalnız**  - Adem tek insandı, başka bir kişiyle ilişki kurma fırsatı olmamıştı, çocuk dünyaya getirip çoğalmaya kadir değildi.
+  * **Adem’e uygun bir yardımcı**  - Adem’le ortaklaşarak Tanrı’nın ona verdiği görevi yerine getirmesine yardım edebilecek, Ademe benzer hiç kimse yoktu. Hayvanlardan hiç biri buna yaramıyordu.
 **[[:tr:obs:notes:frames:01-11|<<]] | [[:tr:obs:notes:01|Up]] | [[:tr:obs:notes:frames:01-13|>>]]**
