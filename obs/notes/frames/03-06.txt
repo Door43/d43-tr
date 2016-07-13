@@ -15,8 +15,7 @@
 
 ===== Translation Notes: =====
 
-
-  * **Tanrı... gönderdi** - Nuh hayvanları bulmak zorunda değildi. Tanrı onları kendisine gönderdi.
-  * **kurbanlık olabilecek** - Bazı dillerde "Tanrı’ya kurban olarak sunulmaya makbul olan hayvanlar" şeklinde söylemek daha iyidir. Tanrı, insanların O’na kurban sunmalarını buyurdu, ama sadece bazı hayvan türlerinin kurban olarak sunulmasına izin verdi.
-  * **Tanrı’nın kendisi kapıyı kapattı** - Bu, kapıyı kapatan kişinin Tanrı olduğunu vurguluyor.
+  * **Tanrı... gönderdi**  - Nuh hayvanları bulmak zorunda değildi. Tanrı onları kendisine gönderdi.
+  * **kurbanlık olabilecek**  - Bazı dillerde "Tanrı’ya kurban olarak sunulmaya makbul olan hayvanlar" şeklinde söylemek daha iyidir. Tanrı, insanların O’na kurban sunmalarını buyurdu, ama sadece bazı hayvan türlerinin kurban olarak sunulmasına izin verdi.
+  * **Tanrı’nın kendisi kapıyı kapattı**  - Bu, kapıyı kapatan kişinin Tanrı olduğunu vurguluyor.
 **[[:tr:obs:notes:frames:03-05|<<]] | [[:tr:obs:notes:03|Up]] | [[:tr:obs:notes:frames:03-07|>>]]**
