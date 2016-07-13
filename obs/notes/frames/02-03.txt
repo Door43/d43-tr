@@ -16,8 +16,7 @@ The woman answered, “**God** told us we could eat the **fruit** of any tree ex
 
 ==== Translation Notes: ====
 
-
-  * **meyve** - Hangi meyve olduğunu bilmiyoruz. Sadece o ağaçta yetişen bir meyve olduğunu biliyoruz. Burada mümkünse özel değil genel bir meyve belirten terimi kullanmak iyidir.
-  * **iyiyle kötüyü bilme ağacı** - Kadın, iyiyle beraber kötüyü de anlamalarını sağlayacak bu ağaçtan yememeleri gerektiğini doğru anlamıştı.
-  * **öleceksiniz** - Burada insanın maddi hayatının bitmesi anlamında kullanılan ölmek sözcüğünü kullanın. Ölüm düşüncesi acımasız görünse bile bu terimden vazgeçmeyin.
+  * **meyve**  - Hangi meyve olduğunu bilmiyoruz. Sadece o ağaçta yetişen bir meyve olduğunu biliyoruz. Burada mümkünse özel değil genel bir meyve belirten terimi kullanmak iyidir.
+  * **iyiyle kötüyü bilme ağacı**  - Kadın, iyiyle beraber kötüyü de anlamalarını sağlayacak bu ağaçtan yememeleri gerektiğini doğru anlamıştı.
+  * **öleceksiniz**  - Burada insanın maddi hayatının bitmesi anlamında kullanılan ölmek sözcüğünü kullanın. Ölüm düşüncesi acımasız görünse bile bu terimden vazgeçmeyin.
 **[[:tr:obs:notes:frames:02-02|<<]] | [[:tr:obs:notes:02|Up]] | [[:tr:obs:notes:frames:02-04|>>]]**
