@@ -14,7 +14,6 @@ The woman saw that the fruit was beautiful and looked delicious. She also wanted
 
 ==== Translation Notes: ====
 
-
-  * **bilgi sahibi** - Kadın, yılanın görünüşte sahip olduğu ve Tanrı’nın da sahip olduğu idrake, bilgiye sahip olmak istedi.
-  * **yanında bulunan** - Bu, önemli gerçektir, çünkü kadın meyveyi yemeye karar verirken adamın onun yanında bulunduğunu bildiriyor.
+  * **bilgi sahibi**  - Kadın, yılanın görünüşte sahip olduğu ve Tanrı’nın da sahip olduğu idrake, bilgiye sahip olmak istedi.
+  * **yanında bulunan**  - Bu, önemli gerçektir, çünkü kadın meyveyi yemeye karar verirken adamın onun yanında bulunduğunu bildiriyor.
 **[[:tr:obs:notes:frames:02-04|<<]] | [[:tr:obs:notes:02|Up]] | [[:tr:obs:notes:frames:02-06|>>]]**
