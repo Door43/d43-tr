@@ -17,7 +17,6 @@ The snake responded to the woman, “That is not **true**! You will not **die**.
 
 ==== Translation Notes: ====
 
-
-  * **Tanrı gibi** - Adamla kadın zaten Tanrı’ya benzer yaratılmışlardı. Yılan kadının kötüyü anladığı takdirde daha çok Tanrı gibi olacağını iddia ediyor. Ancak Tanrı kadının bu bilgiye sahip olmasını istememişti.
-  * **iyiyle kötüyü bilerek** - Neyin iyi, neyin kötü olduğunu kişisel deneyiminden bilmek ya da bir şeyin iyi yoksa kötü olduğunu bilmeye kadir olmak.
+  * **Tanrı gibi**  - Adamla kadın zaten Tanrı’ya benzer yaratılmışlardı. Yılan kadının kötüyü anladığı takdirde daha çok Tanrı gibi olacağını iddia ediyor. Ancak Tanrı kadının bu bilgiye sahip olmasını istememişti.
+  * **iyiyle kötüyü bilerek**  - Neyin iyi, neyin kötü olduğunu kişisel deneyiminden bilmek ya da bir şeyin iyi yoksa kötü olduğunu bilmeye kadir olmak.
 **[[:tr:obs:notes:frames:02-03|<<]] | [[:tr:obs:notes:02|Up]] | [[:tr:obs:notes:frames:02-05|>>]]**
