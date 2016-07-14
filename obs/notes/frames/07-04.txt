@@ -16,7 +16,6 @@
 
 ===== Translation Notes: =====
 
-
-  * **Yakup İshak’a yaklaşıp** - Bazı dillerde "Yakup İshak’a geldi", ya da "Yakup İshak’a gitti" daha doğal seslenecek.
-  * **onu Esav sanarak** - Dokunduğu ve kokusunu duyduğu kişinin Esav olduğunu zannetti.
+  * **Yakup İshak’a yaklaşıp**  - Bazı dillerde "Yakup İshak’a geldi", ya da "Yakup İshak’a gitti" daha doğal seslenecek.
+  * **onu Esav sanarak**  - Dokunduğu ve kokusunu duyduğu kişinin Esav olduğunu zannetti.
 **[[:tr:obs:notes:frames:07-03|<<]] | [[:tr:obs:notes:07|Up]] | [[:tr:obs:notes:frames:07-05|>>]]**
