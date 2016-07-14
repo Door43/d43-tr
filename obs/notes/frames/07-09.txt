@@ -15,6 +15,5 @@
 
 ===== Translation Notes: =====
 
-
-  * **Kulun Yakup** - Yakup Esav’ın gerçek anlamda kulu değildi. Fakat Yakup, Esav’ın artık ona kızmaması için ona alçakgönüllülükle, saygıyla geldiğini göstermek istediği için uşaklarına böyle söylemeyi buyurmuştu.
+  * **Kulun Yakup**  - Yakup Esav’ın gerçek anlamda kulu değildi. Fakat Yakup, Esav’ın artık ona kızmaması için ona alçakgönüllülükle, saygıyla geldiğini göstermek istediği için uşaklarına böyle söylemeyi buyurmuştu.
 **[[:tr:obs:notes:frames:07-08|<<]] | [[:tr:obs:notes:07|Up]] | [[:tr:obs:notes:frames:07-10|>>]]**
