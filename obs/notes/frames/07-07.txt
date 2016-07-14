@@ -15,6 +15,5 @@
 
 ===== Translation Notes: =====
 
-
-  * **zenginleşti** - Para, büyük hayvan sürüleri ve diğer mal mülk ile zengin oldu.
+  * **zenginleşti**  - Para, büyük hayvan sürüleri ve diğer mal mülk ile zengin oldu.
 **[[:tr:obs:notes:frames:07-06|<<]] | [[:tr:obs:notes:07|Up]] | [[:tr:obs:notes:frames:07-08|>>]]**
