@@ -16,7 +16,6 @@ Nearby **Abraham** saw **a ram** that was stuck in a bush. **God had provided th
 
 ===== Translation Notes: =====
 
-
-  * **bir koç** - Koç erkek koyundur. Koyun, insanların Tanrı’ya kurban olarak sunabilecekleri hayvanlardan biriydi.
-  * **Tanrı... bu koçu sağlamıştı** - Tanrı tam zamanında koçun boynuzlarının çalılara takılmasını sağladı.
+  * **bir koç**  - Koç erkek koyundur. Koyun, insanların Tanrı’ya kurban olarak sunabilecekleri hayvanlardan biriydi.
+  * **Tanrı... bu koçu sağlamıştı**  - Tanrı tam zamanında koçun boynuzlarının çalılara takılmasını sağladı.
 **[[:tr:obs:notes:frames:05-08|<<]] | [[:tr:obs:notes:05|Up]] | [[:tr:obs:notes:frames:05-10|>>]]**
