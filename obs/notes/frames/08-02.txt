@@ -15,8 +15,7 @@
 
 ==== Translation Notes: ====
 
-
-  * **Kardeşlerinin yanına gelen** - Ya da şöyle çevrilebilir: "kardeşlerinin bulunduğu yere varan."
-  * **tutup** - İstememesine rağmen onu tuttular. Böyle yapmaları doğru değildi.
-  * **köle tüccarlarına** - Bu insanların ticareti, sahiplerinden köleleri alıp başka köle sahiplerine satmaktı.
+  * **Kardeşlerinin yanına gelen**  - Ya da şöyle çevrilebilir: "kardeşlerinin bulunduğu yere varan."
+  * **tutup**  - İstememesine rağmen onu tuttular. Böyle yapmaları doğru değildi.
+  * **köle tüccarlarına**  - Bu insanların ticareti, sahiplerinden köleleri alıp başka köle sahiplerine satmaktı.
 **[[:tr:obs:notes:frames:08-01|<<]] | [[:tr:obs:notes:08|Up]] | [[:tr:obs:notes:frames:08-03|>>]]**
