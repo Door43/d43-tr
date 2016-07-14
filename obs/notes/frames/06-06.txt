@@ -16,9 +16,8 @@
 
 ===== Translation Notes: =====
 
-
-  * **iki oğlundan** - Yani "iki oğlunun soylarından."
-  * **Bunlar birbiriyle çarpışacaklar** - Hem her iki oğul hem de onlardan meydana gelecek milletler sürekli birbiriyle savaşacaklar. Şununla karşılaştırın: **[[:en:obs:notes:frames:06-05|[06-05]]]**.
-  * **büyük oğul** - Bebeklerin ikiz olmasına rağmen birinci çıkan bebek büyük oğul sayılacaktı.
-  * **küçüğüne hizmet edecek** - Bu şöyle çevrilebilir: "büyük oğul küçüğünün ona buyurduğunu yapmak zorunda olacak."
+  * **iki oğlundan**  - Yani "iki oğlunun soylarından."
+  * **Bunlar birbiriyle çarpışacaklar**  - Hem her iki oğul hem de onlardan meydana gelecek milletler sürekli birbiriyle savaşacaklar. Şununla karşılaştırın: **[[:en:obs:notes:frames:06-05|[06-05]]]**.
+  * **büyük oğul**  - Bebeklerin ikiz olmasına rağmen birinci çıkan bebek büyük oğul sayılacaktı.
+  * **küçüğüne hizmet edecek**  - Bu şöyle çevrilebilir: "büyük oğul küçüğünün ona buyurduğunu yapmak zorunda olacak."
 **[[:tr:obs:notes:frames:06-05|<<]] | [[:tr:obs:notes:06|Up]] | [[:tr:obs:notes:frames:06-07|>>]]**
