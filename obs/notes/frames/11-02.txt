@@ -16,7 +16,6 @@
 
 ==== Translation Notes: ====
 
-
-  * **Tanrı... yol sağladı** - Tanrı, İsraillilerin oğullarının ölümden kurtuluş yolunu sağlayabilecek tek varlıktı.
-  * **kusursuz birer kuzu** - Yani "hiçbir kusuru, eksiği olmayan genç koyun ya da keçi."
+  * **Tanrı... yol sağladı**  - Tanrı, İsraillilerin oğullarının ölümden kurtuluş yolunu sağlayabilecek tek varlıktı.
+  * **kusursuz birer kuzu**  - Yani "hiçbir kusuru, eksiği olmayan genç koyun ya da keçi."
 **[[:tr:obs:notes:frames:11-01|<<]] | [[:tr:obs:notes:11|Up]] | [[:tr:obs:notes:frames:11-03|>>]]**
