@@ -15,7 +15,6 @@
 
 ==== Translation Notes: ====
 
-
-  * **sadece Mısır’da değil... Kenan ülkesinde de** - Bazı dillerde "sadece Mısır ülkesinde değil... Kenan bölgesinde de" şeklinde daha net çevrilebilir.
-  * **Kıtlık... güçlüydü** - Kıtlık çok şiddetliydi. Erzak son derece azdı ve Mısır’ın dışında çok insan açlık çekiyordu.
+  * **sadece Mısır’da değil... Kenan ülkesinde de**  - Bazı dillerde "sadece Mısır ülkesinde değil... Kenan bölgesinde de" şeklinde daha net çevrilebilir.
+  * **Kıtlık... güçlüydü**  - Kıtlık çok şiddetliydi. Erzak son derece azdı ve Mısır’ın dışında çok insan açlık çekiyordu.
 **[[:tr:obs:notes:frames:08-09|<<]] | [[:tr:obs:notes:08|Up]] | [[:tr:obs:notes:frames:08-11|>>]]**
