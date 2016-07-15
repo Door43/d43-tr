@@ -15,7 +15,6 @@ Next, **God** caused all the farm animals that belonged to the **Egyptians** to 
 
 ==== Translation Notes: ====
 
-
-  * **evcil hayvanlar** - Mısırlıların işlerinde kullandıkları at, eşek, deve, inek, koyun, keçi gibi büyük hayvanlar.
-  * **kalbi tekrar taşlaşan** - **[[:en:obs:notes:frames:10-04|[10-04]]]** deki nota bakınız.
+  * **evcil hayvanlar**  - Mısırlıların işlerinde kullandıkları at, eşek, deve, inek, koyun, keçi gibi büyük hayvanlar.
+  * **kalbi tekrar taşlaşan**  - **[[:en:obs:notes:frames:10-04|[10-04]]]** deki nota bakınız.
 **[[:tr:obs:notes:frames:10-05|<<]] | [[:tr:obs:notes:10|Up]] | [[:tr:obs:notes:frames:10-07|>>]]**
