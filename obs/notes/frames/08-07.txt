@@ -16,9 +16,8 @@
 
 ==== Translation Notes: ====
 
-
-  * **rüya yorumlama** - Yorumlamak demek, bir şeyin ne anlama geldiğini söylemek demektir. Böylece Yusuf insanlara rüyalarının anlamını açıklamaya kadirdi.
-  * **Yusuf’un... getirilmesini buyurdu** - Bunu söylemenin başka bir yolu şu: "uşaklarına Yusuf’u onun yanına getirmeleri için emir verdi."
-  * **Tanrı... gönderecek** - Tanrı yedi yıl bol tahılın yetişmesini sağlayacak, ondan sonra insanlarla hayvanlara yetmeyecek kadar az tahılın yetişmesini sağlayacak.
-  * **kıtlık** - Bağlar ve tarlalar, insanlarla hayvanların doyması için yetmeyecek kadar az hasat verecek.
+  * **rüya yorumlama**  - Yorumlamak demek, bir şeyin ne anlama geldiğini söylemek demektir. Böylece Yusuf insanlara rüyalarının anlamını açıklamaya kadirdi.
+  * **Yusuf’un... getirilmesini buyurdu**  - Bunu söylemenin başka bir yolu şu: "uşaklarına Yusuf’u onun yanına getirmeleri için emir verdi."
+  * **Tanrı... gönderecek**  - Tanrı yedi yıl bol tahılın yetişmesini sağlayacak, ondan sonra insanlarla hayvanlara yetmeyecek kadar az tahılın yetişmesini sağlayacak.
+  * **kıtlık**  - Bağlar ve tarlalar, insanlarla hayvanların doyması için yetmeyecek kadar az hasat verecek.
 **[[:tr:obs:notes:frames:08-06|<<]] | [[:tr:obs:notes:08|Up]] | [[:tr:obs:notes:frames:08-08|>>]]**
