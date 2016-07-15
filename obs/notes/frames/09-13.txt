@@ -22,8 +22,7 @@
 
 ==== Translation Notes: ====
 
-
-  * **Halkımın çektiği sıkıntıları** - Bu söz "halkımın çektiği katı muameleyi" şeklinde de çevrilebilir. Bazı dillerde şöyle söylenebilir: "Mısırlıların halkıma dehşetli sıkıntı çektirdiklerini."
-  * **Halkım** - Bu söz İsraillilere aittir. Tanrı İbrahim ve soyu ile onları kutsayıp büyük millet yapacağı konusunda ahit yapmıştı. Bu ahit aracılığıyla İsrailliler Tanrı’nın öz halkı olmuşlardı.
-  * **Mısır’daki esaretten kurtaracaksın** - Bu şöyle çevrilebilir: "onları Mısır’da köle olmaktan özgür kılacaksın" ya da "şu anda köle oldukları Mısır’dan onları çıkaracaksın."
+  * **Halkımın çektiği sıkıntıları**  - Bu söz "halkımın çektiği katı muameleyi" şeklinde de çevrilebilir. Bazı dillerde şöyle söylenebilir: "Mısırlıların halkıma dehşetli sıkıntı çektirdiklerini."
+  * **Halkım**  - Bu söz İsraillilere aittir. Tanrı İbrahim ve soyu ile onları kutsayıp büyük millet yapacağı konusunda ahit yapmıştı. Bu ahit aracılığıyla İsrailliler Tanrı’nın öz halkı olmuşlardı.
+  * **Mısır’daki esaretten kurtaracaksın**  - Bu şöyle çevrilebilir: "onları Mısır’da köle olmaktan özgür kılacaksın" ya da "şu anda köle oldukları Mısır’dan onları çıkaracaksın."
 **[[:tr:obs:notes:frames:09-12|<<]] | [[:tr:obs:notes:09|Up]] | [[:tr:obs:notes:frames:09-14|>>]]**
