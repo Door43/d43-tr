@@ -19,10 +19,9 @@
 
 ==== Translation Notes: ====
 
-
-  * **firavunun huzuruna** - "Firavunla görüşmek için sarayına" daha anlaşılır olabilir.
-  * **İsrail’in Tanrısı** - Bu şöyle çevrilebilir: "İsraillileri kendi halkı olarak seçmiş olan", "İsrail halkını yöneten Tanrı", ya da "İsraillilerin taptıkları Tanrı."
-  * **halkımı salıver** - Bunu söylemenin başka yolları şunlardır: "Halkımın serbest gitmesine izin ver" ya da "Halkımı Mısır’ı terketmesi için özgür kıl."
-  * **halkım** - Bkz: **[[:en:obs:notes:frames:09-13|[09-13]]]** de "halkım".
-  * **sözünü dinlemedi** - Bu sözcük "uymak" ya da "itaat etmek" olarak da çevrilebilir.
+  * **firavunun huzuruna**  - "Firavunla görüşmek için sarayına" daha anlaşılır olabilir.
+  * **İsrail’in Tanrısı**  - Bu şöyle çevrilebilir: "İsraillileri kendi halkı olarak seçmiş olan", "İsrail halkını yöneten Tanrı", ya da "İsraillilerin taptıkları Tanrı."
+  * **halkımı salıver**  - Bunu söylemenin başka yolları şunlardır: "Halkımın serbest gitmesine izin ver" ya da "Halkımı Mısır’ı terketmesi için özgür kıl."
+  * **halkım**  - Bkz: **[[:en:obs:notes:frames:09-13|[09-13]]]** de "halkım".
+  * **sözünü dinlemedi**  - Bu sözcük "uymak" ya da "itaat etmek" olarak da çevrilebilir.
 **[[:tr:obs:notes:frames:09-15|<<]] | [[:tr:obs:notes:10|Up]] | [[:tr:obs:notes:frames:10-02|>>]]**
