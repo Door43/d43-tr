@@ -17,9 +17,8 @@
 
 ==== Translation Notes: ====
 
-
-  * **Fısıh** - Bu, "Fısıh etkinlikleri", "Fısıh kutlaması" ya da "Fısıh şöleni" olarak çevrilebilir.
-  * **Tanrı... zafer kazanmalarını... nasıl sağladığını hatırlamaları için** - Bu şöyle çevrilebilir: "Tanrı’nın... nasıl bozguna uğrattığını sürekli kendilerine hatırlatmaları için." Burada "hatırlamak" fiili sadece unutmamak anlamına gelmiyor, bir şeyi resmen anmak anlamına geliyor.
-  * **kusursuz bir kuzu** - Burada "kusursuz" sözcüğünün anlamı hastalığı ya da başka bir sorunu olmayan bir kuzuya aittir. Bunu söylemenin başka bir yolu: "tamamen sağlam ve iyi bir kuzu."
-  * **mayasız ekmek** - Bunu söylemenin başka bir yolu "maya kullanılmadan pişirilen ekmek." **[[:en:obs:notes:frames:11-03|[11-03]]]** de bunu nasıl çevirdiğinize bakınız.
+  * **Fısıh**  - Bu, "Fısıh etkinlikleri", "Fısıh kutlaması" ya da "Fısıh şöleni" olarak çevrilebilir.
+  * **Tanrı... zafer kazanmalarını... nasıl sağladığını hatırlamaları için**  - Bu şöyle çevrilebilir: "Tanrı’nın... nasıl bozguna uğrattığını sürekli kendilerine hatırlatmaları için." Burada "hatırlamak" fiili sadece unutmamak anlamına gelmiyor, bir şeyi resmen anmak anlamına geliyor.
+  * **kusursuz bir kuzu**  - Burada "kusursuz" sözcüğünün anlamı hastalığı ya da başka bir sorunu olmayan bir kuzuya aittir. Bunu söylemenin başka bir yolu: "tamamen sağlam ve iyi bir kuzu."
+  * **mayasız ekmek**  - Bunu söylemenin başka bir yolu "maya kullanılmadan pişirilen ekmek." **[[:en:obs:notes:frames:11-03|[11-03]]]** de bunu nasıl çevirdiğinize bakınız.
 **[[:tr:obs:notes:frames:12-13|<<]] | [[:tr:obs:notes:12|Up]] | [[:tr:obs:notes:frames:13-01|>>]]**
