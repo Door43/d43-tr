@@ -15,7 +15,6 @@
 
 ==== Translation Notes: ====
 
-
-  * **Yakup ihtiyar olmasına rağmen... Mısır’a taşındı** - Mısır Kenan’dan uzak mesafede bulunuyordu ve ihtiyar adamın bu kadar uzak mesafeye yürüyerek ya da at arabasında yolculuk etmesi zordu.
-  * **Yakup ölmeden önce** - Yakup Mısır’da öldü. Tanrı’nın ona ve soyuna vereceğini vadettiği Kenan’a dönmedi.
+  * **Yakup ihtiyar olmasına rağmen... Mısır’a taşındı**  - Mısır Kenan’dan uzak mesafede bulunuyordu ve ihtiyar adamın bu kadar uzak mesafeye yürüyerek ya da at arabasında yolculuk etmesi zordu.
+  * **Yakup ölmeden önce**  - Yakup Mısır’da öldü. Tanrı’nın ona ve soyuna vereceğini vadettiği Kenan’a dönmedi.
 **[[:tr:obs:notes:frames:08-13|<<]] | [[:tr:obs:notes:08|Up]] | [[:tr:obs:notes:frames:08-15|>>]]**
