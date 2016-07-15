@@ -15,6 +15,5 @@
 
 ==== Translation Notes: ====
 
-
-  * **Nil Nehri’ni kana dönüştürdü** - Bazı dillerde "Nil Nehri’nin suyunu kana dönüştürdü" diye söylemek gerekebilir. Nehirde su yerine kan bulundu, dolayısıyla balıklar öldü ve insanların içmeye suyu olmadı.
+  * **Nil Nehri’ni kana dönüştürdü**  - Bazı dillerde "Nil Nehri’nin suyunu kana dönüştürdü" diye söylemek gerekebilir. Nehirde su yerine kan bulundu, dolayısıyla balıklar öldü ve insanların içmeye suyu olmadı.
 **[[:tr:obs:notes:frames:10-02|<<]] | [[:tr:obs:notes:10|Up]] | [[:tr:obs:notes:frames:10-04|>>]]**
