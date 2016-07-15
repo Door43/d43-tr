@@ -17,7 +17,6 @@
 
 ==== Translation Notes: ====
 
-
-  * **Tanrı tüm Mısır’ın üzerine kurbağalar gönderdi** - Bu şöyle çevrilebilir: "Tanrı Mısır’ın her yerinde birçok kurbağanın çıkmasını sağladı."
-  * **kalbini taşlaştırdı** - O yine inat ederek Tanrı’ya itaat etmeyi reddetti.
+  * **Tanrı tüm Mısır’ın üzerine kurbağalar gönderdi**  - Bu şöyle çevrilebilir: "Tanrı Mısır’ın her yerinde birçok kurbağanın çıkmasını sağladı."
+  * **kalbini taşlaştırdı**  - O yine inat ederek Tanrı’ya itaat etmeyi reddetti.
 **[[:tr:obs:notes:frames:10-03|<<]] | [[:tr:obs:notes:10|Up]] | [[:tr:obs:notes:frames:10-05|>>]]**
