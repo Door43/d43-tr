@@ -12,8 +12,7 @@
 
 ==== Translation Notes: ====
 
-
-  * **yüksek bir bulut sütunu** - Bu şöyle çevrilebilir: "yüksek bir bulut" ya da "sütun şeklinde bir bulut."
-  * **yüksek bir ateş sütunu ** - Bu, İsraillilerin önünde asılı duran ya da havada yüzen bir ateş sütunuydu.
-  * **onlara öncülük etti** - Tanrı onların önünde hareket eden sütunu takip etsinler diye hareket etmesini sağlayarak onlara yol gösteriyordu.
+  * **yüksek bir bulut sütunu**  - Bu şöyle çevrilebilir: "yüksek bir bulut" ya da "sütun şeklinde bir bulut."
+  * **yüksek bir ateş sütunu **  - Bu, İsraillilerin önünde asılı duran ya da havada yüzen bir ateş sütunuydu.
+  * **onlara öncülük etti**  - Tanrı onların önünde hareket eden sütunu takip etsinler diye hareket etmesini sağlayarak onlara yol gösteriyordu.
 **[[:tr:obs:notes:frames:12-01|<<]] | [[:tr:obs:notes:12|Up]] | [[:tr:obs:notes:frames:12-03|>>]]**
