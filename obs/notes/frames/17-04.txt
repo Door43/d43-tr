@@ -15,8 +15,7 @@
 
 ==== Translation Notes: ====
 
-
-  * **Bir gün** - Bu sözle geçmişte olup bitmiş olay anlatılmaya başlanıyor, fakat tam zamanı belirtilmiyor. Çok dilde gerçek olayı anlatmaya başlamanın benzer yolları vardır.
-  * **Saul’u öldürmek niyetinde olmadığını kanıtlamış** - Ya da "Saul’u ikna etmiş", "Saul’a kanıtlamış", "Saul’a göstermiş."
-  * **kral olmak için** - Davut Tanrı’nın İsrail’de kral olarak atamış olduğu adama asla saygısız davranmazdı.
+  * **Bir gün**  - Bu sözle geçmişte olup bitmiş olay anlatılmaya başlanıyor, fakat tam zamanı belirtilmiyor. Çok dilde gerçek olayı anlatmaya başlamanın benzer yolları vardır.
+  * **Saul’u öldürmek niyetinde olmadığını kanıtlamış**  - Ya da "Saul’u ikna etmiş", "Saul’a kanıtlamış", "Saul’a göstermiş."
+  * **kral olmak için**  - Davut Tanrı’nın İsrail’de kral olarak atamış olduğu adama asla saygısız davranmazdı.
 **[[:tr:obs:notes:frames:17-03|<<]] | [[:tr:obs:notes:17|Up]] | [[:tr:obs:notes:frames:17-05|>>]]**
