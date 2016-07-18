@@ -14,8 +14,7 @@
 
 ==== Translation Notes: ====
 
-
-  * **32.000 İsrailli asker Gidyon’a gelmişti** - Bazı dillerde öykünün başına şu cümlenin konması gerekebilir: "Gidyon İsraillileri Midyanlılara karşı savaşmaya çağırmıştı." Bkz: **[[:en:obs:notes:frames:16-08|[16-08]]]**.
-  * **fazla** - Bu kadar asker, Tanrı’nın bu savaş için istediğinden çoktu. Bu kadar asker savaşıp kazansaydı savaşı kendi güçleriyle kazandıklarını zanneder ve Tanrı’nın bunu yaptığını bilemezlerdi.
-  * **300 asker hariç** - Bu cümle şöyle çevrilebilir: "Böylece Gidyon sadece 300 adamın kalmasına izin verdi, kalan adamlarsa evlerine gittiler."
+  * **32.000 İsrailli asker Gidyon’a gelmişti**  - Bazı dillerde öykünün başına şu cümlenin konması gerekebilir: "Gidyon İsraillileri Midyanlılara karşı savaşmaya çağırmıştı." Bkz: **[[:en:obs:notes:frames:16-08|[16-08]]]**.
+  * **fazla**  - Bu kadar asker, Tanrı’nın bu savaş için istediğinden çoktu. Bu kadar asker savaşıp kazansaydı savaşı kendi güçleriyle kazandıklarını zanneder ve Tanrı’nın bunu yaptığını bilemezlerdi.
+  * **300 asker hariç**  - Bu cümle şöyle çevrilebilir: "Böylece Gidyon sadece 300 adamın kalmasına izin verdi, kalan adamlarsa evlerine gittiler."
 **[[:tr:obs:notes:frames:16-09|<<]] | [[:tr:obs:notes:16|Up]] | [[:tr:obs:notes:frames:16-11|>>]]**
