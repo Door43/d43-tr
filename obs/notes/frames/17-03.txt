@@ -15,6 +15,5 @@
 
 ==== Translation Notes: ====
 
-
-  * **Golyat adlı dev boylu bir adam** - Golyat, İsrail’e karşı savaşan orduda kocaman bir askerdi.
+  * **Golyat adlı dev boylu bir adam**  - Golyat, İsrail’e karşı savaşan orduda kocaman bir askerdi.
 **[[:tr:obs:notes:frames:17-02|<<]] | [[:tr:obs:notes:17|Up]] | [[:tr:obs:notes:frames:17-04|>>]]**
