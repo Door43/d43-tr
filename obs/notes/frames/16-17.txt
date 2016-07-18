@@ -17,6 +17,5 @@
 
 ==== Translation Notes: ====
 
-
-  * **Bu durum defalarca tekrarlandı** - Bu şöyle çevrilebilir: "Bu şeyler tekrar tekrar oldu" ya da "Bu şeyler defalarca oldu."
+  * **Bu durum defalarca tekrarlandı**  - Bu şöyle çevrilebilir: "Bu şeyler tekrar tekrar oldu" ya da "Bu şeyler defalarca oldu."
 **[[:tr:obs:notes:frames:16-16|<<]] | [[:tr:obs:notes:16|Up]] | [[:tr:obs:notes:frames:16-18|>>]]**
