@@ -14,7 +14,6 @@
 
 ==== Translation Notes: ====
 
-
-  * **çöldeki** - Orası çok az insanın bulunduğu uzak bir yerdi. «Issız arazideki» şeklinde de çevrilebilir.
-  * **Kuraklık** - Bu şöyle çevrilebilir: «yağmurun yağmaması.» Kuraklık İlyas’ın yağmur yağmayacağını ilan etmesinin sonucuydu.
+  * **çöldeki**  - Orası çok az insanın bulunduğu uzak bir yerdi. «Issız arazideki» şeklinde de çevrilebilir.
+  * **Kuraklık**  - Bu şöyle çevrilebilir: «yağmurun yağmaması.» Kuraklık İlyas’ın yağmur yağmayacağını ilan etmesinin sonucuydu.
 **[[:tr:obs:notes:frames:19-02|<<]] | [[:tr:obs:notes:19|Up]] | [[:tr:obs:notes:frames:19-04|>>]]**
