@@ -14,7 +14,6 @@
 
 ==== Translation Notes: ====
 
-
-  * **karısıyla olması için** - Yani "karısı ile yakınlık kurmak için eve gitmesi için." Davut insanları, özellikle Uriya’yı Bat-Şeva’nın Uriya’dan hamile kaldığına inandırmak istiyordu.
-  * **düşmanın en çok kuvvetleri olduğu cephe** - Yani savaşın en şiddetle geçtiği yer.
+  * **karısıyla olması için**  - Yani "karısı ile yakınlık kurmak için eve gitmesi için." Davut insanları, özellikle Uriya’yı Bat-Şeva’nın Uriya’dan hamile kaldığına inandırmak istiyordu.
+  * **düşmanın en çok kuvvetleri olduğu cephe**  - Yani savaşın en şiddetle geçtiği yer.
 **[[:tr:obs:notes:frames:17-11|<<]] | [[:tr:obs:notes:17|Up]] | [[:tr:obs:notes:frames:17-13|>>]]**
