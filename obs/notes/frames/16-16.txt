@@ -19,7 +19,6 @@ Then **Gideon used the gold to make a special garment** like the **high priest**
 
 ==== Translation Notes: ====
 
-
-  * **Gidyon bu altından... özel bir giysi yaptırdı** - Bu şöyle çevrilebilir: "Gidyon insanların ona verdiği altın eşyaları eriterek o altından özel bir giysi yaptırdı."
-  * **Tanrı’dan yüz çevirdiler** - Bu şöyle çevrilebilir: "Tanrı’ya itaatsiz oldular" ya da "Tanrı’ya tapınmaktan vazgeçtiler."
+  * **Gidyon bu altından... özel bir giysi yaptırdı**  - Bu şöyle çevrilebilir: "Gidyon insanların ona verdiği altın eşyaları eriterek o altından özel bir giysi yaptırdı."
+  * **Tanrı’dan yüz çevirdiler**  - Bu şöyle çevrilebilir: "Tanrı’ya itaatsiz oldular" ya da "Tanrı’ya tapınmaktan vazgeçtiler."
 **[[:tr:obs:notes:frames:16-15|<<]] | [[:tr:obs:notes:16|Up]] | [[:tr:obs:notes:frames:16-17|>>]]**
