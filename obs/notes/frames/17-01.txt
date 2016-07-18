@@ -16,8 +16,7 @@
 
 ==== Translation Notes: ====
 
-
-  * **İsrail’in ilk kralı** - Bu şöyle çevrilebilir: "İsrail’i yöneten ilk kral."
-  * **bir gün** - Bu söz "gelecekte bir zamanda" ya da "aradan yıllar geçtikten sonra" olarak da çevrilebilir.
-  * **onun yerine kral olacak** - Bunu söylemenin başka bir yolu şu: "İsrail’de kral olacak" ya da "onun yerine kral olarak hüküm sürecek."
+  * **İsrail’in ilk kralı**  - Bu şöyle çevrilebilir: "İsrail’i yöneten ilk kral."
+  * **bir gün**  - Bu söz "gelecekte bir zamanda" ya da "aradan yıllar geçtikten sonra" olarak da çevrilebilir.
+  * **onun yerine kral olacak**  - Bunu söylemenin başka bir yolu şu: "İsrail’de kral olacak" ya da "onun yerine kral olarak hüküm sürecek."
   * **[[:tr:obs:notes:frames:16-18|<<]] | [[:tr:obs:notes:17|Up]] | [[:tr:obs:notes:frames:17-02|>>]]**
