@@ -17,7 +17,6 @@
 
 ==== Translation Notes: ====
 
-
-  * **geldi** - Tanrı bizzat kendisi gelmedi, ama görkemini ve kudretini gösteren başka bir şekilde geldi.
-  * **çölde dolaşacaksınız** - Tanrı, O’na karşı başkaldıran bütün yetişkinler ölünceye kadar halkı çölde dolaştıracaktı.
+  * **geldi**  - Tanrı bizzat kendisi gelmedi, ama görkemini ve kudretini gösteren başka bir şekilde geldi.
+  * **çölde dolaşacaksınız**  - Tanrı, O’na karşı başkaldıran bütün yetişkinler ölünceye kadar halkı çölde dolaştıracaktı.
 **[[:tr:obs:notes:frames:14-07|<<]] | [[:tr:obs:notes:14|Up]] | [[:tr:obs:notes:frames:14-09|>>]]**
