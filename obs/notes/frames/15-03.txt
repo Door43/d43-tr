@@ -17,8 +17,7 @@
 
 ==== Translation Notes: ====
 
-
-  * **Halk Şeria Nehri’ni geçtikten sonra** - Bazı dillerde şöyle söylemek daha iyidir: "Halk Şeria Nehri’ni geçti ve sonra..."
-  * **nasıl saldıracağını** - Bu şöyle de çevrilebilir: "saldırmak için tam olarak ne yapması gerektiğini."
-  * **altı gün birer kez** - Yani altı gün boyunca her gün bir kez kenti dolandılar.
+  * **Halk Şeria Nehri’ni geçtikten sonra**  - Bazı dillerde şöyle söylemek daha iyidir: "Halk Şeria Nehri’ni geçti ve sonra..."
+  * **nasıl saldıracağını**  - Bu şöyle de çevrilebilir: "saldırmak için tam olarak ne yapması gerektiğini."
+  * **altı gün birer kez**  - Yani altı gün boyunca her gün bir kez kenti dolandılar.
 **[[:tr:obs:notes:frames:15-02|<<]] | [[:tr:obs:notes:15|Up]] | [[:tr:obs:notes:frames:15-04|>>]]**
