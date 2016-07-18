@@ -15,6 +15,6 @@
   * **[[:tr:obe:kt:PromisedLand]]**
 ==== Translation Notes: ====
 
-  * **Musa... kesti** - Musa çekiç ve keski gibi aletlerle taş levhaları kazıdı.
-  * **duasını işitti** - Bkz: **[[:en:obs:notes:frames:13-12|[13-12]]]**.
+  * **Musa... kesti**  - Musa çekiç ve keski gibi aletlerle taş levhaları kazıdı.
+  * **duasını işitti**  - Bkz: **[[:en:obs:notes:frames:13-12|[13-12]]]**.
 **[[:tr:obs:notes:frames:13-14|<<]] | [[:tr:obs:notes:13|Up]] | [[:tr:obs:notes:frames:14-01|>>]]**
