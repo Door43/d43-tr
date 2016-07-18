@@ -15,9 +15,8 @@
 
 ==== Translation Notes: ====
 
-
-  * **detaylı tasvirini** - Bu şöyle çevrilebilir: "Tanrı detaylı olarak tasvir etti" ya da "Tanrı onlara bunu nasıl yapmalarını istediğini net bir şekilde anlattı."
-  * **Bunu... olarak adlandırdı** - Bu şöyle çevrilebilir: "Bu... olarak adlandırıldı" ya da "Onlar bunu... adlandırdılar."
-  * **Perdenin arkasındaki oda** - Bu, perdenin arkasında saklanan odaydı. Bazı dillerde bu odaya "perdenin önündeki oda" denir.
-  * **orada Tanrı yaşıyordu** - Bu tabir okuyucuların Tanrı’nın çadırda yaşadığını düşünmesine sebep olursa, bunu başka türlü çevirmek de mümkündür, örneğin: "Tanrı oradaydı" ya da "Tanrı orada insanlara kendini tanıttı."
+  * **detaylı tasvirini**  - Bu şöyle çevrilebilir: "Tanrı detaylı olarak tasvir etti" ya da "Tanrı onlara bunu nasıl yapmalarını istediğini net bir şekilde anlattı."
+  * **Bunu... olarak adlandırdı**  - Bu şöyle çevrilebilir: "Bu... olarak adlandırıldı" ya da "Onlar bunu... adlandırdılar."
+  * **Perdenin arkasındaki oda**  - Bu, perdenin arkasında saklanan odaydı. Bazı dillerde bu odaya "perdenin önündeki oda" denir.
+  * **orada Tanrı yaşıyordu**  - Bu tabir okuyucuların Tanrı’nın çadırda yaşadığını düşünmesine sebep olursa, bunu başka türlü çevirmek de mümkündür, örneğin: "Tanrı oradaydı" ya da "Tanrı orada insanlara kendini tanıttı."
 **[[:tr:obs:notes:frames:13-07|<<]] | [[:tr:obs:notes:13|Up]] | [[:tr:obs:notes:frames:13-09|>>]]**
