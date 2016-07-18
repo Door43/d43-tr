@@ -14,7 +14,6 @@
 
 ==== Translation Notes: ====
 
-
-  * **tarihleri boyunca** - Yani Tanrı, İsrail ve Yahuda var olduğu sürece çeşitli zamanlarda  birçok peygamberler göndermiştir.
-  * **İsrailliler** - Burada bu şöyle çevrilebilir: «İsrail ve Yahuda krallıkları.» Yahuda krallığındakiler dahil olmak üzere Yakup’un bütün soyu «İsrailliler» olarak adlandırılmaya devam etti.
+  * **tarihleri boyunca**  - Yani Tanrı, İsrail ve Yahuda var olduğu sürece çeşitli zamanlarda birçok peygamberler göndermiştir.
+  * **İsrailliler**  - Burada bu şöyle çevrilebilir: «İsrail ve Yahuda krallıkları.» Yahuda krallığındakiler dahil olmak üzere Yakup’un bütün soyu «İsrailliler» olarak adlandırılmaya devam etti.
 **[[:tr:obs:notes:frames:18-13|<<]] | [[:tr:obs:notes:19|Up]] | [[:tr:obs:notes:frames:19-02|>>]]**
