@@ -19,7 +19,6 @@
 
 ==== Translation Notes: ====
 
-
-  * **halkı günaha sürükledi** - Bu şöyle çevrilebilir: "halkı günaha çekti" ya da "halkı günah işlemeye isteklendirdi." Rehavam halkın tapınacakları putlar yaparak halkı günaha çekti.
-  * **Yahuda’daki Tapınak’ta Tanrı’ya tapınmak yerine** - Bu şöyle çevrilebilir: "...Tanrı’ya tapınmasınlar diye" ya da "Tapınak’ta Tanrı’ya tapınmak için Yahuda krallığına gitmek yerine."
+  * **halkı günaha sürükledi**  - Bu şöyle çevrilebilir: "halkı günaha çekti" ya da "halkı günah işlemeye isteklendirdi." Rehavam halkın tapınacakları putlar yaparak halkı günaha çekti.
+  * **Yahuda’daki Tapınak’ta Tanrı’ya tapınmak yerine**  - Bu şöyle çevrilebilir: "...Tanrı’ya tapınmasınlar diye" ya da "Tapınak’ta Tanrı’ya tapınmak için Yahuda krallığına gitmek yerine."
 **[[:tr:obs:notes:frames:18-08|<<]] | [[:tr:obs:notes:18|Up]] | [[:tr:obs:notes:frames:18-10|>>]]**
