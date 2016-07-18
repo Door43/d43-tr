@@ -19,8 +19,7 @@
 
 ==== Translation Notes: ====
 
-
-  * **Tanrı onlarla ahit yaparak şöyle dedi** - Tanrı’nın bundan sonra söylediği şeyler ahdin içeriğidir, yani Tanrı halka uymaları gereken şeyleri söyler. Bu şöyle çevrilebilir: "O zaman Tanrı onlara ahdini açıkladı. O dedi..." ya da "O zaman Tanrı onlarla şu ahdini yaptı..."
-  * **Tanrın Yahve** - Bazı dillerde "Yahve Tanrın" şeklinde söylemek daha doğaldır. İsraillilerin birden fazla tanrısı varmış gibi anlam vermemesine dikkat edin. Yahve’nin tek Tanrı olduğu net şekilde anlaşılmalı. Bunu çevirmenin başka bir yolu şu olabilir: "Tanrın olan Yahve" ya da "Yahve adlı Tanrın."
-  * **Seni... köle olduğun ülkeden kurtaran** - Bu "Seni kölelikten kurtardım" şeklinde çevrilebilir.
+  * **Tanrı onlarla ahit yaparak şöyle dedi**  - Tanrı’nın bundan sonra söylediği şeyler ahdin içeriğidir, yani Tanrı halka uymaları gereken şeyleri söyler. Bu şöyle çevrilebilir: "O zaman Tanrı onlara ahdini açıkladı. O dedi..." ya da "O zaman Tanrı onlarla şu ahdini yaptı..."
+  * **Tanrın Yahve**  - Bazı dillerde "Yahve Tanrın" şeklinde söylemek daha doğaldır. İsraillilerin birden fazla tanrısı varmış gibi anlam vermemesine dikkat edin. Yahve’nin tek Tanrı olduğu net şekilde anlaşılmalı. Bunu çevirmenin başka bir yolu şu olabilir: "Tanrın olan Yahve" ya da "Yahve adlı Tanrın."
+  * **Seni... köle olduğun ülkeden kurtaran**  - Bu "Seni kölelikten kurtardım" şeklinde çevrilebilir.
 **[[:tr:obs:notes:frames:13-03|<<]] | [[:tr:obs:notes:13|Up]] | [[:tr:obs:notes:frames:13-05|>>]]**
