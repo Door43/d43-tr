@@ -18,8 +18,7 @@
 
 ==== Translation Notes: ====
 
-
-  * **o sunağı yıkmasını** - Yani "ani şekilde tahrip etmesini" ya da "kırıp dökmesini."
-  * **halkından korktuğu için** - Gidyon, o puta tapınan İsrailli soydaşlarının ona öfkeleneceğinden korktu.
-  * **geceye kadar bekledi** - Bunu söylemenin başka bir yolu şu: "karanlığa kadar bekledi." Gidyon sunağı gece herkes yatarken yıktı ki, kimse onu görmesin.
+  * **o sunağı yıkmasını**  - Yani "ani şekilde tahrip etmesini" ya da "kırıp dökmesini."
+  * **halkından korktuğu için**  - Gidyon, o puta tapınan İsrailli soydaşlarının ona öfkeleneceğinden korktu.
+  * **geceye kadar bekledi**  - Bunu söylemenin başka bir yolu şu: "karanlığa kadar bekledi." Gidyon sunağı gece herkes yatarken yıktı ki, kimse onu görmesin.
 **[[:tr:obs:notes:frames:16-05|<<]] | [[:tr:obs:notes:16|Up]] | [[:tr:obs:notes:frames:16-07|>>]]**
