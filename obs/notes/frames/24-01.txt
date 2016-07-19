@@ -13,9 +13,9 @@
 
 ===== Translation Notes: =====
 
-  * **çöl** - Yani "ıssız yer" ya da "çöle benzer uzak bir yer."
-  * **yaban balı** - Arıların çölde ürettiği doğal bal. İnsanların yardımı olmadan üretilen bal. "Bal" demekle zaten bu anlaşılıyorsa "yaban balı" söylemeye gerek olmayabilir.
-  * **çekirge** - Kanatlı, uzağa sıçrayan büyük böcekler. Çölde yaşayan bazı insanlar çekirge yerler.
-  * **deve kılı** - Deve çok sert tüylü hayvandır. İnsanlar deve derisinden giysi yapabilirlerdi. Bu "sert hayvan tüyü" olarak da çevrilebilir.
-  * **deve kılından bir aba** - Yani "deve tüyünden yapılan sert giysiler." Bu giysiler başka giysilerden farklı olarak çölde çabuk yıpranmaz.
+  * **çöl**  - Yani "ıssız yer" ya da "çöle benzer uzak bir yer."
+  * **yaban balı**  - Arıların çölde ürettiği doğal bal. İnsanların yardımı olmadan üretilen bal. "Bal" demekle zaten bu anlaşılıyorsa "yaban balı" söylemeye gerek olmayabilir.
+  * **çekirge**  - Kanatlı, uzağa sıçrayan büyük böcekler. Çölde yaşayan bazı insanlar çekirge yerler.
+  * **deve kılı**  - Deve çok sert tüylü hayvandır. İnsanlar deve derisinden giysi yapabilirlerdi. Bu "sert hayvan tüyü" olarak da çevrilebilir.
+  * **deve kılından bir aba**  - Yani "deve tüyünden yapılan sert giysiler." Bu giysiler başka giysilerden farklı olarak çölde çabuk yıpranmaz.
 **[[:tr:obs:notes:frames:23-10|<<]] | [[:tr:obs:notes:24|Up]] | [[:tr:obs:notes:frames:24-02|>>]]**
