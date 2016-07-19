@@ -16,6 +16,5 @@
 
 ==== Translation Notes: ====
 
-
-  * **Davut’un soyundan** - Bunu söylemenin başka bir yolu şu: "Davut’un kendisinin soyundan."
+  * **Davut’un soyundan**  - Bunu söylemenin başka bir yolu şu: "Davut’un kendisinin soyundan."
 **[[:tr:obs:notes:frames:21-03|<<]] | [[:tr:obs:notes:21|Up]] | [[:tr:obs:notes:frames:21-05|>>]]**
