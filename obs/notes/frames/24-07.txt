@@ -14,6 +14,6 @@
 
 ===== Translation Notes: =====
 
-  * **Seni vaftiz etmeye layık değilim** - Bu şöyle çevrilebilir: "Seni vaftiz etmek için yeterince iyi değilim" ya da "Ben günahkâr olduğum için Seni vaftiz etmemeliyim."
-  * **bu, yapılması gereken doğru iştir** - Bu şöyle de çevrilebilir: "bu, yapılması doğru olan iştir" ya da "bu, Tanrı’nın yapmamı istediği iştir."
+  * **Seni vaftiz etmeye layık değilim**  - Bu şöyle çevrilebilir: "Seni vaftiz etmek için yeterince iyi değilim" ya da "Ben günahkâr olduğum için Seni vaftiz etmemeliyim."
+  * **bu, yapılması gereken doğru iştir**  - Bu şöyle de çevrilebilir: "bu, yapılması doğru olan iştir" ya da "bu, Tanrı’nın yapmamı istediği iştir."
 **[[:tr:obs:notes:frames:24-06|<<]] | [[:tr:obs:notes:24|Up]] | [[:tr:obs:notes:frames:24-08|>>]]**
