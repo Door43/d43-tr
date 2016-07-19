@@ -14,7 +14,6 @@ The **Assyrians** gathered all the leaders, the rich people, and the people with
 
 ==== Translation Notes: ====
 
-
-  * **yetenekli** - Bununla marangozluk, demircilik ve inşaat kastediliyor.
-  * **kaldılar** - Yani "geri kaldılar" ya da "geri kalmalarına izin verildi."
+  * **yetenekli**  - Bununla marangozluk, demircilik ve inşaat kastediliyor.
+  * **kaldılar**  - Yani "geri kaldılar" ya da "geri kalmalarına izin verildi."
 **[[:tr:obs:notes:frames:20-02|<<]] | [[:tr:obs:notes:20|Up]] | [[:tr:obs:notes:frames:20-04|>>]]**
