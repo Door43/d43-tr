@@ -14,5 +14,5 @@
 
 ===== Translation Notes: =====
 
-  * **sakin bir yer** - Birkaç kişinin yalnız başına kalabileceği bir yer kastediliyor.
+  * **sakin bir yer**  - Birkaç kişinin yalnız başına kalabileceği bir yer kastediliyor.
 **[[:tr:obs:notes:frames:29-09|<<]] | [[:tr:obs:notes:30|Up]] | [[:tr:obs:notes:frames:30-02|>>]]**
