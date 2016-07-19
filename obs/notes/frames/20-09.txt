@@ -16,8 +16,7 @@
 
 ==== Translation Notes: ====
 
-
-  * **bıraktı** - Yani "Yahuda’da sadece en fakir insanları bıraktı" ya da "yalnızca en fakir insanların Yahuda’da kalmasına izin verdi."
-  * **bu döneme** - Bunu çevirmek için uzun bir zamanı belirten sözü kullanın, çünkü sürgün dönemi yetmiş yıl sürdü.
-  * **Sürgün dönemi** - "Sürgün" insanın kendi ülkesinden zorla çıkarılması anlamına gelir. "Sürgün dönemi" ile İsraillilerin zorla Babil’de yaşamaya mecbur edildikleri bu 70 yıllık dönem kastedilir.
+  * **bıraktı**  - Yani "Yahuda’da sadece en fakir insanları bıraktı" ya da "yalnızca en fakir insanların Yahuda’da kalmasına izin verdi."
+  * **bu döneme**  - Bunu çevirmek için uzun bir zamanı belirten sözü kullanın, çünkü sürgün dönemi yetmiş yıl sürdü.
+  * **Sürgün dönemi**  - "Sürgün" insanın kendi ülkesinden zorla çıkarılması anlamına gelir. "Sürgün dönemi" ile İsraillilerin zorla Babil’de yaşamaya mecbur edildikleri bu 70 yıllık dönem kastedilir.
 **[[:tr:obs:notes:frames:20-08|<<]] | [[:tr:obs:notes:20|Up]] | [[:tr:obs:notes:frames:20-10|>>]]**
