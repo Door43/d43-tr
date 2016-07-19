@@ -11,6 +11,6 @@
 
 ===== Translation Notes: =====
 
-  * **O’nu her yandan sıkıştırıyorlardı** - Yani "O’na sıkı bastırdılar" ya da "sıkı bir şekilde O’nun çevresinde toplanmışlardı."
-  * **durumu daha da kötüleşmişti** - Ya da "sağlığı iyileşmektense daha da kötüleşmişti" ya da "o daha çok hastalanmıştı."
+  * **O’nu her yandan sıkıştırıyorlardı**  - Yani "O’na sıkı bastırdılar" ya da "sıkı bir şekilde O’nun çevresinde toplanmışlardı."
+  * **durumu daha da kötüleşmişti**  - Ya da "sağlığı iyileşmektense daha da kötüleşmişti" ya da "o daha çok hastalanmıştı."
 **[[:tr:obs:notes:frames:32-12|<<]] | [[:tr:obs:notes:32|Up]] | [[:tr:obs:notes:frames:32-14|>>]]**
