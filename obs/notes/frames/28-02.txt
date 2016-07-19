@@ -12,6 +12,6 @@
 
 ===== Translation Notes: =====
 
-  * **Hangi emirlere uymam gerekiyor?** - Yani "Ebedî hayata ulaşmam için hangi yasalar yeterli olacak?"
-  * **kendini sevdiğin gibi** - Yani "kendini sevdiğin kadar."
+  * **Hangi emirlere uymam gerekiyor?**  - Yani "Ebedî hayata ulaşmam için hangi yasalar yeterli olacak?"
+  * **kendini sevdiğin gibi**  - Yani "kendini sevdiğin kadar."
 **[[:tr:obs:notes:frames:28-01|<<]] | [[:tr:obs:notes:28|Up]] | [[:tr:obs:notes:frames:28-03|>>]]**
