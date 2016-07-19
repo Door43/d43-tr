@@ -11,8 +11,8 @@
 ===== Translation Notes: =====
 
   * (Jesus continues with another story about the kingdom of God.)
-  * **nadide bir inci** - Yani "hiçbir kusuru olmayan inci."
-  * **inci** - İnciler tanınmıyorsa "güzel taş" ya da "taşa benzer güzel bir şey."
-  * **Değerli** - Yani "Değeri çok büyük olan" ya da "çok para değerinde olan."
-  * **inciler arayan tüccar** - Yani "inci satıcısı" ya da "inci ticareti yapan." İnci alış-satışı ile meşgul olan bir kişi.
+  * **nadide bir inci**  - Yani "hiçbir kusuru olmayan inci."
+  * **inci**  - İnciler tanınmıyorsa "güzel taş" ya da "taşa benzer güzel bir şey."
+  * **Değerli**  - Yani "Değeri çok büyük olan" ya da "çok para değerinde olan."
+  * **inciler arayan tüccar**  - Yani "inci satıcısı" ya da "inci ticareti yapan." İnci alış-satışı ile meşgul olan bir kişi.
 **[[:tr:obs:notes:frames:34-04|<<]] | [[:tr:obs:notes:34|Up]] | [[:tr:obs:notes:frames:34-06|>>]]**
