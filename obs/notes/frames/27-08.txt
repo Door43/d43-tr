@@ -12,5 +12,5 @@
 ===== Translation Notes: =====
 
   * (Jesus continues to tell the story.)
-  * **yolu oraya düştü** - Yani "yolculuğunda oradan geçti." O insanlar bir kentten başka kente yolculuk ediyorlardı. Sadece dolaştıkları anlaşılmasın diye dikkat edin.
+  * **yolu oraya düştü**  - Yani "yolculuğunda oradan geçti." O insanlar bir kentten başka kente yolculuk ediyorlardı. Sadece dolaştıkları anlaşılmasın diye dikkat edin.
 **[[:tr:obs:notes:frames:27-07|<<]] | [[:tr:obs:notes:27|Up]] | [[:tr:obs:notes:frames:27-09|>>]]**
