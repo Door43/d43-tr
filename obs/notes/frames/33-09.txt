@@ -13,7 +13,7 @@
 ===== Translation Notes: =====
 
   * (Jesus continues to explain the story.)
-  * **iyi toprak** - Bunu **[[:en:obs:notes:frames:33-05|[33-05]]]** de nasıl çevirdiğinize dikkat edin.
-  * **kişidir** - Bunu **[[:en:obs:notes:frames:33-06|[33-06]]]** de nasıl çevirdiğinize dikkat edin.
-  * **ürün veren** - Bunu **[[:en:obs:notes:frames:33-08|[33-08]]]** de nasıl çevirdiğinize bakınız.
+  * **iyi toprak**  - Bunu **[[:en:obs:notes:frames:33-05|[33-05]]]** de nasıl çevirdiğinize dikkat edin.
+  * **kişidir**  - Bunu **[[:en:obs:notes:frames:33-06|[33-06]]]** de nasıl çevirdiğinize dikkat edin.
+  * **ürün veren**  - Bunu **[[:en:obs:notes:frames:33-08|[33-08]]]** de nasıl çevirdiğinize bakınız.
 **[[:tr:obs:notes:frames:33-08|<<]] | [[:tr:obs:notes:33|Up]] | [[:tr:obs:notes:frames:34-01|>>]]**
