@@ -16,7 +16,6 @@ Then **Elijah** said to **King Ahab**, “Return immediately to the city, becaus
 
 ==== Translation Notes: ====
 
-
-  * **gökyüzü karardı** - Yani "gökyüzü çok karanlık oldu." Gökyüzü, onu kaplayan ağır bulutlar yüzünden siyah göründü.
-  * **kuraklığa** - Yani "yağmursuz geçen uzun kurak süre."
+  * **gökyüzü karardı**  - Yani "gökyüzü çok karanlık oldu." Gökyüzü, onu kaplayan ağır bulutlar yüzünden siyah göründü.
+  * **kuraklığa**  - Yani "yağmursuz geçen uzun kurak süre."
 **[[:tr:obs:notes:frames:19-12|<<]] | [[:tr:obs:notes:19|Up]] | [[:tr:obs:notes:frames:19-14|>>]]**
