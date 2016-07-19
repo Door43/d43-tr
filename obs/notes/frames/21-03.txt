@@ -17,7 +17,6 @@
 
 ==== Translation Notes: ====
 
-
-  * **Musa... gibi başka bir peygamber göndereceğini** - Yani "Musa gibi başka bir peygamber atayacağını" ya da "Musa gibi olacak başka bir peygamberin gelmesini sağlayacağını."
-  * **Musa gibi bir peygamber** - Musa gibi olmak için gelecek peygamberin Tanrı’dan büyük yetki alması ve halkını kurtarması gerekecek.
+  * **Musa... gibi başka bir peygamber göndereceğini**  - Yani "Musa gibi başka bir peygamber atayacağını" ya da "Musa gibi olacak başka bir peygamberin gelmesini sağlayacağını."
+  * **Musa gibi bir peygamber**  - Musa gibi olmak için gelecek peygamberin Tanrı’dan büyük yetki alması ve halkını kurtarması gerekecek.
 **[[:tr:obs:notes:frames:21-02|<<]] | [[:tr:obs:notes:21|Up]] | [[:tr:obs:notes:frames:21-04|>>]]**
