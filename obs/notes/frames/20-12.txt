@@ -15,11 +15,10 @@ The **Persian Empire** was strong but **merciful** to the people it conquered. S
 
 ==== Translation Notes: ====
 
-
-  * **Pers İmparatorluğu** - Bunu **[[:en:obs:notes:frames:20-11|[20-11]]]** de nasıl çevirdiğinize dikkat edin.
-  * **Koreş** - Bu adı **[[:en:obs:notes:frames:20-11|[20-11]]]** de nasıl çevirdiğinize dikkat edin.
-  * **Yahuda** - **[[:en:obs:notes:frames:20-11|[20-11]]]** de Yahuda hakkındaki nota bakınız.
-  * **Yahuda’ya dönmek** - Yahudilerin çoğu Yahuda’yı terkedenlerin çocukları ve torunları oldukları için daha önce hiç Yahuda’da yaşamamışlardı. Bazı dillerde "Yahuda’ya gitmek" şeklinde söylemek daha iyi ola bilir.
-  * **sürgün** - Bunu **[[:en:obs:notes:frames:20-09|[20-09]]]** de nasıl çevirdiğinize dikkat edin.
-  * **döndü** - Yani "geri döndü." Bazı dillerde "gitti" sözcüğünün kullanılması tercih edilebilir, çünkü bu insanların çoğu hiçbir zaman Yeruşalim’e gitmemişti.
+  * **Pers İmparatorluğu**  - Bunu **[[:en:obs:notes:frames:20-11|[20-11]]]** de nasıl çevirdiğinize dikkat edin.
+  * **Koreş**  - Bu adı **[[:en:obs:notes:frames:20-11|[20-11]]]** de nasıl çevirdiğinize dikkat edin.
+  * **Yahuda**  - **[[:en:obs:notes:frames:20-11|[20-11]]]** de Yahuda hakkındaki nota bakınız.
+  * **Yahuda’ya dönmek**  - Yahudilerin çoğu Yahuda’yı terkedenlerin çocukları ve torunları oldukları için daha önce hiç Yahuda’da yaşamamışlardı. Bazı dillerde "Yahuda’ya gitmek" şeklinde söylemek daha iyi ola bilir.
+  * **sürgün**  - Bunu **[[:en:obs:notes:frames:20-09|[20-09]]]** de nasıl çevirdiğinize dikkat edin.
+  * **döndü**  - Yani "geri döndü." Bazı dillerde "gitti" sözcüğünün kullanılması tercih edilebilir, çünkü bu insanların çoğu hiçbir zaman Yeruşalim’e gitmemişti.
 **[[:tr:obs:notes:frames:20-11|<<]] | [[:tr:obs:notes:20|Up]] | [[:tr:obs:notes:frames:20-13|>>]]**
