@@ -11,5 +11,5 @@
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
-  * **bir başka hizmetkâr** - Kralın hizmetkârı olan başka bir adam kastediliyor.
+  * **bir başka hizmetkâr**  - Kralın hizmetkârı olan başka bir adam kastediliyor.
 **[[:tr:obs:notes:frames:29-04|<<]] | [[:tr:obs:notes:29|Up]] | [[:tr:obs:notes:frames:29-06|>>]]**
