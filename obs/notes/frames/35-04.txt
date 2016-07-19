@@ -11,6 +11,6 @@
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
-  * **parasını savurdu** - Yani "değerli bir şey almadan bütün parasını harcadı." Bazı dillerde "parasını attı" ya da "parasını yedi" şeklinde çeviriler mümkün olabilir.
-  * **dolu bir hayat sürerek** - Yani "günah işleyerek."
+  * **parasını savurdu**  - Yani "değerli bir şey almadan bütün parasını harcadı." Bazı dillerde "parasını attı" ya da "parasını yedi" şeklinde çeviriler mümkün olabilir.
+  * **dolu bir hayat sürerek**  - Yani "günah işleyerek."
 **[[:tr:obs:notes:frames:35-03|<<]] | [[:tr:obs:notes:35|Up]] | [[:tr:obs:notes:frames:35-05|>>]]**
