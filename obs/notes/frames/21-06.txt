@@ -16,6 +16,5 @@
 
 ==== Translation Notes: ====
 
-
-  * **kâmil bir peygamber** - Mesih Tanrı’ya itaatte kâmil bir peygamber olacak, Tanrı’nın insanlara konuşacağı her sözü iletecek. O, Tanrı’yı insanlara mükemmel şekilde gösterecek, Tanrı’yı tanımalarına ve anlamalarına yardım edecek.
+  * **kâmil bir peygamber**  - Mesih Tanrı’ya itaatte kâmil bir peygamber olacak, Tanrı’nın insanlara konuşacağı her sözü iletecek. O, Tanrı’yı insanlara mükemmel şekilde gösterecek, Tanrı’yı tanımalarına ve anlamalarına yardım edecek.
 **[[:tr:obs:notes:frames:21-05|<<]] | [[:tr:obs:notes:21|Up]] | [[:tr:obs:notes:frames:21-07|>>]]**
