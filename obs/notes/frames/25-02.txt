@@ -14,6 +14,6 @@
 
 ===== Translation Notes: =====
 
-  * **şu taşları ekmeğe çevir** - Bu şöyle de çevrilebilir: "şu taşların ekmek olmasını sağla" ya da "şu taşları doğaüstü bir şekilde ekmeye dönüştür."
-  * **ekmek** - Ekmek kullanmayan kültürlerde bu sözcük "yiyecek" olarak da çevrilebilir. Yahudilerin kültüründe ekmek başlıca yiyecekti.
+  * **şu taşları ekmeğe çevir**  - Bu şöyle de çevrilebilir: "şu taşların ekmek olmasını sağla" ya da "şu taşları doğaüstü bir şekilde ekmeye dönüştür."
+  * **ekmek**  - Ekmek kullanmayan kültürlerde bu sözcük "yiyecek" olarak da çevrilebilir. Yahudilerin kültüründe ekmek başlıca yiyecekti.
 **[[:tr:obs:notes:frames:25-01|<<]] | [[:tr:obs:notes:25|Up]] | [[:tr:obs:notes:frames:25-03|>>]]**
