@@ -11,8 +11,7 @@
 
 ===== Translation Notes: =====
 
-  * **Bu arada** - Yani "İsa dağ yamacında dua ederken."
-  * **kürek çekmelerine** - Teknenin yelkeni vardı, ama rüzgâr karşı yönden estiğinde yelkenin onlara hiçbir yararı olmazdı.
-  * **zorla** - Yani "çok güçlükle" ya da "çok zor durumda."
+  * **Bu arada**  - Yani "İsa dağ yamacında dua ederken."
+  * **kürek çekmelerine**  - Teknenin yelkeni vardı, ama rüzgâr karşı yönden estiğinde yelkenin onlara hiçbir yararı olmazdı.
+  * **zorla**  - Yani "çok güçlükle" ya da "çok zor durumda."
 **[[:tr:obs:notes:frames:31-01|<<]] | [[:tr:obs:notes:31|Up]] | [[:tr:obs:notes:frames:31-03|>>]]**
-
