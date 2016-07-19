@@ -12,6 +12,6 @@
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
-  * **olanları** - Yani "o hizmetkârın başka hizmetkârın ona olan borcunu silmek istemediğini ve onu zindana kapattırdığını."
-  * **çok üzüldüler** - Yani "derin keder duydular" ya da "çok acı duydular."
+  * **olanları**  - Yani "o hizmetkârın başka hizmetkârın ona olan borcunu silmek istemediğini ve onu zindana kapattırdığını."
+  * **çok üzüldüler**  - Yani "derin keder duydular" ya da "çok acı duydular."
 **[[:tr:obs:notes:frames:29-06|<<]] | [[:tr:obs:notes:29|Up]] | [[:tr:obs:notes:frames:29-08|>>]]**
