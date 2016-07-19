@@ -16,7 +16,7 @@
 
 ===== Translation Notes: =====
 
-  * **Meryem’in doğurma vakti yaklaştığında** - Yani "Meryem’in hamileliğinin sonuna yakın."
-  * **Roma hükûmeti** - O zaman Roma İsrail’i işgal etmişti ve İsrail üzerinde hüküm sürüyordu.
-  * **nüfus sayımıyla ilgili olarak** - Yani "devlet kaydı için", "devlet adlarını listeye yazsın diye" ya da "devlet tarafından sayılmak üzere." Bu nüfus sayımı büyük olasılıkla insanlardan vergi almak amacıyla yapıldı.
+  * **Meryem’in doğurma vakti yaklaştığında**  - Yani "Meryem’in hamileliğinin sonuna yakın."
+  * **Roma hükûmeti**  - O zaman Roma İsrail’i işgal etmişti ve İsrail üzerinde hüküm sürüyordu.
+  * **nüfus sayımıyla ilgili olarak**  - Yani "devlet kaydı için", "devlet adlarını listeye yazsın diye" ya da "devlet tarafından sayılmak üzere." Bu nüfus sayımı büyük olasılıkla insanlardan vergi almak amacıyla yapıldı.
 **[[:tr:obs:notes:frames:23-03|<<]] | [[:tr:obs:notes:23|Up]] | [[:tr:obs:notes:frames:23-05|>>]]**
