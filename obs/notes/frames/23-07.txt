@@ -15,10 +15,10 @@
 ===== Translation Notes: =====
 
   * (The angel continued speaking.)
-  * **kundağa sarılmış** - O zamanki geleneğe göre yeni doğan bebekleri uzun beze sararlardı. Şöyle söylemek gerekli olabilir: "Geleneksel bir biçimde uzun beze sarılmış."
-  * **yemlik** - Yani "hayvanlar için yem kutusu." Ayrıca bunu <b>[[:en:obs:notes:frames:23-05|[23-05]]]</b>de nasıl çevirdiğinize dikkat edin.
-  * **meleklerle doldu** - Yani adeta bütün göğü dolduracak kadar çok melek görünmüştü.
-  * **Tanrı’ya izzet olsun** - Bu şöyle de çevrilebilir: "Hepimiz Tanrı’ya izzet verelim!" ya da "Tanrımız bütün izzete ve şana layıktır!" ya da "Hepimiz Tanrı’ya izzet veriyoruz!"
-  * **Yeryüzünde... selâmet olsun!** - Bunu söylemenin başka bir yolu şu: "Dünyada barış olsun!"
-  * **razı olduğu insanlara** - Bu şöyle çevrilebilir: "Tanrı’nın rıza gösterdiği, zevk aldığı insanlara."
+  * **kundağa sarılmış**  - O zamanki geleneğe göre yeni doğan bebekleri uzun beze sararlardı. Şöyle söylemek gerekli olabilir: "Geleneksel bir biçimde uzun beze sarılmış."
+  * **yemlik**  - Yani "hayvanlar için yem kutusu." Ayrıca bunu <b>[[:en:obs:notes:frames:23-05|[23-05]]]</b>de nasıl çevirdiğinize dikkat edin.
+  * **meleklerle doldu**  - Yani adeta bütün göğü dolduracak kadar çok melek görünmüştü.
+  * **Tanrı’ya izzet olsun**  - Bu şöyle de çevrilebilir: "Hepimiz Tanrı’ya izzet verelim!" ya da "Tanrımız bütün izzete ve şana layıktır!" ya da "Hepimiz Tanrı’ya izzet veriyoruz!"
+  * **Yeryüzünde... selâmet olsun!**  - Bunu söylemenin başka bir yolu şu: "Dünyada barış olsun!"
+  * **razı olduğu insanlara**  - Bu şöyle çevrilebilir: "Tanrı’nın rıza gösterdiği, zevk aldığı insanlara."
 **[[:tr:obs:notes:frames:23-06|<<]] | [[:tr:obs:notes:23|Up]] | [[:tr:obs:notes:frames:23-08|>>]]**
