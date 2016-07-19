@@ -12,6 +12,6 @@
 
 ===== Translation Notes: =====
 
-  * **Bir gün** - Bu sözle geçmişte olup bitmiş olay anlatılmaya başlanıyor, fakat tam zamanı belirtilmiyor. Çok dilde gerçek olayı anlatmaya başlamanın benzer yolları vardır.
-  * **vergici** - Vergiciler halktan devletin talep ettiğinden fazla vergi toplamak yolu ile insanlardan para çaldıkları için en büyük günahkâr sayılırlardı.
+  * **Bir gün**  - Bu sözle geçmişte olup bitmiş olay anlatılmaya başlanıyor, fakat tam zamanı belirtilmiyor. Çok dilde gerçek olayı anlatmaya başlamanın benzer yolları vardır.
+  * **vergici**  - Vergiciler halktan devletin talep ettiğinden fazla vergi toplamak yolu ile insanlardan para çaldıkları için en büyük günahkâr sayılırlardı.
 **[[:tr:obs:notes:frames:34-10|<<]] | [[:tr:obs:notes:35|Up]] | [[:tr:obs:notes:frames:35-02|>>]]**
