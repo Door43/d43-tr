@@ -18,10 +18,9 @@
 
 ==== Translation Notes: ====
 
-
-  * **Malaki** - Malaki, Eski Ahit’in son peygamberiydi.
-  * **bildirdi** - Bu "kehanette bulundu" ya da "peygamberlikte bulundu" şeklinde çevrilebilir. Gelecekte olacak bir şeyi bildirmek anlamına geliyor. Malaki Mesih’in gelişinden 400 yıl önce Tanrı’nın mesajını halkına iletmişti.
-  * **müjdeledi** - Bu bağlamda "müjdeledi" demek, "kehanette bulundu" ya da "peygamberlikte bulundu" demektir, çünkü peygamberin uzak gelecekte olacak bir olayı bildirmesi söz konusudur.
-  * **Mesih’in bakireden doğuşunu** - Bunu söylemenin başka bir yolu şu: "Bir bakirenin Mesih’i doğuracağını."
-  * **Mika** - Mika, Yeşaya gibi Mesih’in gelişinden yaklaşık 800 yıl önce Tanrı’nın mesajlarını ileten bir Eski Ahit peygamberiydi.
+  * **Malaki**  - Malaki, Eski Ahit’in son peygamberiydi.
+  * **bildirdi**  - Bu "kehanette bulundu" ya da "peygamberlikte bulundu" şeklinde çevrilebilir. Gelecekte olacak bir şeyi bildirmek anlamına geliyor. Malaki Mesih’in gelişinden 400 yıl önce Tanrı’nın mesajını halkına iletmişti.
+  * **müjdeledi**  - Bu bağlamda "müjdeledi" demek, "kehanette bulundu" ya da "peygamberlikte bulundu" demektir, çünkü peygamberin uzak gelecekte olacak bir olayı bildirmesi söz konusudur.
+  * **Mesih’in bakireden doğuşunu**  - Bunu söylemenin başka bir yolu şu: "Bir bakirenin Mesih’i doğuracağını."
+  * **Mika**  - Mika, Yeşaya gibi Mesih’in gelişinden yaklaşık 800 yıl önce Tanrı’nın mesajlarını ileten bir Eski Ahit peygamberiydi.
 **[[:tr:obs:notes:frames:21-08|<<]] | [[:tr:obs:notes:21|Up]] | [[:tr:obs:notes:frames:21-10|>>]]**
