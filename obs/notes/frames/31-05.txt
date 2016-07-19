@@ -12,6 +12,6 @@ Then **Peter** said to **Jesus**, “**Master**, **if it is you**, command me to
 
 ===== Translation Notes: =====
 
-  * **eğer sen isen** - Yani "gerçekten bir hayalet değil, sen isen."
-  * **Gel!** - Yani "Buraya gel", "Bana gel" ya da "Gel, bana doğru yürü."
+  * **eğer sen isen**  - Yani "gerçekten bir hayalet değil, sen isen."
+  * **Gel!**  - Yani "Buraya gel", "Bana gel" ya da "Gel, bana doğru yürü."
 **[[:tr:obs:notes:frames:31-04|<<]] | [[:tr:obs:notes:31|Up]] | [[:tr:obs:notes:frames:31-06|>>]]**
