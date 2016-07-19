@@ -11,6 +11,6 @@
 
 ===== Translation Notes: =====
 
-  * **Bir gün** - Bu sözle geçmişte olup bitmiş olay anlatılmaya başlanıyor, fakat tam zamanı belirtilmiyor. Çok dilde gerçek olayı anlatmaya başlamanın benzer yolları vardır.
-  * **Gerasalılar** - Gerasalılar Celile Gölü’nün doğu sahili boyunca bulunan bir bölgede yaşıyorlardı. Onlar Yahudilerin soyundandı, fakat onların hakkında çok az bilgimiz var.
+  * **Bir gün**  - Bu sözle geçmişte olup bitmiş olay anlatılmaya başlanıyor, fakat tam zamanı belirtilmiyor. Çok dilde gerçek olayı anlatmaya başlamanın benzer yolları vardır.
+  * **Gerasalılar**  - Gerasalılar Celile Gölü’nün doğu sahili boyunca bulunan bir bölgede yaşıyorlardı. Onlar Yahudilerin soyundandı, fakat onların hakkında çok az bilgimiz var.
 **[[:tr:obs:notes:frames:31-08|<<]] | [[:tr:obs:notes:32|Up]] | [[:tr:obs:notes:frames:32-02|>>]]**
