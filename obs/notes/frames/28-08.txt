@@ -12,6 +12,6 @@
 
 ===== Translation Notes: =====
 
-  * **İnsanlar için bu imkansız iştir** - Yani İnsanların bunu yapması imkansız ya da Fani insanlar kendini kurtaramazlar."
-  * **Tanrı için her şey mümkündür.** - Bu şöyle de çevrilebilir: "Tanrı her şeye, zengin birini kurtarmaya bile kadirdir" ya da "Tanrı imkansız şeylere bile kadirdir, bu yüzden zengin birini bile kurtarabilir."
+  * **İnsanlar için bu imkansız iştir**  - Yani İnsanların bunu yapması imkansız ya da Fani insanlar kendini kurtaramazlar."
+  * **Tanrı için her şey mümkündür.**  - Bu şöyle de çevrilebilir: "Tanrı her şeye, zengin birini kurtarmaya bile kadirdir" ya da "Tanrı imkansız şeylere bile kadirdir, bu yüzden zengin birini bile kurtarabilir."
 **[[:tr:obs:notes:frames:28-07|<<]] | [[:tr:obs:notes:28|Up]] | [[:tr:obs:notes:frames:28-09|>>]]**
