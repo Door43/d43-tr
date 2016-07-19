@@ -8,8 +8,8 @@
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
-  * **şiddetli bir kıtlık oldu** - Yani "çok az yemek vardı." Bazı dillerde şöyle çevrilebilir: "şiddetli kıtlık vardı."
-  * **yiyecek almaya bile parası olmadı** - Kıtlık yüzünden yemek çok pahalıydı ve o bütün parasını artık harcamıştı.
-  * **iş** - Başka birisine para karşılığında yapacağı iş kastediliyor. Bu anlam açık değilse bu cümle şöyle başlayabilir: "Böylece para kazanmak için... tek işi kabul etti."
-  * **domuz gütmek** - Yani "domuzlara yem vermek." O dönemde toplumda en aşağı işlerden biri sayılan bir işti. Dilinizde aşağı işlere ait bir sözcük varsa onu kullanın.
+  * **şiddetli bir kıtlık oldu**  - Yani "çok az yemek vardı." Bazı dillerde şöyle çevrilebilir: "şiddetli kıtlık vardı."
+  * **yiyecek almaya bile parası olmadı**  - Kıtlık yüzünden yemek çok pahalıydı ve o bütün parasını artık harcamıştı.
+  * **iş**  - Başka birisine para karşılığında yapacağı iş kastediliyor. Bu anlam açık değilse bu cümle şöyle başlayabilir: "Böylece para kazanmak için... tek işi kabul etti."
+  * **domuz gütmek**  - Yani "domuzlara yem vermek." O dönemde toplumda en aşağı işlerden biri sayılan bir işti. Dilinizde aşağı işlere ait bir sözcük varsa onu kullanın.
 **[[:tr:obs:notes:frames:35-04|<<]] | [[:tr:obs:notes:35|Up]] | [[:tr:obs:notes:frames:35-06|>>]]**
