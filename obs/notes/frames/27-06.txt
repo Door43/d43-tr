@@ -13,7 +13,7 @@
 ===== Translation Notes: =====
 
   * (Jesus continues to tell the story.)
-  * **o yoldan geçti** - Yani "tesadüfen oradan yolculuk ediyordu." Bazı dillerde "geçmek" yerine "yolculuk etmek" söylemek gerekli olabilir, çünkü o, başka şehre yolculuk ederken oradan geçti.
-  * **adamı ihmal ederek** - Yani "adama yardım göstermeden" ya da "adamla ilgilenmeden."
-  * **yoluna devam etti** - Ya da "yolculuğuna devam etti."
+  * **o yoldan geçti**  - Yani "tesadüfen oradan yolculuk ediyordu." Bazı dillerde "geçmek" yerine "yolculuk etmek" söylemek gerekli olabilir, çünkü o, başka şehre yolculuk ederken oradan geçti.
+  * **adamı ihmal ederek**  - Yani "adama yardım göstermeden" ya da "adamla ilgilenmeden."
+  * **yoluna devam etti**  - Ya da "yolculuğuna devam etti."
 **[[:tr:obs:notes:frames:27-05|<<]] | [[:tr:obs:notes:27|Up]] | [[:tr:obs:notes:frames:27-07|>>]]**
