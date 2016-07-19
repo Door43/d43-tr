@@ -11,8 +11,8 @@
 ===== Translation Notes: =====
 
   * (Jesus continues to tell the story.)
-  * **yoluna devam etmesi** - Bu şöyle de çevrilebilir: "yolculuğuna devam etmesi."
-  * **hancı** - Yani "hanı yöneten kişi." O kişi aynı zamanda konaklama yerinin sahibi de olabilirdi.
-  * **O adama iyi bak** - Bazı dillerde o adamın amirane tonla değil nezaketle ricada bulunduğunu göstermek için "Lütfen, ona iyi bak" diye çevirmek lazım olabilir.
-  * **sana öderim** - Bu şöyle de çevrilebilir: "sana o harçları öderim" ya da "o parayı geri öderim" ya da "karşılığını öderim."
+  * **yoluna devam etmesi**  - Bu şöyle de çevrilebilir: "yolculuğuna devam etmesi."
+  * **hancı**  - Yani "hanı yöneten kişi." O kişi aynı zamanda konaklama yerinin sahibi de olabilirdi.
+  * **O adama iyi bak**  - Bazı dillerde o adamın amirane tonla değil nezaketle ricada bulunduğunu göstermek için "Lütfen, ona iyi bak" diye çevirmek lazım olabilir.
+  * **sana öderim**  - Bu şöyle de çevrilebilir: "sana o harçları öderim" ya da "o parayı geri öderim" ya da "karşılığını öderim."
 **[[:tr:obs:notes:frames:27-09|<<]] | [[:tr:obs:notes:27|Up]] | [[:tr:obs:notes:frames:27-11|>>]]**
