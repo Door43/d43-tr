@@ -12,6 +12,6 @@
 ===== Translation Notes: =====
 
   * (Jesus tells the story.)
-  * **mirasımı** - Bu şöyle çevrilebilir: "senin servetinin sen öldükten sonra haklı olarak bana ait olacak kısmını."
-  * **servet** - Yani "zenginlik" ya da "mal mülk." Bu servete büyük olasılıkla toprak, hayvanlar ve para dahildi.
+  * **mirasımı**  - Bu şöyle çevrilebilir: "senin servetinin sen öldükten sonra haklı olarak bana ait olacak kısmını."
+  * **servet**  - Yani "zenginlik" ya da "mal mülk." Bu servete büyük olasılıkla toprak, hayvanlar ve para dahildi.
 **[[:tr:obs:notes:frames:35-02|<<]] | [[:tr:obs:notes:35|Up]] | [[:tr:obs:notes:frames:35-04|>>]]**
