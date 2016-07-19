@@ -12,9 +12,9 @@
 
 ===== Translation Notes: =====
 
-  * **Sonra İsa dedi** - Bazı dillerde "öğrencilerine" diye ilave etmek lazım olabilir.
-  * **böyle** - "Böyle" kralın merhametsiz hizmetkârı **[[:en:obs:notes:frames:29-08|[29-08]]]** de nasıl cezalandırdığına ait olabilir.
-  * **Semavi Babam** - Yani "Göklerdeki Babam." İsa Baba Tanrı’yla eşsiz kişisel ilişkisini anlatıyor.
-  * **kardeşini** - Bunu **[[:en:obs:notes:frames:29-01|[29-01]]]** de nasıl çevirdiğinize dikkat edin.
-  * **yürekten** - Yani "samimi", "gerçekten", "hakikaten" ya da "dürüst."
+  * **Sonra İsa dedi**  - Bazı dillerde "öğrencilerine" diye ilave etmek lazım olabilir.
+  * **böyle**  - "Böyle" kralın merhametsiz hizmetkârı **[[:en:obs:notes:frames:29-08|[29-08]]]** de nasıl cezalandırdığına ait olabilir.
+  * **Semavi Babam**  - Yani "Göklerdeki Babam." İsa Baba Tanrı’yla eşsiz kişisel ilişkisini anlatıyor.
+  * **kardeşini**  - Bunu **[[:en:obs:notes:frames:29-01|[29-01]]]** de nasıl çevirdiğinize dikkat edin.
+  * **yürekten**  - Yani "samimi", "gerçekten", "hakikaten" ya da "dürüst."
 **[[:tr:obs:notes:frames:29-08|<<]] | [[:tr:obs:notes:29|Up]] | [[:tr:obs:notes:frames:30-01|>>]]**
