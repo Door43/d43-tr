@@ -11,6 +11,6 @@
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
-  * **iyi toprak** - Yani "verimli toprak" ya da "bitkilerin yetiştirilmesi için iyi olan toprak."
-  * **Kulağı olan işitsin!** - Bu deyimin anlamı şu: "Söylediğimi duyan herkes Beni dikkatle dinlemelidir" ya da "Benim söylediğimi duyan kişi neyi kastettiğime dikkat etmelidir." Bu ayrıca bir emir şeklinde de çevrilebilir: "İşitecek kulağınız varsa Benim söylediğim sözleri dikkatle dinleyin."
+  * **iyi toprak**  - Yani "verimli toprak" ya da "bitkilerin yetiştirilmesi için iyi olan toprak."
+  * **Kulağı olan işitsin!**  - Bu deyimin anlamı şu: "Söylediğimi duyan herkes Beni dikkatle dinlemelidir" ya da "Benim söylediğimi duyan kişi neyi kastettiğime dikkat etmelidir." Bu ayrıca bir emir şeklinde de çevrilebilir: "İşitecek kulağınız varsa Benim söylediğim sözleri dikkatle dinleyin."
 **[[:tr:obs:notes:frames:33-04|<<]] | [[:tr:obs:notes:33|Up]] | [[:tr:obs:notes:frames:33-06|>>]]**
