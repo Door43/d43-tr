@@ -15,7 +15,7 @@
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
-  * **Din alimi şöyle dua etti** - Bunu söylemenin başka bir yolu şu: "Din önderinin duası şuydu" ya da "Din alimi şu şekilde dua etti."
-  * **gibi günahkâr değilim** - Yani "gibi günahlı/suçlu değilim" ya da "gibi değilim, sâlihim."
-  * **zalim** - Yani "doğru olmayan" ya da "kötülük yapan" ya da "yasayı çiğneyen."
+  * **Din alimi şöyle dua etti**  - Bunu söylemenin başka bir yolu şu: "Din önderinin duası şuydu" ya da "Din alimi şu şekilde dua etti."
+  * **gibi günahkâr değilim**  - Yani "gibi günahlı/suçlu değilim" ya da "gibi değilim, sâlihim."
+  * **zalim**  - Yani "doğru olmayan" ya da "kötülük yapan" ya da "yasayı çiğneyen."
 **[[:tr:obs:notes:frames:34-06|<<]] | [[:tr:obs:notes:34|Up]] | [[:tr:obs:notes:frames:34-08|>>]]**
