@@ -19,7 +19,7 @@
 
 ===== Translation Notes: =====
 
-  * **Askerler İsa’yı tutuklarken** - Yani "Askerler İsa’yı tutukladıkları sırada."
-  * **kılıcını çekip** - Yani "kılıcı taşıdığı yerden çıkardı."
-  * **Babam’a itaat etmeliyim** - Yani "Bunu yapmayacağım, çünkü Babam’a itaat etmem ve tutuklanmama izin vermem gerekir."
+  * **Askerler İsa’yı tutuklarken**  - Yani "Askerler İsa’yı tutukladıkları sırada."
+  * **kılıcını çekip**  - Yani "kılıcı taşıdığı yerden çıkardı."
+  * **Babam’a itaat etmeliyim**  - Yani "Bunu yapmayacağım, çünkü Babam’a itaat etmem ve tutuklanmama izin vermem gerekir."
 **[[:tr:obs:notes:frames:38-14|<<]] | [[:tr:obs:notes:38|Up]] | [[:tr:obs:notes:frames:39-01|>>]]**
