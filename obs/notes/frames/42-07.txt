@@ -16,7 +16,7 @@
 
 ===== Translation Notes: =====
 
-  * **yerine gelmesi gerekir** - Bu şöyle çevrilebilir: "olması gerekir."
-  * **anlayabilmeleri için zihinlerini açtı** - Bu ayrıca şöyle çevrilebilir: "anlayabilmelerini sağladı" ya da "onları kavramaya kadir kıldı."
-  * **üçüncü gün** - Yani "üç gün sonra."
+  * **yerine gelmesi gerekir**  - Bu şöyle çevrilebilir: "olması gerekir."
+  * **anlayabilmeleri için zihinlerini açtı**  - Bu ayrıca şöyle çevrilebilir: "anlayabilmelerini sağladı" ya da "onları kavramaya kadir kıldı."
+  * **üçüncü gün**  - Yani "üç gün sonra."
 **[[:tr:obs:notes:frames:42-06|<<]] | [[:tr:obs:notes:42|Up]] | [[:tr:obs:notes:frames:42-08|>>]]**
