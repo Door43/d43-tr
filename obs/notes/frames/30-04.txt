@@ -13,4 +13,4 @@
 
   * **Akşama doğru**  - Bu "Neredeyse akşamdı" olarak da çevrilebilir.
   * **Halkı salıver**  - "Bu şöyle çevrilebilir: «Lütfen halka söyle, kente gitsinler» ya da «Halka bir yere gitmeyi söylemez misin» ya da «Bırak, halk kente gitsin.» Bunun bir emir gibi değil nazik bir rica gibi seslenmesine dikkat edin."
-  * [[:tr:obs:notes:frames:30-03|<<]] | [[:tr:obs:notes:30|Up]] | [[:tr:obs:notes:frames:30-05|>>]]
+**[[:tr:obs:notes:frames:30-03|<<]] | [[:tr:obs:notes:30|Up]] | [[:tr:obs:notes:frames:30-05|>>]]**
