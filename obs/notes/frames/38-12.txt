@@ -18,6 +18,6 @@
 
 ===== Translation Notes: =====
 
-  * **bu ıstırap dolu kâseyi içmeyeyim** - Yani "bu ıstırabı yaşamayayım" ya da "olacak olaydan acı çekmemeyim" ya da "bu acılara tahammül etmeyeyim."
-  * **senin isteğin olsun** - Bu tabirin anlamı şu: "tasarladığın işi yap" ya da "yapılması gerekeni yap."
+  * **bu ıstırap dolu kâseyi içmeyeyim**  - Yani "bu ıstırabı yaşamayayım" ya da "olacak olaydan acı çekmemeyim" ya da "bu acılara tahammül etmeyeyim."
+  * **senin isteğin olsun**  - Bu tabirin anlamı şu: "tasarladığın işi yap" ya da "yapılması gerekeni yap."
 **[[:tr:obs:notes:frames:38-11|<<]] | [[:tr:obs:notes:38|Up]] | [[:tr:obs:notes:frames:38-13|>>]]**
