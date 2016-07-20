@@ -12,6 +12,6 @@
 
 ===== Translation Notes: =====
 
-  * **İsa’yı tanıyamadılar** - Yani "bu adamın İsa olduğunu bilmediler."
-  * **İsa’yla ilgili olan bütün önemli olayları** - İsa’nın öğretisi ve mucizeleri, ölmesi ve dirildiği haberi kastediliyor. 
+  * **İsa’yı tanıyamadılar**  - Yani "bu adamın İsa olduğunu bilmediler."
+  * **İsa’yla ilgili olan bütün önemli olayları**  - İsa’nın öğretisi ve mucizeleri, ölmesi ve dirildiği haberi kastediliyor.
 **[[:tr:obs:notes:frames:42-01|<<]] | [[:tr:obs:notes:42|Up]] | [[:tr:obs:notes:frames:42-03|>>]]**
