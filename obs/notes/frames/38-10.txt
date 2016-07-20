@@ -14,5 +14,5 @@
 
 ===== Translation Notes: =====
 
-  * **seni asla inkar etmem!** - Yani "seni tanıdığımı asla yadsımam!" ya da "öğrencin olduğumu asla inkar etmem!"
+  * **seni asla inkar etmem!**  - Yani "seni tanıdığımı asla yadsımam!" ya da "öğrencin olduğumu asla inkar etmem!"
 **[[:tr:obs:notes:frames:38-09|<<]] | [[:tr:obs:notes:38|Up]] | [[:tr:obs:notes:frames:38-11|>>]]**
