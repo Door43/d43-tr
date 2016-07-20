@@ -18,7 +18,7 @@
 
 ===== Translation Notes: =====
 
-  * **ilan edecekleri** - Yani "vazedecekleri."
-  * **Bu tövbe çağrısı Yeruşalim’den başlayarak** - Yani "Bunu Yeruşalim’de ilan etmeye başlayacaklar."
-  * **Siz de bu olayların şahitlerisiniz** - Yani "Siz bu olayları gören kişilersiniz" ya da "Gördüğünüz olayları başkalarına anlatacaksınız."
+  * **ilan edecekleri**  - Yani "vazedecekleri."
+  * **Bu tövbe çağrısı Yeruşalim’den başlayarak**  - Yani "Bunu Yeruşalim’de ilan etmeye başlayacaklar."
+  * **Siz de bu olayların şahitlerisiniz**  - Yani "Siz bu olayları gören kişilersiniz" ya da "Gördüğünüz olayları başkalarına anlatacaksınız."
 **[[:tr:obs:notes:frames:42-07|<<]] | [[:tr:obs:notes:42|Up]] | [[:tr:obs:notes:frames:42-09|>>]]**
