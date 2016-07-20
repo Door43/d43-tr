@@ -15,6 +15,6 @@
 
 ===== Translation Notes: =====
 
-  * **iyileşecek** - Havariler bununla şunu kastettiler: "şimdi ona gitmemize gerek yok, çünkü zaten iyileşecek."
-  * **seviniyorum** - Bu şöyle çevrilebilir: "mutluyum" ya da "iyi ki." İsa Lazar’ın öldüğüne sevinmiyordu, ama Tanrı’nın ne kadar yüce olduğunu göstereceği için mutluydu.
+  * **iyileşecek**  - Havariler bununla şunu kastettiler: "şimdi ona gitmemize gerek yok, çünkü zaten iyileşecek."
+  * **seviniyorum**  - Bu şöyle çevrilebilir: "mutluyum" ya da "iyi ki." İsa Lazar’ın öldüğüne sevinmiyordu, ama Tanrı’nın ne kadar yüce olduğunu göstereceği için mutluydu.
 **[[:tr:obs:notes:frames:37-02|<<]] | [[:tr:obs:notes:37|Up]] | [[:tr:obs:notes:frames:37-04|>>]]**
