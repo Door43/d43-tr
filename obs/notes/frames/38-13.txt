@@ -12,5 +12,5 @@
 
 ===== Translation Notes: =====
 
-  * **Duadan sonra... her defa** - Yani "İsa bu duayı yaptığı her defa." Bu, **[[:en:obs:notes:frames:38-12|[38-12]]]** da anlatıldığı gibi, üç kez ettiği duaya aittir.
+  * **Duadan sonra... her defa**  - Yani "İsa bu duayı yaptığı her defa." Bu, **[[:en:obs:notes:frames:38-12|[38-12]]]** da anlatıldığı gibi, üç kez ettiği duaya aittir.
 **[[:tr:obs:notes:frames:38-12|<<]] | [[:tr:obs:notes:38|Up]] | [[:tr:obs:notes:frames:38-14|>>]]**
