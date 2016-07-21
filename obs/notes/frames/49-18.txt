@@ -14,5 +14,5 @@
 
 ===== Translation Notes: =====
 
-  * **Tanrı’yla derin ilişki kurmana** - Bu ayrıca şöyle çevrilebilir: "Tanrı’yı daha derin sevgiyle sevmene", "Tanrı’yı daha çok tanımana" ya da "Tanrı’ya daha çok sadık olmana."
+  * **Tanrı’yla derin ilişki kurmana**  - Bu ayrıca şöyle çevrilebilir: "Tanrı’yı daha derin sevgiyle sevmene", "Tanrı’yı daha çok tanımana" ya da "Tanrı’ya daha çok sadık olmana."
 **[[:tr:obs:notes:frames:49-17|<<]] | [[:tr:obs:notes:49|Up]] | [[:tr:obs:notes:frames:50-01|>>]]**
