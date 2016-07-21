@@ -14,8 +14,8 @@
 ===== Translation Notes: =====
 
   * (Jesus continues to tell the story.)
-  * **buğdayı da sökersiniz** - Yani "yanlışlıkla buğdayın bazısını da sökersiniz." Körpe buğdayı deliceden ayırt etmek ve buğdaya zarar vermeden deliceyi sökmek oldukça zordur.
-  * **Hasat zamanına kadar** - Yani "buğday biçilmeye hazır olana kadar" ya da "buğday biçilecek kadar yetişene dek."
-  * **buğday** - Yani "biçilmiş buğday tanelerini."
-  * **ambar** - Biçilmiş buğday tanelerinin saklandığı yer kastediliyor.
+  * **buğdayı da sökersiniz**  - Yani "yanlışlıkla buğdayın bazısını da sökersiniz." Körpe buğdayı deliceden ayırt etmek ve buğdaya zarar vermeden deliceyi sökmek oldukça zordur.
+  * **Hasat zamanına kadar**  - Yani "buğday biçilmeye hazır olana kadar" ya da "buğday biçilecek kadar yetişene dek."
+  * **buğday**  - Yani "biçilmiş buğday tanelerini."
+  * **ambar**  - Biçilmiş buğday tanelerinin saklandığı yer kastediliyor.
 **[[:tr:obs:notes:frames:50-06|<<]] | [[:tr:obs:notes:50|Up]] | [[:tr:obs:notes:frames:50-08|>>]]**
