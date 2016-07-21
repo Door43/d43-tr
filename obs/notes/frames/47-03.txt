@@ -16,6 +16,6 @@
 
 ===== Translation Notes: =====
 
-  * **efendilerine** - Bu durumda bu sözcüğü "sahiplerine" şeklinde de çevirebilirsiniz.
-  * **falcılıkla** - Yani "insanlara gelecekte ne olacağını bildiren biri olarak."
+  * **efendilerine**  - Bu durumda bu sözcüğü "sahiplerine" şeklinde de çevirebilirsiniz.
+  * **falcılıkla**  - Yani "insanlara gelecekte ne olacağını bildiren biri olarak."
 **[[:tr:obs:notes:frames:47-02|<<]] | [[:tr:obs:notes:47|Up]] | [[:tr:obs:notes:frames:47-04|>>]]**
