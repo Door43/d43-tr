@@ -17,5 +17,5 @@
 
 ===== Translation Notes: =====
 
-  * **Bir gün** - Bu sözle geçmişte olup bitmiş olay anlatılmaya başlanıyor, fakat tam zamanı belirtilmiyor. Çok dilde gerçek olayı anlatmaya başlamanın benzer yolları vardır.
+  * **Bir gün**  - Bu sözle geçmişte olup bitmiş olay anlatılmaya başlanıyor, fakat tam zamanı belirtilmiyor. Çok dilde gerçek olayı anlatmaya başlamanın benzer yolları vardır.
 **[[:tr:obs:notes:frames:45-01|<<]] | [[:tr:obs:notes:45|Up]] | [[:tr:obs:notes:frames:45-03|>>]]**
