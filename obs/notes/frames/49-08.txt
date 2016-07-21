@@ -15,5 +15,5 @@
 
 ===== Translation Notes: =====
 
-  * **Tanrı’dan ayrı düşer** - Bu şöyle çevrilebilir: "Tanrı’yla yaşayamaz olur" ya da "Tanrı’ya yakın olamaz" ya da "Tanrı’yla bağ içinde olamaz."
+  * **Tanrı’dan ayrı düşer**  - Bu şöyle çevrilebilir: "Tanrı’yla yaşayamaz olur" ya da "Tanrı’ya yakın olamaz" ya da "Tanrı’yla bağ içinde olamaz."
 **[[:tr:obs:notes:frames:49-07|<<]] | [[:tr:obs:notes:49|Up]] | [[:tr:obs:notes:frames:49-09|>>]]**
