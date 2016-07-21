@@ -14,5 +14,5 @@
 ===== Translation Notes: =====
 
   * (Jesus continues to tell the story.)
-  * **Onları düşman ekmiş galiba** - Mümkünse, bunun şahsen şehit olunmamış bir olay olduğunun anlaşılması için "öğrenilen geçmiş zaman" gibi bir form kullanın.
+  * **Onları düşman ekmiş galiba**  - Mümkünse, bunun şahsen şehit olunmamış bir olay olduğunun anlaşılması için "öğrenilen geçmiş zaman" gibi bir form kullanın.
 **[[:tr:obs:notes:frames:50-05|<<]] | [[:tr:obs:notes:50|Up]] | [[:tr:obs:notes:frames:50-07|>>]]**
