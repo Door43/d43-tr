@@ -17,7 +17,7 @@
 
 ===== Translation Notes: =====
 
-  * **gözyaşlarını silecek** - Bu ayrıca şöyle de çevrilebilir: "bütün kederimizi sona erdirecek" ya da "dertlerin bitmesini sağlayacak" ya da "insanların her türlü kederini şefkatle ortadan kaldıracak."
-  * **artık ıstırap, keder, ağlayış, kötülük, ağrı ya da ölüm olmayacak** - Bu şöyle de çevrilebilir: "İnsanlar artık ıstırap çekmeyecek, üzülmeyecek, ağlamayacak, kötülük yapmayacak, ağrı hissetmeyecek ve ölmeyecekler."
-  * **barış ve adalet ile hüküm sürecek** - Bu ayrıca şöyle çevrilebilir: "kendi halkına selâmet getirecek şekilde hüküm sürecek."
+  * **gözyaşlarını silecek**  - Bu ayrıca şöyle de çevrilebilir: "bütün kederimizi sona erdirecek" ya da "dertlerin bitmesini sağlayacak" ya da "insanların her türlü kederini şefkatle ortadan kaldıracak."
+  * **artık ıstırap, keder, ağlayış, kötülük, ağrı ya da ölüm olmayacak**  - Bu şöyle de çevrilebilir: "İnsanlar artık ıstırap çekmeyecek, üzülmeyecek, ağlamayacak, kötülük yapmayacak, ağrı hissetmeyecek ve ölmeyecekler."
+  * **barış ve adalet ile hüküm sürecek**  - Bu ayrıca şöyle çevrilebilir: "kendi halkına selâmet getirecek şekilde hüküm sürecek."
 **[[:tr:obs:notes:frames:50-16|<<]] | [[:tr:obs:notes:50|Up]]**
