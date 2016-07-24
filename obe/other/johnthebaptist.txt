@@ -18,12 +18,11 @@ Yahya (ibranice «Yohanan») Zekeriya ve Elizabet’in oğluydu. Yahudilerde yay
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:22-02|[22-02]]]** Melek Zekeriya’ya şöyle dedi: «Senin karın bir oğul doğuracak. Adını **Yahya** koyacaksın. O, Kutsal Ruh’la dolacak ve halkı Mesih’e hazırlayacak.
-  ***[[:tr:obs:notes:frames:22-07|[22-07]]]** Elizabet’in bebeği doğduktan sonra Zekeriya’yla Elizabet ona meleğin buyurduğu gibi **Yahya** adını verdiler.
-  ***[[:tr:obs:notes:frames:24-01|[24-01]]]** Zekeriya’yla Elizabet’in oğlu **Yahya** büyüdü, peygamber oldu. Yahya çölde yaşar, yaban balı ve çekirge yer, deve kılından bir aba giyinirdi.
-  ***[[:tr:obs:notes:frames:24-02|[24-02]]]** Çok insan **Yahya**’yı dinlemek için çöle giderdi. **Yahya** onlara, «Tövbe edin, çünkü Tanrı’nın Hükümranlığı yaklaştı!» diye seslenirdi.
-  ***[[:tr:obs:notes:frames:24-06|[24-06]]]** Ertesi gün İsa, vaftiz olmak için **Yahya**’nın yanına geldi. **Yahya** O’nu görünce, “İşte! Dünyanın günahını ortadan kaldıran Tanrı Kuzusu!” dedi.
-
+  * **[[:tr:obs:notes:frames:22-02|[22-02]]]** Melek Zekeriya’ya şöyle dedi: «Senin karın bir oğul doğuracak. Adını **Yahya**  koyacaksın. O, Kutsal Ruh’la dolacak ve halkı Mesih’e hazırlayacak.
+  * **[[:tr:obs:notes:frames:22-07|[22-07]]]** Elizabet’in bebeği doğduktan sonra Zekeriya’yla Elizabet ona meleğin buyurduğu gibi **Yahya**  adını verdiler.
+  * **[[:tr:obs:notes:frames:24-01|[24-01]]]** Zekeriya’yla Elizabet’in oğlu **Yahya**  büyüdü, peygamber oldu. Yahya çölde yaşar, yaban balı ve çekirge yer, deve kılından bir aba giyinirdi.
+  * **[[:tr:obs:notes:frames:24-02|[24-02]]]** Çok insan **Yahya**’yı dinlemek için çöle giderdi. **Yahya**  onlara, «Tövbe edin, çünkü Tanrı’nın Hükümranlığı yaklaştı!» diye seslenirdi.
+  * **[[:tr:obs:notes:frames:24-06|[24-06]]]** Ertesi gün İsa, vaftiz olmak için **Yahya**’nın yanına geldi. **Yahya**  O’nu görünce, “İşte! Dünyanın günahını ortadan kaldıran Tanrı Kuzusu!” dedi.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
