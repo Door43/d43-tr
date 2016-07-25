@@ -3,10 +3,11 @@
 ===== Gerçeklikler =====
 
 Kral Süleyman öldükten sonra İsrailliler iki krallığa bölündüler. İsrail Krallığı, İsrail’in on oymağından oluşan kuzey krallığıydı.
+
   * İsrail Krallığı’nın bütün kralları kötüydü. Onlar halkı Yeruşalim’deki Tapınak’ta Tanrı’ya tapmamaya, bunun yerine putlara ve yalancı ilâhlara kulluk etmeye ikna etti. Dolayısıyla Tanrı sonunda Asurluların onlara saldırmalarını ve onların birçoğunu esir tutmalarını sağladı.
   * Asurlular İsrail Krallığı’ndaki halktan kalan azınlıkla beraber yaşasınlar diye ülkeye yabancıları getirdi. Bu yabancılar İsraillilerle evlendiler ve soyları Samiriyeli halkı oldular.
 
-(See also: [[tr:obe:other:kingdom]], [[tr:obe:other:israel]], [[tr:obe:other:kingdomofjudah]], [[tr:obe:other:assyria]], [[tr:obe:other:samaria]])
+(See also: [[:tr:obe:other:kingdom|krallık]], [[:tr:obe:other:israel|İsrail]], [[:tr:obe:other:kingdomofjudah|Yahuda Krallığı]], [[:tr:obe:other:assyria|Asur]], [[:tr:obe:other:samaria|Samiriye]])
 
 ===== Bible References: =====
 
