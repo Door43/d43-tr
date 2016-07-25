@@ -17,15 +17,11 @@ Yuhanna, İsa’nın on iki havarisi ve en yakın dostlarından biriydi.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:36-01|[36-01]]]** Bir gün İsa üç havarisini -Petrus’u, Yakup’u ve **Yuhanna**’yı- yanına aldı. Onlar yalnız başlarında dua etmek için yüksek bir dağa çıktılar.
-  ***[[:tr:obs:notes:frames:44-01|[44-01]]]** Bir gün Petrus’la **Yuhanna** Tapınak’a gidiyorlardı. Tapınak’ın avlu kapısına gelince para dilenen sakat bir adam gördüler.
-  ***[[:tr:obs:notes:frames:44-06|[44-06]]]** Tapınak’ın görevlileri Petrus’la **Yuhanna**’nın dediği sözlere çok kızdılar. Onları yakalayıp zindana attırdılar.
-  ***[[:tr:obs:notes:frames:44-07|[44-07]]]** Ertesi gün Yahudi ileri gelenleri Petrus’la **Yuhanna**’yı baş kâhinin ve diğer din alimlerinin önüne çıkardılar. Petrus’la **Yuhanna**’ya, “Bu sakat adama hangi kudretle şifa verdiniz?” diye sordular.
-  ***[[:tr:obs:notes:frames:44-09|[44-09]]]** İleri gelenler Petrus’la **Yuhanna**’nın kendileriyle bu kadar cesaretle konuşmasına şaştılar. Çünkü onların eğitimsiz, sıradan insanlar oldukları belliydi. Sonra onların İsa’yla birlikte bulunduklarını hatırladılar. Petrus’la **Yuhanna**’ya gözdağı verip serbest bıraktılar.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:36-01|[36-01]]]** Bir gün İsa üç havarisini -Petrus’u, Yakup’u ve **Yuhanna**’yı- yanına aldı. Onlar yalnız başlarında dua etmek için yüksek bir dağa çıktılar.
+  * **[[:tr:obs:notes:frames:44-01|[44-01]]]** Bir gün Petrus’la **Yuhanna**  Tapınak’a gidiyorlardı. Tapınak’ın avlu kapısına gelince para dilenen sakat bir adam gördüler.
+  * **[[:tr:obs:notes:frames:44-06|[44-06]]]** Tapınak’ın görevlileri Petrus’la **Yuhanna**’nın dediği sözlere çok kızdılar. Onları yakalayıp zindana attırdılar.
+  * **[[:tr:obs:notes:frames:44-07|[44-07]]]** Ertesi gün Yahudi ileri gelenleri Petrus’la **Yuhanna**’yı baş kâhinin ve diğer din alimlerinin önüne çıkardılar. Petrus’la **Yuhanna**’ya, “Bu sakat adama hangi kudretle şifa verdiniz?” diye sordular.
+  * **[[:tr:obs:notes:frames:44-09|[44-09]]]** İleri gelenler Petrus’la **Yuhanna**’nın kendileriyle bu kadar cesaretle konuşmasına şaştılar. Çünkü onların eğitimsiz, sıradan insanlar oldukları belliydi. Sonra onların İsa’yla birlikte bulunduklarını hatırladılar. Petrus’la **Yuhanna**’ya gözdağı verip serbest bıraktılar.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
