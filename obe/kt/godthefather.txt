@@ -21,12 +21,11 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:24-09|[24-09]]]** Tek bir Tanrı vardır. Ancak Yahya İsa’yı vaftiz ettiğinde **Baba Tanrı**’nın konuşmasını duydu, Oğul Tanrı olan İsa’yı gördü ve Kutsal Ruh’u da gördü.
-  ***[[:tr:obs:notes:frames:29-09|[29-09]]]** Sonra İsa dedi: “**Semavi Babam** da kardeşini yürekten affetmeyen her birinize böyle davranacak.”
-  ***[[:tr:obs:notes:frames:37-09|[37-09]]]** Sonra İsa göğe bakarak şöyle konuştu: “**Baba**, beni işittiğin için şükrediyorum.”
-  ***[[:tr:obs:notes:frames:40-07|[40-07]]]** O sırada İsa şöyle bağırdı: “Tamamlandı! **Baba**, ruhumu sana teslim ediyorum!”
-  ***[[:tr:obs:notes:frames:42-10|[42-10]]]** “Bu yüzden gidin, bütün milletleri imanlı olarak yetiştirin. Onları **Baba**, Oğul ve Kutsal Ruh adıyla vaftiz edin ve size emrettiğim her şeye itaat etmeyi öğretin.”
-  ***[[:tr:obs:notes:frames:43-08|[43-08]]]** “İsa şu anda yüce bir durumda, **Baba Tanrı**’nın sağındadır.”
-  ***[[:tr:obs:notes:frames:50-10|[50-10]]]** “O zaman doğru kişiler, **Baba Tanrı**’nın Hükümranlığı’nda güneş gibi patlayacaklar.”
-
+  * **[[:tr:obs:notes:frames:24-09|[24-09]]]** Tek bir Tanrı vardır. Ancak Yahya İsa’yı vaftiz ettiğinde **Baba Tanrı**’nın konuşmasını duydu, Oğul Tanrı olan İsa’yı gördü ve Kutsal Ruh’u da gördü.
+  * **[[:tr:obs:notes:frames:29-09|[29-09]]]** Sonra İsa dedi: “**Semavi Babam**  da kardeşini yürekten affetmeyen her birinize böyle davranacak.”
+  * **[[:tr:obs:notes:frames:37-09|[37-09]]]** Sonra İsa göğe bakarak şöyle konuştu: “**Baba**, beni işittiğin için şükrediyorum.”
+  * **[[:tr:obs:notes:frames:40-07|[40-07]]]** O sırada İsa şöyle bağırdı: “Tamamlandı! **Baba**, ruhumu sana teslim ediyorum!”
+  * **[[:tr:obs:notes:frames:42-10|[42-10]]]** “Bu yüzden gidin, bütün milletleri imanlı olarak yetiştirin. Onları **Baba**, Oğul ve Kutsal Ruh adıyla vaftiz edin ve size emrettiğim her şeye itaat etmeyi öğretin.”
+  * **[[:tr:obs:notes:frames:43-08|[43-08]]]** “İsa şu anda yüce bir durumda, **Baba Tanrı**’nın sağındadır.”
+  * **[[:tr:obs:notes:frames:50-10|[50-10]]]** “O zaman doğru kişiler, **Baba Tanrı**’nın Hükümranlığı’nda güneş gibi patlayacaklar.”
 ~~DISCUSSION~~{{tag>publish ktobs}}
