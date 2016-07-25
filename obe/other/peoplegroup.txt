@@ -20,13 +20,12 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:14-02|[14-02]]]** Tanrı İbrahim’e, İshak’a ve Yakup’a vadettiği ülkeyi soylarına vereceğini vadetmişti. O ülkede artık birçok **milletler** mesken salmışlardı.
-  ***[[:tr:obs:notes:frames:21-02|[21-02]]]** Tanrı İbrahim’e, yeryüzündeki bütün **halkların** onun sayesinde kutsanacağını vadetti. Bu kutsama, Mesih’in gelip yeryüzündeki her **halktan** olan insanların kurtuluş yolunu sağlamasıyla gerçekleşecekti.
-  ***[[:tr:obs:notes:frames:42-08|[42-08]]]** “Ayrıca bana iman edenlerin insanların günahlarının affedilmesi için tövbe etmesi gerektiğini ilan edecekleri de kutsal yazılarda önceden bildirilmiştir. Bu tövbe çağrısı Yeruşalim’den başlayarak her yerde yaşayan bütün **milletlere** duyurulacak.”
-  ***[[:tr:obs:notes:frames:42-10|[42-10]]]** “Bu yüzden gidin, bütün **milletleri** imanlı olarak yetiştirin. Onları Baba, Oğul ve Kutsal Ruh adıyla vaftiz edin ve size emrettiğim her şeye itaat etmeyi öğretin.”
-  ***[[:tr:obs:notes:frames:48-11|[48-11]]]** Bu Yeni Ahit sayesinde herhangi bir **milletten** her insan İsa’ya iman ederek Tanrı’nın halkına katılabilir.​
-  ***[[:tr:obs:notes:frames:50-03|[50-03]]]** (İsa) “Gidin, bütün **milletleri** imanlı olarak yetiştirin!” dedi. “Ekinler sararmış, biçilmeye hazırdır!”
-
+  * **[[:tr:obs:notes:frames:14-02|[14-02]]]** Tanrı İbrahim’e, İshak’a ve Yakup’a vadettiği ülkeyi soylarına vereceğini vadetmişti. O ülkede artık birçok **milletler**  mesken salmışlardı.
+  * **[[:tr:obs:notes:frames:21-02|[21-02]]]** Tanrı İbrahim’e, yeryüzündeki bütün **halkların**  onun sayesinde kutsanacağını vadetti. Bu kutsama, Mesih’in gelip yeryüzündeki her **halktan**  olan insanların kurtuluş yolunu sağlamasıyla gerçekleşecekti.
+  * **[[:tr:obs:notes:frames:42-08|[42-08]]]** “Ayrıca bana iman edenlerin insanların günahlarının affedilmesi için tövbe etmesi gerektiğini ilan edecekleri de kutsal yazılarda önceden bildirilmiştir. Bu tövbe çağrısı Yeruşalim’den başlayarak her yerde yaşayan bütün **milletlere**  duyurulacak.”
+  * **[[:tr:obs:notes:frames:42-10|[42-10]]]** “Bu yüzden gidin, bütün **milletleri**  imanlı olarak yetiştirin. Onları Baba, Oğul ve Kutsal Ruh adıyla vaftiz edin ve size emrettiğim her şeye itaat etmeyi öğretin.”
+  * **[[:tr:obs:notes:frames:48-11|[48-11]]]** Bu Yeni Ahit sayesinde herhangi bir **milletten**  her insan İsa’ya iman ederek Tanrı’nın halkına katılabilir.
+  * **[[:tr:obs:notes:frames:50-03|[50-03]]]** (İsa) “Gidin, bütün **milletleri**  imanlı olarak yetiştirin!” dedi. “Ekinler sararmış, biçilmeye hazırdır!”
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
