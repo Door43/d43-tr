@@ -24,17 +24,16 @@ Bu terimler, Tanrı’nın halkı ve bütün evren üzerindeki egemenliğini, ha
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:24-02|[24-02]]]** O Yahya onlara, «Tövbe edin, çünkü **Tanrı’nın Hükümranlığı** yaklaştı!» diye seslenirdi.
-  ***[[:tr:obs:notes:frames:28-06|[28-06]]]** O zaman İsa havarilerine, “Zengin insanlar **Tanrı’nın Hükümranlığı**’na zor girer!” dedi. “Bir devenin iğne deliğinden geçmesi, zengin adamın **Tanrı’nın Hükümranlığı**’na girmesinden daha kolaydır.”
-  ***[[:tr:obs:notes:frames:29-02|[29-02]]]** İsa dedi: “**Tanrı’nın Hükümranlığı**, hizmetkârlarıyla hesap görmek isteyen bir krala benzer.
-  ***[[:tr:obs:notes:frames:34-01|[34-01]]]** İsa **Tanrı’nın Hükümranlığı** konusunda birçok diğer öykü anlattı. Meselâ: “**Tanrı’nın Hükümranlığı**, birinin tarlasında ektiği hardal tohumuna benzer.
-  ***[[:tr:obs:notes:frames:34-03|[34-03]]]** İsa başka bir öykü anlattı: “**Tanrı’nın Hükümranlığı**, bir kadının una karıştırdığı mayaya benzer. Sonunda maya bütün hamuru kabartır.”
-  ***[[:tr:obs:notes:frames:34-04|[34-04]]]** “Bundan başka, **Tanrı’nın Hükümranlığı** bir adamın tarlada gömdüğü gizli defineye benzer. Başka birisi o defineyi bulup tekrar gömer.”
-  ***[[:tr:obs:notes:frames:34-05|[34-05]]]** “Ayrıca **Tanrı’nın Hükümranlığı** nadide bir inci gibidir.”
-  ***[[:tr:obs:notes:frames:42-09|[42-09]]]** İsa imanlı kardeşlere yaşadığına dair çok kanıt verdi ve **Tanrı’nın Hükümranlığı** konusunda öğretti.
-  ***[[:tr:obs:notes:frames:49-05|[49-05]]]** İsa, **Tanrı’nın Hükümranlığı**’nın dünyada her şeyden değerli olduğunu öğretirdi.
-  ***[[:tr:obs:notes:frames:50-02|[50-02]]]** İsa yeryüzündeyken şöyle dedi: “Bana iman edenler **Tanrı’nın Hükümranlığı**’yla ilgili sevindirici haberi dünyanın her yerinde duyuracaklar. O zaman son gelecektir.”
-
+  * **[[:tr:obs:notes:frames:24-02|[24-02]]]** O Yahya onlara, «Tövbe edin, çünkü **Tanrı’nın Hükümranlığı**  yaklaştı!» diye seslenirdi.
+  * **[[:tr:obs:notes:frames:28-06|[28-06]]]** O zaman İsa havarilerine, “Zengin insanlar **Tanrı’nın Hükümranlığı**’na zor girer!” dedi. “Bir devenin iğne deliğinden geçmesi, zengin adamın **Tanrı’nın Hükümranlığı**’na girmesinden daha kolaydır.”
+  * **[[:tr:obs:notes:frames:29-02|[29-02]]]** İsa dedi: “**Tanrı’nın Hükümranlığı**, hizmetkârlarıyla hesap görmek isteyen bir krala benzer.
+  * **[[:tr:obs:notes:frames:34-01|[34-01]]]** İsa **Tanrı’nın Hükümranlığı**  konusunda birçok diğer öykü anlattı. Meselâ: “**Tanrı’nın Hükümranlığı**, birinin tarlasında ektiği hardal tohumuna benzer.
+  * **[[:tr:obs:notes:frames:34-03|[34-03]]]** İsa başka bir öykü anlattı: “**Tanrı’nın Hükümranlığı**, bir kadının una karıştırdığı mayaya benzer. Sonunda maya bütün hamuru kabartır.”
+  * **[[:tr:obs:notes:frames:34-04|[34-04]]]** “Bundan başka, **Tanrı’nın Hükümranlığı**  bir adamın tarlada gömdüğü gizli defineye benzer. Başka birisi o defineyi bulup tekrar gömer.”
+  * **[[:tr:obs:notes:frames:34-05|[34-05]]]** “Ayrıca **Tanrı’nın Hükümranlığı**  nadide bir inci gibidir.”
+  * **[[:tr:obs:notes:frames:42-09|[42-09]]]** İsa imanlı kardeşlere yaşadığına dair çok kanıt verdi ve **Tanrı’nın Hükümranlığı**  konusunda öğretti.
+  * **[[:tr:obs:notes:frames:49-05|[49-05]]]** İsa, **Tanrı’nın Hükümranlığı**’nın dünyada her şeyden değerli olduğunu öğretirdi.
+  * **[[:tr:obs:notes:frames:50-02|[50-02]]]** İsa yeryüzündeyken şöyle dedi: “Bana iman edenler **Tanrı’nın Hükümranlığı**’yla ilgili sevindirici haberi dünyanın her yerinde duyuracaklar. O zaman son gelecektir.”
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
