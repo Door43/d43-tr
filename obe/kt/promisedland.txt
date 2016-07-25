@@ -19,14 +19,13 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:12-01|[12-01]]]** (İsrailliler) Artık köle değillerdi, üstelik **Tanrı’nın vadettiği ülkeye** doğru gidiyorlardı!
-  ***[[:tr:obs:notes:frames:14-01|[14-01]]]** Tanrı, İsraillilerle yaptığı ahit gereğince uymalarını istediği yasaları İsraillilere bildirdikten sonra Tanrı onları Sina Dağı’ndan **vadettiği Kenan ülkesine** doğru götürmeye başladı.
-  ***[[:tr:obs:notes:frames:14-02|[14-02]]]** Tanrı İbrahim’e, İshak’a ve Yakup’a **vadettiği ülkeyi** soylarına vereceğini vadetmişti. O ülkede artık birçok milletler mesken salmışlardı.
-  ***[[:tr:obs:notes:frames:14-14|[14-14]]]** O zaman Tanrı, halkını yine **vadettiği ülkenin** sınırına getirdi.
-  ***[[:tr:obs:notes:frames:15-02|[15-02]]]** **Tanrı’nın vadettiği ülkeye** girmeleri için İsraillilerin Şeria Nehri’ni geçmeleri lazımdı.
-  ***[[:tr:obs:notes:frames:15-12|[15-12]]]** Bu savaşlar bitince Tanrı, İsrail’in her oymağına **vadettiği ülkenin** belirli bir kısmını verdi.
-  ***[[:tr:obs:notes:frames:20-09|[20-09]]]** Halkın **Tanrı’nın vadettiği ülkeyi** terketmek zorunda kaldığı bu döneme ‘Sürgün dönemi’ denir.
-
+  * **[[:tr:obs:notes:frames:12-01|[12-01]]]** (İsrailliler) Artık köle değillerdi, üstelik **Tanrı’nın vadettiği ülkeye**  doğru gidiyorlardı!
+  * **[[:tr:obs:notes:frames:14-01|[14-01]]]** Tanrı, İsraillilerle yaptığı ahit gereğince uymalarını istediği yasaları İsraillilere bildirdikten sonra Tanrı onları Sina Dağı’ndan **vadettiği Kenan ülkesine**  doğru götürmeye başladı.
+  * **[[:tr:obs:notes:frames:14-02|[14-02]]]** Tanrı İbrahim’e, İshak’a ve Yakup’a **vadettiği ülkeyi**  soylarına vereceğini vadetmişti. O ülkede artık birçok milletler mesken salmışlardı.
+  * **[[:tr:obs:notes:frames:14-14|[14-14]]]** O zaman Tanrı, halkını yine **vadettiği ülkenin**  sınırına getirdi.
+  * **[[:tr:obs:notes:frames:15-02|[15-02]]]****Tanrı’nın vadettiği ülkeye**  girmeleri için İsraillilerin Şeria Nehri’ni geçmeleri lazımdı.
+  * **[[:tr:obs:notes:frames:15-12|[15-12]]]** Bu savaşlar bitince Tanrı, İsrail’in her oymağına **vadettiği ülkenin**  belirli bir kısmını verdi.
+  * **[[:tr:obs:notes:frames:20-09|[20-09]]]** Halkın **Tanrı’nın vadettiği ülkeyi**  terketmek zorunda kaldığı bu döneme ‘Sürgün dönemi’ denir.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
