@@ -24,11 +24,10 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:23-09|[23-09]]]** Bir süre sonra Doğu’daki uzak ülkelerden bazı bilge adamlar gökte olağanüstü bir yıldız gördüler. Bunun **Yahudilerin yeni bir kralının** doğuşuna işaret ettiğini anladılar.
-  ***[[:tr:obs:notes:frames:39-09|[39-09]]]** Pilatus İsa’ya, “Sen **Yahudilerin Kralı** mısın?” diye sordu.
-  ***[[:tr:obs:notes:frames:39-12|[39-12]]]** Roma askerleri İsa’yı kırbaçladılar, üzerine krallık cübbesi ve dikenli taç koydular. Sonra, “Bakın, **Yahudilerin Kralı**!” diyerek O’nunla alay ettiler.
-  ***[[:tr:obs:notes:frames:40-02|[40-02]]]** Pilatus, İsa’nın gerildiği çarmıhın üzerine “**Yahudilerin Kralı**” yazılı bir yaftayı astırdı.
-
+  * **[[:tr:obs:notes:frames:23-09|[23-09]]]** Bir süre sonra Doğu’daki uzak ülkelerden bazı bilge adamlar gökte olağanüstü bir yıldız gördüler. Bunun **Yahudilerin yeni bir kralının**  doğuşuna işaret ettiğini anladılar.
+  * **[[:tr:obs:notes:frames:39-09|[39-09]]]** Pilatus İsa’ya, “Sen **Yahudilerin Kralı**  mısın?” diye sordu.
+  * **[[:tr:obs:notes:frames:39-12|[39-12]]]** Roma askerleri İsa’yı kırbaçladılar, üzerine krallık cübbesi ve dikenli taç koydular. Sonra, “Bakın, **Yahudilerin Kralı**!” diyerek O’nunla alay ettiler.
+  * **[[:tr:obs:notes:frames:40-02|[40-02]]]** Pilatus, İsa’nın gerildiği çarmıhın üzerine “**Yahudilerin Kralı**” yazılı bir yaftayı astırdı.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
