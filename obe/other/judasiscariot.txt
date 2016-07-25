@@ -3,11 +3,14 @@
 ===== Gerçeklikler =====
 
 Yahuda İsa’nın on iki havarisinden biriydi. Fakat o, İsa’yı Yahudi ileri gelenlerine haince teslim etti.
-  * Yahuda havarilerin parasını yönetiyor, ancak aynı zamanda oradan para çalıyordu.
-  * Yahuda, din alimlerinin İsa’yı tutuklamaları için bulunduğu yeri onlara bildirerek İsa’ya ihanet etti.
-  * Din alimleri İsa’yı ölüme mahkûm ettikleri zaman Yahuda O’na ihanet ettiğine pişman oldu ve canına kastetti.
 
-(See also: [[tr:obe:kt:apostle]], [[tr:obe:kt:betray]], [[tr:obe:other:jewishleaders]])
+  * “İskariyot” adının, Yahuda’nın büyümüş olduğu kente ait olma ve “Kariyotlu” anlamına gelme ihmitali vardır.
+  * Yahuda İskariyot hırzısdı; havarilerin parasından sorumluydu ve sık sık oradan çalardı.
+  * Yahuda, din alimlerinin İsa’yı tutuklamaları için bulunduğu yeri onlara bildirerek İsa’ya ihanet etti.
+  * Din alimleri İsa’yı ölüme mahkûm ettikten sonra Yahuda O’na ihanet ettiğine pişman oldu ve canına kastetti.
+  * Kutsal Kitap’ta Yahuda adında başka kişiler de var, örneğin, İsa’nın kardeşi ve on iki havarilerden biri.
+
+(See also: [[:tr:obe:kt:apostle|havari]], [[:tr:obe:kt:betray|ihanet etmek]], [[:tr:obe:other:jewishleaders|Yahudi ileri gelenleri, din alimleri]])
 
 ===== Bible References: =====
 
