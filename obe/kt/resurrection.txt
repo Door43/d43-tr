@@ -21,7 +21,6 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:21-14|[21-14]]]** Mesih’in ölümü ve **dirilişi** vasıtasıyla Tanrı, günahkârların kurtuluşu ve Yeni Ahit’in başlatılması ile ilgili planını gerçekleştirecekti.
-  ***[[:tr:obs:notes:frames:37-05|[37-05]]]** İsa Marta’ya, “**Diriliş** ve hayat Ben’im. Bana iman eden, ölse bile yaşayacak!
-
+  * **[[:tr:obs:notes:frames:21-14|[21-14]]]** Mesih’in ölümü ve **dirilişi**  vasıtasıyla Tanrı, günahkârların kurtuluşu ve Yeni Ahit’in başlatılması ile ilgili planını gerçekleştirecekti.
+  * **[[:tr:obs:notes:frames:37-05|[37-05]]]** İsa Marta’ya, “**Diriliş**  ve hayat Ben’im. Bana iman eden, ölse bile yaşayacak!
 ~~DISCUSSION~~{{tag>publish ktobs}}
