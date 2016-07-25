@@ -17,12 +17,9 @@ Vergicilerin görevi, insanların hükûmete verecekleri parayı kabul edip hük
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:34-06|[34-06]]]** “İki adam dua etmek için Tapınak’a gitti. Biri **vergici**, diğeri de din alimiydi.”
-  ***[[:tr:obs:notes:frames:34-07|[34-07]]]** “Din alimi şöyle dua etti: ‘Ya Tanrı, Sana şükrederim! Başka insanlar -hırsız, zalim, zinaeden, ya da şu **vergici**- gibi günahkâr değilim.’”
-  ***[[:tr:obs:notes:frames:34-09|[34-09]]]** “**Vergici** ise din aliminden uzakta duruyor, başını göğe kaldıramıyordu bile. Ancak yumruğunu göğsüne vurarak, ‘Ey Tanrı, bana merhamet et. Ben günahkârım!’ diye dua ediyordu.”
-  ***[[:tr:obs:notes:frames:34-10|[34-10]]]** Sonra İsa şöyle dedi: “Size gerçeği söylüyorum: Tanrı, **vergicinin** duasını kabul etti ve kendisini doğru adam ilan etti.”
-  ***[[:tr:obs:notes:frames:35-01|[35-01]]]** Bir gün birçok **vergici** ve günahkâr kişi İsa’yı dinlemek için çevresinde toplanmıştı.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:34-06|[34-06]]]** “İki adam dua etmek için Tapınak’a gitti. Biri **vergici**, diğeri de din alimiydi.”
+  * **[[:tr:obs:notes:frames:34-07|[34-07]]]** “Din alimi şöyle dua etti: ‘Ya Tanrı, Sana şükrederim! Başka insanlar -hırsız, zalim, zinaeden, ya da şu **vergici**- gibi günahkâr değilim.’”
+  * **[[:tr:obs:notes:frames:34-09|[34-09]]]** “**Vergici**  ise din aliminden uzakta duruyor, başını göğe kaldıramıyordu bile. Ancak yumruğunu göğsüne vurarak, ‘Ey Tanrı, bana merhamet et. Ben günahkârım!’ diye dua ediyordu.”
+  * **[[:tr:obs:notes:frames:34-10|[34-10]]]** Sonra İsa şöyle dedi: “Size gerçeği söylüyorum: Tanrı, **vergicinin**  duasını kabul etti ve kendisini doğru adam ilan etti.”
+  * **[[:tr:obs:notes:frames:35-01|[35-01]]]** Bir gün birçok **vergici**  ve günahkâr kişi İsa’yı dinlemek için çevresinde toplanmıştı.
+~~DISCUSSION~~{{tag>publish ktobs}}
