@@ -16,14 +16,10 @@ Nebukadnessar, Babil İmparatorluğu’nun kralıydı. Bu, İsrail Krallığı v
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:20-06|[20-06]]]** Asurluların İsrail Krallığı’nı tahrip etmesinden yaklaşık 100 yıl sonra Tanrı Babil kralı **Nebukadnessar**’ı Yahuda Krallığı’na saldırmaya gönderdi.
-  ***[[:tr:obs:notes:frames:20-06|[20-06]]]** Yahuda’nın kralı, **Nebukadnessar**’ın kulu olup her yıl ona çok para ödemeyi kabul etti.
-  ***[[:tr:obs:notes:frames:20-08|[20-08]]]** Yahuda’nın kralının ayaklanmasının cezası olarak **Nebukadnessar**’ın askerleri gözleri önünde oğullarını öldürdüler ve kendisini kör ettiler.
-  ***[[:tr:obs:notes:frames:20-09|[20-09]]]** **Nebukadnessar**’la ordusu Yahuda Krallığı’nın hemen hemen bütün halkını Babil’e sürgün etti, yalnızca en yoksul insanları toprağı işlesinler diye bıraktı.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:20-06|[20-06]]]** Asurluların İsrail Krallığı’nı tahrip etmesinden yaklaşık 100 yıl sonra Tanrı Babil kralı **Nebukadnessar**’ı Yahuda Krallığı’na saldırmaya gönderdi.
+  * **[[:tr:obs:notes:frames:20-06|[20-06]]]** Yahuda’nın kralı, **Nebukadnessar**’ın kulu olup her yıl ona çok para ödemeyi kabul etti.
+  * **[[:tr:obs:notes:frames:20-08|[20-08]]]** Yahuda’nın kralının ayaklanmasının cezası olarak **Nebukadnessar**’ın askerleri gözleri önünde oğullarını öldürdüler ve kendisini kör ettiler.
+  * **[[:tr:obs:notes:frames:20-09|[20-09]]]****Nebukadnessar**’la ordusu Yahuda Krallığı’nın hemen hemen bütün halkını Babil’e sürgün etti, yalnızca en yoksul insanları toprağı işlesinler diye bıraktı.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
