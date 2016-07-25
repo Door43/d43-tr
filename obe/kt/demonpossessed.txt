@@ -22,15 +22,11 @@ Cinli kişinin içinde onun yaptıklarını ve düşüncelerini yöneten bir cin
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:26-09|[26-09]]]** **İçinde cinler olan** birçok insan İsa’ya getirildi.
-  ***[[:tr:obs:notes:frames:32-02|[32-02]]]** Karşı yakaya vardıklarında **cinli** bir adam İsa’ya doğru koştu.
-  ***[[:tr:obs:notes:frames:32-06|[32-06]]]** **Cinli** adam yüksek sesle, “Benden ne istiyorsun, İsa, yüceler yücesi Tanrı’nın Oğlu? Yalvarıyorum, bana işkence çektirme!” diye bağırdı.
-  ***[[:tr:obs:notes:frames:32-09|[32-09]]]** Kentteki insanlar gelip eskiden **cine tutulan** adamı gördüler.
-  ***[[:tr:obs:notes:frames:47-03|[47-03]]]** Her gün (Pavlus ve Silas) yolda giderken **cine tutulmuş** köle bir kız peşlerine takılıyordu.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:26-09|[26-09]]]****İçinde cinler olan**  birçok insan İsa’ya getirildi.
+  * **[[:tr:obs:notes:frames:32-02|[32-02]]]** Karşı yakaya vardıklarında **cinli**  bir adam İsa’ya doğru koştu.
+  * **[[:tr:obs:notes:frames:32-06|[32-06]]]****Cinli**  adam yüksek sesle, “Benden ne istiyorsun, İsa, yüceler yücesi Tanrı’nın Oğlu? Yalvarıyorum, bana işkence çektirme!” diye bağırdı.
+  * **[[:tr:obs:notes:frames:32-09|[32-09]]]** Kentteki insanlar gelip eskiden **cine tutulan**  adamı gördüler.
+  * **[[:tr:obs:notes:frames:47-03|[47-03]]]** Her gün (Pavlus ve Silas) yolda giderken **cine tutulmuş**  köle bir kız peşlerine takılıyordu.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
