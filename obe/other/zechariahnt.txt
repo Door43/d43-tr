@@ -18,13 +18,10 @@ Zekeriya Vaftizci Yahya’nın babası olan Yahudi bir kâhindi.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:22-01|[22-01]]]** Nihayet **Zekeriya** adlı yaşlı bir kâhine Tanrı’nın sözü geldi. **Zekeriya**’yla karısı Elizabet mümin insanlardı, ancak Elizabet çocuk sahibi olamıyordu.
-  ***[[:tr:obs:notes:frames:22-02|[22-02]]]** Melek **Zekeriya**’ya şöyle dedi: «Senin karın bir oğul doğuracak. Adını Yahya koyacaksın.»
-  ***[[:tr:obs:notes:frames:22-03|[22-03]]]** **Zekeriya** hemen konuşamaz oldu.
-  ***[[:tr:obs:notes:frames:22-07|[22-07]]]** O zaman Tanrı **Zekeriya**’nın yeniden konuşmasına izin verdi.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:22-01|[22-01]]]** Nihayet **Zekeriya**  adlı yaşlı bir kâhine Tanrı’nın sözü geldi. **Zekeriya**’yla karısı Elizabet mümin insanlardı, ancak Elizabet çocuk sahibi olamıyordu.
+  * **[[:tr:obs:notes:frames:22-02|[22-02]]]** Melek **Zekeriya**’ya şöyle dedi: «Senin karın bir oğul doğuracak. Adını Yahya koyacaksın.»
+  * **[[:tr:obs:notes:frames:22-03|[22-03]]]****Zekeriya**  hemen konuşamaz oldu.
+  * **[[:tr:obs:notes:frames:22-07|[22-07]]]** O zaman Tanrı **Zekeriya**’nın yeniden konuşmasına izin verdi.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
