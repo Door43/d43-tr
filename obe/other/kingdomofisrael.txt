@@ -16,16 +16,12 @@ Kral Süleyman öldükten sonra İsrailliler iki krallığa bölündüler. İsra
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:18-08|[18-08]]]** İsrail’in Rehavam’a karşı başkaldıran öbür on oymağı Yarovam adında bir adamı kralları olarak kabul ettiler. Onlar ülkenin kuzey bölgesinde krallık kurdular ve **İsrail Krallığı** olarak adlandırıldılar.
-  ***[[:tr:obs:notes:frames:18-10|[18-10]]]** **Yahuda ve İsrail krallıkları** birbirine düşman oldular ve sık sık birbiriyle savaştılar.
-  ***[[:tr:obs:notes:frames:18-11|[18-11]]]** Yeni **İsrail Krallığı**’nda bütün krallar kötüydü.
-  ***[[:tr:obs:notes:frames:20-01|[20-01]]]** **İsrail Krallığı** ve Yahuda Krallığı Tanrı’ya karşı günah işlediler.
-  ***[[:tr:obs:notes:frames:20-02|[20-02]]]** **İsrail Krallığı** kuvvetli ve acımasız Asur İmparatorluğu tarafından tahrip edildi. Asurlular **İsrail Krallığı**’nda çok insan öldürdüler, değerli eşyaların hepsini götürdüler, ülkenin büyük kısmını yaktılar.
-  ***[[:tr:obs:notes:frames:20-04|[20-04]]]** Sonra Asurlular, eskiden **İsrail Krallığı** olan ülkeye yabancıları yerleştirdiler. Yabancılar, tahrip edilen kentleri yeniden kurdular, orada kalan İsraillilerle evlendiler. Yabancılarla evlenen İsraillilere Samiriyeli dendi.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:18-08|[18-08]]]** İsrail’in Rehavam’a karşı başkaldıran öbür on oymağı Yarovam adında bir adamı kralları olarak kabul ettiler. Onlar ülkenin kuzey bölgesinde krallık kurdular ve **İsrail Krallığı**  olarak adlandırıldılar.
+  * **[[:tr:obs:notes:frames:18-10|[18-10]]]****Yahuda ve İsrail krallıkları**  birbirine düşman oldular ve sık sık birbiriyle savaştılar.
+  * **[[:tr:obs:notes:frames:18-11|[18-11]]]** Yeni **İsrail Krallığı**’nda bütün krallar kötüydü.
+  * **[[:tr:obs:notes:frames:20-01|[20-01]]]****İsrail Krallığı**  ve Yahuda Krallığı Tanrı’ya karşı günah işlediler.
+  * **[[:tr:obs:notes:frames:20-02|[20-02]]]****İsrail Krallığı**  kuvvetli ve acımasız Asur İmparatorluğu tarafından tahrip edildi. Asurlular **İsrail Krallığı**’nda çok insan öldürdüler, değerli eşyaların hepsini götürdüler, ülkenin büyük kısmını yaktılar.
+  * **[[:tr:obs:notes:frames:20-04|[20-04]]]** Sonra Asurlular, eskiden **İsrail Krallığı**  olan ülkeye yabancıları yerleştirdiler. Yabancılar, tahrip edilen kentleri yeniden kurdular, orada kalan İsraillilerle evlendiler. Yabancılarla evlenen İsraillilere Samiriyeli dendi.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
