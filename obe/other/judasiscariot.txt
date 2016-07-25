@@ -19,14 +19,10 @@ Yahuda İsa’nın on iki havarisinden biriydi. Fakat o, İsa’yı Yahudi ileri
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:38-02|[38-02]]]** Havarilerden biri **Yahuda** adında bir adamdı. ... İsa’yla havarileri Yeruşalim’e vardıklarında **Yahuda** Yahudi ileri gelenlerine gitti ve para karşılığında İsa’yı onlara teslim etmeyi önerdi.
-  ***[[:tr:obs:notes:frames:38-03|[38-03]]]** Yahudi ileri gelenleri baş kâhinin öncülüğünde İsa’yı teslim etmesi için **Yahuda**’ya otuz gümüş para ödedi.
-  ***[[:tr:obs:notes:frames:38-14|[38-14]]]** **Yahuda** Yahudi ileri gelenleri, askerler ve büyük kalabalık ile birlikte geldi. Onların hepsinin ellerinde kılıçlar ve sopalar vardı. **Yahuda** İsa’nın yanına gelerek, “Selam Hocam!” dedi ve O’nu öptü.
-  ***[[:tr:obs:notes:frames:39-08|[39-08]]]** Bu arada hain **Yahuda**, Yahudi ileri gelenlerinin İsa’yı ölüme mahkûm ettiklerini gördü. Çok üzüldü, pişman oldu, gidip kendini astı.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:38-02|[38-02]]]** Havarilerden biri **Yahuda**  adında bir adamdı. ... İsa’yla havarileri Yeruşalim’e vardıklarında **Yahuda**  Yahudi ileri gelenlerine gitti ve para karşılığında İsa’yı onlara teslim etmeyi önerdi.
+  * **[[:tr:obs:notes:frames:38-03|[38-03]]]** Yahudi ileri gelenleri baş kâhinin öncülüğünde İsa’yı teslim etmesi için **Yahuda**’ya otuz gümüş para ödedi.
+  * **[[:tr:obs:notes:frames:38-14|[38-14]]]****Yahuda**  Yahudi ileri gelenleri, askerler ve büyük kalabalık ile birlikte geldi. Onların hepsinin ellerinde kılıçlar ve sopalar vardı. **Yahuda**  İsa’nın yanına gelerek, “Selam Hocam!” dedi ve O’nu öptü.
+  * **[[:tr:obs:notes:frames:39-08|[39-08]]]** Bu arada hain **Yahuda**, Yahudi ileri gelenlerinin İsa’yı ölüme mahkûm ettiklerini gördü. Çok üzüldü, pişman oldu, gidip kendini astı.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
