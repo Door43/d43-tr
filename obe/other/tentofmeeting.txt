@@ -18,13 +18,10 @@ Tanrı Sina Dağı’nda yasalarını verdiğinde İsraillilere Buluşma Çadır
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:13-08|[13-08]]]** Tanrı, İsraillilere kurmaları gereken çadırın detaylı tasvirini verdi. Bunu **Buluşma Çadırı** olarak adlandırdı. Çadırın içinde büyük bir perdeyle ayrılan iki oda vardı.
-  ***[[:tr:obs:notes:frames:13-09|[13-09]]]** Tanrı’nın yasasına karşı itaatsizlik eden herkes **Buluşma Çadırı**’nın önündeki sunakta Tanrı’ya bir hayvanı kurban olarak sunabilirdi.
-  ***[[:tr:obs:notes:frames:14-08|[14-08]]]** Tanrı çok öfkelendi ve **Buluşma Çadırı**’na geldi.
-  ***[[:tr:obs:notes:frames:18-02|[18-02]]]** Halk artık **Buluşma Çadırı**’nda değil Tapınak’ta Tanrı’ya tapınıyor ve kurban sunuyordu.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:13-08|[13-08]]]** Tanrı, İsraillilere kurmaları gereken çadırın detaylı tasvirini verdi. Bunu **Buluşma Çadırı**  olarak adlandırdı. Çadırın içinde büyük bir perdeyle ayrılan iki oda vardı.
+  * **[[:tr:obs:notes:frames:13-09|[13-09]]]** Tanrı’nın yasasına karşı itaatsizlik eden herkes **Buluşma Çadırı**’nın önündeki sunakta Tanrı’ya bir hayvanı kurban olarak sunabilirdi.
+  * **[[:tr:obs:notes:frames:14-08|[14-08]]]** Tanrı çok öfkelendi ve **Buluşma Çadırı**’na geldi.
+  * **[[:tr:obs:notes:frames:18-02|[18-02]]]** Halk artık **Buluşma Çadırı**’nda değil Tapınak’ta Tanrı’ya tapınıyor ve kurban sunuyordu.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
