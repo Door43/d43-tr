@@ -17,17 +17,13 @@ Yahuda İsrail’in on iki oymağının en büyüğüydü. Kral Süleyman öldü
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:18-07|[18-07]]]** Yalnızca iki oymak ona (Rehavam’a) sadık kaldı. Bunlar **Yahuda Krallığı** oldular.
-  ***[[:tr:obs:notes:frames:18-10|[18-10]]]** **Yahuda ve İsrail krallıkları** birbirine düşman oldular ve sık sık birbiriyle savaştılar.
-  ***[[:tr:obs:notes:frames:18-13|[18-13]]]** **Yahuda’nın kralları** Davut’un soyundandı. Aralarında adaletle hüküm süren ve Tanrı’ya tapan iyi insanlar da vardı. Fakat **Yahuda**’nın krallarının çoğu putlara tapan kötü ve bozuk kişilerdi.
-  ***[[:tr:obs:notes:frames:20-01|[20-01]]]** İsrail Krallığı ve **Yahuda Krallığı** Tanrı’ya karşı günah işlediler.
-  ***[[:tr:obs:notes:frames:20-05|[20-05]]]** **Yahuda Krallığı**’nın halkı, Tanrı’nın İsrail halkına imansızlığı ve itaatsizliği için verdiği cezayı gördü. Buna rağmen hâlâ Kenan ilâhlarına ve diğer putlara tapınmaya devam etti.
-  ***[[:tr:obs:notes:frames:20-06|[20-06]]]** Asurluların İsrail Krallığı’nı tahrip etmesinden yaklaşık 100 yıl sonra Tanrı Babil kralı Nebukadnessar’ı **Yahuda Krallığı**’na saldırmaya gönderdi.
-  ***[[:tr:obs:notes:frames:20-09|[20-09]]]** Nebukadnessar’la ordusu **Yahuda Krallığı**’nın hemen hemen bütün halkını Babil’e sürgün etti, yalnızca en yoksul insanları toprağı işlesinler diye bıraktı.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:18-07|[18-07]]]** Yalnızca iki oymak ona (Rehavam’a) sadık kaldı. Bunlar **Yahuda Krallığı**  oldular.
+  * **[[:tr:obs:notes:frames:18-10|[18-10]]]****Yahuda ve İsrail krallıkları**  birbirine düşman oldular ve sık sık birbiriyle savaştılar.
+  * **[[:tr:obs:notes:frames:18-13|[18-13]]]****Yahuda’nın kralları**  Davut’un soyundandı. Aralarında adaletle hüküm süren ve Tanrı’ya tapan iyi insanlar da vardı. Fakat **Yahuda**’nın krallarının çoğu putlara tapan kötü ve bozuk kişilerdi.
+  * **[[:tr:obs:notes:frames:20-01|[20-01]]]** İsrail Krallığı ve **Yahuda Krallığı**  Tanrı’ya karşı günah işlediler.
+  * **[[:tr:obs:notes:frames:20-05|[20-05]]]****Yahuda Krallığı**’nın halkı, Tanrı’nın İsrail halkına imansızlığı ve itaatsizliği için verdiği cezayı gördü. Buna rağmen hâlâ Kenan ilâhlarına ve diğer putlara tapınmaya devam etti.
+  * **[[:tr:obs:notes:frames:20-06|[20-06]]]** Asurluların İsrail Krallığı’nı tahrip etmesinden yaklaşık 100 yıl sonra Tanrı Babil kralı Nebukadnessar’ı **Yahuda Krallığı**’na saldırmaya gönderdi.
+  * **[[:tr:obs:notes:frames:20-09|[20-09]]]** Nebukadnessar’la ordusu **Yahuda Krallığı**’nın hemen hemen bütün halkını Babil’e sürgün etti, yalnızca en yoksul insanları toprağı işlesinler diye bıraktı.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
