@@ -19,12 +19,11 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:12-14|[12-14]]]** Tanrı, Mısırlılar üzerinde zafer kazanmalarını ve kölelikten kurtulmalarını nasıl sağladığını hatırlamaları için İsraillilere her yıl **Fısıh Bayramı**’nı kutlamayı buyurdu.
-  ***[[:tr:obs:notes:frames:38-01|[38-01]]]** Yahudiler her yıl **Fısıh Bayramı**’nı kutlarlardı. Bu bayramda Tanrı’nın yüzyıllar önce atalarını Mısır’daki kölelikten kurtardığını anarlardı.
-  ***[[:tr:obs:notes:frames:38-04|[38-04]]]** İsa Yeruşalim’de havarileriyle beraber **Fısıh Bayramı**’nı kutluyordu.
-  ***[[:tr:obs:notes:frames:48-09|[48-09]]]** Tanrı kanı gördüğü zaman evlerinin üzerinden geçti ve ilk doğan oğullarını öldürmedi. Bu olay “**Fısıh**” olarak adlandırılmıştır.
-  ***[[:tr:obs:notes:frames:48-10|[48-10]]]** İsa, **Fısıh** Kuzu’muzdur. Kusursuz ve günahsızdı, **Fısıh Bayramı** sırasında öldürüldü.
-
+  * **[[:tr:obs:notes:frames:12-14|[12-14]]]** Tanrı, Mısırlılar üzerinde zafer kazanmalarını ve kölelikten kurtulmalarını nasıl sağladığını hatırlamaları için İsraillilere her yıl **Fısıh Bayramı**’nı kutlamayı buyurdu.
+  * **[[:tr:obs:notes:frames:38-01|[38-01]]]** Yahudiler her yıl **Fısıh Bayramı**’nı kutlarlardı. Bu bayramda Tanrı’nın yüzyıllar önce atalarını Mısır’daki kölelikten kurtardığını anarlardı.
+  * **[[:tr:obs:notes:frames:38-04|[38-04]]]** İsa Yeruşalim’de havarileriyle beraber **Fısıh Bayramı**’nı kutluyordu.
+  * **[[:tr:obs:notes:frames:48-09|[48-09]]]** Tanrı kanı gördüğü zaman evlerinin üzerinden geçti ve ilk doğan oğullarını öldürmedi. Bu olay “**Fısıh**” olarak adlandırılmıştır.
+  * **[[:tr:obs:notes:frames:48-10|[48-10]]]** İsa, **Fısıh**  Kuzu’muzdur. Kusursuz ve günahsızdı, **Fısıh Bayramı**  sırasında öldürüldü.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
