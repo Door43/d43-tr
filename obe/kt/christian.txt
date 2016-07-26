@@ -16,14 +16,7 @@
   * Bu terimi sadece ayrı ayrı gruplara mensup olanları değil İsa’ya iman eden herkesi belirten bir terimle çevirmeye dikkat edin.
   * Ayrıca Kutsal Kitap’ın halk diline veya devlet diline çevirisinde bu terimin nasıl çevrildiğine bakın.
 
-===== Çeviri için öneriler =====
-
-  * Bu terim «Mesih’in takipçisi», «Mesih inanlısı» ya da belki «Mesihçi» gibi bir terimle çevrilebilir.
-  * Bu terimin çevirisinin öğrenci ya da havari teriminden farklı olmasına dikkat edin.
-  * Bu terimi sadece ayrı ayrı gruplara mensup olanları değil İsa’ya iman eden herkesi belirten bir terimle çevirmeye dikkat edin.
-  * Ayrıca Kutsal Kitap’ın halk diline veya devlet diline çevirisinde bu terimin nasıl çevrildiğine bakın.
-
-(See also: [[tr:obe:kt:church]], [[tr:obe:kt:disciple]], [[tr:obe:kt:believer]], [[tr:obe:kt:jesus]], [[tr:obe:kt:sonofgod]], [[tr:obe:kt:church|kilise, Kilise]], [[tr:obe:kt:disciple|öğrenci]], [[tr:obe:kt:believer|imanlı]], [[tr:obe:kt:jesus|İsa, İsa Mesih, Mesih İsa]], [[tr:obe:kt:sonofgod|Tanrı’nın Oğlu, Oğul]])
+(See also: [[:tr:obe:kt:church|kilise]], [[:tr:obe:kt:disciple|öğrenci]], [[:tr:obe:kt:believer|imanlı]], [[:tr:obe:kt:jesus|İsa]], [[:tr:obe:kt:sonofgod|Tanrı’nın Oğlu, Oğul]], [[:tr:obe:kt:church|kilise, Kilise]], [[:tr:obe:kt:disciple|öğrenci]], [[:tr:obe:kt:believer|imanlı]], [[:tr:obe:kt:jesus|İsa, İsa Mesih, Mesih İsa]], [[:tr:obe:kt:sonofgod|Tanrı’nın Oğlu, Oğul]])
 
 ===== Bible References: =====
 
