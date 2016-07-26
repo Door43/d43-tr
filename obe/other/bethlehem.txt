@@ -2,13 +2,14 @@
 
 ===== Gerçeklikler =====
 
-Beytlehem İsrail’de Yeruşalim kentinin yakınlığında bulunan küçük bir kentti. Şimdiye dek mecvuttur.
-  * Kral Davut Beytlehem’de doğdu; bu sebeple orası «Davut’un kenti» olarak adlandırıldı.
-  * Mika Peygamber Mesih’in Beytlehem’den geleceğini ilan etti.
-  * Beytlehem, İsa’nın doğduğu şehirdir.
-  * Şehrin adı «ekmek evi» ya da «yiyecek evi» anlamına gelir.
+Beytlehem İsrail’de Yeruşalim kentinin yakınlığında bulunan küçük bir kentti. Bu kent ayrıca büyük olasılıkla eski adı olan «Efrata» adıyla tanınıyordu.
 
-(See also: [[tr:obe:other:david]])
+  * Kral Davut Beytlehem’de doğduğu için orası «Davut’un kenti» olarak adlandırıldı.
+  * Mika Peygamber Mesih’in Beytlehem Efrata’dan geleceğini ilan etmişti.
+  * İsa bu peygamberlik sözü uyarınca yıllar sonra Beytlehem’de doğdu.
+  * «Beytlehem» adı «ekmek evi» ya da «yiyecek evi» anlamına gelir.
+
+(See also: [[:tr:obe:other:david|Davut]])
 
 ===== Bible References: =====
 
