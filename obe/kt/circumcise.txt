@@ -17,14 +17,7 @@
   * Sünnetten habersiz olan kültürlerde bunun anlamının dipnotta ya da sözlükte açıklanması zorunlu olabilir.
   * Bunu çevirmek için kullandığınız terimin kadınlara ait olmamasına dikkat edin. Bunu «erkek» anlamını içeren bir söz ya da ifade ile çevirmek lazım olabilir.
 
-===== Çeviri için öneriler =====
-
-  * Hedef dilin kültüründe erkekler sünnet edilirse bu eylem için kullanılan kelimenin kullanılması gerekir.
-  * Bu terim ayrıca «erkeklik derisinin kesilmesi» olarak da çevrilebiir.
-  * Sünnetten habersiz olan kültürlerde bunun anlamının dipnotta ya da sözlükte açıklanması zorunlu olabilir.
-  * Bunu çevirmek için kullandığınız terimin kadınlara ait olmamasına dikkat edin. Bunu «erkek» anlamını içeren bir söz ya da ifade ile çevirmek lazım olabilir.
-
-(See also: [[tr:obe:kt:uncircumcised]], [[tr:obe:kt:covenant]])
+(See also: [[:tr:obe:kt:uncircumcised|uncircumcised, uncircumcision]], [[:tr:obe:kt:covenant|ahit]])
 
 ===== Bible References: =====
 
