@@ -25,12 +25,11 @@ Ahit, iki taraf arasında yapılan ve bir ya da her iki tarafın yerine getirmes
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:04-09|[04-09]]]** Sonra Tanrı Avram’la bir **ahit** yaptı. Ahit, iki taraf arasındaki antlaşma anlamına gelir.
-  ***[[:tr:obs:notes:frames:05-04|[05-04]]]** “İsmail’i de büyük millet yapacağım, ancak **ahdimi** İshak’la sürdüreceğim.”
-  ***[[:tr:obs:notes:frames:06-04|[06-04]]]** Uzun süre sonra İbrahim öldü ve Tanrı’nın ona **ahit** yaparken verdiği tüm vaatler İshak’a geçti.
-  ***[[:tr:obs:notes:frames:07-10|[07-10]]]** Tanrı’nın **ahdinde** İbrahim’e verdiği vaatler bundan sonra İshak’tan Yakup’a geçti.
-  ***[[:tr:obs:notes:frames:13-02|[13-02]]]** Tanrı Musa’ya ve İsrail halkına şöyle seslendi: “Sözüme itaat eder, **ahdime** bağlı kalırsanız, çok kıymetli hazinem, kâhinler krallığı, kutsal bir millet olacaksınız.”
-  ***[[:tr:obs:notes:frames:13-04|[13-04]]]** Tanrı onlarla **ahit** yaparak şöyle dedi: “Seni Mısır’dan, köle olduğun ülkeden kurtaran Tanrın Yahve benim. Başka ilâhlara tapmayacaksın!”
-  ***[[:tr:obs:notes:frames:15-13|[15-13]]]** Yeşu yaşlandığında bütün İsrail halkını topladı ve Tanrı’nın Sina Dağı’nda İsrail’le yaptığı **ahde** sadık kalmaları gerektiğini onlara hatırlattı.
-
+  * **[[:tr:obs:notes:frames:04-09|[04-09]]]** Sonra Tanrı Avram’la bir **ahit**  yaptı. Ahit, iki taraf arasındaki antlaşma anlamına gelir.
+  * **[[:tr:obs:notes:frames:05-04|[05-04]]]** “İsmail’i de büyük millet yapacağım, ancak **ahdimi**  İshak’la sürdüreceğim.”
+  * **[[:tr:obs:notes:frames:06-04|[06-04]]]** Uzun süre sonra İbrahim öldü ve Tanrı’nın ona **ahit**  yaparken verdiği tüm vaatler İshak’a geçti.
+  * **[[:tr:obs:notes:frames:07-10|[07-10]]]** Tanrı’nın **ahdinde**  İbrahim’e verdiği vaatler bundan sonra İshak’tan Yakup’a geçti.
+  * **[[:tr:obs:notes:frames:13-02|[13-02]]]** Tanrı Musa’ya ve İsrail halkına şöyle seslendi: “Sözüme itaat eder, **ahdime**  bağlı kalırsanız, çok kıymetli hazinem, kâhinler krallığı, kutsal bir millet olacaksınız.”
+  * **[[:tr:obs:notes:frames:13-04|[13-04]]]** Tanrı onlarla **ahit**  yaparak şöyle dedi: “Seni Mısır’dan, köle olduğun ülkeden kurtaran Tanrın Yahve benim. Başka ilâhlara tapmayacaksın!”
+  * **[[:tr:obs:notes:frames:15-13|[15-13]]]** Yeşu yaşlandığında bütün İsrail halkını topladı ve Tanrı’nın Sina Dağı’nda İsrail’le yaptığı **ahde**  sadık kalmaları gerektiğini onlara hatırlattı.
 ~~DISCUSSION~~{{tag>publish ktobs}}
