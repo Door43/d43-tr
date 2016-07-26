@@ -22,13 +22,12 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:03-14|[03-14]]]** Nuh gemiden çıktıktan sonra bir sunak yaptı ve **kurbanlık** olabilecek her hayvan türünden kurban **sundu**. Tanrı bu **kurbandan** razı oldu ve Nuh’la ailesini kutsadı.
-  ***[[:tr:obs:notes:frames:05-06|[05-06]]]** (Tanrı) “Biricik oğlunu, İshak’ı al, bana **kurban** olarak sun.” dedi. İbrahim yine Tanrı’nın sözüne itaat ederek kendi oğlunu **kurban** vermeye hazır oldu.
-  ***[[:tr:obs:notes:frames:05-09|[05-09]]]** Tanrı, İshak’ın yerine **kurban** verilsin diye bu koçu sağlamıştı.
-  ***[[:tr:obs:notes:frames:13-09|[13-09]]]** Tanrı’nın yasasına karşı itaatsizlik eden herkes Buluşma Çadırı’na Tanrı’ya bir hayvanı **kurban** olarak getirebilirdi. Kâhin hayvanı öldürüp sunakta yakardı. **Kurban** olarak sunulan hayvanın kanı o kişinin günahını örterek onu Tanrı’nın nazarında pak ederdi.
-  ***[[:tr:obs:notes:frames:17-06|[17-06]]]** Davut bütün İsraillilerin Tanrı’ya tapınarak **kurban** sunabilecekleri bir tapınak kurmak istedi.
-  ***[[:tr:obs:notes:frames:48-06|[48-06]]]** İsa Büyük Baş Kâhin’dir. Başka kâhinlerden faklı olarak İsa, dünyadaki insanların günahlarını ortadan kaldırabilecek tek **kurban** olarak kendini sundu.
-  ***[[:tr:obs:notes:frames:48-08|[48-08]]]** Fakat Tanrı İsa’yı yerimize ölen **kurbanlık** kuzu olarak sağladı.
-  ***[[:tr:obs:notes:frames:49-11|[49-11]]]** İsa kendini **feda** ettiği için Tanrı herhangi bir günahı, korkunç günahları bile affedebilir.
-
+  * **[[:tr:obs:notes:frames:03-14|[03-14]]]** Nuh gemiden çıktıktan sonra bir sunak yaptı ve **kurbanlık**  olabilecek her hayvan türünden kurban **sundu**. Tanrı bu **kurbandan**  razı oldu ve Nuh’la ailesini kutsadı.
+  * **[[:tr:obs:notes:frames:05-06|[05-06]]]** (Tanrı) “Biricik oğlunu, İshak’ı al, bana **kurban**  olarak sun.” dedi. İbrahim yine Tanrı’nın sözüne itaat ederek kendi oğlunu **kurban**  vermeye hazır oldu.
+  * **[[:tr:obs:notes:frames:05-09|[05-09]]]** Tanrı, İshak’ın yerine **kurban**  verilsin diye bu koçu sağlamıştı.
+  * **[[:tr:obs:notes:frames:13-09|[13-09]]]** Tanrı’nın yasasına karşı itaatsizlik eden herkes Buluşma Çadırı’na Tanrı’ya bir hayvanı **kurban**  olarak getirebilirdi. Kâhin hayvanı öldürüp sunakta yakardı. **Kurban**  olarak sunulan hayvanın kanı o kişinin günahını örterek onu Tanrı’nın nazarında pak ederdi.
+  * **[[:tr:obs:notes:frames:17-06|[17-06]]]** Davut bütün İsraillilerin Tanrı’ya tapınarak **kurban**  sunabilecekleri bir tapınak kurmak istedi.
+  * **[[:tr:obs:notes:frames:48-06|[48-06]]]** İsa Büyük Baş Kâhin’dir. Başka kâhinlerden faklı olarak İsa, dünyadaki insanların günahlarını ortadan kaldırabilecek tek **kurban**  olarak kendini sundu.
+  * **[[:tr:obs:notes:frames:48-08|[48-08]]]** Fakat Tanrı İsa’yı yerimize ölen **kurbanlık**  kuzu olarak sağladı.
+  * **[[:tr:obs:notes:frames:49-11|[49-11]]]** İsa kendini **feda**  ettiği için Tanrı herhangi bir günahı, korkunç günahları bile affedebilir.
 ~~DISCUSSION~~{{tag>publish ktobs}}
