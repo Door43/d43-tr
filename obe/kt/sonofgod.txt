@@ -25,14 +25,13 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:22-05|[22-05]]]** Melek ona, “Kutsal Ruh senin üzerine gelecek ve Tanrı’nın gücü sana gölge salacak. Bunun için senin çocuğun kutsal, **Tanrı’nın Oğlu** olacak.”
-  ***[[:tr:obs:notes:frames:24-09|[24-09]]]** Tanrı Yahya’ya şöyle demişti: “Vaftiz ettiğin bir adam üzerine Kutsal Ruh inip duracak. O adam **Tanrı’nın Oğlu**dur!”
-  ***[[:tr:obs:notes:frames:31-08|[31-08]]]** Havariler hayret içinde İsa’ya tapınarak, “Gerçekten, sen **Tanrı’nın Oğlu**’sun.” dediler.
-  ***[[:tr:obs:notes:frames:37-05|[37-05]]]** Marta O’na şöyle cevap verdi: “Evet Efendim! **Tanrı’nın Oğlu** Mesih olduğuna iman ediyorum.”
-  ***[[:tr:obs:notes:frames:42-10|[42-10]]]** “Bu yüzden gidin, bütün milletleri imanlı olarak yetiştirin. Onları Baba, **Oğul** ve Kutsal Ruh adıyla vaftiz edin ve size emrettiğim her şeye itaat etmeyi öğretin.”
-  ***[[:tr:obs:notes:frames:46-06|[46-06]]]** Bundan hemen sonra Saul Şam’daki Yahudilere, “İsa **Tanrı’nın Oğlu**’dur!” diye vazetmeye başladı.
-  ***[[:tr:obs:notes:frames:49-09|[49-09]]]** Fakat Tanrı dünyadaki her insanı o kadar sevdi ki, biricik **Oğlu**’nu verdi. Öyle ki, İsa’ya iman eden herkes günahlarının cezasını çekmesin, Tanrı’yla ebediyen yaşasın.
-
+  * **[[:tr:obs:notes:frames:22-05|[22-05]]]** Melek ona, “Kutsal Ruh senin üzerine gelecek ve Tanrı’nın gücü sana gölge salacak. Bunun için senin çocuğun kutsal, **Tanrı’nın Oğlu**  olacak.”
+  * **[[:tr:obs:notes:frames:24-09|[24-09]]]** Tanrı Yahya’ya şöyle demişti: “Vaftiz ettiğin bir adam üzerine Kutsal Ruh inip duracak. O adam **Tanrı’nın Oğlu**dur!”
+  * **[[:tr:obs:notes:frames:31-08|[31-08]]]** Havariler hayret içinde İsa’ya tapınarak, “Gerçekten, sen **Tanrı’nın Oğlu**’sun.” dediler.
+  * **[[:tr:obs:notes:frames:37-05|[37-05]]]** Marta O’na şöyle cevap verdi: “Evet Efendim! **Tanrı’nın Oğlu**  Mesih olduğuna iman ediyorum.”
+  * **[[:tr:obs:notes:frames:42-10|[42-10]]]** “Bu yüzden gidin, bütün milletleri imanlı olarak yetiştirin. Onları Baba, **Oğul**  ve Kutsal Ruh adıyla vaftiz edin ve size emrettiğim her şeye itaat etmeyi öğretin.”
+  * **[[:tr:obs:notes:frames:46-06|[46-06]]]** Bundan hemen sonra Saul Şam’daki Yahudilere, “İsa **Tanrı’nın Oğlu**’dur!” diye vaaz etmeye başladı.
+  * **[[:tr:obs:notes:frames:49-09|[49-09]]]** Fakat Tanrı dünyadaki her insanı o kadar sevdi ki, biricik **Oğlu**’nu verdi. Öyle ki, İsa’ya iman eden herkes günahlarının cezasını çekmesin, Tanrı’yla ebediyen yaşasın.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
