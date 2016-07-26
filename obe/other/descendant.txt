@@ -3,6 +3,7 @@
 ===== Tanım =====
 
 Soy demek, bir kişiden sonra gelen ve kan bağı ile ona doğrudan bağlı olan akrabaları demektir.
+
   * Örneğin İbrahim Nuh’un soyudandı.
   * Bir kişinin soyu çocuklarını, torunlarını, torunlarının çocuklarını vs. içerir.
 
