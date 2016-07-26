@@ -2,15 +2,24 @@
 
 ===== Tanım =====
 
-Çoban, koyunları güden biridir. «Çobanlık etmek» demek, koyunları kollamak ya da kayırmak demektir. Bu söz Kutsal Kitap’ta sık sık mecazi anamda insanların hem fiziksel hem de ruhsal ihtiyaçlarını karşılamak anlamında <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>kullanılır</font>    .
-  * Çoban koyunların sahibi olan ya da sahibi tarafından görevlendirilen biri olabilir.
-  * Kutsal Kitap’ın yazıldığı zamanlarda çobanlar çoğunlukla koyunları dışarıda güder, iyi otlak ve su olan yerlere götürürlerdi. Çobanlar ayrıca koyunları kaybolmaktan ve vahşi hayvanlardan korurlar.
-  * Eski Ahit’te Tanrı kendi halkının çobanı olarak adlandırılır, çünkü bütün ihtiyaçlarını sağlar ve onları korur.
-  * Yeni Ahit’te İsa kendine O’nu izleyenleri kayıran «İyi Çoban» der.
-  * Ayrıca Yeni Ahit’te «çoban» terimi başka imanlıları yöneten ruhsal önder anlamında kullanılır.
-  * «Pastör» sözcüğü «çoban» ile aynı anlama gelir.
+Çoban, koyunları güden biridir. «Çobanlık etmek» demek, koyunları kollamak ya da kayırmak demektir.
 
-(See also: [[tr:obe:other:sheep]], [[tr:obe:kt:pastor]], [[tr:obe:kt:believer]], [[tr:obe:other:sheep|koyun, kuzu]], [[tr:obe:kt:pastor|çoban]], [[tr:obe:kt:believer|imanlı]])
+  * Çobanlar koyunları güder, iyi otlak ve su olan yerlere götürürler. Çobanlar ayrıca koyunları kaybolmaktan ve vahşi hayvanlardan korurlar.
+  * Bu söz Kutsal Kitap’ta sık sık mecazi anamda insanların ruhsal ihtiyaçlarını karşılamak anlamında kullanılır. Ruhsal çobanlar Tanrı’nın Kutsal Kitap’ta ne dediğini insanlara öğretir ve nasıl yaşamaları gerektiği konusunda onları yönlendirirler.
+  * Eski Ahit’te Tanrı kendi halkının çobanı olarak adlandırılır, çünkü bütün ihtiyaçlarını sağlar ve onları korur.
+  * Musa, İsrailliler için Yahve’ye tapınmalarında ruhsal yönlendiriş ve Kenan ülkesine doğru yolculuklarında maddesel yönlendiriş sağlama açısından onların bir çobanıydı.
+  * Yeni Ahit’te İsa kendine «İyi Çoban» der.
+  * Ayrıca Yeni Ahit’te «çoban» terimi başka imanlıları yöneten ruhsal önder anlamında kullanılır. «Pastör» sözcüğü «çoban» ile aynı anlama gelir. İhtiyarlar ve gözetmenler de çoban olarak adlandırılırlardı.
+
+===== Çeviri için öneriler =====
+
+  * Harfiyen kullanıldığında bu terim «koyunları güden kişi» ya da «koyunlara bakan kişi» olarak çevrilebilir.
+  * Mecazi anlamda kullanıldığında bu terimin çeşitli çeviri seçeneklerine «ruhsal çoban», «ruhsal önder», «çoban gibi biri», «çoban koyunlarla ilgilendiği gibi insanları ile ilgilenen biri», «çoban koyunlarını yönlendirdiği gibi insanlarını yönlendiren kişi» ya da «Tanrı’nın kuzularıyla ilgilenen biri» gibi ifadeler dahil olabilir.
+  * Bazı bağlamlarda «çoban» «lider», «yol gösteren» ya da «ilgilenen» olarak çevrilebilir.
+  * «Çobanlık etmek» ifadesi «ilgilenmek», «ruhsal gıda sağlamak», «öğretip yönlendirmek» ya da «ilgilenip yönlendirmek (çoban koyunlarla ilgilenip onları yönlendirdiği gibi)» şeklinde çevrilebilir.
+  * Mecazi anlamda mümkünse bu terimin çevirisinde «çoban» terimini kullanmak iyidir.
+
+(See also: [[:tr:obe:other:sheep|koyun]], [[:tr:obe:kt:pastor|pastor]], [[:tr:obe:kt:believer|imanlı]], [[:tr:obe:other:sheep|koyun, kuzu]], [[:tr:obe:kt:pastor|çoban]], [[:tr:obe:kt:believer|imanlı]])
 
 ===== Bible References: =====
 
