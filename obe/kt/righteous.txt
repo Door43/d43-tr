@@ -17,14 +17,7 @@
   * Bağlama dayalı olarak, «doğruluk» ayrıca «iyilik», «Tanrı katında kâmil olma», «Tanrı’ya itaat ederek doğruluk yapma» ya da «mükemmel adil işler yapma» anlamına gelen bir söz ya da ifade ile çevrilebilir.
   * Bazen «doğru olanlar» mecazi olarak «kendini iyi sanan insanlar» ya da «sâlih görünen insanlar» anlamında kullanılır.
 
-===== Çeviri için öneriler =====
-
-  * «Doğru» terimi ayrıca «manevi açıdan iyi», «adil» ya da «Tanrı’yı hoşnut eden hayat süren» olarak çevrilebilir.
-  * «Doğru olanlar» ifadesi ayrıca «doğru insanlar», «sâlih insanlar» ya da «Tanrı’dan korkanlar» şeklinde çevrilebilir.
-  * Bazen «doğru olanlar» ile «kendini iyi sanan insanlar» ya da «sâlih görünen insanlar» kastedilir.
-  * Bağlama dayalı olarak, «doğruluk» ayrıca «Tanrı katında kâmil olma», «Tanrı’ya itaat ederek doğruluk yapma» ya da «mükemmel adil işler yapma» anlamına gelen bir sözle çevrilebilir.
-
-(See also: [[tr:obe:kt:good]], [[tr:obe:kt:holy]], [[tr:obe:kt:evil]], [[tr:obe:kt:justice]])
+(See also: [[:tr:obe:kt:good|iyi]], [[:tr:obe:kt:holy|kutsal]], [[:tr:obe:kt:evil|kötülük]], [[:tr:obe:kt:justice|adaletli]])
 
 ===== Bible References: =====
 
