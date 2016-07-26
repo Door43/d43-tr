@@ -17,14 +17,7 @@ Kutsal Kitap’ta «Tanrı’nın sözü» terimi genel olarak Tanrı’nın ins
   * «Kutsal yazı» ya da «kutsal yazılar» terimleri «Tanrı’nın yazılı mesajı» olarak çevrilebilir. Bu terimin «söz» teriminden farklı çevrilmesi gerekir.
   * «Söz» tek başına kullanıldığında, bağlama dayalı olarak, «mesaj», «Tanrı’nın mesajı» ya da «öğretiler» olarak çevrilebilir. Ayrıca yukarıda önerilen çeviri varyantlarını dikkate alın.
 
-===== Çeviri için öneriler =====
-
-  * Bağlama dayalı olarak bu terimin çevrilmesinin başka seçeneklerinden «Yahve’nin mesajı», «Tanrı’nın mesajı», «Tanrı’dan gelen öğretiler» şeklinde olabilir.
-  * Bazı dillerde bu terimin çoğulda kullanılması doğal olabilir, örneğin «Tanrı’nın sözleri» ya da «Yahve’nin sözleri.»
-  * «Tanrı’nın (ya da Yahve’nin) sözü geldi» ifadesi çoğu zaman Tanrı’nın peygamberine ya da halkına söylediği bir mesajdan önce kullanılır. Bu şöyle çevrilebilir: «Yahve bu sözleri söyledi» ya da «Tanrı bu mesajı verdi.»
-  * «Yazı» ya da «yazılar» terimleri «Tanrı’nın yazılı mesajı» olarak çevrilebilir. Bu terimin «söz» teriminden farklı çevrilmesi gerekir.
-
-(See also: [[tr:obe:kt:prophet]], [[tr:obe:kt:yahweh]], [[tr:obe:kt:prophet|peygamber, peygamberlik, peygamberlik etmek]], [[tr:obe:kt:yahweh|Yahve]])
+(See also: [[:tr:obe:kt:prophet|peygamber]], [[:tr:obe:kt:yahweh|Yahve]], [[:tr:obe:kt:prophet|peygamber, peygamberlik, peygamberlik etmek]], [[:tr:obe:kt:yahweh|Yahve]])
 
 ===== Bible References: =====
 
