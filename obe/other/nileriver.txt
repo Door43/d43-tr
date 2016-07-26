@@ -2,12 +2,14 @@
 
 ===== Gerçeklikler =====
 
-Nil Nehri kuzeydoğu Afrika’da bulunan çok büyük bir nehirdir.
+Nil Nehri kuzeydoğu Afrika’da bulunan çok uzun ve geniş bir nehirdir. Özellikle Mısır’ın en önemli nehri olarak tanınmaktadır.
+
   * Nil Nehri Mısır’da kuzeye doğru akar ve Akdeniz’e dökülür.
   * Verimli vadisinde ürünler çok iyi yetişir.
   * Nil Nehri önemli su ve yiyecek ürünlerin kaynağı olduğu için Mısırlıların çoğu onun yakınlığında yaşar.
+  * Musa bebekken bir sepet içinde Nil Nehri’ndeki bir sazlığa bırakıldı.
 
-(See: [[Egypt]])
+(See: [[:tr:obe:other:egypt|Mısır]])
 
 ===== Bible References: =====
 
