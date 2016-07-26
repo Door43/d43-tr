@@ -18,13 +18,7 @@
   * Bu terimin çevirisinin sadece bir dershanede ya da okulda eğitim alan öğrenciye ait olmamasına dikkat edin.
   * Bu terimin çevirisi «havari» teriminin çevirisinden farklı olmalı.
 
-===== Çeviri için öneriler =====
-
-  * «Öğrenci» terimi «takipçi», «öğrenen» anlamına gelen herhangi bir terim ya da ifade ile çevrilebilir.
-  * Bu terimin çevirisinin sadece bir dershanede ya da okulda eğitim alan öğrenciye ait olmamasına dikkat edin.
-  * Bu terimin çevirisi «havari» teriminin çevirisinden farklı olmalı.
-
-(See also: [[tr:obe:kt:apostle]], [[tr:obe:kt:believer]], [[tr:obe:kt:jesus]])
+(See also: [[:tr:obe:kt:apostle|havari]], [[:tr:obe:kt:believer|imanlı]], [[:tr:obe:kt:jesus|İsa]])
 
 ===== Bible References: =====
 
