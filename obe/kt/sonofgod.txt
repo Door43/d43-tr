@@ -16,12 +16,7 @@
   * «Oğul»u çevirmek için kullandığınız sözcüğün «baba»yı çevirmek için kullandığınız sözcüğe uygun olmasına ve bu sözcüklerin gerçek baba-oğul ilişkisini belirten en doğal kelimeler olmasına dikkat edin.
   * «Oğul» teriminin büyük harfle yazılması Tanrı’dan bahsedildiğinin anlaşılması açısından faydalıdır.
 
-===== Çeviri için öneriler =====
-
-  * «Oğul» sözünü, bu dilde beşeri bir babanın «oğlu» için doğal olarak kullanılan bir kelimeyle çevirmek en iyi olur.
-  * «Oğul»u çevirmek için kullandığınız sözcüğün «baba»yı çevirmek için kullandığınız sözcüğe uygun olmasına ve bu sözcüklerin gerçek baba-oğul ilişkisini belirten en doğal kelimeler olmasına dikkat edin.
-
-(See also: [[tr:obe:kt:jesus]], [[tr:obe:kt:christ]], [[tr:obe:kt:god]], [[tr:obe:kt:godthefather]], [[tr:obe:kt:jesus|İsa, İsa Mesih, Mesih İsa]], [[tr:obe:kt:christ|Mesih]], [[tr:obe:kt:god|Tanrı]], [[tr:obe:kt:godthefather|Baba Tanrı, Semavi Baba]])
+(See also: [[:tr:obe:kt:jesus|İsa]], [[:tr:obe:kt:christ|Mesih]], [[:tr:obe:kt:god|Tanrı]], [[:tr:obe:kt:godthefather|Baba Tanrı, Semavi Baba]], [[:tr:obe:kt:jesus|İsa, İsa Mesih, Mesih İsa]], [[:tr:obe:kt:christ|Mesih]], [[:tr:obe:kt:god|Tanrı]], [[:tr:obe:kt:godthefather|Baba Tanrı, Semavi Baba]])
 
 ===== Bible References: =====
 
