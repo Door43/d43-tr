@@ -25,10 +25,9 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:03-02|[03-02]]]** Ancak Nuh Tanrı’nın gözünde lütuf buldu. Nuh bütün kötü insanlar arasında tek **doğru** insandı.
-  ***[[:tr:obs:notes:frames:04-08|[04-08]]]** Vaadine inandığı için Tanrı Avram’ı **doğru** adam ilan etti.
-  ***[[:tr:obs:notes:frames:17-02|[17-02]]]** Davut, Tanrı’ya iman ve itaat eden alçakgönüllü ve **doğru** bir adamdı.
-  ***[[:tr:obs:notes:frames:23-01|[23-01]]]** Meryem’in nişanlı olduğu Yusuf **doğru** bir adamdı.
-  ***[[:tr:obs:notes:frames:50-10|[50-10]]]** “O zaman **doğru** kişiler, Baba Tanrı’nın Hükümranlığı’nda güneş gibi patlayacaklar.”
-
+  * **[[:tr:obs:notes:frames:03-02|[03-02]]]** Ancak Nuh Tanrı’nın gözünde lütuf buldu. Nuh bütün kötü insanlar arasında tek **doğru**  insandı.
+  * **[[:tr:obs:notes:frames:04-08|[04-08]]]** Vaadine inandığı için Tanrı Avram’ı **doğru**  adam ilan etti.
+  * **[[:tr:obs:notes:frames:17-02|[17-02]]]** Davut, Tanrı’ya iman ve itaat eden alçakgönüllü ve **doğru**  bir adamdı.
+  * **[[:tr:obs:notes:frames:23-01|[23-01]]]** Meryem’in nişanlı olduğu Yusuf **doğru**  bir adamdı.
+  * **[[:tr:obs:notes:frames:50-10|[50-10]]]** “O zaman **doğru**  kişiler, Baba Tanrı’nın Hükümranlığı’nda güneş gibi patlayacaklar.”
 ~~DISCUSSION~~{{tag>publish review ktobs}}
