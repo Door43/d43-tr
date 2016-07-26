@@ -25,9 +25,8 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:05-03|[05-03]]]** Ailende her erkek **sünnet** edilecek.
-  ***[[:tr:obs:notes:frames:05-05|[05-05]]]** O gün İbrahim evindeki bütün erkekleri **sünnet** ettirdi.
-
+  * **[[:tr:obs:notes:frames:05-03|[05-03]]]** Ailende her erkek **sünnet**  edilecek.
+  * **[[:tr:obs:notes:frames:05-05|[05-05]]]** O gün İbrahim evindeki bütün erkekleri **sünnet**  ettirdi.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
