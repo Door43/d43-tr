@@ -27,14 +27,10 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:30-08|[30-08]]]** Sonra İsa ekmeklerle balıkları parçalara böldü, parçaları halka dağıtsınlar diye **havarilerine** verdi. **Havariler** yiyeceği dağıtmaya devam etti ve yiyecek hiç bitmedi!
-  ***[[:tr:obs:notes:frames:38-01|[38-01]]]** İsa halka vazetmeye ve öğretmeye başladıktan üç yıl sonra **havarilerine** onlarla beraber Yeruşalim’de Fısıh Bayramı’nı kutlamak istediğini ve orada öldürüleceğini söyledi.​
-  ***[[:tr:obs:notes:frames:38-11|[38-11]]]** Sonra İsa **havarileriyle** birlikte Getsemani denen yere gitti. İsa, **havarilerine** ayartılmamak için dua etmelerini söyledi.
-  ***[[:tr:obs:notes:frames:42-10|[42-10]]]** İsa **imanlılara** şöyle dedi: “Gökte ve yerde bütün yetki bana verildi. Bu yüzden gidin, bütün milletleri **imanlı** olarak yetiştirin. Onları Baba, Oğul ve Kutsal Ruh adıyla vaftiz edin. Size emrettiğim her şeye itaat etmeyi öğretin. Unutmayın, ben her zaman sizinle olacağım!”
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:30-08|[30-08]]]** Sonra İsa ekmeklerle balıkları parçalara böldü, parçaları halka dağıtsınlar diye **havarilerine**  verdi. **Havariler**  yiyeceği dağıtmaya devam etti ve yiyecek hiç bitmedi!
+  * **[[:tr:obs:notes:frames:38-01|[38-01]]]** İsa halka vaaz etmeye ve öğretmeye başladıktan üç yıl sonra **havarilerine**  onlarla beraber Yeruşalim’de Fısıh Bayramı’nı kutlamak istediğini ve orada öldürüleceğini söyledi.​​
+  * **[[:tr:obs:notes:frames:38-11|[38-11]]]** Sonra İsa **havarileriyle**  birlikte Getsemani denen yere gitti. İsa, **havarilerine**  ayartılmamak için dua etmelerini söyledi.
+  * **[[:tr:obs:notes:frames:42-10|[42-10]]]** İsa **imanlılara**  şöyle dedi: “Gökte ve yerde bütün yetki bana verildi. Bu yüzden gidin, bütün milletleri **imanlı**  olarak yetiştirin. Onları Baba, Oğul ve Kutsal Ruh adıyla vaftiz edin. Size emrettiğim her şeye itaat etmeyi öğretin. Unutmayın, ben her zaman sizinle olacağım!”
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
