@@ -28,10 +28,9 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:08-06|[08-06]]]** Üstünden iki yıl geçmişti, Yusuf **suçsuz** olmasına rağmen hâlâ zindandaydı.
-  ***[[:tr:obs:notes:frames:40-04|[40-04]]]** Mahkûmlardan biri İsa’yla alay etti, diğeri ise, “Sen hiç Tanrı’dan korkmuyor musun? Biz suçluyuz, bu adam ise **suçsuz**.” dedi.
-  ***[[:tr:obs:notes:frames:40-08|[40-08]]]** İsa’yı gözeten asker, olanları görünce, “Şüphesiz, bu adam **suçsuzdu**. Tanrı’nın Oğlu’ydu!” dedi.
-
+  * **[[:tr:obs:notes:frames:08-06|[08-06]]]** Üstünden iki yıl geçmişti, Yusuf **suçsuz**  olmasına rağmen hâlâ zindandaydı.
+  * **[[:tr:obs:notes:frames:40-04|[40-04]]]** Mahkûmlardan biri İsa’yla alay etti, diğeri ise, “Sen hiç Tanrı’dan korkmuyor musun? Biz suçluyuz, bu adam ise **suçsuz**.” dedi.
+  * **[[:tr:obs:notes:frames:40-08|[40-08]]]** İsa’yı gözeten asker, olanları görünce, “Şüphesiz, bu adam **suçsuzdu**. Tanrı’nın Oğlu’ydu!” dedi.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
