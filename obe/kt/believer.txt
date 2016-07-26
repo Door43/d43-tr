@@ -22,12 +22,11 @@ Kutsal Kitap’ta «imanlı» terimi özellikle İsa Mesih’e iman eden ve Kurt
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:43-01|[43-01]]]** İsa göğe döndükten sonra havarilerle diğer **imanlılar** -İsa’nın buyurduğu gibi- Yeruşalim’de kaldılar ve sürekli dua etmek için toplanmaya başladılar.
-  ***[[:tr:obs:notes:frames:43-03|[43-03]]]** **İmanlılar** bir aradaydı. Ansızın bulundukları ev şiddetli rüzgârın sesine benzer bir sesle doldu. Sonra ateşten dillere benzer bir şeyler her **imanlının** başı üzerine indi. Hepsi Kutsal Ruh’la dolup başka dillerde konuşmaya başladı.
-  ***[[:tr:obs:notes:frames:43-13|[43-13]]]** Her gün daha çok insan **imana** geliyordu.
-  ***[[:tr:obs:notes:frames:46-06|[46-06]]]** O günlerde Yeruşalim’deki insanların çoğu İsa’nın takipçilerine zulmetmeye başladı ve **imanlılar** başka yerlere kaçtılar. Buna rağmen gittikleri her yerde İsa hakkında konuştular.
-  ***[[:tr:obs:notes:frames:46-01|[46-01]]]** Saul, İstefanos’u öldürenlerin elbiselerini bekleyen genç adamdı. İsa’ya iman etmiyordu, bu sebeple **imanlılara** zulmediyordu.
-  ***[[:tr:obs:notes:frames:46-09|[46-09]]]** Zulüm yüzünden Yeruşalim’den kaçan bazı **imanlılar** Antakya’ya kadar gittiler ve İsa hakkında vazettiler... İsa’ya **iman edenlere** ilk kez Antakya’da «Hristiyan», yani Mesih inanlısı adı verildi.
-  ***[[:tr:obs:notes:frames:47-14|[47-14]]]** Ayrıca kiliselerdeki **imanlılara** cesaret vermek ve öğretmek amacıyla çok mektup yazdılar.
-
+  * **[[:tr:obs:notes:frames:43-01|[43-01]]]** İsa göğe döndükten sonra havarilerle diğer **imanlılar**  -İsa’nın buyurduğu gibi- Yeruşalim’de kaldılar ve sürekli dua etmek için toplanmaya başladılar.
+  * **[[:tr:obs:notes:frames:43-03|[43-03]]]****İmanlılar**  bir aradaydı. Ansızın bulundukları ev şiddetli rüzgârın sesine benzer bir sesle doldu. Sonra ateşten dillere benzer bir şeyler her **imanlının**  başı üzerine indi. Hepsi Kutsal Ruh’la dolup başka dillerde konuşmaya başladı.
+  * **[[:tr:obs:notes:frames:43-13|[43-13]]]** Her gün daha çok insan **imana**  geliyordu.
+  * **[[:tr:obs:notes:frames:46-06|[46-06]]]** O günlerde Yeruşalim’deki insanların çoğu İsa’nın takipçilerine zulmetmeye başladı ve **imanlılar**  başka yerlere kaçtılar. Buna rağmen gittikleri her yerde İsa hakkında konuştular.
+  * **[[:tr:obs:notes:frames:46-01|[46-01]]]** Saul, İstefanos’u öldürenlerin elbiselerini bekleyen genç adamdı. İsa’ya iman etmiyordu, bu sebeple **imanlılara**  zulmediyordu.
+  * **[[:tr:obs:notes:frames:46-09|[46-09]]]** Zulüm yüzünden Yeruşalim’den kaçan bazı **imanlılar**  Antakya’ya kadar gittiler ve İsa hakkında vaaz ettiler... İsa’ya **iman edenlere**  ilk kez Antakya’da «Hristiyan», yani Mesih inanlısı adı verildi.
+  * **[[:tr:obs:notes:frames:47-14|[47-14]]]** Ayrıca kiliselerdeki **imanlılara**  cesaret vermek ve öğretmek amacıyla çok mektup yazdılar.
 ~~DISCUSSION~~{{tag>publish ktobs}}
