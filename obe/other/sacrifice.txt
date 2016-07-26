@@ -3,12 +3,18 @@
 ===== Tanım =====
 
 «Sunu» Tanrı’ya ya da bir puta sunulabilecek her şeye ait kullanılan genel terimdir. Kurban buna benzerdir, ama genellikle boğazlanıp Tanrı’ya ya da bir puta sunulan hayvanlara ait olarak kullanılır.
-  * Kutsal Kitap’ta sunular ve kurbanlar Tanrı’ya tapınma olarak verilirdi.
-  * Tanrı İsraillilerden birkaç çeşitli kurban ve sunu vermelerini talep ederdi. Bunlara Tanrı’dan günah affetmesini dileme ve bereket için şükretme dahildi. Bu sunulardan bazısı «yakmalık sunu», «günah sunusu», «tahıl sunusu» ve «dökmelik sunu» idi.
+
+  * Kutsal Kitap’ta sunular ve kurbanlar Tanrı’ya ibadet amacıyla verilirdi.
+  * Tanrı İsraillilerden birkaç çeşitten kurban ve sunu vermelerini talep ederdi. Bunlara Tanrı’dan günah affetmesini dileme ve bereket için şükretme amacıyla sunulan sunular dahildi. Bu sunulardan bazısı «yakmalık sunu», «günah sunusu», «tahıl sunusu» ve «dökmelik sunu» idi.
   * Sunuların adları neyin ve ne amaçla sunulmasına bağlıydı.
   * Sadece Tanrı’nın kâmil, günahsız Oğlu İsa’nın kurbanı insanları tamamen günahtan temizleyebilir. Hayvan kurbanları bunu asla yapamazdı.
 
-(See also: [[tr:obe:kt:priest]], [[tr:obe:other:altar]], [[tr:obe:kt:priest|kâhin]], [[tr:obe:other:altar|sunak]], [[tr:obe:other:burntoffering]], [[tr:obe:other:sinoffering]], [[tr:obe:other:drinkoffering]])
+===== Çeviri için öneriler =====
+
+  * «Sunu» «Tanrı’ya sunulan armağan», «Tanrı’ya verilen şey», «Tanrı’ya sunulan değerli bir şey» ya da «kutsal armağan» olarak çevrilebilir.
+  * «Kurban» «boğazlanıp Tanrı’ya verilen hayvan», «Tanrı’ya sunulan et» ya da «puta sunulan et» şeklinde çevrilebilir.”
+
+(See also: [[:tr:obe:kt:priest|kâhin]], [[:tr:obe:other:altar|sunak]], [[:tr:obe:kt:priest|kâhin]], [[:tr:obe:other:altar|sunak]], [[:tr:obe:other:burntoffering|burnt offering, offering by fire]], [[:tr:obe:other:sinoffering|sin offering]], [[:tr:obe:other:drinkoffering|drink offering]])
 
 ===== Bible References: =====
 
