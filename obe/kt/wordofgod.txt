@@ -25,14 +25,13 @@ Kutsal Kitap’ta «Tanrı’nın sözü» terimi genel olarak Tanrı’nın ins
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:25-07|[25-07]]]** **Tanrı, Sözü**’nde halkına şöyle buyuruyor: ‘Yalnız Tanrın Rab’be tapacaksın, yalnız O’na kulluk edeceksin!’
-  ***[[:tr:obs:notes:frames:33-06|[33-06]]]** Dolayısıyla İsa onlara açıkladı: “Tohum **Tanrı’nın sözüdür**.”
-  ***[[:tr:obs:notes:frames:42-03|[42-03]]]** Bunun üzerine İsa onlara **Tanrı’nın Sözü**’nde Mesih’le ilgili yazılmış olanları açıkladı.
-  ***[[:tr:obs:notes:frames:42-07|[42-07]]]** İsa, “Size demiştim, **Tanrı’nın Sözü**’nde benimle ilgili yazılmış olan her şeyin yerine gelmesi gerekir.” dedi. Sonra **Tanrı’nın Sözü**’nü anlayabilmeleri için zihinlerini açtı.
-  ***[[:tr:obs:notes:frames:45-10|[45-10]]]** Filipus... İsa’nın müjdesini anlatmak için ayrıca **kutsal yazıların** başka yerlerini de ona gösterdi.
-  ***[[:tr:obs:notes:frames:48-12|[48-12]]]** Fakat İsa peygamberlerin en büyüğüdür. O **Tanrı’nın Sözü**’dür.
-  ***[[:tr:obs:notes:frames:49-18|[49-18]]]** Tanrı sana dua etmeyi, **sözünü** araştırmayı, başka Mesih inanlılarıyla birlikte tapınmayı ve senin için yaptıklarını başkalarına anlatmayı buyuruyor.
-
+  * **[[:tr:obs:notes:frames:25-07|[25-07]]]****Tanrı, Sözü**’nde halkına şöyle buyuruyor: ‘Yalnız Tanrın Rab’be tapacaksın, yalnız O’na kulluk edeceksin!’
+  * **[[:tr:obs:notes:frames:33-06|[33-06]]]** Dolayısıyla İsa onlara açıkladı: “Tohum **Tanrı’nın sözüdür**.”
+  * **[[:tr:obs:notes:frames:42-03|[42-03]]]** Bunun üzerine İsa onlara **Tanrı’nın Sözü**’nde Mesih’le ilgili yazılmış olanları açıkladı.
+  * **[[:tr:obs:notes:frames:42-07|[42-07]]]** İsa, “Size demiştim, **Tanrı’nın Sözü**’nde benimle ilgili yazılmış olan her şeyin yerine gelmesi gerekir.” dedi. Sonra **Tanrı’nın Sözü**’nü anlayabilmeleri için zihinlerini açtı.
+  * **[[:tr:obs:notes:frames:45-10|[45-10]]]** Filipus... İsa’nın müjdesini anlatmak için ayrıca **kutsal yazıların**  başka yerlerini de ona gösterdi.
+  * **[[:tr:obs:notes:frames:48-12|[48-12]]]** Fakat İsa peygamberlerin en büyüğüdür. O **Tanrı’nın Sözü**’dür.
+  * **[[:tr:obs:notes:frames:49-18|[49-18]]]** Tanrı sana dua etmeyi, **sözünü**  araştırmayı, başka Mesih inanlılarıyla birlikte tapınmayı ve senin için yaptıklarını başkalarına anlatmayı buyuruyor.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
