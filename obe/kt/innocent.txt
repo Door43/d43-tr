@@ -20,14 +20,7 @@
   * Yahuda «suçsuz kana ihanet ettim» söylediğinde aslında «yanlış bir şey yapmayan bir adama ihanet ettim» ya da «günahsız olan adamın ölümüne sebep oldum» söylemiş oldu.
   * Pilatus’un İsa hakkında söylediği «Bu suçsuz adamın kanından suçsuzum» sözünü şöyle çevirmek mümkündür: «Öldürülmeyi hak edecek hiçbir kötülük yapmayan bu adamın öldürülmesinden sorumlu değilim.»
 
-===== Çeviri için öneriler =====
-
-  * «Suçsuz» terimi «yanlış bir şey yapmamış» olarak da çevrilebilir.
-  * Mümkünse «günahsız» ve «suçsuz» ayrı terimlerle çevrilmeli.
-  * Sıkça kullanılan «suçsuz kan» deyimi şöyle çevrilebilir: «öldürülmeyi hak edecek bir kötülük yapmayan insanlar.»
-  * Bağlama dayalı olarak, «suçsuz» sözcüğünün çevrilmesinin diğer seçenekleri «saf», «temiz» ya da «kötülüğü olmayan» olabilir.
-
-(See also: [[tr:obe:kt:guilt]], [[tr:obe:kt:guilt|suç, suçlu]])
+(See also: [[:tr:obe:kt:guilt|suç]], [[:tr:obe:kt:guilt|suç, suçlu]])
 
 ===== Bible References: =====
 
