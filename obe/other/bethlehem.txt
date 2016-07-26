@@ -17,9 +17,8 @@ Beytlehem İsrail’de Yeruşalim kentinin yakınlığında bulunan küçük bir
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:17-02|[17-02]]]** Davut **Beytlehem** kentinden bir çobandı.
-  ***[[:tr:obs:notes:frames:21-09|[21-09]]]** Yeşaya Peygamber Mesih’in bakireden doğuşunu müjdeledi. Mika Peygamber onun **Beytlehem** kentinde doğacağını ilan etti.
-  ***[[:tr:obs:notes:frames:23-04|[23-04]]]** Nasıra kentinde oturan Yusuf’la Meryem, babaları Davut’un doğduğu kent **Beytlehem**’e uzun yol gitmeye mecbur oldular.
-  ***[[:tr:obs:notes:frames:23-06|[23-06]]]** “**Beytlehem**’de Efendimiz Mesih doğdu!”
-
+  * **[[:tr:obs:notes:frames:17-02|[17-02]]]** Davut **Beytlehem**  kentinden bir çobandı.
+  * **[[:tr:obs:notes:frames:21-09|[21-09]]]** Yeşaya Peygamber Mesih’in bakireden doğuşunu müjdeledi. Mika Peygamber onun **Beytlehem**  kentinde doğacağını ilan etti.
+  * **[[:tr:obs:notes:frames:23-04|[23-04]]]** Nasıra kentinde oturan Yusuf’la Meryem, babaları Davut’un doğduğu kent **Beytlehem**’e uzun yol gitmeye mecbur oldular.
+  * **[[:tr:obs:notes:frames:23-06|[23-06]]]** “**Beytlehem**’de Efendimiz Mesih doğdu!”
 ~~DISCUSSION~~{{tag>publish ktobs}}
