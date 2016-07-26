@@ -27,10 +27,9 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:09-11|[09-11]]]** Musa Mısır’dan uzak bir çölde **çoban** oldu.
-  ***[[:tr:obs:notes:frames:17-02|[17-02]]]** Davut Beytlehem kentinden bir **çobandı**. Babasının sürülerine baktığı sırada koyunlara saldıran aslanı ve ayıyı öldürdüğü zamanlar olmuştu.
-  ***[[:tr:obs:notes:frames:23-06|[23-06]]]** O gece o yörede sürülerini güden **çobanlar** vardı.
-  ***[[:tr:obs:notes:frames:23-08|[23-08]]]** Çok geçmeden **çobanlar** İsa’nın olduğu yere vardılar. Meleğin dediği gibi yemlikte yatan İsa’yı bulunca sevinçten coştular.
-  ***[[:tr:obs:notes:frames:30-03|[30-03]]]** İsa, **çobansız** bir sürüye benzeyen bu halka çok acıdı.
-
+  * **[[:tr:obs:notes:frames:09-11|[09-11]]]** Musa Mısır’dan uzak bir çölde **çoban**  oldu.
+  * **[[:tr:obs:notes:frames:17-02|[17-02]]]** Davut Beytlehem kentinden bir **çobandı**. Babasının sürülerine baktığı sırada koyunlara saldıran aslanı ve ayıyı öldürdüğü zamanlar olmuştu.
+  * **[[:tr:obs:notes:frames:23-06|[23-06]]]** O gece o yörede sürülerini güden **çobanlar**  vardı.
+  * **[[:tr:obs:notes:frames:23-08|[23-08]]]** Çok geçmeden **çobanlar**  İsa’nın olduğu yere vardılar. Meleğin dediği gibi yemlikte yatan İsa’yı bulunca sevinçten coştular.
+  * **[[:tr:obs:notes:frames:30-03|[30-03]]]** İsa, **çobansız**  bir sürüye benzeyen bu halka çok acıdı.
 ~~DISCUSSION~~{{tag>publish ktobs}}
