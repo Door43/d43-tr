@@ -24,8 +24,7 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:27-01|[27-01]]]** Bir gün Tevrat bilginlerinden biri İsa’yı denemek amacıyla O’na, “Hocam, **ebedî hayatı** miras almak için ne yapmalıyım?” diye sordu.
-  ***[[:tr:obs:notes:frames:28-01|[28-01]]]** Bir gün zengin bir genç İsa’ya yaklaşıp, “İyi Hocam, **ebedî hayata** kavuşmak için ne yapmalıyım?” diye sordu. İsa ona dedi: “Bana neden iyi diyorsun? İyi olan yalnız Tanrı’dır. **Ebedî hayata** kavuşmak istiyorsan, Tanrı’nın emirlerine uyacaksın.”
-  ***[[:tr:obs:notes:frames:28-10|[28-10]]]** İsa şöyle cevap verdi: “Evini, kardeşlerini, babasını, annesini, çocuklarını ya da mal mülkünü benim uğruma bırakan herkes, bunların 100 katını alacak ve üstelik b>ebedî hayata** kavuşacak.”
-
+  * **[[:tr:obs:notes:frames:27-01|[27-01]]]** Bir gün Tevrat bilginlerinden biri İsa’yı denemek amacıyla O’na, “Hocam, **ebedî hayatı**  miras almak için ne yapmalıyım?” diye sordu.
+  * **[[:tr:obs:notes:frames:28-01|[28-01]]]** Bir gün zengin bir genç İsa’ya yaklaşıp, “İyi Hocam, **ebedî hayata**  kavuşmak için ne yapmalıyım?” diye sordu. İsa ona dedi: “Bana neden iyi diyorsun? İyi olan yalnız Tanrı’dır. **Ebedî hayata**  kavuşmak istiyorsan, Tanrı’nın emirlerine uyacaksın.”
+  * **[[:tr:obs:notes:frames:28-10|[28-10]]]** İsa şöyle cevap verdi: “Evini, kardeşlerini, babasını, annesini, çocuklarını ya da mal mülkünü benim uğruma bırakan herkes, bunların 100 katını alacak ve üstelik b>ebedî hayata kavuşacak.”
 ~~DISCUSSION~~{{tag>publish ktobs}}
