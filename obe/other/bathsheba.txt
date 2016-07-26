@@ -19,15 +19,11 @@ Bat-Şeva, Davut’un ordusunda bir asker olan Uriya’nın eşiydi. Bat-Şeva D
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:17-10|[17-10]]]** Bir gün Davut’un bütün askerleri evden uzakta, savaştayken, Davut gündüz şekerlemeden sonra kalktı, dışarı baktı ve yıkanmakta olan güzel bir kadın gördü. Kadının adı **Bat-Şeva**’ydı.
-  ***[[:tr:obs:notes:frames:17-11|[17-11]]]** Bir süre sonra **Bat-Şeva** hamile olduğu haberini Davut’a gönderdi.
-  ***[[:tr:obs:notes:frames:17-12|[17-12]]]** **Bat-Şeva**’nın kocası, Davut’un en iyi askerlerinden biri Uriya’ydı.
-  ***[[:tr:obs:notes:frames:17-13|[17-13]]]** Uriya öldürüldükten sonra Davut **Bat-Şeva**’yla evlendi.
-  ***[[:tr:obs:notes:frames:17-14|[17-14]]]** Daha sonra Davut’la **Bat-Şeva**’nın başka bir oğlu oldu ve ona Süleyman adını verdiler.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:17-10|[17-10]]]** Bir gün Davut’un bütün askerleri evden uzakta, savaştayken, Davut gündüz şekerlemeden sonra kalktı, dışarı baktı ve yıkanmakta olan güzel bir kadın gördü. Kadının adı **Bat-Şeva**’ydı.
+  * **[[:tr:obs:notes:frames:17-11|[17-11]]]** Bir süre sonra **Bat-Şeva**  hamile olduğu haberini Davut’a gönderdi.
+  * **[[:tr:obs:notes:frames:17-12|[17-12]]]****Bat-Şeva**’nın kocası, Davut’un en iyi askerlerinden biri Uriya’ydı.
+  * **[[:tr:obs:notes:frames:17-13|[17-13]]]** Uriya öldürüldükten sonra Davut **Bat-Şeva**’yla evlendi.
+  * **[[:tr:obs:notes:frames:17-14|[17-14]]]** Daha sonra Davut’la **Bat-Şeva**’nın başka bir oğlu oldu ve ona Süleyman adını verdiler.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
