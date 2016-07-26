@@ -12,12 +12,7 @@
   * Bu terimin çeşitli çeviri seçenekleri arasında «iyi haber», «iyi bildiri», «Tanrı’nın kurtuluş bildirisi» ya da «Tanrı’nın İsa hakkında öğrettiği iyi şeyler» gibi ifadeler olabilir.
   * Bağlama dayalı olarak, «...dair sevindirici haber» ifadesini şöyle çevirmek mümkündür: «...hakkında iyi haber» ya da «...den iyi mesaj» ya da «Tanrı’nın bize ... hakkında söylediği iyi haber» ya da «Tanrı’nın insanları nasıl kurtardığına dair söyledikleri.»
 
-===== Çeviri için öneriler =====
-
-  * Bu terimin çeşitli çeviri seçenekleri arasında «iyi haber», «iyi bildiri», «Tanrı’nın kurtuluş bildirisi» ya da «Tanrı’nın İsa hakkında öğrettiği iyi şeyler» gibi ifadeler olabilir.
-  * Bağlama dayalı olarak, «...dair sevindirici haber» ifadesini şöyle çevirmek mümkündür: «...hakkında iyi haber» ya da «...den iyi mesaj» ya da «Tanrı’nın bize ... hakkında söylediği iyi haber» ya da «Tanrı’nın insanları nasıl kurtardığına dair söyledikleri.»
-
-(See: [[:tr:obe:kt:salvation]], [[:tr:obe:other:sacrifice]], [[:tr:obe:other:kingdom]])
+(See: [[:tr:obe:kt:salvation|salvation]], [[:tr:obe:other:sacrifice|kurban]], [[:tr:obe:other:kingdom|krallık]])
 
 ===== Bible References: =====
 
