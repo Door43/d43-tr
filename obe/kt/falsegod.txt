@@ -19,14 +19,7 @@ Yalancı tanrı, insanların tek gerçek Tanrı’dan başka taptığı bir şey
   * Başka bir seçenek, yalancı tanrılara ait olarak değişik sözcüğün kullanılmasıdır.
   * Bazı dillerde yalancı tanrının erkek ya da dişi olduğunu belirten bir sözcüğün eklenmesi gerekebilir.
 
-===== Çeviri için öneriler =====
-
-  * Dilinizde ya da ona yakın bir dilde «yalancı tanrı» ya da «ilâh» kavramı için bir terim  artık bulunuyor olabilir.
-  * «Put» terimi yalancı tanrılara ait olarak kullanılabilir.
-  * Türkçe küçük “t” ile başlayan sözcük yalancı tanrılara, büyük “T” ile başlayan sözcük ise tek gerçek Tanrı’ya ait olarak kullanılır. Bu, başka diller için de söz konusudur.
-  * Başka bir seçenek, yalancı tanrılara ait olarak değişik sözcüğün kullanılmasıdır.
-
-(See also: [[tr:obe:kt:god]], [[tr:obe:kt:demon]], [[tr:obe:kt:god|Tanrı]], [[tr:obe:kt:demon|cin, kötü ruh]])
+(See also: [[:tr:obe:kt:god|Tanrı]], [[:tr:obe:kt:demon|cin]], [[:tr:obe:kt:god|Tanrı]], [[:tr:obe:kt:demon|cin, kötü ruh]])
 
 ===== Bible References: =====
 
