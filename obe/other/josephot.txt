@@ -17,16 +17,12 @@ Yusuf Yakup’un on birinci ve annesi Rahel’in birinci oğluydu.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:08-02|[08-02]]]** Kardeşleri **Yusuf**’tan nefret ediyorlardı, çünkü babaları onu en çok severdi ve Yusuf onların üzerinde hâkim olacağını hayal ederdi.
-  ***[[:tr:obs:notes:frames:08-04|[08-04]]]** Köle tüccarları **Yusuf**’u Mısır’a götürdüler.
-  ***[[:tr:obs:notes:frames:08-05|[08-05]]]** **Yusuf** zindanda bile Tanrı’ya sadık kaldı ve Tanrı onu kutsadı.
-  ***[[:tr:obs:notes:frames:08-07|[08-07]]]** Tanrı’nın **Yusuf**’a rüya yorumlama yeteneği verdiğini duyan firavun, Yusuf’un zindandan getirilmesini buyurdu.
-  ***[[:tr:obs:notes:frames:08-09|[08-09]]]** **Yusuf** tüm halka bol hasatlı yedi yıl boyunca çok miktarda erzakın saklanmasını buyurdu.
-  ***[[:tr:obs:notes:frames:09-02|[09-02]]]** Mısırlılar artık **Yusuf**’u, onlara yardım etmek için bütün ettiklerini unutmuşlardı.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:08-02|[08-02]]]** Kardeşleri **Yusuf**’tan nefret ediyorlardı, çünkü babaları onu en çok severdi ve Yusuf onların üzerinde hâkim olacağını hayal ederdi.
+  * **[[:tr:obs:notes:frames:08-04|[08-04]]]** Köle tüccarları **Yusuf**’u Mısır’a götürdüler.
+  * **[[:tr:obs:notes:frames:08-05|[08-05]]]****Yusuf**  zindanda bile Tanrı’ya sadık kaldı ve Tanrı onu kutsadı.
+  * **[[:tr:obs:notes:frames:08-07|[08-07]]]** Tanrı’nın **Yusuf**’a rüya yorumlama yeteneği verdiğini duyan firavun, Yusuf’un zindandan getirilmesini buyurdu.
+  * **[[:tr:obs:notes:frames:08-09|[08-09]]]****Yusuf**  tüm halka bol hasatlı yedi yıl boyunca çok miktarda erzakın saklanmasını buyurdu.
+  * **[[:tr:obs:notes:frames:09-02|[09-02]]]** Mısırlılar artık **Yusuf**’u, onlara yardım etmek için bütün ettiklerini unutmuşlardı.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
