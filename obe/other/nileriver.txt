@@ -18,14 +18,10 @@ Nil Nehri kuzeydoğu Afrika’da bulunan çok uzun ve geniş bir nehirdir. Özel
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:08-04|[08-04]]]** Mısır **Nil Nehri**’nin kıyısında bulunan büyük, kudretli bir ülkeydi.
-  ***[[:tr:obs:notes:frames:09-04|[09-04]]]** İsraillilerin çocuklarının çoğaldığını gören firavun kendi halkına İsraillilerin yeni doğan erkek bebeklerini **Nil Nehri**’ne atarak öldürmelerini buyurdu.
-  ***[[:tr:obs:notes:frames:09-06|[09-06]]]** Annesi babası bebeği artık saklayamaz olunca öldürülmesin diye bebeği bir sepete koyarak **Nil Nehri**’ndeki bir sazlığa bıraktılar.
-  ***[[:tr:obs:notes:frames:10-03|[10-03]]]** Tanrı **Nil Nehri**’ni kana dönüştürdü, fakat firavun hâlâ İsraillileri salıvermek istemedi.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:08-04|[08-04]]]** Mısır **Nil Nehri**’nin kıyısında bulunan büyük, kudretli bir ülkeydi.
+  * **[[:tr:obs:notes:frames:09-04|[09-04]]]** İsraillilerin çocuklarının çoğaldığını gören firavun kendi halkına İsraillilerin yeni doğan erkek bebeklerini **Nil Nehri**’ne atarak öldürmelerini buyurdu.
+  * **[[:tr:obs:notes:frames:09-06|[09-06]]]** Annesi babası bebeği artık saklayamaz olunca öldürülmesin diye bebeği bir sepete koyarak **Nil Nehri**’ndeki bir sazlığa bıraktılar.
+  * **[[:tr:obs:notes:frames:10-03|[10-03]]]** Tanrı **Nil Nehri**’ni kana dönüştürdü, fakat firavun hâlâ İsraillileri salıvermek istemedi.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
