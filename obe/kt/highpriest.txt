@@ -22,19 +22,15 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:13-08|[13-08]]]** Perdenin arkasındaki odaya yalnız **baş kâhin** girebilirdi, çünkü orada Tanrı yaşıyordu.
-  ***[[:tr:obs:notes:frames:21-07|[21-07]]]** Gelecek olan Mesih, kendini Tanrı’ya kâmil kurban olarak sunan kâmil bir **kâhin** olacaktı.
-  ***[[:tr:obs:notes:frames:38-03|[38-03]]]** Yahudi ileri gelenleri **baş kâhinin** öncülüğünde İsa’yı teslim etmesi için Yahuda’ya otuz gümüş para ödedi.
-  ***[[:tr:obs:notes:frames:39-01|[39-01]]]** Askerler İsa’yı sorgulanması için **baş kâhinin** sarayına götürdüler.
-  ***[[:tr:obs:notes:frames:39-03|[39-03]]]** Sonunda **baş kâhin** dosdoğru İsa’nın yüzüne bakarak, “Bize söyle, Yaşayan Tanrı’nın Oğlu Mesih sen misin?” dedi.
-  ***[[:tr:obs:notes:frames:44-07|[44-07]]]** Ertesi gün Yahudi ileri gelenleri Petrus’la Yuhanna’yı **baş kâhinin** ve diğer din alimlerinin önüne çıkardılar.
-  ***[[:tr:obs:notes:frames:45-02|[45-02]]]** Bunun üzerine din alimleri İstefanos’u yakalayıp **baş kâhinin** ve diğer Yahudi ileri gelenlerinin önüne getirdiler. Oraya İstefanos’a karşı yalan ifadelerde bulunan daha çok şahit gelmişti.
-  ***[[:tr:obs:notes:frames:46-01|[46-01]]]** **Baş kâhin** Saul’un Şam kentine gitmesi, oradaki Mesih inanlılarını yakalayıp Yeruşalim’e getirmesi için izin verdi.
-  ***[[:tr:obs:notes:frames:48-06|[48-06]]]** İsa Büyük **Baş Kâhin**’dir. Başka kâhinlerden faklı olarak İsa, dünyadaki insanların günahlarını ortadan kaldırabilecek tek kurban olarak kendini sundu. İsa, herkesin işlediği her günahın cezasını kendi üstüne alan kâmil **baş kâhin** oldu.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:13-08|[13-08]]]** Perdenin arkasındaki odaya yalnız **baş kâhin**  girebilirdi, çünkü orada Tanrı yaşıyordu.
+  * **[[:tr:obs:notes:frames:21-07|[21-07]]]** Gelecek olan Mesih, kendini Tanrı’ya kâmil kurban olarak sunan kâmil bir **kâhin**  olacaktı.
+  * **[[:tr:obs:notes:frames:38-03|[38-03]]]** Yahudi ileri gelenleri **baş kâhinin**  öncülüğünde İsa’yı teslim etmesi için Yahuda’ya otuz gümüş para ödedi.
+  * **[[:tr:obs:notes:frames:39-01|[39-01]]]** Askerler İsa’yı sorgulanması için **baş kâhinin**  sarayına götürdüler.
+  * **[[:tr:obs:notes:frames:39-03|[39-03]]]** Sonunda **baş kâhin**  dosdoğru İsa’nın yüzüne bakarak, “Bize söyle, Yaşayan Tanrı’nın Oğlu Mesih sen misin?” dedi.
+  * **[[:tr:obs:notes:frames:44-07|[44-07]]]** Ertesi gün Yahudi ileri gelenleri Petrus’la Yuhanna’yı **baş kâhinin**  ve diğer din alimlerinin önüne çıkardılar.
+  * **[[:tr:obs:notes:frames:45-02|[45-02]]]** Bunun üzerine din alimleri İstefanos’u yakalayıp **baş kâhinin**  ve diğer Yahudi ileri gelenlerinin önüne getirdiler. Oraya İstefanos’a karşı yalan ifadelerde bulunan daha çok şahit gelmişti.
+  * **[[:tr:obs:notes:frames:46-01|[46-01]]]****Baş kâhin**  Saul’un Şam kentine gitmesi, oradaki Mesih inanlılarını yakalayıp Yeruşalim’e getirmesi için izin verdi.
+  * **[[:tr:obs:notes:frames:48-06|[48-06]]]** İsa Büyük **Baş Kâhin**’dir. Başka kâhinlerden faklı olarak İsa, dünyadaki insanların günahlarını ortadan kaldırabilecek tek kurban olarak kendini sundu. İsa, herkesin işlediği her günahın cezasını kendi üstüne alan kâmil **baş kâhin**  oldu.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
