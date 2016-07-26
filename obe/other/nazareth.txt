@@ -17,13 +17,9 @@ Nasıra, kuzey İsrail’de bulunan Celile bölgesinde bir kenttir.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:23-04|[23-04]]]** **Nasıra** kentinde oturan Yusuf’la Meryem, babaları Davut’un doğduğu kent Beytlehem’e uzun yol gitmeye mecbur oldular.
-  ***[[:tr:obs:notes:frames:26-02|[26-02]]]** İsa çocukluğunda yaşadığı **Nasıra** kentine gitti.
-  ***[[:tr:obs:notes:frames:26-07|[26-07]]]** **Nasıralılar** İsa’yı havradan dışarı çıkardılar, uçurumdan aşağı atıp öldürmek amacıyla tepenin yamacına götürdüler.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:23-04|[23-04]]]****Nasıra**  kentinde oturan Yusuf’la Meryem, babaları Davut’un doğduğu kent Beytlehem’e uzun yol gitmeye mecbur oldular.
+  * **[[:tr:obs:notes:frames:26-02|[26-02]]]** İsa çocukluğunda yaşadığı **Nasıra**  kentine gitti.
+  * **[[:tr:obs:notes:frames:26-07|[26-07]]]****Nasıralılar**  İsa’yı havradan dışarı çıkardılar, uçurumdan aşağı atıp öldürmek amacıyla tepenin yamacına götürdüler.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
