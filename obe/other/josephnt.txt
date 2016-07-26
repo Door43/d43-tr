@@ -19,11 +19,10 @@ Yusuf İsa’yı oğlu olarak büyüten dünyevi babasıydı.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:22-04|[22-04]]]** Meryem bakireydi ve **Yusuf** adındaki adamla nişanlanmıştı.
-  ***[[:tr:obs:notes:frames:23-01|[23-01]]]** Meryem’in nişanlı olduğu **Yusuf** doğru bir adamla nişanlıydı, Meryem’in hamile olduğunu öğrenince bebeğin kendinden olmadığını anladı. Meryem’i rezil etmek istemediği için ondan sessizce ayrılmak niyetindeydi.
-  ***[[:tr:obs:notes:frames:23-02|[23-02]]]** Melek dedi: “**Yusuf**, Meryem’i karın olarak kabul etmekten korkma. Rahmindeki çocuk Kutsal Ruh’tandır. Meryem bir oğul doğuracak. Adını İsa koyacaksın (İsa, Yahve kurtarır anlamına gelir). Çünkü halkı günahlarından o kurtaracak.”
-  ***[[:tr:obs:notes:frames:23-03|[23-03]]]** O zaman **Yusuf** Meryem’le evlendi, onu karısı olarak evine getirdi. Ancak oğlunu doğuruncaya kadar onunla yatmadı.
-  ***[[:tr:obs:notes:frames:23-04|[23-04]]]** Nasıra kentinde oturan **Yusuf**’la Meryem, babaları Davut’un doğduğu kent Beytlehem’e uzun yol gitmeye mecbur oldular.
-  ***[[:tr:obs:notes:frames:26-04|[26-04]]]** İsa, “Size okuduğum sözler bugün gerçek oldu.” dedi. Herkes şaşırarak, “**Yusuf**’un oğlu değil mi bu?” dedi.
-
+  * **[[:tr:obs:notes:frames:22-04|[22-04]]]** Meryem bakireydi ve **Yusuf**  adındaki adamla nişanlanmıştı.
+  * **[[:tr:obs:notes:frames:23-01|[23-01]]]** Meryem’in nişanlı olduğu **Yusuf**  doğru bir adamla nişanlıydı, Meryem’in hamile olduğunu öğrenince bebeğin kendinden olmadığını anladı. Meryem’i rezil etmek istemediği için ondan sessizce ayrılmak niyetindeydi.
+  * **[[:tr:obs:notes:frames:23-02|[23-02]]]** Melek dedi: “**Yusuf**, Meryem’i karın olarak kabul etmekten korkma. Rahmindeki çocuk Kutsal Ruh’tandır. Meryem bir oğul doğuracak. Adını İsa koyacaksın (İsa, Yahve kurtarır anlamına gelir). Çünkü halkı günahlarından o kurtaracak.”
+  * **[[:tr:obs:notes:frames:23-03|[23-03]]]** O zaman **Yusuf**  Meryem’le evlendi, onu karısı olarak evine getirdi. Ancak oğlunu doğuruncaya kadar onunla yatmadı.
+  * **[[:tr:obs:notes:frames:23-04|[23-04]]]** Nasıra kentinde oturan **Yusuf**’la Meryem, babaları Davut’un doğduğu kent Beytlehem’e uzun yol gitmeye mecbur oldular.
+  * **[[:tr:obs:notes:frames:26-04|[26-04]]]** İsa, “Size okuduğum sözler bugün gerçek oldu.” dedi. Herkes şaşırarak, “**Yusuf**’un oğlu değil mi bu?” dedi.
 ~~DISCUSSION~~{{tag>publish ktobs}}
