@@ -15,11 +15,7 @@ Aradan yüzlerce yıl geçtikten sonra Saul adında başka bir Yahudi yaşadı, 
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:17-01|[17-01]]]** **Saul** İsrail’in ilk kralıydı. Halkın arzuladığı uzun boylu ve yakışıklı bir kraldı. **Saul** krallığının ilk yıllarında iyiydi, ama sonra Tanrı’ya itaat etmeyen kötü biri oldu, bu yüzden Tanrı bir gün onun yerine kral olacak başka birini seçti.
-  ***[[:tr:obs:notes:frames:17-04|[17-04]]]** Halkın Davut’u sevdiğini gören **Saul** onu kıskandı. Defalarca onu öldürmeye kalkıştı, bu yüzden Davut **Saul**’dan gizlenmeye mecbur oldu.
-  ***[[:tr:obs:notes:frames:17-05|[17-05]]]** Eninde sonunda **Saul** savaşta öldü ve Davut İsrail’in kralı oldu.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
-
+  * **[[:tr:obs:notes:frames:17-01|[17-01]]]****Saul****Saul**  İsrail’in ilk kralıydı. Halkın arzuladığı uzun boylu ve yakışıklı bir kraldı. **Saul**  krallığının ilk yıllarında iyiydi, ama sonra Tanrı’ya itaat etmeyen kötü biri oldu, bu yüzden Tanrı bir gün onun yerine kral olacak başka birini seçti.
+  * **[[:tr:obs:notes:frames:17-04|[17-04]]]** Halkın Davut’u sevdiğini gören **Saul**  onu kıskandı. Defalarca onu öldürmeye kalkıştı, bu yüzden Davut **Saul**’dan gizlenmeye mecbur oldu.
+  * **[[:tr:obs:notes:frames:17-05|[17-05]]]** Eninde sonunda **Saul**  savaşta öldü ve Davut İsrail’in kralı oldu.
+~~DISCUSSION~~{{tag>publish ktobs}}
