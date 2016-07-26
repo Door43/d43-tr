@@ -12,10 +12,10 @@ Bu terimler, Tanrı olan Kutsal Ruh’u ifade eder. Tek gerçek Tanrı sonsuzluk
 
 ===== Çeviri için öneriler =====
 
-  * Bu terim «kutsal/mukaddes» ve «ruh» sözcüklerini çevirirken kullanılan terimlerle çevrilebilir.
+  * Bu terim basit olarak «kutsal/mukaddes» ve «ruh» sözcüklerinin çevirisinde kullanılan ayrı terimlerle çevrilebilir.
   * Bu terim ayrıca «Temiz Ruh», «Kutsal olan Ruh» ya da «Ruh Tanrı» şeklinde çevrilebilir.
 
-(See also: [[tr:obe:kt:holy]], [[tr:obe:kt:spirit]], [[tr:obe:kt:god]], [[tr:obe:kt:lordgod]], [[tr:obe:kt:godthefather]], [[tr:obe:kt:sonofgod]], [[tr:obe:kt:gift]])
+(See also: [[:tr:obe:kt:holy|kutsal]], [[:tr:obe:kt:spirit|ruh]], [[:tr:obe:kt:god|Tanrı]], [[:tr:obe:kt:lordgod|Lord]], [[:tr:obe:kt:godthefather|Baba Tanrı, Semavi Baba]], [[:tr:obe:kt:sonofgod|Tanrı’nın Oğlu]], [[:tr:obe:kt:gift|gift]])
 
 ===== Bible References: =====
 
