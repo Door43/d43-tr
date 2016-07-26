@@ -24,14 +24,13 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:46-09|[46-09]]]** İsa’ya iman edenlere ilk kez Antakya’da «**Hristiyan**», yani Mesih inanlısı adı verildi.
-  ***[[:tr:obs:notes:frames:47-14|[47-14]]]** Pavlus’la diğer **kilise** önderleri birçok kente giderek insanlara İsa’yla ilgili sevindirici haberi vazettiler ve öğrettiler.
-  ***[[:tr:obs:notes:frames:49-15|[49-15]]]** İsa’ya ve senin için yaptıklarına iman ediyorsan demek **Mesih inanlısısın**!
-  ***[[:tr:obs:notes:frames:49-16|[49-16]]]** Eğer sen **Mesih inanlısıysan** Tanrı, İsa’nın yaptıkları sayesinde senin günahlarını affetmiştir.
-  ***[[:tr:obs:notes:frames:49-17|[49-17]]]** **Mesih inanlısı** olmana rağmen hâlâ günahla ayartılacaksın.
-  ***[[:tr:obs:notes:frames:50-03|[50-03]]]** İsa göğe dönmeden önce **Mesih inanlılarına** bu müjdeyi henüz duymayan insanlara duyursunlar diye emir verdi.
-  ***[[:tr:obs:notes:frames:50-11|[50-11]]]** İsa döneceği zaman her ölmüş **Mesih inanlısı** ölümden dirilerek gökte O’nunla buluşacak.
-
+  * **[[:tr:obs:notes:frames:46-09|[46-09]]]** İsa’ya iman edenlere ilk kez Antakya’da «**Hristiyan**», yani Mesih inanlısı adı verildi.
+  * **[[:tr:obs:notes:frames:47-14|[47-14]]]** Pavlus’la diğer **kilise**  önderleri birçok kente giderek insanlara İsa’yla ilgili sevindirici haberi vaaz ettiler ve öğrettiler.
+  * **[[:tr:obs:notes:frames:49-15|[49-15]]]** İsa’ya ve senin için yaptıklarına iman ediyorsan demek **Mesih inanlısısın**!
+  * **[[:tr:obs:notes:frames:49-16|[49-16]]]** Eğer sen **Mesih inanlısıysan**  Tanrı, İsa’nın yaptıkları sayesinde senin günahlarını affetmiştir.
+  * **[[:tr:obs:notes:frames:49-17|[49-17]]]****Mesih inanlısı**  olmana rağmen hâlâ günahla ayartılacaksın.
+  * **[[:tr:obs:notes:frames:50-03|[50-03]]]** İsa göğe dönmeden önce **Mesih inanlılarına**  bu müjdeyi henüz duymayan insanlara duyursunlar diye emir verdi.
+  * **[[:tr:obs:notes:frames:50-11|[50-11]]]** İsa döneceği zaman her ölmüş **Mesih inanlısı**  ölümden dirilerek gökte O’nunla buluşacak.
 ~~DISCUSSION~~{{tag>publish ktobs k}}
 
 ~~NOCACHE~~
