@@ -22,15 +22,14 @@ Eskiden bir Kenan kenti olan Yeruşalim daha sonra İsrail’in önemli bir siya
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:17-05|[17-05]]]** Davut **Yeruşalim**’i fethederek başkenti yaptı.
-  ***[[:tr:obs:notes:frames:18-02|[18-02]]]** Süleyman **Yeruşalim**’de babası Davut’un tasarladığı ve inşası için hazırlık yaptığı tapınağı inşa ettirdi.
-  ***[[:tr:obs:notes:frames:20-07|[20-07]]]** (Babilliler) **Yeruşalim** kentini fethettiler, Tapınak’ı yıktılar, kentin ve Tapınak’ın bütün hazinelerini götürdüler.
-  ***[[:tr:obs:notes:frames:20-12|[20-12]]]** Böylece yetmiş yıllık sürgünden sonra küçük grup Yahudi Yahuda’daki **Yeruşalim** kentine döndü.
-  ***[[:tr:obs:notes:frames:38-01|[38-01]]]** İsa halka vazetmeye ve öğretmeye başladıktan üç yıl sonra havarilerine onlarla beraber **Yeruşalim**’de Fısıh Bayramı’nı kutlamak istediğini ve orada öldürüleceğini söyledi.​
-  ***[[:tr:obs:notes:frames:38-02|[38-02]]]** İsa’yla havarileri **Yeruşalim**’e vardıklarında Yahuda Yahudi ileri gelenlerine gitti ve para karşılığında İsa’yı onlara teslim etmeyi önerdi.
-  ***[[:tr:obs:notes:frames:42-08|[42-08]]]** “Ayrıca bana iman edenlerin insanların günahlarının affedilmesi için tövbe etmesi gerektiğini ilan edecekleri de kutsal yazılarda önceden bildirilmiştir. Bu tövbe çağrısı **Yeruşalim**’den başlayarak her yerde yaşayan bütün milletlere duyurulacak.”
-  ***[[:tr:obs:notes:frames:42-11|[42-11]]]** İsa, ölümden dirilmesinden kırk gün sonra havarileri ve diğer imanlı kardeşlerine, “Kutsal Ruh’un üzerinize inmesiyle kudreti alıncaya kadar **Yeruşalim**’de kalın.” dedi.
-
+  * **[[:tr:obs:notes:frames:17-05|[17-05]]]** Davut **Yeruşalim**’i fethederek başkenti yaptı.
+  * **[[:tr:obs:notes:frames:18-02|[18-02]]]** Süleyman **Yeruşalim**’de babası Davut’un tasarladığı ve inşası için hazırlık yaptığı tapınağı inşa ettirdi.
+  * **[[:tr:obs:notes:frames:20-07|[20-07]]]** (Babilliler) **Yeruşalim**  kentini fethettiler, Tapınak’ı yıktılar, kentin ve Tapınak’ın bütün hazinelerini götürdüler.
+  * **[[:tr:obs:notes:frames:20-12|[20-12]]]** Böylece yetmiş yıllık sürgünden sonra küçük grup Yahudi Yahuda’daki **Yeruşalim**  kentine döndü.
+  * **[[:tr:obs:notes:frames:38-01|[38-01]]]** İsa halka vaaz etmeye ve öğretmeye başladıktan üç yıl sonra havarilerine onlarla beraber **Yeruşalim**’de Fısıh Bayramı’nı kutlamak istediğini ve orada öldürüleceğini söyledi.​​
+  * **[[:tr:obs:notes:frames:38-02|[38-02]]]** İsa’yla havarileri **Yeruşalim**’e vardıklarında Yahuda Yahudi ileri gelenlerine gitti ve para karşılığında İsa’yı onlara teslim etmeyi önerdi.
+  * **[[:tr:obs:notes:frames:42-08|[42-08]]]** “Ayrıca bana iman edenlerin insanların günahlarının affedilmesi için tövbe etmesi gerektiğini ilan edecekleri de kutsal yazılarda önceden bildirilmiştir. Bu tövbe çağrısı **Yeruşalim**’den başlayarak her yerde yaşayan bütün milletlere duyurulacak.”
+  * **[[:tr:obs:notes:frames:42-11|[42-11]]]** İsa, ölümden dirilmesinden kırk gün sonra havarileri ve diğer imanlı kardeşlerine, “Kutsal Ruh’un üzerinize inmesiyle kudreti alıncaya kadar **Yeruşalim**’de kalın.” dedi.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
