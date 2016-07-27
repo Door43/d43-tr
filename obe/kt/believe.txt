@@ -24,12 +24,11 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:03-04|[03-04]]]** Nuh insanları gelecek tufan hakkında uyararak Tanrı’ya dönmeye çağırdı. Fakat ona **inanmadılar**.
-  ***[[:tr:obs:notes:frames:04-08|[04-08]]]** Avram Tanrı’nın vaadine **inandı**. Vaadine **inandığı** için Tanrı Avram’ı doğru adam ilan etti.
-  ***[[:tr:obs:notes:frames:11-02|[11-02]]]** Tanrı, O’na **iman eden** herkesin ilk doğanlarının kurtulması için bir yol sağladı.
-  ***[[:tr:obs:notes:frames:11-06|[11-06]]]** Mısırlılar ise Tanrı’ya ve buyruklarına **inanmamışlardı**.
-  ***[[:tr:obs:notes:frames:37-05|[37-05]]]** İsa Marta’ya, “Diriliş ve hayat Ben’im. Bana **iman eden**, ölse bile yaşayacak! Bana **iman eden** asla ölmez! Buna **iman ediyor** musun?” dedi.
-
+  * **[[:tr:obs:notes:frames:03-04|[03-04]]]** Nuh insanları gelecek tufan hakkında uyararak Tanrı’ya dönmeye çağırdı. Fakat ona **inanmadılar**.
+  * **[[:tr:obs:notes:frames:04-08|[04-08]]]** Avram Tanrı’nın vaadine **inandı**. Vaadine **inandığı**  için Tanrı Avram’ı doğru adam ilan etti.
+  * **[[:tr:obs:notes:frames:11-02|[11-02]]]** Tanrı, O’na **iman eden**  herkesin ilk doğanlarının kurtulması için bir yol sağladı.
+  * **[[:tr:obs:notes:frames:11-06|[11-06]]]** Mısırlılar ise Tanrı’ya ve buyruklarına **inanmamışlardı**.
+  * **[[:tr:obs:notes:frames:37-05|[37-05]]]** İsa Marta’ya, “Diriliş ve hayat Ben’im. Bana **iman eden**, ölse bile yaşayacak! Bana **iman eden**  asla ölmez! Buna **iman ediyor**  musun?” dedi.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
