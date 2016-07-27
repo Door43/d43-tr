@@ -22,10 +22,9 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:21-13|[21-13]]]** Peygamberler Mesih’in kâmil ve günahsız olacağını, diğer insanların günahının cezasını **çekerek** öleceğini bildirdiler. Çekeceği ceza Tanrı’yla insanlar arasında barış sağlayacak.
-  ***[[:tr:obs:notes:frames:45-05|[45-05]]]** İstefanos can verirken, “Ey İsa, ruhumu **al**!” diye yakardı.
-  ***[[:tr:obs:notes:frames:49-06|[49-06]]]** İsa, bazı insanların kendisini **kabul edip** kurtulacaklarını, diğerlerinin ise kurtuluşu reddedeceklerini öğretirdi.
-  ***[[:tr:obs:notes:frames:49-10|[49-10]]]** İsa çarmıh üzerinde ölürken senin cezanı **çekti**.
-  ***[[:tr:obs:notes:frames:49-13|[49-13]]]** Tanrı İsa’ya iman eden ve O’nu Efendisi olarak **kabul eden** herkesi kurtaracak.
-
+  * **[[:tr:obs:notes:frames:21-13|[21-13]]]** Peygamberler Mesih’in kâmil ve günahsız olacağını, diğer insanların günahının cezasını **çekerek**  öleceğini bildirdiler. Çekeceği ceza Tanrı’yla insanlar arasında barış sağlayacak.
+  * **[[:tr:obs:notes:frames:45-05|[45-05]]]** İstefanos can verirken, “Ey İsa, ruhumu **al**!” diye yakardı.
+  * **[[:tr:obs:notes:frames:49-06|[49-06]]]** İsa, bazı insanların kendisini **kabul edip**  kurtulacaklarını, diğerlerinin ise kurtuluşu reddedeceklerini öğretirdi.
+  * **[[:tr:obs:notes:frames:49-10|[49-10]]]** İsa çarmıh üzerinde ölürken senin cezanı **çekti**.
+  * **[[:tr:obs:notes:frames:49-13|[49-13]]]** Tanrı İsa’ya iman eden ve O’nu Efendisi olarak **kabul eden**  herkesi kurtaracak.
 ~~DISCUSSION~~{{tag>publish ktobs}}
