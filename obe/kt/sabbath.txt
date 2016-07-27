@@ -21,8 +21,7 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:13-05|[13-05]]]** “Her zaman **Şabat Günü**’nü kutsal sayacaksın. Altı gün çalışarak bütün işlerini yapacaksın, yedinci gün ise beni hatırlayacağın istirahat günün olacak.”
-  ***[[:tr:obs:notes:frames:26-02|[26-02]]]** İsa, çocukluğunun geçtiği Nasıra kentine gitti. Bir **Şabat günü** havradaki ibadete katıldı.
-  ***[[:tr:obs:notes:frames:41-03|[41-03]]]** İsa’nın gömüldüğü günden sonraki gün **Şabat**’tı. Yahudilerin **Şabat Günü**’nde mezarı ziyarete gitmeleri yasaktı.
-
+  * **[[:tr:obs:notes:frames:13-05|[13-05]]]** “Her zaman **Şabat Günü**’nü kutsal sayacaksın. Altı gün çalışarak bütün işlerini yapacaksın, yedinci gün ise beni hatırlayacağın istirahat günün olacak.”
+  * **[[:tr:obs:notes:frames:26-02|[26-02]]]** İsa, çocukluğunun geçtiği Nasıra kentine gitti. Bir **Şabat günü**  havradaki ibadete katıldı.
+  * **[[:tr:obs:notes:frames:41-03|[41-03]]]** İsa’nın gömüldüğü günden sonraki gün **Şabat**’tı. Yahudilerin **Şabat Günü**’nde mezarı ziyarete gitmeleri yasaktı.
 ~~DISCUSSION~~{{tag>publish ktobs}}
