@@ -21,12 +21,11 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:27-01|[27-01]]]** Bir gün Tevrat bilginlerinden biri İsa’yı denemek amacıyla O’na, “**Hocam**, ebedî hayatı miras almak için ne yapmalıyım?” diye sordu.
-  ***[[:tr:obs:notes:frames:28-01|[28-01]]]** Bir gün zengin bir genç İsa’ya yaklaşıp, “İyi **Hocam**, ebedî hayata kavuşmak için ne yapmalıyım?” diye sordu.
-  ***[[:tr:obs:notes:frames:37-02|[37-02]]]** Aradan iki gün geçtikten sonra İsa havarilerine, “Yahudiye’ye geri dönelim.” dedi. Havariler itiraz ettiler: “**Hoca**, bu yakında oradaki insanlar seni öldürmek istediler!”
-  ***[[:tr:obs:notes:frames:38-14|[38-14]]]** Yahuda İsa’nın yanına gelerek, “Selam **Hocam**!” dedi ve O’nu öptü.
-  ***[[:tr:obs:notes:frames:49-03|[49-03]]]** İsa ayrıca büyük bir **öğretmendi**, Tanrı’nın Oğlu olduğu için yetkiyle konuşurdu.
-
+  * **[[:tr:obs:notes:frames:27-01|[27-01]]]** Bir gün Tevrat bilginlerinden biri İsa’yı denemek amacıyla O’na, “**Hocam**, ebedî hayatı miras almak için ne yapmalıyım?” diye sordu.
+  * **[[:tr:obs:notes:frames:28-01|[28-01]]]** Bir gün zengin bir genç İsa’ya yaklaşıp, “İyi **Hocam**, ebedî hayata kavuşmak için ne yapmalıyım?” diye sordu.
+  * **[[:tr:obs:notes:frames:37-02|[37-02]]]** Aradan iki gün geçtikten sonra İsa havarilerine, “Yahudiye’ye geri dönelim.” dedi. Havariler itiraz ettiler: “**Hoca**, bu yakında oradaki insanlar seni öldürmek istediler!”
+  * **[[:tr:obs:notes:frames:38-14|[38-14]]]** Yahuda İsa’nın yanına gelerek, “Selam Hocam!” dedi ve O’nu öptü.
+  * **[[:tr:obs:notes:frames:49-03|[49-03]]]** İsa ayrıca büyük bir **öğretmendi**, Tanrı’nın Oğlu olduğu için yetkiyle konuşurdu.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
