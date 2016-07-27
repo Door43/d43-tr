@@ -22,17 +22,14 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:13-04|[13-04]]]** Tanrı onlarla ahit yaparak şöyle dedi: “Seni Mısır’dan, köle olduğun ülkeden kurtaran Tanrın Yahve benim. Başka ilâhlara **tapmayacaksın**!”
-  ***[[:tr:obs:notes:frames:14-02|[14-02]]]** Kenanlılar Tanrı’ya **tapmaz** ve itaat etmezlerdı. Yalancı ilâhlara **tapar** ve çok kötülük yaparlardı.
-  ***[[:tr:obs:notes:frames:17-06|[17-06]]]** Davut bütün İsraillilerin Tanrı’ya **tapınarak** kurban sunabilecekleri bir tapınak kurmak istedi.
-  ***[[:tr:obs:notes:frames:18-12|[18-12]]]** İsrail Krallığı’nın bütün kralları ve insanlarının çoğu **putlara** taparlardı.
-  ***[[:tr:obs:notes:frames:25-07|[25-07]]]** İsa cevabında ona, “Çekil benden, Şeytan! Tanrı, Sözü’nde halkına şöyle buyuruyor: ‘Yalnız Tanrın Rab’be **tapacaksın**, yalnız O’na kulluk edeceksin!’” dedi.
-  ***[[:tr:obs:notes:frames:26-02|[26-02]]]** Bir Şabat günü (İsa) havradaki **ibadete** katıldı.
-  ***[[:tr:obs:notes:frames:47-01|[47-01]]]** Orada Lidya adında tüccar bir kadınla tanıştılar. Lidya Tanrı’yı seven ve **tapınan** biriydi.
-  ***[[:tr:obs:notes:frames:49-18|[49-18]]]** Tanrı sana dua etmeyi, sözünü araştırmayı, başka Mesih inanlılarıyla birlikte **tapınmayı** ve senin için yaptıklarını başkalarına anlatmayı buyuruyor.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:13-04|[13-04]]]** Tanrı onlarla ahit yaparak şöyle dedi: “Seni Mısır’dan, köle olduğun ülkeden kurtaran Tanrın Yahve benim. Başka ilâhlara **tapmayacaksın**!”
+  * **[[:tr:obs:notes:frames:14-02|[14-02]]]** Kenanlılar Tanrı’ya **tapmaz**  ve itaat etmezlerdı. Yalancı ilâhlara **tapar**  ve çok kötülük yaparlardı.
+  * **[[:tr:obs:notes:frames:17-06|[17-06]]]** Davut bütün İsraillilerin Tanrı’ya **tapınarak**  kurban sunabilecekleri bir tapınak kurmak istedi.
+  * **[[:tr:obs:notes:frames:18-12|[18-12]]]** İsrail Krallığı’nın bütün kralları ve insanlarının çoğu putlara **taparlardı**.
+  * **[[:tr:obs:notes:frames:25-07|[25-07]]]** İsa cevabında ona, “Çekil benden, Şeytan! Tanrı, Sözü’nde halkına şöyle buyuruyor: ‘Yalnız Tanrın Rab’be **tapacaksın**, yalnız O’na kulluk edeceksin!’” dedi.
+  * **[[:tr:obs:notes:frames:26-02|[26-02]]]** Bir Şabat günü (İsa) havradaki **ibadete**  katıldı.
+  * **[[:tr:obs:notes:frames:47-01|[47-01]]]** Orada Lidya adında tüccar bir kadınla tanıştılar. Lidya Tanrı’yı seven ve **tapınan**  biriydi.
+  * **[[:tr:obs:notes:frames:49-18|[49-18]]]** Tanrı sana dua etmeyi, sözünü araştırmayı, başka Mesih inanlılarıyla birlikte **tapınmayı**  ve senin için yaptıklarını başkalarına anlatmayı buyuruyor.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
