@@ -19,14 +19,7 @@
   * Bağlama dayalı olarak, «peygamberlik etmek» ifadesi «Tanrı’dan gelen sözleri söylemek» ya da «Tanrı’nın gelecek olaylara dair bildirisini ilan etmek» şeklinde çevrilebilir.
   * Kadın peygamber için «Tanrı adına konuşan kadın» ya da «Tanrı’nın bildirilerini ileten kadın» söylenebilir.
 
-===== Çeviri için öneriler =====
-
-  * «Peygamber» sözcüğü «Tanrı adına konuşan adam» olarak çevrilbilir.
-  * «Peygamberlik» sözcüğü «Tanrı’nın bildirisi» ya da «Tanrı’dan mesaj» olarak çevrilebilir.
-  * «Peygamberlik etmek» ifadesi «Tanrı’dan gelen sözleri söylemek» şeklinde çevrilebilir.
-  * Kadın peygamber için «Tanrı adına konuşan kadın» söylenebilir.
-
-(See also: [[tr:obe:kt:fulfill]], [[tr:obe:kt:fulfill|gerçekleştirmek]])
+(See also: [[:tr:obe:kt:fulfill|gerçekleştirmek]], [[:tr:obe:kt:fulfill|gerçekleştirmek]])
 
 ===== Bible References: =====
 
