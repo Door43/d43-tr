@@ -22,13 +22,12 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:24-04|[24-04]]]** Yahya, peygamberlerin şu sözünü **gerçekleştirdi**: “İşte senin önünden elçimi gönderiyorum. O benim yolumu hazırlayacak.”
-  ***[[:tr:obs:notes:frames:40-03|[40-03]]]** Askerler İsa’nın elbisesi için kura çektiler. Bununla şu **peygamberliği** yerine getirmiş oldular: “Giysilerimi aralarında pay ettiler, elbisem için kura çektiler.”
-  ***[[:tr:obs:notes:frames:42-07|[42-07]]]** İsa, “Size demiştim, Tanrı’nın Sözü’nde benimle ilgili yazılmış olan her şeyin **yerine gelmesi** gerekir.” dedi.
-  ***[[:tr:obs:notes:frames:43-05|[43-05]]]** “Bu gördüğünüz, Tanrı’nın Yoel Peygamber’in diliyle ilan ettiği, ‘Ahir zamanda insanlara Ruhum’dan dökeceğim!’ vaadinin **gerçekleşmesidir**.”
-  ***[[:tr:obs:notes:frames:43-07|[43-07]]]** Böylece, ‘Sen Kutsal Olanı’nı mezarda çürümeye bırakmayacaksın.’ peygamberlik sözü **yerine gelmiş** oldu.
-  ***[[:tr:obs:notes:frames:44-05|[44-05]]]** “Ancak siz bunu yaparken ne yaptığınızın bilincinde değildiniz. Bu yaptıklarınızla Tanrı, Mesih’in acı çekmesi ve ölmesi ile ilgili peygamberliklerini **gerçekleştirdi**.”
-
+  * **[[:tr:obs:notes:frames:24-04|[24-04]]]** Yahya, peygamberlerin şu sözünü **gerçekleştirdi**: “İşte senin önünden elçimi gönderiyorum. O benim yolumu hazırlayacak.”
+  * **[[:tr:obs:notes:frames:40-03|[40-03]]]** Askerler İsa’nın elbisesi için kura çektiler. Bununla şu peygamberliği **yerine getirmiş**  oldular: “Giysilerimi aralarında pay ettiler, elbisem için kura çektiler.”
+  * **[[:tr:obs:notes:frames:42-07|[42-07]]]** İsa, “Size demiştim, Tanrı’nın Sözü’nde benimle ilgili yazılmış olan her şeyin **yerine gelmesi**  gerekir.” dedi.
+  * **[[:tr:obs:notes:frames:43-05|[43-05]]]** “Bu gördüğünüz, Tanrı’nın Yoel Peygamber’in diliyle ilan ettiği, ‘Ahir zamanda insanlara Ruhum’dan dökeceğim!’ vaadinin **gerçekleşmesidir**.”
+  * **[[:tr:obs:notes:frames:43-07|[43-07]]]** Böylece, ‘Sen Kutsal Olanı’nı mezarda çürümeye bırakmayacaksın.’ peygamberlik sözü **yerine gelmiş**  oldu.
+  * **[[:tr:obs:notes:frames:44-05|[44-05]]]** “Ancak siz bunu yaparken ne yaptığınızın bilincinde değildiniz. Bu yaptıklarınızla Tanrı, Mesih’in acı çekmesi ve ölmesi ile ilgili peygamberliklerini **gerçekleştirdi**.”
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
