@@ -14,13 +14,7 @@
   * «Gerçekleşti» ifadesi ayrıca «gerçek oldu» ya da «oldu» şeklinde çevrilebilir.
   * «Hizmetinizi yerine getirmek» gibi bir ifadede «gerçekleştirmek» yerine «tamamlamak», «yerine getirmek» ya da «Tanrı’nın sizi çağırdığı gibi başkalarına hizmette bulunmak» gibi sözler kullanılabilir.
 
-===== Çeviri için öneriler =====
-
-  * Bağlama dayalı olarak, «gerçekleştirmek» fiili «tamamlamak», «yerine getirmek», «olmasını sağlamak» ya da «uymak» olarak çevrilebilir.
-  * «Gerçekleşti» ifadesi ayrıca «gerçek oldu» ya da «oldu» şeklinde çevrilebilir.
-  * «Hizmetinizi yerine getirmek» gibi bir ifadede «gerçekleştirmek» yerine «tamamlamak», «yerine getirmek» ya da «Tanrı’nın sizi çağırdığı gibi başkalarına hizmette bulunmak» gibi sözler kullanılabilir.
-
-(See also: [[tr:obe:kt:prophet]], [[tr:obe:kt:christ]], [[tr:obe:kt:minister]], [[tr:obe:kt:call]])
+(See also: [[:tr:obe:kt:prophet|peygamber, peygamberlik]], [[:tr:obe:kt:christ|Mesih]], [[:tr:obe:kt:minister|minister, ministry]], [[:tr:obe:kt:call|call, calling]])
 
 ===== Bible References: =====
 
