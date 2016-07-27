@@ -16,12 +16,8 @@ Filipi, eski Yunanistan’ın kuzey bölgesinde bulunan bir kenttir.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:47-01|[47-01]]]** Bir gün Pavlus dostu Silas’la beraber İsa’yla ilgili sevindirici haberi ilan etmek üzere **Filipi** kentine gitti.
-  ***[[:tr:obs:notes:frames:47-13|[47-13]]]** Sabah olunca kentin yöneticileri Pavlus’la Silas’ı hapisten serbest bıraktılar ve **Filipi**’den ayrılmalarını rica ettiler.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:47-01|[47-01]]]** Bir gün Pavlus dostu Silas’la beraber İsa’yla ilgili sevindirici haberi ilan etmek üzere **Filipi**  kentine gitti.
+  * **[[:tr:obs:notes:frames:47-13|[47-13]]]** Sabah olunca kentin yöneticileri Pavlus’la Silas’ı hapisten serbest bıraktılar ve **Filipi**’den ayrılmalarını rica ettiler.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
