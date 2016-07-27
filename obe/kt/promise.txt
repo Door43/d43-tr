@@ -13,12 +13,7 @@ Vaat bir işi yerine getireceğine dair taahhüt anlamına gelir. Bir kişi bir 
   * «Vaat» sözcüğü «inandırma», «taahhüt» ya da «garanti» şeklinde çevrilebilir.
   * «Bir şeyi yapacağını vaat etmek» ifadesi «birini bir şey yapacağınıza inandırmak» ya da «bir şey yapacağınıza dair söz vermek» olarak çevrilebilir.
 
-===== Çeviri için öneriler =====
-
-  * «Vaat» sözcüğü «birini bir şey yapacağına inandırmak» ya da «bir şeye adanmak» şeklinde çevrilebilir.
-  * «Düşüncesiz bir vaatte bulunmak» ifadesi «bir konuda düşünmeden aceleyle vaatte bulunmak» olarak çevrilebilir.
-
-(See also: [[tr:obe:kt:covenant]], [[tr:obe:kt:vow]])
+(See also: [[:tr:obe:kt:covenant|ahit]], [[:tr:obe:kt:vow|vow]])
 
 ===== Bible References: =====
 
