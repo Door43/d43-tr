@@ -16,11 +16,8 @@ Yeremya, Yahuda Krallığı’nda yaşayan bir Tanrı peygamberiydi.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:19-17|[19-17]]]** Bir zamanlar **Yeremya** Peygamber’i sarnıca attılar, ölmesi için orada bıraktılar. **Yeremya** sarnıcın dibindeki balçığa batmıştı bile, ama kral ona acıdı ve ölmeden önce sarnıçtan çıkarılmasını emretti.
-  ***[[:tr:obs:notes:frames:21-05|[21-05]]]** **Yeremya** Peygamber vasıtasıyla Tanrı, halkıyla Yeni Ahit yapacağını vadetti. Ancak Yeni Ahit, Tanrı’nın İsrail’le Sina Dağı’nda yaptığı ahit gibi olmayacak.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:19-17|[19-17]]]** Bir zamanlar **Yeremya**  Peygamber’i sarnıca attılar, ölmesi için orada bıraktılar. **Yeremya**  sarnıcın dibindeki balçığa batmıştı bile, ama kral ona acıdı ve ölmeden önce sarnıçtan çıkarılmasını emretti.
+  * **[[:tr:obs:notes:frames:21-05|[21-05]]]****Yeremya**  Peygamber vasıtasıyla Tanrı, halkıyla Yeni Ahit yapacağını vadetti. Ancak Yeni Ahit, Tanrı’nın İsrail’le Sina Dağı’nda yaptığı ahit gibi olmayacak.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
