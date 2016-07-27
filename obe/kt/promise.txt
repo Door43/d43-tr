@@ -21,14 +21,13 @@ Vaat bir işi yerine getireceğine dair taahhüt anlamına gelir. Bir kişi bir 
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:03-15|[03-15]]]** Tanrı şöyle dedi: “İnsanlar genç yaşlarından günahlı olsalar da, onların yüzünden toprağı asla lanetlemeyeceğim ve dünyayı tufanla yok **etmeyeceğim**.”
-  ***[[:tr:obs:notes:frames:03-16|[03-16]]]** O zaman Tanrı **vaadinin** bir belirtisi olarak ilk gökkuşağı gösterdi. Her defa gökte gökkuşağı göründüğünde Tanrı **vaadini** hatırlar, halkı da O’nun **vaadini** hatırlar.
-  ***[[:tr:obs:notes:frames:04-08|[04-08]]]** Tanrı Avram’a tekrar seslenerek soyunun gökteki yıldızlar kadar çok olacağını **vadetti**. Avram Tanrı’nın **vaadine** inandı.
-  ***[[:tr:obs:notes:frames:05-04|[05-04]]]** “Karın Saray’ın bir oğlu olacak ve o, **vadedilen** oğul olacak.”
-  ***[[:tr:obs:notes:frames:08-15|[08-15]]]** Tanrı’nın İbrahim’e ahdinde verdiği **vaatler** İshak’a, sonra Yakup’a, on iki oğluna ve ailelerine geçti.
-  ***[[:tr:obs:notes:frames:17-14|[17-14]]]** Davut Tanrı’ya karşı sadakatsiz olmasına rağmen Tanrı kendi **vaatlerine** sadık kaldı.
-  ***[[:tr:obs:notes:frames:50-01|[50-01]]]** İsa dünyanın sonunda döneceğini **vadetti**. O henüz dönmemiş olsa da **vaadini** tutacaktır.
-
+  * **[[:tr:obs:notes:frames:03-15|[03-15]]]** Tanrı şöyle dedi: “İnsanlar genç yaşlarından günahlı olsalar da, onların yüzünden toprağı asla lanetlemeyeceğim ve dünyayı tufanla yok **etmeyeceğim**.”
+  * **[[:tr:obs:notes:frames:03-16|[03-16]]]** O zaman Tanrı **vaadinin**  bir belirtisi olarak ilk gökkuşağı gösterdi. Her defa gökte gökkuşağı göründüğünde Tanrı **vaadini**  hatırlar, halkı da O’nun **vaadini**  hatırlar.
+  * **[[:tr:obs:notes:frames:04-08|[04-08]]]** Tanrı Avram’a tekrar seslenerek soyunun gökteki yıldızlar kadar çok olacağını **vadetti**. Avram Tanrı’nın **vaadine**  inandı.
+  * **[[:tr:obs:notes:frames:05-04|[05-04]]]** “Karın Saray’ın bir oğlu olacak ve o, **vadedilen**  oğul olacak.”
+  * **[[:tr:obs:notes:frames:08-15|[08-15]]]** Tanrı’nın İbrahim’e ahdinde verdiği **vaatler**  İshak’a, sonra Yakup’a, on iki oğluna ve ailelerine geçti.
+  * **[[:tr:obs:notes:frames:17-14|[17-14]]]** Davut Tanrı’ya karşı sadakatsiz olmasına rağmen Tanrı kendi **vaatlerine**  sadık kaldı.
+  * **[[:tr:obs:notes:frames:50-01|[50-01]]]** İsa dünyanın sonunda döneceğini **vadetti**. O henüz dönmemiş olsa da **vaadini**  tutacaktır.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
