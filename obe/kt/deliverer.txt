@@ -14,13 +14,7 @@
   * «Kurtarıcı» sözcüğü de «kurtaran», «özgür kılan» olarak çevrilebilir.
   * «Kurtarıcı» İsrail’i yöneten hakimlere ait olarak kullanıldığında «yönetici», «hakim» ya da «önder» olarak da çevrilebilir.
 
-===== Çeviri için öneriler =====
-
-  * Düşmanlarından kurtulmasını sağlamak anlamında kullanılan «kurtarmak» sözcüğü ayrıca «özgür kılmak» olarak da çevrilebilir.
-  * «Kurtarıcı» sözcüğü de «kurtaran», «özgür kılan» olarak çevrilebilir.
-  * «Kurtarıcı» İsrail’i yöneten hakimlere ait olarak kullanıldığında «yönetici», «hakim» ya da «önder» olarak da çevrilebilir.
-
-(See:  [[:tr:obe:kt:judge]], [[:tr:obe:kt:save]])
+(See: [[:tr:obe:kt:judge|yargılamak]], [[:tr:obe:kt:save|kurtarmak]])
 
 ===== Bible References: =====
 
