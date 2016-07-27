@@ -20,17 +20,13 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:39-11|[39-11]]]** Fakat Yahudi ileri gelenleri ve kalabalık, “O’nu (İsa’yı) **çarmıha ger**!” diye bağırdılar.
-  ***[[:tr:obs:notes:frames:39-12|[39-12]]]** Kalabalığın ayaklanmasından korkan Pilatus sonunda askerlerinin İsa’yı **çarmıha germesine** razı oldu.
-  ***[[:tr:obs:notes:frames:40-01|[40-01]]]** Askerler İsa’yla alay ettikten sonra O’nu **çarmıha germek** üzere götürdüler. Üzerinde öleceği çarmıhı O’na taşıttılar.
-  ***[[:tr:obs:notes:frames:40-04|[40-04]]]** İsa iki mahkûm arasında **çarmıha gerildi**.
-  ***[[:tr:obs:notes:frames:43-06|[43-06]]]** “Ey İsrail halkı! Kendiniz zaten gördüğünüz ve bildiğiniz gibi, İsa Tanrı’nın kudretiyle birçok alâmet ve mucize yapan bir insandı. Ama siz O’nu **çarmıha gerdiniz**!”
-  ***[[:tr:obs:notes:frames:43-09|[43-09]]]** Siz bu adamı -İsa’yı- **çarmıha gerdiniz**.
-  ***[[:tr:obs:notes:frames:44-08|[44-08]]]** Petrus onlara, “Bu adam İsa Mesih’in kudretiyle önünüzde sapasağlam duruyor. Siz İsa’yı **çarmıha gerdiniz**, fakat Tanrı O’nu diriltti!
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:39-11|[39-11]]]** Fakat Yahudi ileri gelenleri ve kalabalık, “O’nu (İsa’yı) **çarmıha ger**!” diye bağırdılar.
+  * **[[:tr:obs:notes:frames:39-12|[39-12]]]** Kalabalığın ayaklanmasından korkan Pilatus sonunda askerlerinin İsa’yı **çarmıha germesine**  razı oldu.
+  * **[[:tr:obs:notes:frames:40-01|[40-01]]]** Askerler İsa’yla alay ettikten sonra O’nu **çarmıha germek**  üzere götürdüler. Üzerinde öleceği çarmıhı O’na taşıttılar.
+  * **[[:tr:obs:notes:frames:40-04|[40-04]]]** İsa iki mahkûm arasında **çarmıha gerildi**.
+  * **[[:tr:obs:notes:frames:43-06|[43-06]]]** “Ey İsrail halkı! Kendiniz zaten gördüğünüz ve bildiğiniz gibi, İsa Tanrı’nın kudretiyle birçok alâmet ve mucize yapan bir insandı. Ama siz O’nu **çarmıha gerdiniz**!”
+  * **[[:tr:obs:notes:frames:43-09|[43-09]]]** Siz bu adamı -İsa’yı- **çarmıha gerdiniz**.
+  * **[[:tr:obs:notes:frames:44-08|[44-08]]]** Petrus onlara, “Bu adam İsa Mesih’in kudretiyle önünüzde sapasağlam duruyor. Siz İsa’yı **çarmıha gerdiniz**, fakat Tanrı O’nu diriltti!
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
