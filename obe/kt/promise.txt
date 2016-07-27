@@ -2,9 +2,16 @@
 
 ===== Tanım =====
 
-Vaat bir işi yerine getirmek için verilen söz ya da yemindir. Bir kişi vaatte bulunduğunda konuştuğu kişileri yapacağını söylediği şeyleri gerçekten yapacağına inandırır.
+Vaat bir işi yerine getireceğine dair taahhüt anlamına gelir. Bir kişi bir vaatte bulunduğunda bir şeyi yapacağına dair söz vermiş olur.
+
+  * Kutsal Kitap, Tanrı’nın halkına verdiği çok vaadi içermektedir.
   * Vaatler ahit gibi resmî antlaşmaların önemli bir kısmıdır.
   * Vaat sık sık söz konusu işi yapacağını doğrulayan bir yeminle beraber yapılır.
+
+===== Çeviri için öneriler =====
+
+  * «Vaat» sözcüğü «inandırma», «taahhüt» ya da «garanti» şeklinde çevrilebilir.
+  * «Bir şeyi yapacağını vaat etmek» ifadesi «birini bir şey yapacağınıza inandırmak» ya da «bir şey yapacağınıza dair söz vermek» olarak çevrilebilir.
 
 ===== Çeviri için öneriler =====
 
