@@ -27,16 +27,15 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:12-12|[12-12]]]** İsrailliler Mısırlıların öldüklerini görünce Tanrı’ya iman ettiler ve Musa’nın Tanrı’nın **peygamberi** olduğuna inandılar.
-  ***[[:tr:obs:notes:frames:17-13|[17-13]]]** Tanrı Davut’un bu işine çok öfkelendi, günahının ne kadar kötü olduğunu bildirmesi için ona Natan **Peygamber**’i gönderdi.
-  ***[[:tr:obs:notes:frames:19-01|[19-01]]]** Tanrı İsraillilere tarihleri boyunca **peygamberler** gönderirdi. **Peygamberler** Tanrı’nın sesini duyan ve sözlerini halka ileten insanlardı.
-  ***[[:tr:obs:notes:frames:19-06|[19-06]]]** Baal’ın 450 **peygamberi** dahil İsrail Krallığı’nın bütün halkı Karmel Dağı’na geldi.
-  ***[[:tr:obs:notes:frames:19-17|[19-17]]]** İnsanlar çoğu zaman Tanrı’ya itaat etmezlerdi. **Peygamberlere** kötü davranır, bazen onları öldürürlerdi.
-  ***[[:tr:obs:notes:frames:21-09|[21-09]]]** Yeşaya **Peygamber** Mesih’in bakireden doğuşunu müjdeledi.
-  ***[[:tr:obs:notes:frames:43-05|[43-05]]]** Bu gördüğünüz, Tanrı’nın Yoel **Peygamber**’in diliyle ilan ettiği, ‘Ahir zamanda insanlara Ruhum’dan dökeceğim!’ **vaadinin** gerçekleşmesidir.”
-  ***[[:tr:obs:notes:frames:43-07|[43-07]]]** Böylece, ‘Sen Kutsal Olanı’nı mezarda çürümeye bırakmayacaksın.’ **peygamberlik sözü** yerine gelmiş oldu.
-  ***[[:tr:obs:notes:frames:48-12|[48-12]]]** Musa, Tanrı’nın sözlerini ilan eden büyük bir **peygamberdi**. Fakat İsa **peygamberlerin** en büyüğüdür. O bizzat Tanrı’nın Sözü’dür.
-
+  * **[[:tr:obs:notes:frames:12-12|[12-12]]]** İsrailliler Mısırlıların öldüklerini görünce Tanrı’ya iman ettiler ve Musa’nın Tanrı’nın **peygamberi**  olduğuna inandılar.
+  * **[[:tr:obs:notes:frames:17-13|[17-13]]]** Tanrı Davut’un bu işine çok öfkelendi, günahının ne kadar kötü olduğunu bildirmesi için ona Natan **Peygamber**’i gönderdi.
+  * **[[:tr:obs:notes:frames:19-01|[19-01]]]** Tanrı İsraillilere tarihleri boyunca **peygamberler**  gönderirdi. **Peygamberler**  Tanrı’nın sesini duyan ve sözlerini halka ileten insanlardı.
+  * **[[:tr:obs:notes:frames:19-06|[19-06]]]** Baal’ın 450 **peygamberi**  dahil İsrail Krallığı’nın bütün halkı Karmel Dağı’na geldi.
+  * **[[:tr:obs:notes:frames:19-17|[19-17]]]** İnsanlar çoğu zaman Tanrı’ya itaat etmezlerdi. **Peygamberlere**  kötü davranır, bazen onları öldürürlerdi.
+  * **[[:tr:obs:notes:frames:21-09|[21-09]]]** Yeşaya **Peygamber**  Mesih’in bakireden doğuşunu müjdeledi.
+  * **[[:tr:obs:notes:frames:43-05|[43-05]]]** Bu gördüğünüz, Tanrı’nın Yoel **Peygamber**’in diliyle ilan ettiği, ‘Ahir zamanda insanlara Ruhum’dan dökeceğim!’ **vaadinin**  gerçekleşmesidir.”
+  * **[[:tr:obs:notes:frames:43-07|[43-07]]]** Böylece, ‘Sen Kutsal Olanı’nı mezarda çürümeye bırakmayacaksın.’ **peygamberlik sözü**  yerine gelmiş oldu.
+  * **[[:tr:obs:notes:frames:48-12|[48-12]]]** Musa, Tanrı’nın sözlerini ilan eden büyük bir **peygamberdi**. Fakat İsa **peygamberlerin**  en büyüğüdür. O bizzat Tanrı’nın Sözü’dür.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
