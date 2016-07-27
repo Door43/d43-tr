@@ -25,11 +25,10 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:39-02|[39-02]]]** Sarayda Yahudi ileri gelenleri İsa’yı sorguya çektiler. O’nu yalan yere suçlayan birçok **yalancı şahit** getirdiler.
-  ***[[:tr:obs:notes:frames:39-04|[39-04]]]** Baş kâhin öfkeyle elbisesini yırtarak şöyle bağırdı: “Başka **şahide** ihtiyacımız kalmadı! O’nun Tanrı’nın Oğlu olduğunu iddia ettiğini duydunuz. Ne karar vereceksiniz?”
-  ***[[:tr:obs:notes:frames:42-08|[42-08]]]** “Ayrıca bana iman edenlerin insanların günahlarının affedilmesi için tövbe etmesi gerektiğini ilan edecekleri de kutsal yazılarda önceden bildirilmiştir. Bu tövbe çağrısı Yeruşalim’den başlayarak her yerde yaşayan bütün milletlere duyurulacak. Siz de bu olayların **şahitlerisiniz**.”
-  ***[[:tr:obs:notes:frames:43-07|[43-07]]]** “Biz Tanrı’nın İsa’yı diriltmesine **şahit** olduk.”
-
+  * **[[:tr:obs:notes:frames:39-02|[39-02]]]** Sarayda Yahudi ileri gelenleri İsa’yı sorguya çektiler. O’nu yalan yere suçlayan birçok **yalancı şahit**  getirdiler.
+  * **[[:tr:obs:notes:frames:39-04|[39-04]]]** Baş kâhin öfkeyle elbisesini yırtarak şöyle bağırdı: “Başka **şahide**  ihtiyacımız kalmadı! O’nun Tanrı’nın Oğlu olduğunu iddia ettiğini duydunuz. Ne karar vereceksiniz?”
+  * **[[:tr:obs:notes:frames:42-08|[42-08]]]** “Ayrıca bana iman edenlerin insanların günahlarının affedilmesi için tövbe etmesi gerektiğini ilan edecekleri de kutsal yazılarda önceden bildirilmiştir. Bu tövbe çağrısı Yeruşalim’den başlayarak her yerde yaşayan bütün milletlere duyurulacak. Siz de bu olayların **şahitlerisiniz**.”
+  * **[[:tr:obs:notes:frames:43-07|[43-07]]]** “Biz Tanrı’nın İsa’yı diriltmesine **şahit**  olduk.”
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
