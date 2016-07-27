@@ -18,12 +18,8 @@ Nevat oğlu Yarovam kuzeydeki İsrail Krallığı’nın ilk kralıydı. Krallı
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:18-08|[18-08]]]** İsrail’in Rehavam’a karşı başkaldıran öbür on oymağı **Yarovam** adında bir adamı kralları olarak kabul ettiler.
-  ***[[:tr:obs:notes:frames:18-09|[18-09]]]** **Yarovam** Tanrı’ya karşı başkaldırarak halkı günaha sürükledi. Yahuda’daki Tapınak’ta Tanrı’ya tapınmak yerine halkının tapınması için iki put dikti.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:18-08|[18-08]]]** İsrail’in Rehavam’a karşı başkaldıran öbür on oymağı **Yarovam**  adında bir adamı kralları olarak kabul ettiler.
+  * **[[:tr:obs:notes:frames:18-09|[18-09]]]****Yarovam**  Tanrı’ya karşı başkaldırarak halkı günaha sürükledi. Yahuda’daki Tapınak’ta Tanrı’ya tapınmak yerine halkının tapınması için iki put dikti.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
