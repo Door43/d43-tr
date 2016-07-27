@@ -11,10 +11,19 @@ Birini affetmek demek, yaptığı kötülük için o kişiye darılmamak ve öfk
 
 ===== Çeviri için öneriler =====
 
-  * «Affetmek» bağlama dayalı olarak «bağışlamak», «iptal etmek», «vazgeçmek» gibi sözlerle çevrilebilir.
-  * «Af» sözcüğü «darılmama», «(birini) suçsuz ilan etme» ya da «bağışlama» anlamına gelen sözcük ya da ifade ile çevrilebilir.
+Birini affetmek demek, kötülük yapmış olan bir kişiye karşı kin beslememek demektir. «Af», birini bağışlama eylemidir.
 
-(See:  [[:tr:obe:kt:guilt]])
+  * Birini affetmek çoğu zaman onu yaptığı yanlıştan dolayı cezalandırmamak anlamına gelir.
+  * Bu terim, örneğin, «borcu bağışlamak» gibi bir ifadede, mecazen «iptal etmek» anlamında kullanılabilir.
+  * İnsanlar günahlarını itiraf ettikleri zaman Tanrı onları İsa’nın çarmıhta kurban olarak ölmesine dayanarak affeder.
+  * İsa öğrencilerine kendilerini affettiği gibi başkalarını affetmelerini öğretti.
+
+===== Çeviri için öneriler =====
+
+  * «Affetmek» bağlama dayalı olarak «bağışlamak», «iptal etmek», «vazgeçmek» gibi sözlerle çevrilebilir.
+  * «Af» sözcüğü «darılmama», «(birini) suçsuz ilan etme» ya da «bağışlama eylemi» anlamına gelen sözcük ya da ifade ile çevrilebilir.
+
+(See: [[:tr:obe:kt:guilt|suç]])
 
 ===== Bible References: =====
 
