@@ -32,10 +32,9 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:04-06|[04-06]]]** Avram Kenan’a vardığında Tanrı, “Etrafına bak! Gördüğün bu toprağın hepsini sana ve soyuna **miras** olarak vereceğim.” dedi.
-  ***[[:tr:obs:notes:frames:27-01|[27-01]]]** Bir gün Tevrat bilginlerinden biri İsa’yı denemek amacıyla O’na, “Hocam, ebedî hayatı **miras almak** için ne yapmalıyım?” diye sordu.
-  ***[[:tr:obs:notes:frames:35-03|[35-03]]]** “İki oğlu olan bir adam vardı. Küçük oğlu ona, ‘Baba, **mirasımı** hemen istiyorum!’ dedi. Baba da servetini iki oğlu arasında paylaştırdı.”
-
+  * **[[:tr:obs:notes:frames:04-06|[04-06]]]** Avram Kenan’a vardığında Tanrı, “Etrafına bak! Gördüğün bu toprağın hepsini sana ve soyuna **miras**  olarak vereceğim.” dedi.
+  * **[[:tr:obs:notes:frames:27-01|[27-01]]]** Bir gün Tevrat bilginlerinden biri İsa’yı denemek amacıyla O’na, “Hocam, ebedî hayatı **miras almak**  için ne yapmalıyım?” diye sordu.
+  * **[[:tr:obs:notes:frames:35-03|[35-03]]]** “İki oğlu olan bir adam vardı. Küçük oğlu ona, ‘Baba, **mirasımı**  hemen istiyorum!’ dedi. Baba da servetini iki oğlu arasında paylaştırdı.”
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
