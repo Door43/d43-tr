@@ -17,11 +17,7 @@ Rehavam Kral Süleyman’ın oğullarından biriydi ve Süleyman’ın ölümün
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:18-05|[18-05]]]** Süleyman öldükten sonra oğlu **Rehavam** kral oldu. **Rehavam** akılsız biriydi.
-  ***[[:tr:obs:notes:frames:18-06|[18-06]]]** **Rehavam** halka akılsızca cevap verdi: “Babam Süleyman’ın üzerinize ağır işler koyduğunu zannetmişsiniz, bundan sonra ben üzerinize daha ağır işler koyacağım ve sizi daha sert cezalandıracağım.”
-  ***[[:tr:obs:notes:frames:18-07|[18-07]]]** İsrail halkının on oymağı **Rehavam**’a karşı başkaldırdı. Yalnızca iki oymağı ona sadık kaldı.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
-
+  * **[[:tr:obs:notes:frames:18-05|[18-05]]]** Süleyman öldükten sonra oğlu **Rehavam**  kral oldu. **Rehavam**  akılsız biriydi.
+  * **[[:tr:obs:notes:frames:18-06|[18-06]]]****Rehavam**  halka akılsızca cevap verdi: “Babam Süleyman’ın üzerinize ağır işler koyduğunu zannetmişsiniz, bundan sonra ben üzerinize daha ağır işler koyacağım ve sizi daha sert cezalandıracağım.”
+  * **[[:tr:obs:notes:frames:18-07|[18-07]]]** İsrail halkının on oymağı **Rehavam**’a karşı başkaldırdı. Yalnızca iki oymağı ona sadık kaldı.
+~~DISCUSSION~~{{tag>publish ktobs}}
