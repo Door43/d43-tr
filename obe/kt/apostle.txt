@@ -22,12 +22,11 @@ Havariler, Tanrı ve Hükümranlığı hakkında vaaz etmek için İsa tarafınd
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:26-10|[26-10]]]** Sonra İsa, **havari** diye adlandırılan on iki adam seçti. **Havariler** İsa’yla her yere gittiler ve O’ndan öğrendiler.
-  ***[[:tr:obs:notes:frames:30-01|[30-01]]]** İsa **havarilerini** birçok köyde vazetmeye ve öğretmeye göndermişti.
-  ***[[:tr:obs:notes:frames:38-02|[38-02]]]** Yahuda İsa’nın on iki **havarisinden** biriydi. O, **havarilerin** para kesesi için sorumluydu, ama para seven ve sık sık keseden para çalan biriydi.
-  ***[[:tr:obs:notes:frames:43-13|[43-13]]]** İmanlılar sürekli olarak **havarilerin** öğretisini dinliyor, birlikte vakit geçiriyor, yemek yiyor ve dua ediyorlardı.
-  ***[[:tr:obs:notes:frames:46-08|[46-08]]]** O zaman Barnaba adındaki bir imanlı Saul’u alıp **havarilere** götürdü ve onlara Saul’un Şam’da nasıl cesaretle vazettiğini anlattı.
-
+  * **[[:tr:obs:notes:frames:26-10|[26-10]]]** Sonra İsa, **havari**  diye adlandırılan on iki adam seçti. **Havariler**  İsa’yla her yere gittiler ve O’ndan öğrendiler.
+  * **[[:tr:obs:notes:frames:30-01|[30-01]]]** İsa **havarilerini**  birçok köyde vaaz etmeye ve öğretmeye göndermişti.
+  * **[[:tr:obs:notes:frames:38-02|[38-02]]]** Yahuda İsa’nın on iki **havarisinden**  biriydi. O, **havarilerin**  para kesesi için sorumluydu, ama para seven ve sık sık keseden para çalan biriydi.
+  * **[[:tr:obs:notes:frames:43-13|[43-13]]]** İmanlılar sürekli olarak **havarilerin**  öğretisini dinliyor, birlikte vakit geçiriyor, yemek yiyor ve dua ediyorlardı.
+  * **[[:tr:obs:notes:frames:46-08|[46-08]]]** O zaman Barnaba adındaki bir imanlı Saul’u alıp **havarilere**  götürdü ve onlara Saul’un Şam’da nasıl cesaretle vaaz ettiğini anlattı.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
