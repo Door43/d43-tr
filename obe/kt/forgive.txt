@@ -23,14 +23,13 @@ Birini affetmek demek, yaptığı kötülük için o kişiye darılmamak ve öfk
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:07-10|[07-10]]]** Fakat Esav artık Yakup’u **affetmişti** ve kardeşler birbirini görmeye memnundular.
-  ***[[:tr:obs:notes:frames:13-15|[13-15]]]** Musa yine dağa çıkıp halkı **affetmesi** için Tanrı’ya yalvardı. Tanrı Musa’nın duasını işitti ve halkı **affetti**.
-  ***[[:tr:obs:notes:frames:17-13|[17-13]]]** Davut günahından tövbe etti ve Tanrı onu **affetti**.
-  ***[[:tr:obs:notes:frames:21-05|[21-05]]]** Yeni Ahit’te Tanrı yasalarını insanlarının yüreğine yazacak, herkes Tanrı’yı kişisel olarak tanıyacak, O’nun halkı olacak ve Tanrı onların günahlarını **affedecek**.
-  ***[[:tr:obs:notes:frames:29-01|[29-01]]]** Bir gün havari Petrus İsa’ya, “Hocam, bana karşı günah işleyen kardeşimi kaç kere **bağışlamalıyım**? Yedi kere mi?” diye sordu.
-  ***[[:tr:obs:notes:frames:29-08|[29-08]]]** Bana yalvardın, senin borcunu **bağışladım**.
-  ***[[:tr:obs:notes:frames:38-05|[38-05]]]** Sonra İsa kâseyi alıp dedi: “Bundan için. Bu, günahların **affedilmesi** için akıtılan kanım, Yeni Ahit’i başlatan kandır.”
-
+  * **[[:tr:obs:notes:frames:07-10|[07-10]]]** Fakat Esav artık Yakup’u **affetmişti**  ve kardeşler birbirini görmeye memnundular.
+  * **[[:tr:obs:notes:frames:13-15|[13-15]]]** Musa yine dağa çıkıp halkı **affetmesi**  için Tanrı’ya yalvardı. Tanrı Musa’nın duasını işitti ve halkı **affetti**.
+  * **[[:tr:obs:notes:frames:17-13|[17-13]]]** Davut günahından tövbe etti ve Tanrı onu **affetti**.
+  * **[[:tr:obs:notes:frames:21-05|[21-05]]]** Yeni Ahit’te Tanrı yasalarını insanlarının yüreğine yazacak, herkes Tanrı’yı kişisel olarak tanıyacak, O’nun halkı olacak ve Tanrı onların günahlarını **affedecek**.
+  * **[[:tr:obs:notes:frames:29-01|[29-01]]]** Bir gün havari Petrus İsa’ya, “Hocam, bana karşı günah işleyen kardeşimi kaç kere **bağışlamalıyım**? Yedi kere mi?” diye sordu.
+  * **[[:tr:obs:notes:frames:29-08|[29-08]]]** Bana yalvardın, senin borcunu **bağışladım**.
+  * **[[:tr:obs:notes:frames:38-05|[38-05]]]** Sonra İsa kâseyi alıp dedi: “Bundan için. Bu, günahların **affedilmesi**  için akıtılan kanım, Yeni Ahit’i başlatan kandır.”
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
