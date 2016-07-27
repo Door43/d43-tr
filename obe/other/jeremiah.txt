@@ -3,10 +3,11 @@
 ===== Gerçeklikler =====
 
 Yeremya, Yahuda Krallığı’nda yaşayan bir Tanrı peygamberiydi.
+
   * Peygamberlerin çoğu gibi Yeremya halkı günahları için Tanrı’nın gelecek cezası hakkında sık sık ikaz etmek zorundaydı.
   * Yeremya Babillilerin Yeruşalim’i işgal edeceğini önceden bildirdi ve onun bu peygamberliği Yahuda’daki insanların bazısını öfkelendirdi. Dolayısıyla Yeremya’yı kuru bir sarnıca attılar ve ölmesi için orada bıraktılar. Ancak Yahuda’nın kralı Yeremya’nın sarnıçtan kurtarılmasını emretti.
 
-(See also: [[tr:obe:kt:prophet]], [[tr:obe:other:kingdomofjudah]], [[tr:obe:other:babylon]])
+(See also: [[:tr:obe:kt:prophet|peygamber]], [[:tr:obe:other:kingdomofjudah|Yahuda Krallığı]], [[:tr:obe:other:babylon|Babil]])
 
 ===== Bible References: =====
 
