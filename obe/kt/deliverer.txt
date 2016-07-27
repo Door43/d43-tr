@@ -22,10 +22,9 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:16-03|[16-03]]]** O zaman Tanrı, halkını düşmanlarından kurtaracak ve ülkeye selâmet getirecek **kurtarıcılar** gönderirdi.
-  ***[[:tr:obs:notes:frames:16-16|[16-16]]]** Sonunda halk tekrar Tanrı’dan yardım diledi ve Tanrı başka bir **kurtarıcı** gönderdi.
-  ***[[:tr:obs:notes:frames:16-17|[16-17]]]** Tanrı yıllar boyunca İsraillileri düşmanlarından kurtaran çok **kurtarıcı** göndermiştir.
-
+  * **[[:tr:obs:notes:frames:16-03|[16-03]]]** O zaman Tanrı, halkını düşmanlarından kurtaracak ve ülkeye selâmet getirecek kurtarıcılar gönderirdi.
+  * **[[:tr:obs:notes:frames:16-16|[16-16]]]** Sonunda halk tekrar Tanrı’dan yardım diledi ve Tanrı başka bir **kurtarıcı**  gönderdi.
+  * **[[:tr:obs:notes:frames:16-17|[16-17]]]** Tanrı yıllar boyunca İsraillileri düşmanlarından kurtaran çok **kurtarıcı**  göndermiştir.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
