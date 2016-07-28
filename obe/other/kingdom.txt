@@ -25,12 +25,11 @@ Krallık, kral tarafından yönetilen bir grup insandır. Ayrıca bir kralın ya
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:13-02|[13-02]]]** Tanrı Musa’ya ve İsrail halkına şöyle seslendi: “Sözüme itaat eder, ahdime bağlı kalırsanız, çok kıymetli hazinem, kâhinler **krallığı**, kutsal bir millet olacaksınız.”
-  ***[[:tr:obs:notes:frames:18-04|[18-04]]]** Tanrı Süleyman’a öfkelendi ve sadakatsizliğinin cezası olarak ölümünden sonra İsrail’in iki **krallığa** bölüneceğine söz verdi.
-  ***[[:tr:obs:notes:frames:18-07|[18-07]]]** İsrail halkının on oymağı Rehavam’a karşı başkaldırdı. Yalnızca iki oymağı ona sadık kaldı. Bunlar Yahuda **Krallığı** oldular.
-  ***[[:tr:obs:notes:frames:18-08|[18-08]]]** İsrail’in Rehavam’a karşı başkaldıran öbür on oymağı Yarovam adında bir adamı kralları olarak kabul ettiler. Onlar ülkenin kuzey bölgesinde **krallık** kurdular ve İsrail **Krallığı** olarak adlandırıldılar.
-  ***[[:tr:obs:notes:frames:21-08|[21-08]]]** Kral, bir **krallık** üzerinde hüküm süren ve insanları yargılayan biridir.
-
+  * **[[:tr:obs:notes:frames:13-02|[13-02]]]** Tanrı Musa’ya ve İsrail halkına şöyle seslendi: “Sözüme itaat eder, ahdime bağlı kalırsanız, çok kıymetli hazinem, kâhinler **krallığı**, kutsal bir millet olacaksınız.”
+  * **[[:tr:obs:notes:frames:18-04|[18-04]]]** Tanrı Süleyman’a öfkelendi ve sadakatsizliğinin cezası olarak ölümünden sonra İsrail’in iki **krallığa**  bölüneceğine söz verdi.
+  * **[[:tr:obs:notes:frames:18-07|[18-07]]]** İsrail halkının on oymağı Rehavam’a karşı başkaldırdı. Yalnızca iki oymağı ona sadık kaldı. Bunlar Yahuda **Krallığı**  oldular.
+  * **[[:tr:obs:notes:frames:18-08|[18-08]]]** İsrail’in Rehavam’a karşı başkaldıran öbür on oymağı Yarovam adında bir adamı kralları olarak kabul ettiler. Onlar ülkenin kuzey bölgesinde **krallık**  kurdular ve İsrail **Krallığı**  olarak adlandırıldılar.
+  * **[[:tr:obs:notes:frames:21-08|[21-08]]]** Kral, bir **krallık**  üzerinde hüküm süren ve insanları yargılayan biridir.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
