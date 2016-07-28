@@ -18,14 +18,13 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:08-15|[08-15]]]** Yakup’un on iki oğlunun soyundan gelenler **İsrail**’in on iki oymağı oldular.
-  ***[[:tr:obs:notes:frames:09-03|[09-03]]]** Mısırlılar **İsraillilere** birçok binalar, hatta kentler kurdurdular.
-  ***[[:tr:obs:notes:frames:09-05|[09-05]]]** Bir **İsrailli** kadın bir erkek çocuk doğurdu.
-  ***[[:tr:obs:notes:frames:10-01|[10-01]]]** (Onlar) şöyle dediler: “**İsrail**’in Tanrısı halkımı salıver diyor!”
-  ***[[:tr:obs:notes:frames:14-12|[14-12]]]** Buna rağmen **İsrail** halkı Tanrı’ya ve Musa’ya karşı söylendi, homurdandı.
-  ***[[:tr:obs:notes:frames:15-09|[15-09]]]** O gün Tanrı, **İsrail** için savaştı. Amorluları şaşkına çevirdi, onların üzerine gökten iri iri dolu yağdırarak birçoğunu öldürdü.
-  ***[[:tr:obs:notes:frames:15-12|[15-12]]]** Bu savaşlar bitince Tanrı, **İsrail**’in her oymağına vadettiği ülkenin belirli bir kısmını verdi. Sonra Tanrı **İsrail**’i sınırları içinde selâmete kavuşturdu.
-  ***[[:tr:obs:notes:frames:16-16|[16-16]]]** Bu yüzden Tanrı, yine putlara tapınmaya başlayan **İsrail** halkını cezalandırdı.
-  ***[[:tr:obs:notes:frames:43-06|[43-06]]]** “Ey **İsrail** halkı! Kendiniz zaten gördüğünüz ve bildiğiniz gibi, İsa Tanrı’nın kudretiyle birçok alâmet ve mucize yapan bir insandı.”
-
+  * **[[:tr:obs:notes:frames:08-15|[08-15]]]** Yakup’un on iki oğlunun soyundan gelenler **İsrail**’in on iki oymağı oldular.
+  * **[[:tr:obs:notes:frames:09-03|[09-03]]]** Mısırlılar **İsraillilere**  birçok binalar, hatta kentler kurdurdular.
+  * **[[:tr:obs:notes:frames:09-05|[09-05]]]** Bir **İsrailli**  kadın bir erkek çocuk doğurdu.
+  * **[[:tr:obs:notes:frames:10-01|[10-01]]]** (Onlar) şöyle dediler: “**İsrail**’in Tanrısı halkımı salıver diyor!”
+  * **[[:tr:obs:notes:frames:14-12|[14-12]]]** Buna rağmen **İsrail**  halkı Tanrı’ya ve Musa’ya karşı söylendi, homurdandı.
+  * **[[:tr:obs:notes:frames:15-09|[15-09]]]** O gün Tanrı, **İsrail**  için savaştı. Amorluları şaşkına çevirdi, onların üzerine gökten iri iri dolu yağdırarak birçoğunu öldürdü.
+  * **[[:tr:obs:notes:frames:15-12|[15-12]]]** Bu savaşlar bitince Tanrı, **İsrail**’in her oymağına vadettiği ülkenin belirli bir kısmını verdi. Sonra Tanrı **İsrail**’i sınırları içinde selâmete kavuşturdu.
+  * **[[:tr:obs:notes:frames:16-16|[16-16]]]** Bu yüzden Tanrı, yine putlara tapınmaya başlayan **İsrail**  halkını cezalandırdı.
+  * **[[:tr:obs:notes:frames:43-06|[43-06]]]** “Ey **İsrail**  halkı! Kendiniz zaten gördüğünüz ve bildiğiniz gibi, İsa Tanrı’nın kudretiyle birçok alâmet ve mucize yapan bir insandı.”
 ~~DISCUSSION~~{{tag>publish ktobs}}
