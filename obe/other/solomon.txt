@@ -18,14 +18,11 @@ Süleyman Kral Davut’un oğullarından biriydi. Annesi Bat-Şeva’ydı.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:17-14|[17-14]]]** Daha sonra Davut’la Bat-Şeva’nın başka bir oğlu oldu ve ona **Süleyman** adını verdiler.
-  ***[[:tr:obs:notes:frames:18-01|[18-01]]]** Aradan uzun yıllar geçti. Davut öldü ve oğlu **Süleyman** kral oldu. Tanrı **Süleyman**’a seslenerek en çok ne istediğini sordu. **Süleyman** bilgeliği istedi, bu isteği Tanrı’nın hoşuna gitti. Tanrı **Süleyman**’ı dünyanın en bilge insanı etti. **Süleyman** çok şey öğrenerek son derece bilge bir hâkim oldu. Ayrıca Tanrı onu zenginleştirdi.
-  ***[[:tr:obs:notes:frames:18-02|[18-02]]]** **Süleyman** Yeruşalim’de babası Davut’un tasarladığı ve inşası için hazırlık yaptığı tapınağı inşa ettirdi.
-  ***[[:tr:obs:notes:frames:18-03|[18-03]]]** Ancak **Süleyman** yabancı kadınlara âşık oldu... **Süleyman** yaşlanınca o kadınlarla birlikte ilâhlarına tapınıyordu.
-  ***[[:tr:obs:notes:frames:18-04|[18-04]]]** Tanrı **Süleyman**’a öfkelendi ve sadakatsizliğinin cezası olarak ölümünden sonra İsrail’in iki krallığa bölüneceğine söz verdi.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:17-14|[17-14]]]** Daha sonra Davut’la Bat-Şeva’nın başka bir oğlu oldu ve ona **Süleyman**  adını verdiler.
+  * **[[:tr:obs:notes:frames:18-01|[18-01]]]** Aradan uzun yıllar geçti. Davut öldü ve oğlu **Süleyman**  kral oldu. Tanrı **Süleyman**’a seslenerek en çok ne istediğini sordu. **Süleyman**  bilgeliği istedi, bu isteği Tanrı’nın hoşuna gitti. Tanrı **Süleyman**’ı dünyanın en bilge insanı etti. **Süleyman**  çok şey öğrenerek son derece bilge bir hâkim oldu. Ayrıca Tanrı onu zenginleştirdi.
+  * **[[:tr:obs:notes:frames:18-02|[18-02]]]****Süleyman**  Yeruşalim’de babası Davut’un tasarladığı ve inşası için hazırlık yaptığı tapınağı inşa ettirdi.
+  * **[[:tr:obs:notes:frames:18-03|[18-03]]]** Ancak **Süleyman**  yabancı kadınlara âşık oldu... **Süleyman**  yaşlanınca o kadınlarla birlikte ilâhlarına tapınıyordu.
+  * **[[:tr:obs:notes:frames:18-04|[18-04]]]** Tanrı **Süleyman**’a öfkelendi ve sadakatsizliğinin cezası olarak ölümünden sonra İsrail’in iki krallığa bölüneceğine söz verdi.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
