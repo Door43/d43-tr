@@ -16,19 +16,15 @@ Bir grup insana Tanrı hakkında öğretmek ve o insanları Tanrı’ya itaat et
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:24-02|[24-02]]]** Yahya onlara, “Tövbe edin, çünkü Tanrı’nın Hükümranlığı yaklaştı!” diye **seslenirdi**.
-  ***[[:tr:obs:notes:frames:30-01|[30-01]]]** İsa havarilerini birçok köyde **vazetmeye** ve öğretmeye göndermişti.
-  ***[[:tr:obs:notes:frames:38-01|[38-01]]]** İsa halka **vazetmeye** ve öğretmeye başladıktan üç yıl sonra havarilerine onlarla beraber Yeruşalim’de Fısıh Bayramı’nı kutlamak istediğini ve orada öldürüleceğini söyledi.​
-  ***[[:tr:obs:notes:frames:45-06|[45-06]]]** Buna rağmen gittikleri her yerde İsa hakkında **konuştular**.
-  ***[[:tr:obs:notes:frames:45-07|[45-07]]]** O (Filipus), Samiriye’ye gitti ve orada İsa hakkında **vazetti**. Çok insan kurtuldu.
-  ***[[:tr:obs:notes:frames:46-06|[46-06]]]** Bundan hemen sonra Saul Şam’daki Yahudilere, “İsa Tanrı’nın Oğlu’dur!” diye **vazetmeye** başladı.
-  ***[[:tr:obs:notes:frames:46-10|[46-10]]]** Sonra başka yerlerde İsa’yla ilgili sevindirici haberi **vazetmeleri** için onları yolcu ettiler.
-  ***[[:tr:obs:notes:frames:47-14|[47-14]]]** Pavlus’la diğer kilise önderleri birçok kente giderek insanlara İsa’yla ilgili sevindirici haberi **vazettiler** ve öğrettiler.
-  ***[[:tr:obs:notes:frames:50-02|[50-02]]]** İsa yeryüzündeyken şöyle dedi: “Bana iman edenler Tanrı’nın Hükümranlığı’yla ilgili sevindirici haberi dünyanın her yerinde **duyuracaklar**. O zaman son gelecektir.”
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:24-02|[24-02]]]** Yahya onlara, “Tövbe edin, çünkü Tanrı’nın Hükümranlığı yaklaştı!” diye **seslenirdi**.
+  * **[[:tr:obs:notes:frames:30-01|[30-01]]]** İsa havarilerini birçok köyde **vaaz etmeye**  ve öğretmeye göndermişti.
+  * **[[:tr:obs:notes:frames:38-01|[38-01]]]** İsa halka **vaaz etmeye**  ve öğretmeye başladıktan üç yıl sonra havarilerine onlarla beraber Yeruşalim’de Fısıh Bayramı’nı kutlamak istediğini ve orada öldürüleceğini söyledi.
+  * **[[:tr:obs:notes:frames:45-06|[45-06]]]** Buna rağmen gittikleri her yerde İsa hakkında **konuştular**.
+  * **[[:tr:obs:notes:frames:45-07|[45-07]]]** O (Filipus), Samiriye’ye gitti ve orada İsa hakkında **vaaz etti**. Çok insan kurtuldu.
+  * **[[:tr:obs:notes:frames:46-06|[46-06]]]** Bundan hemen sonra Saul Şam’daki Yahudilere, “İsa Tanrı’nın Oğlu’dur!” diye **vaaz etmeye**  başladı.
+  * **[[:tr:obs:notes:frames:46-10|[46-10]]]** Sonra başka yerlerde İsa’yla ilgili sevindirici haberi **vaaz etmeleri**  için onları yolcu ettiler.
+  * **[[:tr:obs:notes:frames:47-14|[47-14]]]** Pavlus’la diğer kilise önderleri birçok kente giderek insanlara İsa’yla ilgili sevindirici haberi **vaaz ettiler**  ve öğrettiler.
+  * **[[:tr:obs:notes:frames:50-02|[50-02]]]** İsa yeryüzündeyken şöyle dedi: “Bana iman edenler Tanrı’nın Hükümranlığı’yla ilgili sevindirici haberi dünyanın her yerinde **duyuracaklar**. O zaman son gelecektir.”
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
