@@ -13,10 +13,6 @@
   * «Acı çekmek» terimi «ağrı hissetmek», «zorluk çekmek», «sıkıntı çekmek» ya da «zor ve ağrılı deneyimlerden geçmek» şeklinde çevrilebilir.
   * Bağlama dayalı olarak, «ıstırap» ya da «sıkıntı» ayrıca «son derece zor durum», «şiddetli zorluk», «zor deneyimler» ya da «ağrılı deneyimlerin zamanı» olarak çevrilebilir.
 
-===== Çeviri için öneriler =====
-
-  * «Acı çekmek» terimi «ağrı hissetmek», «zorluk çekmek», «sıkıntı çekmek» ya da «zor durumlardan geçmek» şeklinde çevrilebilir.
-  * Bağlama dayalı olarak, «ıstırap» ya da «sıkıntı» ayrıca «son derece zor durum», «şiddetli zorluk», «zor deneyimler» ya da «ağrı veren deneyimlerin zamanı» olarak çevrilebilir."
 
 ===== Kutsal Kitap referansları: ====={{topic>:en:bible?suffer&nocomments}}===== Kutsal Kitap öykülerinden örnekler: =====
   * **[[:en:obs:notes:frames:09-13|[09-13]]]** Tanrı şöyle dedi: “Halkımın **çektiği sıkıntıları** gördüm.”
