@@ -16,11 +16,9 @@ Naaman İsrail’in düşmanlarından birinin ordusunun komutanıydı.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:19-14|[19-14]]]** Mucizelerden biri düşman ordusunun komutanı **Naaman**’ın hayatında oldu. **Naaman** korkunç bir deri hastalığına tutulmuştu.
-  ***[[:tr:obs:notes:frames:19-15|[19-15]]]** **Naaman** önce öfkelenip budalaca olduğu için bu işi yapmayacağını söyledi. Fakat biraz sonra fikrini değiştirerek Şeria Nehri’nde yedi kez suya daldı.
-  ***[[:tr:obs:notes:frames:26-06|[26-06]]]** “(Elişa Peygamber) Yalnızca İsrail’in düşmanlarının ordu komutanı **Naaman**’a şifa verdi.”
-
+  * **[[:tr:obs:notes:frames:19-14|[19-14]]]** Mucizelerden biri düşman ordusunun komutanı **Naaman**’ın hayatında oldu. **Naaman**  korkunç bir deri hastalığına tutulmuştu.
+  * **[[:tr:obs:notes:frames:19-15|[19-15]]]****Naaman**  önce öfkelenip budalaca olduğu için bu işi yapmayacağını söyledi. Fakat biraz sonra fikrini değiştirerek Şeria Nehri’nde yedi kez suya daldı.
+  * **[[:tr:obs:notes:frames:26-06|[26-06]]]** “(Elişa Peygamber) Yalnızca İsrail’in düşmanlarının ordu komutanı **Naaman**’a şifa verdi.”
 ~~DISCUSSION~~{{tag>publish ktobs}}
-
 
 ~~NOCACHE~~
