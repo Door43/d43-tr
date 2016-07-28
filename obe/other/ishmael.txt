@@ -2,12 +2,13 @@
 
 ===== Gerçeklikler =====
 
-İsmail’in babası İbrahim’di, annesiyse Sara’nın cariyesi Hacer’di. 
+İsmail’in babası İbrahim’di, annesiyse Sara’nın cariyesi Hacer’di.
+
   * «İsmail» adının anlamı «Tanrı işitir.»
   * İsmail Tanrı’nın kendisine ve geleceğine dair Hacer’e verdiği vaadin sahibi oldu
   * Ne var ki İsmail, Tanrı’nın İbrahim’e soyunun yıldızlar kadar çoğalacağına dair verdiği vaadin ait olduğu oğul değildi.
 
-(See also: [[tr:obe:other:Abraham]], [[tr:obe:other:Sarah]])
+(See also: [[:tr:obe:other:abraham|İbrahim]], [[:tr:obe:other:sarah|Sara]])
 
 ===== Bible References: =====
 
