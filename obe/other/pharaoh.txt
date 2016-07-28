@@ -17,12 +17,11 @@ Eski zamanlarda Mısır ülkesini yöneten krallara firavun denirdi.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:08-06|[08-06]]]** Bir gece **firavun** -Mısırlılar krallarına firavun derlerdi- kendini son derece endişelendiren iki rüya görmüştü.
-  ***[[:tr:obs:notes:frames:08-08|[08-08]]]** **Firavun** Yusuf’a o kadar hayran oldu ki onu bütün Mısır’da ikinci güç sahibi olarak tayin etti!
-  ***[[:tr:obs:notes:frames:09-02|[09-02]]]** Bu yüzden o dönemde Mısır’ı yöneten **firavun** İsraillileri köleleştirdi.
-  ***[[:tr:obs:notes:frames:09-13|[09-13]]]** “Seni **firavunun** yanına göndereceğim ve sen İsraillileri Mısır’daki esaretten kurtaracaksın.”
-  ***[[:tr:obs:notes:frames:10-02|[10-02]]]** Bu belalar vasıtasıyla Tanrı **firavundan** ve bütün Mısır ilâhlarından güçlü olduğunu gösterdi.
-
+  * **[[:tr:obs:notes:frames:08-06|[08-06]]]** Bir gece **firavun**  -Mısırlılar krallarına firavun derlerdi- kendini son derece endişelendiren iki rüya görmüştü.
+  * **[[:tr:obs:notes:frames:08-08|[08-08]]]****Firavun**  Yusuf’a o kadar hayran oldu ki onu bütün Mısır’da ikinci güç sahibi olarak tayin etti!
+  * **[[:tr:obs:notes:frames:09-02|[09-02]]]** Bu yüzden o dönemde Mısır’ı yöneten **firavun**  İsraillileri köleleştirdi.
+  * **[[:tr:obs:notes:frames:09-13|[09-13]]]** “Seni **firavunun**  yanına göndereceğim ve sen İsraillileri Mısır’daki esaretten kurtaracaksın.”
+  * **[[:tr:obs:notes:frames:10-02|[10-02]]]** Bu belalar vasıtasıyla Tanrı **firavundan**  ve bütün Mısır ilâhlarından güçlü olduğunu gösterdi.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
