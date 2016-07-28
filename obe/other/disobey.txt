@@ -3,13 +3,14 @@
 ===== Tanım =====
 
 «İtaatsizlik etmek» terimi yetkili birinin buyurduğuna ya da öğrettiğine uymamak anlamına gelir. Böyle davranan kişi «itaatsiz» biridir.
+
   * Yapmaması söylenen bir işi yapan biri itaatsizlik eder.
   * İtaatsizlik etmek ayrıca buyurulan bir işi yapmaktan vazgeçmek anlamına gelir.
   * «İtaatsiz» terimi ayrıca itaatsizlik etmek ya da başkaldırmak alışkanlık hâline gelmiş birine ait olarak kullanılır. Böyle biri günahkâr ya da kötü insandır.
   * «İtaatsizlik» demek, «itaat etmeme eylemi» ya da «Tanrı’nın isteğine aykırı olan davranış» demektir.
   * «İtaatsiz halk» şöyle çevrilebilir: «itaatsizlik etmeye devam eden insanlar» ya da «Tanrı’nın buyurduğunu yapmayan insanlar.»
 
-(See also: [[tr:obe:kt:authority]], [[tr:obe:kt:evil]], [[tr:obe:kt:sin]], [[tr:obe:other:obey]], [[tr:obe:kt:authority|yetki]], [[tr:obe:kt:evil|kötü, kötülük]], [[tr:obe:kt:sin|günah, günahlı, günahkâr]], [[tr:obe:other:obey|itaat etmek, itaat]])
+(See also: [[:tr:obe:kt:authority|authority]], [[:tr:obe:kt:evil|kötülük]], [[:tr:obe:kt:sin|günah]], [[:tr:obe:other:obey|itaatetmek]], [[:tr:obe:kt:authority|yetki]], [[:tr:obe:kt:evil|kötü, kötülük]], [[:tr:obe:kt:sin|günah, günahlı, günahkâr]], [[:tr:obe:other:obey|itaat etmek, itaat]])
 
 ===== Bible References: =====
 
