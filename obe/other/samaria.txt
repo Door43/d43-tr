@@ -20,12 +20,8 @@ Samiriye, İsrail’in kuzeyinde bulunan bir kentin ve çevresindeki bölgenin a
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:20-04|[20-04]]]** Sonra Asurlular, eskiden İsrail Krallığı olan ülkeye yabancıları yerleştirdiler. Yabancılar, tahrip edilen kentleri yeniden kurdular, orada kalan İsraillilerle evlendiler. Yabancılarla evlenen İsraillilere **Samiriyeli** dendi.
-  ***[[:tr:obs:notes:frames:27-08|[27-08]]]** “Onlardan sonra bir **Samiriyelinin** yolu oraya düştü. (**Samiriyeliler**, diğer milletlerle evlenerek soyu karışmış Yahudilerdi. **Samiriyeliler** ve Yahudiler birbirine nefret ederlerdi.)
-  ***[[:tr:obs:notes:frames:27-09|[27-09]]]** “Sonra **Samiriyeli** o adamı kendi eşeğine bindirip bir hana götürdü ve onunla ilgilendi.”
-  ***[[:tr:obs:notes:frames:45-07|[45-07]]]** O (Filipus), **Samiriye**’ye gitti ve orada İsa hakkında vazetti. Çok insan kurtuldu.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs discuss}}
-
+  * **[[:tr:obs:notes:frames:20-04|[20-04]]]** Sonra Asurlular, eskiden İsrail Krallığı olan ülkeye yabancıları yerleştirdiler. Yabancılar, tahrip edilen kentleri yeniden kurdular, orada kalan İsraillilerle evlendiler. Yabancılarla evlenen İsraillilere **Samiriyeli**  dendi.
+  * **[[:tr:obs:notes:frames:27-08|[27-08]]]** “Onlardan sonra bir **Samiriyelinin**  yolu oraya düştü. (**Samiriyeliler**, diğer milletlerle evlenerek soyu karışmış Yahudilerdi. **Samiriyeliler**  ve Yahudiler birbirine nefret ederlerdi.)
+  * **[[:tr:obs:notes:frames:27-09|[27-09]]]** “Sonra **Samiriyeli**  o adamı kendi eşeğine bindirip bir hana götürdü ve onunla ilgilendi.”
+  * **[[:tr:obs:notes:frames:45-07|[45-07]]]** O (Filipus), **Samiriye**’ye gitti ve orada İsa hakkında vaaz etti. Çok insan kurtuldu.
+~~DISCUSSION~~{{tag>publish ktobs discuss}}
