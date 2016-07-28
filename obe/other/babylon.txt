@@ -2,13 +2,16 @@
 
 ===== Gerçeklikler =====
 
-Eski Babil kenti, Babil İmparatorluğu’nun başkentiydi. Bu kentin bulunduğu Eski Babil bölgesi bugün Irak’a dahil olan bölgedeydi.
-  * Babil, Fırat’ın sahilinde, yüzlerce yıl önce Babil Kulesi’nin inşa edildiği bölgede bulunuyordu.
-  * Bazen «Babil» sözcüğü bütün Babil İmparatorluğu’na aittir. Örneğin, «Babil’in kralı» sadece kent değil, bütün imparatorluk üzerinde hüküm sürerdi.
-  * Babilliler, Yahuda Krallığı’na saldıran ve 70 yıl boyunca onları Babil sürgününde tutan güçlü bir halktı.
-  * Bu bölgenin bir kısmının adı «Kildan»dı ve orada yaşayan halk «Kildaniler» diye adlandırılırdı. «Kildan» çoğu zaman «Babil»in başka bir adı olarak kullanılır.
+Babil kenti, Babil İmparatorluğu’nun da bir parçası olan kadim Babil bölgesinin başkentiydi.
 
-(See also: [[tr:obe:other:kingdomofjudah]], [[tr:obe:other:nebuchadnezzar]], [[tr:obe:other:Chaldeans]])
+  * Babil, Fırat’ın sahilinde, yüzlerce yıl önce Babil Kulesi’nin inşa edildiği bölgede bulunuyordu.
+  * Bazen «Babil» sözcüğü bütün Babil İmparatorluğu’nu ifade eder. Örneğin, «Babil’in kralı» sadece kent değil, bütün imparatorluk üzerinde hüküm sürerdi.
+  * Babilliler, Yahuda Krallığı’na saldıran ve 70 yıl boyunca onları Babil sürgününde tutan güçlü bir halktı.
+  * O bölgenin bir kısmının adı «Kildan»dı ve orada yaşayan halk «Kildaniler» diye adlandırılırdı. Bunun sonucu olarak, «Kildan» terimi çoğu zaman Babil’in başka bir adı olarak kullanılırdı.
+  * Yeni Ahit’te «Babil» terimi bazen bir mecaz ve peygamberlik olarak putperestlik ve diğer günahlar ile ilgili olan yerlere, insanlara ve zihniyete ait olarak kullanılır.
+  * «Büyük Babil» ya da «büyük Babil şehri» ifadesi ile mecazen eski Babil kenti gibi büyük, zengin ve günahlı bir kent ya da millet kastedilir.
+
+(See also: [[:tr:obe:other:kingdomofjudah|Yahuda Krallığı]], [[:tr:obe:other:nebuchadnezzar|Nebukadnessar]], [[:tr:obe:other:chaldeans|Chaldea, Chaldean]])
 
 ===== Bible References: =====
 
