@@ -2,13 +2,16 @@
 
 ===== Gerçeklikler =====
 
-Samiriye İsrail’in kuzeyindeki bir bölgeydi.
-  * Asurlular İsrail Krallığı’nı işgal ettiklerinde halkın çoğunu Asur’a götürdüler ve o bölgede yaşasınlar diye oraya yabancıları yerleştirdiler.
-  * Yabancılarla evli olan bazı İsraillilere ve soylarına Samiriyeli dendi.
-  * Samiriyeliler Yahve’den başka ilâhlara taparlardı.
-  * Yahudiler ve Samiriyeliler birbirine nefret ederlerdi.
+Samiriye, İsrail’in kuzeyinde bulunan bir kentin ve çevresindeki bölgenin adıydı. Söz konusu bölge batıda Şaron Vadisi ve doğuda Şeria Nehri arasında bulunmaktaydı.
 
-(See also: [[tr:obe:other:assyria]])
+  * Eski Ahit’te Samiriye, kuzeydeki İsrail Krallığı’nın başkentiydi.
+  * Asurlular, kuzeydeki İsrail Krallığı’nı fethettiklerinde Samiriye kentini işgal ettiler, kuzey İsraillilerin çoğunu bölgeyi terk etmeye mecbur ettiler ve onları uzak yerlere, Asur’un çeşitli kentlerine göç ettirdiler.
+  * Asurlular ayrıca göç ettirilen İsraillilerin yerine Samiriye bölgesinde çok yabancıyı yerleştirdiler.
+  * Bölgede kalan bazı İsrailliler, oraya gelen yabancılarla evlendiler ve onların soyuna Samiriyeli dendi.
+  * Yahudiler Samiriyelileri küçümserlerdi, çünkü Samiriyeliler kısmen Yahudiydi ve putlara taparlardı.
+  * Yeni Ahit döneminde bu bölgenin kuzey sınırı Celile, güney sınırı ise Yahuda bölgesi idi.
+
+(See also: [[:tr:obe:other:assyria|Asur]])
 
 ===== Bible References: =====
 
