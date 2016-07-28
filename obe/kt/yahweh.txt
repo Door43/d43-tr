@@ -17,12 +17,7 @@
   * Bu terim ayrıca «Yahve»ye benzer bir şekilde yazılabilir.
   * «Yehova» sözcüğünün bu terimin çevirisi için iyi olmadığına dikkat edin. Geçmişte Yahudiler Yahve yerine «Rab» derlerdi ve sonunda bazı insanlar İbranice Yahve sözcüğünün ünsüzlerine İbranice «Rab» sözcüğündeki ünlüleri koydular. Böylece Tanrı’nın kişisel adının doğru yazılışından farklı olan suni bir isim meydana gelmiş oldu - «Yehova».
 
-===== Çeviri için öneriler =====
-
-  * Çevirmenler Eski Ahit’te geçen Yahve adını, örneğin, «Tanrın Rab Yahve Ben’im» ve «Tanrı Rab olan Yahve» olarak çevirebilirler. Böylece Yeni Ahit’teki «Rab» sözcüğünün sıkça Eski Ahit’teki Yahve adına ait olduğu açıklanmış olur.
-  * Bu terim ayrıca «Ben’im» anlamına gelen bir sözcükle çevrilebilir.
-
-(See also: [[tr:obe:kt:god]], [[tr:obe:kt:god|Tanrı]])
+(See also: [[:tr:obe:kt:god|Tanrı]], [[:tr:obe:kt:god|Tanrı]])
 
 ===== Bible References: =====
 
