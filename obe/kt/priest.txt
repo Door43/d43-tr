@@ -30,9 +30,8 @@ Kutsal Kitap’ta kâhin, Tanrı’nın, halkı için kendisine kurbanlar sunmak
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:04-07|[04-07]]]** “Yüce Tanrı’nın **kâhini** Melkisedek”
-  ***[[:tr:obs:notes:frames:13-09|[13-09]]]** Tanrı’nın yasasına karşı itaatsizlik eden herkes Buluşma Çadırı’nın önündeki sunakta Tanrı’ya bir hayvanı kurban olarak sunabilirdi. **Kâhin** o hayvanı boğazlayıp sunakta yakardı. Hayvanın kanı o kişinin günahını örterek onu Tanrı’nın nazarında pak ederdi. Tanrı, Musa’nın kardeşi Harun’u ve soyunu **kâhinler** olmak üzere seçti.
-  ***[[:tr:obs:notes:frames:19-07|[19-07]]]** Bunun üzerine Baal’ın **kâhinleri** kurban hazırladılar, ama ateş yakmadılar.
-  ***[[:tr:obs:notes:frames:21-07|[21-07]]]** İsrailli **kâhinler**, günah işleyen halkın cezasının karşılığında Tanrı’ya kurban sunarlardı. **Kâhinler** ayrıca halk için Tanrı’ya dua ederlerdi.
-
+  * **[[:tr:obs:notes:frames:04-07|[04-07]]]** “Yüce Tanrı’nın **kâhini**  Melkisedek”
+  * **[[:tr:obs:notes:frames:13-09|[13-09]]]** Tanrı’nın yasasına karşı itaatsizlik eden herkes Buluşma Çadırı’nın önündeki sunakta Tanrı’ya bir hayvanı kurban olarak sunabilirdi. **Kâhin**  o hayvanı boğazlayıp sunakta yakardı. Hayvanın kanı o kişinin günahını örterek onu Tanrı’nın nazarında pak ederdi. Tanrı, Musa’nın kardeşi Harun’u ve soyunu **kâhinler**  olmak üzere seçti.
+  * **[[:tr:obs:notes:frames:19-07|[19-07]]]** Bunun üzerine Baal’ın **kâhinleri**  kurban hazırladılar, ama ateş yakmadılar.
+  * **[[:tr:obs:notes:frames:21-07|[21-07]]]** İsrailli **kâhinler**, günah işleyen halkın cezasının karşılığında Tanrı’ya kurban sunarlardı. **Kâhinler**  ayrıca halk için Tanrı’ya dua ederlerdi.
 ~~DISCUSSION~~{{tag>publish ktobs}}
