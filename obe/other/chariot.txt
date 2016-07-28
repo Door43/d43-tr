@@ -15,12 +15,8 @@ Eski zamanlarda arabalar atlarca çekilen hafif kasalardı.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:12-10|[12-10]]]** Denizin içindeki yolla İsraillileri kovaladılar, fakat Tanrı Mısırlıları şaşkına çevirdi, **arabaları** takıldı.
-  ***[[:tr:obs:notes:frames:45-07|[45-07]]]** Filipus o yolda yürürken **at arabasında** yol alan Etiyopyalı veziri gördü.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:12-10|[12-10]]]** Denizin içindeki yolla İsraillileri kovaladılar, fakat Tanrı Mısırlıları şaşkına çevirdi, **arabaları**  takıldı.
+  * **[[:tr:obs:notes:frames:45-07|[45-07]]]** Filipus o yolda yürürken **at arabasında**  yol alan Etiyopyalı veziri gördü.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
