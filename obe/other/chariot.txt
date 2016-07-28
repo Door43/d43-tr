@@ -3,6 +3,7 @@
 ===== Tanım =====
 
 Eski zamanlarda arabalar atlarca çekilen hafif kasalardı.
+
   * İnsanlar savaşta ya da yolculukta arabalarda oturur ya da dururlardı.
   * Savaşta arabaları olan ordunun hız ve hareketlilik açısından arabaları olmayan ordunun üzerinde avantajı vardı.
 
