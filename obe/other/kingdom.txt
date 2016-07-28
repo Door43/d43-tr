@@ -17,15 +17,7 @@ Krallık, kral tarafından yönetilen bir grup insandır. Ayrıca bir kralın ya
   * «Işık egemenliği» ifadesi şöyle çevrilebilir: «Tanrı’nın ışık gibi iyi olan hükümranlığı», «Işık olan Tanrı’nın insanlar üzerinde hüküm sürmesi» ya da «Tanrı’nın Hükümranlığı’nın ışığı ve iyiliği.» Bu ifadede «ışık» sözünü saklamak iyidir, çünkü ışık, Kutsal Kitap’ta en önemli terimlerden biridir.
   * «Krallık» teriminin bir imparator tarafından yönetilen imparatorluktan farklı olmasına dikkat edin.
 
-===== Çeviri için öneriler =====
-
-  * Bir kral tarafından yönetilen coğrafi bölgeden bahsedilirken «krallık» terimi «(kral tarafından yönetilen) ülke», «kralın arazisi» ya da «bir kral tarafından yönetilen bölge» olarak çevrilebilir.
-  * Ruhsal anlamda «krallık»; «hükümranlık», «egemenlik», «hâkimiyet» ya da «idare» şeklinde çevrilebilir.
-  * «Kâhinler krallığı» ifadesinin çevrilme yollarından biri «Tanrı tarafından yönetilen ruhsal kâhinler» olabilir.
-  * «Işık egemenliği» ifadesi şöyle çevrilebilir: «Tanrı’nın ışık gibi iyi olan hükümranlığı», «Işık olan Tanrı’nın insanlar üzerinde hüküm sürmesi» ya da «Tanrı’nın Hükümranlığı’nın ışığı ve iyiliği.» Bu ifadede «ışık» sözünü saklamak iyidir, çünkü ışık, Kutsal Kitap’ta en önemli terimlerden biridir.
-  * «Krallık» teriminin bir imparator tarafından yönetilen imparatorluktan farklı olmasına dikkat edin.
-
-(See also: [[tr:obe:other:king]], [[tr:obe:kt:kingdomofgod]], [[tr:obe:other:kingdomofisrael]], [[tr:obe:other:kingdomofjudah]], [[tr:obe:other:Judah]], [[tr:obe:kt:priest]])
+(See also: [[:tr:obe:other:king|kral]], [[:tr:obe:kt:kingdomofgod|Tanrı’nın Hükümranlığı, Semavi Hükümranlık]], [[:tr:obe:other:kingdomofisrael|İsrail Krallığı]], [[:tr:obe:other:kingdomofjudah|Yahuda Krallığı]], [[:tr:obe:other:judah|Judah]], [[:tr:obe:kt:priest|kâhin]])
 
 ===== Bible References: =====
 
