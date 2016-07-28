@@ -23,17 +23,7 @@ Ruh, insanın fiziksel olmayan ve gözle görünemeyen kısmıdır. İnsan öld�
   * «Ruhsal olgunluk» ifadesi «Kutsal Ruh’a itaati sergileyen mümin davranış» olarak çevrilebilir.
   * «Ruhsal armağan» şöyle çevrilebilir: «Kutsal Ruh’un verdiği özel yetenek».
 
-===== Çeviri için öneriler =====
-
-  * Bağlama dayalı olarak, «ruh» sözcüğünün çevrilmesi için şu terimler kullanılabilir: «fiziksel olmayan varlık», «iç varlık» ya da «manevi kısmı.»
-  * «Ruhsal» terimi şöyle çevrilebilir: «fiziksel olmayan», «Kutsal Ruh’tan olan», «manevi» ya da «fiziksel olmayan dünyaya ait olan.»
-  * Aşağıda şu ifadelerin mümkün çevirileri veriliyor:
-  * ruhsal süt = «Tanrı’nın temel öğretileri» ya da «Tanrı’nın (süt gibi) ruhu besleyen öğretileri.»
-  * ruhsal olgunluk = «Kutsal Ruh’a itaati sergileyen mümin davranış.»
-  * ruhsal armağan = «Kutsal Ruh’un verdiği özel yetenek».
-  * Bazı dillerde bu terimin değişik anlamları için değişik sözcükler kullanılabilir.
-
-(See also: [[tr:obe:kt:angel]], [[tr:obe:kt:satan]], [[tr:obe:kt:demon]], [[tr:obe:kt:holyspirit]], [[tr:obe:kt:angel|melek]], [[tr:obe:kt:satan|Şeytan, iblis, kötü olan]], [[tr:obe:kt:demon|cin, kötü ruh]], [[tr:obe:kt:holyspirit|Kutsal Ruh]])
+(See also: [[:tr:obe:kt:angel|melek]], [[:tr:obe:kt:satan|Şeytan]], [[:tr:obe:kt:demon|cin]], [[:tr:obe:kt:holyspirit|Kutsal Ruh, Tanrı’nın Ruhu, Rab’bin Ruhu]], [[:tr:obe:kt:angel|melek]], [[:tr:obe:kt:satan|Şeytan, iblis, kötü olan]], [[:tr:obe:kt:demon|cin, kötü ruh]], [[:tr:obe:kt:holyspirit|Kutsal Ruh]])
 
 ===== Bible References: =====
 
