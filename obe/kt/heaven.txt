@@ -22,13 +22,12 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:04-02|[04-02]]]** İnsanlar, **göğe** erişecek kadar yüksek bir kule kurmakla uğraştılar.
-  ***[[:tr:obs:notes:frames:14-11|[14-11]]]** (Tanrı onlara) **Gökten** “man” denen ekmek yağdırdı.
-  ***[[:tr:obs:notes:frames:23-07|[23-07]]]** Derken gökyüzü, Tanrı’ya hamdeden meleklerle doldu. Melekler şöyle söylediler: “**Göklerdeki** Tanrı’ya izzet olsun! Yeryüzünde razı olduğu insanlara selâmet olsun!”
-  ***[[:tr:obs:notes:frames:29-09|[29-09]]]** Sonra İsa dedi: “**Semavi** Babam da kardeşini yürekten affetmeyen her birinize böyle davranacak.”
-  ***[[:tr:obs:notes:frames:37-09|[37-09]]]** Sonra İsa **göğe** bakarak şöyle konuştu: “Baba, beni işittiğin için şükrediyorum.”
-  ***[[:tr:obs:notes:frames:42-11|[42-11]]]** Sonra İsa **göğe** yükseldi ve bir bulut içinde gözden kayboldu.
-
+  * **[[:tr:obs:notes:frames:04-02|[04-02]]]** İnsanlar, **göğe**  erişecek kadar yüksek bir kule kurmakla uğraştılar.
+  * **[[:tr:obs:notes:frames:14-11|[14-11]]]** (Tanrı onlara) **Gökten**  “man” denen ekmek yağdırdı.
+  * **[[:tr:obs:notes:frames:23-07|[23-07]]]** Derken gökyüzü, Tanrı’ya hamdeden meleklerle doldu. Melekler şöyle söylediler: “**Göklerdeki**  Tanrı’ya izzet olsun! Yeryüzünde razı olduğu insanlara selâmet olsun!”
+  * **[[:tr:obs:notes:frames:29-09|[29-09]]]** Sonra İsa dedi: “**Semavi**  Babam da kardeşini yürekten affetmeyen her birinize böyle davranacak.”
+  * **[[:tr:obs:notes:frames:37-09|[37-09]]]** Sonra İsa **göğe**  bakarak şöyle konuştu: “Baba, beni işittiğin için şükrediyorum.”
+  * **[[:tr:obs:notes:frames:42-11|[42-11]]]** Sonra İsa **göğe**  yükseldi ve bir bulut içinde gözden kayboldu.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
