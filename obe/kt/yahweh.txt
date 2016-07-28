@@ -25,10 +25,9 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:09-14|[09-14]]]** Tanrı şöyle cevap verdi: “BEN OLANIM. Onlara de ki, Beni BEN OLANIM gönderdi. Bir de şöyle de: ‘Ben babalarınız İbrahim, İshak ve Yakup’un Tanrısı **Yahve**’yim. Bu, sonsuzluğa kadar adım olacak.’”
-  ***[[:tr:obs:notes:frames:13-04|[13-04]]]** Tanrı onlarla ahit yaparak şöyle dedi: “Seni Mısır’dan, köle olduğun ülkeden kurtaran Tanrın **Yahve** benim. Başka ilâhlara tapmayacaksın!”
-  ***[[:tr:obs:notes:frames:13-05|[13-05]]]** “Kendine put yapmayacaksın, puta tapmayacaksın! Çünkü ben, **Yahve**’yim, kıskanç Tanrı’yım.”
-  ***[[:tr:obs:notes:frames:16-01|[16-01]]]** İsrailliler gerçek Tanrı **Yahve** yerine Kenan ilâhlarına taptılar.
-  ***[[:tr:obs:notes:frames:19-10|[19-10]]]** Bundan sonra İlyas şöyle dua etti: “Ey İbrahim’in, İshak’ın ve Yakup’un Tanrısı **Yahve**, senin İsrail’in Tanrısı olduğunu, benim de senin hizmetkârın olduğumu bugün hepimize göster!”
-
+  * **[[:tr:obs:notes:frames:09-14|[09-14]]]** Tanrı şöyle cevap verdi: “BEN OLANIM. Onlara de ki, Beni BEN OLANIM gönderdi. Bir de şöyle de: ‘Ben babalarınız İbrahim, İshak ve Yakup’un Tanrısı **Yahve**’yim. Bu, sonsuzluğa kadar adım olacak.’”
+  * **[[:tr:obs:notes:frames:13-04|[13-04]]]** Tanrı onlarla ahit yaparak şöyle dedi: “Seni Mısır’dan, köle olduğun ülkeden kurtaran Tanrın **Yahve**  benim. Başka ilâhlara tapmayacaksın!”
+  * **[[:tr:obs:notes:frames:13-05|[13-05]]]** “Kendine put yapmayacaksın, puta tapmayacaksın! Çünkü ben, **Yahve**’yim, kıskanç Tanrı’yım.”
+  * **[[:tr:obs:notes:frames:16-01|[16-01]]]** İsrailliler gerçek Tanrı **Yahve**  yerine Kenan ilâhlarına taptılar.
+  * **[[:tr:obs:notes:frames:19-10|[19-10]]]** Bundan sonra İlyas şöyle dua etti: “Ey İbrahim’in, İshak’ın ve Yakup’un Tanrısı **Yahve**, senin İsrail’in Tanrısı olduğunu, benim de senin hizmetkârın olduğumu bugün hepimize göster!”
 ~~DISCUSSION~~{{tag>publish ktobs review}}
