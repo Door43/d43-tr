@@ -17,13 +17,9 @@ Rebeka İbrahim’in yeğenlerinden birinin kızıydı. Büyükbabası İbrahim�
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:06-02|[06-02]]]** Tanrı, uzun bir yolculuktan sonra İbrahim’in akrabalarının yaşadıkları yere varan uşağı **Rebeka**’ya yönlendirdi. **Rebeka**, İbrahim’in kardeşinin torunuydu.
-  ***[[:tr:obs:notes:frames:06-06|[06-06]]]** Tanrı **Rebeka**’ya, “Karnında iki halk vardır.” dedi.
-  ***[[:tr:obs:notes:frames:07-01|[07-01]]]** Kardeşler büyüdükçe **Rebeka** Yakup’u, İshak ise Esav’ı sevdi.
-  ***[[:tr:obs:notes:frames:07-03|[07-03]]]** İshak hayırduasını Esav’a verecekti, fakat **Rebeka** ve Yakup onu kandırdılar – Yakup kendini Esav gibi gösterdi.
-  ***[[:tr:obs:notes:frames:07-06|[07-06]]]** Ancak Esav’ın planını duyan **Rebeka** Yakup’u kendisinin akrabalarının yanına gönderdi.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:06-02|[06-02]]]** Tanrı, uzun bir yolculuktan sonra İbrahim’in akrabalarının yaşadıkları yere varan uşağı **Rebeka**’ya yönlendirdi. **Rebeka**, İbrahim’in kardeşinin torunuydu.
+  * **[[:tr:obs:notes:frames:06-06|[06-06]]]** Tanrı **Rebeka**’ya, “Karnında iki halk vardır.” dedi.
+  * **[[:tr:obs:notes:frames:07-01|[07-01]]]** Kardeşler büyüdükçe **Rebeka**  Yakup’u, İshak ise Esav’ı sevdi.
+  * **[[:tr:obs:notes:frames:07-03|[07-03]]]** İshak hayırduasını Esav’a verecekti, fakat **Rebeka**  ve Yakup onu kandırdılar – Yakup kendini Esav gibi gösterdi.
+  * **[[:tr:obs:notes:frames:07-06|[07-06]]]** Ancak Esav’ın planını duyan **Rebeka**  Yakup’u kendisinin akrabalarının yanına gönderdi.
+~~DISCUSSION~~{{tag>publish ktobs}}
