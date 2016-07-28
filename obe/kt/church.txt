@@ -17,14 +17,7 @@ Yeni Ahit’te «kilise» terimi İsa’ya iman eden ve düzenli olarak dua etme
   * Eski Ahit’te «cemaat» sözcüğünü çevirmek için kullanılan terim de bu terimin çevirisi olarak kullanılabilir.
   * Ayrıca Kutsal Kitap’ın halk diline veya devlet diline çevirisinde bu terimin nasıl çevrildiğine bakın.
 
-===== Çeviri için öneriler =====
-
-  * «Kilise» terimi «toplantı», «cemaat», «topluluk» ya da «birlikte toplananlar» şeklinde çevrilebilir.
-  * Bu terimi çevirmek için kullanılan söz ya da ifadesinin ayrıca sadece küçük bir gruba değil, bütün imanlılara ait olabilecek bir terim olması gerekir.
-  * «Kilise» sözcüğünün çevirisinin sadece binaya ait olmamasına dikkat edin.
-  * Ayrıca Kutsal Kitap’ın halk diline veya devlet diline çevirisinde bu terimin nasıl çevrildiğine bakın.
-
-(See also: [[tr:obe:kt:christian]], [[tr:obe:kt:believer]], [[tr:obe:kt:assembly]])
+(See also: [[:tr:obe:kt:christian|Hristiyan, Mesih inanlısı]], [[:tr:obe:kt:believer|imanlı]], [[:tr:obe:kt:assembly|assembly]])
 
 ===== Bible References: =====
 
