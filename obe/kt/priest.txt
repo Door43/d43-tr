@@ -21,14 +21,7 @@ Kutsal Kitap’ta kâhin, Tanrı’nın, halkı için kendisine kurbanlar sunmak
   * Bazı çevirilerde bu terimin çağdaş kâhinlere ait olmadığını açıklamak için her zaman «İsrailli kâhin», «Yahudi kâhin», «Yahve’nin kâhini» ya da «Baal’ın kâhini» gibi ifadelerin kullanılması tercih edilebilir.
   * «Kâhin» sözcüğünü çevirmek için kullanılan terim «baş kâhin», «Levili» ve «peygamber» terimlerinden farklı olmalı.
 
-===== Çeviri için öneriler =====
-
-  * «Kâhin» sözcüğü «(Tanrı’ya) kurban sunan kişi», «Tanrı’nın aracı» ya da «Tanrı’nın kendisini temsil etmek üzere atadığı kişi» şeklinde çevrilebilir.
-  * «Kâhin»in çevirisi «aracı»nın çevirisiden farklı olmalı.
-  * Bazı çevirilerde bu terimin çağdaş kâhinlere ait olmadığını açıklamak için her zaman «İsrailli kâhin», «Yahudi kâhin» ya da «Yahve’nin kâhini» gibi sözlerin kullanması tercih edilebilir.
-  * «Kâhin» sözcüğünü çevirmek için kullanılan terim «baş kâhin», «Levili» ve «peygamber» terimlerinden farklı olmalı.
-
-(See also: [[tr:obe:kt:highpriest]])
+(See also: [[:tr:obe:kt:highpriest|baş kâhin]])
 
 ===== Bible References: =====
 
