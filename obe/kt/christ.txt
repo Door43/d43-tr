@@ -27,18 +27,17 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:17-07|[17-07]]]** **Mesih**, Tanrı’nın dünyadaki insanları günahlarından kurtarmak üzere seçtiği bir kişiydi.
-  ***[[:tr:obs:notes:frames:17-08|[17-08]]]** İsraillilerin **Mesih**’in gelişini beklemesi çok uzun – 1.000 yıl kadar sürecekti.
-  ***[[:tr:obs:notes:frames:21-01|[21-01]]]** Ta baştan beri Tanrı **Mesih**’i göndermeyi planlamıştı.
-  ***[[:tr:obs:notes:frames:21-04|[21-04]]]** Tanrı, Kral Davut’a, soyundan bir kişinin **Mesih** olacağını vadetti.
-  ***[[:tr:obs:notes:frames:21-05|[21-05]]]** Bu Yeni Ahit bizzat **Mesih** tarafından yapılacaktı.
-  ***[[:tr:obs:notes:frames:21-06|[21-06]]]** Tanrı’nın peygamberleri ayrıca **Mesih**’in bir peygamber, kâhin ve kral olacağını bildirdiler.
-  ***[[:tr:obs:notes:frames:21-09|[21-09]]]** Yeşaya Peygamber **Mesih**’in bakireden doğuşunu müjdeledi.
-  ***[[:tr:obs:notes:frames:43-07|[43-07]]]** Böylece, ‘Sen **Kutsal Olanı**’nı mezarda çürümeye bırakmayacaksın.’ peygamberlik sözü yerine gelmiş oldu.
-  ***[[:tr:obs:notes:frames:43-09|[43-09]]]** “Ama şunu kesinlikle bilin: Tanrı İsa’yı hem Rab hem **Mesih** yapmıştır!”
-  ***[[:tr:obs:notes:frames:43-11|[43-11]]]** Petrus onlara şöyle cevap verdi: “Her biriniz tövbe edip İsa **Mesih**’in adıyla vaftiz olmalı. O zaman Tanrı günahlarınızı affeder.”
-  ***[[:tr:obs:notes:frames:46-06|[46-06]]]** Saul Yahudilerle tartışarak İsa’nın **Mesih** olduğuna dair kanıt gösteriyordu.
-
+  * **[[:tr:obs:notes:frames:17-07|[17-07]]]****Mesih**, Tanrı’nın dünyadaki insanları günahlarından kurtarmak üzere seçtiği bir kişiydi.
+  * **[[:tr:obs:notes:frames:17-08|[17-08]]]** İsraillilerin **Mesih**’in gelişini beklemesi çok uzun – 1.000 yıl kadar sürecekti.
+  * **[[:tr:obs:notes:frames:21-01|[21-01]]]** Ta baştan beri Tanrı **Mesih**’i göndermeyi planlamıştı.
+  * **[[:tr:obs:notes:frames:21-04|[21-04]]]** Tanrı, Kral Davut’a, soyundan bir kişinin **Mesih**  olacağını vadetti.
+  * **[[:tr:obs:notes:frames:21-05|[21-05]]]** Bu Yeni Ahit bizzat **Mesih**  tarafından yapılacaktı.
+  * **[[:tr:obs:notes:frames:21-06|[21-06]]]** Tanrı’nın peygamberleri ayrıca **Mesih**’in bir peygamber, kâhin ve kral olacağını bildirdiler.
+  * **[[:tr:obs:notes:frames:21-09|[21-09]]]** Yeşaya Peygamber **Mesih**’in bakireden doğuşunu müjdeledi.
+  * **[[:tr:obs:notes:frames:43-07|[43-07]]]** Böylece, ‘Sen **Kutsal Olanı**’nı mezarda çürümeye bırakmayacaksın.’ peygamberlik sözü yerine gelmiş oldu.
+  * **[[:tr:obs:notes:frames:43-09|[43-09]]]** “Ama şunu kesinlikle bilin: Tanrı İsa’yı hem Rab hem **Mesih**  yapmıştır!”
+  * **[[:tr:obs:notes:frames:43-11|[43-11]]]** Petrus onlara şöyle cevap verdi: “Her biriniz tövbe edip İsa **Mesih**’in adıyla vaftiz olmalı. O zaman Tanrı günahlarınızı affeder.”
+  * **[[:tr:obs:notes:frames:46-06|[46-06]]]** Saul Yahudilerle tartışarak İsa’nın **Mesih**  olduğuna dair kanıt gösteriyordu.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
