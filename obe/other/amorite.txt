@@ -17,14 +17,10 @@ Amorlular, Nuh’un torunu Kenan’ın soyundan gelen kuvvetli bir halktı.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:15-07|[15-07]]]** Bir süre sonra Kenan’ın **Amor** adında diğer bir halkın kralları, Givonluların İsraillilerle barış yaptıklarından haber alınca ordularını birleştirerek Givon’a saldırdılar.
-  ***[[:tr:obs:notes:frames:15-08|[15-08]]]** Sabahleyin erkenden **Amorluların** ordularına ansızın saldırdılar.
-  ***[[:tr:obs:notes:frames:15-09|[15-09]]]** O gün Tanrı, İsrail için savaştı. **Amorluları** şaşkına çevirdi, onların üzerine gökten iri iri dolu yağdırarak birçoğunu öldürdü.
-  ***[[:tr:obs:notes:frames:15-10|[15-10]]]** Ayrıca Tanrı, İsraillilerin **Amorluları** tamamen bozguna uğratabilmeleri için güneşin gökte aynı yerde durmasını sağladı.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:15-07|[15-07]]]** Bir süre sonra Kenan’ın **Amor**  adında diğer bir halkın kralları, Givonluların İsraillilerle barış yaptıklarından haber alınca ordularını birleştirerek Givon’a saldırdılar.
+  * **[[:tr:obs:notes:frames:15-08|[15-08]]]** Sabahleyin erkenden **Amorluların**  ordularına ansızın saldırdılar.
+  * **[[:tr:obs:notes:frames:15-09|[15-09]]]** O gün Tanrı, İsrail için savaştı. **Amorluları**  şaşkına çevirdi, onların üzerine gökten iri iri dolu yağdırarak birçoğunu öldürdü.
+  * **[[:tr:obs:notes:frames:15-10|[15-10]]]** Ayrıca Tanrı, İsraillilerin **Amorluları**  tamamen bozguna uğratabilmeleri için güneşin gökte aynı yerde durmasını sağladı.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
