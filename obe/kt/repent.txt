@@ -22,11 +22,10 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:16-02|[16-02]]]** Tanrı’ya itaatsiz olup düşmanlarının baskısı altında yaşadıkları nice yıllardan sonra İsrailliler **tövbe** eder, Tanrı’ya kendilerini kurtarması için yalvarırlardı.
-  ***[[:tr:obs:notes:frames:17-13|[17-13]]]** Davut günahından **tövbe** etti ve Tanrı onu affetti.
-  ***[[:tr:obs:notes:frames:19-18|[19-18]]]** (Peygamberler) Halkı uyararak, **tövbe** etmezlerse Tanrı’nın onları yok edeceğini ilan ettiler.
-  ***[[:tr:obs:notes:frames:24-02|[24-02]]]** Çok insan Yahya’yı dinlemek için çöle giderdi. Yahya onlara, “**Tövbe** edin, çünkü Tanrı’nın Hükümranlığı yaklaştı!” diye seslenirdi.
-  ***[[:tr:obs:notes:frames:42-08|[42-08]]]** “Ayrıca bana iman edenlerin insanların günahlarının affedilmesi için **tövbe** etmesi gerektiğini ilan edecekleri de kutsal yazılarda önceden bildirilmiştir.”
-  ***[[:tr:obs:notes:frames:44-05|[44-05]]]** “Öyleyse şimdi **tövbe** edin ve Tanrı’ya dönün ki, günahlarınız silinsin.”
-
+  * **[[:tr:obs:notes:frames:16-02|[16-02]]]** Tanrı’ya itaatsiz olup düşmanlarının baskısı altında yaşadıkları nice yıllardan sonra İsrailliler **tövbe**  eder, Tanrı’ya kendilerini kurtarması için yalvarırlardı.
+  * **[[:tr:obs:notes:frames:17-13|[17-13]]]** Davut günahından **tövbe**  etti ve Tanrı onu affetti.
+  * **[[:tr:obs:notes:frames:19-18|[19-18]]]** (Peygamberler) Halkı uyararak, **tövbe**  etmezlerse Tanrı’nın onları yok edeceğini ilan ettiler.
+  * **[[:tr:obs:notes:frames:24-02|[24-02]]]** Çok insan Yahya’yı dinlemek için çöle giderdi. Yahya onlara, “**Tövbe**  edin, çünkü Tanrı’nın Hükümranlığı yaklaştı!” diye seslenirdi.
+  * **[[:tr:obs:notes:frames:42-08|[42-08]]]** “Ayrıca bana iman edenlerin insanların günahlarının affedilmesi için **tövbe**  etmesi gerektiğini ilan edecekleri de kutsal yazılarda önceden bildirilmiştir.”
+  * **[[:tr:obs:notes:frames:44-05|[44-05]]]** “Öyleyse şimdi **tövbe**  edin ve Tanrı’ya dönün ki, günahlarınız silinsin.”
 ~~DISCUSSION~~{{tag>publish ktobs}}
