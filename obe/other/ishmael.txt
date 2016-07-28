@@ -17,9 +17,8 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:05-02|[05-02]]]** Bunun üzerine Avram Hacer’le evlendi. Hacer’in bir erkek çocuğu oldu ve Avram ona **İsmail** adını verdi.
-  ***[[:tr:obs:notes:frames:05-04|[05-04]]]** “**İsmail**’i de büyük millet yapacağım, ancak ahdimi İshak’la sürdüreceğim.”
-
+  * **[[:tr:obs:notes:frames:05-02|[05-02]]]** Bunun üzerine Avram Hacer’le evlendi. Hacer’in bir erkek çocuğu oldu ve Avram ona **İsmail**  adını verdi.
+  * **[[:tr:obs:notes:frames:05-04|[05-04]]]** “**İsmail**’i de büyük millet yapacağım, ancak ahdimi İshak’la sürdüreceğim.”
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
