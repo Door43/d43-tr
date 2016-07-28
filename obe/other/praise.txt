@@ -18,14 +18,11 @@ Tanrı’ya sunulan hamt çoğu zaman «tapınma»nın bir kısmıdır.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:12-13|[12-13]]]** İsrailliler birçok ezgilerle yeni özgürlüklerini kutladılar ve kendilerini Mısır ordusundan kurtaran Tanrı’ya **hamdettiler**.
-  ***[[:tr:obs:notes:frames:17-08|[17-08]]]** Davut bu sözleri duyar duymaz, ona bu şerefi nasip eden ve onu bol bol kutsayan Tanrı’ya **hamdetti**.
-  ***[[:tr:obs:notes:frames:22-07|[22-07]]]** Zekeriya şöyle dedi: “Tanrı’ya **şükürler olsun**! Zira Tanrı halkını hatırladı.”
-  ***[[:tr:obs:notes:frames:43-13|[43-13]]]** Seve seve birlikte Tanrı’ya **hamdediyor**, her şeyi paylaşıyorlardı.
-  ***[[:tr:obs:notes:frames:47-08|[47-08]]]** Pavlus’la Silas’ı zindanın en emniyetli hücresine attılar ve ayaklarını tomruğa vurdular. Fakat Pavlus’la Silas gece yarısında Tanrı’ya **hamt** şarkıları söylediler.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:12-13|[12-13]]]** İsrailliler birçok ezgilerle yeni özgürlüklerini kutladılar ve kendilerini Mısır ordusundan kurtaran Tanrı’ya **hamdettiler**.
+  * **[[:tr:obs:notes:frames:17-08|[17-08]]]** Davut bu sözleri duyar duymaz, ona bu şerefi nasip eden ve onu bol bol kutsayan Tanrı’ya **hamdetti**.
+  * **[[:tr:obs:notes:frames:22-07|[22-07]]]** Zekeriya şöyle dedi: “Tanrı’ya **şükürler olsun**! Zira Tanrı halkını hatırladı.”
+  * **[[:tr:obs:notes:frames:43-13|[43-13]]]** Seve seve birlikte Tanrı’ya **hamdediyor**, her şeyi paylaşıyorlardı.
+  * **[[:tr:obs:notes:frames:47-08|[47-08]]]** Pavlus’la Silas’ı zindanın en emniyetli hücresine attılar ve ayaklarını tomruğa vurdular. Fakat Pavlus’la Silas gece yarısında Tanrı’ya **hamt**  şarkıları söylediler.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
