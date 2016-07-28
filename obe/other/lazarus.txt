@@ -15,15 +15,14 @@ Lazar İsa’nın ölümden dirilttiği dostuydu.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:37-01|[37-01]]]** Bir gün İsa **Lazar**’ın hasta olduğu haberini aldı. **Lazar** ve iki kız kardeşi Meryem ve Marta İsa’nın yakın dostlarıydı.
-  ***[[:tr:obs:notes:frames:37-02|[37-02]]]** İsa onlara, “Dostumuz **Lazar** uyudu, ben de onu uyandıracağım.” dedi.
-  ***[[:tr:obs:notes:frames:37-03|[37-03]]]** Havariler İsa’ya, “Efendimiz, **Lazar** uyuyorsa iyileşecek.” diye cevap verdiler. Bunun üzerine İsa onlara açıkça, “**Lazar** öldü.” dedi.
-  ***[[:tr:obs:notes:frames:37-04|[37-04]]]** İsa **Lazar**’ın doğduğu kente vardığında **Lazar** dört gündür ölmüştü.
-  ***[[:tr:obs:notes:frames:37-06|[37-06]]]** İsa onlara, “**Lazar**’ı nereye koydunuz?” diye sordu.
-  ***[[:tr:obs:notes:frames:37-09|[37-09]]]** Sonra İsa, “**Lazar**, dışarı çık!” diye bağırdı.
-  ***[[:tr:obs:notes:frames:37-10|[37-10]]]** Ve **Lazar** dışarı çıktı! Bedeni hâlâ keten bezlerle sarılıydı.
-  ***[[:tr:obs:notes:frames:37-11|[37-11]]]** Ancak İsa’yı kıskanan Yahudi din alimleri, İsa’yı ve **Lazar**’ı öldürmek için düzen kurmak amacıyla bir araya geldiler.
-
+  * **[[:tr:obs:notes:frames:37-01|[37-01]]]** Bir gün İsa **Lazar**’ın hasta olduğu haberini aldı. **Lazar**  ve iki kız kardeşi Meryem ve Marta İsa’nın yakın dostlarıydı.
+  * **[[:tr:obs:notes:frames:37-02|[37-02]]]** İsa onlara, “Dostumuz **Lazar**  uyudu, ben de onu uyandıracağım.” dedi.
+  * **[[:tr:obs:notes:frames:37-03|[37-03]]]** Havariler İsa’ya, “Efendimiz, **Lazar**  uyuyorsa iyileşecek.” diye cevap verdiler. Bunun üzerine İsa onlara açıkça, “**Lazar**  öldü.” dedi.
+  * **[[:tr:obs:notes:frames:37-04|[37-04]]]** İsa **Lazar**’ın doğduğu kente vardığında **Lazar**  dört gündür ölmüştü.
+  * **[[:tr:obs:notes:frames:37-06|[37-06]]]** İsa onlara, “**Lazar**’ı nereye koydunuz?” diye sordu.
+  * **[[:tr:obs:notes:frames:37-09|[37-09]]]** Sonra İsa, “**Lazar**, dışarı çık!” diye bağırdı.
+  * **[[:tr:obs:notes:frames:37-10|[37-10]]]** Ve **Lazar**  dışarı çıktı! Bedeni hâlâ keten bezlerle sarılıydı.
+  * **[[:tr:obs:notes:frames:37-11|[37-11]]]** Ancak İsa’yı kıskanan Yahudi din alimleri, İsa’yı ve **Lazar**’ı öldürmek için düzen kurmak amacıyla bir araya geldiler.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
