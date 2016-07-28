@@ -19,7 +19,6 @@ Alçakgönüllü insan kendini başkalarından üstün bilmez. Gururlu ya da kib
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:17-02|[17-02]]]** Davut, Tanrı’ya iman ve itaat eden **alçakgönüllü** ve doğru bir adamdı.
-  ***[[:tr:obs:notes:frames:34-10|[34-10]]]** Tanrı kibirlenen herkesi **küçültür**, kendini **küçük gören** herkesi ise yüceltir.
-
+  * **[[:tr:obs:notes:frames:17-02|[17-02]]]** Davut, Tanrı’ya iman ve itaat eden **alçakgönüllü**  ve doğru bir adamdı.
+  * **[[:tr:obs:notes:frames:34-10|[34-10]]]** Tanrı kibirlenen herkesi **küçültür**, kendini **küçük gören**  herkesi ise yüceltir.
 ~~DISCUSSION~~{{tag>publish ktobs}}
