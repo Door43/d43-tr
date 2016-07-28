@@ -17,14 +17,10 @@ Celile, İsrail’in Samiriye’den de ötede bulunan en kuzey kısmıdır.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:21-10|[21-10]]]** Yeşaya Peygamber Mesih’in **Celile**’de yaşayacağından, yüreği ezik olanlara teselli vereceğinden, tutsaklara serbest bırakılacaklarını, zindanlarda bulunanlara kurtulacaklarını ilan edeceğinden haber verdi.
-  ***[[:tr:obs:notes:frames:26-01|[26-01]]]** Şeytan’ın ayartılarına karşı galip gelen İsa, Kutsal Ruh’un gücüyle **Celile** bölgesine döndü.
-  ***[[:tr:obs:notes:frames:39-06|[39-06]]]** Sonunda oradakiler, “İsa’yla olduğunu biliyoruz, çünkü ikiniz **Celile**’densiniz.” dediler.
-  ***[[:tr:obs:notes:frames:41-06|[41-06]]]** Sonra melek kadınlara şöyle dedi: “Gidin, havarilere, ‘İsa ölümden dirildi ve sizden önce **Celile**’ye gidecek.’ diye haber verin.”
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:21-10|[21-10]]]** Yeşaya Peygamber Mesih’in **Celile**’de yaşayacağından, yüreği ezik olanlara teselli vereceğinden, tutsaklara serbest bırakılacaklarını, zindanlarda bulunanlara kurtulacaklarını ilan edeceğinden haber verdi.
+  * **[[:tr:obs:notes:frames:26-01|[26-01]]]** Şeytan’ın ayartılarına karşı galip gelen İsa, Kutsal Ruh’un gücüyle **Celile**  bölgesine döndü.
+  * **[[:tr:obs:notes:frames:39-06|[39-06]]]** Sonunda oradakiler, “İsa’yla olduğunu biliyoruz, çünkü ikiniz **Celile**’densiniz.” dediler.
+  * **[[:tr:obs:notes:frames:41-06|[41-06]]]** Sonra melek kadınlara şöyle dedi: “Gidin, havarilere, ‘İsa ölümden dirildi ve sizden önce **Celile**’ye gidecek.’ diye haber verin.”
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
