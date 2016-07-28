@@ -18,11 +18,10 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:02-11|[02-11]]]** Tanrı adama seslendi: “Karının sözünü dinleyip bana karşı **itaatsiz** oldun.”
-  ***[[:tr:obs:notes:frames:13-07|[13-07]]]** Tanrı, bu yasalara uydukları takdirde halkı kutsayıp koruyacağını vadetti. **Uymadıkları** takdirde ise halkı cezalandıracaktı.
-  ***[[:tr:obs:notes:frames:16-02|[16-02]]]** İsrailliler sürekli Tanrı’ya **itaatsiz** oldukları için Tanrı onları düşmanlarına mağlup olmalarıyla cezalandırırdı.
-  ***[[:tr:obs:notes:frames:35-12|[35-12]]]** “Büyük oğul babasına şöyle dedi: ‘Bunca yıl senin için sadakatle çalıştım! Sana karşı hiç **itaatsizlik** etmedim. Ama sen, arkadaşlarımla kutlamam için küçük bir oğlak bile vermedin!’”
-
+  * **[[:tr:obs:notes:frames:02-11|[02-11]]]** Tanrı adama seslendi: “Karının sözünü dinleyip bana karşı **itaatsiz**  oldun.”
+  * **[[:tr:obs:notes:frames:13-07|[13-07]]]** Tanrı, bu yasalara uydukları takdirde halkı kutsayıp koruyacağını vadetti. **Uymadıkları**  takdirde ise halkı cezalandıracaktı.
+  * **[[:tr:obs:notes:frames:16-02|[16-02]]]** İsrailliler sürekli Tanrı’ya **itaatsiz**  oldukları için Tanrı onları düşmanlarına mağlup olmalarıyla cezalandırırdı.
+  * **[[:tr:obs:notes:frames:35-12|[35-12]]]** “Büyük oğul babasına şöyle dedi: ‘Bunca yıl senin için sadakatle çalıştım! Sana karşı hiç **itaatsizlik**  etmedim. Ama sen, arkadaşlarımla kutlamam için küçük bir oğlak bile vermedin!’”
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
