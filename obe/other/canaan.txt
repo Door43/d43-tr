@@ -15,12 +15,11 @@ Kenan, Nuh’un oğlu Ham’dı. Onun soyu olan Kenanlılar, Şeria Nehri’nden
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:04-05|[04-05]]]** (Avram) Karısı Saray’ı, uşaklarını, sürülerini yanına alıp Tanrı’nın ona gösterdiği toprağa – **Kenan** ülkesine gitti.
-  ***[[:tr:obs:notes:frames:04-06|[04-06]]]** Avram **Kenan**’a vardığında Tanrı, “Etrafına bak! Gördüğün bu toprağın hepsini sana ve soyuna miras olarak vereceğim.” dedi.
-  ***[[:tr:obs:notes:frames:04-09|[04-09]]]** “**Kenan** toprağını senin soyuna vereceğim.”
-  ***[[:tr:obs:notes:frames:05-03|[05-03]]]** “**Kenan** toprağını mülkünüz olmak üzere sana ve soyuna vereceğim ve sonsuza dek onların Tanrısı olacağım.”
-  ***[[:tr:obs:notes:frames:07-08|[07-08]]]** Yirmi yıl **Kenan**’daki evinden uzak kaldıktan sonra Yakup ailesi, uşakları ve sürüleri ile beraber oraya döndü.
-
+  * **[[:tr:obs:notes:frames:04-05|[04-05]]]** (Avram) Karısı Saray’ı, uşaklarını, sürülerini yanına alıp Tanrı’nın ona gösterdiği toprağa – **Kenan**  ülkesine gitti.
+  * **[[:tr:obs:notes:frames:04-06|[04-06]]]** Avram **Kenan**’a vardığında Tanrı, “Etrafına bak! Gördüğün bu toprağın hepsini sana ve soyuna miras olarak vereceğim.” dedi.
+  * **[[:tr:obs:notes:frames:04-09|[04-09]]]** “**Kenan**  toprağını senin soyuna vereceğim.”
+  * **[[:tr:obs:notes:frames:05-03|[05-03]]]** “**Kenan**  toprağını mülkünüz olmak üzere sana ve soyuna vereceğim ve sonsuza dek onların Tanrısı olacağım.”
+  * **[[:tr:obs:notes:frames:07-08|[07-08]]]** Yirmi yıl **Kenan**’daki evinden uzak kaldıktan sonra Yakup ailesi, uşakları ve sürüleri ile beraber oraya döndü.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
