@@ -20,17 +20,13 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:04-06|[04-06]]]** **Avram** Kenan’a vardığında Tanrı, “Etrafına bak! Gördüğün bu toprağın hepsini sana ve soyuna miras olarak vereceğim.” dedi.
-  ***[[:tr:obs:notes:frames:05-04|[05-04]]]** Sonra Tanrı **Avram**’ın adını “birçok milletin babası” anlamına gelen **İbrahim** olarak değiştirdi.
-  ***[[:tr:obs:notes:frames:05-05|[05-05]]]** Yaklaşık olarak bir sene sonra **İbrahim** 100 ve Sara 90 yaşlarında oldukları zaman Sara İbrahim’e bir oğul doğurdu.
-  ***[[:tr:obs:notes:frames:05-06|[05-06]]]** İshak hâlâ çocuk iken Tanrı **İbrahim**’in imanını denedi. “Biricik oğlunu, İshak’ı al, bana kurban olarak sun.” dedi.
-  ***[[:tr:obs:notes:frames:06-01|[06-01]]]** **İbrahim** iyice yaşlanmış, oğlu İshak genç adam olmuştu. Bir gün **İbrahim**, uşaklarından birini oğlu İshak’ın evleneceği kızı getirsin diye akrabalarının yaşadıkları ülkeye gönderdi.
-  ***[[:tr:obs:notes:frames:06-04|[06-04]]]** Uzun süre sonra **İbrahim** öldü ve Tanrı’nın ona ahit yaparken verdiği tüm vaatler İshak’a geçti.
-  ***[[:tr:obs:notes:frames:21-02|[21-02]]]** Tanrı **İbrahim**’e, yeryüzündeki bütün halkların onun sayesinde kutsanacağını vadetti.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:04-06|[04-06]]]****Avram**  Kenan’a vardığında Tanrı, “Etrafına bak! Gördüğün bu toprağın hepsini sana ve soyuna miras olarak vereceğim.” dedi.
+  * **[[:tr:obs:notes:frames:05-04|[05-04]]]** Sonra Tanrı **Avram**’ın adını “birçok milletin babası” anlamına gelen **İbrahim**  olarak değiştirdi.
+  * **[[:tr:obs:notes:frames:05-05|[05-05]]]** Yaklaşık olarak bir sene sonra **İbrahim**  100 ve Sara 90 yaşlarında oldukları zaman Sara İbrahim’e bir oğul doğurdu.
+  * **[[:tr:obs:notes:frames:05-06|[05-06]]]** İshak hâlâ çocuk iken Tanrı **İbrahim**’in imanını denedi. “Biricik oğlunu, İshak’ı al, bana kurban olarak sun.” dedi.
+  * **[[:tr:obs:notes:frames:06-01|[06-01]]]****İbrahim**  iyice yaşlanmış, oğlu İshak genç adam olmuştu. Bir gün **İbrahim**, uşaklarından birini oğlu İshak’ın evleneceği kızı getirsin diye akrabalarının yaşadıkları ülkeye gönderdi.
+  * **[[:tr:obs:notes:frames:06-04|[06-04]]]** Uzun süre sonra **İbrahim**  öldü ve Tanrı’nın ona ahit yaparken verdiği tüm vaatler İshak’a geçti.
+  * **[[:tr:obs:notes:frames:21-02|[21-02]]]** Tanrı **İbrahim**’e, yeryüzündeki bütün halkların onun sayesinde kutsanacağını vadetti.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
