@@ -24,13 +24,12 @@ Tapınak, duvarlarla çevrelenen avluların içinde bulunan binaydı; İsraillil
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:17-06|[17-06]]]** Davut bütün İsraillilerin Tanrı’ya tapınarak kurban sunabilecekleri bir **tapınak** kurmak istedi.
-  ***[[:tr:obs:notes:frames:18-02|[18-02]]]** Süleyman Yeruşalim’de babası Davut’un tasarladığı ve inşası için hazırlık yaptığı **tapınağı** inşa ettirdi. Halk artık Buluşma Çadırı’nda değil **Tapınak**’ta Tanrı’ya tapınıyor ve kurban sunuyordu. Tanrı, halkıyla yaşamak üzere **Tapınak**’a geldi.
-  ***[[:tr:obs:notes:frames:20-07|[20-07]]]** (Babilliler) Yeruşalim kentini fethettiler, **Tapınak**’ı yıktılar, kentin ve **Tapınak**’ın bütün hazinelerini götürdüler.
-  ***[[:tr:obs:notes:frames:20-13|[20-13]]]** Yeruşalim’e dönen Yahudiler **Tapınak**’ı ve kentin surlarını yeniden kurdular.
-  ***[[:tr:obs:notes:frames:25-04|[25-04]]]** Sonra Şeytan, İsa’yı **Tapınak**’ın en yüksek yerine çıkarıp dedi: “Eğer Tanrı’nın Oğlu’ysan, kendini aşağı at, çünkü şöyle yazılmıştır: ‘Tanrı, meleklerine buyruk verecek, ayağın bir taşa çarpmasın diye seni elleri üzerinde taşıyacaklar.’”
-  ***[[:tr:obs:notes:frames:40-07|[40-07]]]** İsa öldüğü anda deprem oldu ve **Tapınak**’ta bulunan, insanları Tanrı’nın huzurundan ayıran büyük perde yukarıdan aşağıya kadar ikiye yırtıldı.
-
+  * **[[:tr:obs:notes:frames:17-06|[17-06]]]** Davut bütün İsraillilerin Tanrı’ya tapınarak kurban sunabilecekleri bir **tapınak**  kurmak istedi.
+  * **[[:tr:obs:notes:frames:18-02|[18-02]]]** Süleyman Yeruşalim’de babası Davut’un tasarladığı ve inşası için hazırlık yaptığı **tapınağı**  inşa ettirdi. Halk artık Buluşma Çadırı’nda değil **Tapınak**’ta Tanrı’ya tapınıyor ve kurban sunuyordu. Tanrı, halkıyla yaşamak üzere **Tapınak**’a geldi.
+  * **[[:tr:obs:notes:frames:20-07|[20-07]]]** (Babilliler) Yeruşalim kentini fethettiler, **Tapınak**’ı yıktılar, kentin ve **Tapınak**’ın bütün hazinelerini götürdüler.
+  * **[[:tr:obs:notes:frames:20-13|[20-13]]]** Yeruşalim’e dönen Yahudiler **Tapınak**’ı ve kentin surlarını yeniden kurdular.
+  * **[[:tr:obs:notes:frames:25-04|[25-04]]]** Sonra Şeytan, İsa’yı **Tapınak**’ın en yüksek yerine çıkarıp dedi: “Eğer Tanrı’nın Oğlu’ysan, kendini aşağı at, çünkü şöyle yazılmıştır: ‘Tanrı, meleklerine buyruk verecek, ayağın bir taşa çarpmasın diye seni elleri üzerinde taşıyacaklar.’”
+  * **[[:tr:obs:notes:frames:40-07|[40-07]]]** İsa öldüğü anda deprem oldu ve **Tapınak**’ta bulunan, insanları Tanrı’nın huzurundan ayıran büyük perde yukarıdan aşağıya kadar ikiye yırtıldı.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
