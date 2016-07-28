@@ -21,14 +21,13 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:09-13|[09-13]]]** Tanrı Musa’ya, “Halkımın **çektiği sıkıntıları** gördüm.” dedi.
-  ***[[:tr:obs:notes:frames:38-12|[38-12]]]** İsa üç kez şöyle dua etti: “Babam, eğer mümkünse bu **ıstırap** dolu kâseyi içmeyeyim.”
-  ***[[:tr:obs:notes:frames:42-03|[42-03]]]** (İsa onlara) Peygamberlerin Mesih’in **acı çekip** öldürüleceğini ve üçüncü gün dirileceğini önceden bildirdiklerini hatırlattı.
-  ***[[:tr:obs:notes:frames:42-07|[42-07]]]** İsa şöyle dedi: “Mesih’in **acı çekeceği**, öleceği, üçüncü gün ölümden dirileceği çok önceden yazılmıştır.”
-  ***[[:tr:obs:notes:frames:44-05|[44-05]]]** “Ancak siz bunu yaparken ne yaptığınızın bilincinde değildiniz. Bu yaptıklarınızla Tanrı, Mesih’in **acı çekmesi** ve ölmesi ile ilgili peygamberliklerini gerçekleştirdi.”
-  ***[[:tr:obs:notes:frames:46-04|[46-04]]]** Tanrı ona şöyle karşılık verdi: “Git! Ben bu adamı (Saul’u), Yahudilere ve diğer milletlerden insanlara benim adımı ilan etmesi için seçtim. Adım uğruna çok **acı çekecek**.”
-  ***[[:tr:obs:notes:frames:50-17|[50-17]]]** O (İsa), gözyaşlarını silecek ve artık **ıstırap**, keder, ağlayış, kötülük, ağrı ya da ölüm olmayacak.
-
+  * **[[:tr:obs:notes:frames:09-13|[09-13]]]** Tanrı Musa’ya, “Halkımın **çektiği sıkıntıları**  gördüm.” dedi.
+  * **[[:tr:obs:notes:frames:38-12|[38-12]]]** İsa üç kez şöyle dua etti: “Babam, eğer mümkünse bu **ıstırap**  dolu kâseyi içmeyeyim.”
+  * **[[:tr:obs:notes:frames:42-03|[42-03]]]** (İsa onlara) Peygamberlerin Mesih’in **acı çekip**  öldürüleceğini ve üçüncü gün dirileceğini önceden bildirdiklerini hatırlattı.
+  * **[[:tr:obs:notes:frames:42-07|[42-07]]]** İsa şöyle dedi: “Mesih’in **acı çekeceği**, öleceği, üçüncü gün ölümden dirileceği çok önceden yazılmıştır.”
+  * **[[:tr:obs:notes:frames:44-05|[44-05]]]** “Ancak siz bunu yaparken ne yaptığınızın bilincinde değildiniz. Bu yaptıklarınızla Tanrı, Mesih’in **acı çekmesi**  ve ölmesi ile ilgili peygamberliklerini gerçekleştirdi.”
+  * **[[:tr:obs:notes:frames:46-04|[46-04]]]** Tanrı ona şöyle karşılık verdi: “Git! Ben bu adamı (Saul’u), Yahudilere ve diğer milletlerden insanlara benim adımı ilan etmesi için seçtim. Adım uğruna çok **acı çekecek**.”
+  * **[[:tr:obs:notes:frames:50-17|[50-17]]]** O (İsa), gözyaşlarını silecek ve artık **ıstırap**, keder, ağlayış, kötülük, ağrı ya da ölüm olmayacak.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
