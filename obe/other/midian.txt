@@ -16,17 +16,10 @@ Midyan, Arap Çölü’nün kuzeyinde, Kenan ülkesinden güneyde oturan bir hal
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:16-03|[16-03]]]** Fakat sonra halk yine Tanrı’yı unutarak putlara tapmaya başlardı. Tanrı, halkına düşman olan **Midyanlıların** halkını mağlup etmesine izin verdi.
-  ***[[:tr:obs:notes:frames:16-04|[16-04]]]** İsrailliler korku içindeydiler, **Midyanlılardan** mağaralarda saklanırlardı.
-  ***[[:tr:obs:notes:frames:16-11|[16-11]]]** Arkadaşı ona şöyle dedi: “Gördüğün düşün anlamı şu: Gidyon’un ordusu **Midyanlıların** ordusunu mağlup edecek!”
-  ***[[:tr:obs:notes:frames:16-14|[16-14]]]** Tanrı **Midyanlıları** şaşkına çevirdi, onlar birbirine saldırmaya, birbirini vurmaya başladılar.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:16-03|[16-03]]]** Fakat sonra halk yine Tanrı’yı unutarak putlara tapmaya başlardı. Tanrı, halkına düşman olan **Midyanlıların**  halkını mağlup etmesine izin verdi.
+  * **[[:tr:obs:notes:frames:16-04|[16-04]]]** İsrailliler korku içindeydiler, **Midyanlılardan**  mağaralarda saklanırlardı.
+  * **[[:tr:obs:notes:frames:16-11|[16-11]]]** Arkadaşı ona şöyle dedi: “Gördüğün düşün anlamı şu: Gidyon’un ordusu **Midyanlıların**  ordusunu mağlup edecek!”
+  * **[[:tr:obs:notes:frames:16-14|[16-14]]]** Tanrı **Midyanlıları**  şaşkına çevirdi, onlar birbirine saldırmaya, birbirini vurmaya başladılar.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
-
-\\
-
