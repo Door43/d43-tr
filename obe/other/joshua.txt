@@ -3,6 +3,7 @@
 ===== Gerçeklikler =====
 
 Kutsal Kitap’ta Yeşu adlı birkaç İsrailli kişi vardır. En ünlü olan, Musa’nın yardımcısı ve sonra Tanrı’nın halkının önemli önderi olan Nun oğlu Yeşu’ydu.
+
   * Yeşu, Musa’nın Tanrı’nın vadettiği ülkeyi araştırsınlar diye gönderdiği on iki casuslardan biriydi.
   * Kalev ve Yeşu cesaretle ve Tanrı’ya güvenerek İsraillileri teşvik etti ki, Tanrı’nın buyruğuna itaat etsinler, vadettiği ülkeye girip Kenanlıları bozguna uğratsınlar.
   * Üstünden yıllar geçtikten ve Musa öldükten sonra Tanrı İsrail’i vadettiği ülkeye götürecek önder olarak Yeşu’yu atadı.
@@ -10,7 +11,7 @@ Kutsal Kitap’ta Yeşu adlı birkaç İsrailli kişi vardır. En ünlü olan, M
   * Eski Ahit’te yer alan Yeşu bölümü, Yeşu’nun önderliği döneminde olup bitenlerden, yani Tanrı’nın vadettiği ülkenin fethi ve ülkenin İsrail’in on iki oymağı arasında bölünmesinden bahseder.
   * Eski Ahit’in Hagay ve Zekeriya bölümlerinde Yeşu adındaki başka kişinin ismi geçer. O Yeşu, Yeruşalim’in surlarının yeniden inşa edilmesine yardım eden baş kâhindi. Yehosadak’ın oğluydu.
 
-(See also: [[tr:obe:other:moses]], [[tr:obe:kt:promisedland]], [[tr:obe:other:Jericho]], [[tr:obe:other:Canaan]])
+(See also: [[:tr:obe:other:moses|Musa]], [[:tr:obe:kt:promisedland|Tanrı’nın vadettiği ülke]], [[:tr:obe:other:jericho|Eriha]], [[:tr:obe:other:canaan|Kenan]])
 
 ===== Bible References: =====
 
