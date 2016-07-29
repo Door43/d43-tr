@@ -22,11 +22,10 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:12-12|[12-12]]]** İsrailliler Mısırlıların öldüklerini görünce Tanrı’ya **iman ettiler** ve Musa’nın Tanrı’nın peygamberi olduğuna inandılar.
-  ***[[:tr:obs:notes:frames:14-15|[14-15]]]** Yeşu Tanrı’ya **güvendiği** ve itaat ettiği için iyi bir önderdi.
-  ***[[:tr:obs:notes:frames:17-02|[17-02]]]** Davut, Tanrı’ya **iman** ve itaat eden alçakgönüllü ve doğru bir adamdı.
-  ***[[:tr:obs:notes:frames:34-06|[34-06]]]** Sonra İsa, kendi iyi amellerine **güvenerek** başkalarını hor gören bazı kişilere şu öyküyü anlattı.
-
-~~DISCUSSION~~{{tag>publish  ktobs}}
+  * **[[:tr:obs:notes:frames:12-12|[12-12]]]** İsrailliler Mısırlıların öldüklerini görünce Tanrı’ya **iman ettiler**  ve Musa’nın Tanrı’nın peygamberi olduğuna inandılar.
+  * **[[:tr:obs:notes:frames:14-15|[14-15]]]** Yeşu Tanrı’ya **güvendiği**  ve itaat ettiği için iyi bir önderdi.
+  * **[[:tr:obs:notes:frames:17-02|[17-02]]]** Davut, Tanrı’ya **iman**  ve itaat eden alçakgönüllü ve doğru bir adamdı.
+  * **[[:tr:obs:notes:frames:34-06|[34-06]]]** Sonra İsa, kendi iyi amellerine **güvenerek**  başkalarını hor gören bazı kişilere şu öyküyü anlattı.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
