@@ -17,15 +17,12 @@ Pilatus, İsa’yı ölüme mahkûm eden Roma valisiydi.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:39-09|[39-09]]]** Ertesi gün sabahleyin erkenden Yahudi ileri gelenleri İsa’yı Roma valisi **Pilatus**’a götürdüler. **Pilatus**’un İsa’yı suçlu olarak ölüme mahkûm edeceğini ümit ediyorlardı. **Pilatus** İsa’ya, “Sen Yahudilerin Kralı mısın?” diye sordu.
-  ***[[:tr:obs:notes:frames:39-10|[39-10]]]** **Pilatus**, “Hakikat nedir?” diye sordu.
-  ***[[:tr:obs:notes:frames:39-11|[39-11]]]** İsa’yla konuştuktan sonra **Pilatus** halkın önüne çıktı. “Ben bu adamda hiçbir suç görmüyorum.” dedi. Fakat Yahudi ileri gelenleri ve kalabalık, “O’nu çarmıha ger!” diye bağırdılar. **Pilatus**, “Ama O suçsuzdur!” diye karşılık verdi. Halk daha yüksek sesle bağırdı. **Pilatus** üçüncü kez, “O suçsuzdur!” dedi.
-  ***[[:tr:obs:notes:frames:39-12|[39-12]]]** Kalabalığın ayaklanmasından korkan **Pilatus** sonunda askerlerinin İsa’yı çarmıha germesine razı oldu.
-  ***[[:tr:obs:notes:frames:40-02|[40-02]]]** **Pilatus**, İsa’nın gerildiği çarmıhın üzerine “Yahudilerin Kralı” yazılı bir yaftayı astırdı.
-  ***[[:tr:obs:notes:frames:41-02|[41-02]]]** **Pilatus** onlara, “Yanınıza askerleri alın, mezarın emniyet altına alınmasını sağlayın.”
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:39-09|[39-09]]]** Ertesi gün sabahleyin erkenden Yahudi ileri gelenleri İsa’yı Roma valisi **Pilatus**’a götürdüler. **Pilatus**’un İsa’yı suçlu olarak ölüme mahkûm edeceğini ümit ediyorlardı. **Pilatus**  İsa’ya, “Sen Yahudilerin Kralı mısın?” diye sordu.
+  * **[[:tr:obs:notes:frames:39-10|[39-10]]]****Pilatus**, “Hakikat nedir?” diye sordu.
+  * **[[:tr:obs:notes:frames:39-11|[39-11]]]** İsa’yla konuştuktan sonra **Pilatus**  halkın önüne çıktı. “Ben bu adamda hiçbir suç görmüyorum.” dedi. Fakat Yahudi ileri gelenleri ve kalabalık, “O’nu çarmıha ger!” diye bağırdılar. **Pilatus**, “Ama O suçsuzdur!” diye karşılık verdi. Halk daha yüksek sesle bağırdı. **Pilatus**  üçüncü kez, “O suçsuzdur!” dedi.
+  * **[[:tr:obs:notes:frames:39-12|[39-12]]]** Kalabalığın ayaklanmasından korkan **Pilatus**  sonunda askerlerinin İsa’yı çarmıha germesine razı oldu.
+  * **[[:tr:obs:notes:frames:40-02|[40-02]]]****Pilatus**, İsa’nın gerildiği çarmıhın üzerine “Yahudilerin Kralı” yazılı bir yaftayı astırdı.
+  * **[[:tr:obs:notes:frames:41-02|[41-02]]]****Pilatus**  onlara, “Yanınıza askerleri alın, mezarın emniyet altına alınmasını sağlayın.”
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
