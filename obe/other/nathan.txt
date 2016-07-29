@@ -16,15 +16,8 @@ Natan, Davut İsrail’in kralı olduğu dönemde yaşayan Tanrı’nın sadık 
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:17-07|[17-07]]]** Tanrı, **Natan** Peygamber’in vasıtasıyla Davut’a şu haberi gönderdi: “Sen savaşçı birisin, bu yüzden bana tapınak kurmayacaksın.”
-  ***[[:tr:obs:notes:frames:17-13|[17-13]]]** Tanrı Davut’un bu işine çok öfkelendi, günahının ne kadar kötü olduğunu bildirmesi için ona **Natan** Peygamberi’i gönderdi.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:17-07|[17-07]]]** Tanrı, **Natan**  Peygamber’in vasıtasıyla Davut’a şu haberi gönderdi: “Sen savaşçı birisin, bu yüzden bana tapınak kurmayacaksın.”
+  * **[[:tr:obs:notes:frames:17-13|[17-13]]]** Tanrı Davut’un bu işine çok öfkelendi, günahının ne kadar kötü olduğunu bildirmesi için ona **Natan**  Peygamberi’i gönderdi.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
-
-\\
-
