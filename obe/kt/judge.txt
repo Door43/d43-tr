@@ -24,9 +24,8 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:19-16|[19-16]]]** Peygamberler insanlara, kötü işlerinden vazgeçmezlerse, Tanrı’ya itaat etmeye başlamazlarsa Tanrı’nın onları suçlayıp **mahkûm** edeceğini, cezalandıracağını ikaz etti.
-  ***[[:tr:obs:notes:frames:21-08|[21-08]]]** Kral, bir krallık üzerinde hüküm süren ve insanları **yargılayan** biridir. Mesih, babası Davut’un tahtında oturan kâmil kral olacaktı. Bütün dünya üzerinde ebedî hüküm sürecek, her zaman doğru **karar** verecekti.
-  ***[[:tr:obs:notes:frames:39-04|[39-04]]]** Baş kâhin öfkeyle elbisesini yırtarak öbür din alimlerine şöyle bağırdı: “Başka şahide ihtiyacımız kalmadı! O’nun Tanrı’nın Oğlu olduğunu iddia ettiğini duydunuz. Ne **karar** vereceksiniz?”
-  ***[[:tr:obs:notes:frames:50-14|[50-14]]]** Ancak Tanrı İsa’ya iman etmeyen herkesi **mahkûm** edecek. Onları sonsuzluğa kadar ağlayacakları, diş gıcırdatarak acı çekecekleri cehenneme atacak.
-
+  * **[[:tr:obs:notes:frames:19-16|[19-16]]]** Peygamberler insanlara, kötü işlerinden vazgeçmezlerse, Tanrı’ya itaat etmeye başlamazlarsa Tanrı’nın onları suçlayıp **mahkûm**  edeceğini, cezalandıracağını ikaz etti.
+  * **[[:tr:obs:notes:frames:21-08|[21-08]]]** Kral, bir krallık üzerinde hüküm süren ve insanları **yargılayan**  biridir. Mesih, babası Davut’un tahtında oturan kâmil kral olacaktı. Bütün dünya üzerinde ebedî hüküm sürecek, her zaman doğru **karar**  verecekti.
+  * **[[:tr:obs:notes:frames:39-04|[39-04]]]** Baş kâhin öfkeyle elbisesini yırtarak öbür din alimlerine şöyle bağırdı: “Başka şahide ihtiyacımız kalmadı! O’nun Tanrı’nın Oğlu olduğunu iddia ettiğini duydunuz. Ne **karar**  vereceksiniz?”
+  * **[[:tr:obs:notes:frames:50-14|[50-14]]]** Ancak Tanrı İsa’ya iman etmeyen herkesi **mahkûm**  edecek. Onları sonsuzluğa kadar ağlayacakları, diş gıcırdatarak acı çekecekleri cehenneme atacak.
 ~~DISCUSSION~~{{tag>publish ktobs}}
