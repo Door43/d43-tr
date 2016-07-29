@@ -16,14 +16,7 @@ Bütün bu terimler Tanrı’nın iradesine karşı direnen cinleri ifade eder.
   * Bu terimi çevirirken kullandığınız sözcüğün iblisi ifade eden terimleri çevirdiğiniz sözcüklerden farklı olmasına dikkat edin.
   * Ayrıca «iblis» teriminin Kutsal Kitap’ın halk diline veya devlet diline çevirisinde nasıl çevrildiğine bakın.
 
-===== Çeviri için öneriler =====
-
-  * «Cin» sözcüğü «kötü ruh» olarak çevrilebilir.
-  * «Murdar ruh» da «yalancı ruh» ya da «sapık ruh» şeklinde çevrilebilir.
-  * Bu terimi çevirirken kullandığınız sözcüğün iblise ait olan terimleri çevirdiğiniz sözcüklerden farklı olmasına dikkat edin.
-  * Ayrıca «iblis» teriminin Kutsal Kitap’ın halk diline veya devlet diline çevirisinde nasıl çevrildiğine bakın.
-
-(See also: [[tr:obe:kt:demonpossessed]], [[tr:obe:kt:satan]], [[tr:obe:kt:falsegod]], [[tr:obe:kt:angel]], [[tr:obe:kt:evil]], [[tr:obe:kt:unclean]])
+(See also: [[:tr:obe:kt:demonpossessed|cinli, cine tutulan]], [[:tr:obe:kt:satan|Şeytan]], [[:tr:obe:kt:falsegod|yalancı ilâh]], [[:tr:obe:kt:angel|melek]], [[:tr:obe:kt:evil|kötülük]], [[:tr:obe:kt:unclean|unclean, uncleanness]])
 
 ===== Bible References: =====
 
