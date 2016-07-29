@@ -24,13 +24,12 @@ Genellikle «diriltmek» sözcüğü «kaldırmak» ya da «yükseltmek» anlam�
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:21-14|[21-14]]]** Peygamberler Mesih’in öleceğini ve Tanrı’nın O’nu ölümden **dirilteceğini** bildirdiler.
-  ***[[:tr:obs:notes:frames:41-05|[41-05]]]** “İsa burada değil. Önceden dediği gibi, ölümden **dirildi**!”
-  ***[[:tr:obs:notes:frames:43-07|[43-07]]]** “İsa öldüyse bile, Tanrı O’nu ölümden **diriltti**. Böylece, ‘Sen Kutsal Olanı’nı mezarda çürümeye bırakmayacaksın.’ peygamberlik sözü yerine gelmiş oldu. Biz Tanrı’nın İsa’yı **diriltmesine** şahit olduk.”
-  ***[[:tr:obs:notes:frames:44-05|[44-05]]]** “Siz Hayat Veren’i öldürdünüz, fakat Tanrı O’nu ölümden **diriltti**.”
-  ***[[:tr:obs:notes:frames:44-08|[44-08]]]** Petrus onlara, “Bu adam İsa Mesih’in kudretiyle önünüzde sapasağlam duruyor. Siz İsa’yı çarmıha gerdiniz, fakat Tanrı O’nu **diriltti**!
-  ***[[:tr:obs:notes:frames:48-04|[48-04]]]** Bunun anlamı şuydu: Şeytan Mesih’i öldürecek, fakat Tanrı O’nu ölümden **diriltecek** ve sonra Mesih, Şeytan’ın gücünü sonsuzluğa kadar kıracak.
-  ***[[:tr:obs:notes:frames:49-02|[49-02]]]** (İsa) Su üstünde yürüdü, fırtınaları dindirdi, çok hastaya şifa verdi, cinleri çıkardı, ölüleri **diriltti**, beş ekmek ve iki küçük balıkla 5.000 kişiyi doyurdu.
-  ***[[:tr:obs:notes:frames:49-12|[49-12]]]** İsa’nın Tanrı’nın Oğlu olduğuna, senin yerine çarmıhta öldüğüne, Tanrı’nın O’nu ölümden **dirilttiğine** iman etmen gerekir.
-
+  * **[[:tr:obs:notes:frames:21-14|[21-14]]]** Peygamberler Mesih’in öleceğini ve Tanrı’nın O’nu ölümden **dirilteceğini**  bildirdiler.
+  * **[[:tr:obs:notes:frames:41-05|[41-05]]]** “İsa burada değil. Önceden dediği gibi, ölümden **dirildi**!”
+  * **[[:tr:obs:notes:frames:43-07|[43-07]]]** “İsa öldüyse bile, Tanrı O’nu ölümden **diriltti**. Böylece, ‘Sen Kutsal Olanı’nı mezarda çürümeye bırakmayacaksın.’ peygamberlik sözü yerine gelmiş oldu. Biz Tanrı’nın İsa’yı **diriltmesine**  şahit olduk.”
+  * **[[:tr:obs:notes:frames:44-05|[44-05]]]** “Siz Hayat Veren’i öldürdünüz, fakat Tanrı O’nu ölümden **diriltti**.”
+  * **[[:tr:obs:notes:frames:44-08|[44-08]]]** Petrus onlara, “Bu adam İsa Mesih’in kudretiyle önünüzde sapasağlam duruyor. Siz İsa’yı çarmıha gerdiniz, fakat Tanrı O’nu **diriltti**!
+  * **[[:tr:obs:notes:frames:48-04|[48-04]]]** Bunun anlamı şuydu: Şeytan Mesih’i öldürecek, fakat Tanrı O’nu ölümden **diriltecek**  ve sonra Mesih, Şeytan’ın gücünü sonsuzluğa kadar kıracak.
+  * **[[:tr:obs:notes:frames:49-02|[49-02]]]** (İsa) Su üstünde yürüdü, fırtınaları dindirdi, çok hastaya şifa verdi, cinleri çıkardı, ölüleri **diriltti**, beş ekmek ve iki küçük balıkla 5.000 kişiyi doyurdu.
+  * **[[:tr:obs:notes:frames:49-12|[49-12]]]** İsa’nın Tanrı’nın Oğlu olduğuna, senin yerine çarmıhta öldüğüne, Tanrı’nın O’nu ölümden **dirilttiğine**  iman etmen gerekir.
 ~~DISCUSSION~~{{tag>publish ktobs}}
