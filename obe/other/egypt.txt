@@ -17,15 +17,11 @@ Mısır, Afrika’nın kuzeydoğu bölgesinde, Kenan ülkesinden güneybatıda b
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:08-04|[08-04]]]** Köle tüccarları Yusuf’u **Mısır**’a götürdüler. **Mısır** Nil Nehri’nin kıyısında bulunan büyük, kudretli bir ülkeydi.
-  ***[[:tr:obs:notes:frames:08-08|[08-08]]]** Firavun Yusuf’a o kadar hayran oldu ki onu bütün **Mısır**’da ikinci güç sahibi olarak tayin etti!
-  ***[[:tr:obs:notes:frames:08-11|[08-11]]]** Bu yüzden Yakup erzak almaları için büyük oğullarını **Mısır**’a gönderdi.
-  ***[[:tr:obs:notes:frames:08-14|[08-14]]]** Yakup ihtiyar olmasına rağmen bütün soyu ile beraber **Mısır**’a taşındı ve onların hepsi orada yerleşti.
-  ***[[:tr:obs:notes:frames:09-01|[09-01]]]** Yusuf öldükten sonra bütün akrabaları **Mısır**’da kalmıştı.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:08-04|[08-04]]]** Köle tüccarları Yusuf’u **Mısır**’a götürdüler. **Mısır**  Nil Nehri’nin kıyısında bulunan büyük, kudretli bir ülkeydi.
+  * **[[:tr:obs:notes:frames:08-08|[08-08]]]** Firavun Yusuf’a o kadar hayran oldu ki onu bütün **Mısır**’da ikinci güç sahibi olarak tayin etti!
+  * **[[:tr:obs:notes:frames:08-11|[08-11]]]** Bu yüzden Yakup erzak almaları için büyük oğullarını **Mısır**’a gönderdi.
+  * **[[:tr:obs:notes:frames:08-14|[08-14]]]** Yakup ihtiyar olmasına rağmen bütün soyu ile beraber **Mısır**’a taşındı ve onların hepsi orada yerleşti.
+  * **[[:tr:obs:notes:frames:09-01|[09-01]]]** Yusuf öldükten sonra bütün akrabaları **Mısır**’da kalmıştı.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
