@@ -16,13 +16,7 @@ Birini ayartmak demek, onu baştan çıkarmak, ona yanlış bir iş yaptırmak d
   * «Ayartı» sözcüğü şöyle çevrilebilir: «ayartıcı şey», «birini günaha sürükleyen şey» ya da «yanlış bir şey yapma arzusuna sebep olan şey.»
   * Tanrı’yı deneme bağlamında «ayartmak» şöyle çevrilecek: «Tanrı’yı denemeye koymak», «Tanrı’yı denemek», «Tanrı’nın sabrını denemek», «Tanrı’nın kendisini cezalandırmaya mecbur etmek» ya da «inatla Tanrı’ya karşı itaatsizlik etmeye devam etmek.»
 
-===== Çeviri için öneriler =====
-
-  * «Ayartmak» sözcüğü «baştan çıkarmak», «günaha sürüklemeye çalışmak» ya da «günah işlemeyi arzulamasını sağlamak» olarak çevrilebilir.
-  * Bazı bağlamlarda «ayartmak» yerine «denemek» sözcüğünün kullanılması gerekir.
-  * «Ayartı» sözcüğü şöyle çevrilebilir: «ayartıcı şeyler», «birini günaha sürükleyen şeyler» ya da «yanlış bir şey yapma arzusuna sebep olan şeyler.»
-
-(See also: [[tr:obe:kt:sin]], [[tr:obe:kt:satan]], [[tr:obe:kt:sin|günah, günahlı, günahkâr]], [[tr:obe:kt:satan|Şeytan, iblis, kötü olan]])
+(See also: [[:tr:obe:kt:sin|günah]], [[:tr:obe:kt:satan|Şeytan]], [[:tr:obe:kt:sin|günah, günahlı, günahkâr]], [[:tr:obe:kt:satan|Şeytan, iblis, kötü olan]])
 
 ===== Bible References: =====
 
