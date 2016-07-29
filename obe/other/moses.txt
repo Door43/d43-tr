@@ -16,18 +16,11 @@ Musa 40’tan fazla yıl boyunca İsrail halkının peygamberi ve önderiydi.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:09-12|[09-12]]]** Bir gün **Musa** koyunlarını otarırken yanan bir çalı gördü.
-  ***[[:tr:obs:notes:frames:12-05|[12-05]]]** **Musa** İsraillilere, “Korkmayın! Tanrı bugün sizin için savaşacak ve sizi kurtaracak!” dedi.
-  ***[[:tr:obs:notes:frames:12-07|[12-07]]]** Tanrı **Musa**’ya elini denizin üzerine uzatarak deniz sularını ikiye bölmesini söyledi.
-  ***[[:tr:obs:notes:frames:12-12|[12-12]]]** İsrailliler Mısırlıların öldüklerini görünce Tanrı’ya iman ettiler ve **Musa**’nın Tanrı’nın peygamberi olduğuna inandılar.
-  ***[[:tr:obs:notes:frames:13-07|[13-07]]]** Sonra Tanrı bu On Emir’i iki taş levha üzerine yazıp **Musa**’ya verdi.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:09-12|[09-12]]]** Bir gün **Musa**  koyunlarını otarırken yanan bir çalı gördü.
+  * **[[:tr:obs:notes:frames:12-05|[12-05]]]****Musa**  İsraillilere, “Korkmayın! Tanrı bugün sizin için savaşacak ve sizi kurtaracak!” dedi.
+  * **[[:tr:obs:notes:frames:12-07|[12-07]]]** Tanrı **Musa**’ya elini denizin üzerine uzatarak deniz sularını ikiye bölmesini söyledi.
+  * **[[:tr:obs:notes:frames:12-12|[12-12]]]** İsrailliler Mısırlıların öldüklerini görünce Tanrı’ya iman ettiler ve **Musa**’nın Tanrı’nın peygamberi olduğuna inandılar.
+  * **[[:tr:obs:notes:frames:13-07|[13-07]]]** Sonra Tanrı bu On Emir’i iki taş levha üzerine yazıp **Musa**’ya verdi.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
-
-\\
-
