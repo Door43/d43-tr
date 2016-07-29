@@ -15,15 +15,14 @@ Gidyon, Tanrı’nın İsrail’i düşmanlarından kurtarmaya çağırdığı �
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:16-05|[16-05]]]** Bir gün **Gidyon** adlı İsrailli bir adam Midyanlılardan gizli buğday döverken Yahve’nin meleği ona yaklaşıp, “Tanrı seninledir, ey yiğit savaşçı! Git, İsrail’i Midyanlıların elinden kurtar.” dedi.
-  ***[[:tr:obs:notes:frames:16-06|[16-06]]]** **Gidyon**’un babasının put için yaptırdığı bir sunağı vardı. Tanrı **Gidyon**’a o sunağı yıkmasını söyledi.
-  ***[[:tr:obs:notes:frames:16-08|[16-08]]]** (Midyanlılar) Sayılamayacak kadar kalabalıktılar. **Gidyon**, onlara karşı savaşmak amacıyla İsraillileri topladı.
-  ***[[:tr:obs:notes:frames:16-08|[16-08]]]** **Gidyon**, onlara karşı savaşmak amacıyla İsraillileri topladı. **Gidyon** Tanrı’nın kendisi vasıtasıyla İsrail’i kurtaracağından emin olmak için Tanrı’dan iki alâmet istedi.
-  ***[[:tr:obs:notes:frames:16-10|[16-10]]]** 32.000 İsrailli asker **Gidyon**’a gelmişti, fakat Tanrı bunların fazla olduğunu söyledi.
-  ***[[:tr:obs:notes:frames:16-12|[16-12]]]** Sonra **Gidyon** askerlerinin yanına döndü, her birine borular, boş testiler ve çıralar verdi.
-  ***[[:tr:obs:notes:frames:16-15|[16-15]]]** İsrailliler **Gidyon**’un onların kralı olmasını istediler.
-  ***[[:tr:obs:notes:frames:16-16|[16-16]]]** Sonra **Gidyon** bu altından baş kâhinin giyindiği giysiye benzer özel bir giysi yaptırdı. Fakat halk bu giysiyi bir put olarak kabul etti, ona tapınmaya başladı.
-
+  * **[[:tr:obs:notes:frames:16-05|[16-05]]]** Bir gün **Gidyon**  adlı İsrailli bir adam Midyanlılardan gizli buğday döverken Yahve’nin meleği ona yaklaşıp, “Tanrı seninledir, ey yiğit savaşçı! Git, İsrail’i Midyanlıların elinden kurtar.” dedi.
+  * **[[:tr:obs:notes:frames:16-06|[16-06]]]****Gidyon**’un babasının put için yaptırdığı bir sunağı vardı. Tanrı **Gidyon**’a o sunağı yıkmasını söyledi.
+  * **[[:tr:obs:notes:frames:16-08|[16-08]]]** (Midyanlılar) Sayılamayacak kadar kalabalıktılar. **Gidyon**, onlara karşı savaşmak amacıyla İsraillileri topladı.
+  * **[[:tr:obs:notes:frames:16-08|[16-08]]]****Gidyon**, onlara karşı savaşmak amacıyla İsraillileri topladı. **Gidyon**  Tanrı’nın kendisi vasıtasıyla İsrail’i kurtaracağından emin olmak için Tanrı’dan iki alâmet istedi.
+  * **[[:tr:obs:notes:frames:16-10|[16-10]]]** 32.000 İsrailli asker **Gidyon**’a gelmişti, fakat Tanrı bunların fazla olduğunu söyledi.
+  * **[[:tr:obs:notes:frames:16-12|[16-12]]]** Sonra **Gidyon**  askerlerinin yanına döndü, her birine borular, boş testiler ve çıralar verdi.
+  * **[[:tr:obs:notes:frames:16-15|[16-15]]]** İsrailliler **Gidyon**’un onların kralı olmasını istediler.
+  * **[[:tr:obs:notes:frames:16-16|[16-16]]]** Sonra **Gidyon**  bu altından baş kâhinin giyindiği giysiye benzer özel bir giysi yaptırdı. Fakat halk bu giysiyi bir put olarak kabul etti, ona tapınmaya başladı.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
