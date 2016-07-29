@@ -26,9 +26,8 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:05-06|[05-06]]]** İshak hâlâ çocuk iken Tanrı İbrahim’in **imanını** denedi. “Biricik oğlunu, İshak’ı al, bana kurban olarak sun.” dedi.
-  ***[[:tr:obs:notes:frames:31-07|[31-07]]]** Sonra (İsa) Petrus’a, “Seni kıt **imanlı**! Neden şüphelendin?” dedi.
-  ***[[:tr:obs:notes:frames:32-16|[32-16]]]** İsa ona, “**İmanın** seni kurtardı. Selâmetle git!” dedi.
-  ***[[:tr:obs:notes:frames:38-09|[38-09]]]** İsa Petrus’a şöyle dedi: “Şeytan hepinizi tutmak istiyor. Fakat ben senin için dua ettim, Petrus! **İmanını** kaybetmemen için dua ettim.”
-
+  * **[[:tr:obs:notes:frames:05-06|[05-06]]]** İshak hâlâ çocuk iken Tanrı İbrahim’in **imanını**  denedi. “Biricik oğlunu, İshak’ı al, bana kurban olarak sun.” dedi.
+  * **[[:tr:obs:notes:frames:31-07|[31-07]]]** Sonra (İsa) Petrus’a, “Seni kıt **imanlı**! Neden şüphelendin?” dedi.
+  * **[[:tr:obs:notes:frames:32-16|[32-16]]]** İsa ona, “**İmanın**  seni kurtardı. Selâmetle git!” dedi.
+  * **[[:tr:obs:notes:frames:38-09|[38-09]]]** İsa Petrus’a şöyle dedi: “Şeytan hepinizi tutmak istiyor. Fakat ben senin için dua ettim, Petrus! **İmanını**  kaybetmemen için dua ettim.”
 ~~DISCUSSION~~{{tag>publish ktobs}}
