@@ -19,18 +19,14 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:19-02|[19-02]]]** **İlyas** Peygamber İsrail Krallığı’nda Kral Ahav hüküm sürdüğü dönemde yaşamıştır.
-  ***[[:tr:obs:notes:frames:19-02|[19-02]]]** **İlyas** Ahav’a şöyle dedi: “Ben söylemedikçe İsrail Krallığı’nda ne yağmur yağacak ne de çiy düşecek!”
-  ***[[:tr:obs:notes:frames:19-03|[19-03]]]** Tanrı **İlyas**’a çöldeki bir dereye gidip, onu öldürmek isteyen Ahav’dan gizlenmesini buyurdu. Kuşlar ona her sabah ve her akşam ekmekle et getirirlerdi.
-  ***[[:tr:obs:notes:frames:19-04|[19-04]]]** Fakat onlar **İlyas**’a yardım ettiler ve Tanrı onlara yiyecek sağladı. Küplerinden un, çömleklerinden yağ hiç eksilmedi.
-  ***[[:tr:obs:notes:frames:19-05|[19-05]]]** Üç buçuk yıl sonra Tanrı **İlyas**’a İsrail Krallığı’na dönüp Ahav’la görüşmesini buyurdu. Çünkü yine yağmur yağdıracaktı.
-  ***[[:tr:obs:notes:frames:19-07|[19-07]]]** Sonra **İlyas** Baal’ın peygamberlerine şöyle dedi: “Bir boğa kesip kurban olarak hazırlayın, ama ateş yakmayın.”
-  ***[[:tr:obs:notes:frames:19-12|[19-12]]]** O zaman **İlyas**, “Baal’ın peygamberlerinden hiçbirinin kaçmasına izin vermeyin!” dedi.
-  ***[[:tr:obs:notes:frames:36-03|[36-03]]]** Sonra Musa ve **İlyas** Peygamber göründüler. Yüzlerce yıl önce yeryüzünde yaşayan bu adamlar İsa’yla yakında Yeruşalim’de öleceğini konuşuyorlardı.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:19-02|[19-02]]]****İlyas**  Peygamber İsrail Krallığı’nda Kral Ahav hüküm sürdüğü dönemde yaşamıştır.
+  * **[[:tr:obs:notes:frames:19-02|[19-02]]]****İlyas**  Ahav’a şöyle dedi: “Ben söylemedikçe İsrail Krallığı’nda ne yağmur yağacak ne de çiy düşecek!”
+  * **[[:tr:obs:notes:frames:19-03|[19-03]]]** Tanrı **İlyas**’a çöldeki bir dereye gidip, onu öldürmek isteyen Ahav’dan gizlenmesini buyurdu. Kuşlar ona her sabah ve her akşam ekmekle et getirirlerdi.
+  * **[[:tr:obs:notes:frames:19-04|[19-04]]]** Fakat onlar **İlyas**’a yardım ettiler ve Tanrı onlara yiyecek sağladı. Küplerinden un, çömleklerinden yağ hiç eksilmedi.
+  * **[[:tr:obs:notes:frames:19-05|[19-05]]]** Üç buçuk yıl sonra Tanrı **İlyas**’a İsrail Krallığı’na dönüp Ahav’la görüşmesini buyurdu. Çünkü yine yağmur yağdıracaktı.
+  * **[[:tr:obs:notes:frames:19-07|[19-07]]]** Sonra **İlyas**  Baal’ın peygamberlerine şöyle dedi: “Bir boğa kesip kurban olarak hazırlayın, ama ateş yakmayın.”
+  * **[[:tr:obs:notes:frames:19-12|[19-12]]]** O zaman **İlyas**, “Baal’ın peygamberlerinden hiçbirinin kaçmasına izin vermeyin!” dedi.
+  * **[[:tr:obs:notes:frames:36-03|[36-03]]]** Sonra Musa ve **İlyas**  Peygamber göründüler. Yüzlerce yıl önce yeryüzünde yaşayan bu adamlar İsa’yla yakında Yeruşalim’de öleceğini konuşuyorlardı.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
