@@ -25,13 +25,12 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:08-03|[08-03]]]** Eve dönmeden önce kardeşler Yusuf’un elbisesini yırtıp keçi **kanına** bulaştırdılar.
-  ***[[:tr:obs:notes:frames:10-03|[10-03]]]** Tanrı Nil Nehri’ni **kana** dönüştürdü, fakat firavun hâlâ İsraillileri salıvermek istemedi.
-  ***[[:tr:obs:notes:frames:11-05|[11-05]]]** İsraillilerin bütün evlerinin kapıları etrafında **kan** vardı, bu yüzden Tanrı evlerinin üzerinden geçti ve içeride bulunanlar kurtuldular. Kuzuların **kanı** sayesinde kurtuldular.
-  ***[[:tr:obs:notes:frames:13-09|[13-09]]]** Kurban olarak sunulan hayvanın **kanı** o kişinin günahını örterek onu Tanrı’nın nazarında pak ederdi.
-  ***[[:tr:obs:notes:frames:38-05|[38-05]]]** Sonra İsa kâseyi alıp dedi: “Bundan için. Bu, günahların affedilmesi için akıtılan **kanım**, Yeni Ahit’i başlatan **kandır**.”
-  ***[[:tr:obs:notes:frames:48-10|[48-10]]]** İsa’ya iman eden kişinin günahlarının bedelini İsa’nın **kanı** öder ve Tanrı’nın cezası bu insanın üzerinden geçer.
-
+  * **[[:tr:obs:notes:frames:08-03|[08-03]]]** Eve dönmeden önce kardeşler Yusuf’un elbisesini yırtıp keçi **kanına**  bulaştırdılar.
+  * **[[:tr:obs:notes:frames:10-03|[10-03]]]** Tanrı Nil Nehri’ni **kana**  dönüştürdü, fakat firavun hâlâ İsraillileri salıvermek istemedi.
+  * **[[:tr:obs:notes:frames:11-05|[11-05]]]** İsraillilerin bütün evlerinin kapıları etrafında **kan**  vardı, bu yüzden Tanrı evlerinin üzerinden geçti ve içeride bulunanlar kurtuldular. Kuzuların **kanı**  sayesinde kurtuldular.
+  * **[[:tr:obs:notes:frames:13-09|[13-09]]]** Kurban olarak sunulan hayvanın **kanı**  o kişinin günahını örterek onu Tanrı’nın nazarında pak ederdi.
+  * **[[:tr:obs:notes:frames:38-05|[38-05]]]** Sonra İsa kâseyi alıp dedi: “Bundan için. Bu, günahların affedilmesi için akıtılan **kanım**, Yeni Ahit’i başlatan **kandır**.”
+  * **[[:tr:obs:notes:frames:48-10|[48-10]]]** İsa’ya iman eden kişinin günahlarının bedelini İsa’nın **kanı**  öder ve Tanrı’nın cezası bu insanın üzerinden geçer.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
