@@ -16,11 +16,6 @@ Rahav, İsrail’in Eriha kentine saldırdığı zaman orada oturan yaşayan bir
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:15-01|[15-01]]]** O kentte yaşayan **Rahav** adındaki bir fahişe, casusları sakladı ve kurtulmalarına yardım etti. Çünkü Tanrı’ya iman etmişti. Casuslar, İsraillilerin Eriha’yı yok ederken **Rahav**’la ailesini koruyacaklarına söz verdiler.
-  ***[[:tr:obs:notes:frames:15-05|[15-05]]]** İsrailliler, Tanrı’nın buyurduğu gibi kentteki her şeyi yok ettiler. Yalnızca **Rahav**’la ailesini korudular, onlar da zaten İsraillilere katılmışlardı.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
-
+  * **[[:tr:obs:notes:frames:15-01|[15-01]]]** O kentte yaşayan **Rahav**  adındaki bir fahişe, casusları sakladı ve kurtulmalarına yardım etti. Çünkü Tanrı’ya iman etmişti. Casuslar, İsraillilerin Eriha’yı yok ederken **Rahav**’la ailesini koruyacaklarına söz verdiler.
+  * **[[:tr:obs:notes:frames:15-05|[15-05]]]** İsrailliler, Tanrı’nın buyurduğu gibi kentteki her şeyi yok ettiler. Yalnızca **Rahav**’la ailesini korudular, onlar da zaten İsraillilere katılmışlardı.
+~~DISCUSSION~~{{tag>publish ktobs}}
