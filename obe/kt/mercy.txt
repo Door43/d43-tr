@@ -22,11 +22,10 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:19-16|[19-16]]]** Bütün peygamberler halka putlara tapmaktan vazgeçmesini ve insanlara adalet ve **merhametle** davranmasını buyururlardı.
-  ***[[:tr:obs:notes:frames:19-17|[19-17]]]** Yeremya sarnıcın dibindeki balçığa batmıştı bile, ama kral ona **acıdı** ve ölmeden önce sarnıçtan çıkarılmasını emretti.
-  ***[[:tr:obs:notes:frames:20-12|[20-12]]]** Pers İmparatorluğu kuvvetli olsa da fethettiği halklara karşı **merhametliydi**.
-  ***[[:tr:obs:notes:frames:27-11|[27-11]]]** Sonra İsa Tevrat bilginine, “Ne düşünüyorsun? O üç adamdan hangisi soyulup dövülen adamın komşusu oldu?” diye sordu. Tevrat bilgini, “Ona **acıyan** biri” diye cevap verdi.
-  ***[[:tr:obs:notes:frames:32-11|[32-11]]]** Fakat İsa ona dedi: “Hayır, evine gitmeni istiyorum. Git, dostlarına, akrabalarına Tanrı’nın senin için neler yaptığını, sana nasıl **merhamet** gösterdiğini anlat!”
-  ***[[:tr:obs:notes:frames:34-09|[34-09]]]** “Vergici ise din aliminden uzakta duruyor, başını göğe kaldıramıyordu bile. Ancak yumruğunu göğsüne vurarak, ‘Ey Tanrı, bana **merhamet et**. Ben günahkârım!’ diye dua ediyordu.”
-
+  * **[[:tr:obs:notes:frames:19-16|[19-16]]]** Bütün peygamberler halka putlara tapmaktan vazgeçmesini ve insanlara adalet ve **merhametle**  davranmasını buyururlardı.
+  * **[[:tr:obs:notes:frames:19-17|[19-17]]]** Yeremya sarnıcın dibindeki balçığa batmıştı bile, ama kral ona **acıdı**  ve ölmeden önce sarnıçtan çıkarılmasını emretti.
+  * **[[:tr:obs:notes:frames:20-12|[20-12]]]** Pers İmparatorluğu kuvvetli olsa da fethettiği halklara karşı **merhametliydi**.
+  * **[[:tr:obs:notes:frames:27-11|[27-11]]]** Sonra İsa Tevrat bilginine, “Ne düşünüyorsun? O üç adamdan hangisi soyulup dövülen adamın komşusu oldu?” diye sordu. Tevrat bilgini, “Ona **acıyan**  biri” diye cevap verdi.
+  * **[[:tr:obs:notes:frames:32-11|[32-11]]]** Fakat İsa ona dedi: “Hayır, evine gitmeni istiyorum. Git, dostlarına, akrabalarına Tanrı’nın senin için neler yaptığını, sana nasıl **merhamet**  gösterdiğini anlat!”
+  * **[[:tr:obs:notes:frames:34-09|[34-09]]]** “Vergici ise din aliminden uzakta duruyor, başını göğe kaldıramıyordu bile. Ancak yumruğunu göğsüne vurarak, ‘Ey Tanrı, bana **merhamet et**. Ben günahkârım!’ diye dua ediyordu.”
 {{tag>publish ktobs}}
