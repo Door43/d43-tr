@@ -19,14 +19,13 @@ Melek, Tanrı’nın yarattığı kuvvetli bir ruhtur. Bu ruhlar Tanrı’nın b
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:02-12|[02-12]]]** Bu sebeple Tanrı, Adem ve Havva’yı güzel bahçeden kovdu ve insanların yaşam ağacından yemelerini önlemek için bahçenin girişinde büyük, güçlü **melekler** koydu.
-  ***[[:tr:obs:notes:frames:22-03|[22-03]]]** **Melek** Zekeriya’ya şöyle cevap verdi: “Sana bu müjdeyi bildirmek için Tanrı’dan gönderildim.”
-  ***[[:tr:obs:notes:frames:23-06|[23-06]]]** Ansızın çobanlara parlayan bir **melek** göründü. Çobanlar korkuya kapıldılar. **Melek** dedi: “Korkmayın! Çünkü size sevindirici haber getirdim!”
-  ***[[:tr:obs:notes:frames:23-07|[23-07]]]** Derken gökyüzü, Tanrı’ya hamdeden **meleklerle** doldu.
-  ***[[:tr:obs:notes:frames:25-08|[25-08]]]** Bunun üzerine **melekler** gelip İsa’yla ilgilendiler.
-  ***[[:tr:obs:notes:frames:38-12|[38-12]]]** İsa derin bir acı içindeydi. Teri kan damlaları gibiydi. Tanrı O’nu kuvvetlendirmek için **meleğini** gönderdi.
-  ***[[:tr:obs:notes:frames:38-15|[38-15]]]** “Baba’dan beni savunacak bir **melek** ordusu göndermesini rica edebilirdim.”
-
+  * **[[:tr:obs:notes:frames:02-12|[02-12]]]** Bu sebeple Tanrı, Adem ve Havva’yı güzel bahçeden kovdu ve insanların yaşam ağacından yemelerini önlemek için bahçenin girişinde büyük, güçlü **melekler**  koydu.
+  * **[[:tr:obs:notes:frames:22-03|[22-03]]]****Melek**  Zekeriya’ya şöyle cevap verdi: “Sana bu müjdeyi bildirmek için Tanrı’dan gönderildim.”
+  * **[[:tr:obs:notes:frames:23-06|[23-06]]]** Ansızın çobanlara parlayan bir **melek**  göründü. Çobanlar korkuya kapıldılar. **Melek**  dedi: “Korkmayın! Çünkü size sevindirici haber getirdim!”
+  * **[[:tr:obs:notes:frames:23-07|[23-07]]]** Derken gökyüzü, Tanrı’ya hamdeden **meleklerle**  doldu.
+  * **[[:tr:obs:notes:frames:25-08|[25-08]]]** Bunun üzerine **melekler**  gelip İsa’yla ilgilendiler.
+  * **[[:tr:obs:notes:frames:38-12|[38-12]]]** İsa derin bir acı içindeydi. Teri kan damlaları gibiydi. Tanrı O’nu kuvvetlendirmek için **meleğini**  gönderdi.
+  * **[[:tr:obs:notes:frames:38-15|[38-15]]]** “Baba’dan beni savunacak bir **melek**  ordusu göndermesini rica edebilirdim.”
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
