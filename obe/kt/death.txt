@@ -25,14 +25,7 @@ Bu terim Kutsal Kitap’ta iki farklı anlamda kullanılır. Fiziksel anlamda, �
   * Bazı dillerde bağlamda ruhsal ölüm kastedildiği yerlerde «ruhsal ölüm» söylemekle kasıt daha net açıklanabilir. Bazı çevirmenler fiziksel ölümün ruhsal ölümle karşılaştırıldığı yerlerde «fiziksel ölüm» söylemenin daha iyi olacağını düşünebilirler.
   * «Ölüler» sözü ölmüş kişileri ifade eder. Bu söz bazı dillerde «ölü insanlar» ya da «ölmüş insanlar» olarak çevrilir.
 
-===== Çeviri için öneriler =====
-
-  * Bu terimi çevirmek için hedef dilde ölümü belirtmek için günlük olarak kullanılan doğal bir sözcüğü kullanmak iyidir.
-  * Bazı dillerde «ölmek» terimi «yaşamamak» şeklinde çevrilebilir. «Ölü» teriminin çevirisi «diri olmayan» ya da «hayatı olmayan» olabilir.
-  * Birçok dilde ölüm için Türkçe «göçüp gitmek» gibi deyimler bulunur. Ancak Kutsal Kitap’ın çevirisinde, kaba gelmiyorsa, günlük yaşamda kullanılan sözcüğü kullanmak iyidir.
-  * Çeviride hem fiziksel hem de ruhsal ölüm için aynı sözcüğü kullanmak iyidir. Bazı dillerde bağlamda ruhsal ölüm kastedildiği yerlerde «ruhsal ölüm» söylemekle kasıt daha net açıklanabilir. Bazı çevirmenler fiziksel ölümün ruhsal ölümle karşılaştırıldığı yerlerde «fiziksel ölüm» söylemenin daha iyi olacağını düşünebilirler.
-
-(See also: [[tr:obe:kt:life]], [[tr:obe:kt:faith]])
+(See also: [[:tr:obe:kt:life|hayat]], [[:tr:obe:kt:faith|iman]])
 
 ===== Bible References: =====
 
