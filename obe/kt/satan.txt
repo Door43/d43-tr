@@ -17,14 +17,7 @@
   * Bu terimlerin cin ve kötü ruh terimlerinden farklı olarak çevrilmesi gerekir.
   * Bu terimlerin Kutsal Kitap’ın halk diline veya devlet diline çevirisinde nasıl çevrildiğine bakın.
 
-===== Çeviri için öneriler =====
-
-  * «İblis» sözcüğünü ayrıca «suçlayan», «kötü olan» ya da «kötü ruhların kralı» şeklinde çevirebilirsiniz.
-  * «Şeytan» terimi «hasım» ya da iblis olduğunu gösteren herhangi bir sözcükle çevrilebilir.
-  * Bu terimlerin cin ve kötü ruh terimlerinden farklı olarak çevrilmesi gerekir.
-  * Bu terimlerin Kutsal Kitap’ın halk diline veya devlet diline çevirisinde nasıl çevrildiğine bakın.
-
-(See also: [[tr:obe:kt:kingdomofgod]], [[tr:obe:kt:evil]], [[tr:obe:kt:tempt]])
+(See also: [[:tr:obe:kt:kingdomofgod|Tanrı’nın Hükümranlığı, Semavi Hükümranlık]], [[:tr:obe:kt:evil|kötülük]], [[:tr:obe:kt:tempt|ayartmak, ayartı]])
 
 ===== Bible References: =====
 
