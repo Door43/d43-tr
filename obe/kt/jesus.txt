@@ -16,14 +16,7 @@
 
 
 
-===== Çeviri için öneriler =====
-
-  * Birçok dilde İsa Mesin’in adı Yunanca «İsus Hristus» adına benzer şekilde çevrilir. Örneğin, "Jesucristo," "Jezus Christus," "Yesus Kristus", "Hesukristo" vs.
-  * Bazı dillerde «Hristos» yerine İbranice «Maşiyah», yani «Mesih» kullanılmaktadır.
-  * Başka dillerde «meshedilen biri» anlamına gelen bir söz ya da ifadenin kullanılması tercih edilebilir.
-  * Ayrıca Kutsal Kitap’ın halk diline veya devlet diline çevirisinde bu adların nasıl çevrildiğine dikkat verin.
-
-(See also: [[tr:obe:kt:godthefather]], [[tr:obe:kt:god]], [[tr:obe:kt:kingdomofgod]], [[tr:obe:kt:highpriest]], [[tr:obe:kt:christ]])
+(See also: [[:tr:obe:kt:godthefather|Baba Tanrı, Semavi Baba]], [[:tr:obe:kt:god|Tanrı]], [[:tr:obe:kt:kingdomofgod|Tanrı’nın Hükümranlığı, Semavi Hükümranlık]], [[:tr:obe:kt:highpriest|baş kâhin]], [[:tr:obe:kt:christ|Mesih]])
 
 ===== Bible References: =====
 
