@@ -19,15 +19,14 @@ Bu adlar, İsa’nın on iki havarilerinden biri Petrus’a ait olan çeşitli a
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:28-09|[28-09]]]** **Petrus** İsa’ya, “Biz her şeyi bırakıp senin peşinden gittik. Peki mükafatımız ne olacak?” dedi.
-  ***[[:tr:obs:notes:frames:29-01|[29-01]]]** Bir gün havari **Petrus** İsa’ya, “Hocam, bana karşı günah işleyen kardeşimi kaç kere bağışlamalıyım? Yedi kere mi?” diye sordu.
-  ***[[:tr:obs:notes:frames:31-05|[31-05]]]** Bunun üzerine **Petrus** İsa’ya, “Efendimiz, eğer sen isen, bana emret, su üstünde sana geleyim.” dedi. İsa **Petrus**’a, “Gel!” dedi.
-  ***[[:tr:obs:notes:frames:36-01|[36-01]]]** Bir gün İsa üç havarisini -**Petrus**’u, Yakup’u ve Yuhanna’yı- yanına aldı.
-  ***[[:tr:obs:notes:frames:38-09|[38-09]]]** **Petrus**, “Herkes seni terketse de ben asla terketmem!” diye karşılık verdi. İsa **Petrus**’a şöyle dedi: “Şeytan hepinizi tutmak istiyor. Fakat ben senin için dua ettim, **Petrus**! İmanını kaybetmemen için dua ettim. Buna rağmen bu gece horoz ötmeden önce beni tanıdığını üç kez inkar edeceksin.”
-  ***[[:tr:obs:notes:frames:38-15|[38-15]]]** Askerler İsa’yı tutuklarken **Petrus** kılıcını çekip baş kâhinin kölesinin kulağını uçurdu.
-  ***[[:tr:obs:notes:frames:43-11|[43-11]]]** **Petrus** onlara şöyle cevap verdi: “Her biriniz tövbe edip İsa Mesih’in adıyla vaftiz olmalı. O zaman Tanrı günahlarınızı affeder.”
-  ***[[:tr:obs:notes:frames:44-08|[44-08]]]** **Petrus** onlara, “Bu adam İsa Mesih’in kudretiyle önünüzde sapasağlam duruyor.” diye cevap verdi.
-
+  * **[[:tr:obs:notes:frames:28-09|[28-09]]]****Petrus**  İsa’ya, “Biz her şeyi bırakıp senin peşinden gittik. Peki mükafatımız ne olacak?” dedi.
+  * **[[:tr:obs:notes:frames:29-01|[29-01]]]** Bir gün havari **Petrus**  İsa’ya, “Hocam, bana karşı günah işleyen kardeşimi kaç kere bağışlamalıyım? Yedi kere mi?” diye sordu.
+  * **[[:tr:obs:notes:frames:31-05|[31-05]]]** Bunun üzerine **Petrus**  İsa’ya, “Efendimiz, eğer sen isen, bana emret, su üstünde sana geleyim.” dedi. İsa **Petrus**’a, “Gel!” dedi.
+  * **[[:tr:obs:notes:frames:36-01|[36-01]]]** Bir gün İsa üç havarisini -**Petrus**’u, Yakup’u ve Yuhanna’yı- yanına aldı.
+  * **[[:tr:obs:notes:frames:38-09|[38-09]]]****Petrus**, “Herkes seni terketse de ben asla terketmem!” diye karşılık verdi. İsa **Petrus**’a şöyle dedi: “Şeytan hepinizi tutmak istiyor. Fakat ben senin için dua ettim, **Petrus**! İmanını kaybetmemen için dua ettim. Buna rağmen bu gece horoz ötmeden önce beni tanıdığını üç kez inkar edeceksin.”
+  * **[[:tr:obs:notes:frames:38-15|[38-15]]]** Askerler İsa’yı tutuklarken **Petrus**  kılıcını çekip baş kâhinin kölesinin kulağını uçurdu.
+  * **[[:tr:obs:notes:frames:43-11|[43-11]]]****Petrus**  onlara şöyle cevap verdi: “Her biriniz tövbe edip İsa Mesih’in adıyla vaftiz olmalı. O zaman Tanrı günahlarınızı affeder.”
+  * **[[:tr:obs:notes:frames:44-08|[44-08]]]****Petrus**  onlara, “Bu adam İsa Mesih’in kudretiyle önünüzde sapasağlam duruyor.” diye cevap verdi.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
