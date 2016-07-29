@@ -18,17 +18,13 @@ Yeşaya, Tanrı’nın bir peygamberiydi.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:21-09|[21-09]]]** **Yeşaya** Peygamber Mesih’in bakireden doğuşunu müjdeledi.
-  ***[[:tr:obs:notes:frames:21-10|[21-10]]]** **Yeşaya** Peygamber Mesih’in Celile’de yaşayacağından, yüreği ezik olanlara teselli vereceğinden, tutsaklara serbest bırakılacaklarını, zindanlarda bulunanlara kurtulacaklarını ilan edeceğinden haber verdi.
-  ***[[:tr:obs:notes:frames:21-11|[21-11]]]** **Yeşaya** Peygamber ayrıca Mesih’in hiçbir sebep olmadan nefretle reddedileceğinden haber verdi.
-  ***[[:tr:obs:notes:frames:21-12|[21-12]]]** **Yeşaya**’nın bildirdiği üzere, insanlar Mesih’e tükürecek, alay edecek, vuracaklar.
-  ***[[:tr:obs:notes:frames:26-02|[26-02]]]** O’na (İsa’ya) okuması için **Yeşaya** Peygamber’in tomarını verdiler. İsa tomarı açıp halka bir parça okudu.
-  ***[[:tr:obs:notes:frames:45-08|[45-08]]]** Filipus arabaya yetişince Etiyopyalının **Yeşaya** Peygamber’in yazdığı kitabı okuduğunu işitti.
-  ***[[:tr:obs:notes:frames:45-10|[45-10]]]** Filipus Etiyopyalı adama **Yeşaya**’nın İsa’dan söz ettiğini izah etti.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:21-09|[21-09]]]****Yeşaya**  Peygamber Mesih’in bakireden doğuşunu müjdeledi.
+  * **[[:tr:obs:notes:frames:21-10|[21-10]]]****Yeşaya**  Peygamber Mesih’in Celile’de yaşayacağından, yüreği ezik olanlara teselli vereceğinden, tutsaklara serbest bırakılacaklarını, zindanlarda bulunanlara kurtulacaklarını ilan edeceğinden haber verdi.
+  * **[[:tr:obs:notes:frames:21-11|[21-11]]]****Yeşaya**  Peygamber ayrıca Mesih’in hiçbir sebep olmadan nefretle reddedileceğinden haber verdi.
+  * **[[:tr:obs:notes:frames:21-12|[21-12]]]****Yeşaya**’nın bildirdiği üzere, insanlar Mesih’e tükürecek, alay edecek, vuracaklar.
+  * **[[:tr:obs:notes:frames:26-02|[26-02]]]** O’na (İsa’ya) okuması için **Yeşaya**  Peygamber’in tomarını verdiler. İsa tomarı açıp halka bir parça okudu.
+  * **[[:tr:obs:notes:frames:45-08|[45-08]]]** Filipus arabaya yetişince Etiyopyalının **Yeşaya**  Peygamber’in yazdığı kitabı okuduğunu işitti.
+  * **[[:tr:obs:notes:frames:45-10|[45-10]]]** Filipus Etiyopyalı adama **Yeşaya**’nın İsa’dan söz ettiğini izah etti.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
