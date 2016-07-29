@@ -20,16 +20,12 @@ Kutsal Kitap’ta Yeşu adlı birkaç İsrailli kişi vardır. En ünlü olan, M
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:14-04|[14-04]]]** İsrailliler Kenan’ın sınırlarına varınca Musa İsrail’in her oymağından birer adam – toplam on iki kişi seçti. Ülkeyi araştırsınlar diye onları casus olarak gönderdi.
-  ***[[:tr:obs:notes:frames:14-06|[14-06]]]** Öbür iki kişi, Kalev ve **Yeşu**, hemen itiraz etti: “Kenanlılar gerçekten uzun boylu ve güçlüdürler, fakat biz onları mutlaka mağlup edeceğiz!”
-  ***[[:tr:obs:notes:frames:14-08|[14-08]]]** **Yeşu** ve Kalev hariç, yirmi ve daha yukarı yaşta olan herkes burada ölecek ve vadettiğim ülkeye giremeyecek.
-  ***[[:tr:obs:notes:frames:14-14|[14-14]]]** Musa’nın yaşı ilerlemişti ve Tanrı **Yeşu**’yu önder seçti.
-  ***[[:tr:obs:notes:frames:14-15|[14-15]]]** **Yeşu** Tanrı’ya güvendiği ve itaat ettiği için iyi bir önderdi.
-  ***[[:tr:obs:notes:frames:15-03|[15-03]]]** Halk Şeria Nehri’ni geçtikten sonra Tanrı **Yeşu**’ya kuvvetli Eriha kentine nasıl saldıracağını anlattı.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:14-04|[14-04]]]** İsrailliler Kenan’ın sınırlarına varınca Musa İsrail’in her oymağından birer adam – toplam on iki kişi seçti. Ülkeyi araştırsınlar diye onları casus olarak gönderdi.
+  * **[[:tr:obs:notes:frames:14-06|[14-06]]]** Öbür iki kişi, Kalev ve **Yeşu**, hemen itiraz etti: “Kenanlılar gerçekten uzun boylu ve güçlüdürler, fakat biz onları mutlaka mağlup edeceğiz!”
+  * **[[:tr:obs:notes:frames:14-08|[14-08]]]****Yeşu**  ve Kalev hariç, yirmi ve daha yukarı yaşta olan herkes burada ölecek ve vadettiğim ülkeye giremeyecek.
+  * **[[:tr:obs:notes:frames:14-14|[14-14]]]** Musa’nın yaşı ilerlemişti ve Tanrı **Yeşu**’yu önder seçti.
+  * **[[:tr:obs:notes:frames:14-15|[14-15]]]****Yeşu**  Tanrı’ya güvendiği ve itaat ettiği için iyi bir önderdi.
+  * **[[:tr:obs:notes:frames:15-03|[15-03]]]** Halk Şeria Nehri’ni geçtikten sonra Tanrı **Yeşu**’ya kuvvetli Eriha kentine nasıl saldıracağını anlattı.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
