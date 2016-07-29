@@ -33,15 +33,14 @@ Bu terim Kutsal Kitap’ta iki farklı anlamda kullanılır. Fiziksel anlamda, �
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:01-11|[01-11]]]** Tanrı Adem’e bahçede istediği ağacın meyvesini yiyebileceğini, yalnız iyiyle kötüyü bilme ağacından yememesini buyurdu. Eğer ondan yerse **öleceğini** söyledi.
-  ***[[:tr:obs:notes:frames:02-11|[02-11]]]** “Sonunda **öleceksin** ve bedenin toprağa dönecek.”
-  ***[[:tr:obs:notes:frames:07-10|[07-10]]]** Sonra İshak **öldü** ve Yakup’la Esav onu gömdüler.
-  ***[[:tr:obs:notes:frames:37-05|[37-05]]]** İsa Marta’ya, “Diriliş ve hayat Ben’im. Bana iman eden, **ölse** bile yaşayacak! Bana iman eden asla **ölmez**! Buna iman ediyor musun?” dedi.
-  ***[[:tr:obs:notes:frames:40-08|[40-08]]]** İsa kendi **ölümüyle** insanların Tanrı’ya dönmeleri için yol açtı.
-  ***[[:tr:obs:notes:frames:43-07|[43-07]]]** “İsa **öldüyse** bile, Tanrı O’nu ölümden diriltti.”
-  ***[[:tr:obs:notes:frames:48-02|[48-02]]]** Onların günahı yüzünden dünyada herkes hastalanır, **ölür**.
-  ***[[:tr:obs:notes:frames:50-17|[50-17]]]** O (İsa), gözyaşlarını silecek ve artık ıstırap, keder, ağlayış, kötülük, ağrı ya da **ölüm** olmayacak.
-
+  * **[[:tr:obs:notes:frames:01-11|[01-11]]]** Tanrı Adem’e bahçede istediği ağacın meyvesini yiyebileceğini, yalnız iyiyle kötüyü bilme ağacından yememesini buyurdu. Eğer ondan yerse **öleceğini**  söyledi.
+  * **[[:tr:obs:notes:frames:02-11|[02-11]]]** “Sonunda **öleceksin**  ve bedenin toprağa dönecek.”
+  * **[[:tr:obs:notes:frames:07-10|[07-10]]]** Sonra İshak **öldü**  ve Yakup’la Esav onu gömdüler.
+  * **[[:tr:obs:notes:frames:37-05|[37-05]]]** İsa Marta’ya, “Diriliş ve hayat Ben’im. Bana iman eden, **ölse**  bile yaşayacak! Bana iman eden asla **ölmez**! Buna iman ediyor musun?” dedi.
+  * **[[:tr:obs:notes:frames:40-08|[40-08]]]** İsa kendi **ölümüyle**  insanların Tanrı’ya dönmeleri için yol açtı.
+  * **[[:tr:obs:notes:frames:43-07|[43-07]]]** “İsa **öldüyse**  bile, Tanrı O’nu ölümden diriltti.”
+  * **[[:tr:obs:notes:frames:48-02|[48-02]]]** Onların günahı yüzünden dünyada herkes hastalanır, **ölür**.
+  * **[[:tr:obs:notes:frames:50-17|[50-17]]]** O (İsa), gözyaşlarını silecek ve artık ıstırap, keder, ağlayış, kötülük, ağrı ya da **ölüm**  olmayacak.
 ~~DISCUSSION~~{{tag>publish review ktobs}}
 
 ~~NOCACHE~~
