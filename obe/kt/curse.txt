@@ -26,10 +26,9 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:02-09|[02-09]]]** Tanrı yılana şöyle dedi: “Sen **lanetlisin**!”
-  ***[[:tr:obs:notes:frames:02-11|[02-11]]]** “Bu yüzden toprak **lanetlendi**, artık yiyecek bulmak için çok emek harcaman gerekecek.”
-  ***[[:tr:obs:notes:frames:04-04|[04-04]]]** “Seni kutsayanları kutsayacak, seni **lanetleyenleri** **lanetleyeceğim**.”
-  ***[[:tr:obs:notes:frames:39-07|[39-07]]]** Bunun üzerine Petrus yemin ederek, “Bu adamı tanıyorsam Tanrı beni **lanetlesin**!” dedi.
-  ***[[:tr:obs:notes:frames:50-16|[50-16]]]** Adem’le Havva Tanrı’ya karşı itaatsiz olup dünyaya günah getirdikleri için Tanrı dünyayı **lanetledi**, yok etmeye karar verdi.
-
+  * **[[:tr:obs:notes:frames:02-09|[02-09]]]** Tanrı yılana şöyle dedi: “Sen **lanetlisin**!”
+  * **[[:tr:obs:notes:frames:02-11|[02-11]]]** “Bu yüzden toprak **lanetlendi**, artık yiyecek bulmak için çok emek harcaman gerekecek.”
+  * **[[:tr:obs:notes:frames:04-04|[04-04]]]** “Seni kutsayanları kutsayacak, seni **lanetleyenleri****lanetleyeceğim**.”
+  * **[[:tr:obs:notes:frames:39-07|[39-07]]]** Bunun üzerine Petrus yemin ederek, “Bu adamı tanıyorsam Tanrı beni **lanetlesin**!” dedi.
+  * **[[:tr:obs:notes:frames:50-16|[50-16]]]** Adem’le Havva Tanrı’ya karşı itaatsiz olup dünyaya günah getirdikleri için Tanrı dünyayı **lanetledi**, yok etmeye karar verdi.
 ~~DISCUSSION~~{{tag>publish ktobs}}
