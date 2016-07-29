@@ -26,12 +26,11 @@ aşağıdaki nottan: esasen maddesel refaha, bolluğa veya fiziksel sağlığa i
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:01-07|[01-07]]]** Onların iyi olduğunu görünce onları **kutsadı​**.
-  ***[[:tr:obs:notes:frames:01-15|[01-15]]]** Tanrı adamla kadını kendi suretinde yarattı ve bunun çok iyi olduğunu gördü. “Evlatlarınız, torunlarınız olsun! Yeryüzünü doldurun!” diye buyurdu ve onları **kutsadı**.
-  ***[[:tr:obs:notes:frames:01-16|[01-16]]]** Bu yüzden yaptığı işlerden dinlendi. Tanrı yedinci günü **kutsadı** ve o gün, Tanrı’nın yaptığı işlerden dinlendiği için kutsal bir gün oldu.
-  ***[[:tr:obs:notes:frames:04-04|[04-04]]]** “İsmini ünlendireceğim. Seni **kutsayanları** **kutsayacak**, seni lanetleyenleri lanetleyeceğim. Yeryüzündeki bütün halklar sayende **kutsanacak**.”
-  ***[[:tr:obs:notes:frames:04-07|[04-07]]]** Melkisedek Avram’ı **kutsayıp**, “Yerin ve göğün Sahibi Yüce Tanrı Avram’ı **kutsasın**!” dedi.
-  ***[[:tr:obs:notes:frames:07-03|[07-03]]]** İshak **hayırduasını** Esav’a verecekti.
-  ***[[:tr:obs:notes:frames:08-05|[08-05]]]** Yusuf zindanda bile Tanrı’ya sadık kaldı ve Tanrı onu **kutsadı**.
-
+  * **[[:tr:obs:notes:frames:01-07|[01-07]]]** Onların iyi olduğunu görünce onları **kutsadı​**.
+  * **[[:tr:obs:notes:frames:01-15|[01-15]]]** Tanrı adamla kadını kendi suretinde yarattı ve bunun çok iyi olduğunu gördü. “Evlatlarınız, torunlarınız olsun! Yeryüzünü doldurun!” diye buyurdu ve onları **kutsadı**.
+  * **[[:tr:obs:notes:frames:01-16|[01-16]]]** Bu yüzden yaptığı işlerden dinlendi. Tanrı yedinci günü **kutsadı**  ve o gün, Tanrı’nın yaptığı işlerden dinlendiği için kutsal bir gün oldu.
+  * **[[:tr:obs:notes:frames:04-04|[04-04]]]** “İsmini ünlendireceğim. Seni **kutsayanları****kutsayacak**, seni lanetleyenleri lanetleyeceğim. Yeryüzündeki bütün halklar sayende **kutsanacak**.”
+  * **[[:tr:obs:notes:frames:04-07|[04-07]]]** Melkisedek Avram’ı **kutsayıp**, “Yerin ve göğün Sahibi Yüce Tanrı Avram’ı **kutsasın**!” dedi.
+  * **[[:tr:obs:notes:frames:07-03|[07-03]]]** İshak **hayırduasını**  Esav’a verecekti.
+  * **[[:tr:obs:notes:frames:08-05|[08-05]]]** Yusuf zindanda bile Tanrı’ya sadık kaldı ve Tanrı onu **kutsadı**.
 ~~DISCUSSION~~{{tag>publish discuss ktobs}}
