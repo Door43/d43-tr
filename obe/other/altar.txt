@@ -16,11 +16,10 @@ Sunak, İsraillilerin hayvan ve tahılları yakarak Tanrı’ya kurban sunduklar
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:03-14|[03-14]]]** Nuh gemiden çıktıktan sonra bir **sunak** yaptı ve kurbanlık olabilecek her hayvan türünden kurban sundu. Tanrı bu kurbandan razı oldu ve Nuh’la ailesini kutsadı.
-  ***[[:tr:obs:notes:frames:05-08|[05-08]]]** Kurban verilecek yere varınca İbrahim, oğlu İshak’ı bağlayıp **sunağa** yatırdı.
-  ***[[:tr:obs:notes:frames:13-09|[13-09]]]** Tanrı’nın yasasına karşı itaatsizlik eden herkes Buluşma Çadırı’nın önündeki **sunakta** Tanrı’ya bir hayvanı kurban olarak sunabilirdi.
-  ***[[:tr:obs:notes:frames:16-06|[16-06]]]** (Gidyon) Yıkılan put **sunağının** yanında Tanrı’ya yeni bir **sunak** yaptı ve üzerinde Tanrı’ya bir sunu sundu.
-
+  * **[[:tr:obs:notes:frames:03-14|[03-14]]]** Nuh gemiden çıktıktan sonra bir **sunak**  yaptı ve kurbanlık olabilecek her hayvan türünden kurban sundu. Tanrı bu kurbandan razı oldu ve Nuh’la ailesini kutsadı.
+  * **[[:tr:obs:notes:frames:05-08|[05-08]]]** Kurban verilecek yere varınca İbrahim, oğlu İshak’ı bağlayıp **sunağa**  yatırdı.
+  * **[[:tr:obs:notes:frames:13-09|[13-09]]]** Tanrı’nın yasasına karşı itaatsizlik eden herkes Buluşma Çadırı’nın önündeki **sunakta**  Tanrı’ya bir hayvanı kurban olarak sunabilirdi.
+  * **[[:tr:obs:notes:frames:16-06|[16-06]]]** (Gidyon) Yıkılan put **sunağının**  yanında Tanrı’ya yeni bir **sunak**  yaptı ve üzerinde Tanrı’ya bir sunu sundu.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
