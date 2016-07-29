@@ -15,13 +15,9 @@ Givon, Kenan ülkesinde Givonluların yaşadığı bir kent ve bölgeydi.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:15-06|[15-06]]]** Fakat **Givon** adında bir Kenan halkı, Kenan’dan çok uzakta yaşıyoruz diye Yeşu’yu aldatıp kendileriyle barış yapması için rica etti
-  ***[[:tr:obs:notes:frames:15-07|[15-07]]]** Bir süre sonra Kenan’ın Amor adında diğer bir halkın kralları, **Givonluların** İsraillilerle barış yaptıklarından haber alınca ordularını birleştirerek **Givon**’a saldırdılar.
-  ***[[:tr:obs:notes:frames:15-08|[15-08]]]** O zaman Yeşu, İsrail ordusunu topladı. Onlar **Givonlulara** ulaşmak için bütün gece yol gittiler.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:15-06|[15-06]]]** Fakat **Givon**  adında bir Kenan halkı, Kenan’dan çok uzakta yaşıyoruz diye Yeşu’yu aldatıp kendileriyle barış yapması için rica etti
+  * **[[:tr:obs:notes:frames:15-07|[15-07]]]** Bir süre sonra Kenan’ın Amor adında diğer bir halkın kralları, **Givonluların**  İsraillilerle barış yaptıklarından haber alınca ordularını birleştirerek **Givon**’a saldırdılar.
+  * **[[:tr:obs:notes:frames:15-08|[15-08]]]** O zaman Yeşu, İsrail ordusunu topladı. Onlar **Givonlulara**  ulaşmak için bütün gece yol gittiler.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
