@@ -18,15 +18,7 @@
   * «İmanın derin gerçeklerine sarılmalı» cümlesi şöyle çevrilebilir: «İsa hakkında öğrendikleri bütün gerçeklere inanmaya devam etmeli.»
   * «İmanda gerçek oğlum» ifadesi şöyle çevrilebilir: «kendisine İsa’ya iman etmeyi öğrettiğim için bana oğul gibi olan» ya da «İsa’ya iman eden gerçek ruhsal oğlum.»
 
-===== Çeviri için öneriler =====
-
-  * Bazı bağlamlarda «iman» terimi «inanç», «kanaat», «itimat» ya da «güven» olarak çevrilebilir.
-  * Bazı dillerde «iman», «sadık» ve «sadakat» terimlerinin hepsinin «inanmak» fiilinden türemesi sebebiyle bu fiilin bir biçimi ile çevrilmesi tercih edilebilir.
-  * «İmanı korumak» deyimi «İsa’ya iman etmeye devam etmek» şeklinde çevrilebilir.
-  * «İmanın derin gerçeklerine sarılmalı» cümlesi şöyle çevrilebilir: «İsa hakkında öğrendikleri bütün gerçeklere inanmaya devam etmeli.»
-  * «İmanda gerçek oğlum» ifadesi şöyle çevrilebilir: «kendisine İsa’ya iman etmeyi öğrettiğim için bana oğul gibi olan» ya da «İsa’ya iman eden gerçek ruhsal oğlum.»
-
-(See also: [[tr:obe:kt:believe]], [[tr:obe:kt:faithful]], [[tr:obe:kt:believe|inanmak, iman etmek]], [[tr:obe:kt:faithful|sadık, sadakat]])
+(See also: [[:tr:obe:kt:believe|inanmak, iman etmek]], [[:tr:obe:kt:faithful|sadık, sadakat]], [[:tr:obe:kt:believe|inanmak, iman etmek]], [[:tr:obe:kt:faithful|sadık, sadakat]])
 
 ===== Bible References: =====
 
