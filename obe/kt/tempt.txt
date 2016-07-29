@@ -24,10 +24,9 @@ Birini ayartmak demek, onu baştan çıkarmak, ona yanlış bir iş yaptırmak d
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:25-01|[25-01]]]** O zaman Şeytan O’nu (İsa’yı) **ayartmaya** geldi.
-  ***[[:tr:obs:notes:frames:25-08|[25-08]]]** İsa, Şeytan’ın **ayartılarına** uymadı, Şeytan da O’nu bırakıp gitti.
-  ***[[:tr:obs:notes:frames:38-11|[38-11]]]** İsa, havarilerine **ayartılmamak** için dua etmelerini söyledi.
-
+  * **[[:tr:obs:notes:frames:25-01|[25-01]]]** O zaman Şeytan O’nu (İsa’yı) **ayartmaya**  geldi.
+  * **[[:tr:obs:notes:frames:25-08|[25-08]]]** İsa, Şeytan’ın **ayartılarına**  uymadı, Şeytan da O’nu bırakıp gitti.
+  * **[[:tr:obs:notes:frames:38-11|[38-11]]]** İsa, havarilerine **ayartılmamak**  için dua etmelerini söyledi.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
