@@ -25,15 +25,14 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:21-01|[21-01]]]** Havva’yı aldatan yılan **Şeytan**’dı. Bu vaat, Mesih’in **Şeytan**’ı tümüyle mağlup edeceği anlamına gelir.
-  ***[[:tr:obs:notes:frames:25-06|[25-06]]]** Bunun üzerine **Şeytan**, İsa’ya dünyanın bütün krallıklarını görkemiyle beraber göstererek, “Yere kapanıp bana taparsan bütün bunları sana vereceğim.” dedi.
-  ***[[:tr:obs:notes:frames:25-08|[25-08]]]** İsa, **Şeytan**’ın ayartılarına uymadı, Şeytan da O’nu bırakıp gitti.
-  ***[[:tr:obs:notes:frames:33-06|[33-06]]]** Bu öykü havarileri şaşırttı. Dolayısıyla İsa onlara anlamını açıkladı: “Tohum Tanrı’nın sözüdür. Yolun kenarı, Tanrı’nın sözünü duyan ama anlamayan kişidir. **İblis** onlara ekilen sözü söküp atar.”
-  ***[[:tr:obs:notes:frames:38-07|[38-07]]]** Yahuda ekmeği alır almaz içine **Şeytan** girdi.
-  ***[[:tr:obs:notes:frames:48-04|[48-04]]]** Tanrı, Havva’nın soyundan gelen bir kişinin **Şeytan**’ın başını ezeceğini, **Şeytan**’ın da onun topuğuna saldıracağını vadetti. Bunun anlamı şuydu: **Şeytan** Mesih’i öldürecek, fakat Tanrı O’nu ölümden diriltecek ve sonra Mesih, **Şeytan**’ın gücünü sonsuzluğa kadar kıracak.
-  ***[[:tr:obs:notes:frames:49-15|[49-15]]]** Tanrı seni **Şeytan**’ın karanlık hükümranlığından çıkarıp Tanrı’nın ışık hükümranlığına getirdi.
-  ***[[:tr:obs:notes:frames:50-09|[50-09]]]** “Deliceler **Şeytan**’a ait olan insanları, deliceleri eken düşman **iblisi**; hasat dünyanın sonunu, orakçılar ise Tanrı’nın meleklerini temsil eder.”
-  ***[[:tr:obs:notes:frames:50-10|[50-10]]]** “Dünyanın sonunda melekler **Şeytan**’a ait olan bütün insanları toplayıp kızgın ocağa atacaklar. Orada feryat ve figan, diş gıcırtısı, korkunç acılar olacak.”
-  ***[[:tr:obs:notes:frames:50-15|[50-15]]]** İsa döndükten sonra **Şeytan**’la hükümranlığını tamamen yok edecek. **Şeytan**’ı ve Tanrı’nın değil **Şeytan**’ın yolunu seçen herkesi sonsuzluğa kadar yakılmak üzere cehenneme atacak.
-
+  * **[[:tr:obs:notes:frames:21-01|[21-01]]]** Havva’yı aldatan yılan **Şeytan**’dı. Bu vaat, Mesih’in **Şeytan**’ı tümüyle mağlup edeceği anlamına gelir.
+  * **[[:tr:obs:notes:frames:25-06|[25-06]]]** Bunun üzerine **Şeytan**, İsa’ya dünyanın bütün krallıklarını görkemiyle beraber göstererek, “Yere kapanıp bana taparsan bütün bunları sana vereceğim.” dedi.
+  * **[[:tr:obs:notes:frames:25-08|[25-08]]]** İsa, **Şeytan**’ın ayartılarına uymadı, Şeytan da O’nu bırakıp gitti.
+  * **[[:tr:obs:notes:frames:33-06|[33-06]]]** Bu öykü havarileri şaşırttı. Dolayısıyla İsa onlara anlamını açıkladı: “Tohum Tanrı’nın sözüdür. Yolun kenarı, Tanrı’nın sözünü duyan ama anlamayan kişidir. **İblis**  onlara ekilen sözü söküp atar.”
+  * **[[:tr:obs:notes:frames:38-07|[38-07]]]** Yahuda ekmeği alır almaz içine **Şeytan**  girdi.
+  * **[[:tr:obs:notes:frames:48-04|[48-04]]]** Tanrı, Havva’nın soyundan gelen bir kişinin **Şeytan**’ın başını ezeceğini, **Şeytan**’ın da onun topuğuna saldıracağını vadetti. Bunun anlamı şuydu: **Şeytan**  Mesih’i öldürecek, fakat Tanrı O’nu ölümden diriltecek ve sonra Mesih, **Şeytan**’ın gücünü sonsuzluğa kadar kıracak.
+  * **[[:tr:obs:notes:frames:49-15|[49-15]]]** Tanrı seni **Şeytan**’ın karanlık hükümranlığından çıkarıp Tanrı’nın ışık hükümranlığına getirdi.
+  * **[[:tr:obs:notes:frames:50-09|[50-09]]]** “Deliceler **Şeytan**’a ait olan insanları, deliceleri eken düşman **iblisi**; hasat dünyanın sonunu, orakçılar ise Tanrı’nın meleklerini temsil eder.”
+  * **[[:tr:obs:notes:frames:50-10|[50-10]]]** “Dünyanın sonunda melekler **Şeytan**’a ait olan bütün insanları toplayıp kızgın ocağa atacaklar. Orada feryat ve figan, diş gıcırtısı, korkunç acılar olacak.”
+  * **[[:tr:obs:notes:frames:50-15|[50-15]]]** İsa döndükten sonra **Şeytan**’la hükümranlığını tamamen yok edecek. **Şeytan**’ı ve Tanrı’nın değil **Şeytan**’ın yolunu seçen herkesi sonsuzluğa kadar yakılmak üzere cehenneme atacak.
 ~~DISCUSSION~~{{tag>publish ktobs}}
