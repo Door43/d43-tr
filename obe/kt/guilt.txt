@@ -20,11 +20,10 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:39-02|[39-02]]]** O’nu (İsa’yı) yalan yere suçlayan birçok yalancı şahit getirdiler. Ancak şahitlerin ifadeleri birbirini tutmadığı için Yahudi ileri gelenleri İsa’nın **suçlu** olduğunu bir türlü kanıtlayamadılar.
-  ***[[:tr:obs:notes:frames:39-11|[39-11]]]** İsa’yla konuştuktan sonra Pilatus halkın önüne çıktı. “Ben bu adamda hiçbir **suç** görmüyorum.” dedi. Fakat Yahudi ileri gelenleri ve kalabalık, “O’nu çarmıha ger!” diye bağırdılar. Pilatus, “Ama O **suçsuzdur**!” diye karşılık verdi. Halk daha yüksek sesle bağırdı. Pilatus üçüncü kez, “O **suçsuzdur**!” dedi.
-  ***[[:tr:obs:notes:frames:40-04|[40-04]]]** İsa iki mahkûm arasında çarmıha gerildi. Mahkûmlardan biri İsa’yla alay etti, diğeri ise, “Sen hiç Tanrı’dan korkmuyor musun? Biz **suçluyuz**, bu adam ise suçsuz.” dedi.
-  ***[[:tr:obs:notes:frames:49-10|[49-10]]]** Sen kendi günahın sebebiyle **suçlusun** ve ölmeyi hak edersin.
-
+  * **[[:tr:obs:notes:frames:39-02|[39-02]]]** O’nu (İsa’yı) yalan yere suçlayan birçok yalancı şahit getirdiler. Ancak şahitlerin ifadeleri birbirini tutmadığı için Yahudi ileri gelenleri İsa’nın **suçlu**  olduğunu bir türlü kanıtlayamadılar.
+  * **[[:tr:obs:notes:frames:39-11|[39-11]]]** İsa’yla konuştuktan sonra Pilatus halkın önüne çıktı. “Ben bu adamda hiçbir **suç**  görmüyorum.” dedi. Fakat Yahudi ileri gelenleri ve kalabalık, “O’nu çarmıha ger!” diye bağırdılar. Pilatus, “Ama O **suçsuzdur**!” diye karşılık verdi. Halk daha yüksek sesle bağırdı. Pilatus üçüncü kez, “O **suçsuzdur**!” dedi.
+  * **[[:tr:obs:notes:frames:40-04|[40-04]]]** İsa iki mahkûm arasında çarmıha gerildi. Mahkûmlardan biri İsa’yla alay etti, diğeri ise, “Sen hiç Tanrı’dan korkmuyor musun? Biz **suçluyuz**, bu adam ise suçsuz.” dedi.
+  * **[[:tr:obs:notes:frames:49-10|[49-10]]]** Sen kendi günahın sebebiyle **suçlusun**  ve ölmeyi hak edersin.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
