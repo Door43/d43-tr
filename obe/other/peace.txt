@@ -16,15 +16,12 @@ Barış, herhangi çekişme, korku ya da tehdidin olmamasıdır.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:15-06|[15-06]]]** Tanrı İsraillilere Kenan’daki halkların hiçbiriyle **barış** yapmamalarını buyurmuştu.
-  ***[[:tr:obs:notes:frames:15-12|[15-12]]]** Sonra Tanrı İsrail’i sınırları içinde **selâmete** kavuşturdu.
-  ***[[:tr:obs:notes:frames:16-03|[16-03]]]** O zaman Tanrı, halkını düşmanlarından kurtaracak ve ülkeye **selâmet** getirecek kurtarıcılar gönderirdi.
-  ***[[:tr:obs:notes:frames:21-13|[21-13]]]** Peygamberler Mesih’in kâmil ve günahsız olacağını, diğer insanların günahının cezasını çekerek öleceğini bildirdiler. Çekeceği ceza Tanrı’yla insanlar arasında **barış** sağlayacak.
-  ***[[:tr:obs:notes:frames:48-14|[48-14]]]** Davut İsrail’in kralıydı, ama İsa bütün evrenin kralıdır! İsa tekrar gelecek, ebedî adalet ve **barış** hükümranlığını getirecektir.
-  ***[[:tr:obs:notes:frames:50-17|[50-17]]]** İsa **barış** ve adalet ile hüküm sürecek ve sonsuzluğa kadar halkıyla beraber olacaktır.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:15-06|[15-06]]]** Tanrı İsraillilere Kenan’daki halkların hiçbiriyle **barış**  yapmamalarını buyurmuştu.
+  * **[[:tr:obs:notes:frames:15-12|[15-12]]]** Sonra Tanrı İsrail’i sınırları içinde **selâmete**  kavuşturdu.
+  * **[[:tr:obs:notes:frames:16-03|[16-03]]]** O zaman Tanrı, halkını düşmanlarından kurtaracak ve ülkeye **selâmet**  getirecek kurtarıcılar gönderirdi.
+  * **[[:tr:obs:notes:frames:21-13|[21-13]]]** Peygamberler Mesih’in kâmil ve günahsız olacağını, diğer insanların günahının cezasını çekerek öleceğini bildirdiler. Çekeceği ceza Tanrı’yla insanlar arasında **barış**  sağlayacak.
+  * **[[:tr:obs:notes:frames:48-14|[48-14]]]** Davut İsrail’in kralıydı, ama İsa bütün evrenin kralıdır! İsa tekrar gelecek, ebedî adalet ve **barış**  hükümranlığını getirecektir.
+  * **[[:tr:obs:notes:frames:50-17|[50-17]]]** İsa **barış**  ve adalet ile hüküm sürecek ve sonsuzluğa kadar halkıyla beraber olacaktır.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
