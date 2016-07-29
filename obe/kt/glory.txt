@@ -21,11 +21,10 @@ Genelde «izzet» terimi onur, görkem ve yücelik anlamına gelir. İzzeti olan
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:23-07|[23-07]]]** Derken gökyüzü, Tanrı’ya hamdeden meleklerle doldu. Melekler şöyle söylediler: “Göklerdeki Tanrı’ya **izzet** olsun! Yeryüzünde razı olduğu insanlara selâmet olsun!”
-  ***[[:tr:obs:notes:frames:25-06|[25-06]]]** Bunun üzerine Şeytan, İsa’ya dünyanın bütün krallıklarını **görkemiyle** beraber göstererek, “Yere kapanıp bana taparsan bütün bunları sana vereceğim.” dedi.
-  ***[[:tr:obs:notes:frames:37-01|[37-01]]]** İsa bu haberi alınca, “Bu hastalık ölümle sonuçlanmayacak, ama Tanrı’ya **izzet** getirecek.” dedi.
-  ***[[:tr:obs:notes:frames:37-08|[37-08]]]** İsa, “Sana, iman edersen Tanrı’nın **izzetini** göreceksin demedim mi?” diye karşılık verdi.
-
+  * **[[:tr:obs:notes:frames:23-07|[23-07]]]** Derken gökyüzü, Tanrı’ya hamdeden meleklerle doldu. Melekler şöyle söylediler: “Göklerdeki Tanrı’ya **izzet**  olsun! Yeryüzünde razı olduğu insanlara selâmet olsun!”
+  * **[[:tr:obs:notes:frames:25-06|[25-06]]]** Bunun üzerine Şeytan, İsa’ya dünyanın bütün krallıklarını **görkemiyle**  beraber göstererek, “Yere kapanıp bana taparsan bütün bunları sana vereceğim.” dedi.
+  * **[[:tr:obs:notes:frames:37-01|[37-01]]]** İsa bu haberi alınca, “Bu hastalık ölümle sonuçlanmayacak, ama Tanrı’ya **izzet**  getirecek.” dedi.
+  * **[[:tr:obs:notes:frames:37-08|[37-08]]]** İsa, “Sana, iman edersen Tanrı’nın **izzetini**  göreceksin demedim mi?” diye karşılık verdi.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
