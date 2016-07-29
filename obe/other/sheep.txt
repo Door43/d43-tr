@@ -17,9 +17,8 @@ Koyun, bütün bedeni yünle kaplı olan orta boylu dört ayaklı bir hayvandır
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:09-12|[09-12]]]** Bir gün Musa **koyunlarını** otarırken yanan bir çalı gördü.
-  ***[[:tr:obs:notes:frames:17-02|[17-02]]]** Davut Beytlehem kentinden bir çobandı. Babasının sürülerine baktığı sırada **koyunlara** saldıran aslanı ve ayıyı öldürdüğü zamanlar olmuştu.
-  ***[[:tr:obs:notes:frames:30-03|[30-03]]]** İsa, çobansız bir **sürüye** benzeyen bu halka çok acıdı.
-  ***[[:tr:obs:notes:frames:38-08|[38-08]]]** İsa dedi: “Hepiniz bu gece beni terkedeceksiniz. Çünkü yazılmıştır: ‘Çobanı vuracağım ve **koyunlar** darmadağın olacak.’”
-
+  * **[[:tr:obs:notes:frames:09-12|[09-12]]]** Bir gün Musa **koyunlarını**  otarırken yanan bir çalı gördü.
+  * **[[:tr:obs:notes:frames:17-02|[17-02]]]** Davut Beytlehem kentinden bir çobandı. Babasının sürülerine baktığı sırada **koyunlara**  saldıran aslanı ve ayıyı öldürdüğü zamanlar olmuştu.
+  * **[[:tr:obs:notes:frames:30-03|[30-03]]]** İsa, çobansız bir **sürüye**  benzeyen bu halka çok acıdı.
+  * **[[:tr:obs:notes:frames:38-08|[38-08]]]** İsa dedi: “Hepiniz bu gece beni terkedeceksiniz. Çünkü yazılmıştır: ‘Çobanı vuracağım ve **koyunlar**  darmadağın olacak.’”
 ~~DISCUSSION~~{{tag>publish ktobs}}
