@@ -15,17 +15,13 @@ Dua demek, Tanrı’yla sohbet demektir.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:06-05|[06-05]]]** İshak Rebeka için **dua** etti ve Tanrı, ikiz bebeğe hamile kalmasını sağladı.
-  ***[[:tr:obs:notes:frames:13-12|[13-12]]]** Fakat Musa onlar için **dua** etti ve Tanrı Musa’nın **duası** sayesinde onları yok etmedi.
-  ***[[:tr:obs:notes:frames:19-08|[19-08]]]** Sonra Baal’ın peygamberleri, “Ey Baal, bizi işit!” diye **dua** ettiler.
-  ***[[:tr:obs:notes:frames:21-07|[21-07]]]** Kâhinler ayrıca halk için Tanrı’ya **dua** ederlerdi.
-  ***[[:tr:obs:notes:frames:38-11|[38-11]]]** İsa, havarilerine ayartılmamak için **dua** etmelerini söyledi.
-  ***[[:tr:obs:notes:frames:43-13|[43-13]]]** İmanlılar sürekli olarak havarilerin öğretisini dinliyor, birlikte vakit geçiriyor, yemek yiyor ve **dua** ediyorlardı.
-  ***[[:tr:obs:notes:frames:49-18|[49-18]]]** Tanrı sana **dua** etmeyi, sözünü araştırmayı, başka Mesih inanlılarıyla birlikte tapınmayı ve senin için yaptıklarını başkalarına anlatmayı buyuruyor.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:06-05|[06-05]]]** İshak Rebeka için **dua**  etti ve Tanrı, ikiz bebeğe hamile kalmasını sağladı.
+  * **[[:tr:obs:notes:frames:13-12|[13-12]]]** Fakat Musa onlar için **dua**  etti ve Tanrı Musa’nın **duası**  sayesinde onları yok etmedi.
+  * **[[:tr:obs:notes:frames:19-08|[19-08]]]** Sonra Baal’ın peygamberleri, “Ey Baal, bizi işit!” diye **dua**  ettiler.
+  * **[[:tr:obs:notes:frames:21-07|[21-07]]]** Kâhinler ayrıca halk için Tanrı’ya **dua**  ederlerdi.
+  * **[[:tr:obs:notes:frames:38-11|[38-11]]]** İsa, havarilerine ayartılmamak için **dua**  etmelerini söyledi.
+  * **[[:tr:obs:notes:frames:43-13|[43-13]]]** İmanlılar sürekli olarak havarilerin öğretisini dinliyor, birlikte vakit geçiriyor, yemek yiyor ve **dua**  ediyorlardı.
+  * **[[:tr:obs:notes:frames:49-18|[49-18]]]** Tanrı sana **dua**  etmeyi, sözünü araştırmayı, başka Mesih inanlılarıyla birlikte tapınmayı ve senin için yaptıklarını başkalarına anlatmayı buyuruyor.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
