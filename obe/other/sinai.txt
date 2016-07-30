@@ -17,11 +17,8 @@ Sina, büyük olasılıkla halen Sina Yarımadası’nın güney kısmında bulu
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:13-01|[13-01]]]** Tanrı İsraillileri Kızıldeniz’in içinden geçirerek çöl yolu ile **Sina Dağı** adındaki bir dağa getirdi.
-  ***[[:tr:obs:notes:frames:13-03|[13-03]]]** Üç gün sonra halk manevi olarak hazırlanınca Tanrı gök gürültüsü, şimşek, duman ve güçlü bir boru sesi ile **Sina Dağı**’na indi.
-  ***[[:tr:obs:notes:frames:13-11|[13-11]]]** Musa uzun günler boyunca **Sina Dağı**’nda Tanrı’yla görüşüyordu. 
-  ***[[:tr:obs:notes:frames:15-13|[15-13]]]** Yeşu yaşlandığında bütün İsrail halkını topladı ve Tanrı’nın **Sina Dağı**’nda İsrail’le yaptığı ahde sadık kalmaları gerektiğini onlara hatırlattı.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:13-01|[13-01]]]** Tanrı İsraillileri Kızıldeniz’in içinden geçirerek çöl yolu ile **Sina Dağı**  adındaki bir dağa getirdi.
+  * **[[:tr:obs:notes:frames:13-03|[13-03]]]** Üç gün sonra halk manevi olarak hazırlanınca Tanrı gök gürültüsü, şimşek, duman ve güçlü bir boru sesi ile **Sina Dağı**’na indi.
+  * **[[:tr:obs:notes:frames:13-11|[13-11]]]** Musa uzun günler boyunca **Sina Dağı**’nda Tanrı’yla görüşüyordu.
+  * **[[:tr:obs:notes:frames:15-13|[15-13]]]** Yeşu yaşlandığında bütün İsrail halkını topladı ve Tanrı’nın **Sina Dağı**’nda İsrail’le yaptığı ahde sadık kalmaları gerektiğini onlara hatırlattı.
+~~DISCUSSION~~{{tag>publish ktobs}}
