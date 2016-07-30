@@ -12,11 +12,7 @@ Birini ya da bir şeyi kurtarmak demek, o kişiyi ya da şeyi bir kötülükten 
 
   * «Kurtarmak» fiili şöyle çevrilebilir: «özgürleştirmek», «tehlikeden uzaklaştırmak» vs.
 
-===== Çeviri için öneriler =====
-
-  * «Kurtarmak» fiili şöyle çevrilebilir: «özgürleştirmek», «tehlikeden uzaklaştırmak» vs.
-
-(See also: [[tr:obe:kt:salvation]], [[tr:obe:kt:sin]], [[tr:obe:kt:cross]], [[tr:obe:kt:deliverer]])
+(See also: [[:tr:obe:kt:salvation|salvation]], [[:tr:obe:kt:sin|günah]], [[:tr:obe:kt:cross|çarmıh, haç]], [[:tr:obe:kt:deliverer|kurtarmak, kurtarıcı]])
 
 ===== Bible References: =====
 
