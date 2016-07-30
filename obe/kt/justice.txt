@@ -18,9 +18,8 @@ Adalet, Tanrı’nın ve devletin yasalarına uygun olarak bütün insanlara hak
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:17-09|[17-09]]]** Davut yıllar boyunca **adalet** ve sadakat ile hüküm sürdü ve Tanrı onu kutsadı.
-  ***[[:tr:obs:notes:frames:18-13|[18-13]]]** (Yahuda krallarının) Aralarında **adaletle** hüküm süren ve Tanrı’ya tapan iyi insanlar da vardı.
-  ***[[:tr:obs:notes:frames:19-16|[19-16]]]** Bütün peygamberler halka putlara tapmaktan vazgeçmesini ve insanlara **adalet** ve merhametle davranmasını buyururlardı.
-  ***[[:tr:obs:notes:frames:50-17|[50-17]]]** İsa barış ve **adalet** ile hüküm sürecek ve sonsuzluğa kadar halkıyla beraber olacaktır.
-
+  * **[[:tr:obs:notes:frames:17-09|[17-09]]]** Davut yıllar boyunca **adalet**  ve sadakat ile hüküm sürdü ve Tanrı onu kutsadı.
+  * **[[:tr:obs:notes:frames:18-13|[18-13]]]** (Yahuda krallarının) Aralarında **adaletle**  hüküm süren ve Tanrı’ya tapan iyi insanlar da vardı.
+  * **[[:tr:obs:notes:frames:19-16|[19-16]]]** Bütün peygamberler halka putlara tapmaktan vazgeçmesini ve insanlara **adalet**  ve merhametle davranmasını buyururlardı.
+  * **[[:tr:obs:notes:frames:50-17|[50-17]]]** İsa barış ve **adalet**  ile hüküm sürecek ve sonsuzluğa kadar halkıyla beraber olacaktır.
 ~~DISCUSSION~~{{tag>publish ktobs}}
