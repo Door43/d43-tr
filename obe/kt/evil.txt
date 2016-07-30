@@ -13,13 +13,7 @@
   * Başka çeviri yolları şunlar olabilir: «iyi değil», «doğru değil», «vicdansız.»
   * Bu terimi çevirirken kullandığınız sözcük ya da ifadelerin hedef dilde bağlama doğal olarak uygun olmasına dikkat edin.
 
-===== Çeviri için öneriler =====
-
-  * Bağlama dayalı olarak, «kötü» terimi «fena», «günahkâr» ya da «ahlâksız» olarak da çevrilebilir.
-  * Başka çeviri yolları şunlar olabilir: «iyi değil», «doğru değil», «vicdansız.»
-  * Bu terimi çevirirken kullandığınız sözcük ya da ifadelerin hedef dilde bağlama doğal olarak uygun olmasına dikkat edin.
-
-(See also: [[tr:obe:kt:sin]], [[tr:obe:kt:good]], [[tr:obe:kt:righteous]], [[tr:obe:kt:sin|günah, günahlı, günahkâr]], [[tr:obe:kt:good|iyi, iyilik]], [[tr:obe:kt:righteous|doğru]])
+(See also: [[:tr:obe:kt:sin|günah]], [[:tr:obe:kt:good|iyi]], [[:tr:obe:kt:righteous|doğru]], [[:tr:obe:kt:sin|günah, günahlı, günahkâr]], [[:tr:obe:kt:good|iyi, iyilik]], [[:tr:obe:kt:righteous|doğru]])
 
 ===== Bible References: =====
 
