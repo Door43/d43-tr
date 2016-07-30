@@ -16,18 +16,11 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:21-12|[21-12]]]** Yeşaya’nın bildirdiği üzere, insanlar Mesih’e tükürecek, **alay** edecek, vuracaklar.
-  ***[[:tr:obs:notes:frames:39-05|[39-05]]]** Yahudi ileri gelenleri baş kâhine, “Ölümü hak ediyor!” diye hep bir ağızdan cevap verdiler. Sonra İsa’nın gözlerini bağladılar, yüzüne tükürdüler, O’na vurdular, **alay** ettiler.
-  ***[[:tr:obs:notes:frames:39-12|[39-12]]]** Askerler İsa’yı kırbaçladılar, üzerine krallık cübbesi ve dikenli taç koydular. Sonra, “Bakın, Yahudilerin Kralı!” diyerek O’nunla **alay** ettiler.
-  ***[[:tr:obs:notes:frames:40-04|[40-04]]]** İsa iki mahkûm arasında çarmıha gerildi. Mahkûmlardan biri İsa’yla **alay** etti, diğeri ise, “Sen hiç Tanrı’dan korkmuyor musun?” dedi.
-  ***[[:tr:obs:notes:frames:40-05|[40-05]]]** Yahudi ileri gelenleriyle halk İsa’yla **alay** ederek, “Tanrı’nın Oğlu’ysan çarmıhtan aşağı in de kendini kurtar bakalım! O zaman sana iman edeceğiz.” dediler.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:21-12|[21-12]]]** Yeşaya’nın bildirdiği üzere, insanlar Mesih’e tükürecek, **alay**  edecek, vuracaklar.
+  * **[[:tr:obs:notes:frames:39-05|[39-05]]]** Yahudi ileri gelenleri baş kâhine, “Ölümü hak ediyor!” diye hep bir ağızdan cevap verdiler. Sonra İsa’nın gözlerini bağladılar, yüzüne tükürdüler, O’na vurdular, **alay**  ettiler.
+  * **[[:tr:obs:notes:frames:39-12|[39-12]]]** Askerler İsa’yı kırbaçladılar, üzerine krallık cübbesi ve dikenli taç koydular. Sonra, “Bakın, Yahudilerin Kralı!” diyerek O’nunla **alay**  ettiler.
+  * **[[:tr:obs:notes:frames:40-04|[40-04]]]** İsa iki mahkûm arasında çarmıha gerildi. Mahkûmlardan biri İsa’yla **alay**  etti, diğeri ise, “Sen hiç Tanrı’dan korkmuyor musun?” dedi.
+  * **[[:tr:obs:notes:frames:40-05|[40-05]]]** Yahudi ileri gelenleriyle halk İsa’yla **alay**  ederek, “Tanrı’nın Oğlu’ysan çarmıhtan aşağı in de kendini kurtar bakalım! O zaman sana iman edeceğiz.” dediler.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
-
-\\
-
