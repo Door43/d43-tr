@@ -21,15 +21,7 @@
   * «Birine iyilik yapmak» ifadesi, başka birine yarar veren bir şey yapmak anlamına gelir ve şöyle çevrilebilir: «birine yardımcı olmak» ya da «birine yarar vermek.»
   * Bağlama dayalı olarak, «iyilik» terimi şöyle çevrilebilir: «ihsan», «bereket», «nimet», «ahlâksal mükemmellik», «doğruluk» ya da «paklık.»
 
-===== Çeviri için öneriler =====
-
-  * Hedef dilde, özellikle kötü ile karşılaştırıldığı cümlelerde «iyi» için kullanılan genel terim -doğru ve doğal olduğu takdirde- kullanılmalı.
-  * Bağlama dayalı olarak, bu terimin çevirisi şöyle de olabilir: «sevecen», «ahlâklı», «mükemmel», «Tanrı’yı hoşnut eden», «doğru» ya da «yararlı.»
-  * «İyi toprak» «verimli toprak» olarak; «iyi tahıl» «bol hasat» ya da «çok miktarda tahıl» olarak çevrilebilir.
-  * «Birine iyilik yapmak» ifadesi, başka birine yarar veren bir şey yapmak anlamına gelir ve şöyle çevrilebilir: «birine yardımcı olmak» ya da «birine yarar vermek.»
-  * Bağlama dayalı olarak, «iyilik» terimi şöyle çevrilebilir: «ihsan», «bereket», «nimet», «ahlâksal mükemmellik», «doğruluk» ya da «paklık.»
-
-(See also: [[tr:obe:kt:holy]], [[tr:obe:kt:righteous]], [[tr:obe:kt:evil]])
+(See also: [[:tr:obe:kt:holy|kutsal]], [[:tr:obe:kt:righteous|doğru]], [[:tr:obe:kt:evil|kötü, kötülük, zalim]])
 
 ===== Bible References: =====
 
