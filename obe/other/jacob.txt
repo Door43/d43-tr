@@ -20,15 +20,11 @@ Yakup, İshak’la Rebeka’nın ikiz doğan oğullarının küçüğüydü.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:07-01|[07-01]]]** Kardeşler büyüdükçe Rebeka **Yakup**’u, İshak ise Esav’ı sevdi. **Yakup** evde kalmaktan, Esav ise ava gitmekten hoşlanırdı. 
-  ***[[:tr:obs:notes:frames:07-07|[07-07]]]** **Yakup** yıllar boyunca Rebeka’nın akrabalarıyla yaşadı. Orada evlendi, on iki oğlu ve bir kızı oldu. Tanrı onu çok zenginleştirdi.
-  ***[[:tr:obs:notes:frames:07-08|[07-08]]]** Yirmi yıl Kenan’daki evinden uzak kaldıktan sonra **Yakup** ailesi, uşakları ve sürüleri ile beraber oraya döndü.
-  ***[[:tr:obs:notes:frames:07-10|[07-10]]]** Tanrı’nın ahdinde İbrahim’e verdiği vaatler bundan sonra İshak’tan **Yakup**’a geçti.
-  ***[[:tr:obs:notes:frames:08-01|[08-01]]]** Üstünden yıllar geçmiş, **Yakup**’un yaşı ilerlemişti. **Yakup** sevgili oğlu Yusuf’u sürü güden kardeşlerinin durumunu öğrenmek için onların yanına gönderdi.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:07-01|[07-01]]]** Kardeşler büyüdükçe Rebeka **Yakup**’u, İshak ise Esav’ı sevdi. **Yakup**  evde kalmaktan, Esav ise ava gitmekten hoşlanırdı.
+  * **[[:tr:obs:notes:frames:07-07|[07-07]]]****Yakup**  yıllar boyunca Rebeka’nın akrabalarıyla yaşadı. Orada evlendi, on iki oğlu ve bir kızı oldu. Tanrı onu çok zenginleştirdi.
+  * **[[:tr:obs:notes:frames:07-08|[07-08]]]** Yirmi yıl Kenan’daki evinden uzak kaldıktan sonra **Yakup**  ailesi, uşakları ve sürüleri ile beraber oraya döndü.
+  * **[[:tr:obs:notes:frames:07-10|[07-10]]]** Tanrı’nın ahdinde İbrahim’e verdiği vaatler bundan sonra İshak’tan **Yakup**’a geçti.
+  * **[[:tr:obs:notes:frames:08-01|[08-01]]]** Üstünden yıllar geçmiş, **Yakup**’un yaşı ilerlemişti. **Yakup**  sevgili oğlu Yusuf’u sürü güden kardeşlerinin durumunu öğrenmek için onların yanına gönderdi.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
