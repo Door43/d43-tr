@@ -3,6 +3,7 @@
 ===== Tanım =====
 
 Başkaldırmak demek, birinin yetkisine tabi olmayı reddetmek, yani önderine itaat etmeyi reddetmek demektir.
+
   * İnsanlar yetkililerinin emrettiklerini yapmayı reddettikleri durumda pasif başkaldırma söz konusu olur.
   * İnsanlar yetkililerine doğrudan direndikleri ya da itaatsizlik ettikleri durumda aktif başkaldırma söz konusu olur.
   * Başkaldırmak, ayrıca halkın üzerinde olan hükûmete ya da öndere karşı mücadeleye girişmeleri anlamına gelebilir. Halk, hükûmetin ya da önderin adaletsizce yönettiğini düşündüklerinde böyle davranabilir.
