@@ -22,15 +22,14 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:25-05|[25-05]]]** Ancak İsa, Şeytan’a Kutsal Yazı’dan cevap verdi: “Tanrı, Sözü’nde halkına şöyle buyurur: ‘Tanrın **Rab**’bi denemeyeceksin!’”
-  ***[[:tr:obs:notes:frames:25-07|[25-07]]]** İsa cevabında ona, “Çekil benden, Şeytan! Tanrı, Sözü’nde halkına şöyle buyuruyor: ‘Yalnız Tanrın **Rab**’be tapacaksın, yalnız O’na kulluk edeceksin!’” dedi.
-  ***[[:tr:obs:notes:frames:26-03|[26-03]]]** **Rab**’bin lütuf yılı geldi!
-  ***[[:tr:obs:notes:frames:27-02|[27-02]]]** Tevrat bilgini cevabında, “Tevrat, ‘Tanrın **Rab**’bi bütün kalbinle, varlığınla, kuvvetinle, düşüncenle seveceksin! Komşunu da kendini sevdiğin gibi seveceksin.’ diye buyuruyor.” dedi.
-  ***[[:tr:obs:notes:frames:31-05|[31-05]]]** Bunun üzerine Petrus İsa’ya, “**Efendimiz**, eğer sen isen, bana emret, su üstünde sana geleyim.” dedi.
-  ***[[:tr:obs:notes:frames:43-09|[43-09]]]** “Ama şunu kesinlikle bilin: Tanrı İsa’yı hem **Rab** hem Mesih yapmıştır!”
-  ***[[:tr:obs:notes:frames:47-03|[47-03]]]** Kız, cin vasıtasıyla insanların geleceğinden haber veriyor, böylece falcılıkla **efendilerine** bol para kazandırıyordu.
-  ***[[:tr:obs:notes:frames:47-11|[47-11]]]** Pavlus, “**Rab** İsa’ya iman et, sen de ev halkın da kurtulacaksınız.” diye cevap verdi.
-
+  * **[[:tr:obs:notes:frames:25-05|[25-05]]]** Ancak İsa, Şeytan’a Kutsal Yazı’dan cevap verdi: “Tanrı, Sözü’nde halkına şöyle buyurur: ‘Tanrın **Rab**’bi denemeyeceksin!’”
+  * **[[:tr:obs:notes:frames:25-07|[25-07]]]** İsa cevabında ona, “Çekil benden, Şeytan! Tanrı, Sözü’nde halkına şöyle buyuruyor: ‘Yalnız Tanrın **Rab**’be tapacaksın, yalnız O’na kulluk edeceksin!’” dedi.
+  * **[[:tr:obs:notes:frames:26-03|[26-03]]]****Rab**’bin lütuf yılı geldi!
+  * **[[:tr:obs:notes:frames:27-02|[27-02]]]** Tevrat bilgini cevabında, “Tevrat, ‘Tanrın **Rab**’bi bütün kalbinle, varlığınla, kuvvetinle, düşüncenle seveceksin! Komşunu da kendini sevdiğin gibi seveceksin.’ diye buyuruyor.” dedi.
+  * **[[:tr:obs:notes:frames:31-05|[31-05]]]** Bunun üzerine Petrus İsa’ya, “**Efendimiz**, eğer sen isen, bana emret, su üstünde sana geleyim.” dedi.
+  * **[[:tr:obs:notes:frames:43-09|[43-09]]]** “Ama şunu kesinlikle bilin: Tanrı İsa’yı hem **Rab**  hem Mesih yapmıştır!”
+  * **[[:tr:obs:notes:frames:47-03|[47-03]]]** Kız, cin vasıtasıyla insanların geleceğinden haber veriyor, böylece falcılıkla **efendilerine**  bol para kazandırıyordu.
+  * **[[:tr:obs:notes:frames:47-11|[47-11]]]** Pavlus, “**Rab**  İsa’ya iman et, sen de ev halkın da kurtulacaksınız.” diye cevap verdi.
 ~~DISCUSSION~~{{tag>publish review ktobs}}
 
 ~~NOCACHE~~
