@@ -17,11 +17,8 @@ Uriya doğru biri, Kral Davut’un en iyi askerlerinden biriydi.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:17-12|[17-12]]]** Bat-Şeva’nın kocası, Davut’un en iyi askerlerinden biri **Uriya**’ydı. Davut **Uriya**’nın karısıyla olması için savaştan eve dönmesini buyurdu. Fakat **Uriya**, diğer askerler savaşırken eve dönmekten vazgeçti. O zaman Davut **Uriya**’yı tekrar savaşa gönderdi ve vurulup öldürülmesi için düşmanın en çok kuvvetleri olduğu cepheye yerleştirilmesini sağladı.
-  ***[[:tr:obs:notes:frames:17-13|[17-13]]]** **Uriya** öldürüldükten sonra Davut Bat-Şeva’yla evlendi.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:17-12|[17-12]]]** Bat-Şeva’nın kocası, Davut’un en iyi askerlerinden biri **Uriya**’ydı. Davut **Uriya**’nın karısıyla olması için savaştan eve dönmesini buyurdu. Fakat **Uriya**, diğer askerler savaşırken eve dönmekten vazgeçti. O zaman Davut **Uriya**’yı tekrar savaşa gönderdi ve vurulup öldürülmesi için düşmanın en çok kuvvetleri olduğu cepheye yerleştirilmesini sağladı.
+  * **[[:tr:obs:notes:frames:17-13|[17-13]]]****Uriya**  öldürüldükten sonra Davut Bat-Şeva’yla evlendi.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
