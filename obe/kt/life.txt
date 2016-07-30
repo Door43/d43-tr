@@ -28,14 +28,13 @@ Bütün bu terimler fiziksel olarak ölü değil yaşamakta olmasını ifade ede
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:01-10|[01-10]]]** Tanrı, çamura insan biçimi verdi ve ona **hayat** nefesi üfürdü.
-  ***[[:tr:obs:notes:frames:03-01|[03-01]]]** Yıllar sonra dünyada çok insan **yaşıyordu**.
-  ***[[:tr:obs:notes:frames:08-13|[08-13]]]** Yusuf’un kardeşleri eve dönüp babalarına Yusuf’un hâlâ **sağ** olduğunu haber verdikleri zaman Yakup çok mutlu oldu.
-  ***[[:tr:obs:notes:frames:17-09|[17-09]]]** Ancak **ömrünün** sonuna doğru (Davut) Tanrı’ya karşı korkunç bir günah işledi.
-  ***[[:tr:obs:notes:frames:27-01|[27-01]]]** Bir gün Tevrat bilginlerinden biri İsa’yı denemek amacıyla O’na, “Hocam, ebedî **hayatı** miras almak için ne yapmalıyım?” diye sordu.
-  ***[[:tr:obs:notes:frames:35-05|[35-05]]]** İsa Marta’ya, “Diriliş ve **hayat** Ben’im.” dedi.
-  ***[[:tr:obs:notes:frames:44-05|[44-05]]]** “Roma Valisinden İsa’yı öldürmesini isteyen sizdiniz! Siz **Hayat** Veren’i öldürdünüz, fakat Tanrı O’nu ölümden diriltti.”
-
+  * **[[:tr:obs:notes:frames:01-10|[01-10]]]** Tanrı, çamura insan biçimi verdi ve ona **hayat**  nefesi üfürdü.
+  * **[[:tr:obs:notes:frames:03-01|[03-01]]]** Yıllar sonra dünyada çok insan **yaşıyordu**.
+  * **[[:tr:obs:notes:frames:08-13|[08-13]]]** Yusuf’un kardeşleri eve dönüp babalarına Yusuf’un hâlâ **sağ**  olduğunu haber verdikleri zaman Yakup çok mutlu oldu.
+  * **[[:tr:obs:notes:frames:17-09|[17-09]]]** Ancak **ömrünün**  sonuna doğru (Davut) Tanrı’ya karşı korkunç bir günah işledi.
+  * **[[:tr:obs:notes:frames:27-01|[27-01]]]** Bir gün Tevrat bilginlerinden biri İsa’yı denemek amacıyla O’na, “Hocam, ebedî **hayatı**  miras almak için ne yapmalıyım?” diye sordu.
+  * **[[:tr:obs:notes:frames:35-05|[35-05]]]** İsa Marta’ya, “Diriliş ve **hayat**  Ben’im.” dedi.
+  * **[[:tr:obs:notes:frames:44-05|[44-05]]]** “Roma Valisinden İsa’yı öldürmesini isteyen sizdiniz! Siz **Hayat**  Veren’i öldürdünüz, fakat Tanrı O’nu ölümden diriltti.”
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
