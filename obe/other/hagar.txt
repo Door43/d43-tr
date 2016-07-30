@@ -17,12 +17,8 @@ Hacer, Saray’ın şahsi kölesiydi.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:05-01|[05-01]]]** Bir gün Saray Avram’a şöyle teklifte bulundu: “Madem Tanrı beni çocuk sahibi olmaktan mahrum etmiş ve şimdi artık çocuk sahibi olacak yaşta değilim cariyem **Hacer**’i sana veriyorum. Onunla da evlen, benim için çocuk doğursun.”
-  ***[[:tr:obs:notes:frames:05-02|[05-02]]]** **Hacer**’in bir erkek çocuğu oldu ve Avram ona İsmail adını verdi.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:05-01|[05-01]]]** Bir gün Saray Avram’a şöyle teklifte bulundu: “Madem Tanrı beni çocuk sahibi olmaktan mahrum etmiş ve şimdi artık çocuk sahibi olacak yaşta değilim cariyem **Hacer**’i sana veriyorum. Onunla da evlen, benim için çocuk doğursun.”
+  * **[[:tr:obs:notes:frames:05-02|[05-02]]]****Hacer**’in bir erkek çocuğu oldu ve Avram ona İsmail adını verdi.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
