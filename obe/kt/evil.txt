@@ -21,18 +21,17 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:02-04|[02-04]]]** “Sadece Tanrı bu ağaçtan yer yemez her şeyi O’nun gibi anlayacağınızı biliyor. İyiyle **kötüyü** bilerek Tanrı gibi olacaksınız.” dedi.
-  ***[[:tr:obs:notes:frames:03-01|[03-01]]]** Yıllar sonra dünyada çok insan yaşıyordu. İnsanlar son derece **kötü** ve zorba olmuşlardı.
-  ***[[:tr:obs:notes:frames:03-02|[03-02]]]** Ancak Nuh Tanrı’nın gözünde lütuf buldu. Nuh bütün **kötü** insanlar arasında tek doğru insandı.
-  ***[[:tr:obs:notes:frames:04-02|[04-02]]]** Tanrı, **kötülük** için birlikte çalışmaya devam etseler daha çok günah işleyebileceklerini biliyordu.
-  ***[[:tr:obs:notes:frames:08-12|[08-12]]]** “Beni köle olarak sattığınızda **kötülük** yapmaya çalıştınız, ama Tanrı bu **kötülüğü** iyiliğe çevirdi!”
-  ***[[:tr:obs:notes:frames:14-02|[14-02]]]** (Kenanlılar) Yalancı ilâhlara tapar ve çok **kötülük** yaparlardı.
-  ***[[:tr:obs:notes:frames:17-01|[17-01]]]** Saul krallığının ilk yıllarında iyiydi, ama sonra Tanrı’ya itaat etmeyen **kötü** biri oldu, bu yüzden Tanrı bir gün onun yerine kral olacak başka birini seçti.
-  ***[[:tr:obs:notes:frames:18-11|[18-11]]]** Yeni İsrail Krallığı’nda bütün krallar **kötüydü**.
-  ***[[:tr:obs:notes:frames:29-08|[29-08]]]** Kral çok öfkelendi, **zalim** hizmetkârı bütün borcunu ödeyinceye kadar zindana kapattırdı.
-  ***[[:tr:obs:notes:frames:45-02|[45-02]]]** “(İstefanos’un) Musa ve Tanrı hakkında **kötü** konuştuğunu duyduk.” dediler.
-  ***[[:tr:obs:notes:frames:50-17|[50-17]]]** O (İsa), gözyaşlarını silecek ve artık ıstırap, keder, ağlayış, **kötülük**, ağrı ya da ölüm olmayacak.
-
+  * **[[:tr:obs:notes:frames:02-04|[02-04]]]** “Sadece Tanrı bu ağaçtan yer yemez her şeyi O’nun gibi anlayacağınızı biliyor. İyiyle **kötüyü**  bilerek Tanrı gibi olacaksınız.” dedi.
+  * **[[:tr:obs:notes:frames:03-01|[03-01]]]** Yıllar sonra dünyada çok insan yaşıyordu. İnsanlar son derece **kötü**  ve zorba olmuşlardı.
+  * **[[:tr:obs:notes:frames:03-02|[03-02]]]** Ancak Nuh Tanrı’nın gözünde lütuf buldu. Nuh bütün **kötü**  insanlar arasında tek doğru insandı.
+  * **[[:tr:obs:notes:frames:04-02|[04-02]]]** Tanrı, **kötülük**  için birlikte çalışmaya devam etseler daha çok günah işleyebileceklerini biliyordu.
+  * **[[:tr:obs:notes:frames:08-12|[08-12]]]** “Beni köle olarak sattığınızda **kötülük**  yapmaya çalıştınız, ama Tanrı bu **kötülüğü**  iyiliğe çevirdi!”
+  * **[[:tr:obs:notes:frames:14-02|[14-02]]]** (Kenanlılar) Yalancı ilâhlara tapar ve çok **kötülük**  yaparlardı.
+  * **[[:tr:obs:notes:frames:17-01|[17-01]]]** Saul krallığının ilk yıllarında iyiydi, ama sonra Tanrı’ya itaat etmeyen **kötü**  biri oldu, bu yüzden Tanrı bir gün onun yerine kral olacak başka birini seçti.
+  * **[[:tr:obs:notes:frames:18-11|[18-11]]]** Yeni İsrail Krallığı’nda bütün krallar **kötüydü**.
+  * **[[:tr:obs:notes:frames:29-08|[29-08]]]** Kral çok öfkelendi, **zalim**  hizmetkârı bütün borcunu ödeyinceye kadar zindana kapattırdı.
+  * **[[:tr:obs:notes:frames:45-02|[45-02]]]** “(İstefanos’un) Musa ve Tanrı hakkında **kötü**  konuştuğunu duyduk.” dediler.
+  * **[[:tr:obs:notes:frames:50-17|[50-17]]]** O (İsa), gözyaşlarını silecek ve artık ıstırap, keder, ağlayış, **kötülük**, ağrı ya da ölüm olmayacak.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
