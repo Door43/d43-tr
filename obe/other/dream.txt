@@ -14,15 +14,11 @@ Rüya ya da düş, insanların uyurken zihinlerinde gördükleri, işittikleri v
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:08-02|[08-02]]]** Kardeşleri Yusuf’tan nefret ediyorlardı, çünkü babaları onu en çok severdi ve Yusuf onların üzerinde hâkim olacağını **hayal** ederdi.
-  ***[[:tr:obs:notes:frames:08-06|[08-06]]]** Bir gece firavun -Mısırlılar krallarına firavun derlerdi- kendini son derece endişelendiren iki **rüya** görmüştü. Öğütçülerinden hiçbiri bu **rüyalarını** yorumlayamamıştı.
-  ***[[:tr:obs:notes:frames:08-07|[08-07]]]** Tanrı’nın Yusuf’a **rüya** yorumlama yeteneği verdiğini duyan firavun, Yusuf’un zindandan getirilmesini buyurdu. Yusuf ona **rüyalarını** şöyle yorumladı: “Tanrı yedi yıl bol hasat ve ardından yedi yıl kıtlık gönderecek.”
-  ***[[:tr:obs:notes:frames:16-11|[16-11]]]** Gidyon gitti ve Midyanlı bir askerin gördüğü **düşü** arkadaşına anlattığını duydu. Arkadaşı ona şöyle dedi: “Gördüğün **düşün** anlamı şu: Gidyon’un ordusu Midyanlıların ordusunu mağlup edecek!”
-  ***[[:tr:obs:notes:frames:23-01|[23-01]]]** (Yusuf) Meryem’i rezil etmek istemediği için ondan sessizce ayrılmak niyetindeydi. Fakat o bunu yapmadan önce bir melek **rüyada** gelip onunla konuştu.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:08-02|[08-02]]]** Kardeşleri Yusuf’tan nefret ediyorlardı, çünkü babaları onu en çok severdi ve Yusuf onların üzerinde hâkim olacağını **hayal**  ederdi.
+  * **[[:tr:obs:notes:frames:08-06|[08-06]]]** Bir gece firavun -Mısırlılar krallarına firavun derlerdi- kendini son derece endişelendiren iki **rüya**  görmüştü. Öğütçülerinden hiçbiri bu **rüyalarını**  yorumlayamamıştı.
+  * **[[:tr:obs:notes:frames:08-07|[08-07]]]** Tanrı’nın Yusuf’a **rüya**  yorumlama yeteneği verdiğini duyan firavun, Yusuf’un zindandan getirilmesini buyurdu. Yusuf ona **rüyalarını**  şöyle yorumladı: “Tanrı yedi yıl bol hasat ve ardından yedi yıl kıtlık gönderecek.”
+  * **[[:tr:obs:notes:frames:16-11|[16-11]]]** Gidyon gitti ve Midyanlı bir askerin gördüğü **düşü**  arkadaşına anlattığını duydu. Arkadaşı ona şöyle dedi: “Gördüğün **düşün**  anlamı şu: Gidyon’un ordusu Midyanlıların ordusunu mağlup edecek!”
+  * **[[:tr:obs:notes:frames:23-01|[23-01]]]** (Yusuf) Meryem’i rezil etmek istemediği için ondan sessizce ayrılmak niyetindeydi. Fakat o bunu yapmadan önce bir melek **rüyada**  gelip onunla konuştu.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
