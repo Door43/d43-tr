@@ -15,18 +15,14 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:19-14|[19-14]]]** Mucizelerden biri düşman ordusunun komutanı Naaman’ın hayatında oldu. Naaman korkunç bir deri hastalığına tutulmuştu. Elişa hakkında duyunca yanına gitti ve ona **şifa** vermesini istedi.
-  ***[[:tr:obs:notes:frames:21-10|[21-10]]]** Üstelik (Yeşaya) Mesih’in hasta olanlara, duyamayan, göremeyen, konuşamayan ve yürüyemeyen insanlara **şifa** vereceğini bildirdi.
-  ***[[:tr:obs:notes:frames:26-06|[26-06]]]** İsa sözüne devam etti: “Elişa Peygamber’in zamanında da İsrail’de çok deri hastası vardı, fakat Elişa onlardan hiçbirine **şifa** vermedi. Yalnızca İsrail’in düşmanlarının ordu komutanı Naaman’a **şifa** verdi.”
-  ***[[:tr:obs:notes:frames:26-08|[26-08]]]** (İsa) O’na getirilen birçok hasta ve engelli insana: göremeyen, yürüyemeyen, duyamayan, konuşamayan hastalara **şifa** verdi.
-  ***[[:tr:obs:notes:frames:32-14|[32-14]]]** İsa’nın çok hastaya **şifa** verdiğini duymuştu, bu yüzden, “İsa’nın giysisine dokunabilsem **şifa** bulacağımdan eminim!” diye düşündü.
-  ***[[:tr:obs:notes:frames:44-03|[44-03]]]** Aniden Tanrı sakat adama **şifa** verdi. Adam yürümeye, sıçramaya ve Tanrı’ya hamdetmeye başladı.
-  ***[[:tr:obs:notes:frames:44-08|[44-08]]]** Petrus onlara, “Bu adam İsa Mesih’in kudretiyle önünüzde **sapasağlam** duruyor.” diye cevap verdi.
-  ***[[:tr:obs:notes:frames:49-02|[49-02]]]** İsa, Tanrı olduğunu kanıtlayan çok mucize yaptı. Su üstünde yürüdü, fırtınaları dindirdi, çok hastaya **şifa** erdi, cinleri çıkardı, ölüleri diriltti, beş ekmek ve iki küçük balıkla 5.000 kişiyi doyurdu.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:19-14|[19-14]]]** Mucizelerden biri düşman ordusunun komutanı Naaman’ın hayatında oldu. Naaman korkunç bir deri hastalığına tutulmuştu. Elişa hakkında duyunca yanına gitti ve ona **şifa**  vermesini istedi.
+  * **[[:tr:obs:notes:frames:21-10|[21-10]]]** Üstelik (Yeşaya) Mesih’in hasta olanlara, duyamayan, göremeyen, konuşamayan ve yürüyemeyen insanlara **şifa**  vereceğini bildirdi.
+  * **[[:tr:obs:notes:frames:26-06|[26-06]]]** İsa sözüne devam etti: “Elişa Peygamber’in zamanında da İsrail’de çok deri hastası vardı, fakat Elişa onlardan hiçbirine **şifa**  vermedi. Yalnızca İsrail’in düşmanlarının ordu komutanı Naaman’a **şifa**  verdi.”
+  * **[[:tr:obs:notes:frames:26-08|[26-08]]]** (İsa) O’na getirilen birçok hasta ve engelli insana: göremeyen, yürüyemeyen, duyamayan, konuşamayan hastalara **şifa**  verdi.
+  * **[[:tr:obs:notes:frames:32-14|[32-14]]]** İsa’nın çok hastaya **şifa**  verdiğini duymuştu, bu yüzden, “İsa’nın giysisine dokunabilsem **şifa**  bulacağımdan eminim!” diye düşündü.
+  * **[[:tr:obs:notes:frames:44-03|[44-03]]]** Aniden Tanrı sakat adama **şifa**  verdi. Adam yürümeye, sıçramaya ve Tanrı’ya hamdetmeye başladı.
+  * **[[:tr:obs:notes:frames:44-08|[44-08]]]** Petrus onlara, “Bu adam İsa Mesih’in kudretiyle önünüzde **sapasağlam**  duruyor.” diye cevap verdi.
+  * **[[:tr:obs:notes:frames:49-02|[49-02]]]** İsa, Tanrı olduğunu kanıtlayan çok mucize yaptı. Su üstünde yürüdü, fırtınaları dindirdi, çok hastaya **şifa**  erdi, cinleri çıkardı, ölüleri diriltti, beş ekmek ve iki küçük balıkla 5.000 kişiyi doyurdu.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
