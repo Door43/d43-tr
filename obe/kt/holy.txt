@@ -24,11 +24,10 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:01-16|[01-16]]]** Tanrı yedinci günü kutsadı ve o gün, Tanrı’nın yaptığı işlerden dinlendiği için **kutsal** bir gün oldu.
-  ***[[:tr:obs:notes:frames:09-12|[09-12]]]** “**Kutsal** bir yerde duruyorsun.”
-  ***[[:tr:obs:notes:frames:13-01|[13-01]]]** “Sözüme itaat eder, ahdime bağlı kalırsanız, çok kıymetli hazinem, kâhinler krallığı, **kutsal** bir millet olacaksınız.”
-  ***[[:tr:obs:notes:frames:13-05|[13-05]]]** “Her zaman Şabat Günü’nü **kutsal** sayacaksın.”
-  ***[[:tr:obs:notes:frames:22-05|[22-05]]]** “Bunun için senin çocuğun **kutsal**, Tanrı’nın Oğlu olacak.”
-  ***[[:tr:obs:notes:frames:50-02|[50-02]]]** Tanrı, İsa’nın dönüşünü beklerken kendisini şereflendiren **kutsal** bir yaşam sürmemizi istiyor.
-
+  * **[[:tr:obs:notes:frames:01-16|[01-16]]]** Tanrı yedinci günü kutsadı ve o gün, Tanrı’nın yaptığı işlerden dinlendiği için **kutsal**  bir gün oldu.
+  * **[[:tr:obs:notes:frames:09-12|[09-12]]]** “**Kutsal**  bir yerde duruyorsun.”
+  * **[[:tr:obs:notes:frames:13-01|[13-01]]]** “Sözüme itaat eder, ahdime bağlı kalırsanız, çok kıymetli hazinem, kâhinler krallığı, **kutsal**  bir millet olacaksınız.”
+  * **[[:tr:obs:notes:frames:13-05|[13-05]]]** “Her zaman Şabat Günü’nü **kutsal**  sayacaksın.”
+  * **[[:tr:obs:notes:frames:22-05|[22-05]]]** “Bunun için senin çocuğun **kutsal**, Tanrı’nın Oğlu olacak.”
+  * **[[:tr:obs:notes:frames:50-02|[50-02]]]** Tanrı, İsa’nın dönüşünü beklerken kendisini şereflendiren **kutsal**  bir yaşam sürmemizi istiyor.
 ~~DISCUSSION~~{{tag>publish ktobs}}
