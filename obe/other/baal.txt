@@ -20,12 +20,11 @@ Baal, Kenan ülkesinde birkaç halkın taptığı yalancı ilâhın ismidir.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:19-02|[19-02]]]** Ahav, halkı **Baal** adında yalancı bir tanrıya tapınmaya teşvik eden kötü bir adamdı.
-  ***[[:tr:obs:notes:frames:19-06|[19-06]]]** **Baal**’ın 450 peygamberi dahil İsrail Krallığı’nın bütün halkı Karmel Dağı’na geldi. İlyas halka seslendi: “Daha ne zamana kadar fikrinizi değiştirip duracaksınız? Eğer Yahve Tanrı’ysa ona hizmet edin! Yok eğer **Baal** Tanrı’ysa ona hizmet edin!”
-  ***[[:tr:obs:notes:frames:19-07|[19-07]]]** Sonra İlyas **Baal**’ın peygamberlerine şöyle dedi: “Bir boğa kesip kurban olarak hazırlayın, ama ateş yakmayın.”
-  ***[[:tr:obs:notes:frames:19-08|[19-08]]]** Sonra **Baal**’ın peygamberleri, “Ey **Baal**, bizi işit!” diye dua ettiler.
-  ***[[:tr:obs:notes:frames:19-12|[19-12]]]** İnsanlar **Baal**’ın peygamberlerini tutup başka bir yere götürdüler ve orada öldürdüler.
-
+  * **[[:tr:obs:notes:frames:19-02|[19-02]]]** Ahav, halkı **Baal**  adında yalancı bir tanrıya tapınmaya teşvik eden kötü bir adamdı.
+  * **[[:tr:obs:notes:frames:19-06|[19-06]]]****Baal**’ın 450 peygamberi dahil İsrail Krallığı’nın bütün halkı Karmel Dağı’na geldi. İlyas halka seslendi: “Daha ne zamana kadar fikrinizi değiştirip duracaksınız? Eğer Yahve Tanrı’ysa ona hizmet edin! Yok eğer **Baal**  Tanrı’ysa ona hizmet edin!”
+  * **[[:tr:obs:notes:frames:19-07|[19-07]]]** Sonra İlyas **Baal**’ın peygamberlerine şöyle dedi: “Bir boğa kesip kurban olarak hazırlayın, ama ateş yakmayın.”
+  * **[[:tr:obs:notes:frames:19-08|[19-08]]]** Sonra **Baal**’ın peygamberleri, “Ey **Baal**, bizi işit!” diye dua ettiler.
+  * **[[:tr:obs:notes:frames:19-12|[19-12]]]** İnsanlar **Baal**’ın peygamberlerini tutup başka bir yere götürdüler ve orada öldürdüler.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
