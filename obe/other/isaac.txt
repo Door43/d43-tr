@@ -18,16 +18,12 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:05-04|[05-04]]]** “Karın Saray’ın bir oğlu olacak ve o, vadedilen oğul olacak. Adını **İshak** koyacaksın.”
-  ***[[:tr:obs:notes:frames:05-06|[05-06]]]** **İshak** hâlâ çocuk iken Tanrı İbrahim’in imanını denedi. “Biricik oğlunu, **İshak**’ı al, bana kurban olarak sun.” dedi.
-  ***[[:tr:obs:notes:frames:05-09|[05-09]]]** Tanrı, **İshak**’ın yerine kurban verilsin diye bu koçu sağlamıştı.
-  ***[[:tr:obs:notes:frames:06-01|[06-01]]]** İbrahim iyice yaşlanmış, oğlu **İshak** genç adam olmuştu. Bir gün İbrahim, uşaklarından birini oğlu **İshak**’ın evleneceği kızı getirsin diye akrabalarının yaşadıkları ülkeye gönderdi.
-  ***[[:tr:obs:notes:frames:06-05|[06-05]]]** **İshak** Rebeka için dua etti ve Tanrı, ikiz bebeğe hamile kalmasını sağladı.
-  ***[[:tr:obs:notes:frames:07-10|[07-10]]]** Sonra **İshak** öldü ve Yakup’la Esav onu gömdüler. Tanrı’nın ahdinde İbrahim’e verdiği vaatler bundan sonra **İshak**’tan Yakup’a geçti.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:05-04|[05-04]]]** “Karın Saray’ın bir oğlu olacak ve o, vadedilen oğul olacak. Adını **İshak**  koyacaksın.”
+  * **[[:tr:obs:notes:frames:05-06|[05-06]]]****İshak**  hâlâ çocuk iken Tanrı İbrahim’in imanını denedi. “Biricik oğlunu, **İshak**’ı al, bana kurban olarak sun.” dedi.
+  * **[[:tr:obs:notes:frames:05-09|[05-09]]]** Tanrı, **İshak**’ın yerine kurban verilsin diye bu koçu sağlamıştı.
+  * **[[:tr:obs:notes:frames:06-01|[06-01]]]** İbrahim iyice yaşlanmış, oğlu **İshak**  genç adam olmuştu. Bir gün İbrahim, uşaklarından birini oğlu **İshak**’ın evleneceği kızı getirsin diye akrabalarının yaşadıkları ülkeye gönderdi.
+  * **[[:tr:obs:notes:frames:06-05|[06-05]]]****İshak**  Rebeka için dua etti ve Tanrı, ikiz bebeğe hamile kalmasını sağladı.
+  * **[[:tr:obs:notes:frames:07-10|[07-10]]]** Sonra **İshak**  öldü ve Yakup’la Esav onu gömdüler. Tanrı’nın ahdinde İbrahim’e verdiği vaatler bundan sonra **İshak**’tan Yakup’a geçti.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
