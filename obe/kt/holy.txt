@@ -16,14 +16,7 @@
   * «Kutsal» sözcüğünün çevirisi şöyle olabilir: «Tanrı için ayrılmış», «Tanrı’ya ait», «tamamen pak», «mükemmel şekilde günahsız» ya da «günahtan ayrılmış.»
   * «Kutsal kılmak» çoğu zaman «takdis etmek» şeklinde çevrilir. Ayrıca «(birini) Tanrı’nın izzeti için ayırmak» şeklinde çevrilebilir.
 
-===== Çeviri için öneriler =====
-
-  * «Kutsal» sözcüğünün çevirisi şöyle olabilir: «Tanrı için ayrılmış», «Tanrı’ya ait», «tamamen pak», «mükemmel şekilde günahsız»
-
- ya da «günahtan ayrılmış.»
-  * «Kutsal kılmak» çoğu zaman «takdis etmek» şeklinde çevrilir. Ayrıca «(birini) Tanrı’nın izzeti için ayırmak» şeklinde çevrilebilir.
-
-(See also: [[tr:obe:kt:sanctify]], [[tr:obe:kt:holyspirit]], [[tr:obe:kt:setapart]])
+(See also: [[:tr:obe:kt:sanctify|sanctify, sanctification]], [[:tr:obe:kt:holyspirit|Kutsal Ruh, Tanrı’nın Ruhu, Rab’bin Ruhu]], [[:tr:obe:kt:setapart|set apart]])
 
 ===== Bible References: =====
 
