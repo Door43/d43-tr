@@ -25,12 +25,11 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:02-04|[02-04]]]** Yılan kadına, “**Öyle** değil! Ölmeyeceksiniz.” dedi.
-  ***[[:tr:obs:notes:frames:14-06|[14-06]]]** Öbür iki kişi, Kalev ve Yeşu, hemen itiraz etti: “Kenanlılar **gerçekten** uzun boylu ve güçlüdürler, fakat biz onları mutlaka mağlup edeceğiz!”
-  ***[[:tr:obs:notes:frames:16-01|[16-01]]]** İsrailliler **gerçek** Tanrı Yahve yerine Kenan ilâhlarına taptılar.
-  ***[[:tr:obs:notes:frames:31-08|[31-08]]]** İsa’ya tapınarak, “**Gerçekten**, sen Tanrı’nın Oğlu’sun.” dediler.
-  ***[[:tr:obs:notes:frames:39-10|[39-10]]]** “Ben Tanrı’yla ilgili **hakikati** ilan etmek için dünyaya geldim. **Hakikati** seven herkes beni dinler.” diye cevap verdi. Pilatus, “**Hakikat** nedir?” diye sordu.
-
+  * **[[:tr:obs:notes:frames:02-04|[02-04]]]** Yılan kadına, “**Öyle**  değil! Ölmeyeceksiniz.” dedi.
+  * **[[:tr:obs:notes:frames:14-06|[14-06]]]** Öbür iki kişi, Kalev ve Yeşu, hemen itiraz etti: “Kenanlılar **gerçekten**  uzun boylu ve güçlüdürler, fakat biz onları mutlaka mağlup edeceğiz!”
+  * **[[:tr:obs:notes:frames:16-01|[16-01]]]** İsrailliler **gerçek**  Tanrı Yahve yerine Kenan ilâhlarına taptılar.
+  * **[[:tr:obs:notes:frames:31-08|[31-08]]]** İsa’ya tapınarak, “**Gerçekten**, sen Tanrı’nın Oğlu’sun.” dediler.
+  * **[[:tr:obs:notes:frames:39-10|[39-10]]]** “Ben Tanrı’yla ilgili **hakikati**  ilan etmek için dünyaya geldim. **Hakikati**  seven herkes beni dinler.” diye cevap verdi. Pilatus, “**Hakikat**  nedir?” diye sordu.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
