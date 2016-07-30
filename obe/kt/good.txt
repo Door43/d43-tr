@@ -29,15 +29,14 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:01-04|[01-04]]]** Tanrı, yaratmış olduğu her şeyin **iyi** olduğunu gördü​.
-  ***[[:tr:obs:notes:frames:01-11|[01-11]]]** Tanrı **iyiyle** kötüyü bilme ağacını dikti.
-  ***[[:tr:obs:notes:frames:01-12|[01-12]]]** Sonra Tanrı, “Adamın yalnız kalması **iyi** değil.” dedi.
-  ***[[:tr:obs:notes:frames:02-04|[02-04]]]** “Sadece Tanrı bu ağaçtan yer yemez her şeyi O’nun gibi anlayacağınızı biliyor. **İyiyle** kötüyü bilerek Tanrı gibi olacaksınız.” dedi.
-  ***[[:tr:obs:notes:frames:08-12|[08-12]]]** “Beni köle olarak sattığınızda kötülük yapmaya çalıştınız, ama Tanrı bu kötülüğü **iyiliğe** çevirdi!”
-  ***[[:tr:obs:notes:frames:14-15|[14-15]]]** Yeşu Tanrı’ya güvendiği ve itaat ettiği için **iyi** bir önderdi.
-  ***[[:tr:obs:notes:frames:18-13|[18-13]]]** Aralarında adaletle hüküm süren ve Tanrı’ya tapan **iyi** insanlar da vardı.
-  ***[[:tr:obs:notes:frames:28-01|[28-01]]]** Bir gün zengin bir genç İsa’ya yaklaşıp, “**İyi** Hocam, ebedî hayata kavuşmak için ne yapmalıyım?” diye sordu. İsa ona dedi: “Bana neden **iyi** diyorsun? **İyi** olan yalnız Tanrı’dır.”
-
+  * **[[:tr:obs:notes:frames:01-04|[01-04]]]** Tanrı, yaratmış olduğu her şeyin **iyi**  olduğunu gördü​.
+  * **[[:tr:obs:notes:frames:01-11|[01-11]]]** Tanrı **iyiyle**  kötüyü bilme ağacını dikti.
+  * **[[:tr:obs:notes:frames:01-12|[01-12]]]** Sonra Tanrı, “Adamın yalnız kalması **iyi**  değil.” dedi.
+  * **[[:tr:obs:notes:frames:02-04|[02-04]]]** “Sadece Tanrı bu ağaçtan yer yemez her şeyi O’nun gibi anlayacağınızı biliyor. **İyiyle**  kötüyü bilerek Tanrı gibi olacaksınız.” dedi.
+  * **[[:tr:obs:notes:frames:08-12|[08-12]]]** “Beni köle olarak sattığınızda kötülük yapmaya çalıştınız, ama Tanrı bu kötülüğü **iyiliğe**  çevirdi!”
+  * **[[:tr:obs:notes:frames:14-15|[14-15]]]** Yeşu Tanrı’ya güvendiği ve itaat ettiği için **iyi**  bir önderdi.
+  * **[[:tr:obs:notes:frames:18-13|[18-13]]]** Aralarında adaletle hüküm süren ve Tanrı’ya tapan **iyi**  insanlar da vardı.
+  * **[[:tr:obs:notes:frames:28-01|[28-01]]]** Bir gün zengin bir genç İsa’ya yaklaşıp, “**İyi**  Hocam, ebedî hayata kavuşmak için ne yapmalıyım?” diye sordu. İsa ona dedi: “Bana neden **iyi**  diyorsun? **İyi**  olan yalnız Tanrı’dır.”
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
