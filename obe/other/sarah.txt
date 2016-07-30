@@ -15,12 +15,8 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:05-01|[05-01]]]** Bir gün **Saray** Avram’a şöyle teklifte bulundu: “Madem Tanrı beni çocuk sahibi olmaktan mahrum etmiş ve şimdi artık çocuk sahibi olacak yaşta değilim cariyem Hacer’i sana veriyorum. Onunla da evlen, benim için çocuk doğursun.”
-  ***[[:tr:obs:notes:frames:05-04|[05-04]]]** “Karın **Saray**’ın bir oğlu olacak ve o, vadedilen oğul olacak.”
-  ***[[:tr:obs:notes:frames:05-04|[05-04]]]** Tanrı **Saray**’ın adını da “prenses” anlamına gelen **Sara** olarak değiştirdi.
-  ***[[:tr:obs:notes:frames:05-05|[05-05]]]** Yaklaşık olarak bir sene sonra İbrahim 100 ve **Sara** 90 yaşlarında oldukları zaman **Sara** İbrahim’e bir oğul doğurdu. Tanrı’nın buyurduğu gibi adını İshak koydular.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
-
+  * **[[:tr:obs:notes:frames:05-01|[05-01]]]** Bir gün **Saray**  Avram’a şöyle teklifte bulundu: “Madem Tanrı beni çocuk sahibi olmaktan mahrum etmiş ve şimdi artık çocuk sahibi olacak yaşta değilim cariyem Hacer’i sana veriyorum. Onunla da evlen, benim için çocuk doğursun.”
+  * **[[:tr:obs:notes:frames:05-04|[05-04]]]** “Karın **Saray**’ın bir oğlu olacak ve o, vadedilen oğul olacak.”
+  * **[[:tr:obs:notes:frames:05-04|[05-04]]]** Tanrı **Saray**’ın adını da “prenses” anlamına gelen **Sara**  olarak değiştirdi.
+  * **[[:tr:obs:notes:frames:05-05|[05-05]]]** Yaklaşık olarak bir sene sonra İbrahim 100 ve **Sara**  90 yaşlarında oldukları zaman **Sara**  İbrahim’e bir oğul doğurdu. Tanrı’nın buyurduğu gibi adını İshak koydular.
+~~DISCUSSION~~{{tag>publish ktobs}}
