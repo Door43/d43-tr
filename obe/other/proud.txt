@@ -20,12 +20,8 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:04-02|[04-02]]]** Son derece **kibirli** olup, Tanrı’nın dediğine önem vermeyen insanlar, göğe erişecek kadar yüksek bir kule kurmakla uğraştılar.
-  ***[[:tr:obs:notes:frames:34-10|[34-10]]]** Sonra İsa şöyle dedi: “Size gerçeği söylüyorum: Tanrı, vergicinin duasını kabul etti ve kendisini doğru adam ilan etti. Din aliminin duası ise hoşuna gitmedi. Tanrı **kibirlenen** herkesi küçültür, kendini küçük gören herkesi ise yüceltir.”
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:04-02|[04-02]]]** Son derece **kibirli**  olup, Tanrı’nın dediğine önem vermeyen insanlar, göğe erişecek kadar yüksek bir kule kurmakla uğraştılar.
+  * **[[:tr:obs:notes:frames:34-10|[34-10]]]** Sonra İsa şöyle dedi: “Size gerçeği söylüyorum: Tanrı, vergicinin duasını kabul etti ve kendisini doğru adam ilan etti. Din aliminin duası ise hoşuna gitmedi. Tanrı **kibirlenen**  herkesi küçültür, kendini küçük gören herkesi ise yüceltir.”
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
