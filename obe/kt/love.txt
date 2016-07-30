@@ -29,16 +29,15 @@ Başka birini sevmek demek, o kişiye ilgi göstermek ve ona yarar verecek şeyl
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:27-02|[27-02]]]** Tevrat bilgini cevabında, “Tevrat, ‘Tanrın Rab’bi bütün kalbinle, varlığınla, kuvvetinle, düşüncenle **seveceksin**! Komşunu da kendini **sevdiğin** gibi **seveceksin**.’ diye buyuruyor.” dedi.
-  ***[[:tr:obs:notes:frames:33-08|[33-08]]]** “Dikenli çalının olduğu toprak, Tanrı’nın sözünü duyan ama kaygıların, zengin olma hırsının, dünyevi zevklerin Tanrı’ya olan **sevgisini** gittikçe yok ettiği kişidir.”
-  ***[[:tr:obs:notes:frames:36-05|[36-05]]]** Petrus konuşurken parlak bir bulut çevrelerini sardı ve buluttan bir ses geldi: “Bu benim **sevgili** Oğlum’dur.”
-  ***[[:tr:obs:notes:frames:39-10|[39-10]]]** “Hakikati **seven** herkes beni dinler.”
-  ***[[:tr:obs:notes:frames:47-01|[47-01]]]** Lidya Tanrı’yı **seven** ve tapınan biriydi.
-  ***[[:tr:obs:notes:frames:48-01|[48-01]]]** Tanrı dünyayı yarattığında her şey kâmildi. Günah yoktu. Adem ve Havva birbirini ve Tanrı’yı **severlerdi**.
-  ***[[:tr:obs:notes:frames:49-03|[49-03]]]** (İsa) Başkalarını kendini **sevdiğin** gibi **sevmen** gerektiğini öğretirdi.
-  ***[[:tr:obs:notes:frames:49-04|[49-04]]]** (İsa) Bir de Tanrı’yı, zenginlik de dahil olmak üzere her şeyden daha çok **sevmen** gerektiğini öğretirdi.
-  ***[[:tr:obs:notes:frames:49-07|[49-07]]]** İsa, Tanrı’nın günahkârları çok **sevdiğini** öğretirdi.
-  ***[[:tr:obs:notes:frames:49-09|[49-09]]]** Fakat Tanrı dünyadaki her insanı o kadar **sevdi** ki, biricik Oğlu’nu verdi. Öyle ki, İsa’ya iman eden herkes günahlarının cezasını çekmesin, Tanrı’yla ebediyen yaşasın.
-  ***[[:tr:obs:notes:frames:49-13|[49-13]]]** Tanrı seni **seviyor** ve seninle kişisel ilişki kurmak için İsa’ya iman etmeni istiyor.
-
+  * **[[:tr:obs:notes:frames:27-02|[27-02]]]** Tevrat bilgini cevabında, “Tevrat, ‘Tanrın Rab’bi bütün kalbinle, varlığınla, kuvvetinle, düşüncenle **seveceksin**! Komşunu da kendini **sevdiğin**  gibi **seveceksin**.’ diye buyuruyor.” dedi.
+  * **[[:tr:obs:notes:frames:33-08|[33-08]]]** “Dikenli çalının olduğu toprak, Tanrı’nın sözünü duyan ama kaygıların, zengin olma hırsının, dünyevi zevklerin Tanrı’ya olan **sevgisini**  gittikçe yok ettiği kişidir.”
+  * **[[:tr:obs:notes:frames:36-05|[36-05]]]** Petrus konuşurken parlak bir bulut çevrelerini sardı ve buluttan bir ses geldi: “Bu benim **sevgili**  Oğlum’dur.”
+  * **[[:tr:obs:notes:frames:39-10|[39-10]]]** “Hakikati **seven**  herkes beni dinler.”
+  * **[[:tr:obs:notes:frames:47-01|[47-01]]]** Lidya Tanrı’yı **seven**  ve tapınan biriydi.
+  * **[[:tr:obs:notes:frames:48-01|[48-01]]]** Tanrı dünyayı yarattığında her şey kâmildi. Günah yoktu. Adem ve Havva birbirini ve Tanrı’yı **severlerdi**.
+  * **[[:tr:obs:notes:frames:49-03|[49-03]]]** (İsa) Başkalarını kendini **sevdiğin**  gibi **sevmen**  gerektiğini öğretirdi.
+  * **[[:tr:obs:notes:frames:49-04|[49-04]]]** (İsa) Bir de Tanrı’yı, zenginlik de dahil olmak üzere her şeyden daha çok **sevmen**  gerektiğini öğretirdi.
+  * **[[:tr:obs:notes:frames:49-07|[49-07]]]** İsa, Tanrı’nın günahkârları çok **sevdiğini**  öğretirdi.
+  * **[[:tr:obs:notes:frames:49-09|[49-09]]]** Fakat Tanrı dünyadaki her insanı o kadar **sevdi**  ki, biricik Oğlu’nu verdi. Öyle ki, İsa’ya iman eden herkes günahlarının cezasını çekmesin, Tanrı’yla ebediyen yaşasın.
+  * **[[:tr:obs:notes:frames:49-13|[49-13]]]** Tanrı seni **seviyor**  ve seninle kişisel ilişki kurmak için İsa’ya iman etmeni istiyor.
 ~~DISCUSSION~~{{tag>publish ktobs}}
