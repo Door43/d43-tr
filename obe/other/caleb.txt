@@ -3,10 +3,11 @@
 ===== Gerçeklikler =====
 
 Kalev, Musa’nın Kenan ülkesini araştırmaya gönderdiği on iki İsrailli casuslardan biriydi.
+
   * Yeşu ve Kalev Kenan’ı araştırmaktan dönünce halka o ülkede huzur içinde yaşayabilmeleri için Tanrı’nın düşmanlarına zafer kazanmalarına yardım edeceğini söylediler.
   * Yeşu ve Kalev, kendi nesillerinde Tanrı’nın vadettiği ülkeye girmelerine izin verilen tek insanlardı.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
 ===== Bible References: =====
 
