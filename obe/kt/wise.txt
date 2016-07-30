@@ -15,13 +15,7 @@
   * «Bilgelik» «sağduyu», «hikmet», «bilge yaşam», «mantıklı, itaatkâr yaşam» ya da «doğru anlayış» anlamına gelen bir sözcük ya da ifade ile çevrilebilir.
   * «Bilge» ve «bilgelik» sözcüklerini doğru ya da itaatkâr gibi başka terimlerden farklı olarak çevirmek iyi olur.
 
-===== Çeviri için öneriler =====
-
-  * Bağlama dayalı olarak, «bilge» sözcüğü şu sözcük ya da ifadelerle çevrilebilir: «sağduyulu», «aklı başında ve itaatkâr» ya da «Tanrı’dan korkan.»
-  * «Bilgelik» «sağduyu», «hikmet», «bilge yaşam», «mantıklı, itaatkâr yaşam» ya da «doğru anlayış» anlamına gelen bir sözcük ya da ifade ile çevrilebilir.
-  * «Bilge» ve «bilgelik» sözcüklerini doğru ya da itaatkâr gibi başka terimlerden farklı olarak çevirmek iyi olur.
-
-(See: [[:tr:obe:other:obey]], [[:tr:obe:kt:fruit]])
+(See: [[:tr:obe:other:obey|itaatetmek]], [[:tr:obe:kt:fruit|fruit]])
 
 ===== Bible References: =====
 
