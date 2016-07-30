@@ -24,12 +24,8 @@ Cehennem, Tanrı’nın kendisine karşı başkaldıran ve İsa’nın kurbanı 
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:50-14|[50-14]]]** (Tanrı) Onları sonsuzluğa kadar ağlayacakları, diş gıcırdatarak acı çekecekleri **cehenneme** atacak. Onları yakan ateş hiç sönmeyecek, etlerini kemiren kurt hiç tükenmeyecek.
-  ***[[:tr:obs:notes:frames:50-15|[50-15]]]** Şeytan’ı ve Tanrı’nın değil Şeytan’ın yolunu seçen herkesi sonsuzluğa kadar yakılmak üzere **cehenneme** atacak.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:50-14|[50-14]]]** (Tanrı) Onları sonsuzluğa kadar ağlayacakları, diş gıcırdatarak acı çekecekleri **cehenneme**  atacak. Onları yakan ateş hiç sönmeyecek, etlerini kemiren kurt hiç tükenmeyecek.
+  * **[[:tr:obs:notes:frames:50-15|[50-15]]]** Şeytan’ı ve Tanrı’nın değil Şeytan’ın yolunu seçen herkesi sonsuzluğa kadar yakılmak üzere **cehenneme**  atacak.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
