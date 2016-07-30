@@ -17,12 +17,11 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:03-04|[03-04]]]** Nuh Tanrı’nın dediğine **itaat** etti. Üç oğluyla beraber tıpkı Tanrı’nın buyurduğu gibi gemiyi yaptı.
-  ***[[:tr:obs:notes:frames:05-06|[05-06]]]** İbrahim yine Tanrı’nın sözüne **itaat** ederek kendi oğlunu kurban vermeye hazır oldu.
-  ***[[:tr:obs:notes:frames:05-10|[05-10]]]** “(Sen, İbrahim) Bana **itaat** ettiğin için yeryüzünün bütün milletleri senin soyunun aracılığıyla kutsanacak.”
-  ***[[:tr:obs:notes:frames:05-10|[05-10]]]** Mısırlılar ise Tanrı’ya inanmamış ve buyruklarına **itaat** etmemişlerdi.
-  ***[[:tr:obs:notes:frames:13-07|[13-07]]]** Tanrı, bu yasalara **uydukları** takdirde halkı kutsayıp koruyacağını vadetti.
-
-~~DISCUSSION~~{{tag>publish  ktobs}}
+  * **[[:tr:obs:notes:frames:03-04|[03-04]]]** Nuh Tanrı’nın dediğine **itaat**  etti. Üç oğluyla beraber tıpkı Tanrı’nın buyurduğu gibi gemiyi yaptı.
+  * **[[:tr:obs:notes:frames:05-06|[05-06]]]** İbrahim yine Tanrı’nın sözüne **itaat**  ederek kendi oğlunu kurban vermeye hazır oldu.
+  * **[[:tr:obs:notes:frames:05-10|[05-10]]]** “(Sen, İbrahim) Bana **itaat**  ettiğin için yeryüzünün bütün milletleri senin soyunun aracılığıyla kutsanacak.”
+  * **[[:tr:obs:notes:frames:05-10|[05-10]]]** Mısırlılar ise Tanrı’ya inanmamış ve buyruklarına **itaat**  etmemişlerdi.
+  * **[[:tr:obs:notes:frames:13-07|[13-07]]]** Tanrı, bu yasalara **uydukları**  takdirde halkı kutsayıp koruyacağını vadetti.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
