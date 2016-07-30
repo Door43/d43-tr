@@ -17,12 +17,11 @@ Adem, Tanrı’nın yarattığı ilk kişiydi. Kendisi ve karısı Havva Tanrı�
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:01-09|[01-09]]]** Sonra Tanrı dedi: “Kendi suretimizde, kendimize benzer insanları yaratalım.”
-  ***[[:tr:obs:notes:frames:01-10|[01-10]]]** İlk insanın adı **Adem** oldu. Tanrı, **Adem**’in yaşayacağı ve işleyeceği bir bahçe dikip **Adem**’i oraya koydu.
-  ***[[:tr:obs:notes:frames:01-12|[01-12]]]** Sonra Tanrı, “Adamın yalnız kalması iyi değil.” dedi. Fakat hayvanlardan hiçbiri **Adem**’e uygun bir yardımcı olmadı.
-  ***[[:tr:obs:notes:frames:02-11|[02-11]]]** Tanrı, **Adem**’le Havva’ya hayvan derisi giydirdi.
-  ***[[:tr:obs:notes:frames:02-12|[02-12]]]** Bu sebeple Tanrı, **Adem** ve Havva’yı güzel bahçeden kovdu.
-  ***[[:tr:obs:notes:frames:49-08|[49-08]]]** **Adem**’le Havva’nın işlediği günah onların bütün soyunu etkiledi.
-  ***[[:tr:obs:notes:frames:50-16|[50-16]]]** **Adem**’le Havva Tanrı’ya karşı itaatsiz olup dünyaya günah getirdikleri için Tanrı dünyayı lanetledi, yok etmeye karar verdi.
-
+  * **[[:tr:obs:notes:frames:01-09|[01-09]]]** Sonra Tanrı dedi: “Kendi suretimizde, kendimize benzer insanları yaratalım.”
+  * **[[:tr:obs:notes:frames:01-10|[01-10]]]** İlk insanın adı **Adem**  oldu. Tanrı, **Adem**’in yaşayacağı ve işleyeceği bir bahçe dikip **Adem**’i oraya koydu.
+  * **[[:tr:obs:notes:frames:01-12|[01-12]]]** Sonra Tanrı, “Adamın yalnız kalması iyi değil.” dedi. Fakat hayvanlardan hiçbiri **Adem**’e uygun bir yardımcı olmadı.
+  * **[[:tr:obs:notes:frames:02-11|[02-11]]]** Tanrı, **Adem**’le Havva’ya hayvan derisi giydirdi.
+  * **[[:tr:obs:notes:frames:02-12|[02-12]]]** Bu sebeple Tanrı, **Adem**  ve Havva’yı güzel bahçeden kovdu.
+  * **[[:tr:obs:notes:frames:49-08|[49-08]]]****Adem**’le Havva’nın işlediği günah onların bütün soyunu etkiledi.
+  * **[[:tr:obs:notes:frames:50-16|[50-16]]]****Adem**’le Havva Tanrı’ya karşı itaatsiz olup dünyaya günah getirdikleri için Tanrı dünyayı lanetledi, yok etmeye karar verdi.
 ~~DISCUSSION~~{{tag>publish ktobs}}
