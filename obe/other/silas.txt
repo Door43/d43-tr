@@ -17,15 +17,11 @@ Silas, Yeruşalim’deki imanlıların bir önderiydi.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:47-01|[47-01]]]** Bir gün Pavlus dostu **Silas**’la beraber İsa’yla ilgili sevindirici haberi ilan etmek üzere Filipi kentine gitti.
-  ***[[:tr:obs:notes:frames:47-02|[47-02]]]** Sonra Lidya, Pavlus’la **Silas**’ı evinde kalmaya davet etti, onlar da kabul ettiler.
-  ***[[:tr:obs:notes:frames:47-03|[47-03]]]** Pavlus’la **Silas** sık sık dua yerlerinde insanlarla görüşüyorlardı.
-  ***[[:tr:obs:notes:frames:47-07|[47-07]]]** Bu yüzden köle kızın efendileri Pavlus’la **Silas**’ı yakalayıp Romalı yetkililere götürdüler. Onları dövüp hapse attılar.
-  ***[[:tr:obs:notes:frames:47-08|[47-08]]]** Pavlus’la **Silas**’ı zindanın en emniyetli hücresine attılar ve ayaklarını tomruğa vurdular.
-  ***[[:tr:obs:notes:frames:47-11|[47-11]]]** Zindancı titreyerek Pavlus’la **Silas**’a yaklaştı. “Kurtulmak için ne yapmalıyım?” diye sordu.
-  ***[[:tr:obs:notes:frames:47-13|[47-13]]]** Sabah olunca kentin yöneticileri Pavlus’la **Silas**’ı hapisten serbest bıraktılar ve Filipi’den ayrılmalarını rica ettiler. Pavlus’la **Silas** Lidya’yı ve başka dostlarını ziyaret ettikten sonra kenti terkettiler.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
-
+  * **[[:tr:obs:notes:frames:47-01|[47-01]]]** Bir gün Pavlus dostu **Silas**’la beraber İsa’yla ilgili sevindirici haberi ilan etmek üzere Filipi kentine gitti.
+  * **[[:tr:obs:notes:frames:47-02|[47-02]]]** Sonra Lidya, Pavlus’la **Silas**’ı evinde kalmaya davet etti, onlar da kabul ettiler.
+  * **[[:tr:obs:notes:frames:47-03|[47-03]]]** Pavlus’la **Silas**  sık sık dua yerlerinde insanlarla görüşüyorlardı.
+  * **[[:tr:obs:notes:frames:47-07|[47-07]]]** Bu yüzden köle kızın efendileri Pavlus’la **Silas**’ı yakalayıp Romalı yetkililere götürdüler. Onları dövüp hapse attılar.
+  * **[[:tr:obs:notes:frames:47-08|[47-08]]]** Pavlus’la **Silas**’ı zindanın en emniyetli hücresine attılar ve ayaklarını tomruğa vurdular.
+  * **[[:tr:obs:notes:frames:47-11|[47-11]]]** Zindancı titreyerek Pavlus’la **Silas**’a yaklaştı. “Kurtulmak için ne yapmalıyım?” diye sordu.
+  * **[[:tr:obs:notes:frames:47-13|[47-13]]]** Sabah olunca kentin yöneticileri Pavlus’la **Silas**’ı hapisten serbest bıraktılar ve Filipi’den ayrılmalarını rica ettiler. Pavlus’la **Silas**  Lidya’yı ve başka dostlarını ziyaret ettikten sonra kenti terkettiler.
+~~DISCUSSION~~{{tag>publish ktobs}}
