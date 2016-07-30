@@ -15,14 +15,10 @@ Başkaldırmak demek, birinin yetkisine tabi olmayı reddetmek, yani önderine i
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:14-14|[14-14]]]** İsrailliler çölde kırk yıl dolaştıktan sonra Tanrı’ya karşı **başkaldıranların** hepsi ölmüştü.
-  ***[[:tr:obs:notes:frames:18-07|[18-07]]]** İsrail halkının on oymağı Rehavam’a karşı **başkaldırdı**.
-  ***[[:tr:obs:notes:frames:18-09|[18-09]]]** Yarovam Tanrı’ya karşı **başkaldırarak** halkı günaha sürükledi.
-  ***[[:tr:obs:notes:frames:18-13|[18-13]]]** Yahuda halkının çoğu Tanrı’ya karşı **ayaklanıp** başka ilâhlara kurban verdiler.
-  ***[[:tr:obs:notes:frames:20-07|[20-07]]]** Fakat birkaç yıl sonra Yahuda’nın kralı Babil’e karşı **ayaklandı**.
-  ***[[:tr:obs:notes:frames:45-03|[45-03]]]** Sonra (İstefanos) şöyle dedi: “Siz **dik başlı**, taş kalpli insanlar! Tanrı’yı reddeden, peygamberlerini öldüren atalarınız gibi hep Kutsal Ruh’u reddedersiniz!”
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:14-14|[14-14]]]** İsrailliler çölde kırk yıl dolaştıktan sonra Tanrı’ya karşı **başkaldıranların**  hepsi ölmüştü.
+  * **[[:tr:obs:notes:frames:18-07|[18-07]]]** İsrail halkının on oymağı Rehavam’a karşı **başkaldırdı**.
+  * **[[:tr:obs:notes:frames:18-09|[18-09]]]** Yarovam Tanrı’ya karşı **başkaldırarak**  halkı günaha sürükledi.
+  * **[[:tr:obs:notes:frames:18-13|[18-13]]]** Yahuda halkının çoğu Tanrı’ya karşı **ayaklanıp**  başka ilâhlara kurban verdiler.
+  * **[[:tr:obs:notes:frames:20-07|[20-07]]]** Fakat birkaç yıl sonra Yahuda’nın kralı Babil’e karşı **ayaklandı**.
+  * **[[:tr:obs:notes:frames:45-03|[45-03]]]** Sonra (İstefanos) şöyle dedi: “Siz **dik başlı**, taş kalpli insanlar! Tanrı’yı reddeden, peygamberlerini öldüren atalarınız gibi hep Kutsal Ruh’u reddedersiniz!”
+~~DISCUSSION~~{{tag>publish ktobs}}
