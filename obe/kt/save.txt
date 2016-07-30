@@ -20,14 +20,13 @@ Birini ya da bir şeyi kurtarmak demek, o kişiyi ya da şeyi bir kötülükten 
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:09-08|[09-08]]]** Musa İsrailli soydaşını **kurtarmaya** çalıştı.
-  ***[[:tr:obs:notes:frames:11-02|[11-02]]]** Tanrı, O’na iman eden herkesin ilk doğanlarının **kurtulması** için bir yol sağladı.
-  ***[[:tr:obs:notes:frames:12-05|[12-05]]]** Musa İsraillilere, “Korkmayın! Tanrı bugün sizin için savaşacak ve sizi **kurtaracak**!” dedi.
-  ***[[:tr:obs:notes:frames:12-13|[12-13]]]** İsrailliler birçok ezgilerle yeni özgürlüklerini kutladılar ve kendilerini Mısır ordusundan **kurtaran** Tanrı’ya hamdettiler.
-  ***[[:tr:obs:notes:frames:16-17|[16-17]]]** Bu durum defalarca tekrarlandı: İsrailliler günah işler, Tanrı onları cezalandırır, onlar tövbe eder, Tanrı onları **kurtaracak** bir kurtarıcı gönderir.
-  ***[[:tr:obs:notes:frames:44-08|[44-08]]]** “Siz İsa’yı çarmıha gerdiniz, fakat Tanrı O’nu diriltti! Siz O’nu reddettiniz, ancak İsa’nın kudretinden başka **kurtuluş** yolu yoktur!”
-  ***[[:tr:obs:notes:frames:47-11|[47-11]]]** Zindancı titreyerek Pavlus’la Silas’a yaklaştı. “**Kurtulmak** için ne yapmalıyım?” diye sordu. Pavlus, “Rab İsa’ya iman et, sen de ev halkın da **kurtulacaksınız**.” diye cevap verdi.
-  ***[[:tr:obs:notes:frames:49-12|[49-12]]]** İyi ameller seni **kurtaramaz**.
-  ***[[:tr:obs:notes:frames:49-13|[49-13]]]** Tanrı, İsa’ya iman eden, İsa’yı Efendisi olarak kabul eden herkesi **kurtaracak**. Ancak İsa’ya iman etmeyen kimseyi **kurtarmayacak**.
-
+  * **[[:tr:obs:notes:frames:09-08|[09-08]]]** Musa İsrailli soydaşını **kurtarmaya**  çalıştı.
+  * **[[:tr:obs:notes:frames:11-02|[11-02]]]** Tanrı, O’na iman eden herkesin ilk doğanlarının **kurtulması**  için bir yol sağladı.
+  * **[[:tr:obs:notes:frames:12-05|[12-05]]]** Musa İsraillilere, “Korkmayın! Tanrı bugün sizin için savaşacak ve sizi **kurtaracak**!” dedi.
+  * **[[:tr:obs:notes:frames:12-13|[12-13]]]** İsrailliler birçok ezgilerle yeni özgürlüklerini kutladılar ve kendilerini Mısır ordusundan **kurtaran**  Tanrı’ya hamdettiler.
+  * **[[:tr:obs:notes:frames:16-17|[16-17]]]** Bu durum defalarca tekrarlandı: İsrailliler günah işler, Tanrı onları cezalandırır, onlar tövbe eder, Tanrı onları **kurtaracak**  bir kurtarıcı gönderir.
+  * **[[:tr:obs:notes:frames:44-08|[44-08]]]** “Siz İsa’yı çarmıha gerdiniz, fakat Tanrı O’nu diriltti! Siz O’nu reddettiniz, ancak İsa’nın kudretinden başka **kurtuluş**  yolu yoktur!”
+  * **[[:tr:obs:notes:frames:47-11|[47-11]]]** Zindancı titreyerek Pavlus’la Silas’a yaklaştı. “**Kurtulmak**  için ne yapmalıyım?” diye sordu. Pavlus, “Rab İsa’ya iman et, sen de ev halkın da **kurtulacaksınız**.” diye cevap verdi.
+  * **[[:tr:obs:notes:frames:49-12|[49-12]]]** İyi ameller seni **kurtaramaz**.
+  * **[[:tr:obs:notes:frames:49-13|[49-13]]]** Tanrı, İsa’ya iman eden, İsa’yı Efendisi olarak kabul eden herkesi **kurtaracak**. Ancak İsa’ya iman etmeyen kimseyi **kurtarmayacak**.
 ~~DISCUSSION~~{{tag>publish knobs}}
