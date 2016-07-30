@@ -23,16 +23,12 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:05-07|[05-07]]]** İbrahim’le İshak kurban verilecek yere yürürken İshak, “Baba, kurban için odunumuz var, peki, **kurbanlık kuzu** nerede?” diye sordu.
-  ***[[:tr:obs:notes:frames:11-02|[11-02]]]** Tanrı, O’na iman eden herkesin ilk doğanlarının kurtulması için bir yol sağladı. Bunun için her ailenin kusursuz birer **kuzu** seçip boğazlaması gerekirdi.
-  ***[[:tr:obs:notes:frames:24-06|[24-06]]]** Ertesi gün İsa, vaftiz olmak için Yahya’nın yanına geldi. Yahya O’nu görünce, “İşte! Dünyanın günahını ortadan kaldıran **Tanrı Kuzusu**!” dedi.
-  ***[[:tr:obs:notes:frames:45-08|[45-08]]]** Okuduğu parça şuydu: “Kesime götürülen **koyun** gibi götürüldü, sessiz **kuzu** gibi tek kelime konuşmadı.”
-  ***[[:tr:obs:notes:frames:48-08|[48-08]]]** Tanrı, İbrahim’e oğlu İshak’ı kurban olarak sunmasını buyurduğunda oğlu İshak’ın yerine sunulacak bir **kuzu** sağladı. Hepimiz günahlarımız için ölümü hak ederiz! Fakat Tanrı İsa’yı yerimize ölen **kurbanlık kuzu** olarak sağladı.
-  ***[[:tr:obs:notes:frames:48-09|[48-09]]]** Tanrı Mısır’a son belayı gönderdiğinde her İsrailli aileye kusursuz birer **kuzu** kesmelerini ve kanını evlerinin kapıları etrafına sürmelerini buyurdu.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:05-07|[05-07]]]** İbrahim’le İshak kurban verilecek yere yürürken İshak, “Baba, kurban için odunumuz var, peki, **kurbanlık kuzu**  nerede?” diye sordu.
+  * **[[:tr:obs:notes:frames:11-02|[11-02]]]** Tanrı, O’na iman eden herkesin ilk doğanlarının kurtulması için bir yol sağladı. Bunun için her ailenin kusursuz birer **kuzu**  seçip boğazlaması gerekirdi.
+  * **[[:tr:obs:notes:frames:24-06|[24-06]]]** Ertesi gün İsa, vaftiz olmak için Yahya’nın yanına geldi. Yahya O’nu görünce, “İşte! Dünyanın günahını ortadan kaldıran **Tanrı Kuzusu**!” dedi.
+  * **[[:tr:obs:notes:frames:45-08|[45-08]]]** Okuduğu parça şuydu: “Kesime götürülen **koyun**  gibi götürüldü, sessiz **kuzu**  gibi tek kelime konuşmadı.”
+  * **[[:tr:obs:notes:frames:48-08|[48-08]]]** Tanrı, İbrahim’e oğlu İshak’ı kurban olarak sunmasını buyurduğunda oğlu İshak’ın yerine sunulacak bir **kuzu**  sağladı. Hepimiz günahlarımız için ölümü hak ederiz! Fakat Tanrı İsa’yı yerimize ölen **kurbanlık kuzu**  olarak sağladı.
+  * **[[:tr:obs:notes:frames:48-09|[48-09]]]** Tanrı Mısır’a son belayı gönderdiğinde her İsrailli aileye kusursuz birer **kuzu**  kesmelerini ve kanını evlerinin kapıları etrafına sürmelerini buyurdu.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
