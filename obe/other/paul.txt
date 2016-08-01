@@ -3,6 +3,7 @@
 ===== Gerçeklikler =====
 
 Pavlus, İsa’nın sevindirici haberi birçok başka halka duyurmak üzere gönderilen erken kilise önderiydi.
+
   * Pavlus, Roma’nın Tarsus kentinin doğumlusu ve dolayısıyla Roma vatandaşı olan bir Yahudiydi.
   * Pavlus, önce Yahudi ismi ile Saul olarak tanınmıştı.
   * Yahudi din alimi olan Saul, İsa’ya iman etmediği için Mesih’e iman eden Yahudileri tutukluyordu.
@@ -11,7 +12,7 @@ Pavlus, İsa’nın sevindirici haberi birçok başka halka duyurmak üzere gön
   * Sonra Tanrı Saul’u Roma’nın birçok kentinde yaşayan halklara İsa hakkında öğretmeye gönderdi. Daha sonra Saul, bir Romalı adı olan Pavlus adını kullanmaya başladı.
   * Pavlus ayrıca çeşitli kentlerdeki Mesih inanlılarını yüreklendirmek ve eğitmek amacıyla mektuplar yazdı. Mektuplarının bazısı Kutsal Kitap’ta yer almaktadır.
 
-(See also: [[tr:obe:other:rome]], [[tr:obe:kt:christian]], [[tr:obe:kt:christian|Hristiyan]])
+(See also: [[:tr:obe:other:rome|Roma, Romalı]], [[:tr:obe:kt:christian|Hristiyan, Mesih inanlısı]], [[:tr:obe:kt:christian|Hristiyan]])
 
 ===== Bible References: =====
 
