@@ -17,13 +17,12 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:32-04|[32-04]]]** Adam **mezarlar** arasında yaşıyor, gece gündüz bağırıyordu.
-  ***[[:tr:obs:notes:frames:37-06|[37-06]]]** İsa onlara, “Lazar’ı nereye koydunuz?” diye sordu. Onlar, “**Mezara** koyduk. Gel gör.” diye cevap verdiler.
-  ***[[:tr:obs:notes:frames:37-07|[37-07]]]** **Mezar**, ağzı büyük bir taşla kapatılmış bir mağaraydı.
-  ***[[:tr:obs:notes:frames:40-09|[40-09]]]** Sonra Yahudi ileri gelenlerinden iki kişi -İsa’nın Mesih olduğuna iman eden Yusuf ve Nikodim- Pilatus’a müracaat ederek İsa’nın cesedini istediler. İsa’nın bedenini keten bezlere sardılar ve kayaya oyulmuş bir **mezara** yatırdılar. Sonra **mezarın** girişine kocaman bir taş yuvarlatarak girişi kapattılar.
-  ***[[:tr:obs:notes:frames:41-04|[41-04]]]** (Melek) **mezarın** girişini kapayan taşı yana yuvarlayıp üstünde oturdu. **Mezarı** koruyan askerler korkuya düştüler ve ölü gibi yere yığıldılar.
-  ***[[:tr:obs:notes:frames:41-05|[41-05]]]** Kadınlar **mezara** varınca melek onlara, “Korkmayın! İsa burada değil. Önceden dediği gibi, ölümden dirildi! **Mezarın** içine bakın, görün.” dedi. Kadınlar **mezarın** içine baktılar, İsa’nın yattığı yeri gördüler. Orada cesedi yoktu!
-
+  * **[[:tr:obs:notes:frames:32-04|[32-04]]]** Adam **mezarlar**  arasında yaşıyor, gece gündüz bağırıyordu.
+  * **[[:tr:obs:notes:frames:37-06|[37-06]]]** İsa onlara, “Lazar’ı nereye koydunuz?” diye sordu. Onlar, “**Mezara**  koyduk. Gel gör.” diye cevap verdiler.
+  * **[[:tr:obs:notes:frames:37-07|[37-07]]]****Mezar**, ağzı büyük bir taşla kapatılmış bir mağaraydı.
+  * **[[:tr:obs:notes:frames:40-09|[40-09]]]** Sonra Yahudi ileri gelenlerinden iki kişi -İsa’nın Mesih olduğuna iman eden Yusuf ve Nikodim- Pilatus’a müracaat ederek İsa’nın cesedini istediler. İsa’nın bedenini keten bezlere sardılar ve kayaya oyulmuş bir **mezara**  yatırdılar. Sonra **mezarın**  girişine kocaman bir taş yuvarlatarak girişi kapattılar.
+  * **[[:tr:obs:notes:frames:41-04|[41-04]]]** (Melek) **mezarın**  girişini kapayan taşı yana yuvarlayıp üstünde oturdu. **Mezarı**  koruyan askerler korkuya düştüler ve ölü gibi yere yığıldılar.
+  * **[[:tr:obs:notes:frames:41-05|[41-05]]]** Kadınlar **mezara**  varınca melek onlara, “Korkmayın! İsa burada değil. Önceden dediği gibi, ölümden dirildi! **Mezarın**  içine bakın, görün.” dedi. Kadınlar **mezarın**  içine baktılar, İsa’nın yattığı yeri gördüler. Orada cesedi yoktu!
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
