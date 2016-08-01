@@ -3,11 +3,12 @@
 ===== Tanım =====
 
 Kral bağımsız bir kentin, devletin ya da ülkenin yöneticisi ya da hükümdarıdır.
+
   * Bazen biri, halkın isteği ile kral olur.
   * Kral öldükten sonra onun yerine çoğu zaman büyük oğlu kral olur.
   * Bazen biri, kralın yerine kendisi kral olmak için kralı öldürür.
 
-(See also: [[tr:obe:other:kingdom]])
+(See also: [[:tr:obe:other:kingdom|krallık]])
 
 ===== Bible References: =====
 
