@@ -17,16 +17,12 @@ Kral bağımsız bir kentin, devletin ya da ülkenin yöneticisi ya da hükümda
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:08-06|[08-06]]]** Bir gece firavun -Mısırlılar krallarına firavun derlerdi- kendini son derece endişelendiren iki rüya görmüştü.
-  ***[[:tr:obs:notes:frames:16-01|[16-01]]]** İsraillilerin **kralı** yoktu ve herkes dilediğini yapardı.
-  ***[[:tr:obs:notes:frames:16-18|[16-18]]]** Sonunda halk Tanrı’dan, diğer milletlerin hepsinde olduğu gibi onlara da bir **kral** vermesini istediler.
-  ***[[:tr:obs:notes:frames:17-05|[17-05]]]** Eninde sonunda Saul savaşta öldü ve Davut İsrail’in **kralı** oldu. Davut iyi bir **kraldı**, halk onu seviyordu.
-  ***[[:tr:obs:notes:frames:21-06|[21-06]]]** Tanrı’nın peygamberleri ayrıca Mesih’in bir peygamber, kâhin ve **kral** olacağını bildirdiler.
-  ***[[:tr:obs:notes:frames:48-14|[48-14]]]** Davut İsrail’in **kralıydı**, ama İsa bütün evrenin **kralıdır**!
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:08-06|[08-06]]]** Bir gece firavun -Mısırlılar krallarına firavun derlerdi- kendini son derece endişelendiren iki rüya görmüştü.
+  * **[[:tr:obs:notes:frames:16-01|[16-01]]]** İsraillilerin **kralı**  yoktu ve herkes dilediğini yapardı.
+  * **[[:tr:obs:notes:frames:16-18|[16-18]]]** Sonunda halk Tanrı’dan, diğer milletlerin hepsinde olduğu gibi onlara da bir **kral**  vermesini istediler.
+  * **[[:tr:obs:notes:frames:17-05|[17-05]]]** Eninde sonunda Saul savaşta öldü ve Davut İsrail’in **kralı**  oldu. Davut iyi bir **kraldı**, halk onu seviyordu.
+  * **[[:tr:obs:notes:frames:21-06|[21-06]]]** Tanrı’nın peygamberleri ayrıca Mesih’in bir peygamber, kâhin ve **kral**  olacağını bildirdiler.
+  * **[[:tr:obs:notes:frames:48-14|[48-14]]]** Davut İsrail’in **kralıydı**, ama İsa bütün evrenin **kralıdır**!
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
