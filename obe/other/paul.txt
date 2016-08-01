@@ -20,18 +20,14 @@ Pavlus, İsa’nın sevindirici haberi birçok başka halka duyurmak üzere gön
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:45-06|[45-06]]]** **Saul** adında genç bir adam İstefanos’u öldüren insanlarla birlikteydi, onu taşa tutarken elbiselerini bekledi.
-  ***[[:tr:obs:notes:frames:46-01|[46-01]]]** **Saul**, İstefanos’u öldürenlerin elbiselerini bekleyen genç adamdı. İsa’ya iman etmiyordu, bu sebeple imanlılara zulmediyordu.
-  ***[[:tr:obs:notes:frames:46-02|[46-02]]]** **Saul** Şam yolundayken gökten gelen parlak ışık çevresini aydınlattı. **Saul** yere düştü ve kendisine, “**Saul**, **Saul**, neden bana zulmediyorsun?” diyen bir ses duydu.
-  ***[[:tr:obs:notes:frames:46-05|[46-05]]]** Bunun üzerine Hananya **Saul**’a gitti, üstüne ellerini koydu ve dedi: “Buraya gelirken sana görünen İsa, gözlerinin yine görmesi ve Kutsal Ruh’la dolman için beni gönderdi.” Birdenbire **Saul** yeniden görmeye başladı ve Hananya onu vaftiz etti.
-  ***[[:tr:obs:notes:frames:46-06|[46-06]]]** Bundan hemen sonra **Saul** Şam’daki Yahudilere, “İsa Tanrı’nın Oğlu’dur!” diye vazetmeye başladı.
-  ***[[:tr:obs:notes:frames:46-09|[46-09]]]** Barnaba’yla **Saul** bu yeni imanlılara İsa’yla ilgili daha çok şeyler öğretmek ve kiliseyi güçlendirmek amacıyla oraya (Antakya’ya) gittiler.
-  ***[[:tr:obs:notes:frames:47-01|[47-01]]]** **Saul** Roma İmparatorluğu’nda yolculuk ederken “**Pavlus**” adıyla çağrılmaya başladı.
-  ***[[:tr:obs:notes:frames:47-14|[47-14]]]** **Pavlus**’la diğer kilise önderleri birçok kente giderek insanlara İsa’yla ilgili sevindirici haberi vazettiler ve öğrettiler.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:45-06|[45-06]]]****Saul**  adında genç bir adam İstefanos’u öldüren insanlarla birlikteydi, onu taşa tutarken elbiselerini bekledi.
+  * **[[:tr:obs:notes:frames:46-01|[46-01]]]****Saul**, İstefanos’u öldürenlerin elbiselerini bekleyen genç adamdı. İsa’ya iman etmiyordu, bu sebeple imanlılara zulmediyordu.
+  * **[[:tr:obs:notes:frames:46-02|[46-02]]]****Saul**  Şam yolundayken gökten gelen parlak ışık çevresini aydınlattı. **Saul**  yere düştü ve kendisine, “**Saul**, **Saul**, neden bana zulmediyorsun?” diyen bir ses duydu.
+  * **[[:tr:obs:notes:frames:46-05|[46-05]]]** Bunun üzerine Hananya **Saul**’a gitti, üstüne ellerini koydu ve dedi: “Buraya gelirken sana görünen İsa, gözlerinin yine görmesi ve Kutsal Ruh’la dolman için beni gönderdi.” Birdenbire **Saul**  yeniden görmeye başladı ve Hananya onu vaftiz etti.
+  * **[[:tr:obs:notes:frames:46-06|[46-06]]]** Bundan hemen sonra **Saul**  Şam’daki Yahudilere, “İsa Tanrı’nın Oğlu’dur!” diye vaazetmeye başladı.
+  * **[[:tr:obs:notes:frames:46-09|[46-09]]]** Barnaba’yla **Saul**  bu yeni imanlılara İsa’yla ilgili daha çok şeyler öğretmek ve kiliseyi güçlendirmek amacıyla oraya (Antakya’ya) gittiler.
+  * **[[:tr:obs:notes:frames:47-01|[47-01]]]****Saul**  Roma İmparatorluğu’nda yolculuk ederken “**Pavlus**” adıyla çağrılmaya başladı.
+  * **[[:tr:obs:notes:frames:47-14|[47-14]]]****Pavlus**’la diğer kilise önderleri birçok kente giderek insanlara İsa’yla ilgili sevindirici haberi vaaz ettiler ve öğrettiler.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
