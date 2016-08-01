@@ -17,19 +17,12 @@ Meryem, İsa’nın annesi ve Yusuf’un karısıydı.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:22-04|[22-04]]]** Elizabet’in hamileliğinin altıncı ayında melek ansızın Elizabet’in akrabası **Meryem**’e göründü. **Meryem** bakireydi ve Yusuf adındaki adamla nişanlanmıştı. Melek ona şöyle dedi: “Sen hamile kalıp bir oğul doğuracaksın. Ona İsa adını vereceksin. O, yüceler yücesi Tanrı’nın Oğlu olacak ve ebedî hüküm sürecek.”
-  ***[[:tr:obs:notes:frames:22-05|[22-05]]]** Melek ona, “Kutsal Ruh senin üzerine gelecek ve Tanrı’nın gücü sana gölge salacak. Bunun için senin çocuğun kutsal, Tanrı’nın Oğlu olacak.” dedi. **Meryem** meleğin sözüne inandı, dediğini kabul etti.
-  ***[[:tr:obs:notes:frames:22-06|[22-06]]]** Meleğin **Meryem**’le konuşmasından kısa bir süre sonra **Meryem** Elizabet’le görüşmeye gitti. Elizabet **Meryem**’in selamını duyunca rahmindeki çocuk hopladı.
-  ***[[:tr:obs:notes:frames:23-02|[23-02]]]** Melek dedi: “Yusuf, **Meryem**’i karın olarak kabul etmekten korkma. Rahmindeki çocuk Kutsal Ruh’tandır.”
-  ***[[:tr:obs:notes:frames:23-04|[23-04]]]** Nasıra kentinde oturan Yusuf’la **Meryem**, babaları Davut’un doğduğu kent Beytlehem’e uzun yol gitmeye mecbur oldular.
-  ***[[:tr:obs:notes:frames:49-01|[49-01]]]** Melek, **Meryem** adındaki bakire bir kıza Tanrı’nın Oğlu’nu doğuracağını söyledi. Böylece **Meryem** hâlâ bakireyken bir oğul doğurdu ve adını İsa koydu.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:22-04|[22-04]]]** Elizabet’in hamileliğinin altıncı ayında melek ansızın Elizabet’in akrabası **Meryem**’e göründü. **Meryem**  bakireydi ve Yusuf adındaki adamla nişanlanmıştı. Melek ona şöyle dedi: “Sen hamile kalıp bir oğul doğuracaksın. Ona İsa adını vereceksin. O, yüceler yücesi Tanrı’nın Oğlu olacak ve ebedî hüküm sürecek.”
+  * **[[:tr:obs:notes:frames:22-05|[22-05]]]** Melek ona, “Kutsal Ruh senin üzerine gelecek ve Tanrı’nın gücü sana gölge salacak. Bunun için senin çocuğun kutsal, Tanrı’nın Oğlu olacak.” dedi. **Meryem**  meleğin sözüne inandı, dediğini kabul etti.
+  * **[[:tr:obs:notes:frames:22-06|[22-06]]]** Meleğin **Meryem**’le konuşmasından kısa bir süre sonra **Meryem**  Elizabet’le görüşmeye gitti. Elizabet **Meryem**’in selamını duyunca rahmindeki çocuk hopladı.
+  * **[[:tr:obs:notes:frames:23-02|[23-02]]]** Melek dedi: “Yusuf, **Meryem**’i karın olarak kabul etmekten korkma. Rahmindeki çocuk Kutsal Ruh’tandır.”
+  * **[[:tr:obs:notes:frames:23-04|[23-04]]]** Nasıra kentinde oturan Yusuf’la **Meryem**, babaları Davut’un doğduğu kent Beytlehem’e uzun yol gitmeye mecbur oldular.
+  * **[[:tr:obs:notes:frames:49-01|[49-01]]]** Melek, **Meryem**  adındaki bakire bir kıza Tanrı’nın Oğlu’nu doğuracağını söyledi. Böylece **Meryem**  hâlâ bakireyken bir oğul doğurdu ve adını İsa koydu.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
-
-\\
-
