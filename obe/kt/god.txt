@@ -29,17 +29,16 @@ Kutsal Kitap’ta «Tanrı» terimi, evreni yoktan yaratan «Yahve» adlı ezel�
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:01-01|[01-01]]]** **Tanrı** evreni ve içindeki her şeyi altı günde yarattı.
-  ***[[:tr:obs:notes:frames:01-15|[01-15]]]** **Tanrı** adamla kadını kendi suretinde yarattı.
-  ***[[:tr:obs:notes:frames:05-03|[05-03]]]** “Ben Her Şeye Kadir **Tanrı**’yım, ahdimi seninle yapacağım.”
-  ***[[:tr:obs:notes:frames:09-14|[09-14]]]** **Tanrı** şöyle cevap verdi: “BEN OLANIM. Onlara de ki, Beni BEN OLANIM gönderdi. Bir de şöyle de: ‘Ben babalarınız İbrahim, İshak ve Yakup’un **Tanrısı** Yahve’yim. Bu, sonsuzluğa kadar adım olacak.’”
-  ***[[:tr:obs:notes:frames:10-02|[10-02]]]** Bu belalar vasıtasıyla **Tanrı** firavundan ve bütün Mısır ilâhlarından güçlü olduğunu gösterdi.
-  ***[[:tr:obs:notes:frames:16-01|[16-01]]]** İsrailliler gerçek **Tanrı** Yahve yerine Kenan ilâhlarına taptılar.
-  ***[[:tr:obs:notes:frames:22-07|[22-07]]]** Sen de, oğlum, insanlara günahlarının affedilmesi için yol gösterecek olan yüceler yücesi **Tanrı**’nın peygamberi diye adlandırılacaksın!
-  ***[[:tr:obs:notes:frames:24-09|[24-09]]]** Tek bir **Tanrı** vardır. Ancak Yahya İsa’yı vaftiz ettiğinde Baba **Tanrı**’nın konuşmasını duydu, Oğul **Tanrı** olan İsa’yı gördü ve Kutsal Ruh’u da gördü.
-  ***[[:tr:obs:notes:frames:25-07|[25-07]]]** ‘Yalnız **Tanrın** Rab’be tapacaksın, yalnız O’na kulluk edeceksin!’
-  ***[[:tr:obs:notes:frames:28-01|[28-01]]]** “İyi olan yalnız **Tanrı**’dır.”
-  ***[[:tr:obs:notes:frames:49-09|[49-09]]]** Fakat **Tanrı** dünyadaki her insanı o kadar sevdi ki, biricik Oğlu’nu verdi. Öyle ki, İsa’ya iman eden herkes günahlarının cezasını çekmesin, **Tanrı**’yla ebediyen yaşasın.
-  ***[[:tr:obs:notes:frames:50-16|[50-16]]]** Fakat bir gün **Tanrı** kâmil olan yeni göğü ve yeni yeri yaratacaktır.
-
+  * **[[:tr:obs:notes:frames:01-01|[01-01]]]****Tanrı**  evreni ve içindeki her şeyi altı günde yarattı.
+  * **[[:tr:obs:notes:frames:01-15|[01-15]]]****Tanrı**  adamla kadını kendi suretinde yarattı.
+  * **[[:tr:obs:notes:frames:05-03|[05-03]]]** “Ben Her Şeye Kadir **Tanrı**’yım, ahdimi seninle yapacağım.”
+  * **[[:tr:obs:notes:frames:09-14|[09-14]]]****Tanrı**  şöyle cevap verdi: “BEN OLANIM. Onlara de ki, Beni BEN OLANIM gönderdi. Bir de şöyle de: ‘Ben babalarınız İbrahim, İshak ve Yakup’un **Tanrısı**  Yahve’yim. Bu, sonsuzluğa kadar adım olacak.’”
+  * **[[:tr:obs:notes:frames:10-02|[10-02]]]** Bu belalar vasıtasıyla **Tanrı**  firavundan ve bütün Mısır ilâhlarından güçlü olduğunu gösterdi.
+  * **[[:tr:obs:notes:frames:16-01|[16-01]]]** İsrailliler gerçek **Tanrı**  Yahve yerine Kenan ilâhlarına taptılar.
+  * **[[:tr:obs:notes:frames:22-07|[22-07]]]** Sen de, oğlum, insanlara günahlarının affedilmesi için yol gösterecek olan yüceler yücesi **Tanrı**’nın peygamberi diye adlandırılacaksın!
+  * **[[:tr:obs:notes:frames:24-09|[24-09]]]** Tek bir **Tanrı**  vardır. Ancak Yahya İsa’yı vaftiz ettiğinde Baba **Tanrı**’nın konuşmasını duydu, Oğul **Tanrı**  olan İsa’yı gördü ve Kutsal Ruh’u da gördü.
+  * **[[:tr:obs:notes:frames:25-07|[25-07]]]** ‘Yalnız **Tanrın**  Rab’be tapacaksın, yalnız O’na kulluk edeceksin!’
+  * **[[:tr:obs:notes:frames:28-01|[28-01]]]** “İyi olan yalnız **Tanrı**’dır.”
+  * **[[:tr:obs:notes:frames:49-09|[49-09]]]** Fakat **Tanrı**  dünyadaki her insanı o kadar sevdi ki, biricik Oğlu’nu verdi. Öyle ki, İsa’ya iman eden herkes günahlarının cezasını çekmesin, **Tanrı**’yla ebediyen yaşasın.
+  * **[[:tr:obs:notes:frames:50-16|[50-16]]]** Fakat bir gün **Tanrı**  kâmil olan yeni göğü ve yeni yeri yaratacaktır.
 ~~DISCUSSION~~{{tag>publish ktobs}}
