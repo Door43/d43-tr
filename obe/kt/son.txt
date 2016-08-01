@@ -28,15 +28,14 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:04-08|[04-08]]]** Tanrı Avram’a tekrar seslenerek Avram’ın bir **oğlu** olacağını ve soyunun gökteki yıldızlar kadar çok olacağını vadetti.
-  ***[[:tr:obs:notes:frames:04-09|[04-09]]]** Tanrı Avram’a, “Senin öz **oğlun** olacak.” dedi.
-  ***[[:tr:obs:notes:frames:05-05|[05-05]]]** Yaklaşık olarak bir sene sonra İbrahim 100 ve Sara 90 yaşlarında oldukları zaman Sara İbrahim’e bir **oğul** doğurdu.
-  ***[[:tr:obs:notes:frames:05-08|[05-08]]]** Kurban verilecek yere varınca İbrahim, **oğlu** İshak’ı bağlayıp sunağa yatırdı. **Oğlunu** tam kesecekken Tanrı, “Dur!” dedi. “Çocuğa dokunma! Şimdi benden korktuğunu anladım, çünkü biricik **oğlunu** benden esirgemedin.”
-  ***[[:tr:obs:notes:frames:09-07|[09-07]]]** Bebeği görünce sevdi, öz **oğlu** olarak aldı.
-  ***[[:tr:obs:notes:frames:11-06|[11-06]]]** Tanrı Mısırlıların ilk doğan **erkek çocuklarının** hepsini öldürdü.
-  ***[[:tr:obs:notes:frames:18-01|[18-01]]]** Aradan uzun yıllar geçti. Davut öldü ve **oğlu** Süleyman İsrail’in kralı oldu.
-  ***[[:tr:obs:notes:frames:26-04|[26-04]]]** Herkes şaşırarak, “Yusuf’un **oğlu** değil mi bu?” dedi.
-
+  * **[[:tr:obs:notes:frames:04-08|[04-08]]]** Tanrı Avram’a tekrar seslenerek Avram’ın bir **oğlu**  olacağını ve soyunun gökteki yıldızlar kadar çok olacağını vadetti.
+  * **[[:tr:obs:notes:frames:04-09|[04-09]]]** Tanrı Avram’a, “Senin öz **oğlun**  olacak.” dedi.
+  * **[[:tr:obs:notes:frames:05-05|[05-05]]]** Yaklaşık olarak bir sene sonra İbrahim 100 ve Sara 90 yaşlarında oldukları zaman Sara İbrahim’e bir **oğul**  doğurdu.
+  * **[[:tr:obs:notes:frames:05-08|[05-08]]]** Kurban verilecek yere varınca İbrahim, **oğlu**  İshak’ı bağlayıp sunağa yatırdı. **Oğlunu**  tam kesecekken Tanrı, “Dur!” dedi. “Çocuğa dokunma! Şimdi benden korktuğunu anladım, çünkü biricik **oğlunu**  benden esirgemedin.”
+  * **[[:tr:obs:notes:frames:09-07|[09-07]]]** Bebeği görünce sevdi, öz **oğlu**  olarak aldı.
+  * **[[:tr:obs:notes:frames:11-06|[11-06]]]** Tanrı Mısırlıların ilk doğan **erkek çocuklarının**  hepsini öldürdü.
+  * **[[:tr:obs:notes:frames:18-01|[18-01]]]** Aradan uzun yıllar geçti. Davut öldü ve **oğlu**  Süleyman İsrail’in kralı oldu.
+  * **[[:tr:obs:notes:frames:26-04|[26-04]]]** Herkes şaşırarak, “Yusuf’un **oğlu**  değil mi bu?” dedi.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
