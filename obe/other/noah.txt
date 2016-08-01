@@ -18,6 +18,6 @@ Nuh 4.000’den fazla yıl önce yaşayan bir adamdır; o dönemde Tanrı dünya
 ===== Examples from the Bible stories: =====
 
   * **[[:tr:obs:notes:frames:03-02|[03-02]]]** Ancak Nuh Tanrı’nın gözünde lütuf buldu.
-  * **[[:tr:obs:notes:frames:03-04|[03-04]]]****Nuh**  Tanrı’nın dediğine itaat etti. Üç oğluyla beraber tıpkı Tanrı’nın buyurduğu gibi gemiyi yaptı.
+  * **[[:tr:obs:notes:frames:03-04|[03-04]]] ****Nuh**  Tanrı’nın dediğine itaat etti. Üç oğluyla beraber tıpkı Tanrı’nın buyurduğu gibi gemiyi yaptı.
   * **[[:tr:obs:notes:frames:03-13|[03-13]]]** Üstünden iki ay geçmişti, Tanrı **Nuh**’a, “Sen, ailen ve bütün hayvanlar artık gemiden çıkabilirsiniz. Evlatlarınız, torunlarınız olsun! Yeryüzünü doldurun!” dedi. Bunun üzerine **Nuh**’la ailesi gemiden çıktılar.
 ~~DISCUSSION~~{{tag>publish ktobs}}
