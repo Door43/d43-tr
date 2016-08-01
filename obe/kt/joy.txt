@@ -24,10 +24,9 @@ Sevinç, Tanrı’dan gelen haz ve derin tatmin duygusudur. Buna bağlı olan «
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:33-07|[33-07]]]** “Kayalık yer, Tanrı’nın sözünü duyup **sevinçle** kabul eden kişidir.”
-  ***[[:tr:obs:notes:frames:34-04|[34-04]]]** “Bundan başka, Tanrı’nın Hükümranlığı bir adamın tarlada gömdüğü defineye benzer. Başka birisi o defineyi bulup tekrar gömer. Çok **sevinir**, hatta gidip sahip olduğu her şeyi satar ve elde ettiği parayla o tarlayı satın alır.”
-  ***[[:tr:obs:notes:frames:41-07|[41-07]]]** Kadınlar hem korktular hem de çok **sevindiler**. Bu sevindirici haberi havarilere anlatmak için koştular.
-
+  * **[[:tr:obs:notes:frames:33-07|[33-07]]]** “Kayalık yer, Tanrı’nın sözünü duyup **sevinçle**  kabul eden kişidir.”
+  * **[[:tr:obs:notes:frames:34-04|[34-04]]]** “Bundan başka, Tanrı’nın Hükümranlığı bir adamın tarlada gömdüğü defineye benzer. Başka birisi o defineyi bulup tekrar gömer. Çok **sevinir**, hatta gidip sahip olduğu her şeyi satar ve elde ettiği parayla o tarlayı satın alır.”
+  * **[[:tr:obs:notes:frames:41-07|[41-07]]]** Kadınlar hem korktular hem de çok **sevindiler**. Bu sevindirici haberi havarilere anlatmak için koştular.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
