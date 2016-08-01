@@ -3,12 +3,13 @@
 ===== Gerçeklikler =====
 
 Nuh 4.000’den fazla yıl önce yaşayan bir adamdır; o dönemde Tanrı dünyadaki kötü insanların hepsini yok etmek için yeryüzüne büyük tufan gönderdi. Tanrı Nuh’a, tufan suları yeryüzünü örterken kendisiyle ailesinin sağ kalabileceği kocaman bir gemi kurmasını söyledi.
+
   * Nuh, Tanrı’ya her şeyde itaat eden doğru bir adamdı.
   * Tanrı Nuh’a o kocaman gemiyi nasıl kuracağını anlattı ve Nuh tıpkı Tanrı’nın söylediği gibi yaptı.
   * Geminin içinde Nuh’la ailesi güvendeydiler ve daha sonra çocukları ve torunları yine yeryüzünü insanlarla doldurdular.
   * Tufandan sonra doğan herkes Nuh’un ailesinin soyudur.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
 ===== Bible References: =====
 
