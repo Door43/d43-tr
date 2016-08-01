@@ -16,13 +16,12 @@ Yahudiler, İbrahim’in soyundan torunu Yakup hattıyla gelen halktır.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:20-11|[20-11]]]** İsraillilerin çoğunun bütün ömrü Babil’de geçmişti, o zaman onlara **Yahudi** denmeye başlanmıştı. Yahuda ülkesini hatırlayan yaşlı Yahudilerin sayısı azdı.
-  ***[[:tr:obs:notes:frames:20-12|[20-12]]]** Böylece yetmiş yıllık sürgünden sonra küçük grup **Yahudi** Yahuda’daki Yeruşalim kentine döndü.
-  ***[[:tr:obs:notes:frames:37-10|[37-10]]]** Birçok **Yahudi** bu mucize sayesinde İsa’ya iman etti.
-  ***[[:tr:obs:notes:frames:37-11|[37-11]]]** Ancak İsa’yı kıskanan **Yahudi** din alimleri, İsa’yı ve Lazar’ı öldürmek için düzen kurmak amacıyla bir araya geldiler.
-  ***[[:tr:obs:notes:frames:40-02|[40-02]]]** Pilatus, İsa’nın gerildiği çarmıhın üzerine “**Yahudilerin** Kralı” yazılı bir yaftayı astırdı.
-  ***[[:tr:obs:notes:frames:46-06|[46-06]]]** Bundan hemen sonra Saul Şam’daki **Yahudilere**, “İsa Tanrı’nın Oğlu’dur!” diye vazetmeye başladı.
-
+  * **[[:tr:obs:notes:frames:20-11|[20-11]]]** İsraillilerin çoğunun bütün ömrü Babil’de geçmişti, o zaman onlara **Yahudi**  denmeye başlanmıştı. Yahuda ülkesini hatırlayan yaşlı Yahudilerin sayısı azdı.
+  * **[[:tr:obs:notes:frames:20-12|[20-12]]]** Böylece yetmiş yıllık sürgünden sonra küçük grup **Yahudi**  Yahuda’daki Yeruşalim kentine döndü.
+  * **[[:tr:obs:notes:frames:37-10|[37-10]]]** Birçok **Yahudi**  bu mucize sayesinde İsa’ya iman etti.
+  * **[[:tr:obs:notes:frames:37-11|[37-11]]]** Ancak İsa’yı kıskanan **Yahudi**  din alimleri, İsa’yı ve Lazar’ı öldürmek için düzen kurmak amacıyla bir araya geldiler.
+  * **[[:tr:obs:notes:frames:40-02|[40-02]]]** Pilatus, İsa’nın gerildiği çarmıhın üzerine “**Yahudilerin**  Kralı” yazılı bir yaftayı astırdı.
+  * **[[:tr:obs:notes:frames:46-06|[46-06]]]** Bundan hemen sonra Saul Şam’daki **Yahudilere**, “İsa Tanrı’nın Oğlu’dur!” diye vaaz etmeye başladı.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
