@@ -15,16 +15,12 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:10-04|[10-04]]]** Tanrı tüm Mısır’ın üzerine kurbağalar gönderdi. Firavun kurbağaları yok etmesi için Musa’ya **yalvardı**.
-  ***[[:tr:obs:notes:frames:29-08|[29-08]]]** “O zaman kral o hizmetkârı çağırıp dedi: ‘Sen ne zalim adammışsın! Bana **yalvardın**, senin borcunu bağışladım.”
-  ***[[:tr:obs:notes:frames:32-07|[32-07]]]** Cinler İsa’ya, “**Yalvarıyoruz**, bizi bu bölgeden uzaklaştırma!” dediler. Orada bir yamaçta otlayan bir domuz sürüsü vardı. Cinler İsa’ya, “Bizi bu domuzların içine gönder!” diye **yalvardılar**. İsa, “Gidin.” dedi.
-  ***[[:tr:obs:notes:frames:32-10|[32-10]]]** İsa tekneye binip yola çıkacakken eskiden cine tutulan adam O’nunla gidebilmek için O’na **yalvardı**.
-  ***[[:tr:obs:notes:frames:35-11|[35-11]]]** “Babası dışarı çıktı, kutlamalarına katılması için ona **yalvardı**, ama o razı olmadı.”
-  ***[[:tr:obs:notes:frames:44-01|[44-01]]]** Bir gün Petrus’la Yuhanna Tapınak’a gidiyorlardı. Tapınak’ın avlu kapısına gelince para **dilenen** sakat bir adam gördüler.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:10-04|[10-04]]]** Tanrı tüm Mısır’ın üzerine kurbağalar gönderdi. Firavun kurbağaları yok etmesi için Musa’ya **yalvardı**.
+  * **[[:tr:obs:notes:frames:29-08|[29-08]]]** “O zaman kral o hizmetkârı çağırıp dedi: ‘Sen ne zalim adammışsın! Bana **yalvardın**, senin borcunu bağışladım.”
+  * **[[:tr:obs:notes:frames:32-07|[32-07]]]** Cinler İsa’ya, “**Yalvarıyoruz**, bizi bu bölgeden uzaklaştırma!” dediler. Orada bir yamaçta otlayan bir domuz sürüsü vardı. Cinler İsa’ya, “Bizi bu domuzların içine gönder!” diye **yalvardılar**. İsa, “Gidin.” dedi.
+  * **[[:tr:obs:notes:frames:32-10|[32-10]]]** İsa tekneye binip yola çıkacakken eskiden cine tutulan adam O’nunla gidebilmek için O’na **yalvardı**.
+  * **[[:tr:obs:notes:frames:35-11|[35-11]]]** “Babası dışarı çıktı, kutlamalarına katılması için ona **yalvardı**, ama o razı olmadı.”
+  * **[[:tr:obs:notes:frames:44-01|[44-01]]]** Bir gün Petrus’la Yuhanna Tapınak’a gidiyorlardı. Tapınak’ın avlu kapısına gelince para **dilenen**  sakat bir adam gördüler.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
