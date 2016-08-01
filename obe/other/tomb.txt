@@ -2,12 +2,14 @@
 
 ===== Tanım =====
 
-Mezar, ölen insanların cesetlerinin konduğu yerdir.
+«Mezar» ve «kebir» terimleri, insanların ölen kişinin cesedini koydukları yeri ifade eder. «Defin yeri» de bunu ifade eden daha genel bir terimdir.
+
   * Yahudiler bazen mezar olarak doğal mağaraları kullanır, bazen tepe yamaçlarından mağara kazıp mezar yaparlardı.
   * Yeni Ahit döneminde genel olarak mezarı kapatmak amacıyla girişine büyük, ağır, yuvarlak bir taş konurdu.
-  * Bu terim ayrıca «mezar» olarak çevrilebilir. Fakat sizin mezar anlamında kullandığınız sözcük ile sadece cesedin yer altına konduğu bir çukur kastediliyorsa, mezarın «mağara» ya da «tepedeki çukur» olarak çevrilmesi daha iyi olur.
+  * Eğer mezar veya kebir anlamında kullanılan sözcük ile sadece cesedin yer altına konduğu bir çukur kastediliyorsa, bunun başka çeviri seçenekleri şunlar olabilir: «mağara» ya da «tepedeki çukur».
+  * «Mezar» sözcüğü çoğu zaman mecazen ölü olma durumuna veya ölmüş kişilerin ruhlarının bulunduğu yere ait olarak kullanılır.
 
-(See also: [[tr:obe:kt:death]], [[tr:obe:other:bury]])
+(See also: [[:tr:obe:kt:death|ölüm]], [[:tr:obe:other:bury|bury, buried]])
 
 ===== Bible References: =====
 
