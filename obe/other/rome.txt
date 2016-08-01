@@ -17,12 +17,8 @@ Halihazırda Roma İtalya devletinin başkentidir.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:23-04|[23-04]]]** Meryem’in doğurma vakti yaklaştığında **Roma** hükûmeti geçirdiği nüfus sayımıyla ilgili olarak herkesin babalarının kentine gitmesini emretti.
-  ***[[:tr:obs:notes:frames:32-06|[32-06]]]** O zaman İsa cine, “Adın ne?” diye sordu. Cin, “Adım Lejiyon’dur, çünkü biz çokluğuz” diye cevap verdi. (Lejiyon, **Roma** ordusunda birkaç bin askerden oluşan bir tümendi.)
-  ***[[:tr:obs:notes:frames:39-09|[39-09]]]** Ertesi gün sabahleyin erkenden Yahudi ileri gelenleri İsa’yı **Roma** valisi Pilatus’a götürdüler. Pilatus’un İsa’yı suçlu olarak ölüme mahkûm edeceğini ümit ediyorlardı.
-  ***[[:tr:obs:notes:frames:39-12|[39-12]]]** **Romalı** askerler İsa’yı kırbaçladılar, üzerine krallık cübbesi ve dikenli taç koydular. Sonra, “Bakın, Yahudilerin Kralı!” diyerek O’nunla alay ettiler.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
-
+  * **[[:tr:obs:notes:frames:23-04|[23-04]]]** Meryem’in doğurma vakti yaklaştığında **Roma**  hükûmeti geçirdiği nüfus sayımıyla ilgili olarak herkesin babalarının kentine gitmesini emretti.
+  * **[[:tr:obs:notes:frames:32-06|[32-06]]]** O zaman İsa cine, “Adın ne?” diye sordu. Cin, “Adım Lejiyon’dur, çünkü biz çokluğuz” diye cevap verdi. (Lejiyon, **Roma**  ordusunda birkaç bin askerden oluşan bir tümendi.)
+  * **[[:tr:obs:notes:frames:39-09|[39-09]]]** Ertesi gün sabahleyin erkenden Yahudi ileri gelenleri İsa’yı **Roma**  valisi Pilatus’a götürdüler. Pilatus’un İsa’yı suçlu olarak ölüme mahkûm edeceğini ümit ediyorlardı.
+  * **[[:tr:obs:notes:frames:39-12|[39-12]]]****Romalı**  askerler İsa’yı kırbaçladılar, üzerine krallık cübbesi ve dikenli taç koydular. Sonra, “Bakın, Yahudilerin Kralı!” diyerek O’nunla alay ettiler.
+~~DISCUSSION~~{{tag>publish ktobs}}
