@@ -17,17 +17,13 @@ Bu, ilk kadının adıydı. Adının anlamı «hayat» ya da «yaşam»dır.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:01-13|[01-13]]]** Tanrı, bir kaburga kemiğini alıp ondan bir kadın yarattı ve​ Adem’e getirdi.
-  ***[[:tr:obs:notes:frames:02-02|[02-02]]]** Bahçede hileli bir yılan vardı. Yılan kadına, “Tanrı gerçekten bahçedeki ağaçlardan meyve yememenizi buyurdu mu?” diye sordu.
-  ***[[:tr:obs:notes:frames:02-11|[02-11]]]** Adam karısına “hayat” anlamına gelen **Havva** adını verdi. Çünkü o, bütün insanların annesiydi.
-  ***[[:tr:obs:notes:frames:21-01|[21-01]]]** Tanrı, **Havva**’nın soyunun yılanın başını ezeceğini vadetti.
-  ***[[:tr:obs:notes:frames:48-02|[48-02]]]** Şeytan bahçede **Havva**’yı aldatmak için yılan vasıtasıyla konuştu.
-  ***[[:tr:obs:notes:frames:49-08|[49-08]]]** Adem’le **Havva**’nın işlediği günah onların bütün soyunu etkiledi.
-  ***[[:tr:obs:notes:frames:50-16|[50-16]]]** Adem’le **Havva** Tanrı’ya karşı itaatsiz olup dünyaya günah getirdikleri için Tanrı dünyayı lanetledi, yok etmeye karar verdi.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:01-13|[01-13]]]** Tanrı, bir kaburga kemiğini alıp ondan bir kadın yarattı ve​ Adem’e getirdi.
+  * **[[:tr:obs:notes:frames:02-02|[02-02]]]** Bahçede hileli bir yılan vardı. Yılan kadına, “Tanrı gerçekten bahçedeki ağaçlardan meyve yememenizi buyurdu mu?” diye sordu.
+  * **[[:tr:obs:notes:frames:02-11|[02-11]]]** Adam karısına “hayat” anlamına gelen **Havva**  adını verdi. Çünkü o, bütün insanların annesiydi.
+  * **[[:tr:obs:notes:frames:21-01|[21-01]]]** Tanrı, **Havva**’nın soyunun yılanın başını ezeceğini vadetti.
+  * **[[:tr:obs:notes:frames:48-02|[48-02]]]** Şeytan bahçede **Havva**’yı aldatmak için yılan vasıtasıyla konuştu.
+  * **[[:tr:obs:notes:frames:49-08|[49-08]]]** Adem’le **Havva**’nın işlediği günah onların bütün soyunu etkiledi.
+  * **[[:tr:obs:notes:frames:50-16|[50-16]]]** Adem’le **Havva**  Tanrı’ya karşı itaatsiz olup dünyaya günah getirdikleri için Tanrı dünyayı lanetledi, yok etmeye karar verdi.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
