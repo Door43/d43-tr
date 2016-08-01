@@ -28,14 +28,13 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:03-15|[03-15]]]** Tanrı şöyle dedi: “İnsanlar genç yaşlarından **günahlı** olsalar da, onların yüzünden toprağı asla lanetlemeyeceğim ve dünyayı tufanla yok etmeyeceğim.”
-  ***[[:tr:obs:notes:frames:13-12|[13-12]]]** Tanrı halkın bu **günahı** için çok öfkelendi, hatta halkı yok etmeyi düşündü.
-  ***[[:tr:obs:notes:frames:20-01|[20-01]]]** İsrail Krallığı ve Yahuda Krallığı Tanrı’ya karşı **günah** işlediler. Tanrı’nın onlarla Sina Dağı’nda yaptığı ahdi bozdular.
-  ***[[:tr:obs:notes:frames:21-13|[21-13]]]** Peygamberler Mesih’in kâmil ve günahsız olacağını, diğer insanların **günahının** cezasını çekerek öleceğini bildirdiler.
-  ***[[:tr:obs:notes:frames:35-01|[35-01]]]** Bir gün birçok vergici ve **günahkâr** kişi İsa’yı dinlemek için çevresinde toplanmıştı.
-  ***[[:tr:obs:notes:frames:38-05|[38-05]]]** Sonra İsa kâseyi alıp dedi: “Bundan için. Bu, **günahların** affedilmesi için akıtılan kanım, Yeni Ahit’i başlatan kandır.”
-  ***[[:tr:obs:notes:frames:43-11|[43-11]]]** Petrus onlara şöyle cevap verdi: “Her biriniz tövbe edip İsa Mesih’in adıyla vaftiz olmalı. O zaman Tanrı **günahlarınızı** affeder.”
-  ***[[:tr:obs:notes:frames:48-08|[48-08]]]** Hepimiz **günahlarımız** için ölümü hak ederiz!
-  ***[[:tr:obs:notes:frames:49-17|[49-17]]]** Mesih inanlısı olmana rağmen hâlâ **günahla** ayartılacaksın. Ancak Tanrı sadıktır. **Günahlarını** itiraf edersen seni affedeceğini ve **günaha** karşı mücadele etmek için sana güç vereceğini söylüyor.
-
+  * **[[:tr:obs:notes:frames:03-15|[03-15]]]** Tanrı şöyle dedi: “İnsanlar genç yaşlarından **günahlı**  olsalar da, onların yüzünden toprağı asla lanetlemeyeceğim ve dünyayı tufanla yok etmeyeceğim.”
+  * **[[:tr:obs:notes:frames:13-12|[13-12]]]** Tanrı halkın bu **günahı**  için çok öfkelendi, hatta halkı yok etmeyi düşündü.
+  * **[[:tr:obs:notes:frames:20-01|[20-01]]]** İsrail Krallığı ve Yahuda Krallığı Tanrı’ya karşı **günah**  işlediler. Tanrı’nın onlarla Sina Dağı’nda yaptığı ahdi bozdular.
+  * **[[:tr:obs:notes:frames:21-13|[21-13]]]** Peygamberler Mesih’in kâmil ve günahsız olacağını, diğer insanların **günahının**  cezasını çekerek öleceğini bildirdiler.
+  * **[[:tr:obs:notes:frames:35-01|[35-01]]]** Bir gün birçok vergici ve **günahkâr**  kişi İsa’yı dinlemek için çevresinde toplanmıştı.
+  * **[[:tr:obs:notes:frames:38-05|[38-05]]]** Sonra İsa kâseyi alıp dedi: “Bundan için. Bu, **günahların**  affedilmesi için akıtılan kanım, Yeni Ahit’i başlatan kandır.”
+  * **[[:tr:obs:notes:frames:43-11|[43-11]]]** Petrus onlara şöyle cevap verdi: “Her biriniz tövbe edip İsa Mesih’in adıyla vaftiz olmalı. O zaman Tanrı **günahlarınızı**  affeder.”
+  * **[[:tr:obs:notes:frames:48-08|[48-08]]]** Hepimiz **günahlarımız**  için ölümü hak ederiz!
+  * **[[:tr:obs:notes:frames:49-17|[49-17]]]** Mesih inanlısı olmana rağmen hâlâ **günahla**  ayartılacaksın. Ancak Tanrı sadıktır. **Günahlarını**  itiraf edersen seni affedeceğini ve **günaha**  karşı mücadele etmek için sana güç vereceğini söylüyor.
 {{tag>publish ktobs}}
