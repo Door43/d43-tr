@@ -18,13 +18,9 @@ Oruç, bir gün ya da daha uzun bir süre için tüm ya da bazı yiyecek ve içe
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:25-01|[25-01]]]** İsa’nın vaftizinden hemen sonra Kutsal Ruh O’nu çöle götürdü. İsa kırk gün kırk gece çölde kalarak **oruç** tuttu.
-  ***[[:tr:obs:notes:frames:34-08|[34-08]]]** “Meselâ, haftada iki gün **oruç** tutarım, elime geçen paranın ve her şeyin onda birini sana veririm.”
-  ***[[:tr:obs:notes:frames:46-10|[46-10]]]** Bir gün Antakya’daki imanlılar **oruç** tutup dua ederlerken Kutsal Ruh onlara, “Barnaba’yla Saul’u kendilerini çağırdığım işe ayırın.” diye buyurdu.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:25-01|[25-01]]]** İsa’nın vaftizinden hemen sonra Kutsal Ruh O’nu çöle götürdü. İsa kırk gün kırk gece çölde kalarak **oruç**  tuttu.
+  * **[[:tr:obs:notes:frames:34-08|[34-08]]]** “Meselâ, haftada iki gün **oruç**  tutarım, elime geçen paranın ve her şeyin onda birini sana veririm.”
+  * **[[:tr:obs:notes:frames:46-10|[46-10]]]** Bir gün Antakya’daki imanlılar **oruç**  tutup dua ederlerken Kutsal Ruh onlara, “Barnaba’yla Saul’u kendilerini çağırdığım işe ayırın.” diye buyurdu.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
