@@ -17,15 +17,11 @@ Esav, İshak ve Rebeka’nın ikiz oğullarından biriydi. İlk doğan çocuktu.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tr:obs:notes:frames:06-07|[06-07]]]** Rebeka’nın büyük oğlu kıpkırmızı ve tüylü doğdu, adını **Esav** koydular.
-  ***[[:tr:obs:notes:frames:07-02|[07-02]]]** Bunun üzerine **Esav** Yakup’a ilk oğul olarak sahip olduğu hakları verdi.
-  ***[[:tr:obs:notes:frames:07-04|[07-04]]]** İshak Yakup’un ellerindeki oğlak derisine dokununca, üstündeki elbiseyi koklayınca onu **Esav** sanarak ona hayırdua verdi.
-  ***[[:tr:obs:notes:frames:07-05|[07-05]]]** **Esav** kendisini ilk oğulluk hakkından ve babasının hayırduasından mahrum eden Yakup’tan nefret etti.
-  ***[[:tr:obs:notes:frames:07-10|[07-10]]]** Fakat **Esav** artık Yakup’u affetmişti ve kardeşler birbirini görmeye memnundular.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tr:obs:notes:frames:06-07|[06-07]]]** Rebeka’nın büyük oğlu kıpkırmızı ve tüylü doğdu, adını **Esav**  koydular.
+  * **[[:tr:obs:notes:frames:07-02|[07-02]]]** Bunun üzerine **Esav**  Yakup’a ilk oğul olarak sahip olduğu hakları verdi.
+  * **[[:tr:obs:notes:frames:07-04|[07-04]]]** İshak Yakup’un ellerindeki oğlak derisine dokununca, üstündeki elbiseyi koklayınca onu **Esav**  sanarak ona hayırdua verdi.
+  * **[[:tr:obs:notes:frames:07-05|[07-05]]]****Esav**  kendisini ilk oğulluk hakkından ve babasının hayırduasından mahrum eden Yakup’tan nefret etti.
+  * **[[:tr:obs:notes:frames:07-10|[07-10]]]** Fakat **Esav**  artık Yakup’u affetmişti ve kardeşler birbirini görmeye memnundular.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
