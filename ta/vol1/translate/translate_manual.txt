@@ -1,11 +1,12 @@
-===== Introduction to Translation Manual =====
+===== Çeviri Kılavuzu’nun Tanıtımı =====
 
-This module answers the question: //What is the Translation Manual?//
+This module answers the question: //Çeviri Kılavuzu Nedir?//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:intro:ta_intro|Introduction to translationAcademy]]//
-  * //[[tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]]//
-  * //[[tr:ta:vol1:intro:finding_answers|Finding Answers]]//
+
+  * //[[:tr:ta:vol1:intro:ta_intro|Introduction to translationAcademy]]//
+  * //[[:tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]]//
+  * //[[:tr:ta:vol1:intro:finding_answers|Finding Answers]]//
 
 ==== What Does the Translation Manual Teach? ====
 
