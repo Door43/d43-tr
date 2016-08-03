@@ -9,17 +9,19 @@ Before you start this module have you learned about:
   * //[[:tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]]//
 //Bu belgenin resmî versiyonu [[https://unfoldingword.org/license|unfoldingword.org/license]] adresinde yer almaktadır.//
 
-==== Copyrights & Licensing ====
+==== Telif hakkı ve lisans ====
 
-All content on Door43 is made available under a **Creative Commons Attribution-ShareAlike 4.0 International License** (http://creativecommons.org/licenses/by-sa/4.0/), which means
+Door43 sitesindeki tüm içerik **Creative Commons Attribution-ShareAlike 4.0 uluslararası lisanlıyla sunulmaktadır** ([[http://creativecommons.org/licenses/by-sa/4.0/|http://creativecommons.org/licenses/by-sa/4.0/]]), bu lisansa göre
 
-You are free:
-  * Share — copy and redistribute the material in any medium or format
-  * Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+Serbestçe:
 
-Under the following conditions:
-  * Attribution — You must attribute the work as follows: "Original work available at http://door43.org ." Attribution statements in derivative works should not in any way suggest that we endorse you or your use of this work.
-  * ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+  * Paylaşabilirsiniz — bu ürünü her vasıta veya formatta kopyalayıp dağıtabilirsiniz
+  * Uyarlayabilirsiniz — remiks yapıp dönüştürebilirsiniz, ticari amaç dahil olmak üzere her amaçla bu malzemeden yararlanabilirsiniz.
+
+Aşağıdaki şartlara uymak zorundasınız:
+
+  * Atfetme — Bu ürün aşağıdaki şekilde atfedilecektir: «Orijinal ürün [[http://door43.org|http://door43.org]] sitesinde bulunmaktadır.» Bu ürün esasında yarattığınız ürünlerdeki atfetme sizin işinizi ya da bu ürünü kullanmanızı onayladığımız şeklinde asla yorumlanmayacaktır.
+  * ShareAlike lisansı — Bu ürünü remiks yapıp dönüştürür, ya da ondan yararlanırsanız, katkılarınızı orijinal lisansın aynısıyla dağıtacaksınız.
 
 ==== Attribution of Door43 Contributors ====
 
