@@ -8,37 +8,34 @@ Before you start this module have you learned about:
   * //[[:tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]//
   * //[[:tr:ta:vol1:translate:translate_what|What to Start Translating]]//
 
-==== Introduction to Resources ====
+==== Kaynakların Tanıtımı ====
 
-UnfoldingWord has designed several resources to help you as you translate the Bible or Open Bible Stories. All of these Resources are available for all projects in Door43, and most are available in translationStudio. \\
+UnfoldingWord, Kutsal Kitap’ı ya da Açık Kutsal Kitap Öyküleri’ni çevirirken size yardım edecek bazı kaynakları tasarlamıştır. Door43’teki tüm projeler için hazırlanan bu kaynakların hepsi translationStudio’da bulunmaktadır.
 
-The resources are:
-  * Open Bible Stories
-  * The Unlocked Literal Bible (ULB)
-  * The Unlocked Dynamic Bible (UDB)
+Bu kaynaklar şunlardır:
+
+  * Açık Kutsal Kitap Öyküleri
+  * The Unlocked Literal Bible (ULB - Açık Lisanslı Birebir Kutsal Kitap)
+  * The Unlocked Dynamic Bible (UDB - Açık Lisanslı Dinamik Kutsal Kitap)
   * translationWords
   * translationNotes
   * translationQuestions
   * translationAcademy
-    
-=== Things to Know ===
 
-  * Open Bible Stories is a collection of 50 stories from the Bible with pictures that give a very brief overview of its message.
-  * Open Bible Stories has its own set of translationWords, translationNotes, and translationQuestions.
-  * The ULB puts the form of the original languages of the Bible into modern English to show the structure and style of the original.
-  * The UDB is a translation that seeks to present the meaning of the Bible in a way that is simple and easy to understand.
-  * The translationWords for the Bible are important terms that are taken from the ULB.
-  * The translationNotes for the Bible are explanations of the text of the ULB.
-  * translationWords are important words to know and should be translated accurately.
-  * translationNotes provide additional information on ways to translate into your language clearly and naturally.
-  * translationQuestions is a set of questions with answers that you can use to check the translation with others who speak your language.
-  * translationAcademy contains information about how to translate, how to check translations, and how to use the unfoldingWord translation tools.
+=== Bilinmesi Gereken Şeyler ===
 
-
-
-
+  * Açık Kutsal Kitap Öyküleri, öyküyü kısaca tanımayan resimlerle Kutsal Kitap’tan 50 öyküdür.
+  * Açık Kutsal Kitap Öyküleri’nin özel translationWords, translationNotes ve translationQuestions seti bulunmaktadır.
+  * ULB, Kutsal Kitap’ın orijinal dillerinin biçimini çağdaş dile aktararak orijinalin yapısını ve üslubunu gösterir.
+  * UDB, Kutsal Kitap’ın anlamının basit ve kolayca anlaşılan bir biçimde iletilmesi amaçlanan çevirisidir.
+  * Kutsal Kitap için translationWords, ULB’den alınan önemli terimlerdir.
+  * Kutsal Kitap için translationNotes, ULB metninin açıklamalarıdır.
+  * translationWords, bilinmesi önemli olan ve doğru şekilde çevrilmesi gereken sözlerdir.
+  * translationNotes, dilinize net ve doğal şekilde çeviri yapma yolları hakkında ek bilgi sunar.
+  * translationQuestions, dilinizi bilen başka insanlarla çevirinizi yoklamak için kullanabileceğiniz soru-cevap setidir.
+  * translationAcademy nasıl çeviri yapmak, çeviriyi nasıl yoklamak ve unfoldingWord çeviri araçlarını nasıl kullanmak konusunda bilgileri içerir.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//
-  * //[[tr:ta:vol1:tech:resources_d43|Find the Resources in Door43]]//
 
+  * //[[:tr:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:resources_d43|Find the Resources in Door43]]//
