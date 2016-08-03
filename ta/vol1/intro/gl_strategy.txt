@@ -1,12 +1,12 @@
-===== Gateway Languages Strategy =====
+===== Anahtar diller stratejisi =====
 
-This module answers the question: //How can every language be reached?//
+This module answers the question: //Her dile nasıl erişilebilir?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:intro:uw_intro|The unfoldingWord Project]]//
-  * //[[tr:ta:vol1:intro:open_license|Open License]]//
 
-//More can be read about the Gateway Languages Strategy at [[https://unfoldingword.org/gateway/|unfoldingword.org/gateway]].//
+  * //[[:tr:ta:vol1:intro:uw_intro|The unfoldingWord Project]]//
+  * //[[:tr:ta:vol1:intro:open_license|Open License]]//
+//«Anahtar Diller Stratejisi» (Gateway Languages Strategy) hakkında [[https://unfoldingword.org/gateway/|unfoldingword.org/gateway]] sitesinde okuyabilirsiniz.//
 
 ==== Explanation ====  
 
