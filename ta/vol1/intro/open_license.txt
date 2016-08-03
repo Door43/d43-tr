@@ -23,15 +23,13 @@ Aşağıdaki şartlara uymak zorundasınız:
   * Atfetme — Bu ürün aşağıdaki şekilde atfedilecektir: «Orijinal ürün [[http://door43.org|http://door43.org]] sitesinde bulunmaktadır.» Bu ürün esasında yarattığınız ürünlerdeki atfetme sizin işinizi ya da bu ürünü kullanmanızı onayladığımız şeklinde asla yorumlanmayacaktır.
   * ShareAlike lisansı — Bu ürünü remiks yapıp dönüştürür, ya da ondan yararlanırsanız, katkılarınızı orijinal lisansın aynısıyla dağıtacaksınız.
 
-==== Attribution of Door43 Contributors ====
+==== Door43’e katkıda bulunanlara atfetme ====
 
-When importing a resource (e.g. a book, Bible study, etc.) into Door43, the original work must be attributed as specified by the open license under which it is available. For example, the artwork used in Open Bible Stories is available under an open license and is clearly attributed on the project's [[www.openbiblestories.com|main page]].
+Bu kaynak (örn., kitap, Kutsal Kitap etüdü vs.) Door43’e aktarıldığında orijinal eserin bağlı olduğu açık lisansta belirtildiği gibi atfedilmesi gerekir. Örneğin, Açık Kutsal Kitap Öyküleri’nde kullanılan resimler açık lisansa bağlıdır ve projenin [[:tr:ta:vol1:intro:www.openbiblestories.com|ana sayfasında]] açıkça atfedilmektedir.
 
-Contributors to projects on Door43 agree that **the attribution that occurs automatically in the revision history of every page is sufficient attribution for their work.** That is, every contributor to a translation of Open Bible Stories into another language is listed as "the Door43 World Missions Community" or something to that effect. The individual contributions of each individual contributor are preserved in the revision history for that translation.
-
-
+Door43’teki projelere katkıda bulunanlar, **her sayfanın revizyon geçmişinde otomatik olarak kaydedilen atfetmenin onların işine yeterli atfetme olduğunu kabul ederler**. Yani Açık Kutsal Kitap Öyküleri’nin başka bir dile çevirisine katkıda bulunan herkes «Door43 World Missions Community» gibi bir listeye dahil edilir. Katkıda bulunan her bireyin özel katkıları o çevirinin revizyon geçmişinde saklanmaktadır.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:intro:gl_strategy|Gateway Languages Strategy]]//
-  * //[[tr:ta:vol1:translate:translate_source_licensing|Copyrights, Licensing, and Source Texts]]//
 
+  * //[[:tr:ta:vol1:intro:gl_strategy|Gateway Languages Strategy]]//
+  * //[[:tr:ta:vol1:translate:translate_source_licensing|Copyrights, Licensing, and Source Texts]]//
