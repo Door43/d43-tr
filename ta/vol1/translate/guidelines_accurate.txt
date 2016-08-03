@@ -7,59 +7,58 @@ Before you start this module have you learned about:
   * //[[:tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]//
   * //[[:tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]]//
 
-==== Accurate Translations ====
+==== Doğru Çeviriler ====
 
-To create an ACCURATE translation of the Bible means that the translation communicates the same message as the source. Here are some steps to follow:
+Kutsal Kitap’ın DOĞRU çevirisini yaratma, çevirinin kaynakla aynı mesajı iletmesi anlamına gelir. Atılacak adımlardan bazısı şunlardır:
 
-   * Discover the meaning of a passage.
-   * Identify the main idea.
-   * Translate with the author’s message in mind.
+  * Bir pasajın anlamını keşfedin.
+  * Ana düşünceyi belirleyin.
+  * Yazarın mesajına dikkat ederek çevirin.
 
-=== Discover the Meaning ===
+=== Anlamı Keşfedin ===
 
-First, read each passage a few times to discover the meaning. Use the two versions of the Bible available in translation Studio: the Unlocked Dynamic Bible and the Unlocked Literal Bible.Also read the definitions of the Translation Words and the Translation Notes.
+Öncelikle, anlamını keşfetmek için her pasajı birkaç kez okuyun. Çeviri Stüdyo’sunda bulunan iki Kutsal Kitap versiyonunu -Unlocked Dynamic Bible ve Unlocked Literal Bible- kullanın. Ayrıca Translation Words (Çeviri Sözleri) ve Translation Notes (Çeviri Notları)’daki tanımları okuyun.
 
-Luke 10:8 and 9 in the Unlocked Dynamic Bible say: “Whenever you enter a town and the people there welcome you, eat whatever food they provide for you. Heal the people there who are sick. Tell them, 'The kingdom of God is right here near you.‘”
+Unlocked Dynamic Bible (dinamik)’da Luka 10:8 ve 9 şöyle olabilir: «Bir şehre girdiğinizde insanlar sizi iyi karşılarsa, size ne ikram ederlerse yiyin. Oradaki hastalara şifa verin; onlara, ‘Allah’ın Hükümranlığı size yaklaştı’ deyin.»
 
-Those same verses in the Unlocked Literal Bible say: “Whatever city you enter, and they receive you, eat what is set before you, and heal the sick that are there. Say to them, 'The kingdom of God has come near to you.‘”
+Aynı ayetler Unlocked Literal Bible (birebir)’da şöyle olabilir: «Bir kente girdiğinizde sizi kabul ederlerse, önünüze konulanı yiyin. Orada bulunan hastaları iyileştirin ve kendilerine, ‹Allah’ın Hükümranlığı size yaklaştı› deyin.»
 
-Do you notice the differences? There are some differences in the words each Bible version uses.
+Farklılıkları gördünüz mü? Bu Kutsal Kitap versiyonlarında kullanılan sözcüklerin arasında farklılıklar vardır.
 
-Did you discover the meaning is the same? In both versions Jesus is giving specific instructions.
+Anlamın aynı olduğunu keşfettiniz mi? Her iki versiyonda İsa belirli emirler verir.
 
-=== Identify the Main Idea ===
+=== Ana Düşünceyi Belirleyin ===
 
-Then, after discovering the meaning of the passage, you should identify the main idea.
+Pasajın anlamını keşfettikten sonra ana düşüncesini belirlemeniz gerekecektir.
 
-Ask yourself, “Why is the author writing this, and how does he feel about these things?
+Kendinize sorun: «Yazar bunu neden yazmış ve bu konuyla ilgili ne hissetmiştir?»
 
-Look at the Luke 10 passage again. Why do you think the author is writing this? What do you think the author feels about what he wrote? What do you think? After you have read the passage several times, answer these questions:
-  * What is happening? //Jesus gave instructions.//
-  * When and where did these things take place? //To answer this question, you would need to remember what happened earlier. Earlier Luke writes that Jesus and the disciples are on the way to Jerusalem and chapter 10 starts with Jesus sending out 72 people to preach.//
-  * Who is involved in this passage? //Jesus and the 72 people he sent out.//
-  * Why were the 72 sent out? //To heal the sick and to tell everyone that the kingdom of God is near.//
+Luka 10 pasajını tekrar gözden geçirin. Size göre yazar bunu neden yazmıştır? Size göre yazar burada yazdığı şeylerle ilgili ne hissetmiştir? Siz ne düşünüyorsunuz? Bu pasajı birkaç kez okuduktan sonra şu sorulara cevap verin:
 
-=== The Message of the Writer ===
+  * Burada ne oluyor? //İsa emirler vermiştir.​//
+  * Bu şeyler ne zaman ve nerede oldu? //Bu soruya cevap vermek için önce olanları hatırlamanız gerekecek. Luka’nın yazdığına göre, ondan önce İsa ve öğrencileri Yeruşalim’e yola koyulmuşlardı ve 10. bölüm, İsa’nın 72 kişiyi hizmete göndermesinden başlar.​//
+  * Bu pasaja kimler katılıyor?// İsa ve gönderdiği 72 kişi.​//
+  * 72 kişi hangi hizmete yollanmıştı? //Hastalara şifa verme ve herkese Tanrı’nın Hükümranlığı’nın yaklaştığını ilan etme hizmetine.​//
 
-Finally, part of translating the source text accurately is to think of the original audience and the message of the writer.
+=== Yazarın Mesajı ===
 
-Do you think the author had specific things for the reader to know? Remember what we thought the author’s main ideas were? The main ideas were:
-   * The instructions that Jesus gave
-   * That the 72 people whom Jesus sent out would have power to heal sick people
-   * That they would tell others that the kingdom of God was near
+Son olarak, kaynak metni doğru şekilde çevirmek için ayrıca orijinal okuyucuyu ve yazarın mesajını düşünmek gerek.
 
-This is the message to the original audience. Allow the same message to come clearly into your mind in the target language.
+Size göre yazarın okuyuculara bildirmek istediği belirli şeyler var mıydı? Yazarın ana düşüncelerini nasıl belirlediğimizi hatırlıyor musunuz? Ana düşünceleri şunlardı:
 
-Look at the passage and think how you would retell it in your own language. Keep this initial translation by writing it down. Use an alphabet that suits your language.
+  * İsa’nın verdiği emirler
+  * İsa’nın yolladığı 72 kişinin hastalara şifa verme gücüne sahip olacakları
+  * Başkalarına Tanrı’nın Hükümranlığı’nın yaklaştığını ilan edecekleri
 
-**Remember:** Translation is re-telling, as exactly as possible, the meaning of the original message in a way that is clear and natural in the target language.
+Orijinal okuyuculara iletilen mesaj buydu. Aynı mesajın hedef dilde de net şekilde aklınıza gelmesini sağlayın.
 
+Pasajı gözden geçirin, onu kendi dilinizde nasıl anlatabileceğinizi düşünün. Bu ilk çevirinizi yazıp saklayın. Dilinize uygun olan alfabeyi kullanın.
 
-
+**Aklınızda tutun:**  Çeviri, orijinal mesajın anlamını hedef dilde olabildiğince açık ve doğal bir biçimde yeniden anlatmadır.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:guidelines_clear|Create Clear Translations]]//
-  * //[[tr:ta:vol1:translate:guidelines_natural|Create Natural Translations]]//
-  * //[[tr:ta:vol1:translate:guidelines_church_approved|Create Church-Approved Translations]]//
-  * //[[tr:ta:vol1:translate:translate_process|The Translation Process]]//
 
+  * //[[:tr:ta:vol1:translate:guidelines_clear|Create Clear Translations]]//
+  * //[[:tr:ta:vol1:translate:guidelines_natural|Create Natural Translations]]//
+  * //[[:tr:ta:vol1:translate:guidelines_church_approved|Create Church-Approved Translations]]//
+  * //[[:tr:ta:vol1:translate:translate_process|The Translation Process]]//
