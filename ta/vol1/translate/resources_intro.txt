@@ -1,11 +1,12 @@
-===== Introduction to Resources =====
+===== Kaynakların Tanıtımı =====
 
-This module answers the question: //What are Resources?//
+This module answers the question: //Kaynaklar Nedir?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:intro:gl_strategy|Gateway Languages Strategy]]//
-  * //[[tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]//
-  * //[[tr:ta:vol1:translate:translate_what|What to Start Translating]]//
+
+  * //[[:tr:ta:vol1:intro:gl_strategy|Gateway Languages Strategy]]//
+  * //[[:tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]//
+  * //[[:tr:ta:vol1:translate:translate_what|What to Start Translating]]//
 
 ==== Introduction to Resources ====
 
