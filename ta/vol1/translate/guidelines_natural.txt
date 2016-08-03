@@ -7,38 +7,34 @@ Before you start this module have you learned about:
   * //[[:tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]//
   * //[[:tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]]//
 
-==== Natural Translations ====
+==== Doğal Çeviriler ====
 
-To translate the Bible so that it is NATURAL means that:
+Kutsal Kitap’ı DOĞAL olmak üzere çevirmek şu demektir:
 
-The translation should sound like it was written by a member of the target group—not by a foreigner.
+Çeviri metni, yabancı değil hedef kitleden olan bir kişi tarafından yazılmış metin gibi görünmeli.
 
-In order for a translation to sound natural, sometimes it is necessary to create shorter, simpler sentences from longer, complex ones. The Greek language often has long, grammatically complicated sentences. Some Bible translations follow the Greek structure closely and keep these long sentences in their translation, even when this does not sound natural or is confusing in the target language. 
+Bir çevirinin doğal görünmesi için bazen uzun, karmaşık cümlelerden daha kısa ve basit cümleler yaratmak gerekebilir. Yunancada sık sık uzun, gramer açısından karmaşık cümleler kullanılır. Bazı Kutsal Kitap çevirilerinde, hedef dilde doğal olmaması veya akıl karıştırıcı olmasına rağmen bile, Yunanca cümle yapısına uyularak uzun cümleler kuruluyor.
 
-When preparing to translate, it is often helpful to rewrite the passage, breaking long sentences up into shorter sentences. This can help you to see the meaning more clearly and translate it better. In many languages, it is good style to have shorter sentences, or, when sentences are longer, to avoid having complicated sentences. So in re-expressing the meaning in the Target Language, it is sometimes necessary to break up some of the original long sentences into several shorter sentences. Because many languages use sentences with only one or two clause groupings, the shorter sentences will give a sense of naturalness. The shorter sentences will also give readers a better understanding, because the meaning will be clearer. Be sure to include clear connection words between the new, shorter clauses and sentences.
+Çevirmeye hazırlanırken çoğu zaman uzun cümleleri daha kısa cümlelere bölerek pasajı yeniden yazmak faydalı olabilir. Bu, anlamı daha net şekilde görmenize ve daha iyi çevirmenize yardım edebilir. Birçok dilde kısa cümleler kullanmak ya da uzun cümleler kurarken bile karmaşıklıktan kaçınmak iyi üslup sayılır. Dolayısıyla, hedef dilde anlamı aktarmak için bazı orijinal uzun cümleleri birkaç kısa cümleye bölmek gerekli olabilir. Birçok dilde sadece bir iki yan cümleden oluşan karmaşık cümleler kullanıldığı için kısa cümleler metne doğallık kazandırır. Kısa cümleler ayrıca okuyucuların metni daha iyi anlamalarını sağlar, çünkü anlam daha net olur. Yeni kısa cümlelerin arasında açık bağlayıcı sözleri kullanmaya dikkat edin.
 
-To make shorter sentences from longer, more complex sentences, identify the words in the sentence that relate directly to each other, that is, that belong together to form a clause. Generally, each verb or action word has words on either side of it that point back to or forward to the action of the verb. A grouping of words like this that can stand on its own may be written as an independent clause or a simple sentence. Keep each of those groups of words together and in that way divide the sentence into its separate ideas or parts. Then test your translation by reading it to a member of the language community to see if it sounds natural. \\
+Uzun, karmaşık cümlelerden kısa cümleleri yaratmak için cümlede birbiriyle doğrudan alakalı olan, yani aynı cümleciğe ait olan sözcükleri belirleyin. Genelde her fiilin ya da eylemi bildiren sözün yanında bu fiilin geri ya da ileri eylemini işaret eden sözler bulunmaktadır. Ayrı olarak kullanılabilecek böyle söz grupları bağımsız cümlecik ya da basit cümle olarak yazılabilir. Bu söz gruplarının her birini ayrı tutun ve böylece cümleyi ayrı düşüncelere ya da kısımlara bölün. Sonra çevirinizi dil toplumuna mensup olan birine okuyup doğal görünmesini kontrol edin.
 
-A good translation will use the same vocabulary and expressions as the people of the target group normally use. It should be easy for them to read it or listen to it. There should not be any awkward or strange phrases. The translation should read as easily as a letter from a close friend. 
+İyi bir çeviri, hedef dilin taşıyıcıları tarafından doğal olarak kullanılan sözcük ve ifadelerin kullanıldığı çeviridir. Dilin taşıyıcılarının çeviriyi kolayca okumaları ya da dinlemeleri şarttır. Zor ya da garip görünen hiçbir ifade yer almamalı. Çeviri, yakın bir dostun yazdığı mektup kadar kolay okunmalı.
 
-Use language forms that are effective and that reflect the way your language is used in corresponding contexts.
+Etkili olan ve dilinizin ilgili bağlamlarda kullanıldığı yolları yansıtan biçimlerini kullanın.
 
-Also ask yourself the following questions:
-  * Have you effectively used punctuation to help a reader know when to pause or to breathe?  
-  * Have you indicated which parts are direct speech?  
-  * Are you separating paragraphs?
-  * Have you followed the verse numbering of your source text and included it in your translation?
+Ayrıca kendinize şu soruları sorun:
 
-These points are important in keeping a translation natural.
+  * Okuyucunun duraklayacağı ya da nefes alacağı yerlerinin farkında olması için noktalama işaretlerini etkili şekilde kullandınız mı?
+  * Dolaysız anlatım olan kısımları belirttiniz mi?
+  * Paragrafları ayırıyor musunuz?
+  * Kaynak metninizin ayet numaralanmasını izleyip onu çevirinize dahil ettiniz mi?
 
-
-
-
-
+Bunlar, çevirinin doğal olması için önemli olan noktalardır.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:guidelines_clear|Create Clear Translations]]//
-  * //[[tr:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]//
-  * //[[tr:ta:vol1:translate:guidelines_church_approved|Create Church-Approved Translations]]//
-  * //[[tr:ta:vol1:translate:translate_process|The Translation Process]]//
 
+  * //[[:tr:ta:vol1:translate:guidelines_clear|Create Clear Translations]]//
+  * //[[:tr:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]//
+  * //[[:tr:ta:vol1:translate:guidelines_church_approved|Create Church-Approved Translations]]//
+  * //[[:tr:ta:vol1:translate:translate_process|The Translation Process]]//
