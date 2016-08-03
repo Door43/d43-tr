@@ -8,26 +8,20 @@ Before you start this module have you learned about:
   * //[[:tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]]//
   * //[[:tr:ta:vol1:intro:finding_answers|Finding Answers]]//
 
-==== What Does the Translation Manual Teach? ====
+==== Çeviri Kılavuzu ne öğretir? ====
 
-This manual teaches translation theory and how to make a good translation. Many of the modules will be immensely helpful to study before starting a translation project. Other modules are only needed for "just-in-time" learning.
+Bu kılavuz çeviri kuramını ve iyi çeviriyi yaratma yolunu öğretir. Birçok modülü, çeviri projesine başlamadan önce son derece yararlı olacak. Başka modülleri sadece eş zamanlı öğrenim için gereklidir.
 
-Some highlights in the Translation Manual:
+Çeviri Kılavuzu’nun bazı önemli bölümleri:
 
-  * [[tr:ta:vol1:translate:guidelines_intro]] - defining a good translation
-  * [[tr:ta:vol1:translate:translate_process]] - how to achieve a good translation
-  * [[tr:ta:vol1:translate:choose_team]] - some items to consider before starting a translation project
-  * [[tr:ta:vol1:translate:translate_what]] - how to start translating
-
-
-
-
-
-
+  * [[:tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]] - iyi çevirinin tanımı
+  * [[:tr:ta:vol1:translate:translate_process|The Translation Process]] - iyi çeviriye nasıl ulaşılır
+  * [[:tr:ta:vol1:translate:choose_team|Choosing a Translation Team]] - çeviri projesine başlamadan önce hesaba katılacak bazı noktalar
+  * [[:tr:ta:vol1:translate:translate_what|What to Start Translating]] - çeviriye nasıl başlanmalı
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:translate_why|Why We Translate the Bible]]//
-  * //[[tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]//
-  * //[[tr:ta:vol1:translate:translate_process|The Translation Process]]//
-  * //[[tr:ta:vol1:translate:translate_what|What to Start Translating]]//
 
+  * //[[:tr:ta:vol1:translate:translate_why|Why We Translate the Bible]]//
+  * //[[:tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]//
+  * //[[:tr:ta:vol1:translate:translate_process|The Translation Process]]//
+  * //[[:tr:ta:vol1:translate:translate_what|What to Start Translating]]//
