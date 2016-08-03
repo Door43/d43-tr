@@ -1,14 +1,15 @@
-===== The unfoldingWord Project =====
+===== UnfoldingWord Projesi =====
 
-This module answers the question: //What is the unfoldingWord Project?//
+This module answers the question: //UnfoldingWord projesi nedir?//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:intro:ta_intro|Introduction to translationAcademy]]//
 
-This section explains:
-  * Why the unfoldingWord project exists and why we do what we do 
-  * How we go about trying to accomplish that goal
-  * What we do to meet that goal  
+  * //[[:tr:ta:vol1:intro:ta_intro|Introduction to translationAcademy]]//
+Bu bölümde şu açıklanıyor:
+
+  * UnfoldingWord projesi neden vardır ve yaptığımızı neden yapıyoruz
+  * Bu amaca nasıl ulaşmaya çalışıyoruz
+  * Bu amacı gerçekleştirmek için ne yapıyoruz
 
 ==== Why ====  
 
