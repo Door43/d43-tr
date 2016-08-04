@@ -1,10 +1,11 @@
-===== Create Church-Approved Translations =====
+===== Kilise Onaylı Çevirilerin Yaratılması =====
 
-This module answers the question: //How do I create church-approved translations?//
+This module answers the question: //Kilise onaylı çevirileri nasıl yaratırız?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]//
-  * //[[tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]]//
+
+  * //[[:tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]//
+  * //[[:tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]]//
 
 ==== Church-Approved Translations ====
 
