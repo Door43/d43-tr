@@ -7,9 +7,9 @@ Before you start this module have you learned about:
   * //[[:tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]//
   * //[[:tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]]//
 
-==== Church-Approved Translations ====
+==== Kilise Onaylı Çeviriler ====
 
-The first three qualities of a good translation are [[tr:ta:vol1:translate:guidelines_clear|clear]], [[tr:ta:vol1:translate:guidelines_natural|natural]], and [[tr:ta:vol1:translate:guidelines_accurate|accurate]]. All three of these directly affect the words and phrases that are used in the translation. If a translation is not one of these three, simply changing or reordering the words that were used can often fix the problem. The fourth quality, church-approved, has less to do with the words used and more to do with the process that is used. 
+İyi çevirinin ilk üç niteliği açıklık, doğallık ve doğrudur. Bunların üçü de çeviride kullanılan sözcük ve ifadeleri doğrudan etkiler. Çeviri bu üç nitelikten yoksun ise, kullanılan sözcüklerin tekrar düzenlenmesi çoğu zaman sorunu halledebilir. Dördüncü niteliği -kilise onaylı- kullanılan sözcüklerden ziyade uygulanan süreçle ilgili olur.
 
 ==== The Goal of Translation ====
 
