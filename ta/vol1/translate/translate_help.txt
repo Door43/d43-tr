@@ -1,11 +1,12 @@
-===== Help with Translating =====
+===== Çeviri için Yardım =====
 
-This module answers the question: //Where do I find help for translating?//
+This module answers the question: //Çeviri için yardımı nerede bulabilirim?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:translate:translate_what|What to Start Translating]]//
-  * //[[tr:ta:vol1:translate:first_draft|Make a First Draft]]//
-  * //[[tr:ta:vol1:translate:resources_intro|Introduction to Resources]]//
+
+  * //[[:tr:ta:vol1:translate:translate_what|What to Start Translating]]//
+  * //[[:tr:ta:vol1:translate:first_draft|Make a First Draft]]//
+  * //[[:tr:ta:vol1:translate:resources_intro|Introduction to Resources]]//
 
 ==== Using Translation Helps ====
 
