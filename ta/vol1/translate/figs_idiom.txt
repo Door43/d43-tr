@@ -26,38 +26,28 @@ _QUOT__ckgedit>__«Hepiniz ışık çocukları, gündüz çocuklarısınız.» (
 
 Burada «çocukları», belirli niteliklere sahip olan insanlara ait bir İbranice deyimdir. Yahudiler Yunanca konuşurken bile bu deyimi kullanırlardı. «Işık çocukları», gerçeğe göre yaşayan insanlara aittir.
 
-==== Examples from English ====
+==== İngilizceden Örnekler ====
 
->"He saw the light."
-
-means "He finally understood."
-
->"It cost an arm and a leg."
+_QUOT__ckgedit>He saw the light."(O, ışığı gördü) anlamı: «Sonunda anladı.» _QUOT__ckgedit>It cost an arm and a leg."
 
 means "It was very expensive."
 
->"Let's play it by ear."
-
-means "Let's improvise" or "Let's see what happens and make decisions based on that."
-
->"She had butterflies in her stomach."
+_QUOT__ckgedit>Let's play it by ear." means "Let's improvise" or "Let's see what happens and make decisions based on that." _QUOT__ckgedit>She had butterflies in her stomach."
 
 means "She was nervous."
 
-
-
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:figs_metaphor|Metaphor]]//
-  * //[[tr:ta:vol1:translate:figs_simile|Simile]]//
-  * //[[tr:ta:vol1:translate:figs_rquestion|Rhetorical Question]]//
-  * //[[tr:ta:vol1:translate:figs_irony|Irony]]//
-  * //[[tr:ta:vol1:translate:figs_order|Word Order]]//
-  * //[[tr:ta:vol1:translate:figs_you|Forms of You]]//
-  * //[[tr:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]//
-  * //[[tr:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]//
-  * //[[tr:ta:vol1:translate:figs_explicit|Explicit and Implicit]]//
-  * //[[tr:ta:vol1:translate:figs_explicitinfo|Making Implicit Information Explicit]]//
-  * //[[tr:ta:vol1:translate:figs_hypo|Hypothetical Situations]]//
-  * //[[tr:ta:vol1:translate:figs_events|Order of Events]]//
-  * //[[tr:ta:vol1:translate:figs_parables|Parables]]//
 
+  * //[[:tr:ta:vol1:translate:figs_metaphor|Metaphor]]//
+  * //[[:tr:ta:vol1:translate:figs_simile|Simile]]//
+  * //[[:tr:ta:vol1:translate:figs_rquestion|Rhetorical Question]]//
+  * //[[:tr:ta:vol1:translate:figs_irony|Irony]]//
+  * //[[:tr:ta:vol1:translate:figs_order|Word Order]]//
+  * //[[:tr:ta:vol1:translate:figs_you|Forms of You]]//
+  * //[[:tr:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]//
+  * //[[:tr:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]//
+  * //[[:tr:ta:vol1:translate:figs_explicit|Explicit and Implicit]]//
+  * //[[:tr:ta:vol1:translate:figs_explicitinfo|Making Implicit Information Explicit]]//
+  * //[[:tr:ta:vol1:translate:figs_hypo|Hypothetical Situations]]//
+  * //[[:tr:ta:vol1:translate:figs_events|Order of Events]]//
+  * //[[:tr:ta:vol1:translate:figs_parables|Parables]]//
