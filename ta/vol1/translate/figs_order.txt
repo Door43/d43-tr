@@ -42,35 +42,31 @@ Söz sırası şu cümle türlerine göre değişebilir:
 
 Bazen özel vurgulama söz konusu olduğunda söz sırası değişebilir. Örneğin, dilinizde özel retorik soru sorma ya da emir verme yolları olabilir. Kaynak dilde tercih olunan söz sırasını ve hedef dildeki söz sırasından nasıl farklı olduğunu bilme, çevirmenin o dilden hedef dile çevirmesine yardım edebilir. Bu özellikle aynı söz sırası söz konusu olmayan diller için geçerlidir. İki dilde aynı şeyi söylemek için farklı söz sırası tercih ediliyorsa, çevirinin doğal seslenmesi için cümleyi hedef dilde tercih edilen söz sırasına göre kuracaksınız. Çevirmenin amacı, anlamı açıklamak için her zaman doğal dili kullanmaktır.
 
-==== Language Examples ====
+==== Dillerden Örnekler ====
 
-Now we will look at the importance of word order.
+Şimdi söz sırasının öneminden bahsedeceğiz.
 
-=== English ===
+=== İngilizce ===
 
-In English, “The boy kicked the ball”. “The boy” is the subject, “kicked” is the verb, and “the ball” is the object.
+İngiliz dilinde, «The boy threw the ball» (Çocuk attı topu) cümlesinde «the boy» (çocuk) öznedir, «threw» (attı) fiildir, «the ball» (topu) nesnedir.
 
-This is the basic word order that English uses to communicate statements. First we say the subject, then the verb, and then the object. We can represent the Subject, Verb and Object with the letters “S”, “V” and “O”. So, we can call English an **SVO** Language.
+Bu, İngilizce cümlelerde genel olarak kullanılan söz sırasıdır. Önce özne, ardından fiil ve en sonda nesne söylenir. Özne, Fiil ve Nesne «Ö», «F» ve «N» harfleriyle belirtilir. Böylece İngilizceye **ÖFN ** dili diyebiliriz.
+=== Türkçe, Japonca, Çince ve Felemenkçe ===
 
-=== Japanese, Chines, Dutch and Turkish ===
+Türk, Japon, Çin ve Felemenk dillerinde genelde önce özne, ardından nesne ve sonda fiil yer alır.
 
-In the Japanese, Chinese, Dutch, and Turkish languages usually the subject is first, and then the object comes next, followed by the verb.
+Böylece Türkçe cümlede basit söz sırası şöyledir: Özne - Nesne - Fiil, yani ÖNF.
 
-So the basic word order for a simple sentence for these languages is: Subject – Object – Verb, or SOV. 
+=== İbranice ve Arapça ===
 
-=== Hebrew and Arabic ===
+İbrani ve Arap dillerinde normal söz sırası Fiil - Özne - Nesne şeklindedir, yani FÖN.
 
-In the Hebrew and Arabic languages, the order for sentences is normally Verb – Subject – Object, or VSO. 
+Bu dillerden başka dillere çevirirken, söz sırasını hedef dilde tercih edilen sıraya göre değiştirmek önemlidir. Yalnızca bu durumda çeviri doğal ve açık olur.
 
-In order to translate from one of these languages into another, it is very important to change the order of the sentence into the preferred order for the target language. Only by doing this will the translation be natural and clear.
-
-Also view the video for the [[http://youtu.be/PzMpNyCNlLQ|computer]] (http://youtu.be/PzMpNyCNlLQ) or the [[http://youtu.be/jxeGp2-TuZg|portable device]] (http://youtu.be/jxeGp2-TuZg).
-
-
-
+Ayrıca şu videoları izleyebilirsiniz: [[http://youtu.be/PzMpNyCNlLQ|bilgisayarda]] ([[http://youtu.be/PzMpNyCNlLQ|http://youtu.be/PzMpNyCNlLQ]]) ve [[http://youtu.be/jxeGp2-TuZg|taşınabilir cihazda]] ([[http://youtu.be/jxeGp2-TuZg|http://youtu.be/jxeGp2-TuZg]]).
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:figs_you|Forms of You]]//
-  * //[[tr:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]//
-  * //[[tr:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]//
 
+  * //[[:tr:ta:vol1:translate:figs_you|Forms of You]]//
+  * //[[:tr:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]//
+  * //[[:tr:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]//
