@@ -18,13 +18,13 @@ Metafor (mecaz), bir şeyi (metaforun konusunu) ilişkisi olmayan bir objeyle il
   * Metaforun başka bir amacı bir şeyin bir özelliğini vurgulamak ya da söz konusu özelliğe aşırı derecede sahip olduğunu göstermektir.
   * Metaforun başka amacı, insanların bir şeye tepki gösterdikleri gibi başka bir şeye tepki göstermelerini sağlamaktır.
 
-==== Translation Suggestions ====
+==== Çeviri için Öneriler ====
 
-  * If the image in the original is unknown to your people, use an image from your own culture. Be sure that it is an image that could have been possible in Bible times. We don't want to have comparisons to things that had not been invented when the books of the Bible were first written.
-  * Or if the image in the original is unknown to your people, simply state the point of similarity without using an image.
-  * If it would be unclear to your readers how the topic is like the image, you can state the point of similarity clearly. However, do not do this if it was also not clear to the original audience.
-  * If the topic is not stated clearly in the original and it would be unclear to your readers what the topic is, state the topic clearly. However, do not do this if the topic was not clear to the original audience. For example, in Matthew 16:6, Jesus told his disciples "Beware of the __yeast__  of the Pharisees and Sadducees." His disciples thought he was talking about bread, but Jesus was warning them about the __teaching__  of the Pharisees and Sadducees. That was the topic, but it was unstated, and the disciples did not understand it at first. If the metaphor were fully stated, it would be, "The teaching of the Pharisees is like yeast." the point of similarity is that they both spread throughout whatever they touch and change it.
-  * If the target audience would not understand the metaphor, then change the metaphor to a simile by adding "like" or "as".
+  * Orijinalde kullanılan timsal halkınız için yabancıysa, kendi kültürünüzden bir timsal kullanın. Kutsal Kitap’ın yazıldığı zamanlarda mümkün olan timsalleri kullandığınızdan emin olun. Kutsal Kitap’ın yazıldığı dönemlerde henüz icat edilmemiş şeyleri kullanmanızı istemiyoruz.
+  * Yahut orijinaldeki timsal halkınıza yabancı ise hiçbir timsal kullanmadan sadece benzetme yönünü söyleyin.
+  * Konunuzun timsalinize benzemesi okuyucularınıza açık değilse benzetme yönünü açıklayabilirsiniz. Fakat bu, orijinal okuyuculara da açık olmadıysa, böyle yapmayın.
+  * Konu orijinalde açıklanmadıysa ve sizin okuyucularınız onu açık şekilde anlamazlarsa, siz konuyu açıklayın. Fakat orijinal okuyucular da konuyu açık anlamadılarsa, böyle yapmayın. Örneğin, Matta 16:6’da İsa havarilerine «Dikkatli olun, Ferisilerin ve Sadukilerin mayasından kaçının!» dediğinde havariler O’nun ekmekten söz ettiğini zannetmişlerdi, ne var ki İsa onları Ferisilerin ve Sadukilerin öğretisi konusunda ikaz etmişti. Konu buydu, ama açıklanmamıştı ve havariler önce onu anlayamadılar. Metafor tam açıklansaydı şöyle olurdu: «Ferisilerin öğretisi maya gibidir.» Benzetme yönü, her ikisinin dokunduğu şeylere hızla yayılması ve bu şeyleri değiştirmesi idi.
+  * Hedef okuyucu kitle metaforu anlayamadığı takdirde «gibi» ilgecini kullanıp metaforu teşbihle değiştirin.
 
 ==== Examples from the Bible ====
 
