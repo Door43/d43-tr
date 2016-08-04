@@ -11,27 +11,24 @@ Hem sözlü hem yazılı olmak üzere iki farklı iletişim biçimi bulunmaktad�
 
 Yazar bir metin yazarken, yazdığını okuyacak belirli okuyucu kitlesini aklında tutar. Yazarın, okuyucu kitlesinin bildiği ve bilmediği şeyler hakkında iyi anlayışı vardır, dolayısıyla yazar, okuyucularının bilmediği önemli bilgileri dahil etmeyi seçer. Okuyucularının zaten bildiği bilgileri ise dahil etmemeyi seçer.
 
-==== Translation Suggestions ====
+==== Çeviri için Öneriler ====
 
-Although implicit information is not stated in words but is only implied, it is information that the hearer or reader needs to know if he is to understand the meaning of the message. The speaker or writer has succeeded in communicating his message only if the hearer or reader correctly understands what was clearly stated as well as what was implied.
+Örtülü bilgi, sözlerle ifade edilmediği, sadece ima edildiği hâlde, dinleyici ya da okuyucunun mesajın anlamını kavraması için bilmesi gereken bilgidir. Yalnızca dinleyici ya da okuyucu hem açıkça söylenen hem de dolaylı olarak ima edilen şeyleri doğru anlıyorsa, anlatıcı veya yazar mesajını iletmeyi başarmış olur.
 
-When we translate the Bible, we are making it available to a new audience. This new audience will know some things about what is in the Bible, but often they will not know some of the implicit information that the original writer left out because his original audience already knew it. The new target audience, then, will need to know some of that implicit information in order to understand some parts of the text. So in order for the Bible to communicate its message successfully, the translator needs to include some of the information that the original writer left as implicit for the original audience. If this information can be included in just a few words, then the translator may decide to include this information in the text of the translation. But if it will take more than a few words, it is best to include this information in a footnote. The translator will need to think about his target audience and decide when to include some of this implicit information. Checking the translation with the community is a good way for the translator to find out where he needs to include some implicit information so that they can understand the translation.
-
-
-
+Biz Kutsal Kitap’ı çevirdiğimiz zaman onu yeni okuyucu kitlesine sunmayı amaçlarız. Bu yeni okuyucu kitlesi Kutsal Kitap’ta olan bazı şeyler hakkında belirli bilgiye sahip olacak, ama çoğu zaman orijinal yazarın orijinal okuyucu kitlesinin zaten bildikleri için dahil etmediği bazı örtülü bilgilere sahip olmayacak. Dolayısıyla yeni hedef okuyucu kitlesinin metnin bazı kısımlarını anlamak için o örtülü bilgilerin bazısını bilmesi gerekecek. Bu nedenle, Kutsal Kitap’ın anlamını başarılı bir şekilde aktarmak için çevirmenin, orijinal okuyucu kitlesinin zaten bildiği örtülü bilgilerin bazısını dahil etmesi gerekecek. Bu bilgi birkaç kelimeyle iletilebilirse çevirmen onu çeviri metnine dahil olmaya karar verebilir. Fakat birkaç kelimeden uzun bir açıklama zorunlu olursa, böyle bilgiyi dipnotta sunmak iyi olur. Çevirmenin hedef okuyucu kitlesi hakkında düşünerek bu örtülü bilgilerden bazısını ne zaman dahil edeceğini düşünmesi gerekecek. Çevirinin topluluk tarafından yoklanması, çevirmenin çeviri metnini anlamaları için bazı örtülü bilgileri dahil edeceği yerleri bulması için iyi bir yoldur.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:figs_explicitinfo|Making Implicit Information Explicit]]//
-  * //[[tr:ta:vol1:translate:figs_metaphor|Metaphor]]//
-  * //[[tr:ta:vol1:translate:figs_simile|Simile]]//
-  * //[[tr:ta:vol1:translate:figs_rquestion|Rhetorical Question]]//
-  * //[[tr:ta:vol1:translate:figs_idiom|Idiom]]//
-  * //[[tr:ta:vol1:translate:figs_irony|Irony]]//
-  * //[[tr:ta:vol1:translate:figs_order|Word Order]]//
-  * //[[tr:ta:vol1:translate:figs_you|Forms of You]]//
-  * //[[tr:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]//
-  * //[[tr:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]//
-  * //[[tr:ta:vol1:translate:figs_hypo|Hypothetical Situations]]//
-  * //[[tr:ta:vol1:translate:figs_events|Order of Events]]//
-  * //[[tr:ta:vol1:translate:figs_parables|Parables]]//
 
+  * //[[:tr:ta:vol1:translate:figs_explicitinfo|Making Implicit Information Explicit]]//
+  * //[[:tr:ta:vol1:translate:figs_metaphor|Metaphor]]//
+  * //[[:tr:ta:vol1:translate:figs_simile|Simile]]//
+  * //[[:tr:ta:vol1:translate:figs_rquestion|Rhetorical Question]]//
+  * //[[:tr:ta:vol1:translate:figs_idiom|Idiom]]//
+  * //[[:tr:ta:vol1:translate:figs_irony|Irony]]//
+  * //[[:tr:ta:vol1:translate:figs_order|Word Order]]//
+  * //[[:tr:ta:vol1:translate:figs_you|Forms of You]]//
+  * //[[:tr:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]//
+  * //[[:tr:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]//
+  * //[[:tr:ta:vol1:translate:figs_hypo|Hypothetical Situations]]//
+  * //[[:tr:ta:vol1:translate:figs_events|Order of Events]]//
+  * //[[:tr:ta:vol1:translate:figs_parables|Parables]]//
