@@ -1,11 +1,12 @@
-===== Why We Translate the Bible =====
+===== Neden Kutsal Kitap’ı Çeviriyoruz? =====
 
-This module answers the question: //Why should we translate the Bible?//
+This module answers the question: //Neden Kutsal Kitap’ı çevirmeliyiz?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:intro:uw_intro|The unfoldingWord Project]]//
-  * //[[tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]//
-  * //[[tr:ta:vol1:translate:translate_whatis|What is Translation]]//
+
+  * //[[:tr:ta:vol1:intro:uw_intro|The unfoldingWord Project]]//
+  * //[[:tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]//
+  * //[[:tr:ta:vol1:translate:translate_whatis|What is Translation]]//
 
 ==== Why Translate the Bible? ====
 
