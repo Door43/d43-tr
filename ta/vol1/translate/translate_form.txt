@@ -19,28 +19,33 @@ Metnin en önemli ögesi anlamıdır. Fakat metnin biçimi de büyük öneme sah
 
 >//Ya RAB, bütün yüreğimle sana şükredeceğim, //
 
-//>//Yaptığın harikaların hepsini anlatacağım. Sende sevinç bulacak, coşacağım, Adını ilahilerle öveceğim, ey Yüceler Yücesi!// //
+//Yaptığın harikaların hepsini anlatacağım. //
 
-//The first version puts the text into a form that is no different than the form it uses for telling stories. Each line of the Psalm is stated as a separate sentence.//
+//Sende sevinç bulacak, coşacağım, //
 
-//In the second version, the text is arranged as lines of poetry are arranged in the target culture, with each line of the poem on a separate line of the page. Also, the first two lines are joined with a semi-colon, with the second line indented. These things indicate that they are related - they say very similar things. The third and fourth lines also have the same arrangement.//
+//Adını ilahilerle öveceğim, ey Yüceler Yücesi!//
 
-//A reader of the second version will know that this Psalm is a poem or a song because of the form that it has, while the reader of the first version may not get that understanding, because it was not communicated through the form of the text. The reader of the first version might be confused, because the Psalm seems to be a song, but it is not presented as one. The words are expressing a joyful emotion. As a translator, you should use the form for expressing a joyful song in your language.//
+Birinci versiyonda metin, öykü anlatmak için kullanılan biçimden hiç farklı değildir. Mezmurun her mısraı ayrı bir cümle olarak yazılmıştır.
 
-//Look also at the form of 2 Samuel 18:33b://
+İkinci versiyonunda ise metin, hedef dilin kültüründe şiirde mısraların dizildiği bir biçimde kurulmuştur, şiirin her mısraı ayrı satır şeklindedir. Ayrıca ilk iki mısra virgülle bölünmüş ve ikinci mısraı paragraf başından yazılmıştır. Böylece onların birbirine bağlı oldukları, benzer şeyleri söyledikleri belirtilmiştir. Üçüncü ve dördüncü mısralar da aynı düzenle yazılmıştır.
 
-//>//"O my son Absalom! My son, my son Absalom! If only I had died instead of you–O Absalom, my son, my son!"// (New International Version)//
+İkinci versiyonun okuyucusu bu Mezmurun biçimi sayesinde onun bir şiir ya da şarkı olduğunu bilecek, ama birinci versiyonun okuyucusu bunu anlamayabilir, çünkü çeviri metnin biçiminde bu özellik iletilmemiştir. Birinci versiyonunun okuyucusu bu Mezmurun şarkıya benzediğini, ama şarkı biçiminde sunulmadığı için şaşkın kalabilir. Sözleri sevinç duygusunu ifade etmektedir. Bir çevirmen olarak dilinizde sevinçli şarkının genel biçimini kullanmanız gerekecek.
 
-//Someone might say that the meaning contained in this part of the verse is, "I wish that I had died instead of my son Absalom." This does summarize the meaning contained in the words. But the form communicates much more than just that content. The repetition of "my son" so many times, the repetition of the name "Absalom," the expression "O," the wish form "If only…" all communicate a strong emotion of deep anguish on the part of a father who has lost a son. As a translator, you need to translate not just the meaning of the words, but also the meaning of the form. For 2 Samuel 18:33b, it is important that you use a form that communicates the same emotion as contained in the original language.//
+Ayrıca 2 Samuel 18:33b’nin biçimine dikkat edin:
 
-//So we need to examine the form of the biblical text and ask ourselves why it has that form and not some other one. What attitude or emotion is it communicating? Other questions that might help us to understand the meaning of the form are://
+//>«Ah oğlum Avşalom! Ah oğlum, oğlum Avşalom!... Keşke senin yerine ben ölseydim, oğlum! Ah oğlum Avşalom!»​//
 
-   * //Who wrote it?//
-  * //Who received it?//
-  * //In what situation was it written?//
-  * //Which words and phrases were chosen and why?//
-  * //Are the words very emotional words, or is there anything special about the order of the words?//
-//When we understand the meaning of the form, then we can choose a form that has that same meaning in the target language and culture.//
+Ayetin bu kısmının şu anlamı içerdiği söylenebilir: «Oğlum Avşalom’un yerine ben ölseydim daha iyi olurdu.» Evet, bu, ayetin içerdiği anlamı özetliyor. Fakat biçim içerikten daha fazlasını iletir. «Oğlum» sözünün ve «Avşalom» isminin tekrar tekrar söylenmesi, «Ah», «Keşke» ünlemlerinin kullanılması - bütün bunlar oğlunu kaybeden bir babanın şiddetli duygularını, acısını iletmektedir. Bir çevirmen olarak sadece sözcüklerin değil, biçimin de anlamını çevirmeniz gerekecek. 2 Samuel 18:33b’de orijinal dildeki duygusunun aynısını ifade eden bir biçimi kullanmanız önemlidir.
+
+Böylelikle, Kutsal Kitap metninin biçimini incelememiz ve neden başka değil, bu biçime sahip olduğunu sormamız gerekir. Metinde hangi tavır ya da duygu iletiliyor? Biçimin anlamını kavramamıza yardım edebilecek başka sorular şunlardır:
+
+  * Metni yazan kim?
+  * Metni alan kim?
+  * Metin ne durumda yazıldı?
+  * Hangi sözcük ve ifadeler seçildi ve neden?
+  * Çok duygusal sözcükler kullanılıyor mu ya da cümlede sözlerin sırası ile ilgili özel bir durum söz konusu mudur?
+
+Biçimin anlamını anladığımızda hedef dilde ve kültüründe aynı anlamı ileten bir biçim seçebiliriz.
 
 ==== Culture Affects Meaning ====
 
