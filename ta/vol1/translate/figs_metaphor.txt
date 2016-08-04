@@ -8,9 +8,9 @@ Before you start this module have you learned about:
 
 ==== Definition ====
 
-A metaphor is a figure of speech that creates a 'word picture' by relating one thing (the topic of the metaphor) to an unrelated object. Metaphors imply (or state directly) that the two things have something in common. Like simile, this involves a comparison, but the words ‘like’ and ‘as’ are not used to show it. (See [[tr:ta:vol1:translate:figs_simile]].). A metaphor transfers an image from one familiar object to another object that is less easily understood. 
+Metafor (mecaz), bir şeyi (metaforun konusunu) ilişkisi olmayan bir objeyle ilişkilendirerek «sözel resim» oluşturan yan anlamalı sözdür. Metafor, iki şeylerin arasında bir benzerliğin, ortaklığın bulunmasına ima eder (veya bunu doğrudan söyler). Teşbih gibi benzetmeye dayalı olan metaforda teşbihten farklı olarak «gibi» ilgeci kullanılmaz. (Bkz [[:en:ta:vol1:translate:figs_simile|Simile]].). Metaforda resim, iyi bilinen bir objeden pek o kadar kolayca anlaşılmayan bir objeye aktarılır.
 
-For example, "Life is a journey," is a metaphor that helps convey a concept about life - that it is like a journey in some way - perhaps because in both you are always moving along and progressing, not staying in the same place. In this example, "life" is the topic, "a journey" is the image that is being applied to the topic, and the concept of movement or progression is the point of similarity. Every metaphor has a topic, an image, and a point of similarity. But as with this example, usually the point of similarity is not stated. Often the author expects the reader or hearer to think about the comparison and see the point of similarity for themselves.
+Örneğin, «Hayat bir yolculuktur» ifadesi, hayatı bir açıdan yolculuğa benzeten bir hayat kavramını aktarmaya yardım eden metafordur. Belki de her ikisinde aynı yerde kalmama, ileriye doğru hareket etme söz konusu olduğu için böyle söylenir. Bu örnekte «hayat» konu, «yolculuk» konuya uygulanan temsil, hareket veya ilerleme kavramı da benzetme yönüdür. Her metaforun konusu, timsali ve benzetme yönü vardır. Ancak bu örnekte olduğu gibi benzetme yönü çoğu zaman açıklanmaz. Yazar okuyucudan benzetmeyi kendisi düşünüp anlamasını ve benzetme yönünü görmesini bekliyor.
 
 ==== Purposes of Metaphor ====
 
