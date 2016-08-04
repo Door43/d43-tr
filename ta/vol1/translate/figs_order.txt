@@ -4,28 +4,28 @@ This module answers the question: //Söz sırası önemli midir?​//
 
 Before you start this module have you learned about:
 
-==== Parts of a Sentence ====
+==== Cümlenin Ögeleri ====
 
-A basic sentence has three important parts: subject, object, and verb.  Both subjects and objects are usually nouns (i.e. a person, place, thing, or idea). Verbs show action or a "state of being."
-  * The subject of a sentence is what the sentence is about.
-  * The subject (which will be a noun: a person, place, thing, or idea) is usually  the main “actor” in a sentence.
-  * The “actor” or subject usually does some action or is being described in some way.
+Basit cümlenin üç önemli ögesi var: özne, nesne ve fiil. Özne ve nesne çoğu zaman isimlerdir (yani kişi, yer, eşya veya kavram). Fiiller eylemi ya da «durumu» gösterir.
 
-When the subject is identified, determine what it is doing (or what is happening to it). 
-  * A subject may be active: it can **perform** or **do** something such as “sing,” or “work,” or “teach.”  
-  * A subject can be in a **state** such as “happy,” “sad,” or “mad.”
-  * Or a subject may have something done to it.
-    * For example, “The ball was thrown.” (The ball is the subject.)
+  * Cümlenin öznesi, konusudur.
+  * Özne (kişi, yer, eşya veya kavram gibi bir isim) genelde cümlede baş «aktör» rolünü oynar.
+  * «Aktör» veya özne bir eylem yapar ya da bir şekilde tasvir olunur.
 
-The object of a sentence is a recipient (that is NOT the subject).  The object will also be a person, place, thing, or idea.
+Özneyi bulduktan sonra onun ne yaptığını (veya ona neyin yapıldığını) belirlemeye çalışın.
 
-In a simple sentence the subject usually does something to or towards an object. Consider the sentence:
+  * Özne **aktif ** olabilir: «söylemek», «çalışmak», «öğretmek» gibi bir şeyler **yapabilir.**
+  * Özne bir **durumda ** bulunabilir, yani «mutlu», «üzgün», «kızgın» vs.
+  * Bir de özneye bir şey yapılabilir.
+      * Örneğin, «Top atıldı.» (Top bir öznedir.)
 
->//"The boy kicked the ball."//
+Cümlenin nesnesi, alıcı ögedir (yani özne DEĞİLdir). Nesne de kişi, yer, eşya veya kavram olabilir.
 
-The boy is the **subject**; the recipient or **object** is the ball.  The subject (boy) does some **action** (kicked) to the object (ball).The VERB tells what the action is that the subject is doing (or being). 
+Basit cümlede özne genelde nesneye bir şey yapar. Şu cümleye bakın:
 
-Often it is easy to find the verb, because one looks for the action occurring in the sentence.  
+>//«Çocuk top attı.»//Çocuk **öznedir**; alıcı ya da **nesne ** toptur. Özne (çocuk) nesneye (top) **bir eylem**  yapar (attı). FİİL, öznenin yaptığı eylemin (veya bulunduğu durumun) ne olduğunu bildirir.
+
+Cümlede eylem arandığı için fiili bulmak çoğu zaman kolay olur.
 
 ==== Translation Suggestions ====
 
