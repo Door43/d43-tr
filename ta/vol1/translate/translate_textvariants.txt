@@ -1,10 +1,11 @@
-===== Textual Variants =====
+===== Metin Versiyonları =====
 
-This module answers the question: //Why does the ULB have missing or added verses//
+This module answers the question: //Neden ULB’de eksik veya ek ayetler vardır?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:translate:translate_manuscripts|Original Manuscripts]]//
-  * //[[tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
+
+  * //[[:tr:ta:vol1:translate:translate_manuscripts|Original Manuscripts]]//
+  * //[[:tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
 
 ==== Explanation ====
 
