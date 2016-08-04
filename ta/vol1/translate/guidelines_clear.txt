@@ -1,10 +1,11 @@
-===== Create Clear Translations =====
+===== Açık Çeviri Yaratma =====
 
-This module answers the question: //How do I create clear translations?//
+This module answers the question: //Açık çevirileri nasıl yaratırız?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]//
-  * //[[tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]]//
+
+  * //[[:tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]//
+  * //[[:tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]]//
 
 ==== Clear Translations ====
 
