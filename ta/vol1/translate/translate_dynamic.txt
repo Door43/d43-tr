@@ -9,15 +9,15 @@ Before you start this module have you learned about:
   * //[[:tr:ta:vol1:translate:translate_literal|Literal Translations]]//
   * //[[:tr:ta:vol1:translate:translate_fandm|Form and Meaning]]//
 
-==== Introduction ====
+==== Giriş ====
 
-We have looked closely at literal translations. Now, we will look at meaning-based translations.
+Birebir çevirileri inceledik, şimdi anlama dayalı çevirileri ele alacağız.
 
-Meaning-based translations are also called: 
+Anlama dayalı çeviriler ayrıca şöyle adlandırılır:
 
-  * meaning-equivalent
-  * idiomatic
-  * dynamic
+  * eşit anlamlı
+  * deyimsel (idiomatik)
+  * dinamik
 
 ==== Key Characteristic ====
 
