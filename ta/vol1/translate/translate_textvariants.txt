@@ -27,16 +27,14 @@ Birçok bilim adamlarının orijinal olmayabileceğini düşündüğü Yeni Ahit
   1 Yuhanna 5:7-8
 </code>
 
-==== Translation Suggestions ====
+==== Çeviri için Öneriler ====
 
-We recommend that the Bible translator follow these guidelines when translating such passages:
-  - Translators have a choice about which manuscripts to follow. They can translate as the ULB does, or if they prefer other Bibles that follow other manuscripts, they may follow them.
-  - If translators follow the ULB, translating the verses that are there and not translating verses that are not in the ULB, they should also translate the footnotes that the ULB provides in those places.
-  - If translators follow other manuscripts (for example, if they translate Acts 8:37 as part of their main text although the ULB does not include that verse), they may need to write their footnote differently, for example, “Some ancient authorities omit verse 37.”
+Kutsal Kitap çevirmeninin böyle pasajları çevirirken şu ilkelere uymasını tavsiye ederiz:
 
-
-
+  - Çevirmenler hangi el yazmasına göre çevireceklerini kendileri seçebilirler. ULB’nin metnine göre çevirebilecekleri gibi, isterlerse başka bir el yazmasını da izleyebilirler.
+  - Eğer çevirmenler ULB’ye uyar, oradaki ayetleri çevirir, ULB’de bulunmayan ayetleri ise çevirmezlerse, USB’nin o yerlerdeki dipnotları da aynen çevirmeleri gerekir.
+  - Başka el yazmalarına göre çeviri yapan çevirmenler (örneğin, ULB’de dahil edilmeyen Elçilerin İşleri 8:37 ayetini metne dahil ederlerse) dipnottaki yazısı farklı olacak, örneğin «Bazı eski metinlerde 37. ayet bulunmamaktadır.»
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:translate_alphabet|Alphabet/Orthography]]//
 
+  * //[[:tr:ta:vol1:translate:translate_alphabet|Alphabet/Orthography]]//
