@@ -14,8 +14,8 @@ Basit cümlenin üç önemli ögesi var: özne, nesne ve fiil. Özne ve nesne ç
 
 Özneyi bulduktan sonra onun ne yaptığını (veya ona neyin yapıldığını) belirlemeye çalışın.
 
-  * Özne **aktif ** olabilir: «söylemek», «çalışmak», «öğretmek» gibi bir şeyler **yapabilir.**
-  * Özne bir **durumda ** bulunabilir, yani «mutlu», «üzgün», «kızgın» vs.
+  * Özne **aktif **  olabilir: «söylemek», «çalışmak», «öğretmek» gibi bir şeyler **yapabilir.**
+  * Özne bir **durumda **  bulunabilir, yani «mutlu», «üzgün», «kızgın» vs.
   * Bir de özneye bir şey yapılabilir.
       * Örneğin, «Top atıldı.» (Top bir öznedir.)
 
@@ -23,7 +23,7 @@ Cümlenin nesnesi, alıcı ögedir (yani özne DEĞİLdir). Nesne de kişi, yer,
 
 Basit cümlede özne genelde nesneye bir şey yapar. Şu cümleye bakın:
 
->//«Çocuk top attı.»//Çocuk **öznedir**; alıcı ya da **nesne ** toptur. Özne (çocuk) nesneye (top) **bir eylem**  yapar (attı). FİİL, öznenin yaptığı eylemin (veya bulunduğu durumun) ne olduğunu bildirir.
+>//«Çocuk top attı.»//Çocuk **öznedir**; alıcı ya da **nesne **  toptur. Özne (çocuk) nesneye (top) **bir eylem**  yapar (attı). FİİL, öznenin yaptığı eylemin (veya bulunduğu durumun) ne olduğunu bildirir.
 
 Cümlede eylem arandığı için fiili bulmak çoğu zaman kolay olur.
 
