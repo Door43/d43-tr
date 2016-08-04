@@ -11,9 +11,9 @@ Before you start this module have you learned about:
 
 İyi çevirinin ilk üç niteliği açıklık, doğallık ve doğrudur. Bunların üçü de çeviride kullanılan sözcük ve ifadeleri doğrudan etkiler. Çeviri bu üç nitelikten yoksun ise, kullanılan sözcüklerin tekrar düzenlenmesi çoğu zaman sorunu halledebilir. Dördüncü niteliği -kilise onaylı- kullanılan sözcüklerden ziyade uygulanan süreçle ilgili olur.
 
-==== The Goal of Translation ====
+==== Çevirinin Amacı ====
 
-The goal of the translation of biblical content is not only to produce a high-quality translation, but to produce a high-quality translation that is used and loved by the church. High-quality translations must be clear, natural, and accurate. But for a translation to be used and loved by the church, it must be church-approved. 
+Kutsal Kitap içeriğinin çevirisinin amacı sadece yüksek kaliteli çeviriyi meydana getirmek değil; kilisece sevilen ve kullanılan yüksek kaliteli bir çeviriyi meydana getirmektir. Yüksek kaliteli çevirilerin açık, doğal ve doğru olması gerekir. Ama kilisece sevilip kullanılması için çevirinin kilise onaylı olması gerekir.
 
 ==== How to Create a Church-Approved Translation ====
 
