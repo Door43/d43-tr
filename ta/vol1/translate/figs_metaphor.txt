@@ -36,32 +36,28 @@ Metafor (mecaz), bir şeyi (metaforun konusunu) ilişkisi olmayan bir objeyle il
 
 Bu ayetin birkaç ilişkili metaforu vardır. Kurtarıcı doğan güneşe, ruhsal gerçeklerin öğretilmesi güneşin ışık saçmasına, ruhsal gerçekten yoksun kalma karanlıkta yaşamaya, ölüm korkusu da gölgeye benzetilir. Yani, doğan güneş karanlıkta yaşayanlara ışık saçtığı gibi, Kurtarıcı ruhsal gerçekten yoksun olanlara ve ölümden korkanlara gelip ruhsal gerçeği verecektir.
 
-==== Examples from English ====
+==== İngilizceden Örnekler ====
 
->"He was a walking __dictionary__."
+_QUOTckgedit>He was a walking __dictionary__."(Adam canlı sözlüktü) İnsan pek çok kelimenin anlamını bildiği için sözlüğe benzetilir. Sözlüklerde çok kelimenin anlamı bulunur.
 
-Because he knows the meanings of so many words, he is compared to a dictionary. Dictionaries contain the meanings of many words.
+_QUOTckgedit>Her __heart broke__ when her baby died." (Bebeği öldüğünde kalbi kırıldı)
 
->"Her __heart broke__ when her baby died."
+Kadının kalbi yani duyguları kırılabilecek maddi eşyaya benzetilir.
 
-Her heart, or emotions, is compared to a physical thing that can break.
-
-To learn more about metaphor, watch the video for the [[http://youtu.be/ofxhv443COM|computer]] (http://youtu.be/ofxhv443COM) or the [[http://youtu.be/2W0qm9xIPeU|tablet/phone]] (http://youtu.be/2W0qm9xIPeU).
-
-
+Metafor (mecaz) konusunda daha fazla öğrenmek [[http://youtu.be/ofxhv443COM|için bilgisayarda]] ([[http://youtu.be/ofxhv443COM|http://youtu.be/ofxhv443COM]]) şu videoyu ya da [[http://youtu.be/2W0qm9xIPeU|tablet/phone]] ([[http://youtu.be/2W0qm9xIPeU|http://youtu.be/2W0qm9xIPeU]]) izleyebilirsiniz.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:figs_simile|Simile]]//
-  * //[[tr:ta:vol1:translate:figs_rquestion|Rhetorical Question]]//
-  * //[[tr:ta:vol1:translate:figs_idiom|Idiom]]//
-  * //[[tr:ta:vol1:translate:figs_irony|Irony]]//
-  * //[[tr:ta:vol1:translate:figs_order|Word Order]]//
-  * //[[tr:ta:vol1:translate:figs_you|Forms of You]]//
-  * //[[tr:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]//
-  * //[[tr:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]//
-  * //[[tr:ta:vol1:translate:figs_explicit|Explicit and Implicit]]//
-  * //[[tr:ta:vol1:translate:figs_explicitinfo|Making Implicit Information Explicit]]//
-  * //[[tr:ta:vol1:translate:figs_hypo|Hypothetical Situations]]//
-  * //[[tr:ta:vol1:translate:figs_events|Order of Events]]//
-  * //[[tr:ta:vol1:translate:figs_parables|Parables]]//
 
+  * //[[:tr:ta:vol1:translate:figs_simile|Simile]]//
+  * //[[:tr:ta:vol1:translate:figs_rquestion|Rhetorical Question]]//
+  * //[[:tr:ta:vol1:translate:figs_idiom|Idiom]]//
+  * //[[:tr:ta:vol1:translate:figs_irony|Irony]]//
+  * //[[:tr:ta:vol1:translate:figs_order|Word Order]]//
+  * //[[:tr:ta:vol1:translate:figs_you|Forms of You]]//
+  * //[[:tr:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]//
+  * //[[:tr:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]//
+  * //[[:tr:ta:vol1:translate:figs_explicit|Explicit and Implicit]]//
+  * //[[:tr:ta:vol1:translate:figs_explicitinfo|Making Implicit Information Explicit]]//
+  * //[[:tr:ta:vol1:translate:figs_hypo|Hypothetical Situations]]//
+  * //[[:tr:ta:vol1:translate:figs_events|Order of Events]]//
+  * //[[:tr:ta:vol1:translate:figs_parables|Parables]]//
