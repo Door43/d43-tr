@@ -9,20 +9,23 @@ Before you start this module have you learned about:
 
 ==== Explanation ====
 
-Some people who were making copies of Bible books added words or even whole sentences into the text that they copied. Sometimes this was to explain what was in the text and sometimes it was to add to the ideas in the text, often using phrases from other places in the Bible. Sometimes this happened accidentally, as the person copied something twice or included in the text a comment that someone else had written beside the text. Sometimes words were left out by accident, as well. But over all, the Bible books have been copied with great accuracy and faithfulness over many, many years. By comparing many different copies with each other, Bible scholars can decide which copies are accurate and which ones have errors.
+Kutsal Kitap’ı kopyalayan bazı kişiler kopya metinlerine sözcükleri ve hatta cümleleri eklediler. Bunu bazen metindeki anlamı açıklamak için ve bazen -çoğu zaman Kutsal Kitap’ın diğer yerlerindeki ifadeleri kullanarak- metindeki düşüncelere eklemek için yaptılar. Bazen kazara yapılan eklemeler de olur, kopyalayan kişi bir sözü iki kez yazmış ya da birinin metnin yanında yazdığı bir yorumu metne dahil etmiş olabilir. Bazen kazara sözcükler atlatılmış olabilir. Ancak genel olarak, Kutsal Kitap metinleri yıllar boyunca son derece tam ve doğru şekilde kopyalanmıştır. Kutsal Kitap’ı inceleyen bilim adamları birçok kopyaları birbiriyle karşılaştırarak hangilerinin doğru olduğuna ve hangilerinde hata bulunduğuna karar verebilirler.
 
-Sometimes there will be a footnote with the ULB that says something like, “some ancient authorities add a verse here.” We recommend that the translator include this footnote when translating the passages where it appears in the ULB. For example, there will be a note like this at Mark 16:9-20 and at verses such as Acts 8:37 and 1 John 5:7-8. This means that some copies of the Bible have these verses, but others that are older and considered to be accurate do not.
+Bazen ULB’de şöyle dipnot olabilir: «bazı eski otoriteler buraya bir ayet eklerler.» Çevirmenin ULB’de böyle dipnotun bulunduğu pasajları çevirirken bu dipnotu dahil etmesini tavsiye ederiz. Örneğin, Mark 16:9-20, Elçilerin İşleri 8:37 ve 1 Yuhanna 5:7-8’gibi ayetlerde böyle dipnot bulunacaktır. Bu şu demektir ki, Kutsal Kitap’ın bazı el yazmalarında bu ayetler bulunur, fakat daha eski olan ve daha doğru sayılan diğer nüshalarında bulunmaz.
 
-The Bible student needs to be careful to look at the history of the added words and what Bible scholars say about them in order to determine whether they are likely to be from the original text. This requires a great deal of study. 
+Kutsal Kitap’ı inceleyen kişiler bu gibi ek sözlerin orijinal metinden olma olasılığını belirlemek amacıyla bunların tarihini ve bilim adamlarının bu konuda ne düşündüklerini dikkatle araştırmalıdırlar. Bu amaç çok okuma gerektirir.
 
-The verses in the New Testament that many scholars believe may not be original are these:
-    Matthew 17:21; 18:11; 23:14
-    Mark 7:16; 9:44,46; 11:26; 15:28; 16:9-20
-    Luke 17:36; 23:17
-    John 5:3b-4, 7:53-8:11
-    Acts 8:37; 15:34; 24:6b-8a; 28:29
-    Romans 16:24
-    1 John 5:7-8
+Birçok bilim adamlarının orijinal olmayabileceğini düşündüğü Yeni Ahit ayetleri şunlardır:
+
+<code>
+  Matta 17:21; 18:11; 23:14
+  Markos 7:16; 9:44,46; 11:26; 15:28; 16:9-20
+  Luka 17:36; 23:17
+  Yuhanna 5:3b-4, 7:53-8:11
+  Elçilerin İşleri 8:37; 15:34; 24:6b-8a; 28:29
+  Romalılar 16:24
+  1 Yuhanna 5:7-8
+</code>
 
 ==== Translation Suggestions ====
 
