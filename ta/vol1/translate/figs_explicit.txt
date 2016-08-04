@@ -6,7 +6,7 @@ This module answers the question: //Açık ve Örtülü Sözleri Ne Anlama Geliy
 
 Hem sözlü hem yazılı olmak üzere iki farklı iletişim biçimi bulunmaktadır. Birine **açık ** anlatım, öbürüne **örtülü**denir. Anlatıcı veya yazar bir ileti verdiğinde belirli bir dinleyici kitlesini aklında tutar. Bu, mesajının biçimini etkiler ve hangi bilgileri dahil etmek, hangilerini ise dahil etmemek konusundaki kararını da etkiler.
 
-   * Anlatıcının açıkça ifade ettiği bilgilere **açık ** denir. Bunlar, anlatıcı ya da yazarın söylediğine dahil etmeye karar verdiği bilgilerdir.
+   * Anlatıcının açıkça ifade ettiği bilgilere **açık **  denir. Bunlar, anlatıcı ya da yazarın söylediğine dahil etmeye karar verdiği bilgilerdir.
   * Anlatıcının açıkça ifade etmediği bilgilere **örtülü**bilgi denir. Bunlar, anlatıcı ya da yazarın dinleyici/okuyucularının zaten bildiği için dahil etmemesi gerektiğini düşündüğü bilgilerdir.
 
 Yazar bir metin yazarken, yazdığını okuyacak belirli okuyucu kitlesini aklında tutar. Yazarın, okuyucu kitlesinin bildiği ve bilmediği şeyler hakkında iyi anlayışı vardır, dolayısıyla yazar, okuyucularının bilmediği önemli bilgileri dahil etmeyi seçer. Okuyucularının zaten bildiği bilgileri ise dahil etmemeyi seçer.
