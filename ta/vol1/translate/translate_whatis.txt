@@ -1,9 +1,10 @@
-===== What is Translation =====
+===== Çeviri Nedir? =====
 
-This module answers the question: //What is Translation?//
+This module answers the question: //Çeviri Nedir?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]//
+
+  * //[[:tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]//
 
 ==== Definition ====
 
