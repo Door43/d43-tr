@@ -1,6 +1,6 @@
-===== Word Order =====
+===== Söz Sırası =====
 
-This module answers the question: //Is word order important?//
+This module answers the question: //Söz sırası önemli midir?​//
 
 Before you start this module have you learned about:
 
