@@ -23,20 +23,19 @@ Kilise onaylı çevirinin yaratılması çevirme, yoklama ve dağıtma süreciyl
 
 Kilisenin çeviriyi aktif olarak yönetip bütün çabaları koordine etmesi gerekmez, ama çeviriyi yöneten kişilerin -en iyisi başlamadan önce- kiliselerce onaylanmış olması gerekir.
 
-==== Church Approval and the Checking Levels ====
+==== Kilise Onayı ve Yoklama Seviyeleri ====
 
-The need for church-approval of a translation is clearly reflected in the Checking Levels. In fact, the Checking Levels are largely a measurement of how broadly the church approves of the translation. 
-  * Level 1 states that the church-approved translation team has approved the translation. 
-  * Level 2 states that the pastors and leaders of local churches approve the translation.
-  * Level 3 states that leaders of multiple church networks approve of the translation. 
+Çevirinin kiliselerce onaylanması gereği Yoklama Seviyelerinde açıkça yansıtılmaktadır. Aslında Yoklama Seviyeleri kilisenin çeviriyi ne kadar geniş onayladığını ölçme aracıdır.
 
-At each level, the people leading the translation should encourage participation and input from the church networks. By using this process, we hope to encourage church ownership of the translation among as many church networks as possible. With this approval, there should be nothing hindering the translation from being used to strengthen and encourage the church. 
+  * Seviye 1, kilise onaylı çeviri takımının çeviriyi onaylamış olduğunu bildirir.
+  * Seviye 2, yerel kiliselerin pastör ve liderlerinin çeviriyi onayladıklarını bildirir.
+  * Seviye 3, birçok kilise birliklerinin liderlerinin çeviriyi onayladıklarını bildirir.
 
-
+Her seviyede çeviriyi yöneten kişilerin kilise birliklerinin katılımını ve katkısını teşvik etmeleri gerekir. Bu süreçle biz olabildiğince çok kilise birliklerindeki kiliselerin bu çeviriye sahip çıkmasını teşvik edeceğimizi ümit ediyoruz. Bu onay ile çevirinin kiliseyi güçlendirmesine ve teşvik etmesine herhangi bir engel kalmamalı.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:guidelines_clear|Create Clear Translations]]//
-  * //[[tr:ta:vol1:translate:guidelines_natural|Create Natural Translations]]//
-  * //[[tr:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]//
-  * //[[tr:ta:vol1:checking:intro_check|Introduction to the Checking Manual]]//
 
+  * //[[:tr:ta:vol1:translate:guidelines_clear|Create Clear Translations]]//
+  * //[[:tr:ta:vol1:translate:guidelines_natural|Create Natural Translations]]//
+  * //[[:tr:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]//
+  * //[[:tr:ta:vol1:checking:intro_check|Introduction to the Checking Manual]]//
