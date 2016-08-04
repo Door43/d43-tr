@@ -4,12 +4,12 @@ This module answers the question: //Açık ve Örtülü Sözleri Ne Anlama Geliy
 
 ==== Definition ====
 
-There are two different forms of communication found in both written and spoken messages. One is called **//explicit//** and the other is called //**implicit**//. When a speaker, or writer, has a message to give, he has a particular audience in mind as he gives the message. This affects the form of his message and his decision on what information to include or leave out.
+Hem sözlü hem yazılı olmak üzere iki farklı iletişim biçimi bulunmaktadır. Birine **açık ** anlatım, öbürüne **örtülü**denir. Anlatıcı veya yazar bir ileti verdiğinde belirli bir dinleyici kitlesini aklında tutar. Bu, mesajının biçimini etkiler ve hangi bilgileri dahil etmek, hangilerini ise dahil etmemek konusundaki kararını da etkiler.
 
-  * Information that the speaker states clearly is called **//explicit//** information. This is the information that the speaker or writer has decided to include in what he says.
-  * Information that the speaker does not state clearly is called //**implicit**//information. This is the information that the speaker or writer expects his audience to already know, and so he knows that he does not need to include that information in what he writes.
+   * Anlatıcının açıkça ifade ettiği bilgilere **açık ** denir. Bunlar, anlatıcı ya da yazarın söylediğine dahil etmeye karar verdiği bilgilerdir.
+  * Anlatıcının açıkça ifade etmediği bilgilere **örtülü**bilgi denir. Bunlar, anlatıcı ya da yazarın dinleyici/okuyucularının zaten bildiği için dahil etmemesi gerektiğini düşündüğü bilgilerdir.
 
-When a writer writes, he has in mind a certain audience who will read what he writes. The writer has a good idea of what this audience does and does not know about what he is writing about, and so the writer chooses to include the important information that he knows his audience does not know. He chooses to not include the information that his audience already knows. 
+Yazar bir metin yazarken, yazdığını okuyacak belirli okuyucu kitlesini aklında tutar. Yazarın, okuyucu kitlesinin bildiği ve bilmediği şeyler hakkında iyi anlayışı vardır, dolayısıyla yazar, okuyucularının bilmediği önemli bilgileri dahil etmeyi seçer. Okuyucularının zaten bildiği bilgileri ise dahil etmemeyi seçer.
 
 ==== Translation Suggestions ====
 
