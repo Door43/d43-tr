@@ -12,11 +12,11 @@ Metafor (mecaz), bir şeyi (metaforun konusunu) ilişkisi olmayan bir objeyle il
 
 Örneğin, «Hayat bir yolculuktur» ifadesi, hayatı bir açıdan yolculuğa benzeten bir hayat kavramını aktarmaya yardım eden metafordur. Belki de her ikisinde aynı yerde kalmama, ileriye doğru hareket etme söz konusu olduğu için böyle söylenir. Bu örnekte «hayat» konu, «yolculuk» konuya uygulanan temsil, hareket veya ilerleme kavramı da benzetme yönüdür. Her metaforun konusu, timsali ve benzetme yönü vardır. Ancak bu örnekte olduğu gibi benzetme yönü çoğu zaman açıklanmaz. Yazar okuyucudan benzetmeyi kendisi düşünüp anlamasını ve benzetme yönünü görmesini bekliyor.
 
-==== Purposes of Metaphor ====
+==== Metaforun Amaçları ====
 
-  * One purpose of metaphor is to teach about something that is unknown by indicating that it is similar to something that is already known.
-  * Another purpose of metaphor is to emphasize that something has a particular trait or to indicate that it has that particular trait in an extreme way.
-  * Another purpose of metaphor is to lead people to react emotionally to one thing as they would to another.
+  * Metaforun bir amacı, bilinen bir şeye benzediğini göstererek bilinmeyen hakkında bir şeyler öğretmektir.
+  * Metaforun başka bir amacı bir şeyin bir özelliğini vurgulamak ya da söz konusu özelliğe aşırı derecede sahip olduğunu göstermektir.
+  * Metaforun başka amacı, insanların bir şeye tepki gösterdikleri gibi başka bir şeye tepki göstermelerini sağlamaktır.
 
 ==== Translation Suggestions ====
 
