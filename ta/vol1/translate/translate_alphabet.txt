@@ -7,7 +7,7 @@ Before you start this module have you learned about:
   * //[[:tr:ta:vol1:translate:choose_team|Choosing a Translation Team]]//
   * //[[:tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
 
-==== Creating an Alphabet ====
+==== Alfabe Yaratma ====
 
 Diliniz şu ana kadar yazılı değilse yazabileceğiniz bir alfabe yaratmanız gerekecek. Alfabe yaratırken düşünülecek çok şey var ve iyi bir alfabe yaratmak çok zor olabilir. Eğer bu iş son derece zor görünüyorsa, yazılı çeviri yerine sesli çeviri yapabilirsiniz.
 
