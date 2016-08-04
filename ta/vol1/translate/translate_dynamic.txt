@@ -31,41 +31,37 @@ Anlama dayalı çevirilerin en önemli niteliği, kaynak metnin biçimini izleme
   * hedef dilde bilinmeyen terimleri karşılıkları olan sözcük ya da betimlemeler ile değiştirmek
   * hedef dilde kullanılmayan bağlayıcıların hedef dilin gerektirdiği bağlayıcılarla değiştimek
 
-==== Examples of Meaning-Based Translations ====
+==== Anlama Dayalı Çevirinin Örnekleri ====
 
-What does a meaning-based translation look like? We will look at how different versions translate the same verse.
+Anlama dayalı çeviri, nasıl bir çeviridir? Değişik versiyonlarda aynı ayetin nasıl çevrildiğini gözden geçireceğiz.
 
-In Luke 3:8, //John the Baptist rebukes the self-righteous people who came to be baptized.//
+Luka 3:8’de //Vaftizci Yahya, vaftiz olmak için yanına gelen kendini sâlih bilen insanları azarlar.​//
 
-The **Greek **  text of the first half of the verse is shown below.
+Aşağıda ayetin ilk kısmının **Yunanca ** metni sunulmaktadır.
 
 >Ποιήσατε οὖν καρποὺς ἀξίους τῆς μετανοίας
 
-The **English **  translation in the same order as each Greek word, with some alternative English words to choose from, is below.
+**İngilizce **çeviride Yunanca söz sırası izlenebilir, örneğin, aşağıdaki gibi:
 
->//Do/make/produce therefore fruits fit/appropriate of the repentance//
+>//Therefore bear fruits in keeping with repentance (NASB) - Bu yüzden/çıkarın/semereleri/layık olan/tövbeye//
+=== Birebir ===
 
-=== Literal ===
+Birebir çeviride çoğu zaman Yunanca metindeki söz sırası olabildiğince izlenir. Ancak söz sırası oldukça farklı olan Türkçe gibi bir dilde bu söz konusu olmaz. Kitabı Mukaddes çevirisinde bu ayet şöyle çevrilmiştir:
 
-A literal translation would usually follow the words and order of the Greek text as closely as possible, such as the following.
+>//İmdi tövbeye lâyık semereler çıkarın…//
 
->//Therefore bear fruits in keeping with repentance, … //(NASB)
+Bu çeviride «semereler» ve «tövbe» sözcüklerinin birebir çevrildiğine dikkat edin.
 
-Note that this fairly-literal translation retains the words "fruits" and "repentance." The word order is also very similar to the Greek text.
+=== Anlama Dayalı ===
 
-=== Meaning-Based ===
+Anlama Dayalı çevirilerde ise çevirmenlerin anlamı açıklamak için yararlı buldukları takdirde sözcükleri ve söz sırasını değiştirecekleri ihtimali daha büyüktür. Anlama dayalı olan bu iki çeviriyi ele alalım:
 
-Meaning-based translations, on the other hand, are more likely to change the words and order if the translators think it will help to clarify the meaning. Consider these two meaning-based translations:
+>//«Günahlarınızdan döndüğünüzü kanıtlayan ürünler getirin.»// -Thomas Cosmades (TC)
 
->//…prove that you have turned from sin by doing worthy deeds.//  -Living Bible (LB)
+>//«Tövbe edin ve hakikaten değiştiğinizi amellerinizle gösterin.»// -Halk Dilinde İncil (HADİ)
 
->//Prove by the way you live that you have repented of your sins and turned to God. //  -New Living Translation (NLT)
-
-Notice that both of these translations have changed the word order to be more natural in English. Also, the word "fruits" no longer appears. In fact, the LB translation does not use any of the words in the NASB translation. Instead, rather than "fruits," the meaning-based translations refer to "deeds" or to "the way you live." "Fruits" in this verse is used as part of a metaphor. The meaning of "fruits" in this metaphor is "the things that a person does." (See the teaching module on Metaphor.) So these translations translated the meaning in context, rather than just the word. They also used more understandable phrases such as, "turned from sin" rather than the single difficult word, "repentance," or they explained the word by saying, "repented of your sins and turned to God."  The meaning in all of them is the same, but the form is very different. In the meaning-based translations, the meaning is much clearer. 
-
-
-
+Dikkat edin, TC çevirisinde «tövbe» sözcüğü hiç kullanılmamış, «günahlarından dönmek» şeklinde anlamı açıklanmıştır. HADİ çevirisinde «tövbe» sözcüğü kullanılmış, ama ardından onu açıklayan «değişmek» fiili da kullanılmıştır. «Semere» sözcüğü de kullanılmamıştır. Anlama dayalı çeviride «semere» metaforunun «insanın yaptıkları, amelleri» anlamı aktarılmaya çalışılır. (Metaforu öğreten modüle bakın.) Dolayısıyla anlam bağlama göre belirlenerek daha iyi anlaşılacak şekilde çevrilir. TC çevirisinde bu metafor «kanıtlayan ürünler» şeklinde çevrilmiş, HADİ’de ise insanın hakikaten değiştiğini gösteren «ameller» ifadesi kullanılmıştır. Anlam aynı kalır, sadece biçim değişir. Anlama dayalı çevirilerde anlam daha çok açık olur.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:translate_tform|Translate for Meaning]]//
 
+  * //[[:tr:ta:vol1:translate:translate_tform|Translate for Meaning]]//
