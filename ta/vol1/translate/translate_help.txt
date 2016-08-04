@@ -8,21 +8,19 @@ Before you start this module have you learned about:
   * //[[:tr:ta:vol1:translate:first_draft|Make a First Draft]]//
   * //[[:tr:ta:vol1:translate:resources_intro|Introduction to Resources]]//
 
-==== Using Translation Helps ====
+==== Çeviriye Dair Yardımcı Kaynakların Kullanılması ====
 
-To help translators make the best translation possible, Translation Notes and Translation Words have been created. There is a set of [[:en:obs:notes|Translation Notes]] (https://door43.org/en/obs/notes) and [[:en:obe:kt:home|Translation Words]] (https://door43.org/en/obe/kt/home) for Open Bible Stories, and also [[en:bible:notes:home|Translation Notes]] (https://door43.org/en/bible/notes/home) and [[en:obe:home|Translation Words]] (https://door43.org/en/obe/home) for the Bible.
+Çevirmenlerin olabildiğince iyi çeviri yapmalarına yardım etmek amacıyla Translation Notes (Çeviri Notları) ve Translation Words (Çeviri Sözleri) yardımcı kaynakları yaratılmıştır. Açık Kutsal Kitap Öyküleri için [[:en:obs:notes|Çeviri Notları]] ([[https://door43.org/en/obs/notes|https://door43.org/en/obs/notes]]) ve [[:en:obe:kt:home|Çeviri Sözleri]] ([[https://door43.org/en/obe/kt/home|https://door43.org/en/obe/kt/home]]) bulunduğu gibi, Kutsal Kitap için de [[:en:bible:notes:home|Çeviri Notları]] ([[https://door43.org/en/bible/notes/home|https://door43.org/en/bible/notes/home]]) ve [[:en:obe:home|Çeviri Sözleri]] ([[https://door43.org/en/obe/home|https://door43.org/en/obe/home]]) bulunmaktadır.
 
-Translation Notes are cultural, linguistic, and exegetical notes that help to describe and explain some of the Bible background that the translator needs to know to translate Open Bible Stories, as well as inform translators about different ways that they might express the same meaning.
+Translation Notes (Çeviri Notları), çevirmenin Açık Kutsal Kitap Öyküleri’ni çevirmek için bilmesi gereken Kutsal Kitap’ın arka planı ile ilgili olan bazı bilgileri tasvir etmeye ve açıklamaya ve çevirmenlere aynı anlamı ifade etmenin çeşitli yollarına dair bilgi vermeye yardım edebilecek kültür, dil ve yorum ile ilgili notlardır.
 
-The Translation Words are key terms found in Open Bible Stories and the Bible that are important to translate correctly. Each of these important terms has a small article written about it as well as cross-references to other places where that term is used in either Open Bible Stories or the Bible. This is to show the translator other ways that the important term is used and to ensure that it has been translated correctly in those places, too.
+Translation Words (Çeviri Sözleri), Açık Kutsal Kitap Öyküleri’nde ve Kutsal Kitap’ta düzgün çevrilmesi önemli olan terimler bulunuyor. Bu önemli terimlerden her birine dair yazılmış kısa makale ve Açık Kutsal Kitap Öyküleri’nde ve Kutsal Kitap’ta başka yerlere atıflar bulunuyor. Bu yolla çevirmene önemli terimin kullanıldığı başka yollar gösterilir ve terimin o yerlerde de doğru çevrilmesi saptanır.
 
-Once you have consulted the Translation Notes and Translation Words, then you are ready to make the best translation.
+Çeviri Notları ve Çeviri Sözleri’nden yararlanmaya başladıktan sonra en iyi çeviri yaratmaya hazır olursunuz.
 
-**Please use the Translation Notes & Translation Words when doing your translation!**
-
-
+**Çeviri yaparken Çeviri Notları ve Çeviri Sözleri’ni kullanmanızı rica ederiz!​**
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:resources_types|Types of Notes]]//
-  * //[[tr:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]//
 
+  * //[[:tr:ta:vol1:translate:resources_types|Types of Notes]]//
+  * //[[:tr:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]//
