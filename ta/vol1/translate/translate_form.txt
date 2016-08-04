@@ -1,12 +1,13 @@
-===== The Importance of Form =====
+===== Biçimin Önemi =====
 
-This module answers the question: //What is the importance of form?//
+This module answers the question: //Biçimin önemi nedir?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:translate:translate_fandm|Form and Meaning]]//
-  * //[[tr:ta:vol1:translate:translate_process|The Translation Process]]//
-  * //[[tr:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]//
-  * //[[tr:ta:vol1:translate:translate_retell|Re-telling the Meaning]]//
+
+  * //[[:tr:ta:vol1:translate:translate_fandm|Form and Meaning]]//
+  * //[[:tr:ta:vol1:translate:translate_process|The Translation Process]]//
+  * //[[:tr:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]//
+  * //[[:tr:ta:vol1:translate:translate_retell|Re-telling the Meaning]]//
 
 ==== Why Form is Important ====
 
