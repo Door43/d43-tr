@@ -10,11 +10,11 @@ Before you start this module have you learned about:
 
 Deyim, ayrı ayrı sözcüklerin anlamlarından farklı bir anlama gelen söz grubudur.
 
-==== Translation Suggestions ====
+==== Çeviri için Öneriler ====
 
-  * Use the original idiom if it would be clearly understood in your language.
-  * Use a different idiom that people use in your own language that has the same meaning.
-  * Translate the meaning plainly without using an idiom.
+  * Dilinizde açıkça anlaşılıyorsa, orijinal deyimi kullanın.
+  * İnsanların dilinizde aynı anlamda kullandıkları başka bir deyimi kullanın.
+  * Deyimi anlamını deyim kullanmaksızın çevirin.
 
 ==== Examples from the Bible ====
 
