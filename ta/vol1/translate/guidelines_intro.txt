@@ -35,24 +35,23 @@ Orijinal metnin anlamını eksiltmeden, değiştirmeden veya ona bir şey ekleme
 
 Açık, doğal ve doğru olduğu hâlde kilisece onaylanmayan ya da kabul edilmeyen çeviri, kiliseyi geliştirme amacına erişmiyor. Kilisenin çevirme, yoklama ve dağıtma süreçlerine katılması önemlidir. [[:tr:ta:vol1:translate:guidelines_church_approved|Kilise Onaylı Çevirileri]] yapmayı öğrenin.
 
-==== Eight Other Qualities ====
+==== Diğer Sekiz Nitelik ====
 
-In addition to being clear, natural, accurate, and church-approved, great translations should also be:
-  * [[tr:ta:vol2:translate:guidelines_faithful|Faithful]]
-  * [[tr:ta:vol2:translate:guidelines_authoritative|Authoritative]]
-  * [[tr:ta:vol2:translate:guidelines_historical|Historical]]
-  * [[tr:ta:vol2:translate:guidelines_pure|Pure]]
-  * [[tr:ta:vol2:translate:guidelines_equal|Equal]]
-  * [[tr:ta:vol2:translate:guidelines_expressive|Expressive]]
-  * [[tr:ta:vol2:translate:guidelines_collaborative|Collaborative]]
-  * [[tr:ta:vol2:translate:guidelines_ongoing|Ongoing]]
+Çok iyi çeviriler açık, doğal, doğru ve kilise onaylı olmasına ek olarak ayrıca şöyle olmalı:
 
-
+  * [[:tr:ta:vol2:translate:guidelines_faithful|Doğru]]
+  * [[:tr:ta:vol2:translate:guidelines_authoritative|Otorite]]
+  * [[:tr:ta:vol2:translate:guidelines_historical|Tarihsel]]
+  * [[:tr:ta:vol2:translate:guidelines_pure|Temiz]]
+  * [[:tr:ta:vol2:translate:guidelines_equal|Eşit]]
+  * [[:tr:ta:vol2:translate:guidelines_expressive|Canlı]]
+  * [[:tr:ta:vol2:translate:guidelines_collaborative|Müşterek]]
+  * [[:tr:ta:vol2:translate:guidelines_ongoing|Devamlı]]
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:guidelines_clear|Create Clear Translations]]//
-  * //[[tr:ta:vol1:translate:guidelines_natural|Create Natural Translations]]//
-  * //[[tr:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]//
-  * //[[tr:ta:vol1:translate:guidelines_church_approved|Create Church-Approved Translations]]//
-  * //[[tr:ta:vol1:translate:translate_process|The Translation Process]]//
 
+  * //[[:tr:ta:vol1:translate:guidelines_clear|Create Clear Translations]]//
+  * //[[:tr:ta:vol1:translate:guidelines_natural|Create Natural Translations]]//
+  * //[[:tr:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]//
+  * //[[:tr:ta:vol1:translate:guidelines_church_approved|Create Church-Approved Translations]]//
+  * //[[:tr:ta:vol1:translate:translate_process|The Translation Process]]//
