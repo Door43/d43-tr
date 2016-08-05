@@ -2,9 +2,9 @@
 
 This module answers the question: //Bilmediğim sözleri nasıl çevirmeliyim?​//
 
-==== How to Translate Unknowns ====
+==== Bilinmeyenler Nasıl Çevrilir ====
 
-There are times that the source language will use words and ideas that are not familiar. If you do not know what the source word means, the Translation Notes and Important Terms pages will help you understand its meaning. Sometimes, however, a word in the source text is an object, animal, practice, or other thing that is not known to the people who speak the target language. The following information will help with translating these unknown things or concepts.
+Bazen kaynak dilde bilinmeyen sözcükler ve kavramlar kullanılır. Kaynak metindeki bir sözcüğün anlamını bilmiyorsanız Translation Notes (Çeviri Notları) ve Important Terms (Önemli Terimler) sayfaları onların anlamlarını kavramanıza yardımcı olacaktır. Fakat bazen kaynak metindeki bir sözcük, hedef dilde konuşan insanlara bilinmeyen bir nesne, hayvan, uygulama ya da başka bir şeyi belirtir. Aşağıdaki bilgi, böyle bilinmeyen şeyleri ya da kavramları çevirmenize yardım edecek.
 
 ==== Historical facts ====
 
