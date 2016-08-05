@@ -8,9 +8,9 @@ Before you start this module have you learned about:
   * //[[:tr:ta:vol1:translate:translate_wforw|Word for Word Substitution]]//
   * //[[:tr:ta:vol1:translate:translate_fandm|Form and Meaning]]//
 
-==== The meaning of forms change ====
+==== Biçimlerin anlamı değişir ====
 
-Literal translations keep the form of the source text in the target text. Some translators might want to do this because, as we saw in the teaching module "The Importance of Form," the form of a text affects the meaning of the text. However, we must keep in mind that people from different cultures understand the meaning of forms differently. In different cultures, the same form may be understood in very different ways. Therefore it is not possible to protect the meaning from change by keeping the original forms. The only way to protect the meaning is to change the original form to a new form that communicates the same meaning in the new culture as the old form did in the old culture.
+Birebir çeviriler, kaynak metnin biçimlerini hedef metinde kullanırlar. Bazı çevirmenler, «Biçimin Önemi» modülünde öğrendiğimiz gibi metnin biçiminin anlamını etkilemesi nedeniyle böyle yapıyor olabilirler. Fakat aklımızda tutmamız gereken şu ki, değişik kültürlerden olan insanlar biçimlerin anlamını farklı şekilde anlarlar. Aynı biçim değişik kültürlerde çok farklı algılanabilir. Dolayısıyla orijinal biçimleri kullanmak ile anlamı değişmekten korumak imkansızdır. Anlamı korumanın tek yolu, orijinal biçimi eski kültürde ilettiği anlamın aynısını yeni kültürde iletebilecek yeni biçim ile değiştirmektir.
 
 ==== Different languages use different orders of words and phrases ====
 
