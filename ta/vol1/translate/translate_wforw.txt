@@ -28,39 +28,39 @@ Harfi harfine çeviriler zor okunur, çoğu zaman kafa karıştırıcı ve anlam
 
 Aşağıda Luka 3:16’nın HADİ çevirisi sunuluyor:
 
->//Yahya şöyle dedi: “Ben sizi suyla vaftiz ediyorum, fakat benden daha üstün Olan geliyor. Ben O’nun çarığının bağını çözmeye bile lâyık değilim. O sizi Mukaddes Ruh’la ve ateşle vaftiz edecek.”​//// //
+>//Yahya şöyle dedi: “Ben sizi suyla vaftiz ediyorum, fakat benden daha üstün Olan geliyor. Ben O’nun çarığının bağını çözmeye bile lâyık değilim. O sizi Mukaddes Ruh’la ve ateşle vaftiz edecek.”​//
 
-That translation is clear and easy to understand. But suppose the translators had used the word-for-word method. What would the translation be like?
+Bu çeviri açık ve kolay anlaşılandır. Ama çevirmenler bu ayeti harfi harfine yöntemiyle çevirseydiler çeviri nasıl olurdu?
 
-Here, translated in English, are the words in the same order as the original Greek.
+Aşağıda orijinal Yunanca metindeki kelimelerin tek tek Türkçe karşılıkları sunuluyor:
 
->//answered saying to all the John I indeed with water baptize you he comes but who mightier than I of whom not I am worthy untie the strap of the sandals of him he you will baptize with spirit holy and fire //
+>//yanıtladı diye hepsine bu Yahya ben gerçekten suyla vaftiz ediyorum sizi gelecek ama o güçlü benden o ki değilim layık bağlayayım bağını çarığının onun kendisi sizi vaftiz edecek Kutsal Ruh’la ve ateşle​//// //
 
-This translation is awkward and can be hard to understand in English. How does it sound in your language?
+Bu çeviri Türkçe zor anlaşılıyor. Bu, dilinizde nasıl seslenir?
 
-Look at the NET version above again. Notice the difference. The English NET translators did not keep the original Greek word order. They moved words around in the sentence to fit the rules of English grammar. They also changed some of the phrasing. For example, the English NET Bible said “John answered them” rather than “John answered to all saying,” They used different words to make the text sound natural in English.
+Tekrar yukarıdaki HADİ versiyonuna bakın ve farkı görün. Türkçe HADİ çevirisini yapanlar orijinal Yunanca söz sırasına uymadılar. Cümle Türkçe gramerine uysun diye sözcüklerin yerlerini değiştirdiler. Bazı ifadeleri de değiştirdiler. Örneğin, «Yahya onların hepsine şöyle diyerek cevap verdi» yerine «Yahya şöyle dedi.» Metnin Türkçe doğal seslenmesi için değişik sözcükleri kullandılar.
 
-It is important that the final result communicates the same meaning as the Greek text.
+Sonuçta oluşturulan metnin Yunanca metin ile aynı anlamı iletmesi önemlidir.
 
-In this example the NET is a much better English translation than the awkward word-for-word version.
+Bu örnekte HADİ’deki Türkçe, zor anlaşılan harfi harfine versiyonundan iyidir.
 
-== Range of Word Meanings ==
+== Kelime Anlamlarının Çeşitleri ==
 
-In addition, word-for-word substitution does not take into account that most individual words have a range of meanings. In word-for-word translations only one meaning is chosen.
+Ayrıca, harfi harfine çeviri yapanlar, birçok sözcüğün çeşitli anlamlarının bulunduğunu göz önüne almazlar. Harfi harfine çevirilerde sözcüğün sadece bir anlamı seçilir.
 
-For example, the Greek word //aggelos//  can refer to a human messenger or to an angel.
+Örneğin, Yunanca «aggelos» sözcüğü haberci olan bir insana ya da bir meleğe ait olabilir.
 
-In Luke 7:27, the word //aggelos//  refers to a human messenger. Jesus was talking about John the Baptist when he said “This is he of whom it is written, ‘Behold, I send my messenger before your face, Who will prepare your way before you.’
+Luka 7:27’de «aggelos» sözcüğü haberci olan bir insana aittir. İsa Vaftizci Yahya’dan söz ederken şöyle dedi: «‘İşte, habercimi senin önünden gönderiyorum; O önden gidip senin yolunu hazırlayacak’ diye yazılmış olan sözler onunla ilgilidir.»
 
-In Luke 2:15, it refers to angels when it says “when the angels went away from them into the sky.”
+Luka 2:15’te ise «Melekler yanlarından ayrılıp göğe çekildikten sonra...» diye başlayan cümlede bu sözcük meleklere aittir.
 
-A word-for-word substitution might translate the Greek word in both verses as “messenger” or “angel” even though it is used to refer to two different kinds of beings. This would be confusing to the reader.
+Bu ayetlerde bu sözcüğün iki farklı varlığı belirtmesine rağmen, harfi harfine çeviride bu sözcük her iki ayette aynen ya «haberci» ya da «melek» olarak çevrilebilir. Bu da okuyu için kafa karıştırıcı olabilir.
 
-== Figures of Speech ==
+== Mecazlar ==
 
-Finally, word-for-word substitution does not convey the meaning of a figure of speech.
+Sonuç itibarile, harfi harfine çeviri mecazın anlamını iletmez.
 
-Figures of Speech have meanings that are different from the individual words that they are made up of. When they are translated word-for-word, their meanings are not clear. Even if they are translated so that they follow the normal word order of they language they are translated into, their meaning may not be clear. Please go to the Figures of Speech module to learn more on how to correctly translate them.
+Mecazların anlamları, oluştukları ayrı sözcüklerin anlamlarından farklı olur. Onlar harfi harfine çevrildiğinde anlamları açık değil. Hatta hedef dilin doğal söz sırasına uygun olarak çevrildiğinde bile anlamları açık olmayabilir. Mecazları düzgün çevirmek konusunda daha çok öğrenmek için Mecazlar modülüne gidin.
 
 Next we recommend you learn about:
 
