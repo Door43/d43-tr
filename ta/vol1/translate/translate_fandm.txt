@@ -8,11 +8,12 @@ Before you start this module have you learned about:
   * //[[:tr:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]//
   * //[[:tr:ta:vol1:translate:translate_retell|Re-telling the Meaning]]//
 
-==== Defining Form & Meaning ====
+==== Biçimin ve Anlamın Tanımlanması ====
 
-Two of the major terms used in translating text are "form" and "meaning." These terms are used in special ways in Bible translation. They have the following definitions:
-  * **Form** - The structure of the language as it appears on the page or as it is spoken. "Form" refers to the way that the language is arranged - it includes the words, the word order, the grammar, idioms, and any other features of the structure of the text.
-  * **Meaning** - The underlying idea or concept that the text is trying to communicate to the reader or hearer. A speaker or writer can communicate the same meaning by using different forms of the language, and different people can understand different meanings from hearing or reading the same language form. In this way you can see that form and meaning are not the same thing.
+Metin çevirisinde kullanılan belli başlı iki terim «biçim» ve «anlam»dır. Bu terimler Kutsal Kitap çevirisinde özellikle şöyle tanımlanmaktadır:
+
+  * **Biçim **- Bir dilin yazılı ya da sözlü olarak kullanılan yapısıdır. «Biçim», dilin düzenlenmesidir; sözcükleri, söz sırasını, grameri, deyimleri ve metin yapısının herhangi başka niteliklerini içerir.
+  * **Anlam **- Metinde okuyucuya veya dinleyiciye iletilmeye çalışılan belli başlı düşünce ya da kavramdır. Anlatıcı veya yazar dilin değişik biçimlerini kullanarak aynı anlamı iletebilir ve değişik insanlar aynı dil biçimini işitir ya da okur iken değişik anlamları algılayabilirler. Böylece biçim ve anlamın aynı şey olmadığını görebilirsiniz.
 
 ==== An Example ====
 
