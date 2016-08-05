@@ -7,11 +7,11 @@ Before you start this module have you learned about:
   * //[[:tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
   * //[[:tr:ta:vol1:translate:translate_source_licensing|Copyrights, Licensing, and Source Texts]]//
 
-==== Importance of Version Numbers ==== 
+==== Versiyon Numaralarının Önemi ====
 
-Especially in an open project like unfoldingWord, it is important to keep track of published versions. It is important because translations (and source texts) can change frequently. Being able to identify each version helps bring clarity about which iteration is being talked about. Version numbers are also important because all translations should be based off of the latest source text. If the source text changes, the translation should be updated to match the latest version. 
+Özellikle unfoldingWord gibi açık bir projede yayınlanan versiyonların izini kaydetmek önemlidir. Çünkü çeviriler (ve kaynak metinler) sık sık değişebilir. Hangi versiyonun söz konusu olduğunu netleştirmek açısından her versiyonun belirlenebilmesi önemlidir. Versiyon numaraları da önemlidir, çünkü bütün çeviriler en son kaynak metne dayalı olmak zorundadır. Kaynak metin değişirse çeviri son versiyona kadar güncelleştirilmeli.
 
-Before starting a translation project, please ensure that you have the latest version of the source text.
+Çeviri projesine başlamadan önce elinizdeki kaynak metnin en son versiyon olduğundan emin olun.
 
 ==== How Versioning Works ====
 
