@@ -1,9 +1,10 @@
-===== Order of Events =====
+===== Olayların Sırası =====
 
-This module answers the question: //Is it important to have the order of events correct?//
+This module answers the question: //Olayların sırasını doğru yazmak önemli midir?//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:translate:figs_intro|Figures of Speech]]//
+
+  * //[[:tr:ta:vol1:translate:figs_intro|Figures of Speech]]//
 
 ==== Explanation ====
 
