@@ -16,9 +16,9 @@ Birebir çeviriler, kaynak metnin biçimlerini hedef metinde kullanırlar. Bazı
 
 Kaynak metindeki söz sırasını çevirinizde kullanırsanız, dilinizde konuşan insanların metni anlaması çok zor ve bazen imkansız olur. İnsanların metnin anlamını kavramaları için hedef dile özgü söz sırasını kullanmanız gerekir.
 
-==== Different languages use different idioms and expressions ====
+==== Değişik dillerde değişik deyimler ve ifadeler kullanılır. ====
 
-Each language has its own idioms and other expressions, such as words that represent sounds or emotions. In order to express the meaning of these things, you must choose an idiom or expression that has that same meaning in the target language, not just translate each word. If you do that, the idiom or expression will have the wrong meaning.
+Her dilde, örneğin, ses ve duyguları ifade eden sözler gibi kendine özgü deyimler ve başka ifadeler vardır. Bunların anlamını ifade etmek için her sözcüğü çevirmektense hedef dilde aynı anlamı aktaran deyim ya da ifade bulmanız gerekir. Sadece sözcükleri çevirirseniz, deyim ya da ifade yanlış anlamı aktarır.
 
 ==== Some terms do not have equivalents in other cultures ====
 
