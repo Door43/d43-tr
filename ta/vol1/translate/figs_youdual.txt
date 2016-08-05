@@ -12,9 +12,9 @@ Kutsal Kitap'ın orijinali İbranice ve Yunanca yazılmıştır. Bu dillerin iki
 
 Türkçe gibi dillerde tek kişiye «sen», çok kişiye [[:tr:ta:vol1:translate:figs_youdual|«siz»]] diye müracaat edilir. Bazı dillerde iki kişiye müracaat için [[:tr:ta:vol1:translate:figs_youdual|«ikil»]] biçim mevcuttur («ikiniz»), hatta bazı dillerde üç ve dört kişiye müracaat için kullanılan ayrı biçimler bulunmaktadır.
 
-==== Translation Suggestions ====
+==== Çeviri için Öneriler ====
 
-Note that for many languages, the decision about what form of the pronoun to use will also affect the form of the verb associated with it, even in cases where the word “you” is not expressed (for example when a command is given).
+Dikkat edin, birçok dilde belirli 2. şahıs formunu kullanma kararı, «sen» ya da «siz» zamiri kullanmadığı zaman bile ilgili fiili etkiler (örneğin emir verildiği zaman.)
 
 ==== Examples from the Bible ====
 
