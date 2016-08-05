@@ -16,26 +16,29 @@ Türkçe gibi dillerde tek kişiye «sen», çok kişiye [[:tr:ta:vol1:translate
 
 Dikkat edin, birçok dilde belirli 2. şahıs formunu kullanma kararı, «sen» ya da «siz» zamiri kullanmadığı zaman bile ilgili fiili etkiler (örneğin emir verildiği zaman.)
 
-==== Examples from the Bible ====
+==== Kutsal Kitap’tan Örnekler ====
 
->//And James and John, the sons of Zebedee, came up to him and said to him, “Teacher, we want you to do for us whatever we ask of you.” And [Jesus] said to them, “What do __you__ want me to do for __you__?”// -Mark 10:35-36
+>//«Zebedi’nin oğulları Yakup ile Yuhanna İsa’ya yaklaşıp, “Öğretmenimiz, bir dileğimiz var, bunu yapmanı istiyoruz” dediler. İsa onlara, “__Sizin__ için ne yapmamı istiyorsunuz?” diye sordu.» // (Markos 10:35-36)
 
-Jesus is asking the **two**, James and John, what they want him to do for them. If the target language has a dual form of "you," it would be appropriate to use it here. If the target language does not have a dual form, then the plural form would be appropriate.
+İsa **iki kişiye** -Yakup ile Yuhanna'ya- onlar için ne yapmasını istediklerini sorar. Hedef dilde «siz» zamirinin ikil biçimi varsa burada kullanılması uygun olur. Hedef dilde ikil biçim bulunmuyorsa çoğul biçim («siz») uygun olur.
 
->//…Jesus sent two of his disciples, saying to them, “Go to the village ahead of __you__, and just as __you__ enter it, __you__ will find a colt tied there, which no one has ever ridden. Untie it and bring it here.// -Mark 11:1-2
+>//«...İsa iki öğrencisini önden gönderdi. Onlara, “Karşınızdaki köye gidin” dedi, “Köye girer girmez, üzerine daha hiç kimsenin binmediği, bağlı duran bir sıpa bulacaksınız. Onu çözüp bana getirin.»// (Markos 11:1-2)
 
-The context makes it clear that Jesus is addressing two persons, so the dual form of “you” would be used here in languages that make that distinction. Here the verbs “go” and “untie” would also need the dual form.
+İsa'nın iki kişiye müracaat ettiği bağlamdan anlaşılıyor, dolayısıyla ikil biçimi bulunan dillerde bu biçim kullanılacak. «Gidin» ve «çözüp getirin» fiilleri de ikil biçimde olacak.
 
-In instructional text, the “you” is often **plural**  since it is addressing a wide audience. Here is an example:
+Öğretici metinde çoğu zaman çoğul **«siz»** zamiri kullanılır, çünkü çok dinleyiciye müracaat edilir. İşte bir örnek:
 
->//Since __you__ call on a Father who judges each man’s work impartially, live __your__ lives as strangers here in reverent fear.// -1 Peter 1:17
+>//«Kimseyi kayırmadan, kişiyi yaptıklarına bakarak yargılayan Tanrı’yı Baba diye çağırdığınıza göre, gurbeti andıran bu dünyadaki zamanınızı Tanrı korkusuyla geçirin.» // (1. Petrus) 1:17
 
-Also watch the video for the [[http://youtu.be/cPtjzJ2Advk|computer]] (http://youtu.be/cPtjzJ2Advk) or the [[http://youtu.be/AVITfDEk8nc|tablet/phone]] (http://youtu.be/AVITfDEk8nc).
-
-
+Ayrıca [[http://youtu.be/cPtjzJ2Advk|bilgisayarda]]
+şu videoyu
+( [[http://youtu.be/cPtjzJ2Advk|http://youtu.be/cPtjzJ2Advk]]
+)  ya da  [[http://youtu.be/AVITfDEk8nc|tablet/telefonda]]
+ şu videoyu ( [[http://youtu.be/AVITfDEk8nc|http://youtu.be/AVITfDEk8nc]]
+) izleyebilirsiniz.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:figs_you|Forms of You]]//
-  * //[[tr:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]//
-  * //[[tr:ta:vol1:translate:figs_order|Word Order]]//
 
+  * //[[:tr:ta:vol1:translate:figs_you|Forms of You]]//
+  * //[[:tr:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]//
+  * //[[:tr:ta:vol1:translate:figs_order|Word Order]]//
