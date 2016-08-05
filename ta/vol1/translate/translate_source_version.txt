@@ -13,15 +13,15 @@ Before you start this module have you learned about:
 
 Çeviri projesine başlamadan önce elinizdeki kaynak metnin en son versiyon olduğundan emin olun.
 
-==== How Versioning Works ====
+==== Versiyonların Numaralandırılması Nasıl Çalışır? ====
 
-Version numbers are only given when a work is published, not when they are edited (in Door43 or translationStudio). Edit revision is kept in Door43, but this is different than a work being given a version number.
+Versiyon numarası, yayına hazırlanan (Door43 ya da translationStudio’da) metne değil, yayınlanan metne verilir. Yayın revizyonu Door43’te saklansa da, versiyon numarasını alan metinden farklı bir metindir.
 
-Prior to August 1, 2015, the versioning system used by unfoldingWord was very complex. Each major revision would increase the version number by 0.1 (e.g. ver 1 became ver 1.1) while each minor revision would change it by 0.0.1 (e.g. ver 1 became ver 1.0.1). When translations were created based off of a version number, it became widely complex to keep track of what translation was based off of which version. 
+1 Ağustos 2015 tarihinden önce unfoldingWord’da uygulanan versiyon numaralandırma sistemi oldukça karmaşıktı. Her büyük revizyon, versiyon numarasından 0.1 yükselirdi (örn., ver 1’den ver 1.1’e dönüşürdü), her küçük revizyon ise 0.0.1 yükselirdi (örn., ver 1’den ver 1.0.1’e dönüşürdü). Çeviriler belirli versiyon numarasına göre yaratıldığı zaman hangi çevirinin hangi versiyon esasında yapıldığını belirlemek oldukça zor olurdu.
 
-On August 1, 2015, a new versioning system was adopted. Each source text was given an integer (e.g. ver 1). Any edits made to the source text increased the integer by 1 (e.g. ver 1 became ver 2). Any translations based off of that source text took the version number the translation was based off of and added .1 (e.g. a translation off of ver 2 would be published as ver 2.1). A translation off of that translation would add a .1 to the version number it was created from (e.g. a translation off of ver 2.1 would be published as 2.1.1). Any time a text was updated, the number associated with that text would increase by 1 (e.g. if ver 2.1.1 was updated, it would become ver 2.1.2; ver 2.1 would become ver 2.2; etc). For a complete explanation of unfoldingWord versioning please read [[https://unfoldingword.org/versioning|here]].
+1 Ağustos 2015 tarihinde yeni versiyon numaralandırma sistemi kabul edilmiştir. Her kaynak metne tam numara verilmeye başladı (örn., ver 1). Kaynak metne yapılan herhangi değişiklikler numarayı yükseltir (örn., ver 1’den ver 2’ye dönüşür). Belirli kaynak metin esasında yapılan bütün çeviriler o kaynak metnin numarasını artı .1’i alır (örn., ver 2 esasında yapılan çeviri ver 2.1 olarak yayınlanır). O çeviriden yaratılan çeviri, esasında yaratılmış olduğu versiyon numarası artı .1 şeklinde numaralandırılır (örn., ver 2.1 esasında yaratılan bir çeviri ver 2.1.1 olarak yayınlanır). Metin güncelleştirildiği her kez o metne ait olan numara yükselir (örn., ver 2.1.1 güncelleştirilirse ver 2.1.2 olur; ver 2.1 ver 2.2 olur vs.). unfoldingWord versiyon numaralandırmasının tam açıklanması için [[https://unfoldingword.org/versioning|şunu]] okumanız rica olunur.
 
-//Note: For Open Bible Stories, all translations ver 3.x and before are the old system, ver 4 and above are the new system.//
+//Not: Açık Kutsal Kitap Öyküleri’nin ver 3.x ve daha önceki çevirilerin hepsi eski, ver 4 ve sonraki versiyonlarının hepsi yenidir.​//
 
 ==== Where to Find the Latest Version ====
 
