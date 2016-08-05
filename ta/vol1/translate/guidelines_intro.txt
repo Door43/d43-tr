@@ -8,32 +8,32 @@ Before you start this module have you learned about:
   * //[[:tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]//
   * //[[:tr:ta:vol1:translate:translate_whatis|What is Translation]]//
 
-==== Four Main Qualities ====
+==== Dört Temel Nitelik ====
 
-There are four main qualities of a good translation. It must be:
+İyi çevirinin dört temel niteliği vardır. Bu nitelikler şunlardır:
 
-  * [[tr:ta:vol1:translate:guidelines_clear|Clear]]
-  * [[tr:ta:vol1:translate:guidelines_natural|Natural]]
-  * [[tr:ta:vol1:translate:guidelines_accurate|Accurate]]
-  * [[tr:ta:vol1:translate:guidelines_church_approved|Church-Approved]]
+  * [[:tr:ta:vol1:translate:guidelines_clear|Açık]]
+  * [[:tr:ta:vol1:translate:guidelines_natural|Doğal]]
+  * [[:tr:ta:vol1:translate:guidelines_accurate|Doğru]]
+  * [[:tr:ta:vol1:translate:guidelines_church_approved|Kilise Onaylı]]
 
-We can think of each of these qualities as a leg of a four-legged stool. Each one is necessary. If one is missing, the stool will not stand. Likewise, each of these qualities must be present in a translation in order for it to be useful and faithful to the church. 
+Bu nitelikleri dört ayaklı sandalyenin birer ayağı şeklinde düşünebiliriz. Her biri gereklidir. Ayaklardan biri eksikse, sandalye duramayacak. Bunun gibi, çevirinin kilise için yararlı ve doğru olması için bu niteliklerin her birinin bulunması zorunludur.
 
-=== Clear ===
+=== Açık ===
 
-Use whatever language structures are necessary to achieve the highest level of comprehension. This includes simplifying concepts, rearranging the form of a text, and using as many or as few terms as necessary to communicate the original meaning as accurately as possible. Learn how to make [[tr:ta:vol1:translate:guidelines_clear|Clear Translations]].
+En yüksek kavrama seviyesine erişmek için gerekebilecek herhangi dil ifade yapılarını kullanın. Bu amaçla, orijinal anlamı olabildiğince doğru iletmek için kavramları basitleştirebilir, metnin şeklini değiştirebilir ve gerektiği kadar az ya da çok terim kullanabilirsiniz. [[:tr:ta:vol1:translate:guidelines_clear|Açık Çevirileri]] yaratmayı öğrenin.
 
-=== Natural ===
+=== Doğal ===
 
-Use language forms that are effective and that reflect the way your language is used in corresponding contexts. Learn how to make [[tr:ta:vol1:translate:guidelines_natural|Natural Translations]].
+Etkili olan ve dilinizin ilgili bağlamlarda kullanıldığı yolları yansıtan biçimleri kullanın. [[:tr:ta:vol1:translate:guidelines_natural|Doğal Çevirileri]] yaratmayı öğrenin.
 
-=== Accurate ===
+=== Doğru ===
 
-Translate accurately, without detracting from, changing, or adding to the meaning of the original text. Translated content should faithfully communicate as precisely as possible the meaning of the original text as it would have been understood by the original audience. Translate with the meaning of the text in mind and communicate accurately the implicit information, unknown concepts and figures of speech. Learn how to make [[tr:ta:vol1:translate:guidelines_accurate|Accurate Translations]].
+Orijinal metnin anlamını eksiltmeden, değiştirmeden veya ona bir şey eklemeden doğru şekilde çevirin. Çevrilen içeriğin, orijinal metnin anlamını orijinal dinleyiciler/okuyucular tarafından anlaşıldığı gibi olabildiğince net ve doğru bir şekilde iletmesi gerekir. Metni, anlamını göz önünde bulundurarak çevirin ve örtülü bilgileri, bilinmeyen kavramları ve mecazları doğru şekilde iletin. [[:tr:ta:vol1:translate:guidelines_accurate|Doğru Çevirileri]] yapmayı öğrenin.
 
-=== Church-Approved ===
+=== Kilise Onaylı ===
 
-If a translation is clear, natural, and accurate but the church does not approve of it or accept it, then it does not achieve the final goal of edifying the church. It is important that the church be involved in the translation, checking, and distribution of the translation. Learn how to make [[tr:ta:vol1:translate:guidelines_church_approved|Church-Approved Translations]].
+Açık, doğal ve doğru olduğu hâlde kilisece onaylanmayan ya da kabul edilmeyen çeviri, kiliseyi geliştirme amacına erişmiyor. Kilisenin çevirme, yoklama ve dağıtma süreçlerine katılması önemlidir. [[:tr:ta:vol1:translate:guidelines_church_approved|Kilise Onaylı Çevirileri]] yapmayı öğrenin.
 
 ==== Eight Other Qualities ====
 
