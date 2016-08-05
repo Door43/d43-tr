@@ -1,10 +1,11 @@
-===== Word for Word Substitution =====
+===== Harfi Harfine Çeviri =====
 
-This module answers the question: //Why should I not translate using word for word substitution?//
+This module answers the question: //Neden harfi harfine çevirmemem gerekir?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:translate:translate_literal|Literal Translations]]//
-  * //[[tr:ta:vol1:translate:translate_fandm|Form and Meaning]]//
+
+  * //[[:tr:ta:vol1:translate:translate_literal|Literal Translations]]//
+  * //[[:tr:ta:vol1:translate:translate_fandm|Form and Meaning]]//
 
 ==== Definition ====
 
