@@ -6,45 +6,46 @@ This module answers the question: //Bilmediğim sözleri nasıl çevirmeliyim?�
 
 Bazen kaynak dilde bilinmeyen sözcükler ve kavramlar kullanılır. Kaynak metindeki bir sözcüğün anlamını bilmiyorsanız Translation Notes (Çeviri Notları) ve Important Terms (Önemli Terimler) sayfaları onların anlamlarını kavramanıza yardımcı olacaktır. Fakat bazen kaynak metindeki bir sözcük, hedef dilde konuşan insanlara bilinmeyen bir nesne, hayvan, uygulama ya da başka bir şeyi belirtir. Aşağıdaki bilgi, böyle bilinmeyen şeyleri ya da kavramları çevirmenize yardım edecek.
 
-==== Historical facts ====
+==== Tarihsel olaylar ====
 
-It is very important to remember that if the term expresses a historical fact, then that fact must be kept in a translation. For example, in Mark 11:13, Jesus cursed a fig tree. To substitute any other kind of tree would be untrue to a historical fact. To translate this, follow one of the following options:
-  * Use a general descriptive phrase, such as "a fruit tree."
-  * Use a descriptive phrase with a borrowed word, such as "a tree that bears fruit called 'figs.'"
-  * Use a borrowed word for the name of the tree: "a fig tree."
+Şunu aklınızda tutmanız önemlidir ki, bir terim tarihsel olayı belirtirse, söz konusu olayın çeviride kalması gerekir. Örneğin, Markos 11:13’te İsa incir ağacını lanetler. İncir yerine herhangi başka bir ağacı yazmak, tarihsel olayı yanlış anlatmak olurdu. Bunu çevirmek için aşağıdaki seçeneklerden birini uygulayın:
 
-For the last two choices, a footnote would be necessary to explain what "fig" means.
+  * «Meyve ağacı» gibi genel tanımlayıcı bir ifade kullanın.
+  * «'İncir' adındaki meyve ağacı» gibi ödünç alınmış sözcükle tanımlayıcı bir ifade kullanın.
+  * Ağacın adı olarak ödünç alınmış bir sözcük kullanın: «incir ağacı.»
 
-Another example is In John 12:14-15 where it says that Jesus rode into Jerusalem on a donkey's colt, which fulfilled a prophecy in the the Old Testament. Since it says that Jesus was sitting on a donkey's colt, which is a young donkey, the translation should not say that he sat on an ox, for example. If the word for "donkey" does not exist in the target language, a borrowed word could be used and explained in the text or in a footnote. For example, the text could say, “riding on the young of a kind of work animal called a ‘donkey.'”
+Son iki seçenek için «incir»in anlamını açıklayan bir dipnot gerekli olabilir.
 
-This is different from the use of an animal as part of a teaching or illustration. In that case, it is not a matter of historical fact. See the example of "wolf" below.
+Başka bir örnek, İsa’nın Eski Ahit peygamberliğini yerine getirmek için sıpaya binip Yeruşalim’e girdiğini anlatan Yuhanna 12:14-15’tir. İsa’nın eşek yavrusu olan sıpaya bindiği yazıldıysa, çeviride örneğin öküze bindiği yazılamaz. Hedef dilde «eşek» için bir sözcük bulunmuyorsa, ödünç alınmış bir sözcük kullanılıp metinde ya da dipnotta açıklanabilir. Örneğin, metinde şöyle yazılabilir: «'eşek' adındaki bir hizmet hayvanının yavrusuna binerek...»
 
-=== Food and other objects ===
+Bu, bir hayvanın öğreti ya da açıklayıcı örnek olarak kullanılmasından farklıdır. Çünkü o hâlde tarihsel olay söz konusu değildir. Aşağıdaki «kurt» örneğine bakabilirsiniz.
 
-  * plow (vs hand planting)
-      * See the example of translating '[[:en:bible:notes:luk:09:61|plow]]' in Luke 9:62.
-  * grapes, vineyard
-  * wheat
-  * bread
-  * numbers, numerals
+=== Yiyecekler ve başka nesneler ===
 
-=== Animals ===
+  * saban (elle ekmenin karşıtı)
+      * Bkz: Luka 9:62’de «saban» sözcüğünün çevrilmesine dair örnek.
+  * üzüm, üzüm bağı
+  * buğday
+  * ekmek
+  * rakamlar, sayılar
 
-An example of the use of an animal in the Bible as an illustration is in John 10:12 where the word "wolf" is used as a way to describe a person who is harmful to God's people. There are many things to describe about a wolf but what is important in this verse is that it is a fierce and dangerous animal that frightens and harms the sheep.
+=== Hayvanlar ===
 
-If a wolf is an unknown animal in your culture, you could substitute an animal that looks similar and that has similar characteristics. For example, large wild dogs are similar to wolves. They attack and eat other animals, such as lambs. So “wolves” could be translated with a generic term like “wild dogs” or “fierce dogs” or with the name of a specific animal like a dog that your people know of, such as “coyotes” or “jackals.” You could also use a general descriptive phrase such as, "a dangerous wild animal" that focuses on the characteristics that are being highlighted in the text.
+Kutsal Kitap’ta bir hayvanın kullanımına dair bir örnek Yuhanna 10:12’de bulunmaktadır. Bu ayette «kurt» sözcüğü Tanrı’nın halkına zarar veren birine ait olarak kullanılır. Kurtla ilgili çok şeyler açıklanabilir, ama bu ayette koyunları korkutan ve mahveden yırtıcı ve tehlikeli bir hayvan olması özellikle vurgulanmaktadır.
 
-Also see the Translation Note at Luke 10:3 for other translation suggestions for [[:en:bible:notes:luk:10:03|"wolf."]]
+Kültürünüzde kurt, bilinmeyen bir hayvan ise, kurdun yerine ona benzeyen ve benzer niteliklere sahip olan bir hayvanı kullanabilirsiniz. Örneğin, iri vahşi köpekler de kurtlara benzerler. Kuzu gibi hayvanlara saldırır, onları yerler. Dolayısıyla «kurtlar» burada «vahşi köpekler» ya da «yırtıcı köpekler» gibi genel bir terimle ya da halkınızın iyi bildiği, köpek ailesinden olan «kır kurdu» ya da «çakal» gibi özel bir terimle çevrilebilir. Ayrıca metinde vurgulanan niteliklere odaklanan «tehlikeli vahşi hayvan» gibi genel tanımlayıcı bir ifade kullanabilirsiniz.
 
-=== Cultural practices ===
+Ayrıca Çeviri Notları’nda Luka 10:3 için [[:en:bible:notes:luk:10:03|«kurt»]] teriminin çevirisi için diğer öneriler bulunmaktadır.
 
-There might be many differences between the biblical culture and the target language culture. Sometimes a cultural substitute can be used. But be careful not to change any historical facts (see explanation above).
+=== Kültürel uygulamalar ===
 
-The unknown biblical practice could be explained in a footnote or Bible teaching. The explanations could include a known cultural practice that has the same meaning as the one described in the Bible text. For example, in Jewish culture, grief and repentance for sin were shown by wearing a rough type of cloth (sackcloth) and putting ashes on the head. Wailing was another sign of grief. In other cultures grief may be shown in different ways. But if this practice was something that actually happened it needs to be recorded as such, with an explanation that tells what it means, perhaps using a practice from the target culture that has the same meaning.
+Kutsal Kitap kültürü ile hedef dil kültürü arasında birçok farklılık bulunabilir. Bazen kültüre uygun olan değişiklik kullanılabilir. Fakat tarihsel bir olayı değiştirmemeye çok dikkat edin. (yukarıdaki açıklamaya bakın)
 
-For example, in certain cultures when men greeted other men who were family or friends, they would kiss them on one cheek or both cheeks. This can be translated as “to greet him with a kiss” or “to greet him by kissing him.” If this is not done in your culture, you could explain it with a footnote. If your readers would find it embarrassing or inappropriate to say that a man would kiss another man, you could translate it in a more general way such as, “to give him a friendly greeting.”
+Bilinmeyen bir Kutsal Kitap uygulaması dipnotta ya da Kutsal Kitap öğretisinde açıklanabilir. Açıklamada Kutsal Kitap metninde bahsedilen kültürel uygulamayla aynı anlama gelen bilinen bir kültürel uygulama kullanılabilir. Örneğin, Yahudi kültüründe günah için pişmanlık ve tövbe, sert kumaştan yapılan giysiye (çul) sarınmak ve başından aşağı kül dökmek yolu ile gösterilirdi. Pişmanlığın başka bir belirtisi feryattı. Başka kültürlerde pişmanlığın belirtileri farklı olabilir. Fakat bu gerçekten yapılan bir uygulama ise, olduğu gibi anlatılması gerekir ve belki de ayrıca hedef dilin kültüründe aynı anlama gelen bir uygulama ile açıklanması gerekir.
 
-See the example of [[:en:bible:notes:luk:22:47|'greet with a kiss']] in Luke 22:47.
+Örneğin, bazı kültürlerde erkekler, akraba ya da arkadaş olan başka erkeklere selam verirken onları yanaktan öperlerdi. Bu şöyle çevrilebilir: «adamı öpüşle selamlamak» ya da «adamı öperek selamlamak.» Kültürünüzde böyle yapmıyorlarsa, bunu bir dipnotta açıklayabilirsiniz. Okuyucularınız bir erkeğin başka bir erkeği öpmesini utanç verici ya da yersiz sayarlarsa, bunu daha genel bir şekilde, örneğin, «adamı dostça selamlamak» olarak çevirebilirsiniz.
+
+Bkz: Luka 22:47’de [[:en:bible:notes:luk:22:47|«öpüşle selamlamak»]] ifadesine dair bir örnek.
 
 ==== Translation Suggestions ====
 
