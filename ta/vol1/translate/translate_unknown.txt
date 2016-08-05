@@ -1,6 +1,6 @@
-===== Translate Unknowns =====
+===== Bilinmeyenler Sözlerin Çevrilmesi =====
 
-This module answers the question: //How do I translate words that I do not know?//
+This module answers the question: //Bilmediğim sözleri nasıl çevirmeliyim?​//
 
 ==== How to Translate Unknowns ====
 
