@@ -29,25 +29,23 @@ Versiyon numarası, yayına hazırlanan (Door43 ya da translationStudio’da) me
 
 //Not: translationStudio ve unfoldingWord uygulamalarında her zaman en son versiyonlar bulunmaz, çünkü içeriğin güncelleştirilmesi otomatik olarak yapılmaz.​//
 
-==== How to Update a Previous Version of Open Bible Stories ====
+==== Açık Kutsal Kitap Öyküleri’nin Önceki Versiyonu Nasıl Güncelleştirilir ====
 
-=== Identify which Version of Open Bible Stories ===
+=== Açık Kutsal Kitap Öyküleri’nin Versiyonunun Belirlenmesi ===
 
-Many translations have the version number listed. If the version number is not available, figuring out which version a translation was based off of is important. 
+Birçok çeviride versiyon numarası listelemiştir. Versiyon numarası bulunmuyorsa, çevirinin hangi versiyon esasında yapılmış olduğunu belirlemek önemlidir.
 
-To figure out which version a particular translation was translated from, do the following:
-  * Check story #45. If it ends with Philip looking at the chariot, then it is translated from version 1.x. If it ends with the Ethiopian Official smiling, go to the next step.
-  * Check frame 06-02. If the phrase "to the land where Abraham's relatives lived" is not included, then it is translated from version 2.x. If it is included, it is translated from at least version 3.x. (Also check frame 09-06. If "in order to save him from being killed" is not included, it is translated from version 2.x. If it is included, it is translated from at least version 3.x.)
-  * If you are still not sure, we have created a complete set of all the changes between [[https://door43.org/obs-diffs/ver_1-to-ver_3.html|Version 1.x]] or [[https://door43.org/obs-diffs/ver_2-to-ver_3.html|Version 2.x]] and the current version. Compare your translation to this list of changes to determine which version your translation was made from. Note: All text highlighted in green has been added, text highlighted in yellow has been changed, and text highlighted in red has been deleted. Only frames that have changed are included in these lists.
-  * To make sure you have all the latest changes, look at the [[:en:obs:change-log|change log]] and make sure these changes have been made in your language.
-  
-=== Update to the Latest Version of Open Bible Stories ===
+Çevirinin hangi versiyondan yapıldığını belirlemek için şunları yapın:
 
-Once you have identified which version of Open Bible Stories the translation in your language used, you will need to update the translation in your language to the latest version. To help simplify the update process, we have generated change logs of all of the changes that happened between [[https://door43.org/obs-diffs/ver_1-to-ver_3.html|version 1.x and the latest]] and [[https://door43.org/obs-diffs/ver_2-to-ver_3.html|version 2.x and the latest]]. Simply go through these changes and update the text in your language according to those documents, and your translation of Open Bible Stories will be up to date.
+  * 45 nolu öyküye bakın. Bu öykü Filipus’un arabaya bakmasıyla sona eriyorsa 1.x versiyonundan çevrildiği anlaşılıyor. Etiyopyalı adamın gülümsemesiyle sona eriyorsa, bir sonraki adıma geçebilirsiniz.
+  * 06-02 çerçevesini yoklayın. «İbrahim’in akrabalarının yaşadıkları yere» sözleri bulunmuyorsa, 2.x versiyonundan; bulunuyorsa, en az 3.x versiyonundan çevrildiği bellidir. (Ayrıca 09-06 çerçevesini yoklayın. «Öldürülmesin diye» sözleri bulunmuyorsa 2.x; bulunuyorsa en az 3.x versiyonundan çevrildiği bellidir.)
+  * Hâlâ emin değilseniz, [[https://door43.org/obs-diffs/ver_1-to-ver_3.html|1.x]] veya [[https://door43.org/obs-diffs/ver_2-to-ver_3.html|2.x]] versiyonları ile son versiyon arasındaki farklılıkları açıklayan bir set hazırladık. Çevirinizin hangi versiyondan yapılmış olduğunu belirlemek için onu değişiklikler listesine göre yoklayın. Not: Yeşil renkle eklenen; sarı renkle değiştirilen; kırmızı renkle kaldırılan metin belirtilmiştir. Bu listeler sadece değiştirilen çerçeveleri içermektedir.
+  * Son değişikliklerin hepsini aldığınızdan emin olmak için [[:en:obs:change-log|değişiklik günlüğüne]] bakıp bu değişikliklerin sizin dilinizde de yapılmış olduğundan emin olun.
 
+=== Açık Kutsal Kitap Öyküleri’ni Son Versiyonuna Güncelleştirin ===
 
-
+Açık Kutsal Kitap Öyküleri’nin sizin dilinize çevirisinin hangi versiyonundan yapılmış olduğunu belirledikten sonra dilinizdeki çeviriyi en son versiyonuna güncelleştirmeniz gerekecek. Güncelleştirme sürecini basitleştirmek için [[https://door43.org/obs-diffs/ver_1-to-ver_3.html|1.x]] ve en son versiyonu ile [[https://door43.org/obs-diffs/ver_2-to-ver_3.html|2.x]] ve en son versiyonu arasındaki bütün farklılıkları gösteren değişiklik günlüklerini hazırladık. Sadece bu farklılıkları izleyerek bunlara göre dilinizdeki metni güncelleştirin ve Açık Kutsal Kitap Öyküleri çeviriniz güncel hâle gelmiş olacak.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:translate_original|The Original and Source Languages]]//
 
+  * //[[:tr:ta:vol1:translate:translate_original|The Original and Source Languages]]//
