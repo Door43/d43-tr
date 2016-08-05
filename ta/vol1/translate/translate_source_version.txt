@@ -23,11 +23,11 @@ Versiyon numarası, yayına hazırlanan (Door43 ya da translationStudio’da) me
 
 //Not: Açık Kutsal Kitap Öyküleri’nin ver 3.x ve daha önceki çevirilerin hepsi eski, ver 4 ve sonraki versiyonlarının hepsi yenidir.​//
 
-==== Where to Find the Latest Version ====
+==== En Son Versiyon Nereden Bulunur ====
 
-https://unfoldingword.org always has the latest published version of each resource. 
+[[https://unfoldingword.org|https://unfoldingword.org]] sitesinde her metnin en son yayınlanan versiyonu bulunmaktadır.
 
-//Note: translationStudio and the unfoldingWord app do not always have the latest versions since updating content does not happen automatically.//
+//Not: translationStudio ve unfoldingWord uygulamalarında her zaman en son versiyonlar bulunmaz, çünkü içeriğin güncelleştirilmesi otomatik olarak yapılmaz.​//
 
 ==== How to Update a Previous Version of Open Bible Stories ====
 
