@@ -1,10 +1,11 @@
-===== Re-telling the Meaning =====
+===== Anlamı Yeniden Anlatma =====
 
-This module answers the question: //How do I re-tell the meaning?//
+This module answers the question: //Anlamı Nasıl Yeniden Anlatmalıyım?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:translate:translate_process|The Translation Process]]//
-  * //[[tr:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]//
+
+  * //[[:tr:ta:vol1:translate:translate_process|The Translation Process]]//
+  * //[[:tr:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]//
 
 ==== How to Re-tell the Meaning ====
 
