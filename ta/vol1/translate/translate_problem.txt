@@ -20,9 +20,9 @@ Kaynak metindeki söz sırasını çevirinizde kullanırsanız, dilinizde konuş
 
 Her dilde, örneğin, ses ve duyguları ifade eden sözler gibi kendine özgü deyimler ve başka ifadeler vardır. Bunların anlamını ifade etmek için her sözcüğü çevirmektense hedef dilde aynı anlamı aktaran deyim ya da ifade bulmanız gerekir. Sadece sözcükleri çevirirseniz, deyim ya da ifade yanlış anlamı aktarır.
 
-==== Some terms do not have equivalents in other cultures ====
+==== Bazı terimlerin başka kültürlerde karşılıkları bulunmamaktadır. ====
 
-The Bible contains many terms for things that no longer exist, such as ancient weights (stadia, cubit), money (denarius, stater) and measures (hin, ephah). Animals in Scripture may not exist in some parts of the world (fox, camel). Other words may be unknown in some cultures (snow, circumcision). It is not possible to simply substitute equivalent words for these terms in those situations. The translator must find another way to communicate the original meaning.
+Kutsal Kitap’ta artık bulunmayan şeyleri belirten çok terim var. Örneğin, eski ölçüler (amma/arşın, stadion/ok atımı), para birimleri (dinar, statir) ve tahıl ölçüleri (hiniks, efa). Kutsal Kitap’ta adları geçen hayvanlar dünyanın bazı bölgelerinde yaşamayabilir (tilki, deve). Bazı kültürlerde bilinmeyen başka sözler bulunabilir (kar, sünnet). Belirli durumlarda bu terimlerin basit karşılıklarını kullanmak imkansız olabilir. Çevirmenin orijinal anlamı iletmek için başka bir yol bulması gerekecek.
 
 ==== The Bible was intended to be understood ====
 
