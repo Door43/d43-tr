@@ -24,14 +24,12 @@ Her dilde, örneğin, ses ve duyguları ifade eden sözler gibi kendine özgü d
 
 Kutsal Kitap’ta artık bulunmayan şeyleri belirten çok terim var. Örneğin, eski ölçüler (amma/arşın, stadion/ok atımı), para birimleri (dinar, statir) ve tahıl ölçüleri (hiniks, efa). Kutsal Kitap’ta adları geçen hayvanlar dünyanın bazı bölgelerinde yaşamayabilir (tilki, deve). Bazı kültürlerde bilinmeyen başka sözler bulunabilir (kar, sünnet). Belirli durumlarda bu terimlerin basit karşılıklarını kullanmak imkansız olabilir. Çevirmenin orijinal anlamı iletmek için başka bir yol bulması gerekecek.
 
-==== The Bible was intended to be understood ====
+==== Kutsal Kitap anlaşılmak amacıyla yazılmıştır ====
 
-The testimony of the Scriptures themselves shows that they were meant to be understood. The Bible is written in three languages because the language of the people changed. When the Jews returned from exile and no longer remembered Hebrew, the priests translated the Old Testament readings into Aramaic so they could understand (Neh 8:8). Later, when the New Testament was written, it was written in the common Koine Greek, which was the language that most people spoke at that time, rather than Hebrew or Aramaic or even classical Greek, which would have been harder for common people to understand.
+Kutsal Kitap’ın anlaşılması için yazılmış olduğuna Kutsal Kitap’ın kendisi tanıklık etmektedir. Kutsal Kitap, halkın dili değiştiği için üç dilde yazılmıştır. Yahudiler sürgünden döndükleri ve artık İbranice hatırlamadıkları zaman kâhinler Eski Ahit metinlerini anlaşılması için Aramiceye çevirdiler (Nehemya 8:8). Daha sonra Yeni Ahit, insanların çoğunun anladığı Koyne Yunancasında yazılmıştır; sıradan insanların zor anlayabilecekleri İbranice, Aramice ve hatta klasik Yunancada yazılmamıştır.
 
-These and other reasons demonstrate that God wants people to understand his word. So we know that he wants us to translate the meaning of the Bible, not reproduce the form. The meaning of the Scriptures is more important than the form.
-
-
+Bu ve başka sebepler, Tanrı’nın insanların kelâmı anlamalarını istediğini gösterir. Dolayısıyla Tanrı’nın Kutsal Kitap’ın biçimini aktarmamızı değil, anlamını çevirmemizi istediğini biliyoruz. Yazıların anlamı, biçiminden daha önemlidir.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]//
 
+  * //[[:tr:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]//
