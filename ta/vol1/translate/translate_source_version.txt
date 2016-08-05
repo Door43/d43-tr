@@ -1,10 +1,11 @@
-===== Source Texts and Version Numbers =====
+===== Kaynak Metinler ve Versiyon Numaraları =====
 
-This module answers the question: //How can version numbers help me select a source text?//
+This module answers the question: //Versiyon numaraları, kaynak metni seçmeme nasıl yardımcı olabilir?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
-  * //[[tr:ta:vol1:translate:translate_source_licensing|Copyrights, Licensing, and Source Texts]]//
+
+  * //[[:tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
+  * //[[:tr:ta:vol1:translate:translate_source_licensing|Copyrights, Licensing, and Source Texts]]//
 
 ==== Importance of Version Numbers ==== 
 
