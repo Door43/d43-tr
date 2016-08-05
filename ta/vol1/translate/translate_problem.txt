@@ -12,9 +12,9 @@ Before you start this module have you learned about:
 
 Birebir çeviriler, kaynak metnin biçimlerini hedef metinde kullanırlar. Bazı çevirmenler, «Biçimin Önemi» modülünde öğrendiğimiz gibi metnin biçiminin anlamını etkilemesi nedeniyle böyle yapıyor olabilirler. Fakat aklımızda tutmamız gereken şu ki, değişik kültürlerden olan insanlar biçimlerin anlamını farklı şekilde anlarlar. Aynı biçim değişik kültürlerde çok farklı algılanabilir. Dolayısıyla orijinal biçimleri kullanmak ile anlamı değişmekten korumak imkansızdır. Anlamı korumanın tek yolu, orijinal biçimi eski kültürde ilettiği anlamın aynısını yeni kültürde iletebilecek yeni biçim ile değiştirmektir.
 
-==== Different languages use different orders of words and phrases ====
+==== Değişik dillerde değişik söz sıraları ve ifade sıraları kullanılır. ====
 
-If you keep the source word order in  your translation, it will be very difficult, and sometimes impossible, for the people who speak your language to understand it. You must use the natural word order of the target language so that people can understand the meaning of the text.
+Kaynak metindeki söz sırasını çevirinizde kullanırsanız, dilinizde konuşan insanların metni anlaması çok zor ve bazen imkansız olur. İnsanların metnin anlamını kavramaları için hedef dile özgü söz sırasını kullanmanız gerekir.
 
 ==== Different languages use different idioms and expressions ====
 
