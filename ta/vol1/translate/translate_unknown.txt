@@ -47,18 +47,16 @@ Bilinmeyen bir Kutsal Kitap uygulaması dipnotta ya da Kutsal Kitap öğretisind
 
 Bkz: Luka 22:47’de [[:en:bible:notes:luk:22:47|«öpüşle selamlamak»]] ifadesine dair bir örnek.
 
-==== Translation Suggestions ====
+==== Çeviri için Öneriler ====
 
-Here are suggestions to keep in mind when translating a term that is not familiar in your language:
-  * Use a descriptive phrase. You will most likely need to use a phrase to explain the meaning of the unknown word. It is important only to describe the part of the meaning which is being used in the particular verse being translated.
-  * Substitute something similar. At times the exact word may be unknown to the people of the target language but there might be something similar that could be used in its place. Only do this if the term does not express a historical fact.
-  * Use a foreign word from another language. Foreign words are words taken from a language that is not the target language. You could also use the foreign word together with a general word or descriptive phrase.
-  * Use a word that is more general in meaning. An example would be "work animal" which is more general than the word "donkey." This is acceptable because a donkey is a kind of work animal.
-  * Use a word or phrase that is more specific in meaning. Sometimes there is no general word in the target language to describe the term, therefore you can give specific examples of the term being referred to. An example would be if there is no word for "lights" to refer to heavenly bodies, you could possibly say, "the sun, the moon, and the stars," using specific words.
- 
+Dilinizde bilinmeyen bir terimi çevirirken aklınızda tutacağınız öneriler şunlardır:
 
-
+  * Tanımlayıcı ifade kullanın. Bilinmeyen sözcüğün anlamını anlatabilmek için büyük olasılıkla bir ifade kullanmanız gerekecek. Söz konusu terimin sadece çevrilmekte olan ayette iletilen anlamını tanımlamak önemlidir.
+  * Terimi benzer bir şey ile değiştirin. Bazen terimin harfi harfine çevirisi hedef dilde konuşanlar için bilinmez, anlaşılmaz olur, ama bunun yerine kullanılabilecek benzer bir şey bulunabilir. Sadece terim tarihi olayı belirtmediği takdirde bunu yapabilirsiniz.
+  * Başka bir dilden alınan yabancı bir sözcük kullanın. Yabancı sözcükler, hedef dil olmayan bir dilden alınan sözcüklerdir. Ayrıca yabancı bir sözcüğü genel sözcük ya da tanımlayıcı ifade ile birlikte kullanabilirsiniz.
+  * Anlamca daha genel olan bir terim kullanın. Örneğin, «eşek» sözcüğünden daha genel olan «hizmet hayvanı» kullanılabilir. Eşek bir hizmet hayvanı olduğu için bunu yapabilirsiniz.
+  * Anlamca daha özel olan bir ifade kullanın. Bazen hedef dilde terimi tanımlayabilecek genel bir terim bulunmuyor, dolayısıyla söz konusu terime ait olan özel örnekleri kullanabilirsiniz. Örneğin, gök cisimlerine ait genel «ışıklar» terimi bulunmuyorsa, muhtemelen «güneş, ay ve yıldızlar» şeklinde özel sözcükler kullanabilirsiniz.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:translate_names|Translate Names]]//
 
+  * //[[:tr:ta:vol1:translate:translate_names|Translate Names]]//
