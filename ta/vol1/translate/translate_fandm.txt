@@ -1,11 +1,12 @@
-===== Form and Meaning =====
+===== Biçim ve Anlam =====
 
-This module answers the question: //What is form and meaning?//
+This module answers the question: //Biçim ve anlam nedir?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:translate:translate_process|The Translation Process]]//
-  * //[[tr:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]//
-  * //[[tr:ta:vol1:translate:translate_retell|Re-telling the Meaning]]//
+
+  * //[[:tr:ta:vol1:translate:translate_process|The Translation Process]]//
+  * //[[:tr:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]//
+  * //[[:tr:ta:vol1:translate:translate_retell|Re-telling the Meaning]]//
 
 ==== Defining Form & Meaning ====
 
