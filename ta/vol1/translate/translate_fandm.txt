@@ -15,32 +15,27 @@ Metin çevirisinde kullanılan belli başlı iki terim «biçim» ve «anlam»d�
   * **Biçim **- Bir dilin yazılı ya da sözlü olarak kullanılan yapısıdır. «Biçim», dilin düzenlenmesidir; sözcükleri, söz sırasını, grameri, deyimleri ve metin yapısının herhangi başka niteliklerini içerir.
   * **Anlam **- Metinde okuyucuya veya dinleyiciye iletilmeye çalışılan belli başlı düşünce ya da kavramdır. Anlatıcı veya yazar dilin değişik biçimlerini kullanarak aynı anlamı iletebilir ve değişik insanlar aynı dil biçimini işitir ya da okur iken değişik anlamları algılayabilirler. Böylece biçim ve anlamın aynı şey olmadığını görebilirsiniz.
 
-==== An Example ====
+==== Bir örnek ====
 
-Let's consider an example from normal life. Suppose a friend sent you the note below:
+Normal yaşamdan bir örneği ele alalım. Bir arkadaşınızdan şu mesajı aldığınızı düşünelim:
 
->//"I am having a very difficult week. My mother was sick and I spent all of my money to take her to the doctor and to buy medicine for her. I don't have anything left. My employer will not pay me until next weekend. I don't know how I am going to make it through the week. I don't even have money to buy food."// 
+>//«Bu hafta benim için çok zor oldu. Annem hasta düştü, onu doktora götürdüm, ona ilaç almak için bütün paramı harcadım. Bir kuruşum kalmadı. İşverenim bana bir sonraki haftanın sonuna kadar maaş vermeyecek. Bu hafta nasıl geçineceğimi bilmiyorum. Ekmek almaya bile param yok.»​//
+=== Anlam ===
 
-=== The Meaning ===
+Sizce, neden arkadaşınız size bu mesajı gönderdi? Sadece bu haftadaki durumunu anlatmak için mi? Galiba asıl amacı size şunu söylemekti:
 
-Why do you think the friend sent this note? Just to tell you about his week? Probably not. His true intention was more likely to tell you:
+>//«Bana para vermeni istiyorum.»​//
 
->//"I need you to give me money."//
+Bu, göndericinin size iletmek istediği mesajın esas **anlamıdır**. Fakat bazı kültürlerde kendi arkadaşından bile açıkça para istemek nezaketsiz sayılır. Bu yüzden arkadaşınız isteğini dikkatinize sunmak ve ihtiyacını anlamanıza yardım etmek için mesajın biçimini uygun olarak düzenledi. Paraya olan ihtiyacını açıklayarak, ama sizi cevap vermeye zorlamaksızın, kültür açısından kabul edilebilir bir **biçimde ** yazdı. Neden parasız kaldığını (annesinin hastalığı), ihtiyacının geçici olduğunu (maaşı ödeninceye kadar) ve durumunun berbat olduğunu (ekmek bile yok) anlattı. Başka kültürlerde bu anlamı iletmek için dolaysız isteme yolu daha uygun olabilir.
+=== Biçim ===
 
-That is the primary **meaning** of the note that the sender wanted to communicate to you. However, it would be rude in some cultures to ask for money so directly—even from a friend. Therefore, he adjusted the **form** of the note to fill out the request and help you to understand his need. He wrote in a culturally-acceptable way that presented his need for money but did not obligate you to respond. He explained why he had no money (his sick mother), that his need was only temporary (until he is paid), and that his situation was desperate (no food). In other cultures, a more direct form of request might be more appropriate to communicate this meaning.
+Bu örnekte **biçim**, mesaj metninin tamamıdır. **Anlamı ** ise şu: «Bana para vermeni istiyorum!»
 
-=== The Form ===
-
-In this example, the **form** is the entire text of the note. The **meaning** is "I need you to give me money!"
-
-We use these terms in a similar way. **Form** will refer to the entire text of the verses that we are translating. **Meaning** will refer to the idea or ideas that the text is trying to communicate. The best form for communicating a certain meaning will be different in different languages and cultures.
-
-
-
+Biz bu terimleri benzer şekilde kullanırız. **Biçim**, çevirdiğimiz ayetlerin metninin tamamına ait olacaktır. **Anlam**, metinde iletilmeye çalışılan düşünceye veya düşüncelere aittir. Belirli anlamı iletmek için en iyi biçim değişik dillerde ve kültürlerde farklı olacaktır.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:translate_literal|Literal Translations]]//
-  * //[[tr:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]//
-  * //[[tr:ta:vol1:translate:translate_levels|Levels of Meaning]]//
-  * //[[tr:ta:vol1:translate:translate_form|The Importance of Form]]//
 
+  * //[[:tr:ta:vol1:translate:translate_literal|Literal Translations]]//
+  * //[[:tr:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]//
+  * //[[:tr:ta:vol1:translate:translate_levels|Levels of Meaning]]//
+  * //[[:tr:ta:vol1:translate:translate_form|The Importance of Form]]//
