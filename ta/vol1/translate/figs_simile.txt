@@ -38,7 +38,7 @@ Bu teşbihte İsa Yeruşalim’de oturanlara vermek istediği korumayı tavuğun
 
 Bu teşbih hileci bir iş adamına ait olarak kullanılabilir. İngilizce konuşanlar gerçeği düzlüğe, yalan ve hileyi ise eğriliğe benzetirler.
 
->"She was as cool as a cucumber.» (Salatalık gibi soğuktu)
+>"She was __as cool as a cucumber.__» (Salatalık gibi soğuktu)
 
 Bunu stresli bir durumda duygularına kapılmayan kişi hakkında söylerler. İngilizce konuşanlar duyguyu sıcağa ve duygusuzluğu soğuğa benzetirler.
 
