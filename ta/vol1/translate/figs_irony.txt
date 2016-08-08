@@ -1,9 +1,10 @@
-===== Irony =====
+===== Kinaye =====
 
-This module answers the question: //What is irony?//
+This module answers the question: //Kinaye nedir?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:translate:figs_intro|Figures of Speech]]//
+
+  * //[[:tr:ta:vol1:translate:figs_intro|Figures of Speech]]//
 
 ==== Definition ====
 
