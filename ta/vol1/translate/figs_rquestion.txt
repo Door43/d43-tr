@@ -1,9 +1,10 @@
-===== Rhetorical Question =====
+===== Retorik Soru =====
 
-This module answers the question: //What is a rhetorical question?//
+This module answers the question: //Retorik soru nedir?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:translate:figs_intro|Figures of Speech]]//
+
+  * //[[:tr:ta:vol1:translate:figs_intro|Figures of Speech]]//
 
 ==== Definition ====
 
