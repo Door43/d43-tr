@@ -28,24 +28,24 @@ Fakat çevirmenler, kaynak metinde açık şekilde söylenmeyen bu bilgileri çe
 
 Her zamanki gibi, çevirinizin orijinal bildiride söylenenleri doğru ve açık şekilde iletip iletmediğini sorgulamanız gerekir.
 
-==== Examples from the Bible ====
+==== Kutsal Kitap’tan Örnekler ====
 
->//She ate all that she wanted and had some left over.// -Ruth 2:14
+>//«Rut bir kısmını yedikten sonra doydu, birazını da artırdı.»// (Rut 2:14)
 
-Some languages may need to add an object where English (or whatever source language is being used) doesn't have one. Here, the implied object is "roasted grain" or simply "food." If the target language requires an object for these verbs, you could translate,  //She ate all __the roasted grain__ that she wanted and had some __food__ left over.//
+Bazı dillerde Türkçe (veya başka kaynak dil) metinde bir nesnenin (tümlecin) bulunması gerekebilir. Kastedilen nesne, «kavrulmuş tahıl» veya sadece «yiyecek»tir. Hedef dilde bu fiillerin nesnesi belirtilmeli ise şöyle çevirebilirsiniz: //«Rut __kavrulmuş tahılın__ bir kısmını yedikten sonra doydu, biraz __yiyecek__ de kaldı.»​//
 
->//So Yahweh came down to see the city and the tower which the descendants of Adam had built.// -Genesis 11:5
- 
-The phrase "came down" refers to **where** he came from. The place he came from was understood by the original readers. But if this sentence is unclear for the target audience, you may name the place to make the information explicit as in: //So Yahweh came down __from heaven__ to see the city and the tower which the descendants of Adam had built.//
+>//«RAB insanların yaptığı kentle kuleyi görmek için aşağıya indi.»// (Yaratılış 11:5)
 
->//These latter five kings joined together in the valley of Siddim (also called the Salt Sea).// -Genesis 14:3
- 
-The information that the armies of the five kings were with these five kings was understood by the original readers. But if this information is not understood by the target audience, the information that their armies were with them can be made explicit: “These latter five kings __and their armies__ joined together....” 
+«Aşağıya indi» ifadesi Rab’bin **geldiği yeri** işaret eder. Orijinal okuyucular Rab’bin nereden geldiğini anlarlardı. Fakat bugün hedef okuyucu kitlesi bu cümleyi anlayamıyorsa bu bilgiyi açıklamak için şöyle yazabilirsiniz: //«RAB insanların yaptığı kentle kuleyi görmek için __göklerden__ aşağıya indi.»//
 
->//To Enoch was born Irad. Irad became the father of Mehujael.// -Genesis 4:18
- 
-It is stated explicitly that Enoch had a child named Irad and that Irad had a child named Mehujael. The implied information is that Irad grew up to be a man and married a woman and through her, had a son. If the verse is confusing without this information for the target audience, you may add as much information as is necessary, such as, "Enoch grew up and married and became the father of a son whom he named Irad. When Irad grew up he became the father of a son whom he named Mehujael." 
- 
+>//«Bu son beş kral bugün Lut Gölü olan Siddim Vadisi’nde güçlerini birleştirmişti.»// (Yaratılış 14:3)
+
+Orijinal okuyucular beş kralın ordularının birleştiğini anlıyorlardı. Fakat hedef okuyucu kitlesi bu bilgiyi anlamıyorsa, ordularının onlarla beraber olduğu açıklanabilir: «Bu son beş kral __ve orduları__... birleşmişlerdi.»
+
+>//«Hanok’tan İrat oldu. İrat’tan Mehuyael, Mehuyael’den Metuşael, Metuşael’den Lemek oldu.»// (Yaratılış 4:18)
+
+Hanok’un İrat adındaki çocuğu ve İrat’ın Mehuyael adındaki çocuğu olduğu açıkça bildirilir. Kastedilen bilgi, İrat’ın büyüdüğü, evlendiği ve o kadından oğlu doğduğudur. Bu ayette o bilgilerin açıklanmaması hedef okuyucu kitlesi için kafa karıştırıcı ise gerektiği kadar bilgi ekleyebilirsiniz. Örneğin, «Hanok büyüdü, evlendi ve İrat adındaki çocuğun babası oldu; İrat da büyüdükten sonra çocuğu oldu ve ona Mehuyael adını koydu.»
+
 ==== Examples from English ====
 
   * David asks Susan: “Where is Joe?” David’s question is explicit because it is clearly stated and easily understood by Susan.
