@@ -33,20 +33,16 @@ Bir kişinin ya da yerin iki adı varsa, bunların birini seçin. Seçiminiz ne 
   * Çevirmekte olduğunuz somut metinde geçen adı kullanın.
   * Çoğu hâllerde bir adı kullanın, öbür adı ise sadece metinde özellikle o addan ya da o adın anlamından bahsedildiğinde kullanın.
 
-==== Examples from the Bible ====
+==== Kutsal Kitap’tan Örnekler ====
 
->//“Having carefully investigated everything from the beginning, I also have decided to write a careful account for you, most honorable Theophilus.”// -Luke 1:3
+>//«Bütün şeyleri ta en başından doğru olarak araştırıp anlayarak, sana sırasıyla yazmak bana da iyi göründü, ey çok erdemli Teofilos!»// (Luka 1:3 CAN)
 
-The word "honorable" describes a person. So "honorable" tells us that Theophilus is the name of a person.
+«Erdemli» sözcüğü, bir kişiyi nitelendiren sözcüktür. Dolayısıyla «erdemli» sıfatı sayesinde Teofilos’un bir kişi olduğu anlaşılıyor.
 
->//"Jerusalem is where he lives; Mount Zion is his home."// -Psalms 72:2
+>//«Konutu Şalem’dedir, yaşadığı yer Siyon’da.»// (Mezmur 76:2)
 
-The word "Mount" next to "Zion" lets us know that it refers to a mountain landform named "Zion" or "Mount Zion." "Jerusalem" is the name of a city. We know it is a place because it is where someone lives, and this verse also tells us that Jerusalem is located on Mount Zion.
+«Siyon» adının yanında «Dağ» sözcüğü da konursa (Siyon Dağı) Siyon’un bir dağ olduğu anlaşılacak. «Şalem» Yeruşalim’in bir adıdır. Orada birinin konutu bulunduğu için orasının bir yer olduğu biliniyor. Bu ayette ayrıca Yeruşalim’in Siyon Dağı’nda bulunduğu söyleniyor.
 
->//“Later, Jesus appeared again to the disciples beside the Sea of Galilee.”// -John 21:1
+>//«Bundan sonra İsa Taberiye Gölü’nün kenarında öğrencilerine yine göründü.»// (Yuhanna 21:1)
 
-The text refers to a place called the Sea of Galilee. "Sea" is our clue that the Sea of Galilee is a body of water.
-
-
-
-
+Bu metinde Taberiye Gölü diye bir yer adı geçiyor. «Göl» sözcüğü Taberiye Gölü’nün bir su kütlesi olduğunu gösteriyor.
