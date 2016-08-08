@@ -20,48 +20,46 @@ Hipotetik olan bir şey «varsayılan» ya da «ileri sürülen»dir. Hipotetik 
 
 Çeviri yaparken metindeki hipotetik durumları tanıyabilmek ve uygun sözcük veya ifadeleri kullanmak önemlidir. Hipotetik durumun zamanını (örn., geçmiş, şimdiki veya gelecek) göstermek gerekli olabilir. Söz konusu senaryonun sadece bir olasılık olduğunu, gerçekleşebileceğini yahut gerçekleşme ihtimalinin az olduğunu açıklamak zorunda olabilirsiniz. Hipotetik durumlar duygulara ve sebeplere ima edebilir yahut etmeyebilir. Okuyucunun hipotetik durumun çeşidini anlamasına yardım etmek için bazı hipotetik durumlarda «eğer», «tutalım ki», «keşke» gibi sözlerle kurulan cümleler kullanılabilir. Belki dilinizde bunlardan her birini iletmek için özel sözler ve dil yapıları kullanılır.
 
-==== Examples from the Bible ====
+==== Kutsal Kitap’tan Örnekler ====
 
-1. Consider a hypothetical situation that **would never happen**:
+1. **Asla olamayacak** hipotetik bir durumu düşünün:
 
-In Luke chapter 18 verse 25 Jesus was teaching his disciples about how being rich can make it hard to enter God’s kingdom. To emphasize this, he said that it is easier for a camel to go through the eye of a needle than for a rich person to submit to God’s rule in their life.
+Luka 18:25’te İsa öğrencilerine insanın zengin olmasının Tanrı’nın Hükümranlığı’na girmesine engel olabileceğini öğretir. Düşüncesini vurgulamak için bir devenin iğne deliğinden geçmesi zengin birinin yaşamında Tanrı’nın egemenliğine teslim olmasından daha kolaydır der.
 
-The hypothetical part of this is that a large camel could never squeeze through the eye of a very small sewing needle! Jesus used this hypothetical scenario to emphasize his teaching point.
+Bunun hipotetik tarafı şu ki, kocaman deve ufacık bir iğnenin deliğinden asla geçemez! İsa öğrettiği gerçeği vurgulamak için bu hipotetik senaryoyu kullanmıştır.
 
-2. Consider a “suppose” scenario that **could possibly happen**.
+2. **Gerçek olabilecek ** bir «senaryo» düşünün.
 
-In Matthew chapter 12 verse 11, Jesus was pointing out to the religious leaders that they were not being honest when they judged people for working on the Sabbath day. He told them, “Suppose one of you has a sheep and it falls into a deep hole on the Sabbath day. Certainly, you would work to pull it out of the hole!”
+Matta 12:11’de İsa din alimlerine insanları Şabat Günü çalıştıkları için yargıladıkları zaman dürüst davranmadıklarını belirterek şöyle der: «Hanginizin bir koyunu olur da Şabat Günü çukura düşerse onu tutup çıkarmaz?»
 
-Jesus wasn’t talking about a specific person who did this. Rather, he was talking about a possible situation which could and often did happen. He used the hypothetical story to help listeners understand his own work (God's work).
+İsa bunu yapan somut bir adamdan bahsetmedi, ama mümkün olan ve sık sık gerçekten oluşan bir durumdan bahsetti. Okuyucularının kendi işini (Tanrı’nın işini) anlamalarına yardım etmek için bu hipotetik öyküyü anlattı.
 
-3. The following is an example of a hypothetical scenario **in the past**:
+3. Aşağıdaki örnek, **geçmişteki ** bir hipotetik senaryo örneğidir:
 
-In Matthew 11:21, Jesus said that //if the people living in the ancient cities of Tyre and Sidon had been able to see the miracles that he – Jesus – performed, they would have repented long ago.//
+Matta 11:21’de İsa der ki, //Sur ve Sayda’da yaşayan insanlar O’nun yaptığı mucizeleri görseydiler, çoktan tövbe etmiş olurlardı.//
 
-This is a hypothetical situation that we know did not happen. Jesus was making the spiritual teaching point of “what if” these people had seen the miracles? If they had seen the miracles, then, they would have repented.
+Bu, bildiğimiz gibi, gerçekleşmemiş olan hipotetik bir durumdur. İsa, bu insanlar mucizelerini «görselerdi ne olurdu?» diyerek ruhsal gerçekleri öğretir. Mucizelerini görseydiler, çoktan tövbe etmiş olurlardı.
 
-4. Often a hypothetical situation in the past **expresses an emotion, such as regret**. For example, consider Exodus 16:3:
+4. Geçmişteki hipotetik durum sık sık** pişmanlık gibi duyguları ifade eder**. Örneğin, Çıkış 16:3’ü düşünün.
 
->“//If only we had died by the hand of Yahweh in the land of Egypt...//.”
+>//«Keşke RAB bizi Mısır’dayken öldürseydi...»//
 
-Here the Israelites are afraid that they will have to suffer and die of hunger in the wilderness, and so they are wishing that they had stayed in Egypt and died there with full stomachs.
+Burada İsrailliler çölde acı çekip ölmekten korkar ve Mısır’da kalıp tok karnına ölmüş olmalarını arzu ederler.
 
-Also watch the video for the [[http://youtu.be/GfFX1wWjJhA|computer]] (http://youtu.be/GfFX1wWjJhA) or the [[http://youtu.be/jIbY2ikNtHU|tablet/phone]] (http://youtu.be/jIbY2ikNtHU).\\ 
-
-
+Ayrıca [[http://youtu.be/GfFX1wWjJhA|bilgisayarda]] şu videoyu ([[http://youtu.be/GfFX1wWjJhA|http://youtu.be/GfFX1wWjJhA]]) ya da [[http://youtu.be/jIbY2ikNtHU|tablet/telefonda]] şu videoyu ([[http://youtu.be/jIbY2ikNtHU|http://youtu.be/jIbY2ikNtHU]]) izleyebilirsiniz.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:figs_metaphor|Metaphor]]//
-  * //[[tr:ta:vol1:translate:figs_simile|Simile]]//
-  * //[[tr:ta:vol1:translate:figs_rquestion|Rhetorical Question]]//
-  * //[[tr:ta:vol1:translate:figs_idiom|Idiom]]//
-  * //[[tr:ta:vol1:translate:figs_irony|Irony]]//
-  * //[[tr:ta:vol1:translate:figs_order|Word Order]]//
-  * //[[tr:ta:vol1:translate:figs_you|Forms of You]]//
-  * //[[tr:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]//
-  * //[[tr:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]//
-  * //[[tr:ta:vol1:translate:figs_explicit|Explicit and Implicit]]//
-  * //[[tr:ta:vol1:translate:figs_explicitinfo|Making Implicit Information Explicit]]//
-  * //[[tr:ta:vol1:translate:figs_events|Order of Events]]//
-  * //[[tr:ta:vol1:translate:figs_parables|Parables]]//
 
+  * //[[:tr:ta:vol1:translate:figs_metaphor|Metaphor]]//
+  * //[[:tr:ta:vol1:translate:figs_simile|Simile]]//
+  * //[[:tr:ta:vol1:translate:figs_rquestion|Rhetorical Question]]//
+  * //[[:tr:ta:vol1:translate:figs_idiom|Idiom]]//
+  * //[[:tr:ta:vol1:translate:figs_irony|Irony]]//
+  * //[[:tr:ta:vol1:translate:figs_order|Word Order]]//
+  * //[[:tr:ta:vol1:translate:figs_you|Forms of You]]//
+  * //[[:tr:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]//
+  * //[[:tr:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]//
+  * //[[:tr:ta:vol1:translate:figs_explicit|Explicit and Implicit]]//
+  * //[[:tr:ta:vol1:translate:figs_explicitinfo|Making Implicit Information Explicit]]//
+  * //[[:tr:ta:vol1:translate:figs_events|Order of Events]]//
+  * //[[:tr:ta:vol1:translate:figs_parables|Parables]]//
