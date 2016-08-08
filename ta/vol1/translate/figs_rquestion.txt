@@ -29,30 +29,28 @@ Zekeriya bu retorik soru ile meleğin dediği sözün gerçek olduğuna inanamad
 
 İnsanlar kimsenin bu soruya cevap vermesini beklemiyor, sadece bu doğuş hakkında duydukları şaşırtıcı şeylerden etkilenerek hayret ettiklerini anlatıyorlardı.
 
-==== Examples from English ====
+==== Türkçeden Örnekler ====
 
->//"Could you do this for me?"//
+>//«Bunu benim için yapar mısınız?»​//
 
-Someone could say this if they want to politely tell someone to do something.
+Bu soru, birinden nazik şekilde bir şey yapmasını istemek için sorulabilir.
 
->//"What possessed you to think of doing that?"//
+>//«Bu işi yapmak nasıl aklına geldi?»​//
 
-A mother might scold her child by saying this.
-
-
+Bir anne bu sözlerle çocuğunu azarlayabilir.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:figs_metaphor|Metaphor]]//
-  * //[[tr:ta:vol1:translate:figs_simile|Simile]]//
-  * //[[tr:ta:vol1:translate:figs_idiom|Idiom]]//
-  * //[[tr:ta:vol1:translate:figs_irony|Irony]]//
-  * //[[tr:ta:vol1:translate:figs_order|Word Order]]//
-  * //[[tr:ta:vol1:translate:figs_you|Forms of You]]//
-  * //[[tr:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]//
-  * //[[tr:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]//
-  * //[[tr:ta:vol1:translate:figs_explicit|Explicit and Implicit]]//
-  * //[[tr:ta:vol1:translate:figs_explicitinfo|Making Implicit Information Explicit]]//
-  * //[[tr:ta:vol1:translate:figs_hypo|Hypothetical Situations]]//
-  * //[[tr:ta:vol1:translate:figs_events|Order of Events]]//
-  * //[[tr:ta:vol1:translate:figs_parables|Parables]]//
 
+  * //[[:tr:ta:vol1:translate:figs_metaphor|Metaphor]]//
+  * //[[:tr:ta:vol1:translate:figs_simile|Simile]]//
+  * //[[:tr:ta:vol1:translate:figs_idiom|Idiom]]//
+  * //[[:tr:ta:vol1:translate:figs_irony|Irony]]//
+  * //[[:tr:ta:vol1:translate:figs_order|Word Order]]//
+  * //[[:tr:ta:vol1:translate:figs_you|Forms of You]]//
+  * //[[:tr:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]//
+  * //[[:tr:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]//
+  * //[[:tr:ta:vol1:translate:figs_explicit|Explicit and Implicit]]//
+  * //[[:tr:ta:vol1:translate:figs_explicitinfo|Making Implicit Information Explicit]]//
+  * //[[:tr:ta:vol1:translate:figs_hypo|Hypothetical Situations]]//
+  * //[[:tr:ta:vol1:translate:figs_events|Order of Events]]//
+  * //[[:tr:ta:vol1:translate:figs_parables|Parables]]//
