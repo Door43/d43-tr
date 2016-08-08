@@ -7,9 +7,9 @@ Before you start this module have you learned about:
   * //[[:tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
   * //[[:tr:ta:vol1:intro:open_license|Open License]]//
 
-==== Why Is It Important? ====
+==== Neden bu önemlidir? ====
 
-When choosing a source text from which to do a translation, considering the copyright/licensing issue is important for two reasons. First, if you translate from a copyrighted work without prior permission you are breaking the law because translation is a right reserved for the owner of the content. In some places, copyright infringement is a criminal offense and may be prosecuted by the government without the copyright holder's consent! Second, when a translation is done off of a copyrighted work, the translation is the intellectual property of the copyright holder of the source text. They maintain all the rights of the translation just as they do with the source text. For these and other reasons, unfoldingWord will only distribute translations that are not in violation of copyright law.
+Çeviri yapılacak kaynak metni seçerken telif/lisans meselesini dikkate almak iki sebeple önemlidir. Birincisi, önceden izin almadan telif hakkıyla korunan bir metni çevirirseniz yasayı çiğnemiş olursunuz, çünkü çeviri, içeriğin sahibinin korunan hakkıdır. Bazı yerlerde telif hakkının ihlali suçtur; ve hükûmet, telif sahibinin izni olmadan bile dava açabilir! İkincisi, telif hakkıyla korunan bir metnin çevirisi yapıldığı zaman söz konusu çeviri kaynak metnin telif hakkı sahibinin fikrî mülkiyet hukukudur. Kaynak metnin tüm hakları sahibine ait olduğu gibi, çevirisinin tüm haklarını da aynen ona aittir. Bu ve başka sebeplere göre unfoldingWord sadece telif yasasını ihlal etmeyen çevirileri dağıtmaktadır.
 
 ==== What License Do We Use? ====
 
