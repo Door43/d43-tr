@@ -18,7 +18,7 @@ Meseller ya da eğitici öykülerin olabildiğince orijinale yakın çevrilmesi 
 
 Meseller kişilerin adlarını nadiren içerir (Bu, meseli gerçek olaydan ayırt etmenize yardım edebilir.)
 
-(See: [[:en:ta:vol1:translate:figs_simile|Simile]], [[:en:ta:vol1:translate:figs_metaphor|Metaphor]], [[:en:ta:vol1:translate:figs_hypo|Hypothetical Situations]])
+(Bkz: [[:en:ta:vol1:translate:figs_simile|Simile]], [[:en:ta:vol1:translate:figs_metaphor|Metaphor]], [[:en:ta:vol1:translate:figs_hypo|Hypothetical Situations]])
 
 ==== Examples from the Bible ====
 
