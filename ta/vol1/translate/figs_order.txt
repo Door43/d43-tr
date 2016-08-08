@@ -23,7 +23,7 @@ Cümlenin nesnesi, alıcı ögedir (yani özne DEĞİLdir). Nesne de kişi, yer,
 
 Basit cümlede özne genelde nesneye bir şey yapar. Şu cümleye bakın:
 
-//>«Çocuk top attı.»//Çocuk **öznedir**; alıcı ya da **nesne **  toptur. Özne (çocuk) nesneye (top) **bir eylem**  yapar (attı). FİİL, öznenin yaptığı eylemin (veya bulunduğu durumun) ne olduğunu bildirir.
+>«Çocuk top attı.» Çocuk **öznedir**; alıcı ya da **nesne **  toptur. Özne (çocuk) nesneye (top) **bir eylem**  yapar (attı). FİİL, öznenin yaptığı eylemin (veya bulunduğu durumun) ne olduğunu bildirir.
 
 Cümlede eylem arandığı için fiili bulmak çoğu zaman kolay olur.
 
