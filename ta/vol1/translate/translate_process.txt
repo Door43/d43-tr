@@ -11,7 +11,7 @@ Before you start this module have you learned about:
 
 eviride yapmanız gereken iki şey var:
 
-  - Kaynak metnin anlamını keşfetmek (Bkz: [[:tr:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]])
+  - Kaynak metnin anlamını keşfetmek (Bkz: [[:en:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]])
   - Hedef dile çeviri metninde anlamı yeniden anlatmak (Bkz: [[:en:ta:vol1:translate:translate_retell|Anlamı Yeniden Anlatma]])
 
 Çeviri için talimat bazen bu iki şeyi daha küçük adımlara bölüyor. Aşağıdaki çizelgede bunların ikisinin çeviri sürecine nasıl uyduğunu gösterilir.{{:en:ta:translation_process.png?nolink&600x360}}
