@@ -15,22 +15,22 @@ Before you start this module have you learned about:
 
 UnfoldingWord tarafından yayınlanan bütün içerik [[http://creativecommons.org/licenses/by-sa/4.0/|Creative Commons Attribution-ShareAlike 4.0 lisanlıyla (CC BY-SA)]] sunulmaktadır. Bu lisansın kilise için en yararlı olacağına inanıyoruz, çünkü bu lisans içerikten çeviri ve başka ürünlerin yapılmasına izin veriyor, ama bu ürünlerin kısıtlayıcı lisanslarla kapatılmasına izin vermiyor. Bu konuda tam bilgi edinmek için [[http://thechristiancommons.com|Christian Commons’a]] ait olan bölümü okuyun.
 
-==== What Source Texts Can Be Used? ====
+==== Hangi Kaynak Metin Kullanılabilir? ====
 
-Source texts can be used if they are in the public domain or are available under one of the following licenses, which permit translated work to be released under a Creative Commons Attribution-ShareAlike License:
-  * [[http://creativecommons.org/publicdomain/zero/1.0/|CC0 Public Domain Dedication (CC0)]] 
-  * [[http://creativecommons.org/licenses/by/3.0/|CC Attribution (CC BY)]] 
+Kaynak metinler kamu malı olduğu ya da çevirinin Creative Commons Attribution-Share Alike lisansıyla yapılmasına izin veren aşağıdaki lisansların biriyle yayınlandığı zaman kullanılabilir:
+
+  * [[http://creativecommons.org/publicdomain/zero/1.0/|CC0 Public Domain Dedication (CC0)]]
+  * [[http://creativecommons.org/licenses/by/3.0/|CC Attribution (CC BY)]]
   * [[http://creativecommons.org/licenses/by-sa/4.0/|CC Attribution-ShareAlike (CC BY-SA)]]
-  * Works released under a [[https://unfoldingword.org/freetranslate/|Free Translate License]]
+  * [[https://unfoldingword.org/freetranslate/|Free Translate (Serbest Çeviri) lisansı]] ile yapılan işler
 
-For all other works in question, please contact help@door43.org.
+Sorunuz olabilecek bütün başka işler hakkında öğrenmek için lütfen help@door43.org ile irtibata geçin.
 
-Note: 
-  * All source texts that appear as source texts in translationStudio have been reviewed and are legal for use by anyone as a source text.
-  * Before anything is published by unfoldingWord the source text must be reviewed and available under one of the licenses listed above. Please check your source text before you start translating to avoid being unable to have your translation published.
+Not:
 
-
+  * TranslationStudio’da kaynak metinler olarak görünen bütün kaynak metinler kontrol edilmiştir ve herkesin bunları kaynak metin olarak kullanması yasaldır.
+  * Herhangi bir metin unfoldingWord tarafından yayınlanmadan önce kaynak metnin kontrol edilmesi ve yukarıda listelenen lisansların biriyle sunulması zorunludur. Çevirinizin yayınlanamamasını önlemek amacıyla çevirmeye başlamadan önce lütfen kaynak metninizi yoklayınız.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:translate_source_version|Source Texts and Version Numbers]]//
 
+  * //[[:tr:ta:vol1:translate:translate_source_version|Source Texts and Version Numbers]]//
