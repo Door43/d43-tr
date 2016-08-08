@@ -34,7 +34,7 @@ UnfordingWord projesinin varlığının sebebi, her etnik grubun kendi dilinde T
 
 **Her dilde kısıtlamasız Kutsal Kitap içeriği ** amacına nasıl ulaşırız?
 
-   * UnfoldingWord Ağı - Diğer hemfikir kuruluşlarla ortak iş yaparak (Bkz: [[http://www.unfoldingword.org|www.unfoldingword.org]] )
+   * UnfoldingWord Ağı - Diğer hemfikir kuruluşlarla ortak iş yaparak (Bkz: [[http://www.unfoldingword.org|www.unfoldingword.org]])
   * [[:tr:ta:vol1:intro:statement_of_faith|İman Beyanı]] - Aynı inançlara sahip olan insanlar ve kuruluşlar ile beraber çalışarak
   * [[:tr:ta:vol1:intro:translation_guidelines|Çeviri Kuralları]] - Ortak çeviri kuramını kullanarak
   * [[:tr:ta:vol1:intro:open_license|Açık Lisans]] - Yarattığımız her şeyi açık lisansla yayınlayarak
