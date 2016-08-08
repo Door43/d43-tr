@@ -8,23 +8,25 @@ Before you start this module have you learned about:
 
 ==== Explanation ====
 
-When a writer writes a message, he includes the information that his audience needs to know, and leaves out the information that he knows that they already know. When we translate a message, such as the Bible, for a new audience, they may not know some of that information that the original writer did not say. That is the implicit information. Because the author is counting on the audience knowing this implicit information, this information is also part of the message, even though it is not stated. So in the places where the target audience needs to know the implicit information in order to understand the text, and they do not know it, you must put it in the translation, either in the text or in a footnote.
+Bir kişi bildiriyi yazdığında okuyucu kitlesinin öğrenmesi gereken bilgileri sunar ve zaten bildiklerini düşündüğü bilgileri bırakır. Kutsal Kitap gibi bildiriyi yeni okuyuculara iletmek üzere çevirdiğimizde bu okuyucular ilk yazarın söylemediği bilgilerin bazısını bilmeyebilir. Böyle bilgiler örtülü bilgiler denir. Yazar okuyucuların örtülü bilgileri zaten bildiklerini düşündüğü için o bilgiler açıklamamasına rağmen bildiriye dahildir. Dolayısıyla, hedef okuyucu kitlesinin metni anlamak için örtülü bilgileri bilmesi gerektiği hâlde bilmediği yerlerde sizin ya metnin içinde ya da dipnotta bu bilgileri vermeniz gerekir.
 
-But translators need to be particularly sensitive when thinking about adding such information to the translation that is not stated explicitly in the source text because: 
-  * Sometimes there will be things that are intentionally unclear in the text. In those cases, the translator should try to keep it unclear also in the translation, if it is possible to keep it unclear in the same way. 
-  * It is not necessary to include all implicit information for the target audience to understand the text. There is a lot of information that the original audience knew about the things that are in the Bible. Only include the information that the target audience needs to know so that the message is clear, nothing more.
+Fakat çevirmenler, kaynak metinde açık şekilde söylenmeyen bu bilgileri çeviriye ekleme konusunda özellikle dikkatli olmalılar, çünkü:
 
-The translator's goal should be to make sure that the reader understands the original meaning of the message. The translation should always have the same meaning as the source text had for its original audience, not more meaning, not less meaning, and not different meaning.
+  * Bazen metinde kasıtlı olarak açıklanmayan şeyler bulunabilir. Böyle durumlarda çevirmen -eğer mümkünse- çeviri metninde de bunların aynen açıklanmamasına dikkat etmeli.
+  * Hedef okuyucu kitlesinin metni anlaması için bütün örtülü bilgileri dahil etmek zorunlu değildir. Orijinal okuyucu kitlesinin Kutsal Kitap hakkında çok bilgileri vardı. Siz sadece bildirinin anlaşılması için hedef okuyucu kitlesinin bilmesi gereken şeyleri açıklayın, o kadar.
 
-Implicit information may be made explicit in order to make the translation clear if:
-  * Only the implicit information that the original audience would have known is made explicit,
-  * the added information is necessary so that the target audience will understand the main point of the message,
-  * The translation would communicate no meaning or a wrong meaning without the added information,
-  * No new information is added that is not part of the original message (do not add something just because you read it in a commentary),
-  * the added information does not change the meaning, making it no longer true or accurate,
-  * the added information is suitable to the original situation in which the message was given.
+Çevirmenin amacı, okuyucunun bildirinin orijinal anlamını anlayabileceğinden emin olmak olmalı. Çeviri her zaman kaynak metnin orijinal okuyucu kitlesine verdiği anlamı taşıması gerekir - daha çok anlam, daha az anlam veya farklı anlam taşıması gerekmez.
 
-As always, you need to ask yourself if your translation is communicating accurately and clearly what the original message was saying.
+Çevirinin açıklanması için aşağıdaki durumlarda örtülü bilgiler açık yapılabilir:
+
+  * Sadece orijinal okuyucu kitlesinin zaten bildiği örtülü bilgiler açıklanması;
+  * hedef okuyucu kitlesinin bildirinin ana düşüncesini anlaması için eklenen bilgilerin gerekli olması;
+  * eklenen bilgiler olmaksızın çevirinin anlamsız olması ya da yanlış anlam iletmesi;
+  * Orijinal bildiriye dahil olmayan hiçbir yeni bilgi eklenmez (yorum kitabında okumuş olduğunuz bir bilgiyi eklemeyin);
+  * eklenen bilginin anlamı değiştirmemesi, anlamın doğru ve tam olarak kalması lazım;
+  * eklenen bilginin bildirinin verildiği orijinal duruma uyması gerekir.
+
+Her zamanki gibi, çevirinizin orijinal bildiride söylenenleri doğru ve açık şekilde iletip iletmediğini sorgulamanız gerekir.
 
 ==== Examples from the Bible ====
 
