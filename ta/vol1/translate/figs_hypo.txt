@@ -1,9 +1,10 @@
-===== Hypothetical Situations =====
+===== Hipotetik Durumlar =====
 
-This module answers the question: //What are hypothetical situations?//
+This module answers the question: //Hipotetik durumlar nedir?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:translate:figs_intro|Figures of Speech]]//
+
+  * //[[:tr:ta:vol1:translate:figs_intro|Figures of Speech]]//
 
 ==== Definition ====
 
