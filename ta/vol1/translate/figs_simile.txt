@@ -16,11 +16,11 @@ Teşbihte, aralarındaki ortak bir niteliğin vurgulanması yolu ile bir şey ba
   * Başka amacı, bir şeyin bir özelliğini vurgulamak ya da bu özelliğe aşırı derecede sahip olduğunu göstermektir.
   * Teşbihler ayrıca aklınızda bir şeyin resmini yaratmanıza, okuduğunuz şeyleri daha dolgun bir şekilde yaşamanıza yardım eder.
 
-==== Translation Suggestions ====
+==== Çeviri için Öneriler ====
 
-  * If the image in the original is unknown to your people, use one from your own culture. Be sure that it is one that could have been used in the cultures of the Bible. We don't want to have comparisons to things that had not been invented when the books of the Bible were first written.
-  * Or if the image in the original is unknown to your people, simply state the point of similarity without using an image.
-  * If it would be unclear to your readers how the topic is like the image, you can state the point of similarity explicitly. However, do not do this if it was not clear to the original audience.
+  * Orijinalde kullanılan timsal halkınız için yabancıysa, kendi kültürünüzden bir timsal kullanın. Kutsal Kitap’ın kültürlerinde mümkün olabilecek timsalleri kullandığınızdan emin olun. Kutsal Kitap’ın yazıldığı dönemlerde henüz icat edilmemiş şeyleri kullanmanızı istemiyoruz.
+  * Yahut orijinaldeki timsal halkınıza yabancı ise hiçbir timsal kullanmadan sadece benzetme yönünü söyleyin.
+  * Konunuzun timsalinize benzemesi okuyucularınıza açık değilse benzetme yönünü açıklayabilirsiniz. Fakat bu, orijinal okuyuculara da açık olmadıysa, böyle yapmayın.
 
 ==== Examples from the Bible ====
 
