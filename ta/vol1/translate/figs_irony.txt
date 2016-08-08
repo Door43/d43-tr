@@ -29,30 +29,28 @@ Burada kinaye anlaşılmıyorsa, askerlerin sözleri daha dolaysız bir şekilde
 
 Buradaki kinaye anlaşılmıyorsa Markos 2:17’nin bir kısmı şöyle çevrilebilir: «Ben kendini doğru sayan kişileri değil, günahkâr olduklarını bilen kişileri çağırmaya geldim.»
 
-==== Examples from English ====
+==== Türkçeden Örnekler ====
 
->"The used-car salesman told me that this car was a great bargain at only $1000, so I bought it. But now I find out that the radiator doesn't work, and it will cost me $4000 to get it repaired. __Great bargain. Yeah, right__."
+>«2. el arabası satıcısı bana sadece 1.000 Dolara kelepir bir araba teklif etti. Aldım, şimdiyse radyatörün bozuk olduğunu ve yenisinin 4.000 Dolara mal olacağını öğrendim. Kelepir araba bu! Vallahi!»
 
-In this example, the speaker uses irony to express that the reality of the car was totally different than what the car salesman said, so he repeats the car salesman's words, but now mocking them as false.
+Bu örnekte konuşan kişi satın aldığı arabanın satıcının dediğinden tamamen farklı olduğunu anlatmak için kinaye kullanıyor; bu amaçla satıcının dediği sözleri -yalan olduğu için alay ile- tekrarlıyor.
 
->"Thanks for holding the door open for me."
+>«Kapıyı benim için açık tuttuğun için teşekkürler!»
 
-This would be an ironic statement made to someone who did not hold the door open for the speaker. It expresses that the other person should have been kind enough to hold it open, and that the speaker is annoyed with that person for not doing that. The expression of thanks for something that both the hearer and the speaker know that the hearer did not do has become, through irony, a rebuke for not doing it.
-
-
+Bu, konuşan kişi için kapıyı açık tutmayan birine söylenen kinayeli sözdür. Karşı tarafın kapıyı açık tutacak kadar nezaket göstermesi gerektiğini ve konuşan kişinin bunun yapılmadığına kızdığını ifade eden bu kinayede her iki kişi yapılmadığı bilinen bir iş için söylenen teşekkürlerin aslında azarlama anlamına geldiğini anlarlar.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:figs_metaphor|Metaphor]]//
-  * //[[tr:ta:vol1:translate:figs_simile|Simile]]//
-  * //[[tr:ta:vol1:translate:figs_rquestion|Rhetorical Question]]//
-  * //[[tr:ta:vol1:translate:figs_idiom|Idiom]]//
-  * //[[tr:ta:vol1:translate:figs_order|Word Order]]//
-  * //[[tr:ta:vol1:translate:figs_you|Forms of You]]//
-  * //[[tr:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]//
-  * //[[tr:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]//
-  * //[[tr:ta:vol1:translate:figs_explicit|Explicit and Implicit]]//
-  * //[[tr:ta:vol1:translate:figs_explicitinfo|Making Implicit Information Explicit]]//
-  * //[[tr:ta:vol1:translate:figs_hypo|Hypothetical Situations]]//
-  * //[[tr:ta:vol1:translate:figs_events|Order of Events]]//
-  * //[[tr:ta:vol1:translate:figs_parables|Parables]]//
 
+  * //[[:tr:ta:vol1:translate:figs_metaphor|Metaphor]]//
+  * //[[:tr:ta:vol1:translate:figs_simile|Simile]]//
+  * //[[:tr:ta:vol1:translate:figs_rquestion|Rhetorical Question]]//
+  * //[[:tr:ta:vol1:translate:figs_idiom|Idiom]]//
+  * //[[:tr:ta:vol1:translate:figs_order|Word Order]]//
+  * //[[:tr:ta:vol1:translate:figs_you|Forms of You]]//
+  * //[[:tr:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]//
+  * //[[:tr:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]//
+  * //[[:tr:ta:vol1:translate:figs_explicit|Explicit and Implicit]]//
+  * //[[:tr:ta:vol1:translate:figs_explicitinfo|Making Implicit Information Explicit]]//
+  * //[[:tr:ta:vol1:translate:figs_hypo|Hypothetical Situations]]//
+  * //[[:tr:ta:vol1:translate:figs_events|Order of Events]]//
+  * //[[:tr:ta:vol1:translate:figs_parables|Parables]]//
