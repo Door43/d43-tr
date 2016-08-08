@@ -1,9 +1,10 @@
-===== Terms to Know =====
+===== Bilinmesi Gereken Terimler =====
 
-This module answers the question: //What terms should I know?//
+This module answers the question: //Hangi terimleri bilmem gerekir?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]//
+
+  * //[[:tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]//
 
 ==== Important Words to Know ====
 
