@@ -10,15 +10,15 @@ Before you start this module have you learned about:
 
 Hipotetik olan bir şey «varsayılan» ya da «ileri sürülen»dir. Hipotetik durum geçmiş, şimdiki veya gelecek olan her zamanda mümkün olan bir senaryodur. Geçmişteki hipotetik durum gerçekleşmedi, ama farklı koşullarda gerçekleşebilirdi. Şimdiki ya da gelecek zamanlardaki hipotetik durum gerçekleşebilir ama bu belli değil; konuşan kişi bunu bilmemesi veya bunun başkalarının eylemlerine bağlı olması nedeniyle bunu hipotetik olarak sunar. Gerçekleşeceği de gerçekleşmeyeceği de olasıdır. Hipotetik durumda «eğer şu şey olursa ne olur?» gibi soru sorulabilir. «Tutalım» ya da «keşke» gibi sözlerle cümleler kurulabilir. Hipotetik durumlar iyi eğitici araçlardır. İsa öğretirken onları sık sık kullanırdı.
 
-==== Translation Suggestions ====
+==== Çeviri için Öneriler ====
 
-  * How would your language express a situation that could never happen?
-  * How would you communicate a “suppose” scenario that could happen right now?
-  *How would your language express a situation that may or may not happen in the future?
-  * Does your language have a special way of indicating a hypothetical situation in the past?
-  * How does your language express an “if only” or “I wish” scenario which also implies some emotion?
+  * Sizin dilinizde asla olamayacak bir durumdan nasıl söz edilir?
+  * Şu anda olası bir «tutalım» senaryosunu nasıl anlatırsınız?
+  * Sizin dilinizde gelecekte olabilecek ya da olamayacak bir durumdan nasıl söz edilir?
+  * Dilinizde geçmişteki hipotetik durumdan söz etmek için özel bir yöntem bulunuyor mu?
+  * Dilinizde biraz duygu gerektiren «Keşke» senaryosu nasıl anlatılır?
 
-It is important in translation to be able to recognize a hypothetical situation in the text and use appropriate words or phrases. You may need to show the timing of the hypothetical situation (e.g. past, present or future). You may need to clarify that the scenario is only a possibility: that it might be true or not likely to be true; that it could possibly happen or would never happen.  Hypothetical situations may or may not imply emotions or reasons. Some hypothetical statements may use expressions such as “what if”, “suppose” or “if only” to help the reader understand the type of hypothetical situation.  Perhaps your language uses special wording or specific language structures to communicate each of these things.
+Çeviri yaparken metindeki hipotetik durumları tanıyabilmek ve uygun sözcük veya ifadeleri kullanmak önemlidir. Hipotetik durumun zamanını (örn., geçmiş, şimdiki veya gelecek) göstermek gerekli olabilir. Söz konusu senaryonun sadece bir olasılık olduğunu, gerçekleşebileceğini yahut gerçekleşme ihtimalinin az olduğunu açıklamak zorunda olabilirsiniz. Hipotetik durumlar duygulara ve sebeplere ima edebilir yahut etmeyebilir. Okuyucunun hipotetik durumun çeşidini anlamasına yardım etmek için bazı hipotetik durumlarda «eğer», «tutalım ki», «keşke» gibi sözlerle kurulan cümleler kullanılabilir. Belki dilinizde bunlardan her birini iletmek için özel sözler ve dil yapıları kullanılır.
 
 ==== Examples from the Bible ====
 
