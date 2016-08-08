@@ -10,10 +10,10 @@ Before you start this module have you learned about:
 
 Kinaye, kastettiğimizin aksini söylüyormuş gibi görünen sözcükleri kullanmamızdır. Kinaye genelde mizah için ya da bir şeyin olması gerekenden ne kadar farklı olduğunu veya birinin inancının gerçekten ne kadar uzak olduğunu vurgulamak için kullanılır. Kinaye, doğrudan ifadelerden daha kuvvetli şekilde bunu gösteriyor. Kinayeyi kullanan kişi bazen birinin söylemiş ya da düşünmüş olduğu veya olabileceği şeyleri tekrarlar, ama dinleyicilerinin bağlama göre buna hiç katılmadığını anlayacaklarını bekler.
 
-==== Translation Suggestions ====
+==== Çeviri için Öneriler ====
 
-  * If the irony would be understood correctly, translate it as is.
-  * If the irony would not be understood correctly, you could indicate that the thoughts are not truly those of the speaker but of someone else. For example,  In Mark 7:9, Jesus says to the Pharisees, "Rightly you set aside the commandment of God in order to set up your own tradition." Jesus is putting into words what the Pharisees actually do, even though they would never admit that they do this. Everyone who hears this, including Jesus, knows that it is wrong to set aside a commandment of God. So Jesus is rebuking the Pharisees in a powerful way by using words that seem to commend them for doing wrong. If the irony would not be understood, this could be translated as "You think you have done well in following your traditions. But as you do that, you have rejected God's commandments."
+  * Kinaye doğru anlaşılacaksa, onu olduğu gibi çevirin.
+  * Kinaye doğru anlaşılmayacaksa, söylenen düşüncelerin söyleyen kişiye değil, başka birine ait olduğunu açıklayabilirsiniz. Örneğin, Markos 7:9’da İsa Ferisilere şöyle der: «Kendi törenizi sürdürmek için Tanrı buyruğunu bir kenara itmeyi ne de güzel beceriyorsunuz!» İsa bu sözlerle Ferisilerin gerçekten yaptıkları, fakat asla itiraf etmek istemedikleri işi söyler. İsa dahil, bunu duyan herkes Tanrı’nın emrini kenara itmenin yanlış olduğunu bilir. Böylece İsa, Ferisilere övgü gibi görünen sözlerle aslında onları kötülükleri için azarlar. Bu kinaye anlaşılmıyorsa şöyle çevrilebilir: «Kendi törenizi sürdürmekle iyi yaptığınızı düşünüyorsunuz. Fakat aslında bunu yapmakla Tanrı buyruğunu reddetmiş oluyorsunuz!»
 
 ==== Examples from the Bible ====
 
