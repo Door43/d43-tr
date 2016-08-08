@@ -6,48 +6,44 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]//
 
-==== Important Words to Know ====
+==== Bilinmesi Önemli Olan Sözler ====
 
-//Note: These are terms that the Translation Manual will use to talk about language. The translator will need to understand these terms in order to use the Translation Manual.//
+//Not: Bunlar, Çeviri Kılavuzu’nda dilden bahsedilirken kullanılan terimlerdir. Çevirmenin Çeviri Kılavuzu’nu kullanması için bu terimleri anlaması gerekecek.//
 
-**Term** - A word or phrase that refers to one thing, idea, or action. For example, the term in English for pouring liquid into one's mouth is "drink." The term for a ceremony that marks an important transition in someone's life is "rite of passage." The difference between a term and a word is that a term can contain several words.
+**Terim** - Bir şeyi, kavramı ya da eylemi belirten sözcük veya ifade. Örneğin, kendi ağzına bir sıvı dökmek için Türkçede kullanılan terim «içmek», İngilizcede «drink»tir. Birinin yaşamında önemli bir geçişi simgeleyen bir ritüeli tanımlayan terim ise İngilizce «rite of passage» (Türkçesi «geçiş ayini»). Terimle sözcük arasındaki fark, terimin birkaç sözcükten oluşabilmesindedir.
 
-**Text** - A text is something that a speaker or writer is communicating to a hearer or reader by means of language. The speaker or writer has a certain meaning in mind, and so he or she chooses a form of the language to express that meaning.
+**Metin **- Metin, bir anlatıcı veya yazarın dil vasıtasıyla dinleyiciye ya da okuyucuya ilettiği bildiridir. Anlatıcı veya yazar, aklında tuttuğu bir anlamı iletmek için dilin bir biçimini seçer.
 
-**Context** - The words, phrases, sentences, and paragraphs surrounding the word, phrase, or sentence in question. The context is the text that surrounds the part of the text that you are examining. The meaning of individual words and phrases can change when they are in different contexts.
+**Bağlam **- Söz konusu olan sözcüğü, ifadeyi ya da cümleyi çevreleyen sözcükler, ifadeler ve cümleler. Bağlam, metnin incelediğiniz kısmını çevreleyen metindir. Ayrı ayrı sözcük ve ifadelerin anlamı değişik bağlamlarda değişebilir.
 
-**Form** - The structure of the language as it appears on the page or as it is spoken. "Form" refers to the way that the language is arranged - it includes the words, the word order, the grammar, idioms, and any other features of the structure of the text.
+**Biçim **- Bir dilin yazılı ya da sözlü olarak kullanılan yapısıdır. «Biçim», dilin düzenlenmesidir; sözcükleri, söz sırasını, grameri, deyimleri ve metin yapısının herhangi başka niteliklerini içerir.
 
-**Grammar** - The way that sentences are put together in a language. This has to do with the order of its various parts, such as if the verb goes first or last or in the middle. 
+**Gramer **- Bir dilde cümlelerin kurulması. Bu ayrıca cümlenin çeşitli ögelerinin sırası, örneğin, fiilin cümlenin başında, ortasında ya da sonunda yer alması ile ilgilidir.
 
-**Idiom** - An expression that uses several words and that means something different as a whole than it would if the words were understood with the meanings that they have when they are used separately. Idioms cannot be translated literally, that is, with the meanings of the separate words. For example, "He kicked the bucket" is an idiom in English that means, "He died." 
+**Deyim **- Birkaç sözcükten oluşan ve ayrı sözcüklerin anlamlarından farklı bir anlama gelen ifade. Deyimler birebir, yani ayrı sözcüklerin anlamları ile çevrilemez. Örneğin, Türkçe «çıngırağı çekti» deyimi «öldü» anlamına gelir.
 
-**Meaning** - The underlying idea or concept that the text is trying to communicate to the reader or hearer. A speaker or writer can communicate the same meaning by using different forms of the language, and different people can understand different meanings from hearing or reading the same language form. In this way you can see that form and meaning are not the same thing.
+**Anlam **- Metinde okuyucuya veya dinleyiciye iletilmeye çalışılan belli başlı düşünce ya da kavramdır. Anlatıcı veya yazar dilin değişik biçimlerini kullanarak aynı anlamı iletebilir ve değişik insanlar aynı dil biçimini işitir ya da okur iken değişik anlamları algılayabilirler. Böylece biçim ve anlamın aynı şey olmadığını görebilirsiniz.
 
-**Translation** - The act of expressing the meaning conveyed by the form of one language in the form of another language.
+**Çeviri **- Bir dilin biçimi ile iletilen anlamı diğer bir dilin biçimi ile ifade edilmesi.
 
-**Source Language** - The language //from// which the translation is being made.
+**Kaynak Dil** - çeviri bu dilden yapılır.
 
-**Source Text**- The text //from// which the translation is being made.
+**Kaynak Metin** - Çeviri bu metinden yapılır.
 
-**Target Language** - The language //into// which a translation is being made.
+**Hedef Dil** - Çeviri bu dile yapılır.
 
-**Target Text**- The text being made by the translator as he or she translates the meaning from the source text.
+**Hedef Metin** - Çevirmenin kaynak metnin anlamını çevirirken yarattığı metin.
 
-**Original Language** - The language in which a Bible text was initially written. The Original Language of the New Testament is Greek. The Original Language of most of the Old Testament is Hebrew. However, the Original Language of some parts of Daniel and Ezra is Aramaic. The Original Language is always the most accurate language from which to translate a passage.
+**Orijinal Dil** - Kutsal Kitap metninin ilk olarak yazılmış olduğu dil. Yeni Ahit’in orijinal dili Yunancadır. Eski Ahit’in büyük kısmının orijinal dili İbranicedir. Ancak Daniel ve Ezra kitaplarının bazı bölümleri Aramice yazılmıştır. Orijinal dil her zaman çevirinin yapılacağı en doğru dildir.
 
-**Language of Wider Communication** - A language that is spoken over a broad area and by many people. For most people, this is not their first language, but is the language that they use to speak to people outside of their language community. Some people call this a trade language. Most Bibles will be translated using a language of wider communication as the source language.
+**Geniş İletişim Dili** - Geniş arazide çok insanın konuştuğu dil. İnsanların çoğunun ana dili değil, dil toplumlarının dışında insanlarla konuşurken kullandıkları dil. Bazı insanlar buna ticaret dili derler. Kutsal Kitap çevirilerinin çoğu kaynak dil olarak geniş iletişim dilini kullanırlar.
 
-**Literal Translation** - A translation that focuses on reproducing the form of the source text in the target text, even if the meaning changes as a result.
+**Birebir Çeviri** - bunun sonucunda anlam değişse bile, hedef metinde kaynak metnin biçimini aktarmayı amaçlayan çeviri.
 
-**Meaning-based Translation (or Dynamic Translation)** - A translation that focuses on reproducing the meaning of the source text in the target text, even if the form changes as a result.
+**Anlama Dayalı Çeviri (veya Dinamik Çeviri)** - bunun sonucunda biçim değişse bile, hedef metinde kaynak metnin anlamını aktarmayı amaçlayan çeviri.
 
-**Passage** - A section of the Bible text that is being talked about. This can be as small as one verse, but it is usually several verses that together have one topic or tell one story. 
-
-
-
-
+**Pasaj **- Kutsal Kitap metninin söz konusu olan kısmı. Bir ayet kadar küçük olabilir, ama genelde bir konuya ait olan ya da bir öyküyü anlatan birkaç ayet.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:translate_whatis|What is Translation]]//
 
+  * //[[:tr:ta:vol1:translate:translate_whatis|What is Translation]]//
