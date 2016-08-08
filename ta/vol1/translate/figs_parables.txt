@@ -20,26 +20,24 @@ Meseller kişilerin adlarını nadiren içerir (Bu, meseli gerçek olaydan ayır
 
 (Bkz: [[:en:ta:vol1:translate:figs_simile|Simile]], [[:en:ta:vol1:translate:figs_metaphor|Metaphor]], [[:en:ta:vol1:translate:figs_hypo|Hypothetical Situations]])
 
-==== Examples from the Bible ====
+==== Kutsal Kitap’tan Örnekler ====
 
->//Jesus said to them, "Certainly you will say this __proverb__ to me, 'Doctor, heal yourself. Whatever we heard that you did in Capernaum, do it here in your hometown too.'"// -Luke 4:23 ULB 
+>//«İsa onlara şöyle dedi: “Kuşkusuz bana şu deyimi hatırlatacaksınız: ‘Ey hekim, önce kendini iyileştir! Kefarnahum’da yaptıklarını duyduk. Aynısını burada, kendi memleketinde de yap.’”» // (Luka 4:23)
 
->//Then he also told them a __parable__. "Can a blind person guide another blind person? If he did, they would both fall into a pit, would they not?// -Luke 6:39 ULB
-
-
+>//«İsa onlara şu benzetmeyi de anlattı: “Kör köre kılavuzluk edebilir mi? İkisi de çukura düşmez mi?»// (Luka 6:39)
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:figs_metaphor|Metaphor]]//
-  * //[[tr:ta:vol1:translate:figs_simile|Simile]]//
-  * //[[tr:ta:vol1:translate:figs_rquestion|Rhetorical Question]]//
-  * //[[tr:ta:vol1:translate:figs_idiom|Idiom]]//
-  * //[[tr:ta:vol1:translate:figs_irony|Irony]]//
-  * //[[tr:ta:vol1:translate:figs_order|Word Order]]//
-  * //[[tr:ta:vol1:translate:figs_you|Forms of You]]//
-  * //[[tr:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]//
-  * //[[tr:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]//
-  * //[[tr:ta:vol1:translate:figs_explicit|Explicit and Implicit]]//
-  * //[[tr:ta:vol1:translate:figs_explicitinfo|Making Implicit Information Explicit]]//
-  * //[[tr:ta:vol1:translate:figs_hypo|Hypothetical Situations]]//
-  * //[[tr:ta:vol1:translate:figs_events|Order of Events]]//
 
+  * //[[:tr:ta:vol1:translate:figs_metaphor|Metaphor]]//
+  * //[[:tr:ta:vol1:translate:figs_simile|Simile]]//
+  * //[[:tr:ta:vol1:translate:figs_rquestion|Rhetorical Question]]//
+  * //[[:tr:ta:vol1:translate:figs_idiom|Idiom]]//
+  * //[[:tr:ta:vol1:translate:figs_irony|Irony]]//
+  * //[[:tr:ta:vol1:translate:figs_order|Word Order]]//
+  * //[[:tr:ta:vol1:translate:figs_you|Forms of You]]//
+  * //[[:tr:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]//
+  * //[[:tr:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]//
+  * //[[:tr:ta:vol1:translate:figs_explicit|Explicit and Implicit]]//
+  * //[[:tr:ta:vol1:translate:figs_explicitinfo|Making Implicit Information Explicit]]//
+  * //[[:tr:ta:vol1:translate:figs_hypo|Hypothetical Situations]]//
+  * //[[:tr:ta:vol1:translate:figs_events|Order of Events]]//
