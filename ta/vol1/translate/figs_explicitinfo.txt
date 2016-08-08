@@ -46,28 +46,23 @@ Orijinal okuyucular beş kralın ordularının birleştiğini anlıyorlardı. Fa
 
 Hanok’un İrat adındaki çocuğu ve İrat’ın Mehuyael adındaki çocuğu olduğu açıkça bildirilir. Kastedilen bilgi, İrat’ın büyüdüğü, evlendiği ve o kadından oğlu doğduğudur. Bu ayette o bilgilerin açıklanmaması hedef okuyucu kitlesi için kafa karıştırıcı ise gerektiği kadar bilgi ekleyebilirsiniz. Örneğin, «Hanok büyüdü, evlendi ve İrat adındaki çocuğun babası oldu; İrat da büyüdükten sonra çocuğu oldu ve ona Mehuyael adını koydu.»
 
-==== Examples from English ====
+==== Türkçeden Örnekler ====
 
-  * David asks Susan: “Where is Joe?” David’s question is explicit because it is clearly stated and easily understood by Susan.
-  * Susan answers, “At work.” Susan’s response leaves out who she is talking about - this information is implicit. But David understands that information and that her message is, in fact, “Joe is at work.”
-
-
-
-
-
+  * Davut Semra’ya sorar: «Cemal nerede?» Davut’un sorusu açıktır ve Semra tarafından anlaşılır.
+  * Semra cevap verir: «İşte.» Şemra’nın cevabında bahsedilen kişi belirtilmedi, bu bilgi örtülüdür. Ama Davut bu bilgiye sahiptir ve Semra’nın «İşte Cemal» kastettiğini anlar.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:figs_explicit|Explicit and Implicit]]//
-  * //[[tr:ta:vol1:translate:figs_metaphor|Metaphor]]//
-  * //[[tr:ta:vol1:translate:figs_simile|Simile]]//
-  * //[[tr:ta:vol1:translate:figs_rquestion|Rhetorical Question]]//
-  * //[[tr:ta:vol1:translate:figs_idiom|Idiom]]//
-  * //[[tr:ta:vol1:translate:figs_irony|Irony]]//
-  * //[[tr:ta:vol1:translate:figs_order|Word Order]]//
-  * //[[tr:ta:vol1:translate:figs_you|Forms of You]]//
-  * //[[tr:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]//
-  * //[[tr:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]//
-  * //[[tr:ta:vol1:translate:figs_hypo|Hypothetical Situations]]//
-  * //[[tr:ta:vol1:translate:figs_events|Order of Events]]//
-  * //[[tr:ta:vol1:translate:figs_parables|Parables]]//
 
+  * //[[:tr:ta:vol1:translate:figs_explicit|Explicit and Implicit]]//
+  * //[[:tr:ta:vol1:translate:figs_metaphor|Metaphor]]//
+  * //[[:tr:ta:vol1:translate:figs_simile|Simile]]//
+  * //[[:tr:ta:vol1:translate:figs_rquestion|Rhetorical Question]]//
+  * //[[:tr:ta:vol1:translate:figs_idiom|Idiom]]//
+  * //[[:tr:ta:vol1:translate:figs_irony|Irony]]//
+  * //[[:tr:ta:vol1:translate:figs_order|Word Order]]//
+  * //[[:tr:ta:vol1:translate:figs_you|Forms of You]]//
+  * //[[:tr:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]//
+  * //[[:tr:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]//
+  * //[[:tr:ta:vol1:translate:figs_hypo|Hypothetical Situations]]//
+  * //[[:tr:ta:vol1:translate:figs_events|Order of Events]]//
+  * //[[:tr:ta:vol1:translate:figs_parables|Parables]]//
