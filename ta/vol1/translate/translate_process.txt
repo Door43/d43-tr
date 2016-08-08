@@ -7,19 +7,18 @@ Before you start this module have you learned about:
   * //[[:tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]//
   * //[[:tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]//
 
-==== How to Translate ====
+==== Nasıl Çevirmeli ====
 
-There are two things to do in translation:
-  - Discover the meaning in the source language text (See: [[tr:ta:vol1:translate:translate_discover]])
-  - Re-tell the meaning in the target language translation (See: [[tr:ta:vol1:translate:translate_retell]])
-Instructions for translation sometimes divide these two things into smaller steps. The graphic below shows how these two fit into the translation process. 
-{{:en:ta:translation_process.png?nolink600x360}}
+eviride yapmanız gereken iki şey var:
 
+  - Kaynak metnin anlamını keşfetmek (Bkz: [[:tr:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]])
+  - Hedef dile çeviri metninde anlamı yeniden anlatmak (Bkz: [[:en:ta:vol1:translate:translate_retell|Anlamı Yeniden Anlatma]])
 
+Çeviri için talimat bazen bu iki şeyi daha küçük adımlara bölüyor. Aşağıdaki çizelgede bunların ikisinin çeviri sürecine nasıl uyduğunu gösterilir.{{:en:ta:translation_process.png?nolink&600x360}}
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]//
-  * //[[tr:ta:vol1:translate:translate_retell|Re-telling the Meaning]]//
-  * //[[tr:ta:vol1:translate:translate_terms|Terms to Know]]//
-  * //[[tr:ta:vol1:translate:translate_fandm|Form and Meaning]]//
 
+  * //[[:tr:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]//
+  * //[[:tr:ta:vol1:translate:translate_retell|Re-telling the Meaning]]//
+  * //[[:tr:ta:vol1:translate:translate_terms|Terms to Know]]//
+  * //[[:tr:ta:vol1:translate:translate_fandm|Form and Meaning]]//
