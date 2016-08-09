@@ -1,12 +1,13 @@
-===== Literal Translations =====
+===== Birebir Çeviriler =====
 
-This module answers the question: //What are literal translations?//
+This module answers the question: //Birebir çeviriler nedir?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:translate:translate_whatis|What is Translation]]//
-  * //[[tr:ta:vol1:translate:translate_process|The Translation Process]]//
-  * //[[tr:ta:vol1:translate:translate_fandm|Form and Meaning]]//
-  * //[[tr:ta:vol1:translate:translate_terms|Terms to Know]]//
+
+  * //[[:tr:ta:vol1:translate:translate_whatis|What is Translation]]//
+  * //[[:tr:ta:vol1:translate:translate_process|The Translation Process]]//
+  * //[[:tr:ta:vol1:translate:translate_fandm|Form and Meaning]]//
+  * //[[:tr:ta:vol1:translate:translate_terms|Terms to Know]]//
 
 ==== Definition ====
 
