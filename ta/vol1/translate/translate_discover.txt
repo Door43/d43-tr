@@ -6,21 +6,18 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:translate:translate_process|The Translation Process]]//
 
-==== How to Discover the Meaning ====
+==== Anlamı Nasıl Keşfederiz ====
 
-There are many different things that we can do to help us to discover the meaning of the text, that is, to make sure that we understand what the text is trying to say. Here are a few suggestions:
-   - Read the whole passage through before you translate it. Understand the main point of the whole passage before you begin to translate it. If it is a narrative passage, such as a story of one of Jesus' miracles, picture the original situation. Imagine you were there. Imagine how people felt.
-   - When translating the Bible, always use at least two versions of the Bible together as your source text. Comparing two versions will help you to think about the meaning, so that you do not just follow the words of one version literally. The two versions should be:
-      *One version that follows the form of the original language fairly closely, such as the Unlocked Literal Bible (ULB).
-      * One meaning-based version, such as the Unlocked Dynamic Bible (UDB).
-   - Use the Important Terms resources to learn about terms that you are not familiar with. Words sometimes have more than one meaning. Make sure that you have understood the right meaning of the word in the passage.
-   - Also use the translationNotes that are with the ULB Bible. These are available in the translationStudio program and the Door43 website. These will explain things about the passage that may not be clear. If possible, also use other reference books, such as other versions of the Bible, a Bible dictionary, or Bible commentaries.
+Metnin anlamını keşfetmemize yardım edebilecek, yani metinde ne söylenmeye çalışıldığını anlamamızı sağlayabilecek çok şeyler var. Aşağıda birkaç öneri veriliyor:
 
-
-
-
+  - Pasajı çevirmeden önce baştan sona kadar okuyun. Pasajı çevirmeye başlamadan önce bütün pasajın ana düşüncesini anlayın. Söz konusu pasaj, İsa’nın mucizelerinden birini anlatan öykü gibi anlatı biçimindeyse orijinal durumu betimleyin. Orada olduğunuzu hayal edin. İnsanların ne hissettiklerini hayal edin.
+  - Kutsal Kitap’ı çevirirken kaynak metin olarak her zaman Kutsal Kitap’ın en az iki versiyonunu aynı zamanda kullanın. İki versiyonu karşılaştırmanız, anlamı düşünmenize ve bir versiyonun sözcüklerini birebir izlememenize yardım edecek. Bu iki versiyon şöyle olacak:
+      * biri Unlocked Literal Bible (ULB, Açık Lisanslı Birebir Kutsal Kitap) gibi orijinal dilin biçimine uygun yapılmış çeviri;
+      * biri de Unlocked Dynamic Bible (UDB, Açık Lisanslı Dinamik Kutsal Kitap) gibi anlama dayalı versiyondur.
+  - Bilmediğiniz terimleri öğrenmek için Önemli Terimler kaynaklarını kullanın. Bazen sözcüklerin birden fazla anlamları olur. Pasajdaki sözcüğün doğru anlamını anlamış olduğunuzdan emin olun.
+  - Ayrıca ULB versiyonuna ait olan translationNotes’u kullanın. Bunlar translationStudio programında ve Door43 sitesinde bulunmaktadır. Mümkünse, başka referans kitaplarını, örneğin, Kutsal Kitap’ın başka versiyonları, Kutsal Kitap sözlüğünü veya Kutsal Kitap yorum kitaplarını da kullanın.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:translate_terms|Terms to Know]]//
-  * //[[tr:ta:vol1:translate:translate_retell|Re-telling the Meaning]]//
 
+  * //[[:tr:ta:vol1:translate:translate_terms|Terms to Know]]//
+  * //[[:tr:ta:vol1:translate:translate_retell|Re-telling the Meaning]]//
