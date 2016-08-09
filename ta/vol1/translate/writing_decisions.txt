@@ -7,20 +7,17 @@ Before you start this module have you learned about:
   * //[[:tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
   * //[[:tr:ta:vol1:translate:choose_team|Choosing a Translation Team]]//
 
-==== Important Questions to Answer About Writing ====
+==== Yazma Hakkında Cevaplanacak Olan Önemli Sorular ====
 
-When a language is first written the translator must decide how to indicate certain features of all written languages. 
+Bir dil ilk kez yazıldığında çevirmen bütün yazılı dillerin belirli niteliklerini nasıl işaret edeceğine karar verecek.
 
-These questions will give the wider community an understanding of some of the preliminary decisions made by the translator for writing the local language in the areas of punctuation, spelling and the writing of names in the Bible. The translation team and the community should agree on how to do this.
+Bu sorular, çevirmenin yerel halkın yazılı dili için noktalama işaretleri, ortografi ve adların yazılışı konusunda verdiği bazı kararlar hakkında geniş topluma anlayış verecek. Çeviri takımı ile toplumun bunu nasıl yapacakları konusunda anlaşmaları gerekir.
 
-  * Does your language have a way of highlighting direct or quoted speech? How do you show it? 
-  * What guidelines have you followed for indicating verse numbering, quoted speech and Old Testament quotations? (Are you following the style of the national language? What variations have you decided to use to suit your language?) 
-  * What guidelines have you followed in writing names in the Bible? Do you use the names written in the national language Bible? Do you have guidelines from your own language as to how names are pronounced and if they need added titles? (Has this decision been acceptable to the community?) 
-  * Have you taken note of any spelling rules for your language that you would like to share with others, such as where a word changes its form or two words combine? (Are these rules acceptable to the community?) 
- 
-
-
+  * Dilinizde doğrudan veya dolaylı (alıntı) anlatımı belirtmek için yollar var mı? Bunu nasıl belirtiyorsunuz?
+  * Ayet numaralandırma, dolaylı anlatımı ve Eski Ahit alıntıları belirtmek için hangi kurallara uyuyorsunuz? (Devlet diline çevirinin stiline mi uyuyorsunuz? Dilinize uygun olan hangi değişiklikleri yapmaya karar verdiniz?)
+  * Kutsal Kitap’ta adları yazmada hangi kuralara uyuyorsunuz? Kutsal Kitap’ın devlet diline çevirisinde yazılan adları kullanıyor musunuz? Sizin dilinizde adların telaffuzuna ve adlara unvan ekleme gereğine dair kurallarınız var mı? (Toplum bu kararı nasıl kabul etti?)
+  * Dilinize uygun gördüğünüz ve başkalarıyla paylaşmak istediğiniz herhangi ortografi kuralları (örneğin, bir sözcüğün biçimini değişmesi veya iki sözcüğün birleşmesi gibi) var mı? Toplum bu kuralları kabul edecek mi?
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:translate_what|What to Start Translating]]//
 
+  * //[[:tr:ta:vol1:translate:translate_what|What to Start Translating]]//
