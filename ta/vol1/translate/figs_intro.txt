@@ -4,7 +4,7 @@ This module answers the question: //Bazı mecazlar nelerdir?​//
 
 ==== Definition ====
 
-Figures of speech are ways of saying things that use words in non-literal ways. That is, the meaning of the figure of speech is not the same as the more direct meaning of the words. In order to translate the meaning, you need to be able to recognize figures of speech and know what the figure of speech means in the source language. Then you can choose either a figure of speech or a direct way to communicate that same meaning in the target language. 
+Mecaz, sözün gerçek anlamından başka anlamda kullanılmasıdır. Yani mecazın anlamı sözcüklerin gerçek anlamıyla aynı değildir. Mecazın anlamını çevirmek için onu mecaz olarak tanımanız ve kaynak dilde ne anlama geldiğini kavramanız gerekir. O zaman ya hedef dilde bir mecazla aynı anlamı iletebilirsiniz ya da gerçek anlamda bir söz kullanabilirsiniz.
 
 ==== Types ====
 
