@@ -14,18 +14,16 @@ Tekil / İkil / Çoğul konusunda [[http://youtu.be/cPtjzJ2Advk|bilgisayarda]] (
 
 2. şahsın ikil / çoğul biçimleri konusunda daha fazla bilgi edinmek için [[:tr:ta:vol1:translate:figs_youdual|buraya tıklayın]].
 
-==== Formal / Informal ====
+==== Resmî / Gayriresmî ====
 
-Some languages also have different forms of "you" to indicate respect or social distance. They use the formal form of "you" when addressing someone who is an elder or respected or in authority. They use the informal "you" when talking with a peer or someone with less authority. Because the Bible was written in languages that do not have this difference, the translator will need to decide when it is best to use formal or informal forms of the language.
+Bazı dillerde ayrıca «siz» zamirinin değişik biçimleri saygı veya sosyal mesafe belirtmek için kullanılır. Yaşlı ya da yetki sahibi birine müracaat ederken resmî «siz» biçimini kullanırlar. Yaş veya yetki bakımından daha aşağı olanlara müracaatla «sen» kullanılır. Kutsal Kitap böyle farklılıklar bulunmayan dillerde yazılmış olduğu için dilin resmî yahut gayriresmî biçimlerinin ne zaman kullanılmasına çevirmen karar verecektir.
 
-Watch the video on Formal / Informal for the [[http://youtu.be/MwbYo9dZUDc|computer]] (http://youtu.be/MwbYo9dZUDc) or the [[http://youtu.be/XfgVYqbugYE|tablet/phone]] (http://youtu.be/XfgVYqbugYE).
+Resmî / Gayriresmî konusunda [[http://youtu.be/MwbYo9dZUDc|bilgisayarda]] ([[http://youtu.be/MwbYo9dZUDc|http://youtu.be/MwbYo9dZUDc]]) ya da [[http://youtu.be/XfgVYqbugYE|tablet/telefonda]] ([[http://youtu.be/XfgVYqbugYE|http://youtu.be/XfgVYqbugYE]]) video izleyin.
 
-For more information regarding Formal / Informal forms of you [[:tr:ta:vol2:translate:figs_youformal|click here]].
-
-
+Resmî / Gayriresmî biçimler konusunda daha fazla bilgi edinmek için [[:tr:ta:vol2:translate:figs_youformal|buraya tıklayın.]].
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]//
-  * //[[tr:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]//
-  * //[[tr:ta:vol1:translate:figs_order|Word Order]]//
 
+  * //[[:tr:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]//
+  * //[[:tr:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]//
+  * //[[:tr:ta:vol1:translate:figs_order|Word Order]]//
