@@ -1,11 +1,12 @@
-===== Make a First Draft =====
+===== İlk Taslağı Yapma =====
 
-This module answers the question: //How do I make a first draft?//
+This module answers the question: //İlk taslağı nasıl yaparım?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:translate:translate_what|What to Start Translating]]//
-  * //[[tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
-  * //[[tr:ta:vol1:translate:writing_decisions|Decisions for Writing Your Language]]//
+
+  * //[[:tr:ta:vol1:translate:translate_what|What to Start Translating]]//
+  * //[[:tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
+  * //[[:tr:ta:vol1:translate:writing_decisions|Decisions for Writing Your Language]]//
 
 ==== How do I start? ====
 
