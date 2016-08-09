@@ -2,72 +2,75 @@
 
 This module answers the question: //Çeviri kılavuzunun 1. Cildinde ne var?​//
 
-==== Translation Manual Volume 1 ====
+==== Çeviri Kılavuzu 1. Cilt ====
 
-=== Introduction ===
-  - [[tr:ta:vol1:translate:translate_manual]]
-  - [[tr:ta:vol1:translate:translate_terms]]
-  - [[tr:ta:vol1:translate:translate_whatis]]
-  - [[tr:ta:vol1:translate:translate_why]]
+=== Giriş ===
 
-=== Defining a Good Translation === 
-  - [[tr:ta:vol1:translate:guidelines_intro]]
-    - [[tr:ta:vol1:translate:guidelines_clear]] 
-    - [[tr:ta:vol1:translate:guidelines_natural]]
-    - [[tr:ta:vol1:translate:guidelines_accurate]]
-    - [[tr:ta:vol1:translate:guidelines_church_approved]]
+  - [[:en:ta:vol1:translate:translate_manual|Çeviri Kılavuzu’nun Tanıtımı]]
+  - [[:en:ta:vol1:translate:translate_terms|Bilinmesi Gereken Terimler]]
+  - [[:en:ta:vol1:translate:translate_whatis|Çeviri Nedir?]]
+  - [[:en:ta:vol1:translate:translate_why|Neden Kutsal Kitap’ı Çeviriyoruz?]]
 
-=== Meaning-Based Translation ===
-  - [[tr:ta:vol1:translate:translate_process]]
-    - [[tr:ta:vol1:translate:translate_discover]]
-    - [[tr:ta:vol1:translate:translate_retell]]
-  - [[tr:ta:vol1:translate:translate_fandm]]
-    - [[tr:ta:vol1:translate:translate_form]]
-    - [[tr:ta:vol1:translate:translate_levels]]
-  - [[tr:ta:vol1:translate:translate_literal]]
-    - [[tr:ta:vol1:translate:translate_wforw]]
-    - [[tr:ta:vol1:translate:translate_problem]]
-  - [[tr:ta:vol1:translate:translate_dynamic]]
-    - [[tr:ta:vol1:translate:translate_tform]]
+=== İyi Çevirinin Tanımlanması ===
 
-=== Before Translating ===
-  - [[tr:ta:vol1:translate:choose_team]]
-    - [[tr:ta:vol1:translate:qualifications]]
-  - [[tr:ta:vol1:translate:translate_source_text]]
-    - [[tr:ta:vol1:translate:translate_source_licensing]]
-    - [[tr:ta:vol1:translate:translate_source_version]]
-    - [[tr:ta:vol1:translate:translate_original]]
-    - [[tr:ta:vol1:translate:translate_manuscripts]]
-    - [[tr:ta:vol1:translate:translate_textvariants]]
-  - [[tr:ta:vol1:translate:translate_alphabet]]
-  - [[tr:ta:vol1:translate:writing_decisions]]
+  -  [[:tr:ta:vol1:translate:guidelines_intro|İyi Çevirinin Nitelikleri]]
+      - [[:en:ta:vol1:translate:guidelines_clear|Açık Çeviri Yaratma]]
+      - [[:en:ta:vol1:translate:guidelines_natural|Doğal Çeviri Yaratma]]
+      - [[:en:ta:vol1:translate:guidelines_accurate|Doğru Çeviri Yaratma]]
+      - [[:en:ta:vol1:translate:guidelines_church_approved|Kilise Onaylı Çevirilerin Yaratılması]]
 
-=== How to Start Translating === 
-  - [[tr:ta:vol1:translate:translate_what]]
-  - [[tr:ta:vol1:translate:first_draft]]
-  - [[tr:ta:vol1:translate:resources_intro]]
-  - [[tr:ta:vol1:translate:translate_help]]
-    - [[tr:ta:vol1:translate:resources_types]]
-    - [[tr:ta:vol1:translate:resources_links]]
+=== Anlama Dayalı Çeviri ===
 
-=== Just-in-Time Learning Part 1 ===
-  - [[tr:ta:vol1:translate:translate_unknown]]
-    - [[tr:ta:vol1:translate:translate_names]]
-  - [[tr:ta:vol1:translate:figs_intro]]
-    - [[tr:ta:vol1:translate:figs_metaphor]]
-    - [[tr:ta:vol1:translate:figs_simile]]
-    - [[tr:ta:vol1:translate:figs_rquestion]]
-    - [[tr:ta:vol1:translate:figs_idiom]]
-    - [[tr:ta:vol1:translate:figs_irony]]
-  - [[tr:ta:vol1:translate:figs_order]]
-  - [[tr:ta:vol1:translate:figs_you]]
-    - [[tr:ta:vol1:translate:figs_youdual]]
-    - [[tr:ta:vol1:translate:figs_yousingular]]
-  - [[tr:ta:vol1:translate:figs_explicit]]
-    - [[tr:ta:vol1:translate:figs_explicitinfo]]
-  - [[tr:ta:vol1:translate:figs_hypo]]
-  - [[tr:ta:vol1:translate:figs_events]]
-  - [[tr:ta:vol1:translate:figs_parables]]
+  -  [[:en:ta:vol1:translate:translate_process|Çeviri Süreci]]
+      - [[:en:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]
+      - [[:en:ta:vol1:translate:translate_retell|Anlamı Yeniden Anlatma]]
+  -  [[:en:ta:vol1:translate:translate_fandm|Biçim ve Anlam]]
+      - [[:en:ta:vol1:translate:translate_form|Biçimin Önemi]]
+      - [[:en:ta:vol1:translate:translate_levels|Levels of Meaning]]
+  -  [[:en:ta:vol1:translate:translate_literal|Literal Translations]]
+      - [[:en:ta:vol1:translate:translate_wforw|Harfi Harfine Çeviri]]
+      - [[:en:ta:vol1:translate:translate_problem|Birebir Çevirilerdeki Sorunlar]]
+  -  [[:en:ta:vol1:translate:translate_dynamic|Anlama Dayalı Çeviriler]]
+      - [[:en:ta:vol1:translate:translate_tform|Translate for Meaning]]
 
+=== Çeviriye Başlamadan Önce ===
 
+  -  [[:en:ta:vol1:translate:choose_team|Çeviri Takımının Seçilmesi]]
+      - [[:en:ta:vol1:translate:qualifications|Translator Qualifications]]
+  -  [[:en:ta:vol1:translate:translate_source_text|Choosing a Source Text]]
+      - [[:en:ta:vol1:translate:translate_source_licensing|Telif, Lisans ve Kaynak Metinler]]
+      - [[:en:ta:vol1:translate:translate_source_version|Kaynak Metinler ve Versiyon Numaraları]]
+      - [[:en:ta:vol1:translate:translate_original|The Original and Source Languages]]
+      - [[:en:ta:vol1:translate:translate_manuscripts|Orijinal El Yazmaları]]
+      - [[:en:ta:vol1:translate:translate_textvariants|Metin Versiyonları]]
+  - [[:en:ta:vol1:translate:translate_alphabet|Alfabe/Ortografi]]
+  - [[:en:ta:vol1:translate:writing_decisions|Decisions for Writing Your Language]]
 
+=== Çevirmeye Nasıl Başlayayım ===
+
+  - [[:tr:ta:vol1:translate:translate_what|What to Start Translating]]
+  - [[:tr:ta:vol1:translate:first_draft|İlk Taslağı Yapma]]
+  - [[:tr:ta:vol1:translate:resources_intro|Kaynakların Tanıtımı]]
+  -  [[:tr:ta:vol1:translate:translate_help|Çeviri için Yardım]]
+      - [[:tr:ta:vol1:translate:resources_types|Types of Notes]]
+      - [[:tr:ta:vol1:translate:resources_links|Notlar’daki Bağlantılar]]
+
+=== Eş Zamanlı Öğrenim 1. Kısım ===
+
+  -  [[:en:ta:vol1:translate:translate_unknown|Bilinmeyenler Sözlerin Çevrilmesi]]
+      - [[:en:ta:vol1:translate:translate_names|Adları Çevirmek]]
+  -  [[:en:ta:vol1:translate:figs_intro|Figures of Speech]]
+      - [[:en:ta:vol1:translate:figs_metaphor|Metaphor]]
+      - [[:en:ta:vol1:translate:figs_simile|Teşbih]]
+      - [[:en:ta:vol1:translate:figs_rquestion|Retorik Soru]]
+      - [[:en:ta:vol1:translate:figs_idiom|Deyim]]
+      - [[:en:ta:vol1:translate:figs_irony|Kinaye]]
+  - [[:en:ta:vol1:translate:figs_order|Söz Sırası]]
+  -  [[:en:ta:vol1:translate:figs_you|Forms of You]]
+      - [[:en:ta:vol1:translate:figs_youdual|2. Şahıs Zamirinin Formları - İkil/Çoğul]]
+      - [[:en:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]
+  -  [[:en:ta:vol1:translate:figs_explicit|Açık ve Örtülü]]
+      - [[:en:ta:vol1:translate:figs_explicitinfo|Örtülü Bilgiyi Açık Yapma]]
+  - [[:en:ta:vol1:translate:figs_hypo|Hipotetik Durumlar]]
+  - [[:en:ta:vol1:translate:figs_events|Olayların Sırası]]
+  - [[:en:ta:vol1:translate:figs_parables|Meseller]]
