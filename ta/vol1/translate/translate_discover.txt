@@ -1,9 +1,10 @@
-===== Discover the Meaning of the Text =====
+===== Metnin Anlamını Keşfetme =====
 
-This module answers the question: //How Do I Discover the Meaning of the Text?//
+This module answers the question: //Metnin Anlamını Nasıl Keşfetmeliyim?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:translate:translate_process|The Translation Process]]//
+
+  * //[[:tr:ta:vol1:translate:translate_process|The Translation Process]]//
 
 ==== How to Discover the Meaning ====
 
