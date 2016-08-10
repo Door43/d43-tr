@@ -13,86 +13,98 @@ Before you start this module have you learned about:
 
 Çeviri Notları’nda birçok türlü not bulunmaktadır. Bir çerçeveyi ya da metin kısmını çevirmeden önce Çeviri Notları’ndan ona ait olan her şeyi okumanız gerekir. Ayrıca ULB ve UDB versiyonlarını ve translationWords tanımlarını okumanız gerekir.
 
-==== Types of Notes ====
+==== Not Türleri ====
 
 === Definitions ===
 
-One type of Translation Note is the definition of a word. If a word in the ULB seems special or unusual, but not important enough to be included in the Translation Words, the Translation Notes will have the meaning of the word. Simple definitions of words or phrases are added without quotes or sentence  format. Here are examples:
+Çeviri Notları’nın bir türü sözcüğün tanımıdır. ULB’deki bir sözcük özel veya olağandışı görünüyorsa ama Çeviri Sözleri’ne dahil olacak kadar önemli sayılmıyorsa, bu sözcüğün anlamı Çeviri Notları’nda olacak. Sözcük ya da ifadelerin basit tanımları eklenir ve alıntılar ya da cümledeki kullanım örnekleri verilmez. Birkaç örnek aşağıdadır:
 
-  * **marketplace**  - a large, open-air area where people would come to sell their goods
-  * **flute**  - a long, hollow musical instrument which is played by blowing air in or over one end
-  * **kings' palaces**  - a large, expensive house that a king lives in
-
+  * **pazar**  - insanların mallarını satmak için geldikleri büyük, geniş alan
+  * **kaval**  - içi boş olan uzun üflemeli bir çalgı
+  * **kral sarayı**  - kralın oturduğu büyük ve pahalı ev
 === Explanations ===
 
-Simple explanations about words or phrases are in sentence format. For example:
-  * **washing their nets**  - They were cleaning their fishing nets in order to use them again to catch fish.
-  * **motioned** - They were too far from shore to call so they made gestures, probably waving their arms.
+Sözcüklere veya ifadelere dair basit açıklamalar cümle örneklerinde sunuluyor. Örneğin:
 
-=== Suggested Translations ===
+  * **ağlarını yıkıyorlardı**  - Balıkçı ağlarını, yine balık tutmak üzere yıkıyorlardı.
+  * **işaret ederek**  - Ortakları onları duyamayacak kadar sahilden uzaktaydılar, bu yüzden onlar jest yaptılar, galiba el salladılar.
+=== Önerilen Çeviriler ===
 
-Another type of Translation Note is to give you suggestions for different ways you could translate the same meaning. There are several types of suggested translations. 
+Çeviri Notunun başka bir türü size aynı anlamı çevirmenin çeşitli seçeneklerini sunar. Önerilen çevirilerin birkaç türü bulunur.
 
-== Direct Replacements ==
+== Dolaysız Yenilemeler ==
 
-Synonyms or equivalent phrases are written in double-quotes. These can replace the text in the ULB. 
+Eşanlamlı kelimeler ya da eşit ifadeler çift tırnaklarda yazılır. Bunlar ULB’deki metnin yerine kullanılabilir.
 
-In this example, the words “the path” or the words “the road” can  replace the words “the way” in the ULB. You can then decide if it is more natural to use a word like "path" or "road" or "way" in your language. 
-  * **the way**  - “the path” or “the road”
+Bu örnekte ULB’deki «yol» sözü yerine «patika» sözü kullanılabilir. Siz diliniz için en doğal seçeneği kullanabilirsiniz: yol yahut patika.
 
-In this example, the words “do the same thing” can replace the words “do  likewise” in the ULB. You, as the translator, can decide which is more  natural for your language. 
-  * **do likewise**  - “do the same thing.” 
+  * "
+yol" yahut "patika"
 
-== Alternate Translation(s) ==
+Bu örnekte ULB’deki «sen de öyle yap» ifadesi yerine «sen de aynı şekilde davran» ifadesi kullanıldı. Siz çevirmen olarak hangi seçeneğin dilinizde daha doğal olacağına karar verebilirsiniz.
 
-An alternate translation is a suggested change to the form or content of the ULB because the target language may use a different form to communicate the same meaning. 
+  *
+**sen de öyle yap**  -  «sen de aynı şekilde davran.»
+== Diğer Çeviri Seçeneği (Seçenekleri) ==
 
-Examples include adding implicit information, changing passive voice to active, and stating rhetorical questions as statements.  
+Diğer çeviri seçeneği, hedef dilde aynı anlamı iletmek için başka biçimin kullanılabileceği nedeniyle ULB’nin biçiminde ya da içeriğinde yapılması önerilen değişikliktir.
 
-The letters “AT” stand for "Alternate Translation," so "AT:" indicates that what follows is an alternate translation that should only be used when the form or content of the ULB is confusing or is not enough to communicate the meaning in your language.  Some examples are: 
-  * **see the salvation of God**  - AT: “learn about how God saves people from sin.”
-  * **Follow me**  - AT: “Be my disciple” or “Come, follow me as your teacher.”
+Örnek olarak şunları söyleyebiliriz: örtülü bilgiyi ekleme, edilgen çatıyı etken çatıyla değişme, retorik soruları olumlu ya da olumsuz cümlelere dönüştürme.
 
-=== Clarifying Translation in the UDB ===
+«AT» harfleri «Alternate Translation» (Çeviri Seçeneği) anlamına geliyor. Dolayısıyla «AT:» işareti onun ardından gelen seçeneğin sadece ULB’nin içeriğinin kafa karıştırıcı olduğu ya da sizin dilinizde anlamı iletmeye yeterli olmadığı zaman kullanılması gerektiğini belirtir. Birkaç örnek:
 
-There may be no note if the UDB provides a good alternate translation for the ULB. However, on occasion there may text from the UDB as well as a suggested translation. In that case, there will be “(UDB)” after the text from the UDB as below: 
-  * **implored him**  - “begged him” or “pleaded with him” (UDB)
-  * **he fell on his face**  - “he bowed down to the ground” (UDB) or “he knelt and touched the ground with his face”
+  *
+**Tanrı’nın kurtuluşunu görecektir**  - AT: «Tanrı’nın insanları günahtan nasıl kurtardığını öğrenecektir.»
+  *
+**Beni izle**  - AT: «Öğrencim ol» ya da «Gel, Öğretmenin olarak beni izle.»
+=== UDB’deki Çeviriyi Netleştirme ===
 
-=== Alternate Meaning(s) ===
+UDB’de ULB için iyi çeviri seçeneği varsa hiçbir not bulunmayabilir. Ancak, bazen hem UDB metni hem de önerilen çeviri olabilir. Bu durumda UDB metninden sonra «(UDB)» işareti bulunacak, şu örnekteki gibi:
 
-The Translation Notes will give **alternate meanings** when there are different ways to understand what a word or phrase means. 
+  *
+**ona yalvardılar**  - «ondan rica ettiler» (UDB)
+  *
+**yüzüstü yere kapandı**  - «eğilerek secde etti» (UDB) ya da «diz çöküp alnını yere koydu.»
+=== Diğer Anlam Seçeneği (Seçenekleri) ===
 
-This kind of note will start with the words, “Possible meanings  are that,” and then it will number the possible meanings with the preferred or most likely meaning first. If the meaning is given as an explanation, like the following examples, it is not in quotes. 
-  * **You are like a young lion … like a monster in the seas** - Possible meanings are that 1) he was like a lion and a monster or 2) he thought he was like a lion, but he was really only a monster.
-  * **like a monster in the seas** - Possible meanings are that 1) he was powerful or 2) he was not doing anything important.
+Çeviri Notları, bir sözcük veya **ifadenin değişik anlaşılma yolları**  bulunduğu zaman diğer anlam seçeneklerini sunacak.
 
-If the meaning is given in a way that can be used as a translation, like the following examples, it is in quotes.  
-  * **fell down at Jesus knees** - Possible meanings are 1) “bowed down at Jesus feet” or 2) “lay down  on the ground at Jesus feet” or 3) “knelt down before Jesus.” Peter did not fall accidentally. He did this as a sign of humility and respect for  Jesus.
+Bu tür not şöyle başlar: «Mümkün anlamlar şunlardır» ve sonra en olası ya da tercih edilen anlam seçeneğinden başlayarak mümkün anlam seçenekleri sunulacak. Açıklama şeklinde sunulan anlam tırnak içinde bulunmaz, örneğin:
 
-=== Identify Figures of Speech ===
+  *
+**Sen genç aslan gibi ... denizlerdeki bir canavar gibisin**  - Mümkün anlamlar şu: 1) o bir aslan ve canavar gibiydi; 2) o kendini aslan sayıyordu, ama aslında sadece bir canavardı.
+  *
+**denizlerdeki bir canavar gibisin**  - Mümkün anlamlar şu: 1) o güçlüydü; ya da 2) önemli bir şey yapmıyordu.
+Çeviri olarak kullanılabilecek olan anlam tırnak içinde bulunur, örneğin:
 
-The purpose of some Translation Notes is to alert you to figures of speech in the ULB and to give ideas for how to translate the same meaning in a different way. Notes that identify and explain a figure of speech will use sentence form and put the meaning in quotes. 
-  * **Make ready the way of the Lord** - This phrase compares people preparing themselves for the arrival of the Lord to people who are repairing a road for someone to use it. AT: “Repent and be ready for when the Lord comes.” (See: Metaphor)
-  * **You offspring of poisonous snakes** - Jesus uses this expression to emphasize how dangerous the Pharisees are. Poisonous snakes are dangerous and represent evil. AT: “You evil poisonous snakes!” or “You are evil like poisonous snakes.” (See: Metaphor)
+  *
+**İsa’nın dizleri önünde yere düştü**  - Mümkün anlamlar şu: 1) «İsa’nın ayakları önünde eğildi»; 2) «İsa’nın ayakları önünde yere kapandı»; ya da 3) «İsa’nın önünde diz çöktü.» Petrus kazara yere düşmedi. Alçakgönüllülük ve İsa’ya hürmet ile bunu yaptı.
+=== Mecazları Belirleyin ===
 
-If there is a Translation Academy page that explains a certain kind of figure of speech, the note will identify what kind of figure of speech it is in parentheses at the end of the note. For example, (See: Metaphor). You can then look up that kind of figure of speech in Translation Academy for more explanation. 
+Çeviri Notları’nın amacı, sizi ULB’deki mecazlar konusunda ikaz etmek ve aynı anlamın değişik bir şekilde nasıl çevrilebileceğini göstermektir. Mecazı belirleyen ve açıklayan notlar cümle biçiminde olacak ve anlam tırnak içinde yer alacak.
 
-=== Indirect to Direct Quote ===
+  *
+**Rab’bin yolunu hazırlayın**  - Bu cümlede kendini Rab’bin gelişine hazırlayan insanlar, yolu birinin kullanımına hazırlayan insanlara benzetilir. AT: «Tövbe edin ve Rab’bin gelişine hazır olun.» (Bkz. Metafor)
+  *
+**Sizi engerekler soyu**  - İsa Ferisilerin ne kadar tehlikeli olduğunu vurgulamak için bu ifadeyi kullanmıştır. Engerekler, tehlikeli zehirli yılandır ve kötülüğü simgeler. AT: «Sizi kötü zehirli yılanlar!» ya da «Siz zehirli yılanlar gibi kötüsünüz.» (Bkz. Metafor)
+Eğer mecazın bir türünü açıklayan Çeviri Akademisi sayfası varsa, notun sonundaki parantezin içinde mecazın türü belirtilecek. Örneğin, (Bkz. Metafor). Sonra Çeviri Akademisi’nde bu mecaz türüne dair daha fazla açıklama okuyabilirsiniz.
 
-When a Translation Note is giving a direct quote as an alternative translation for an indirect quote, it will say, “This can be translated as a direct quote:” and then it will give a suggestion for how to translate it as a direct quote. For example:
-  * **to tell no one** -  This can be translated as a direct quote: “Do not tell anyone.” The  implied information is “that you have been healed.” (See: Speech Quotations, Explicit and Implicit Information)
+=== Dolaylı Alıntıdan Doğrudan Alıntıya ===
 
-Whenever a Translation Note says "See:" in parentheses at the end of the note, the words that follow are topics that you can look up in Translation Academy that will further explain the issue that the Note talks about.
+Çeviri Notunda dolaylı alıntının bir çeviri seçeneği olarak doğrudan alıntı önerildiğinde «Bu, doğrudan alıntı olarak çevrilebilir:» ve ardından bunun doğrudan alıntı ile nasıl çevrilebileceği tavsiye edilir. Örneğin:
 
-=== Multiple Notes on Long Phrase ===
+  *
+**kimseye söylememesini**  - Bu doğrudan alıntı olarak şöyle çevrilebilir: «Kimseye söyleme.» Kastedilen bilgi şu: «şifa bulduğunu şöyleme.» (Bkz. Konuşma Alıntıları, Açık ve Örtülü Bilgiler)
+Bir Çeviri Notunun sonunda parantez içinde «Bkz.» yazılı olduğu zaman ardından gelen sözler, Çeviri Akademisi’nde bakabileceğiniz, bu Notta bahsedilen sorunu daha fazla açıklayan konulardır.
 
-Sometimes there are notes for a phrase and also separate notes for portions of that same phrase. In that case, the larger phrase is first, and its parts come afterward. For example: 
-  * **you say, 'Behold, he is a gluttonous man** - This can be translated as an indirect quote: “you say that he is a  gluttonous man” or “you accuse him of being a gluttonous man.”
-  * **he is a gluttonous man** - “he is a greedy eater” or “he habitually eats too much food”
+=== Uzun İfadeye Dair Çoklu Notlar ===
 
+Bazen bir ifadeye dair notlar olduğu gibi aynı ifadenin kısımlarına dair ayrı notlar bulunur. Bu durumda önce bütün ifade ve sonra kısımları gelir. Örneğin:
 
-
+  *
+**diyorsunuz ki, ‘Şu obur adama bakın!’**  - Bu dolaylı alıntı olarak da çevrilebilir: «O’nun obur adam olduğunu diyorsunuz» ya da «O’nu obur adam olmakla suçluyorsunuz.»
+  *
+**Şu adam oburdur**  - «Şu adam çok yemek yiyendir» veya «Şu adam her zaman haddinden fazla yemek yer.»
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:resources_links|Links in the Notes]]//
 
+  * //[[:tr:ta:vol1:translate:resources_links|Links in the Notes]]//
