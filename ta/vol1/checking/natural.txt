@@ -1,10 +1,11 @@
-===== Natural Translation =====
+===== Doğal Çeviri =====
 
-This module answers the question: //Is the translation natural?//
+This module answers the question: //Çeviri doğal mı?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:checking:level2|Checking Level Two – External Check]]//
-  * //[[tr:ta:vol1:checking:clear|Clear Translation]]//
+
+  * //[[:tr:ta:vol1:checking:level2|Checking Level Two – External Check]]//
+  * //[[:tr:ta:vol1:checking:clear|Clear Translation]]//
 
 ==== A Natural Translation ====
 
