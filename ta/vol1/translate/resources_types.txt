@@ -99,6 +99,8 @@ Bir Çeviri Notunun sonunda parantez içinde «Bkz.» yazılı olduğu zaman ard
 Bazen bir ifadeye dair notlar olduğu gibi aynı ifadenin kısımlarına dair ayrı notlar bulunur. Bu durumda önce bütün ifade ve sonra kısımları gelir. Örneğin:
 
   * **diyorsunuz ki, ‘Şu obur adama bakın!’**  - Bu dolaylı alıntı olarak da çevrilebilir: «O’nun obur adam olduğunu diyorsunuz» ya da «O’nu obur adam olmakla suçluyorsunuz.»
-  * ​**Şu adam oburdur**  - «Şu adam çok yemek yiyendir» veya «Şu adam her zaman haddinden fazla yemek yer.» Next we recommend you learn about:
+  * ​**Şu adam oburdur**  - «Şu adam çok yemek yiyendir» veya «Şu adam her zaman haddinden fazla yemek yer.»
+
+Next we recommend you learn about:
 
 //[[:tr:ta:vol1:translate:resources_links|Links in the Notes]]//
