@@ -1,9 +1,10 @@
-===== Other Methods =====
+===== Diğer Yöntemler =====
 
-This module answers the question: //What are some other methods that I can use to check the translation?//
+This module answers the question: //Çeviriyi yoklayabileceğim hangi diğer yöntemler vardır?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:checking:language_community_check|Language Community Check]]//
+
+  * //[[:tr:ta:vol1:checking:language_community_check|Language Community Check]]//
 
 ==== Other Checking Methods ====
 
