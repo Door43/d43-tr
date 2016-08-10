@@ -6,23 +6,16 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:checking:language_community_check|Language Community Check]]//
 
-==== Other Checking Methods ====
+==== Diğer Yoklama Yöntemleri ====
 
-As well as asking questions, there are other checking methods that you may also use to ensure that the translation is easy to read and sounds natural to the listeners. Here are some other methods that you may like to try:
+Soru sormaktan başka çevirinin kolayca okunabildiğinden ve dinleyicilere doğal seslendiğinden emin olmak için kullanabileceğiniz diğer yoklama yöntemleri vardır.
 
-  * **Retell Method**:  You, the translator or tester, can read a few verses and ask someone else to retell what was said. This helps to check the clarity and naturalness of the translation and offers alternate ways of saying the same thing. 
-
-  * **Reading Method**: Someone other than you, the translator or tester, should read a portion of the translation while you take notes where the pauses and mistakes occur. This will show how easy or how difficult it is to read and understand the translation. Look at the places in the translation where the reader paused or made mistakes and consider what part of the translation was difficult. You may need to revise the translation at those points so that it is easier to read and understand.
-
-  * **Offer Alternate translations**: In areas where you are not sure of the best way to express a word or phrase, ask other people for an alternative translation or offer a choice between two translations and see which alternative translation people think is the most clear. 
-
-  * **Reviewer Input**: Let others whom you respect read your translation. Ask them to take notes and tell you where it might be improved. Look for better word choices, natural expressions, and even spelling adjustments. 
-
-  * **Discussion Groups**: Ask people to read the translation aloud in a group of people and allow them and others to ask questions for clarification. Pay attention to the words they use, since alternate words and expressions come up when someone is trying to make sense of a difficult point, and these alternate words and expressions might be better than the ones in the translation. Pay attention to the places where people do not understand the translation, and work to make those places clearer.
-
-
-
+  * **Yeniden Anlatma Yöntemi**: siz, bir çevirmen ya da deneyen birkaç ayet okuyup başka bir kişinin söyleneni yeniden anlatmasını isteyebilirsiniz. Bu, çevirinin açıklığının ve doğallığının yoklanmasına yardım eder ve aynı şeyi söylemenin başka yollarını sunar.
+  * **Okuma Yöntemi**: Sizden, çevirmenden ve deneyenden başka birisi, çevirinin bir parçasını okuyacak ve siz duraklama ve hataların bulunduğu yerleri not edeceksiniz. Bu, çevirinin okunmasının ne kadar kolay yahut zor olduğunu gösterecek. Çeviride okuyucunun durakladığı ya da hata yaptığı yerleri gözden geçirin ve çevirinin hangi kısmının zor olduğunu düşünün. Çevirinin daha kolay okunması ve anlaşılması için o yerleri revize etmeniz gerekebilir.
+  * **Çeviri seçeneklerini önerin**: Bir sözü ifade etmenin en iyi yolundan emin olmadığınız yerlerde başkalarından diğer çeviri seçeneğini isteyin veya iki seçenek arasında seçmeyi önerin ve bakın, insanlar hangisinin daha açık olduğunu düşünüyorlar.
+  * **Revize edenlerin katkısı**: Saygı gösterdiğiniz başka insanlar çevirinizi okusunlar. Geliştirilebilecek yerleri not alıp size bildirmelerini isteyin. Daha iyi söz seçimleri, doğal ifadeleri, hatta daha düzgün yazılışı amaçlayın.
+  * **Tartışma Grupları**: İnsanlara bir grupta çeviriyi yüksek sesle okutun ve hem kendilerinin hem başkalarının açıklık için soru sormasına izin verin. Kullandıkları sözlere dikkat edin, çünkü biri zor bir anlamı iletmeye çalışırken başka söz ve ifade seçenekleri bulunabilir ve bu söz ve ifade seçenekleri, çeviridekilerden daha iyi olabilir. İnsanların çeviriyi anlamadıkları yerlere dikkat edin ve o yerleri açıklamaya gayret edin.
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:writing_decisions|Decisions for Writing Your Language]]//
-  * //[[tr:ta:vol1:checking:community_evaluation|Language Community Evaluation Questions]]//
 
+  * //[[:tr:ta:vol1:translate:writing_decisions|Decisions for Writing Your Language]]//
+  * //[[:tr:ta:vol1:checking:community_evaluation|Language Community Evaluation Questions]]//
