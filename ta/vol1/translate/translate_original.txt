@@ -1,10 +1,11 @@
-===== The Original and Source Languages =====
+===== Orijinal ve Kaynak Diller =====
 
-This module answers the question: //What is the difference between the original language and the source language?//
+This module answers the question: //Orijinal dil ile kaynak dil arasındaki fark nedir?//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:translate:translate_process|The Translation Process]]//
-  * //[[tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
+
+  * //[[:tr:ta:vol1:translate:translate_process|The Translation Process]]//
+  * //[[:tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
 
 ==== Original Language is the most Accurate ====
 
