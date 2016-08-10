@@ -6,24 +6,23 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:checking:level2|Checking Level Two – External Check]]//
 
-==== How to do a Church Leader Check ====
+==== Kilise Önderi Tarafından Yoklama Nasıl Yapılır? ====
 
-After the translation has been checked by community members for clarity, it will be checked by a group of church leaders for accuracy. This group must consist of at least three church leaders who are native speakers of the target language, and who understand well one of the languages in which the source text is available. They should not be related to, or otherwise closely connected with, the translator (or translation team). Usually these reviewers will be pastors of church congregations. These church leaders should represent the different churches in the language community. That is, it is best to include church leaders from different church networks. We recommend that the group include church leaders from three different church networks, if the community has that many.
+Toplum mensuplarının çeviriyi açıklık bakımından yoklamalarının ardından bir grup kilise liderleri çeviriyi doğruluk bakımından yoklayacaklardır. Bu grup, hedef dilin anadil taşıyıcıları olan ve çeviride kullanılmış kaynak metnin dillerinden birini çok iyi anlayan en az üç kilise liderinden oluşacak. Onların çevirmen (veya çeviri takımı) ile akrabalık veya yakın dostluk ilişkisinde olmayan kişiler olmaları gerekir. Bu revize yapan kişiler genellikle kilise topluluklarının pastörleri olacaklar. Bu kilise liderleri, dil toplumundaki çeşitli kiliseleri temsil eden kişiler olmalılar. Yani ayrı ayrı kilise birliklerinden kilise liderlerinin katılmaları en iyi olur. Eğer toplumda birçok kilise birliği bulunuyorsa, bu yoklama grubuna üç ayrı kilise birliğinden kilise liderlerinin katılmasını tavsiye ederiz.
 
-These reviewers should follow these steps:
-  - Read the [[:tr:ta:vol1:intro:statement_of_faith]] and [[:tr:ta:vol1:intro:translation_guidelines]] to make sure that the translation is in agreement with both of those as they review the translation.
-  - Answer the questions about the translator or translation team that are located [[:tr:ta:vol1:translate:qualifications|here]].
-  - Verify that the translation has been done in a style that is acceptable to the intended audience by asking the questions [[:tr:ta:vol1:checking:acceptable|here]].
-  - Verify that the translation accurately communicates the meaning of the source text by following the guidelines [[:tr:ta:vol1:checking:accuracy_check|here]].
-  - Verify that the translation is complete by following the guidelines [[:tr:ta:vol1:checking:complete|here]].
-  - After you have reviewed several chapters or one book of the Bible, meet with the translation team and ask about each problem. Discuss with the translation team how they might adjust the translation in order to fix the problems. Make plans to meet again with the translation team at a later time, after they have had time to adjust the translation and test it with the community.
-  - Meet again with the translation team to verify that they have fixed the problems.
-  - Affirm that the translation is good. Click [[:tr:ta:vol1:checking:good|here]] to do that on the Level Two Affirmation page.
+Bu revize yapan kişilerin şu adımları izlemeleri gerekir:
 
-
+  - Çevirinin İman Beyanı ve çeviri kurallarına uygun olduğundan emin olmak için [[:tr:ta:vol1:intro:statement_of_faith|Statement of Faith]] ve [[:tr:ta:vol1:intro:translation_guidelines|Çeviri Kuralları]] okuyun.
+  - [[:tr:ta:vol1:translate:qualifications|Burada]] yer alan çevirmene ya da çeviri takımına dair soruları cevaplayın.
+  - [[:tr:ta:vol1:checking:acceptable|Buradaki]] soruları sorarak çevirinin hedef okuyucu kitlesi tarafından kabul edilecek üslupta yapılmış olduğunu tasdikleyin.
+  - [[:tr:ta:vol1:checking:accuracy_check|Buradaki]] kuralları izleyerek çevirinin artık kaynak metnin anlamını doğru ilettiğini tasdikleyin.
+  - [[:tr:ta:vol1:checking:complete|Buradaki]] kuralları izleyerek çevirinin tam olduğunu tasdikleyin.
+  - Kutsal Kitap’tan birkaç bölümü revize ettikten sonra çeviri takımı ile görüşün ve her sorunu sorun. Sorunları çözmek için çeviriyi nasıl düzeltebileceklerini çeviri takımına sorun. Daha sonra, çeviri takımının çeviriyi düzeltip toplumla denemesinin ardından çeviri takımı ile görüşmeyi planlayın.
+  - Çeviri takımının sorunları çözmüş olduğunu tasdik etmek için çeviri takımı ile tekrar görüşün.
+  - Çevirinin iyi olduğunu doğrulayın. Bunu 2. Seviye Doğrulama sayfasında yapmak için [[:tr:ta:vol1:checking:good|burayı tıklayın]]
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:checking:accuracy_check|Accuracy Check]]//
-  * //[[tr:ta:vol1:checking:accurate|Accurate Translation]]//
-  * //[[tr:ta:vol1:checking:good|Level 2 Affirmation]]//
 
+  * //[[:tr:ta:vol1:checking:accuracy_check|Accuracy Check]]//
+  * //[[:tr:ta:vol1:checking:accurate|Accurate Translation]]//
+  * //[[:tr:ta:vol1:checking:good|Level 2 Affirmation]]//
