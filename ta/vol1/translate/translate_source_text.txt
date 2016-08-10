@@ -1,9 +1,10 @@
-===== Choosing a Source Text =====
+===== Kaynak Metin Seçme =====
 
-This module answers the question: //What factors should be considered when choosing a source text?//
+This module answers the question: //Kaynak metin seçerken hangi etkenlere dikkat edilmelidir?//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:translate:choose_team|Choosing a Translation Team]]//
+
+  * //[[:tr:ta:vol1:translate:choose_team|Choosing a Translation Team]]//
 
 ==== Factors to Consider For A Source Text ====
 
