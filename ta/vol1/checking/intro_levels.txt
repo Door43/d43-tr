@@ -6,14 +6,14 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:checking:intro_checking|Introduction to Translation Checking]]//
 
-==== How Checking Levels Work ====
+==== Yoklama Seviyeleri Nasıl Çalışır ====
 
-Here are some important tips to remember when working with Checking Levels:
+Yoklama Seviyeleri ile çalışırken hatırlanması gereken bazı önemli bilgiler şunlardır:
 
-  * Only translations that have reached Checking Level One or higher will be made available on the [[https://unfoldingword.org/content|unfoldingWord website]] (https://unfoldingword.org/content) and the unfoldingWord mobile app.
-  * Only translations that have reached Checking Level Three will be approved as source texts for other translations.
-  * When a Checking Level has been completed and all appropriate edits have been made to the translation on door43, the checkers will inform unfoldingWord of the details of the check, including who did the checking and their title or qualifications as a translation checker. unfoldingWord will then harvest a copy of what is on door43, digitally publish a static copy of it on the [[https://unfoldingword.org|unfoldingWord website]] (https://unfoldingword.org) and make it available on the unfoldingWord mobile app. A print-ready PDF will also be produced and made available for download. It will continue to be possible to change the checked version on door43, allowing for future checking and editing.
-  * For Open Bible Stories projects: Only Open Bible Stories translations that have been made from version 3.0 or higher of the English source text are eligible to be checked to Level One (or higher). Translations made from versions before 3.0 must be updated before proceeding with Checking Levels. See [[:tr:ta:vol1:translate:translate_source_version]]. 
+  * Sadece Yoklamanın 1. ve daha üst Seviyelerine ulaşan çeviriler unfoldingWord sitesinde [[https://unfoldingword.org/content|unfoldingWord website]] ([[https://unfoldingword.org/content|https://unfoldingword.org/content]]) ve unfoldingWord mobil uygulamasında bulunacaklar.
+  * Sadece Yoklamanın 3. Seviyesine ulaşan çeviriler diğer çeviriler için kaynak metinler olarak onaylanacaklar.
+  * Bir Yoklama Seviyesi tamamlandıktan ve door43’te tüm ilgili düzeltmeler yapıldıktan sonra yoklayanlar unfoldingWord’a yoklama ile ilgili bilgi verecekler - kim yoklama yaptı, unvanı veya çeviri yoklamada yeterlikleri vs. Ondan sonra unfoldingWord. door 43’teki içeriğin bir kopyasını alıp unfoldingWord sitesinde [[https://unfoldingword.org|unfoldingWord website]] ([[https://unfoldingword.org|https://unfoldingword.org]]) sabit dijital kopyasını yayınlayacak ve unfoldingWord mobil uygulaması için hazırlayacak. Ayrıca yazdırılmaya hazır PDF oluşturulup indirilebilir duruma getirilecek. Yoklanmış versiyonun door43’te değiştirilme, gelecek yoklama ve düzeltme imkanı kalacak.
+  * Açık Kutsal Kitap Öyküleri projeleri için: Sadece İngilizce kaynak metnin 3.0 ve daha üst versiyonlarından yapılan Açık Kutsal Kitap Öyküleri çevirileri 1. ve daha üst seviyeye yoklanmaya uygundur. 3.0 versiyonundan önceki versiyonlardan yapılan çeviriler, Yoklama Seviyelere devam etmeden önce güncelleştirilmelidir. Bkz [[:tr:ta:vol1:translate:translate_source_version|Kaynak Metinler ve Versiyon Numaraları]].
 
 ==== The Checking Levels ====
 
