@@ -21,16 +21,24 @@ Kutsal Kitap’ta birçok değişik anlam seviyesi bulunuyor. Bu seviyelere şun
   * Bölümlerin anlamı
   * Kitapların anlamı
 
-==== Words Have Meaning ====
+==== Sözcüklerin Anlamı Var ====
 
-That is, even the smallest unit, a word, has a meaning. But this meaning is determined by the context that the word is in. For example, a single word like "give" may have the following possible meanings, depending on the context:
-  * to grant a gift
-  * to collapse or break
-  * to surrender
-  * to quit
-  * to concede
-  * to supply
-  * etc.
+Yani en küçük birim olan sözcüğün anlamı var. Fakat bu anlam, sözcüğün içinde bulunduğu bağlam ile belirlenir. Örneğin, «vermek» gibi basit bir sözcüğün bağlama dayalı olarak aşağıdaki anlamları olabilir:
+
+  *
+hediye sunmak
+  *
+kırılmak
+  *
+teslim etmek
+  *
+vazgeçmek
+  *
+kabullenmek
+  *
+sağlamak
+  *
+vs.
 
 ==== Building the Larger Meaning ====
 
