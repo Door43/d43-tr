@@ -6,45 +6,45 @@ This module answers the question: //Çeviri kılavuzunun 1. Cildinde ne var?​/
 
 === Giriş ===
 
-  - [[:en:ta:vol1:translate:translate_manual|Çeviri Kılavuzu’nun Tanıtımı]]
-  - [[:en:ta:vol1:translate:translate_terms|Bilinmesi Gereken Terimler]]
-  - [[:en:ta:vol1:translate:translate_whatis|Çeviri Nedir?]]
-  - [[:en:ta:vol1:translate:translate_why|Neden Kutsal Kitap’ı Çeviriyoruz?]]
+  - [[:tr:ta:vol1:translate:translate_manual|Çeviri Kılavuzu’nun Tanıtımı]]
+  - [[:tr:ta:vol1:translate:translate_terms|Bilinmesi Gereken Terimler]]
+  - [[:tr:ta:vol1:translate:translate_whatis|Çeviri Nedir?]]
+  - [[:tr:ta:vol1:translate:translate_why|Neden Kutsal Kitap’ı Çeviriyoruz?]]
 
 === İyi Çevirinin Tanımlanması ===
 
   -  [[:tr:ta:vol1:translate:guidelines_intro|İyi Çevirinin Nitelikleri]]
-      - [[:en:ta:vol1:translate:guidelines_clear|Açık Çeviri Yaratma]]
-      - [[:en:ta:vol1:translate:guidelines_natural|Doğal Çeviri Yaratma]]
-      - [[:en:ta:vol1:translate:guidelines_accurate|Doğru Çeviri Yaratma]]
-      - [[:en:ta:vol1:translate:guidelines_church_approved|Kilise Onaylı Çevirilerin Yaratılması]]
+      - [[:tr:ta:vol1:translate:guidelines_clear|Açık Çeviri Yaratma]]
+      - [[:tr:ta:vol1:translate:guidelines_natural|Doğal Çeviri Yaratma]]
+      - [[:tr:ta:vol1:translate:guidelines_accurate|Doğru Çeviri Yaratma]]
+      - [[:tr:ta:vol1:translate:guidelines_church_approved|Kilise Onaylı Çevirilerin Yaratılması]]
 
 === Anlama Dayalı Çeviri ===
 
-  -  [[:en:ta:vol1:translate:translate_process|Çeviri Süreci]]
-      - [[:en:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]
-      - [[:en:ta:vol1:translate:translate_retell|Anlamı Yeniden Anlatma]]
-  -  [[:en:ta:vol1:translate:translate_fandm|Biçim ve Anlam]]
-      - [[:en:ta:vol1:translate:translate_form|Biçimin Önemi]]
-      - [[:en:ta:vol1:translate:translate_levels|Levels of Meaning]]
-  -  [[:en:ta:vol1:translate:translate_literal|Literal Translations]]
-      - [[:en:ta:vol1:translate:translate_wforw|Harfi Harfine Çeviri]]
-      - [[:en:ta:vol1:translate:translate_problem|Birebir Çevirilerdeki Sorunlar]]
-  -  [[:en:ta:vol1:translate:translate_dynamic|Anlama Dayalı Çeviriler]]
-      - [[:en:ta:vol1:translate:translate_tform|Translate for Meaning]]
+  -  [[:tr:ta:vol1:translate:translate_process|Çeviri Süreci]]
+      - [[:tr:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]
+      - [[:tr:ta:vol1:translate:translate_retell|Anlamı Yeniden Anlatma]]
+  -  [[:tr:ta:vol1:translate:translate_fandm|Biçim ve Anlam]]
+      - [[:tr:ta:vol1:translate:translate_form|Biçimin Önemi]]
+      - [[:tr:ta:vol1:translate:translate_levels|Levels of Meaning]]
+  -  [[:tr:ta:vol1:translate:translate_literal|Literal Translations]]
+      - [[:tr:ta:vol1:translate:translate_wforw|Harfi Harfine Çeviri]]
+      - [[:tr:ta:vol1:translate:translate_problem|Birebir Çevirilerdeki Sorunlar]]
+  -  [[:tr:ta:vol1:translate:translate_dynamic|Anlama Dayalı Çeviriler]]
+      - [[:tr:ta:vol1:translate:translate_tform|Translate for Meaning]]
 
 === Çeviriye Başlamadan Önce ===
 
-  -  [[:en:ta:vol1:translate:choose_team|Çeviri Takımının Seçilmesi]]
-      - [[:en:ta:vol1:translate:qualifications|Translator Qualifications]]
-  -  [[:en:ta:vol1:translate:translate_source_text|Choosing a Source Text]]
-      - [[:en:ta:vol1:translate:translate_source_licensing|Telif, Lisans ve Kaynak Metinler]]
-      - [[:en:ta:vol1:translate:translate_source_version|Kaynak Metinler ve Versiyon Numaraları]]
-      - [[:en:ta:vol1:translate:translate_original|The Original and Source Languages]]
-      - [[:en:ta:vol1:translate:translate_manuscripts|Orijinal El Yazmaları]]
-      - [[:en:ta:vol1:translate:translate_textvariants|Metin Versiyonları]]
-  - [[:en:ta:vol1:translate:translate_alphabet|Alfabe/Ortografi]]
-  - [[:en:ta:vol1:translate:writing_decisions|Decisions for Writing Your Language]]
+  -  [[:tr:ta:vol1:translate:choose_team|Çeviri Takımının Seçilmesi]]
+      - [[:tr:ta:vol1:translate:qualifications|Translator Qualifications]]
+  -  [[:tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]
+      - [[:tr:ta:vol1:translate:translate_source_licensing|Telif, Lisans ve Kaynak Metinler]]
+      - [[:tr:ta:vol1:translate:translate_source_version|Kaynak Metinler ve Versiyon Numaraları]]
+      - [[:tr:ta:vol1:translate:translate_original|The Original and Source Languages]]
+      - [[:tr:ta:vol1:translate:translate_manuscripts|Orijinal El Yazmaları]]
+      - [[:tr:ta:vol1:translate:translate_textvariants|Metin Versiyonları]]
+  - [[:tr:ta:vol1:translate:translate_alphabet|Alfabe/Ortografi]]
+  - [[:tr:ta:vol1:translate:writing_decisions|Decisions for Writing Your Language]]
 
 === Çevirmeye Nasıl Başlayayım ===
 
