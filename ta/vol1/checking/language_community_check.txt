@@ -1,9 +1,10 @@
-===== Language Community Check =====
+===== Dil Toplumu Tarafından Yoklanma =====
 
-This module answers the question: //How can the language community help me check my work?//
+This module answers the question: //Dil toplumu işimin yoklanmasına nasıl yardımcı olabilir?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:checking:level2|Checking Level Two – External Check]]//
+
+  * //[[:tr:ta:vol1:checking:level2|Checking Level Two – External Check]]//
 
 ==== Language Community Check ====
 
