@@ -1,9 +1,10 @@
-===== Introduction to Translation Checking =====
+===== Çeviri Yoklamanın Tanıtımı =====
 
-This module answers the question: //Why do we do translation checking?//
+This module answers the question: //Neden çevirileri yoklarız?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:checking:intro_check|Introduction to the Checking Manual]]//
+
+  * //[[:tr:ta:vol1:checking:intro_check|Introduction to the Checking Manual]]//
 
 ==== Translation Checking ====
 
