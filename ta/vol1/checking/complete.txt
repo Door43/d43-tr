@@ -6,19 +6,17 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:checking:accurate|Accurate Translation]]//
 
-==== A Complete Translation ====
+==== Tam Çeviri ====
 
-The purpose of this section is to make sure that the translation is complete. In this section, the new translation must be compared to the source translation. As you compare the two translations, ask yourself these questions: 
+Bu bölümün amacı, çevirinin tam olduğundan emin olmaktır. Bu bölümde yeni çeviri kaynak çeviriyle karşılaştırılmalı. İki çeviriyi karşılaştırırken kendinize şu soruları sorun:
 
-  - Is the translation missing any of its parts? In other words, does the translation include all the events of the book that was translated?
-  - Does the translation include all the verses of the book that was translated? (When you look at the verse numbering of the source language translation, are all of the verses included in the target language translation?) Sometimes there are differences in verse numbering between translations. For example, in some translations some verses are grouped together or sometimes certain verses are put in footnotes. Even though there may be these kinds of differences between the source translation and the target translation, the target translation is still considered to be complete.
-  - Are there places in the translation where something seems to be left out, or there seems to be a different message than is found in the source language translation? (The wording and the order can be different, but the language that the translator used should give the same message as the source language translation.)
+  - Çevirinin herhangi kısımları eksik mi? Başka bir deyişle, çeviri, çevrilen kitaptaki tüm olayları içeriyor mu?
+  - Çeviri, çevrilen kitabın tüm ayetlerini içeriyor mu? (Kaynak dil çevirisinin ayet numaralarına bakarken, tüm ayetler hedef dil çevirisinde bulunuyor mu?)  Bazen değişik çevirilerde ayet numaraları değişebilir. Örneğin, bazı çevirilerde bazı ayetler birleştirilmiş ve hatta dipnotta yazılmış olabilir. Kaynak çeviri ile hedef çeviri arasında böyle farkların bulunabilmesine rağmen kaynak çeviri her hâlde tam sayılır.
+  - Çeviride bir şey atlatılmış veya kaynak dil çevirisindeki anlamdan farklı bir anlam iletilmiş gibi görünen yerler var mı? (Kullanılan sözcükler ve söz sırası değişik olabilir, ama çevirmenin kullandığı dil, kaynak dil çevirisindeki anlamın aynısını iletmelidir.)
 
-If there is a place where the translation is not complete, make a note of that so that you can discuss it with the translation team. 
-
-
+Çevirinin tam olmadığı bir yer bulunursa onu çeviri takımı ile tartışmak için not edin.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:checking:self_assessment|Self-Assessment Rubric]]//
-  * //[[tr:ta:vol1:checking:good|Level 2 Affirmation]]//
 
+  * //[[:tr:ta:vol1:checking:self_assessment|Self-Assessment Rubric]]//
+  * //[[:tr:ta:vol1:checking:good|Level 2 Affirmation]]//
