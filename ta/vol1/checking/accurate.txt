@@ -1,9 +1,10 @@
-===== Accurate Translation =====
+===== Doğru Çeviri =====
 
-This module answers the question: //Is the translation accurate?//
+This module answers the question: //Çeviri doğru mu?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:checking:church_leader_check|Church Leader Check]]//
+
+  * //[[:tr:ta:vol1:checking:church_leader_check|Church Leader Check]]//
 
 ==== An Accurate Translation ====
 
