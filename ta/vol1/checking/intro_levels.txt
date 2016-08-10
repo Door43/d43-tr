@@ -15,15 +15,15 @@ Yoklama Seviyeleri ile çalışırken hatırlanması gereken bazı önemli bilgi
   * Bir Yoklama Seviyesi tamamlandıktan ve door43’te tüm ilgili düzeltmeler yapıldıktan sonra yoklayanlar unfoldingWord’a yoklama ile ilgili bilgi verecekler - kim yoklama yaptı, unvanı veya çeviri yoklamada yeterlikleri vs. Ondan sonra unfoldingWord. door 43’teki içeriğin bir kopyasını alıp unfoldingWord sitesinde [[https://unfoldingword.org|unfoldingWord website]] ([[https://unfoldingword.org|https://unfoldingword.org]]) sabit dijital kopyasını yayınlayacak ve unfoldingWord mobil uygulaması için hazırlayacak. Ayrıca yazdırılmaya hazır PDF oluşturulup indirilebilir duruma getirilecek. Yoklanmış versiyonun door43’te değiştirilme, gelecek yoklama ve düzeltme imkanı kalacak.
   * Açık Kutsal Kitap Öyküleri projeleri için: Sadece İngilizce kaynak metnin 3.0 ve daha üst versiyonlarından yapılan Açık Kutsal Kitap Öyküleri çevirileri 1. ve daha üst seviyeye yoklanmaya uygundur. 3.0 versiyonundan önceki versiyonlardan yapılan çeviriler, Yoklama Seviyelere devam etmeden önce güncelleştirilmelidir. Bkz [[:tr:ta:vol1:translate:translate_source_version|Kaynak Metinler ve Versiyon Numaraları]].
 
-==== The Checking Levels ====
+==== Yoklama Seviyeleri ====
 
-The strategy for quality assurance of unfoldingWord content, including Open Bible Stories, is described briefly here and in detail at https://unfoldingword.org/quality/ .
+Açık Kutsal Kitap Öyküleri dahil olmak üzere unfoldingWord içeriğinin kalitesinin doğrulanması stratejisi kısaca ve ayrıntılı şekilde şurada açıklanmaktadır: [[https://unfoldingword.org/quality/|https://unfoldingword.org/quality/]]
 
-The three-level checking scale we use is dependent on the unfoldingWord [[:tr:ta:vol1:intro:statement_of_faith]] and [[:tr:ta:vol1:intro:translation_guidelines]]. All translated content is compared against the theology of the Statement of Faith and against the procedures and methodologies of the Translation Guidelines. With these documents forming the foundation, these are the three levels of checking used in the unfoldingWord project:
+Kullandığımız üç seviyeli yoklama ölçeği şunlara dayalıdır: unfoldingWord [[:tr:ta:vol1:intro:statement_of_faith|Statement of Faith]] ve [[:tr:ta:vol1:intro:translation_guidelines|Çeviri Kuralları]]. Çevrilen içeriğin hepsi İman Beyanı teolojisi ve Çeviri Kuralları’nın prosedür ve ilkeleri ile karşılaştırılır. Bu belgelerin temelinde, unfoldingWord projesinde kullanılan üç yoklama seviyesi şunlardan ibarettir:
 
-  * [[:tr:ta:vol1:checking:level1|Checking Level One - Affirmation by Translation Team]]
-  * [[:tr:ta:vol1:checking:level2|Checking Level Two - Affirmation by Community]]
-  * [[:tr:ta:vol1:checking:level3|Checking Level Three - Affirmation by Church Leadership]]
+  * [[:tr:ta:vol1:checking:level1|1. Seviyede Yoklama: Çeviri Takımı Tarafından Doğrulanma]]
+  * [[:tr:ta:vol1:checking:level2|2. Seviyede Yoklama: Toplum Tarafından Doğrulanma]]
+  * [[:tr:ta:vol1:checking:level3|3. Seviyede Yoklama: Kilise Liderliği Tarafından Doğrulanma]]
 
 ==== Checking the Checkers ====
 
