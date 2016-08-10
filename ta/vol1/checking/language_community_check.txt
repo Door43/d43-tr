@@ -6,41 +6,38 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:checking:level2|Checking Level Two – External Check]]//
 
-==== Language Community Check ====
+==== Dil Toplumu Tarafından Yoklanma ====
 
-After you, the translation team, have performed the checks listed under Level One, you are ready to take the translation to the community so that you can check to see if it communicates the message clearly and naturally to them in the target language. 
+Siz, çeviri takımı, 1. seviyedeki yoklamaları tamamladıktan sonra çevirinizi topluma götürüp mesajın hedef dilde konuşan topluma iletilip iletilmeyeceğini yoklatmaya hazır olursunuz.
 
-For this check you will read a section of the translation to members of the language community. Before you read the translation, tell the people listening that you want them to stop you if they hear something that is not natural in their language. For more information on how to check a translation for naturalness, click [[:tr:ta:vol1:checking:natural|here]].
+Bu yoklamada çevirinin bir kısmını dil toplumu üyelerine okuyacaksınız. Çeviriyi okumadan önce dinleyicilere dillerinde kulaklarına doğal gelmeyen bir şeyin farkında oldukları takdirde size bildirmelerini rica edin. Çevirinin doğallığını yoklama konusunda daha fazla bilgi edinmek için [[:tr:ta:vol1:checking:natural|buraya tıklayın]].
 
-There are a set of questions and answers for each Open Bible Story and for each chapter of the Bible that you can use to test the translation to make sure that it is communicating clearly. 
-  * [[:en:obs:notes:questions:home|Open Bible Stories questions are here]]
-  * [[:en:bible:questions:comprehension:home|Bible questions are here]]. 
+Bunlar, çevirinizin mesajı açıkça ilettiğinden emin olmak için yoklamada kullanabileceğiniz, her Açık Kutsal Kitap Öyküsü’ne ve Kutsal Kitap’ın her bölümüne dair bir dizi sorular ve cevaplardır.
 
-To use these questions, follow these steps:
+  * [[:en:obs:notes:questions:home|Açık Kutsal Kitap Öyküleri’ne dair sorular buradadır]]
+  * [[:en:bible:questions:comprehension:home|Kutsal Kitap’a dair sorular buradadır]]
 
-1. Read the passage of the translation to one or more members of the language community who will answer the questions. These members of the language community must be people who have not been involved in the translation before. In other words, the community members who are asked the questions should not already know the answers to the questions from working on the translation or from previous knowledge of the Bible. We want them to be able to answer the questions only from hearing or reading the translation of the story or Bible passage. This is how we will know if the translation is communicating clearly or not. For this same reason, it is important that the community members not look at a Bible while they are answering these questions.
+Bu soruları kullanmak için şu adımları izleyin:
 
-2. Ask the community members some of the questions for that passage, one question at a time. It is not necessary to use all of the questions for each story or chapter if it seems that the community members are understanding the translation well. 
+1. Sorulara cevap verecek olan bir veya birkaç dil toplumu mensubuna çevirinin pasajını okuyun. Bu dil topumu mensuplarının daha önce çeviriye katılmamış kişiler olmaları gerekir. Başka bir deyişle, soru sorulacak toplum mensupları, çeviriye katılmış olmaları ya da Kutsal Kitap’tan daha önce edindikleri bilgilere sahip olmaları nedeniyle cevapları zaten bilen kişiler olmamalıdırlar. Onların sadece öyküyü veya Kutsal Kitap pasajını işittikleri ya da okudukları zaman soru sorabilmelerini isteriz. Bu vesileyle çevirinin mesajı açıkça iletip iletmediğini öğrenmiş olacağız. Dil toplum mensuplarının bu sorulara cevap verirken Kutsal Kitap’a bakmamaları da bu bakımdan önemlidir.
 
-3. After each question, a member of the language community will answer the question. If the person only answers with a “yes” or a “no,” then the questioner should ask a further question so that he can be sure that the translation is communicating well. A further question could be something like, “How do you know that?” or “What part of the translation tells you that?” 
+2. Pasaja dair soruları toplum mensuplarına bir bir sorun. Toplum mensuplarının çeviriyi iyi anladıkları ortaya çıkarsa, her öyküye veya bölüme dair bütün soruları sormaya gerek yoktur.",
 
-4. Write down the answer that the person gives. If the person’s answer is similar to the suggested answer that has been provided for the question, then the translation of the story is clearly communicating the right information at that point. The answer does not have to be exactly the same as the suggested answer to be a right answer, but it should give basically the same information. Sometimes the suggested answer is very long. If the person answers with only part of the suggested answer, that is also a right answer. 
+3. Soru sorulduktan sonra bir dil toplumu mensubu ona cevap verecek. Cevabı sadece «Evet» ya da «Hayır» olursa, soru soran kişi çeviride anlamın iyi aktarıldığından emin olmak için başka soru sorabilir. Örneğin, «Nereden biliyorsun?» ya da «Çevirinin neresinden bu bilgiyi aldın?»
 
-5. If the answer is unexpected or very different than the suggested answer, or if the person cannot answer the question, then the translation team will need to revise the part of the translation that communicates that information so that it communicates the information more clearly.
+4. Kişinin verdiği cevabı yazın. Eğer cevabı, soru için önerilen cevaba benziyorsa, çevirinin o yerinde doğru bilgiler veriliyor demektir. Doğru cevap, önerilen cevabın tam aynısı olmayabilir, ama genelde aynı bilgiyi vermelidir. Bazen önerilen cevap çok uzun olur. Kişinin verdiği cevabı önerilen uzun cevabın bir kısmına uygunsa yine doğru cevap sayılır.
 
-6. After the translation team has revised the translation of the passage, then ask other members of the language community the same questions, that is, ask other speakers of the language who have not been involved in checking the same passage before. If they answer the questions correctly, then the translation is now communicating well.
+5. Cevap beklenmedik ya da önerilen cevaptan oldukça farklı ise, çeviri takımının çevirinin o kısmını revize etmesi gerekecek; sonuçta çevirinin o kısmı, bilgiyi daha açık şekilde iletmesi gerekli olacak.
 
-7. Repeat this process with each story or Bible chapter until members of the language community can answer the questions well, showing that the translation is communicating the right information clearly. The translation is ready for the church check of level 2 when language community members who have not heard the translation before can answer the questions correctly.
+6. Çeviri takımı, pasajın çevirisini revize ettikten sonra dil toplumunun diğer üyelerine, yani daha önce söz konusu pasajı yoklamaya katılmamış olan dil taşıyıcılarına aynı soruları sorun. Doğru cevap verirlerse, demek, çeviri artık mesajı iyi iletiyor.
 
-8. Go to the [[:tr:ta:vol1:checking:community_evaluation|Community Evaluation]] Page and answer the questions there. 
+7. Her öykü veya Kutsal Kitap bölümü ile bu süreci tekrarlayın, dil toplumu mensupları sorulara iyi cevap verinceye kadar devam edin; ondan sonra çevirinin bilgileri açıkça ilettiğinden emin olabilirsiniz. Çeviriyi daha önce duymamış olan dil toplumu mensupları sorulara doğru cevap verdikten sonra çeviri 2. seviyede kilise tarafından yoklanmaya hazır olur.
 
-
-
-
+8. [[:tr:ta:vol1:checking:community_evaluation|Toplum Değerlendirmesi]] Sayfasına gidin ve oradaki sorulara cevap verin.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:checking:natural|Natural Translation]]//
-  * //[[tr:ta:vol1:checking:other_methods|Other Methods]]//
-  * //[[tr:ta:vol1:translate:writing_decisions|Decisions for Writing Your Language]]//
-  * //[[tr:ta:vol1:checking:community_evaluation|Language Community Evaluation Questions]]//
 
+  * //[[:tr:ta:vol1:checking:natural|Natural Translation]]//
+  * //[[:tr:ta:vol1:checking:other_methods|Other Methods]]//
+  * //[[:tr:ta:vol1:translate:writing_decisions|Decisions for Writing Your Language]]//
+  * //[[:tr:ta:vol1:checking:community_evaluation|Language Community Evaluation Questions]]//
