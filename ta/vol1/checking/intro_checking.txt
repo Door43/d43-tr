@@ -6,40 +6,36 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:checking:intro_check|Introduction to the Checking Manual]]//
 
-==== Translation Checking ====
+==== Çevirinin Yoklanması ====
 
-=== Introduction ===
+=== Giriş ===
 
-As part of the translation process, it is necessary that several people check the translation to make sure that it is clearly communicating the message that it should communicate. A beginning translator who was told to check his translation once said, “But I speak my native language perfectly. The translation is for that language. What more is needed?” What he said was true, but there are two more things to keep in mind. 
+Çeviri sürecinin bir parçası olarak çevirinin iletmesi gereken mesajı açıkça ilettiğinden emin olmak için birkaç kişi tarafından yoklanması zorunludur. Yeni bir  çevirmen çevirisinin yoklanacağını öğrenince şöyle demiş: «Ama ben ana dilimde mükemmel konuşuyorum. Çeviri de zaten bu dile yapıldı. Daha ne lazım?» Söylediği doğrudur, ama göz önüne alınacak iki şey daha var.
 
-One thing is that he may not have understood the source text correctly, and so someone who knows what it should say might be able to correct the translation. This could be because he did not correctly understand a phrase or expression in the source language. In this case, someone else who understands the source language well can correct the translation. 
+Birincisi, o, kaynak metni doğru bir şekilde anlamamış olabilir; dolayısıyla kaynak metnin anlamlarını bilen birisi büyük olasılıkla onun çevirisini düzeltebilir. Bunun olası sebebi, kaynak dilde bir ifadeyi doğru şekilde anlamamasındandır. Bu durumda kaynak metni çok iyi anlayan başka birisi çeviriyi düzeltebilir.
 
-Or it could be that he did not understand something about what the Bible meant to communicate at a certain place. In this case, someone who knows the Bible well, such as a Bible teacher or a Bible translation checker, can correct the translation. 
+Ya da Kutsal Kitap’ın belirli bir yerinde kastedilen anlamı anlamamış olabilir. Bu durumda Kutsal Kitap’ı iyi bilen birisi veya Kutsal Kitap çevirisini yoklayan kişi çeviriyi düzeltebilir.
 
-The other thing is that, although the translator may know very well what the text should say, the way he translated it might mean something else to a different person. That is, another person might think that the translation is talking about something other than what the translator intended, or the person hearing or reading the translation might not understand what the translator was trying to say. That is why it is always necessary to check what someone else understands from the translation so that we can make it more accurate and more clear. 
+İkincisi de şu ki, çevirmen metinde kastedilen anlamı çok iyi anlamasına rağmen onu okuyuculara farklı anlam verecekleri şekilde çevirmiş olabilir. Yani başka bir okuyucu çeviriyi okurken çevirmenin kastettiğinden farkı bir şeyi düşünebilir; ya da çeviriyi duyan veya okuyan kişi çevirmenin neyi kastettiğini anlamayabilir. Bu yüzden çevirinin daha doğru ve açık olması için her zaman başkalarının çeviriden ne anlam çıkardıklarını yoklamak gereklidir.
 
-This is a guide to the process of checking, in the form of a scale with three levels.
+Bu, üç seviyeli ölçek şeklindeki yoklama süreci kılavuzudur.
 
-This checking scale helps to show the extent to which the accuracy and clarity of a translation have been verified. These checking levels have been developed by the [[https://unfoldingword.org|unfoldingWord network]] (https://unfoldingword.org), the same group that manages Door43 with the help of many volunteers, and they are used to indicate the checking level of all biblical content on Door43.
+Bu yoklama ölçeği, çevirinin doğruluk ve açıklık bakımından ne kadar doğrulanmış olduğunu göstermeye yardım eder. Bu yoklama seviyeleri unfoldingWord şebekesi [[https://unfoldingword.org|unfoldingWord network]] ([[https://unfoldingword.org|https://unfoldingword.org]])tarafından yaratılmıştır -bu şebeke birçok gönüllülerin yardımıyla Door 43’ü yönetiyor- ve bunlar Door43’te bütün Kutsal Kitap içeriğinin yoklanmış olma seviyesinin göstergesi olarak kullanılmaktadır.
 
-=== The Checking Levels ===
+=== Yoklama Seviyeleri ===
 
-There are three checking levels: 
-  * [[:tr:ta:vol1:checking:level1]] 
-  * [[:tr:ta:vol1:checking:level2]]
-  * [[:tr:ta:vol1:checking:level3]]. 
+Üç yoklama seviyesi vardır:
 
-Any translation that has not yet been checked to Level One is considered to have not been checked and is assigned no checking status.
+  * [[:tr:ta:vol1:checking:level1|Checking Level One – Translation Team Check]]
+  * [[:tr:ta:vol1:checking:level2|Checking Level Two – External Check]]
+  * [[:tr:ta:vol1:checking:level3|3. Seviyede Yoklama - Doğrulanmış Yoklama]].
 
-The purpose of having several Checking Levels is to make translated materials quickly available to the church, while also allowing the content to continue to be checked and corroborated in an open environment. At all times, the degree to which its accuracy has been checked will be clearly indicated. We believe this will result in a faster checking process, allow broad church participation and ownership, and produce better translations.
+Henüz 1. Seviyesine göre yoklanmamış olan her çeviri yoklanmamış sayılır ve ona hiçbir yoklama durumu tahsis edilmez.
 
-
-
-
-
+Birkaç Yoklama Seviyesinin bulunmasında amaç, çevrilen içeriği en kısa zamanda kilisenin eline sunmak ve aynı zamanda içeriğin açık çevrede yoklanıp doğrulanmasına yol açmaktır. Her zaman doğruluğunun yoklanmış olduğu derece açıkça belirtilecektir. Bunun sonucunda yoklanma sürecinin hızlanacağını, kilisenin geniş katılım ve sahipliğini sağlayacağını ve daha iyi çeviriler meydana getireceğini düşünüyoruz.
 
 //Credits: Quotation used by permission, © 2013, SIL International, Sharing Our Native Culture, p. 69.//
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:checking:intro_levels|Introduction to the Checking Levels]]//
 
+  * //[[:tr:ta:vol1:checking:intro_levels|Introduction to the Checking Levels]]//
