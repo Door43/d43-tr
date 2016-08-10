@@ -38,13 +38,11 @@ Eşanlamlı kelimeler ya da eşit ifadeler çift tırnaklarda yazılır. Bunlar 
 
 Bu örnekte ULB’deki «yol» sözü yerine «patika» sözü kullanılabilir. Siz diliniz için en doğal seçeneği kullanabilirsiniz: yol yahut patika.
 
-  * "
-yol" yahut "patika"
+  * "yol" yahut "patika"
 
 Bu örnekte ULB’deki «sen de öyle yap» ifadesi yerine «sen de aynı şekilde davran» ifadesi kullanıldı. Siz çevirmen olarak hangi seçeneğin dilinizde daha doğal olacağına karar verebilirsiniz.
 
-  *
-**sen de öyle yap**  -  «sen de aynı şekilde davran.»
+  * **sen de öyle yap**  - «sen de aynı şekilde davran.»
 == Diğer Çeviri Seçeneği (Seçenekleri) ==
 
 Diğer çeviri seçeneği, hedef dilde aynı anlamı iletmek için başka biçimin kullanılabileceği nedeniyle ULB’nin biçiminde ya da içeriğinde yapılması önerilen değişikliktir.
@@ -54,17 +52,25 @@ Diğer çeviri seçeneği, hedef dilde aynı anlamı iletmek için başka biçim
 «AT» harfleri «Alternate Translation» (Çeviri Seçeneği) anlamına geliyor. Dolayısıyla «AT:» işareti onun ardından gelen seçeneğin sadece ULB’nin içeriğinin kafa karıştırıcı olduğu ya da sizin dilinizde anlamı iletmeye yeterli olmadığı zaman kullanılması gerektiğini belirtir. Birkaç örnek:
 
   *
+
 **Tanrı’nın kurtuluşunu görecektir**  - AT: «Tanrı’nın insanları günahtan nasıl kurtardığını öğrenecektir.»
+
   *
+
 **Beni izle**  - AT: «Öğrencim ol» ya da «Gel, Öğretmenin olarak beni izle.»
+
 === UDB’deki Çeviriyi Netleştirme ===
 
 UDB’de ULB için iyi çeviri seçeneği varsa hiçbir not bulunmayabilir. Ancak, bazen hem UDB metni hem de önerilen çeviri olabilir. Bu durumda UDB metninden sonra «(UDB)» işareti bulunacak, şu örnekteki gibi:
 
   *
+
 **ona yalvardılar**  - «ondan rica ettiler» (UDB)
+
   *
+
 **yüzüstü yere kapandı**  - «eğilerek secde etti» (UDB) ya da «diz çöküp alnını yere koydu.»
+
 === Diğer Anlam Seçeneği (Seçenekleri) ===
 
 Çeviri Notları, bir sözcük veya **ifadenin değişik anlaşılma yolları**  bulunduğu zaman diğer anlam seçeneklerini sunacak.
@@ -72,39 +78,47 @@ UDB’de ULB için iyi çeviri seçeneği varsa hiçbir not bulunmayabilir. Anca
 Bu tür not şöyle başlar: «Mümkün anlamlar şunlardır» ve sonra en olası ya da tercih edilen anlam seçeneğinden başlayarak mümkün anlam seçenekleri sunulacak. Açıklama şeklinde sunulan anlam tırnak içinde bulunmaz, örneğin:
 
   *
+
 **Sen genç aslan gibi ... denizlerdeki bir canavar gibisin**  - Mümkün anlamlar şu: 1) o bir aslan ve canavar gibiydi; 2) o kendini aslan sayıyordu, ama aslında sadece bir canavardı.
-  *
-**denizlerdeki bir canavar gibisin**  - Mümkün anlamlar şu: 1) o güçlüydü; ya da 2) önemli bir şey yapmıyordu.
-Çeviri olarak kullanılabilecek olan anlam tırnak içinde bulunur, örneğin:
 
   *
+
+**denizlerdeki bir canavar gibisin**  - Mümkün anlamlar şu: 1) o güçlüydü; ya da 2) önemli bir şey yapmıyordu. Çeviri olarak kullanılabilecek olan anlam tırnak içinde bulunur, örneğin:
+
+  *
+
 **İsa’nın dizleri önünde yere düştü**  - Mümkün anlamlar şu: 1) «İsa’nın ayakları önünde eğildi»; 2) «İsa’nın ayakları önünde yere kapandı»; ya da 3) «İsa’nın önünde diz çöktü.» Petrus kazara yere düşmedi. Alçakgönüllülük ve İsa’ya hürmet ile bunu yaptı.
+
 === Mecazları Belirleyin ===
 
 Çeviri Notları’nın amacı, sizi ULB’deki mecazlar konusunda ikaz etmek ve aynı anlamın değişik bir şekilde nasıl çevrilebileceğini göstermektir. Mecazı belirleyen ve açıklayan notlar cümle biçiminde olacak ve anlam tırnak içinde yer alacak.
 
   *
+
 **Rab’bin yolunu hazırlayın**  - Bu cümlede kendini Rab’bin gelişine hazırlayan insanlar, yolu birinin kullanımına hazırlayan insanlara benzetilir. AT: «Tövbe edin ve Rab’bin gelişine hazır olun.» (Bkz. Metafor)
+
   *
-**Sizi engerekler soyu**  - İsa Ferisilerin ne kadar tehlikeli olduğunu vurgulamak için bu ifadeyi kullanmıştır. Engerekler, tehlikeli zehirli yılandır ve kötülüğü simgeler. AT: «Sizi kötü zehirli yılanlar!» ya da «Siz zehirli yılanlar gibi kötüsünüz.» (Bkz. Metafor)
-Eğer mecazın bir türünü açıklayan Çeviri Akademisi sayfası varsa, notun sonundaki parantezin içinde mecazın türü belirtilecek. Örneğin, (Bkz. Metafor). Sonra Çeviri Akademisi’nde bu mecaz türüne dair daha fazla açıklama okuyabilirsiniz.
+
+**Sizi engerekler soyu**  - İsa Ferisilerin ne kadar tehlikeli olduğunu vurgulamak için bu ifadeyi kullanmıştır. Engerekler, tehlikeli zehirli yılandır ve kötülüğü simgeler. AT: «Sizi kötü zehirli yılanlar!» ya da «Siz zehirli yılanlar gibi kötüsünüz.» (Bkz. Metafor) Eğer mecazın bir türünü açıklayan Çeviri Akademisi sayfası varsa, notun sonundaki parantezin içinde mecazın türü belirtilecek. Örneğin, (Bkz. Metafor). Sonra Çeviri Akademisi’nde bu mecaz türüne dair daha fazla açıklama okuyabilirsiniz.
 
 === Dolaylı Alıntıdan Doğrudan Alıntıya ===
 
 Çeviri Notunda dolaylı alıntının bir çeviri seçeneği olarak doğrudan alıntı önerildiğinde «Bu, doğrudan alıntı olarak çevrilebilir:» ve ardından bunun doğrudan alıntı ile nasıl çevrilebileceği tavsiye edilir. Örneğin:
 
   *
-**kimseye söylememesini**  - Bu doğrudan alıntı olarak şöyle çevrilebilir: «Kimseye söyleme.» Kastedilen bilgi şu: «şifa bulduğunu şöyleme.» (Bkz. Konuşma Alıntıları, Açık ve Örtülü Bilgiler)
-Bir Çeviri Notunun sonunda parantez içinde «Bkz.» yazılı olduğu zaman ardından gelen sözler, Çeviri Akademisi’nde bakabileceğiniz, bu Notta bahsedilen sorunu daha fazla açıklayan konulardır.
+
+**kimseye söylememesini**  - Bu doğrudan alıntı olarak şöyle çevrilebilir: «Kimseye söyleme.» Kastedilen bilgi şu: «şifa bulduğunu şöyleme.» (Bkz. Konuşma Alıntıları, Açık ve Örtülü Bilgiler) Bir Çeviri Notunun sonunda parantez içinde «Bkz.» yazılı olduğu zaman ardından gelen sözler, Çeviri Akademisi’nde bakabileceğiniz, bu Notta bahsedilen sorunu daha fazla açıklayan konulardır.
 
 === Uzun İfadeye Dair Çoklu Notlar ===
 
 Bazen bir ifadeye dair notlar olduğu gibi aynı ifadenin kısımlarına dair ayrı notlar bulunur. Bu durumda önce bütün ifade ve sonra kısımları gelir. Örneğin:
 
   *
+
 **diyorsunuz ki, ‘Şu obur adama bakın!’**  - Bu dolaylı alıntı olarak da çevrilebilir: «O’nun obur adam olduğunu diyorsunuz» ya da «O’nu obur adam olmakla suçluyorsunuz.»
+
   *
-**Şu adam oburdur**  - «Şu adam çok yemek yiyendir» veya «Şu adam her zaman haddinden fazla yemek yer.»
-Next we recommend you learn about:
+
+**Şu adam oburdur**  - «Şu adam çok yemek yiyendir» veya «Şu adam her zaman haddinden fazla yemek yer.» Next we recommend you learn about:
 
   * //[[:tr:ta:vol1:translate:resources_links|Links in the Notes]]//
