@@ -1,9 +1,10 @@
-===== Complete Translation =====
+===== Tam Çeviri =====
 
-This module answers the question: //Is the translation complete?//
+This module answers the question: //Çeviri tam mı?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:checking:accurate|Accurate Translation]]//
+
+  * //[[:tr:ta:vol1:checking:accurate|Accurate Translation]]//
 
 ==== A Complete Translation ====
 
