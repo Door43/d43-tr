@@ -65,7 +65,9 @@ UDB’de ULB için iyi çeviri seçeneği varsa hiçbir not bulunmayabilir. Anca
 
 Bu tür not şöyle başlar: «Mümkün anlamlar şunlardır» ve sonra en olası ya da tercih edilen anlam seçeneğinden başlayarak mümkün anlam seçenekleri sunulacak. Açıklama şeklinde sunulan anlam tırnak içinde bulunmaz, örneğin:
 
-  * **Sen genç aslan gibi ... denizlerdeki bir canavar gibisin**  - Mümkün anlamlar şu: 1) o bir aslan ve canavar gibiydi; 2) o kendini aslan sayıyordu, ama aslında sadece bir canavardı.
+  * **Sen genç aslan gibi ... denizlerdeki bir canavar gibisin**  - Mümkün anlamlar şu:
+      * 1) o bir aslan ve canavar gibiydi;
+      * 2) o kendini aslan sayıyordu, ama aslında sadece bir canavardı.
   * **denizlerdeki bir canavar gibisin**  - Mümkün anlamlar şu: 1) o güçlüydü; ya da 2) önemli bir şey yapmıyordu. Çeviri olarak kullanılabilecek olan anlam tırnak içinde bulunur, örneğin:
   * **İsa’nın dizleri önünde yere düştü**  - Mümkün anlamlar şu: 1) «İsa’nın ayakları önünde eğildi»; 2) «İsa’nın ayakları önünde yere kapandı»; ya da 3) «İsa’nın önünde diz çöktü.» Petrus kazara yere düşmedi. Alçakgönüllülük ve İsa’ya hürmet ile bunu yaptı.
 === Mecazları Belirleyin ===
