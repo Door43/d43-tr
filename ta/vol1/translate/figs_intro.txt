@@ -10,22 +10,22 @@ Mecaz, sözün gerçek anlamından başka anlamda kullanılmasıdır. Yani mecaz
 
 Aşağıda Mecazların türleri listelenmiştir. Daha fazla bilgi edinmek isterseniz sadece yeşil sözcüğe tıklayın ve tanımları, örnekleri, videoları bulunan sayfaya yönlendirileceksiniz.
 
-  * **[[:en:ta:vol2:translate:figs_apostrophe|figs_apostrophe]]**- Apostrof dediğimiz mecazda konuşan kişi müracaat ettiği insanlara değil orada bulunmayan birine söz söyler.
-  * **[[:en:ta:vol2:translate:figs_doublet|figs_doublet]]**- Dublet dediğimiz mecazda aynı düşünce iki yolla söylenir. Kutsal Kitap’ta dubletler şiirde, peygamberlikte ve vaazlarda sık sık kullanılır.
-  * **[[:en:ta:vol2:translate:figs_euphemism|figs_euphemism]]**- Örtmece, kaba, çirkin, utandıran bir şeyden nazik, edepli şekilde bahsetme yöntemidir. Amacı, dinleyici ya da okuyucuları utandırmamak ve öfkelendirmemektir.
-  * **[[:en:ta:vol2:translate:figs_hendiadys|figs_hendiadys]]**- Hendiadys denen mecazda tek kavram, «ve» ile birleştirilen bir isim ve bir sıfat ile anlatılır.
-  * **[[:en:ta:vol2:translate:figs_hyperbole|figs_hyperbole]]**- Mübalağa, konuşan kişinin bir şey hakkındaki duygu ya da görüşünü belirtmek için kullanılan kasıtlı abartmadır.
-  * **[[:en:ta:vol1:translate:figs_idiom|Deyim]]**- Deyim, ayrı ayrı sözcüklerin anlamlarından farklı bir anlamı olan bir söz grubudur.
-  * **[[:en:ta:vol1:translate:figs_irony|Kinaye]]**- Kinaye denen mecazda konuşan kişi birinin söylemiş ya da düşünmüş olduğu (veya olabileceği) şeyleri tekrarlar, ama dinleyicilerinin bağlama göre buna hiç katılmadığını anlayacaklarını bekler.
-  * **[[:en:ta:vol2:translate:figs_litotes|figs_litotes]]**- Litota, bir şeyin aksinin doğru olmadığını söyleyerek doğru olduğunu söyleme biçimidir.
-  * **[[:en:ta:vol2:translate:figs_merism|figs_merism]]**- Bu mecaz her iki aşırılığı ve aralarındaki her şeyi belirtir.
-  * **[[:en:ta:vol1:translate:figs_metaphor|Metaphor]]**- Metafor, bir şeyi veya eylemi belirten sözlerin başka bir şeye ait olarak uygulandığı ve böylece bu iki şeyin arasında bir benzerliğin, ortaklığın bulunmasına ima edildiği mecazdır. Teşbih gibi benzetmeye dayalı olan metaforda teşbihten farklı olarak «gibi» ilgeci kullanılmaz.
-  * **[[:en:ta:vol2:translate:figs_metonymy|figs_metonymy]]**- Ad değişimi, bir şeyin veya kavramın kendi ismi yerine benzerinin ismi ile adlandırıldığı mecazdır. Ad değişimi, ilişkili olduğu bir şeyin yerine kullanılan söz veya ifadedir.
-  * **[[:en:ta:vol2:translate:figs_parallelism|figs_parallelism]]**- Paralellik, bir kavramın iki veya daha fazla yolla anlatılmasıdır. Paralellik bütün İbranice Kutsal Kitap’ta, özellikle Mezmurlar ve Süleyman’ın Özdeyişleri bölümlerinde sık sık görülen mecazdır.
-  * **[[:en:ta:vol2:translate:figs_personification|figs_personification]]**- Kişileştirme, teşbih ya da metaforun bir türüdür; kişileştirmede insan olmayan bir kavramdan veya bir şeyden insanmış gibi, insanın yaptıklarını yapabileceği ya da insanların niteliklerine sahip olabileceği bir şekilde bahsedilir.
-  * **[[:en:ta:vol1:translate:figs_rquestion|Retorik Soru]]**- Retorik soru, bilgi edinmekten başka bir amaçla sorulan sorudur. Çoğu zaman anlatıcının konuya veya dinleyiciye karşı tutumunu gösterir. Sık sık azarlama amacıyla kullanılır, fakat bazı dillerin başka amaçları da olur.
-  * **[[:en:ta:vol1:translate:figs_simile|Teşbih]]**- Teşbihte, aralarındaki ortak bir niteliğin vurgulanması yolu ile bir şey başka bir şeye benzetilir. Metafordan farklı olarak, teşbihte benzetme «gibi» edatıyla açıklanır. Bahsedilen şeye «konu»; benzetilen şeye «timsal»; birbirlerine benzetilenlerin arasındaki ortak niteliğe «benzetme yönü» denir.
-  * **[[:en:ta:vol2:translate:figs_synecdoche|figs_synecdoche]]**- Synecdoche denen mecazda: 1) bir şeyin parçasının adı bütününe ait olarak kullanılır; ya da 2) bir şeyin adı sadece bir parçasına ait olarak kullanılır.
+  * **[[:tr:ta:vol2:translate:figs_apostrophe|figs_apostrophe]]**- Apostrof dediğimiz mecazda konuşan kişi müracaat ettiği insanlara değil orada bulunmayan birine söz söyler.
+  * **[[:tr:ta:vol2:translate:figs_doublet|figs_doublet]]**- Dublet dediğimiz mecazda aynı düşünce iki yolla söylenir. Kutsal Kitap’ta dubletler şiirde, peygamberlikte ve vaazlarda sık sık kullanılır.
+  * **[[:tr:ta:vol2:translate:figs_euphemism|figs_euphemism]]**- Örtmece, kaba, çirkin, utandıran bir şeyden nazik, edepli şekilde bahsetme yöntemidir. Amacı, dinleyici ya da okuyucuları utandırmamak ve öfkelendirmemektir.
+  * **[[:tr:ta:vol2:translate:figs_hendiadys|figs_hendiadys]]**- Hendiadys denen mecazda tek kavram, «ve» ile birleştirilen bir isim ve bir sıfat ile anlatılır.
+  * **[[:tr:ta:vol2:translate:figs_hyperbole|figs_hyperbole]]**- Mübalağa, konuşan kişinin bir şey hakkındaki duygu ya da görüşünü belirtmek için kullanılan kasıtlı abartmadır.
+  * **[[:tr:ta:vol1:translate:figs_idiom|Deyim]]**- Deyim, ayrı ayrı sözcüklerin anlamlarından farklı bir anlamı olan bir söz grubudur.
+  * **[[:tr:ta:vol1:translate:figs_irony|Kinaye]]**- Kinaye denen mecazda konuşan kişi birinin söylemiş ya da düşünmüş olduğu (veya olabileceği) şeyleri tekrarlar, ama dinleyicilerinin bağlama göre buna hiç katılmadığını anlayacaklarını bekler.
+  * **[[:tr:ta:vol2:translate:figs_litotes|figs_litotes]]**- Litota, bir şeyin aksinin doğru olmadığını söyleyerek doğru olduğunu söyleme biçimidir.
+  * **[[:tr:ta:vol2:translate:figs_merism|figs_merism]]**- Bu mecaz her iki aşırılığı ve aralarındaki her şeyi belirtir.
+  * **[[:tr:ta:vol1:translate:figs_metaphor|Metaphor]]**- Metafor, bir şeyi veya eylemi belirten sözlerin başka bir şeye ait olarak uygulandığı ve böylece bu iki şeyin arasında bir benzerliğin, ortaklığın bulunmasına ima edildiği mecazdır. Teşbih gibi benzetmeye dayalı olan metaforda teşbihten farklı olarak «gibi» ilgeci kullanılmaz.
+  * **[[:tr:ta:vol2:translate:figs_metonymy|figs_metonymy]]**- Ad değişimi, bir şeyin veya kavramın kendi ismi yerine benzerinin ismi ile adlandırıldığı mecazdır. Ad değişimi, ilişkili olduğu bir şeyin yerine kullanılan söz veya ifadedir.
+  * **[[:tr:ta:vol2:translate:figs_parallelism|figs_parallelism]]**- Paralellik, bir kavramın iki veya daha fazla yolla anlatılmasıdır. Paralellik bütün İbranice Kutsal Kitap’ta, özellikle Mezmurlar ve Süleyman’ın Özdeyişleri bölümlerinde sık sık görülen mecazdır.
+  * **[[:tr:ta:vol2:translate:figs_personification|figs_personification]]**- Kişileştirme, teşbih ya da metaforun bir türüdür; kişileştirmede insan olmayan bir kavramdan veya bir şeyden insanmış gibi, insanın yaptıklarını yapabileceği ya da insanların niteliklerine sahip olabileceği bir şekilde bahsedilir.
+  * **[[:tr:ta:vol1:translate:figs_rquestion|Retorik Soru]]**- Retorik soru, bilgi edinmekten başka bir amaçla sorulan sorudur. Çoğu zaman anlatıcının konuya veya dinleyiciye karşı tutumunu gösterir. Sık sık azarlama amacıyla kullanılır, fakat bazı dillerin başka amaçları da olur.
+  * **[[:tr:ta:vol1:translate:figs_simile|Teşbih]]**- Teşbihte, aralarındaki ortak bir niteliğin vurgulanması yolu ile bir şey başka bir şeye benzetilir. Metafordan farklı olarak, teşbihte benzetme «gibi» edatıyla açıklanır. Bahsedilen şeye «konu»; benzetilen şeye «timsal»; birbirlerine benzetilenlerin arasındaki ortak niteliğe «benzetme yönü» denir.
+  * **[[:tr:ta:vol2:translate:figs_synecdoche|figs_synecdoche]]**- Synecdoche denen mecazda: 1) bir şeyin parçasının adı bütününe ait olarak kullanılır; ya da 2) bir şeyin adı sadece bir parçasına ait olarak kullanılır.
 Next we recommend you learn about:
 
   * //[[:tr:ta:vol1:translate:figs_metaphor|Metaphor]]//
