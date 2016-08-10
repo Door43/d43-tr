@@ -8,7 +8,7 @@ Before you start this module have you learned about:
 
 ==== Definition ====
 
-Metafor (mecaz), bir şeyi (metaforun konusunu) ilişkisi olmayan bir objeyle ilişkilendirerek «sözel resim» oluşturan yan anlamalı sözdür. Metafor, iki şeylerin arasında bir benzerliğin, ortaklığın bulunmasına ima eder (veya bunu doğrudan söyler). Teşbih gibi benzetmeye dayalı olan metaforda teşbihten farklı olarak «gibi» ilgeci kullanılmaz. (Bkz [[:en:ta:vol1:translate:figs_simile|Simile]].). Metaforda resim, iyi bilinen bir objeden pek o kadar kolayca anlaşılmayan bir objeye aktarılır.
+Metafor (mecaz), bir şeyi (metaforun konusunu) ilişkisi olmayan bir objeyle ilişkilendirerek «sözel resim» oluşturan yan anlamalı sözdür. Metafor, iki şeylerin arasında bir benzerliğin, ortaklığın bulunmasına ima eder (veya bunu doğrudan söyler). Teşbih gibi benzetmeye dayalı olan metaforda teşbihten farklı olarak «gibi» ilgeci kullanılmaz. (Bkz [[:tr:ta:vol1:translate:figs_simile|Simile]]). Metaforda resim, iyi bilinen bir objeden pek o kadar kolayca anlaşılmayan bir objeye aktarılır.
 
 Örneğin, «Hayat bir yolculuktur» ifadesi, hayatı bir açıdan yolculuğa benzeten bir hayat kavramını aktarmaya yardım eden metafordur. Belki de her ikisinde aynı yerde kalmama, ileriye doğru hareket etme söz konusu olduğu için böyle söylenir. Bu örnekte «hayat» konu, «yolculuk» konuya uygulanan temsil, hareket veya ilerleme kavramı da benzetme yönüdür. Her metaforun konusu, timsali ve benzetme yönü vardır. Ancak bu örnekte olduğu gibi benzetme yönü çoğu zaman açıklanmaz. Yazar okuyucudan benzetmeyi kendisi düşünüp anlamasını ve benzetme yönünü görmesini bekliyor.
 
