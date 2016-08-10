@@ -6,18 +6,14 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:checking:church_leader_check|Church Leader Check]]//
 
-==== An Accurate Translation ====
+==== Doğru Çeviri ====
 
-It is very important to make sure that the new translation is accurate. Those who have been chosen to check the translation for accuracy have the responsibility to make sure that it communicates the same meaning as the source translation.  
+Yeni çevirinin doğru olduğundan emin olmak çok önemlidir. Çeviriyi doğruluk bakımından yoklamak üzere seçilen kişiler, kaynak çeviriyle aynı anlamı iletmesini sağlamaktan sorumludurlar.
 
-For instructions on how to do this, go to [[:tr:ta:vol1:checking:accuracy_check]], and follow the steps in the section under the heading "All Levels." 
-
-
-
-
+Bunun nasıl yapılması ile ilgili talimatlar için şuraya gidin [[:tr:ta:vol1:checking:accuracy_check|Accuracy Check]] ve «Tüm Seviyeler» başlığı altındaki adımları izleyin.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:checking:complete|Complete Translation]]//
-  * //[[tr:ta:vol1:checking:accuracy_check|Accuracy Check]]//
-  * //[[tr:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]//
 
+  * //[[:tr:ta:vol1:checking:complete|Complete Translation]]//
+  * //[[:tr:ta:vol1:checking:accuracy_check|Accuracy Check]]//
+  * //[[:tr:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]//
