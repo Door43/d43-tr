@@ -13,8 +13,8 @@ When choosing a source text, there are a number of factors that must be consider
   * **[[:tr:ta:vol1:intro:statement_of_faith|Statement of Faith]]**- Metin İman Beyanı’na uygun mudur?
   * **[[:tr:ta:vol1:intro:translation_guidelines|Çeviri Kuralları]]**- Metin Çeviri Kuralları’na uygun mudur?
   * **Dil**  - Metin, çevirmenlerin ve yoklayan kişilerin iyi anlayabilecekleri uygun dilde yazılmış mıdır?
-  * **[[:tr:ta:vol1:translate:translate_source_licensing|Licensing]]**- Metin, yeterli yasal serbestliği sağlayan bir lisansla yayınlanmış mıdır?
-  * **[[:tr:ta:vol1:translate:translate_source_version|Versioning]]**- Metin en son güncelleştirilmiş, en yeni versiyon mudur?
+  * **[[:tr:ta:vol1:translate:translate_source_licensing|Lisans]]**- Metin, yeterli yasal serbestliği sağlayan bir lisansla yayınlanmış mıdır?
+  * **[[:tr:ta:vol1:translate:translate_source_version|Versiyon]]**- Metin en son güncelleştirilmiş, en yeni versiyon mudur?
   * **[[:tr:ta:vol1:translate:translate_original|Orijinal ve Kaynak Diller]]**- Çeviri takımı kaynak dil ile orijinal dil arasındaki farkı anlıyor mu?
   * **[[:tr:ta:vol1:translate:translate_manuscripts|Orijinal El Yazmaları]]**- Çeviri takımı Orijinal El Yazmaları ve versiyonları konusunda biliyorlar mı [[:tr:ta:vol1:translate:translate_textvariants|Metin Versiyonları]]?
 Dil toplumundaki kilise liderlerinin kaynak metnin iyi olduğu konusunda hemfikir olmaları önemlidir. [[https://unfoldingword.org/stories/|https://unfoldingword.org/stories/]] sitesinde Açık Kutsal Kitap Öyküleri’nin birçok dile çevirileri bulunuyor. Ayrıca Kutsal Kitap’ın İngilizceye ve gelecekte başka dillere de çevrilmesi amacıyla kullanılacak Kutsal Kitap çevirileri de vardır.
