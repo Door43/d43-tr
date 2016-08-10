@@ -10,7 +10,7 @@ Before you start this module have you learned about:
 
 === Giriş ===
 
-Çeviri sürecinin bir parçası olarak çevirinin iletmesi gereken mesajı açıkça ilettiğinden emin olmak için birkaç kişi tarafından yoklanması zorunludur. Yeni bir  çevirmen çevirisinin yoklanacağını öğrenince şöyle demiş: «Ama ben ana dilimde mükemmel konuşuyorum. Çeviri de zaten bu dile yapıldı. Daha ne lazım?» Söylediği doğrudur, ama göz önüne alınacak iki şey daha var.
+Çeviri sürecinin bir parçası olarak çevirinin iletmesi gereken mesajı açıkça ilettiğinden emin olmak için birkaç kişi tarafından yoklanması zorunludur. Yeni bir çevirmen çevirisinin yoklanacağını öğrenince şöyle demiş: «Ama ben ana dilimde mükemmel konuşuyorum. Çeviri de zaten bu dile yapıldı. Daha ne lazım?» Söylediği doğrudur, ama göz önüne alınacak iki şey daha var.
 
 Birincisi, o, kaynak metni doğru bir şekilde anlamamış olabilir; dolayısıyla kaynak metnin anlamlarını bilen birisi büyük olasılıkla onun çevirisini düzeltebilir. Bunun olası sebebi, kaynak dilde bir ifadeyi doğru şekilde anlamamasındandır. Bu durumda kaynak metni çok iyi anlayan başka birisi çeviriyi düzeltebilir.
 
@@ -20,7 +20,7 @@ Ya da Kutsal Kitap’ın belirli bir yerinde kastedilen anlamı anlamamış olab
 
 Bu, üç seviyeli ölçek şeklindeki yoklama süreci kılavuzudur.
 
-Bu yoklama ölçeği, çevirinin doğruluk ve açıklık bakımından ne kadar doğrulanmış olduğunu göstermeye yardım eder. Bu yoklama seviyeleri unfoldingWord şebekesi [[https://unfoldingword.org|unfoldingWord network]] ([[https://unfoldingword.org|https://unfoldingword.org]])tarafından yaratılmıştır -bu şebeke birçok gönüllülerin yardımıyla Door 43’ü yönetiyor- ve bunlar Door43’te bütün Kutsal Kitap içeriğinin yoklanmış olma seviyesinin göstergesi olarak kullanılmaktadır.
+Bu yoklama ölçeği, çevirinin doğruluk ve açıklık bakımından ne kadar doğrulanmış olduğunu göstermeye yardım eder. Bu yoklama seviyeleri unfoldingWord şebekesi [[https://unfoldingword.org|unfoldingWord network]] ([[https://unfoldingword.org|https://unfoldingword.org]]) tarafından yaratılmıştır -bu şebeke birçok gönüllülerin yardımıyla Door 43’ü yönetiyor- ve bunlar Door43’te bütün Kutsal Kitap içeriğinin yoklanmış olma seviyesinin göstergesi olarak kullanılmaktadır.
 
 === Yoklama Seviyeleri ===
 
