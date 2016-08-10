@@ -7,22 +7,20 @@ Before you start this module have you learned about:
   * //[[:tr:ta:vol1:checking:level2|Checking Level Two – External Check]]//
   * //[[:tr:ta:vol1:checking:clear|Clear Translation]]//
 
-==== A Natural Translation ====
+==== Doğal Çeviri ====
 
-To translate the Bible so that it is NATURAL means that: 
+Kutsal Kitap’ı DOĞAL bir biçimde çevirmek şu demektir:
 
-The translation should sound like it was written by a member of the target language community—not by a foreigner.
+Çeviri metni, yabancı değil hedef dil toplumuna mensup biri tarafından yazılmış metin gibi görünmelidir.
 
-To check a translation for naturalness, it is not helpful to compare it to the source language. During this check for naturalness, no one should look at the source language Bible. People will look at the source language Bible again for other checks, such as the check for accuracy, but not during this check.
+Bir çevirinin doğallığını yoklamak için onu kaynak dille karşılaştırmak yararlı değildir. Bu doğallık yoklaması sırasında kimse kaynak dildeki Kutsal Kitap’a bakmamalı. Doğruluk yoklaması gibi başka yoklamalar sırasında kaynak dildeki Kutsal Kitap’a bakılacak, ama bu yoklama sırasında bakılmayacak.
 
-To check a translation for naturalness, you or another member of the language community must read it out loud. You can read it to one other person who speaks the target language or to a group of people. Before you start reading, tell the people listening that you want them to stop you when they her something that does not sound like the way someone from your language community would say it. When someone stops you, then you can discuss together how someone would say that same thing in a more natural way.
+Bir çevirinin doğallığını yoklamak için sizin veya başka dil toplumuna mensup olan başka bir kişinin çeviriyi yüksek sesle okuması gerekir. Hedef dilde konuşan başka bir kişiye ya da bir grup insana okuyabilirsiniz. Okumaya başlamadan önce sizi dinleyen kişilere, dillerinde konuşan birinin söylediğine benzemeyen bir şey duyduklarında sizi durdurmalarını istediğinizi söyleyin. Biri sizi durdurduğu zaman, insanların aynı şeyi daha doğal bir şekilde nasıl söyleyeceklerini birlikte tartışabilirsiniz.
 
-It is helpful to think about a situation in your village in which people would talk about the same kind of thing that the translation is talking about. Imagine people that you know talking about that thing, and then say it out loud in that way. If others agree that that is a good and natural way to say it, then write it that way in the translation.
-
-
+Köyünüzde insanların çevirinizdekine benzer bir durumda ne söylediklerini düşünmekte yarar olabilir. Tanıdığınız insanların bu durumda ne söyleyebileceklerini tasavvur edin ve o sözleri yüksek sesle söyleyin. Başkaları bunun iyi ve doğal olduğunu kabul ederlerse, bu sözleri çeviride yazacaksınız.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:checking:acceptable|Acceptable Style]]//
-  * //[[tr:ta:vol1:translate:guidelines_natural|Create Natural Translations]]//
-  * //[[tr:ta:vol1:checking:language_community_check|Language Community Check]]//
 
+  * //[[:tr:ta:vol1:checking:acceptable|Acceptable Style]]//
+  * //[[:tr:ta:vol1:translate:guidelines_natural|Create Natural Translations]]//
+  * //[[:tr:ta:vol1:checking:language_community_check|Language Community Check]]//
