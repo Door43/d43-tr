@@ -8,17 +8,18 @@ Before you start this module have you learned about:
   * //[[:tr:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]//
   * //[[:tr:ta:vol1:translate:translate_form|The Importance of Form]]//
 
-==== Levels of Meaning ====
+==== Anlam Seviyeleri ====
 
-A good translation requires that the meaning be the same in the target language as in the source language.
+İyi bir çeviri kaynak dilde ve hedef dilde anlamın aynı olmasının gerektirir.
 
-There are many different levels of meaning in the Bible. These levels include: 
-  * Meaning of words
-  * Meaning of phrases
-  * Meaning of sentences
-  * Meaning of paragraphs
-  * Meaning of chapters
-  * Meaning of books
+Kutsal Kitap’ta birçok değişik anlam seviyesi bulunuyor. Bu seviyelere şunlar dahildir:
+
+  * Sözcüklerin anlamı
+  * İfadelerin anlamı
+  * Cümlelerin anlamı
+  * Paragrafların anlamı
+  * Bölümlerin anlamı
+  * Kitapların anlamı
 
 ==== Words Have Meaning ====
 
