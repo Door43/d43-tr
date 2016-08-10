@@ -25,20 +25,13 @@ Kutsal Kitap’ta birçok değişik anlam seviyesi bulunuyor. Bu seviyelere şun
 
 Yani en küçük birim olan sözcüğün anlamı var. Fakat bu anlam, sözcüğün içinde bulunduğu bağlam ile belirlenir. Örneğin, «vermek» gibi basit bir sözcüğün bağlama dayalı olarak aşağıdaki anlamları olabilir:
 
-  *
-hediye sunmak
-  *
-kırılmak
-  *
-teslim etmek
-  *
-vazgeçmek
-  *
-kabullenmek
-  *
-sağlamak
-  *
-vs.
+  * hediye sunmak
+  * kırılmak
+  * teslim etmek
+  * vazgeçmek
+  * kabullenmek
+  * sağlamak
+  * vs.
 
 ==== Building the Larger Meaning ====
 
