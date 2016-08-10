@@ -7,13 +7,13 @@ Before you start this module have you learned about:
   * //[[:tr:ta:vol1:translate:translate_process|The Translation Process]]//
   * //[[:tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
 
-==== Original Language is the most Accurate ====
+==== Orijinal Dil en Doğrudur ====
 
-The original language is the language in which a Bible text was initially written. The original language of the New Testament is Greek. The original language of most of the Old Testament is Hebrew. However, the original language of some parts of the books of Daniel and Ezra is Aramaic. The original language is always the most accurate language from which to translate a passage.
+Orijinal Dil, Kutsal Kitap metninin ilk olarak yazılmış olduğu dildir. Yeni Ahit’in orijinal dili Yunancadır. Eski Ahit’in büyük kısmının orijinal dili İbranicedir. Ancak Daniel ve Ezra kitaplarının bazı bölümleri Aramice yazılmıştır. Orijinal dil her zaman çevirinin yapılacağı için en doğru dildir.
 
-The source Language is the language from which the translation is being made. If a translator is translating the Bible from the original languages, then the original language and the source language for his translation are the same. However, only people who have spent many years studying the original languages understand them and can use them as a source language. For that reason, most translators use Bibles that have been translated into a language of wider communication as their source language text. 
+Kaynak Dil, çeviri hangi dilden yapılıyorsa o dildir. Çevirmen Kutsal Kitap’ı orijinal dillerden çeviriyorsa, çevirisinin orijinal dili ve kaynak dili aynıdır. Fakat kaynak olarak orijinal dillerden Kutsal Kitap’ı çevirmek için o dilleri yıllarca öğrenmek gerektir. Bu yüzden çevirmenlerin çoğu Kutsal Kitap’ın geniş iletişim diline çevirilerini kaynak dildeki metinleri olarak kullanırlar.
 
-If you are translating from a language of wider communication, it is a good idea to have someone who has studied the original languages compare the meaning in the target language translation with the meaning in the original language to make sure that the meaning is the same. Another way to make sure that the meaning of the target language translation is accurate is to check the translation with translation helps that have been written by people who know the original languages. These would include Bible commentaries and dictionaries, as well as the unfoldingWord Translation Notes, Important Terms definitions, and Translation Questions with their answers.
+Eğer siz Kutsal Kitap’ı geniş iletişim dilinden çeviriyorsanız, hedef dildeki anlamları orijinal dillerdeki anlamlarla karşılaştırıp uygun olduğunu yoklaması için orijinal dilleri öğrenen birine yoklatmak iyi olur. Hedef dildeki anlamların doğru olduğundan emin olmanın başka bir yolu, çeviriyi orijinal dili bilen kişiler tarafından yazılmış çeviriye dair yardımcı kaynaklarla yoklamaktır. Bu kaynaklar Kutsal Kitap yorum ve sözlüklerini, ayrıca unfoldingWord Çeviri Notları, Önemli Terimlerin tanımlamaları ve Çeviri Soruları ile cevaplarını içermektedir.
 
 ==== Orijinal Dil en Doğrudur ====
 
