@@ -1,11 +1,12 @@
-===== Checking Level Three - Authenticated Check =====
+===== 3. Seviyede Yoklama - Doğrulanmış Yoklama =====
 
-This module answers the question: //How do I do a level 3 check?//
+This module answers the question: //3. seviye yoklamasını nasıl yapmalıyım?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:checking:intro_levels|Introduction to the Checking Levels]]//
-  * //[[tr:ta:vol1:checking:level2|Checking Level Two – External Check]]//
-  * //[[tr:ta:vol1:checking:accuracy_check|Accuracy Check]]//
+
+  * //[[:tr:ta:vol1:checking:intro_levels|Introduction to the Checking Levels]]//
+  * //[[:tr:ta:vol1:checking:level2|Checking Level Two – External Check]]//
+  * //[[:tr:ta:vol1:checking:accuracy_check|Accuracy Check]]//
 
 ==== Checking Level 3 ====
 
