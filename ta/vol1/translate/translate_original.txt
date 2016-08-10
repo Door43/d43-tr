@@ -15,15 +15,15 @@ Kaynak Dil, çeviri hangi dilden yapılıyorsa o dildir. Çevirmen Kutsal Kitap�
 
 Eğer siz Kutsal Kitap’ı geniş iletişim dilinden çeviriyorsanız, hedef dildeki anlamları orijinal dillerdeki anlamlarla karşılaştırıp uygun olduğunu yoklaması için orijinal dilleri öğrenen birine yoklatmak iyi olur. Hedef dildeki anlamların doğru olduğundan emin olmanın başka bir yolu, çeviriyi orijinal dili bilen kişiler tarafından yazılmış çeviriye dair yardımcı kaynaklarla yoklamaktır. Bu kaynaklar Kutsal Kitap yorum ve sözlüklerini, ayrıca unfoldingWord Çeviri Notları, Önemli Terimlerin tanımlamaları ve Çeviri Soruları ile cevaplarını içermektedir.
 
-==== Orijinal Dil en Doğrudur ====
+==== Kaynak Dil Doğru Olmayabilir ====
 
-Orijinal Dil, Kutsal Kitap metninin ilk olarak yazılmış olduğu dildir. Yeni Ahit’in orijinal dili Yunancadır. Eski Ahit’in büyük kısmının orijinal dili İbranicedir. Ancak Daniel ve Ezra kitaplarının bazı bölümleri Aramice yazılmıştır. Orijinal dil her zaman çevirinin yapılacağı için en doğru dildir.
+Çevirmen orijinal dili anlamıyorsa kaynak dil olarak geniş iletişim dilini kullanması gerekecek. Kaynak metindeki anlamların n derecede doğru olması, bu metnin orijinalden ne kadar titizlikle çevrilmiş olmasına bağlıdır. Her nasılsa bu bir çeviridir, dolayısıyla orijinalden bir adım uzak durur ve tamamen aynı olamaz. Hatta bazen kaynak metin orijinalden değil başka bir çeviriden çevrilmiş ve böylece orijinalden iki adım uzaklaşmış olabilir.
 
-Kaynak Dil, çeviri hangi dilden yapılıyorsa o dildir. Çevirmen Kutsal Kitap’ı orijinal dillerden çeviriyorsa, çevirisinin orijinal dili ve kaynak dili aynıdır. Fakat kaynak olarak orijinal dillerden Kutsal Kitap’ı çevirmek için o dilleri yıllarca öğrenmek gerektir. Bu yüzden çevirmenlerin çoğu Kutsal Kitap’ın geniş iletişim diline çevirilerini kaynak dildeki metinleri olarak kullanırlar.
+Şu örneği düşünün. Bir çevirmen yeni bir hedef dile çeviri için Yeni Ahit’in Svahili diline çevirisini kaynak olarak kabul eder. Fakat onun kullandığı Svahili Kutsal Kitap versiyonu aslında orijinal Yunancadan değil İngilizce çevirisinden yapılmış bir çeviridir. Bu durumda orijinalden hedef dillere geçen çeviriler zincirinde bazı anlamların değişmiş olduğu olasıdır.
 
-{{:en:ta:ol2sl2sl2tl_small_600-174.png?nolink&600x174}}
+{{  :en:ta:ol2sl2sl2tl_small_600-174.png?nolink&600x174  }}
 
-Eğer siz Kutsal Kitap’ı geniş iletişim dilinden çeviriyorsanız, hedef dildeki anlamları orijinal dillerdeki anlamlarla karşılaştırıp uygun olduğunu yoklaması için orijinal dilleri öğrenen birine yoklatmak iyi olur. Hedef dildeki anlamların doğru olduğundan emin olmanın başka bir yolu, çeviriyi orijinal dili bilen kişiler tarafından yazılmış çeviriye dair yardımcı kaynaklarla yoklamaktır. Bu kaynaklar Kutsal Kitap yorum ve sözlüklerini, ayrıca unfoldingWord Çeviri Notları, Önemli Terimlerin tanımlamaları ve Çeviri Soruları ile cevaplarını içermektedir.
+Çevirinin olabildiğince doğru olduğundan emin olmanın tek yolu yeni yapılan çevirinin orijinal dillerle karşılaştırılmasıdır. Bu mümkün değilse, kaynak metinler olarak ULB ve UDB versiyonlarını ve Kutsal Kitap’ın orijinal dillerden yapılmış olan diğer çevrilerini kullanın.
 
 Next we recommend you learn about:
 
