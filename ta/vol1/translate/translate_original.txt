@@ -15,21 +15,20 @@ The source Language is the language from which the translation is being made. If
 
 If you are translating from a language of wider communication, it is a good idea to have someone who has studied the original languages compare the meaning in the target language translation with the meaning in the original language to make sure that the meaning is the same. Another way to make sure that the meaning of the target language translation is accurate is to check the translation with translation helps that have been written by people who know the original languages. These would include Bible commentaries and dictionaries, as well as the unfoldingWord Translation Notes, Important Terms definitions, and Translation Questions with their answers.
 
-==== Source Language may not be Accurate ====
+==== Orijinal Dil en Doğrudur ====
 
-If the translator does not understand the original language, he will have to use a language of wider communication as a source language. The meaning in the source may be correct, depending on how carefully it was translated from the original. But it is still a translation, so it is a step away from the original and is not quite the same. In some cases, the source may have actually been translated from another source, rather than from the original, putting it two steps away from the original.
+Orijinal Dil, Kutsal Kitap metninin ilk olarak yazılmış olduğu dildir. Yeni Ahit’in orijinal dili Yunancadır. Eski Ahit’in büyük kısmının orijinal dili İbranicedir. Ancak Daniel ve Ezra kitaplarının bazı bölümleri Aramice yazılmıştır. Orijinal dil her zaman çevirinin yapılacağı için en doğru dildir.
 
-Consider the example below. A translator uses a Swahili New Testament as the source for a new target language translation. However, the particular Swahili Bible version he is using was actually translated from English — not directly from the Greek (the original language). So it is possible that some of the meaning has changed in the chain of translation from the original to the target languages. 
+Kaynak Dil, çeviri hangi dilden yapılıyorsa o dildir. Çevirmen Kutsal Kitap’ı orijinal dillerden çeviriyorsa, çevirisinin orijinal dili ve kaynak dili aynıdır. Fakat kaynak olarak orijinal dillerden Kutsal Kitap’ı çevirmek için o dilleri yıllarca öğrenmek gerektir. Bu yüzden çevirmenlerin çoğu Kutsal Kitap’ın geniş iletişim diline çevirilerini kaynak dildeki metinleri olarak kullanırlar.
+
 {{:en:ta:ol2sl2sl2tl_small_600-174.png?nolink&600x174}}
 
-The only way to make sure the translation is as accurate as possible is to compare the new translation with the original languages. Where this is not possible, use the ULB and UDB as source texts, along with other Bible translations that were translated from the original languages. 
-
-
+Eğer siz Kutsal Kitap’ı geniş iletişim dilinden çeviriyorsanız, hedef dildeki anlamları orijinal dillerdeki anlamlarla karşılaştırıp uygun olduğunu yoklaması için orijinal dilleri öğrenen birine yoklatmak iyi olur. Hedef dildeki anlamların doğru olduğundan emin olmanın başka bir yolu, çeviriyi orijinal dili bilen kişiler tarafından yazılmış çeviriye dair yardımcı kaynaklarla yoklamaktır. Bu kaynaklar Kutsal Kitap yorum ve sözlüklerini, ayrıca unfoldingWord Çeviri Notları, Önemli Terimlerin tanımlamaları ve Çeviri Soruları ile cevaplarını içermektedir.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:translate_manuscripts|Original Manuscripts]]//
-  * //[[tr:ta:vol1:translate:translate_terms|Terms to Know]]//
-  * //[[tr:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]//
-  * //[[tr:ta:vol1:translate:translate_literal|Literal Translations]]//
-  * //[[tr:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]//
 
+  * //[[:tr:ta:vol1:translate:translate_manuscripts|Original Manuscripts]]//
+  * //[[:tr:ta:vol1:translate:translate_terms|Terms to Know]]//
+  * //[[:tr:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]//
+  * //[[:tr:ta:vol1:translate:translate_literal|Literal Translations]]//
+  * //[[:tr:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]//
