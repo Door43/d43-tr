@@ -16,26 +16,24 @@ Türkçe gibi dillerde tek kişiye «sen», çok kişiye [[:tr:ta:vol1:translate
 
 Dikkat edin, birçok dilde belirli 2. şahıs formunu kullanma kararı, «sen» ya da «siz» zamiri kullanmadığı zaman bile ilgili fiili etkiler (örneğin emir verildiği zaman.)
 
-==== Examples from the Bible ====
+==== Kutsal Kitap’tan Örnekler ====
 
->//He said, “I have observed all these things from my youth up.” When Jesus heard this, he said to him, “__You__ still lack one thing. Sell everything __you__ have and give to the poor, and __you__ will have treasure in heaven. Then come, follow me.”// -Luke 18:21, 22
+>//«İsa bunu duyunca ona, “Hâlâ bir eksiğin var” dedi. “Neyin varsa hepsini sat, parasını yoksullara dağıt; böylece göklerde hazinen olur. Sonra gel, beni izle.”»// (Luka 18:21-22)
 
-Note that even though English does not have singular and plural forms of ‘you’, the context indicates that this word ‘you’ here only refers to one person. The man had just told Jesus “__I__ have observed these things” and Jesus responded with “you”, referring only to that one man.
+Burada 2. şahsın tekil olduğu bağlamdan anlaşılıyor, çünkü o adam İsa’ya biraz önce «Bunların hepsini yerine getiriyorum» demişti. İsa’nın müracaat ettiği kişi tek olduğu için «sen» biçimi kullanılmalı.
 
->//Then the angel said to him, “Put on __your__ clothes and sandals.” And Peter did so. “Wrap __your__ cloak around __you__ and follow me,” the angel told him.// -Acts 12:8
+>//«Melek ona, “Kuşağını bağla, çarıklarını giy” dedi. Petrus da söyleneni yaptı. “Abanı giy, beni izle” dedi melek.»// (Elçilerin İşleri 12:8)
 
-The context makes it clear that the angel is addressing one person, so the singular form of “you” would be used here in languages that make that distinction. The verbs “put on“ and “wrap” would also need the singular form.
+Meleğin tek kişiye müracaat ettiği, bağlamdan anlaşılıyor, dolayısıyla burada da tekil biçim kullanılacak. «Bağla», «giy» ve «izle» fiilleri de tekil biçimde olacak.
 
->//To Titus, my true son in our common faith…The reason I left __you__ in Crete was that __you__ might straighten out what was left unfinished and appoint elders in every town, as I directed __you__….__You__ must teach what is in accord with sound doctrine.”// -Titus 1:2,5; 2:1
+>//«Ortak imanımıza göre öz oğlum olan Titus’a... Geri kalan işleri düzene sokman ve sana buyurduğum gibi her kentte ihtiyarlar ataman için __seni__ Girit’te bıraktım... Sana gelince, sağlam öğretiye uygun olanı öğret.»// (Titus 1:4-5; 2:1)
 
-Sometimes instruction is addressed to only one person, so the singular form of “you“ would be used. The context will make that clear. This often happens in a letter. 
+Bazen öğreti tek kişiye verilir ve tekil biçim («sen») kullanılır. Bu da bağlam ile anlaşılır. Mektuplarda sık sık bunu görürüz.
 
-Also watch the video for the [[http://youtu.be/cPtjzJ2Advk|computer]] (http://youtu.be/cPtjzJ2Advk) or the [[http://youtu.be/AVITfDEk8nc|tablet/phone]] (http://youtu.be/AVITfDEk8nc).\\ 
-
-
+Ayrıca [[http://youtu.be/cPtjzJ2Advk|bilgisayarda]] şu videoyu ([[http://youtu.be/cPtjzJ2Advk|http://youtu.be/cPtjzJ2Advk]]) ya da [[http://youtu.be/AVITfDEk8nc|tablet/telefonda]] şu videoyu ([[http://youtu.be/AVITfDEk8nc|http://youtu.be/AVITfDEk8nc]]) izleyebilirsiniz.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:figs_you|Forms of You]]//
-  * //[[tr:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]//
-  * //[[tr:ta:vol1:translate:figs_order|Word Order]]//
 
+  * //[[:tr:ta:vol1:translate:figs_you|Forms of You]]//
+  * //[[:tr:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]//
+  * //[[:tr:ta:vol1:translate:figs_order|Word Order]]//
