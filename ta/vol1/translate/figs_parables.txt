@@ -18,7 +18,7 @@ Meseller ya da eğitici öykülerin olabildiğince orijinale yakın çevrilmesi 
 
 Meseller kişilerin adlarını nadiren içerir (Bu, meseli gerçek olaydan ayırt etmenize yardım edebilir.)
 
-(Bkz: [[:en:ta:vol1:translate:figs_simile|Simile]], [[:en:ta:vol1:translate:figs_metaphor|Metaphor]], [[:en:ta:vol1:translate:figs_hypo|Hypothetical Situations]])
+(Bkz: [[:tr:ta:vol1:translate:figs_simile|Simile]], [[:tr:ta:vol1:translate:figs_metaphor|Metaphor]], [[:tr:ta:vol1:translate:figs_hypo|Hypothetical Situations]])
 
 ==== Kutsal Kitap’tan Örnekler ====
 
