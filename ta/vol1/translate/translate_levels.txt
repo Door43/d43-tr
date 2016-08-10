@@ -33,13 +33,11 @@ Yani en küçük birim olan sözcüğün anlamı var. Fakat bu anlam, sözcüğ�
   * sağlamak
   * vs.
 
-==== Building the Larger Meaning ====
+==== Daha Büyük Anlamı Oluşturma ====
 
-The translator must determine what each word means in the context, and then reproduce the same meaning in the translated text. These words then combine into phrases, sentences, paragraphs, etc. Therefore, the translator must also make sure that the words fit together into equivalent phrases, sentences, paragraphs, etc. so that the translated text has the same meaning on each level.
-
-
+Çevirmenin her sözcüğün belirli bağlamda ne anlama geldiğini belirlemesi ve o anlamı çeviri metnine aktarması gerekir. Ondan sonra sözcükler birleşerek ifadeleri, cümleleri, paragrafları vs. oluşturur. Dolayısıyla, çevrilen metnin her seviyede aynı anlama gelmesi için çevirmenin birleşen sözcüklerin aynı anlama gelen ifadeleri, cümleleri, paragrafları vs. oluşturacak şekilde kullanıldığından emin olması gerekir.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:translate_literal|Literal Translations]]//
-  * //[[tr:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]//
 
+  * //[[:tr:ta:vol1:translate:translate_literal|Literal Translations]]//
+  * //[[:tr:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]//
