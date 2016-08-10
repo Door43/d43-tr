@@ -25,15 +25,12 @@ Kullandığımız üç seviyeli yoklama ölçeği şunlara dayalıdır: unfoldin
   * [[:tr:ta:vol1:checking:level2|2. Seviyede Yoklama: Toplum Tarafından Doğrulanma]]
   * [[:tr:ta:vol1:checking:level3|3. Seviyede Yoklama: Kilise Liderliği Tarafından Doğrulanma]]
 
-==== Checking the Checkers ====
+==== Yoklayanların Yoklanması ====
 
-The process and checking framework described in this document depends on an ongoing process of checking and revising content, as determined by the Church that uses the content. Feedback loops are encouraged (and modeled in translation software, where feasible) with a view to maximizing input from the greatest number of users of the content. The translations of the content are made available on the ([[http://door43.org]]) translation platform, which is designed to make it easy for users to collaboratively create content that increases in quality over time.
-
-
-
+Bu belgede açıklanan prosedür ve yoklama sistemi, içeriği kullanan Kilise tarafından belirlenen devamlı içeriği yoklama ve revize etme sürecine dayalıdır. İçeriğin kullanıcılarının katkılarını olabildiğince artırmak amacıyla geribildirimler teşvik edilir (ve mümkün olduğu kadar çeviri yazılımında örneklendirilir). İçeriğin çevirileri, kullanıcıların işbirliği ile zamanla kalitesi artan içeriğin yaratılmasını kolaylaştıracak ([[http://door43.org|http://door43.org]]) çeviri platformunda bulundurulur.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:checking:intro_levels|Introduction to the Checking Levels]]//
-  * //[[tr:ta:vol1:checking:level1|Checking Level One – Translation Team Check]]//
-  * //[[tr:ta:vol1:translate:translate_source_version|Source Texts and Version Numbers]]//
 
+  * //[[:tr:ta:vol1:checking:intro_levels|Introduction to the Checking Levels]]//
+  * //[[:tr:ta:vol1:checking:level1|Checking Level One – Translation Team Check]]//
+  * //[[:tr:ta:vol1:translate:translate_source_version|Source Texts and Version Numbers]]//
