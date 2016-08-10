@@ -4,13 +4,13 @@ This module answers the question: //2. şahsın tekil olduğunu nasıl bileceği
 
 Before you start this module have you learned about:
 
-==== Forms of "You" in the Bible ====
+==== Kutsal Kitap’ta 2. Şahıs Biçimleri ====
 
-The Bible was first written in the Hebrew and Greek languages. These languages both have a singular form of you and a plural form of you. Therefore we know when each "you" in the Bible should be [[tr:ta:vol1:translate:figs_yousingular|'singular']] or plural. But even when reading the Bible in a language that does not have distinct singular and plural forms of "you," the context will often make it clear whether the word “you” is intended to refer to one person, to two people, or to more than two people. If the target language has a dual form of "you" that is used for speaking to only two people, the translator will need to decide from the context when it is appropriate to use this form.
+Kutsal Kitap’ın orijinali İbranice ve Yunanca yazılmıştır. Bu dillerin ikisinde 2. Şahsın tekil [[:tr:ta:vol1:translate:figs_yousingular|«sen»]] ve çoğul «siz» biçimleri vardır. Fakat «sen» ve «siz» arasında ayrım yapmayan bir dilde Kutsal Kitap’ı okurken bile bu zamirin bir, iki ya da çok kişiye ait olduğu genel olarak bağlamdan anlaşılabilir. Hedef dilde «siz» zamirinin sadece iki kişiye ait olarak kullanılan ikil biçimi bulunduğu takdirde çevirmen bu biçimi ne zaman kullanacağını bağlama göre belirleyecektir.
 
-Some languages, like English, have only one word for ‘you’ regardless of how many people are being spoken to. English speakers can refer to one person as ‘you’ or to many people as ‘you.’ Often the context will make it clear as to whether the word ‘you’ refers to one person or more than one.  Looking at the other pronouns in the sentence will help you distinguish the number of people who are being spoken to.
+İngilizce gibi bazı dillerde 2. şahısta tek, iki ya da çok kişiye ait olarak aynı «you» zamiri kullanılıyor. «You» zamirinin tek yahut çok kişiye ait olarak kullanıldığı çoğu zaman bağlamdan anlaşılır. Cümledeki diğer zamirlere bakmak, konuşulan kişilerin sayısını belirlemenize yardımcı olacak.
 
-Some languages have more than one word for ‘you’ depending on how many people are being spoken to. If they are speaking to one person, they use the ‘singular’ form of ‘you’. If they are speaking to more than one person, they use the [[tr:ta:vol1:translate:figs_youdual|‘plural’]] form of ‘you.’  Some languages have a [[tr:ta:vol1:translate:figs_youdual|‘dual’]] form for speaking to two people and some have other forms for speaking to three or four people.
+Türkçe gibi dillerde tek kişiye «sen», çok kişiye [[:tr:ta:vol1:translate:figs_youdual|«siz»]] diye müracaat edilir. Bazı dillerde iki kişiye müracaat için [[:tr:ta:vol1:translate:figs_youdual|«ikil»]] biçim mevcuttur («ikiniz»), hatta bazı dillerde üç ve dört kişiye müracaat için kullanılan biçimler de bulunmaktadır.
 
 ==== Translation Suggestions ====
 
