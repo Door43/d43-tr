@@ -1,9 +1,10 @@
-===== Introduction to the Checking Levels =====
+===== Yoklama Seviyelerinin Tanıtımı =====
 
-This module answers the question: //How do the checking levels work?//
+This module answers the question: //Yoklama seviyeleri nasıl çalışır?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:checking:intro_checking|Introduction to Translation Checking]]//
+
+  * //[[:tr:ta:vol1:checking:intro_checking|Introduction to Translation Checking]]//
 
 ==== How Checking Levels Work ====
 
