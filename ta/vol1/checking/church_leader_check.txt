@@ -1,9 +1,10 @@
-===== Church Leader Check =====
+===== Kilise Lideri Tarafından Yoklanma =====
 
-This module answers the question: //How can the church leaders help improve the translation?//
+This module answers the question: //Kilise liderleri çeviriyi geliştirmeye nasıl yardım edebilirler?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:checking:level2|Checking Level Two – External Check]]//
+
+  * //[[:tr:ta:vol1:checking:level2|Checking Level Two – External Check]]//
 
 ==== How to do a Church Leader Check ====
 
