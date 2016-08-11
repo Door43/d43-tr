@@ -1,6 +1,6 @@
-===== 3. Seviyede Yoklama - Doğrulanmış Yoklama =====
+===== Çevirinin Doğruluğunu Yoklama =====
 
-This module answers the question: //3. seviye yoklamasını nasıl yapmalıyım?​//
+This module answers the question: //Çevirinin doğruluğunu nasıl yoklayabilirim?​//
 
 Before you start this module have you learned about:
 
