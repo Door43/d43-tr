@@ -1,11 +1,12 @@
-===== Accuracy Check =====
+===== 3. Seviyede Yoklama - Doğrulanmış Yoklama =====
 
-This module answers the question: //How can I do an accuracy check?//
+This module answers the question: //3. seviye yoklamasını nasıl yapmalıyım?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:checking:level1|Checking Level One – Translation Team Check]]//
-  * //[[tr:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]//
-  * //[[tr:ta:vol1:checking:important_term_check|Important Term Check]]//
+
+  * //[[:tr:ta:vol1:checking:level1|Checking Level One – Translation Team Check]]//
+  * //[[:tr:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]//
+  * //[[:tr:ta:vol1:checking:important_term_check|Important Term Check]]//
 
 ==== Checking the Translation for Accuracy ====
 
