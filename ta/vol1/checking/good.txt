@@ -6,39 +6,37 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:checking:complete|Complete Translation]]//
 
-==== Proper Documentation for Level Two Affirmation ====
+==== 2. Seviye Doğrulanma için Uygun Belgeleme ====
 
-We, as church leaders in our language community, affirm the following: 
+Biz, dil toplumumuzdaki kilise liderleri olarak, aşağıdakileri doğruluyoruz:
 
-  - The translation conforms to the Statement of Faith and Translation Guidelines.
-  - The translation is accurate and clear in the target language.
-  - The translation uses an acceptable style of the language.
-  - The translation uses an appropriate alphabet and system of spelling.
-  - The community approves of the translation.
-  - The community evaluation form has been completed
+  - Çeviri, İman Beyanı’na ve Çeviri Kuralları’na uymaktadır.
+  - Çeviri, hedef dilde doğru ve açıktır.
+  - Çeviride uygun bir dil üslubu kullanılmaktadır.
+  - Çeviride uygun bir alfabe ve yazı sistemi kullanılmaktadır.
+  - Toplum çeviriyi onaylamaktadır.
+  - Toplum değerlendirme formu doldurulmuştur
 
-If there are any remaining problems, make a note of them here for the attention of the Level Three Checkers. 
+Çözülmemiş problemler kalıyorsa, onları 3. seviyede yoklayanların dikkatine sunmak için burada not edin.
 
-Names and positions of the level 2 checkers:
+2. seviyede yoklayanların adları ve görevleri:
 
-  * Name:
-    * Position:
-  * Name:
-    * Position:
-  * Name:
-    * Position:
-  * Name:
-    * Position:
-  * Name:
-    * Position:
-  * Name:
-    * Position:
+  * Ad:
+      * Görev:
+  * Ad:
+      * Görev:
+  * Ad:
+      * Görev:
+  * Ad:
+      * Görev:
+  * Ad:
+      * Görev:
+  * Ad:
+      * Görev:
 
-After filling out this form, you will need to [[tr:ta:vol1:process:publishing_process|request to publish]] so that your translation can be published at checking level 2.     
-
-
+Bu formu doldurduktan sonra, çevirinizin yoklamanın 2. seviyesinde yayınlanabilmesi için yayınlama talebinde bulunmanız gerekir.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:checking:self_assessment|Self-Assessment Rubric]]//
-  * //[[tr:ta:vol1:checking:level3|Checking Level Three - Authenticated Check]]//
 
+  * //[[:tr:ta:vol1:checking:self_assessment|Self-Assessment Rubric]]//
+  * //[[:tr:ta:vol1:checking:level3|Checking Level Three - Authenticated Check]]//
