@@ -1,9 +1,10 @@
-===== Clear Translation =====
+===== Açık Çeviri =====
 
-This module answers the question: //How can I tell if the translation is clear?//
+This module answers the question: //Çevirinin açık olduğunu nasıl fark edebilirim?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:checking:level2|Checking Level Two – External Check]]//
+
+  * //[[:tr:ta:vol1:checking:level2|Checking Level Two – External Check]]//
 
 ==== A Clear Translation ====
 
