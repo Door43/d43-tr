@@ -1,10 +1,11 @@
-===== Peer Check =====
+===== Çevirinin Meslektaşlar Tarafından Yoklanması =====
 
-This module answers the question: //How can others help me check my work?//
+This module answers the question: //Başkaları işimi yoklamama nasıl yardım edebilirler?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:checking:level1|Checking Level One – Translation Team Check]]//
-  * //[[tr:ta:vol1:checking:self_check|Self Check]]//
+
+  * //[[:tr:ta:vol1:checking:level1|Checking Level One – Translation Team Check]]//
+  * //[[:tr:ta:vol1:checking:self_check|Self Check]]//
 
 ==== How to do a Peer Check ====
 
