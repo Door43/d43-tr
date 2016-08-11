@@ -7,14 +7,12 @@ Before you start this module have you learned about:
   * //[[:tr:ta:vol1:checking:level1|Checking Level One – Translation Team Check]]//
   * //[[:tr:ta:vol1:checking:self_check|Self Check]]//
 
-==== How to do a Peer Check ====
+==== Çevirinin Meslektaşlar Tarafından Yoklanması nasıl yapılır? ====
 
-   * Give your translation to a member of the translation team who did not work on this passage. Have that person go through all of the same steps of the Self Check, making note of any places that need fixing.
-   * Review the translation together and fix those places.
-   * Read the revised translation out loud to this person and fix anything that does not sound like it is the way that someone from your community would say it.
-
-
+  * Çevirinizi, çeviri takımınızda bu pasajın üzerinde çalışmamış birine verin. O kişinin bütün Kendini Yoklama adımlarını geçmesini ve düzeltilmesi gereken herhangi yeri not etmesini sağlayın.
+  * Çeviriyi birlikte tekrar gözden geçirin ve o yerleri düzeltin.
+  * Revize edilmiş çeviriyi o kişiye yüksek sesle okuyun ve toplumunuzdan birinin söyleyebileceğine benzemeyen herhangi yerleri düzeltin.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:checking:important_term_check|Important Term Check]]//
 
+  * //[[:tr:ta:vol1:checking:important_term_check|Important Term Check]]//
