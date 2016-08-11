@@ -1,9 +1,10 @@
-===== Level 2 Affirmation =====
+===== 2. Seviye Doğrulanma =====
 
-This module answers the question: //How can church leaders affirm that the translation is good?//
+This module answers the question: //Kilise liderleri çevirinin iyi olduğunu nasıl doğrulayabilirler?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:checking:complete|Complete Translation]]//
+
+  * //[[:tr:ta:vol1:checking:complete|Complete Translation]]//
 
 ==== Proper Documentation for Level Two Affirmation ====
 
