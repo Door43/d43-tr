@@ -8,52 +8,49 @@ Before you start this module have you learned about:
   * //[[:tr:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]//
   * //[[:tr:ta:vol1:checking:important_term_check|Important Term Check]]//
 
-==== Checking the Translation for Accuracy ====
+==== Çevirinin Doğruluğunu Yoklama ====
 
-The purpose of this section is to make sure that the new translation is accurate. In other words, when compared with the source translation, does the new translation communicate the same meaning (not necessarily with the same wording or the exact order)? 
+Bu bölümün amacı, yeni çevirinin doğru olduğundan emin olmaktır. Başka bir deyişle, yeni çeviri kaynak çeviriyle karşılaştırıldığında aynı anlamı iletiyor mu (kullanılan sözcüklerin ya da söz sırasının aynı olması zorunlu değil)?
 
-=== Level One ===
+=== 1. Seviye ===
 
-The people who do the Level One accuracy check can be members of the translation team, but they should __not__ be the same people who translated the story or Bible passage that they are checking. They can also be members of the community who are not part of the translation team. They should be speakers of the language of the translation, be respected in the community, and, if possible, know the Bible well in the language of wider communication. The purpose of this step is to make sure that the translation accurately communicates the meaning of the original story or Bible passage. The checkers will be helping the translation team think about the best way to translate the meaning of the story or Bible passage in their own language. There can be one person who checks a story or Bible passage, or more than one. Having more than one person checking a story or passage can be helpful, because often different checkers will notice different things. 
+1. Seviyede doğruluğu yoklayan kişiler çeviri takımı üyesi olabilirler, ancak yokladıkları öyküyü veya Kutsal Kitap pasajını çevirmiş kişiler olmamaları gerekir. Ayrıca çeviri takımı üyesi olmayan toplum mensupları olabilirler. Çeviri dilinin anadil taşıyıcıları, toplumda itibar kazanmış ve mümkünse Kutsal Kitap’ı geniş iletişim dilinde çok iyi bilen kişiler olmaları gerekir. Bu adımın amacı, çevirinin orijinal öykünün ya da Kutsal Kitap pasajının anlamını doğru ilettiğinden emin olmaktır. Yoklayanlar çeviri takımına öykünün veya Kutsal Kitap pasajının anlamını kendi dillerine çevirmenin en iyi yolunu bulmasına yardım edecekler. Öyküyü ya da Kutsal Kitap’ı yoklayan bir veya birkaç kişi olabilir. Öykünün ya da pasajın birkaç kişi tarafından yoklanması faydalı olabilir, çünkü ayrı kişiler çoğu zaman ayrı şeyleri fark ederler.
 
-=== Levels Two and Three ===
+=== 2. ve 3. Seviyeler ===
 
-The people who do the Level Two or Level Three accuracy check should not be members of the translation team. They should be church leaders who speak the language of the translation and who know the Bible well in the source language. It is true that the language community members who checked the translation for naturalness and clarity were not allowed to look at the source while they were doing their checking. But for accuracy testing, the new translation //must be compared with the source text, or with the source in the original biblical languages//.
+2. Seviyede ve 3. Seviyede çevirinin doğruluğunu yoklayan kişiler, çeviri takımının üyeleri olmamalıdırlar. Çevirinin dilinde konuşan ve Kutsal Kitap’ı kaynak dilde çok iyi bilen kilise liderleri olmalıdırlar. Doğrudur ki, çeviriyi doğallık ve açıklık bakımından yoklayan dil toplum mensuplarının çeviriyi yoklarken kaynak metne bakmalarına izin verilmezdi. //Fakat çevirinin doğruluğunu denemek için yeni çeviri kaynak metin veya orijinal Kutsal Kitap dillerindeki kaynak ile karşılaştırılmalıdır.//
+=== Tüm Seviyeler ===
 
-=== All Levels ===
+Yoklayan kişilerin şu adımları atmaları gerekir:
 
-The people doing the checking should follow these steps:
+1. Yoklayan kişilerden her biri çeviriyi okumalı (ya da ses kaydını dinlemeli) ve onu geniş iletişim dilinde orijinal Kutsal Kitap pasajı veya öykü ile karşılaştırmalıdırlar. Çevirmeyi yoklayan kişi kaynak Kutsal Kitap’tan birini veya birkaçını izlerken çevirmenin ona çeviriyi yüksek sesle okuması faydalı olabilir. Yoklayan kişi çeviriyi okurken (ya da ses kaydını dinlerken) ve kaynak metinle karşılaştırırken şu genel soruları aklında tutması gerekir:
 
-1. Each of the checkers should read the translation (or listen to the recording) by himself, comparing it to the original Bible passage or story in the language of wider communication. It can be helpful for the translator to read the translation out loud to the checker while the checker follows along looking at the source Bible or Bibles. As the checker reads (or listens to) the translation and compares it to the source, he should keep in mind these general questions:
+  * Çeviri, orijinal anlama bir şey ekler mi?
+  * Anlamın herhangi bir parçası çeviride atlatılmış mıdır?
+  * Çeviride anlam herhangi bir şekilde değişti mi?
 
-  * Does the translation add anything to the original meaning?
-  * Is there any part of the meaning that is left out of the translation?
-  * Has the translation changed the meaning in any way?
+Bu sorular ayrıca çeviride yanlış bir şeyin bulunması için faydalı olabilir.
 
-These questions can also be helpful for finding anything that might be inaccurate in the translation:
+  * Kaynak dil çevirisinde anlatılan her şey aynen yeni (yerel dile) çeviri metninde de anlatılmış mıdır? (Yeni çevirinin anlamı, kaynak çevirinin bildirisini (kullanılan sözcüklerini değil) aktarmış mıdır? Sözcüklerin veya kavramların düzenlenmesi bazen kaynak dildekinden farklı olur; böyle daha iyi görünür ve aynen doğru olur.)
+  * Her öyküde tanıtılan kişiler kaynak dil çevirisinde bahsedilenlerle aynı şeyleri yaparlar mı? (Yeni çeviriyi kaynak dil ile karşılaştırırken kimin ne yaptığını görmek kolay mıydı?)
+  * Yeni çeviride kullanılan ve kaynak versiyonundaki anlamına uymayan Önemli Terimler var mıdır? (Şu şeyleri düşünün: Sizin halkınız, kâhin (Tanrı’ya kurban sunan) ya da tapınak (Yahudilerin kurban yeri) hakkında konuşurken ne der? Kaynak dildeki sözü ödünç almaksızın kullanabileceği bir terim var mı?)
+  * Yeni çeviride kullanılan ifadeler kaynak çevirinin daha zor ifadelerinin anlaşılması bakımından faydalı mıdır? (Yeni çevirinin ifadelerinin düzenlenmesi  daha iyi anlaşılmasını sağlamakla beraber kaynak dil çevirisinin anlamına uymakta mıdır?)
+  * Metnin doğru olup olmadığını belirlemenin başka yolu, çeviri hakkında «kim ne yaptı, ne zaman, nerede, nasıl ve neden yaptı» gibi kavrama soruları sormaktır. Buna yardım etmek amacıyla önceden hazırlanmış olan sorular vardır. [[:en:obs:notes:questions:home|Açık Kutsal Kitap Öyküleri sorularına]] ya da [[:en:bible:questions:comprehension:home|Kutsal Kitap sorularına]] tıklayın. Bu soruların cevapları, kaynak dil çevirisine sorulan soruların cevaplarının aynısı olmalıdır. Aksi hâlde çeviride bir sorun söz konusudur.
 
-  * Was everything that was mentioned in the source language translation also mentioned in the flow of the new (local) translation? (Did the meaning of the new translation follow the message (not necessarily the wording) of the source translation? Sometimes if the arrangement of words or the order of ideas is different than in the source translation, it sounds better that way and is still accurate.)
-  * Were the people introduced in each story doing the same things as those mentioned in the source language translation? (Was it easy to see who was doing the events of the new translation when it was compared to the source language?)
-  * Are there Important Terms used in the new translation that do not match your understanding of the words in the source version? (Think about things like this: How do your people talk about a priest (one who sacrifices to God) or a temple (the sacrifice place of the Jews) without using a word borrowed from the source language?)
-  * Are the phrases used in the new translation helpful in understanding the more difficult phrases of the source translation? (Are the phrases of the new translation put together in a way that brings better understanding and still fit with the meaning of the source language translation?)
-  * Another way to determine if the text is accurate is to ask comprehension questions about the translation, such as, “who did what, when, where, how, and why.” There are questions that have already been prepared to help with this. Click for [[:en:obs:notes:questions:home|Open Bible Stories questions]] or for [[:en:bible:questions:comprehension:home|Bible questions]]. The answers to those questions should be the same as the answers to those questions about the source language translation. If they are not, there is a problem in the translation.
+2. Yoklayan kişinin bir sorunun veya düzeltilebilecek bir yerin olabileceğini düşündüğü yerleri not etmesi gerekir. Her yoklayan kişi bu notları çeviri takımı ile görüşecek.
 
-2. The checker should make notes where he thinks there might be a problem or something to be improved. Each checker will discuss these notes with the translation team.
+3. Yoklayanların, bir Kutsal Kitap öyküsünü veya bölümünü bağımsız olarak yokladıktan sonra çevirmen ya da çeviri takımı ile buluşup Kutsal Kitap pasajını birlikte revize etmeleri gerekir. Yoklayanlar, her birinin not ettiği bir soruna ya da soruya geldikleri zaman sorularını sorabilir ya da düzeltme önerilerini sunabilirler. Yoklayan kişilerle çeviri takımı soru ve önerilerini görüşürken başka sorulardan ya da anlamı ifade etmenin yeni yollarından bahsedebilirler. Bu, iyidir. Yoklayan kişiler ve çeviri takımı işbirliği yaparken Tanrı onların öyküyü ya da Kutsal Kitap pasajının anlamını en iyi şekilde iletme yolunu keşfetmelerine yardım edecek.
 
-3. After the checkers have checked a Bible Story or chapter individually, they should all meet with the translator or translation team and review the story or Bible passage together. As they come to the places where each checker made note of a problem or question, the checkers can ask their questions or make suggestions for improvement. As the checkers and the translation team discuss the questions and suggestions, they might think of other questions or new ways of saying things. This is good. As the checkers and the translation team work together, God will help them discover the best way to communicate the meaning of the story or Bible passage. 
+4. Yoklayanlar ve çeviri takımı değiştirilecek yerlere dair karar verdikten sonra çeviri takımı çeviriyi revize edecek.
 
-4. After the checkers and the translation team have decided what they need to change, the translation team will revise the translation. 
+5. Çeviri takımı çeviriyi revize ettikten sonra onların dilinde doğal olduğundan emin olmak için çeviriyi birbirine ya da dil toplumu mensuplarına yüksek sesle okuyacaklar.
 
-5. After the translation team revises the translation, they should read it out loud to each other or to other members of the language community to make sure that it still sounds natural in their language. 
-
-6. The translator (or team) makes a note of any Bible passages that are still difficult to understand, and where they would like additional help from other Bible checkers. These notes will be used by the church leaders and checkers in levels two and three, so that they can help the translators understand the meaning and communicate it more clearly. 
-
-
+6. Çevirmen (ya da takım) hâlâ zor anlaşılan Kutsal Kitap ayetlerini ve başka Kutsal Kitap yoklayanlarından ek yardım isteyecekleri yerleri not edecekler. Bu notlar, 2. ve 3. seviyelerde kilise liderleri ve yoklayan kişiler tarafından kullanılacak; öyle ki, onlar çevirmenlerin anlamı kavramalarına ve daha açık şekilde iletmelerine yardım etsinler.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:checking:level2|Checking Level Two – External Check]]//
-  * //[[tr:ta:vol1:checking:language_community_check|Language Community Check]]//
-  * //[[tr:ta:vol1:checking:church_leader_check|Church Leader Check]]//
-  * //[[tr:ta:vol1:checking:other_methods|Other Methods]]//
-  * //[[tr:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]//
 
+  * //[[:tr:ta:vol1:checking:level2|Checking Level Two – External Check]]//
+  * //[[:tr:ta:vol1:checking:language_community_check|Language Community Check]]//
+  * //[[:tr:ta:vol1:checking:church_leader_check|Church Leader Check]]//
+  * //[[:tr:ta:vol1:checking:other_methods|Other Methods]]//
+  * //[[:tr:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]//
