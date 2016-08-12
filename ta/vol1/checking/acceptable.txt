@@ -1,11 +1,12 @@
-===== Acceptable Style =====
+===== Uygun Stil =====
 
-This module answers the question: //Did the translation team use an acceptable style?//
+This module answers the question: //Çeviri takımı uygun bir stil kullanmış mıdır?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:checking:clear|Clear Translation]]//
-  * //[[tr:ta:vol1:checking:natural|Natural Translation]]//
-  * //[[tr:ta:vol1:checking:church_leader_check|Church Leader Check]]//
+
+  * //[[:tr:ta:vol1:checking:clear|Clear Translation]]//
+  * //[[:tr:ta:vol1:checking:natural|Natural Translation]]//
+  * //[[:tr:ta:vol1:checking:church_leader_check|Church Leader Check]]//
 
 ==== Translation in an Acceptable Style ====
 
