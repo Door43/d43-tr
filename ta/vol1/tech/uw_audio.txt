@@ -1,9 +1,10 @@
-===== Use the Audio Feature in unfoldingWord =====
+===== unfoldingWord’ta Ses Fonksiyonunun Kullanılması =====
 
-This module answers the question: //How do I use the audio feature in unfoldingWord?//
+This module answers the question: //unfoldingWord’ta ses fonksiyonu nasıl kullanılır?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:tech:uw_app|unfoldingWord Mobile App]]//
+
+  * //[[:tr:ta:vol1:tech:uw_app|unfoldingWord Mobile App]]//
 
 ==== Audio in the uW App ====
 
