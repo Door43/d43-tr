@@ -8,93 +8,84 @@ Before you start this module have you learned about:
   * //[[:tr:ta:vol1:checking:church_leader_check|Church Leader Check]]//
   * //[[:tr:ta:vol1:checking:level3|Checking Level Three - Authenticated Check]]//
 
-==== Self-assessment of Translation Quality ====
+==== Çeviri Kalitesinin Çevirmen Tarafından Değerlendirilmesi ====
 
-The objective of this section is to describe a process by which the Church can reliably determine for themselves the quality of a translation. This following assessment is intended to suggest some of the most important techniques for checking a translation, rather than to describe every conceivable check that could be employed. Ultimately, the decision of what checks are used, when, and by whom should be made by the Church.
+Bu bölümün amacı, kilisenin güvenilir şekilde kendisi için çeviri kalitesini belirleyebileceği bir prosedürün açıklanmasıdır. Aşağıdaki prosedür, uygulanabilecek olan her yoklama yöntemini anlatmak yerine çeviri yoklamada en önemli becerileri önermeyi amaçlamaktadır. Sonunda hangi yoklama yöntemlerinin ne zaman ve kimler tarafından uygulanacağına dair kararı kilise verecektir.
 
-=== How to Use the Assessment ===
+=== Değerlendirme Nasıl Kullanılmalı ===
 
-This assessment method employs two types of statements. Some are “yes/no” statements where a negative response indicates a problem that must be resolved. Other sections use an equally-weighted method that provides translation teams and checkers with statements about the translation. Each statement should be scored by the person doing the check (beginning with the translation team) on a scale of 0-2:
+Bu değerlendirme yöntemi iki tür cümleleri kullanır. Bazısı, olumsuz karşılığın halledilecek olan bir sorunu belirttiği «evet/hayır» cümleleridir. Diğer kısımlarda, çeviri takımlarına ve yoklayanlara çeviri ile ilgili cümleler sunan eşit ölçüde ağırlıklı yöntem uygulanır. Yoklama yapan kişi (çeviri takımı ilk başta olmak üzere), her cümleye 0-2 ölçümü ile puan verir:
 
-**0** - disagree\\
-**1** - agree somewhat\\
-**2** - strongly agree
+**0** - katılmıyorum\\
+**1** - biraz katılıyorum\\
+**2** - tamamen katılıyorum
 
-At the end of the review, the total value of all responses in a section should be added up and, if the responses accurately reflect the state of the translation, this value will provide the reviewer with an approximation of the probability that the translated chapter is of excellent quality. The rubric is designed to be simple and provide the reviewer with an objective method to assess where the work needs improvement. //For example, if the translation scores relatively well in “Accuracy” but quite poorly in "Naturalness" and “Clarity,” then the translation team needs to do more community checking.//
+Tekrar gözden geçirmenin sonunda bir bölümdeki tüm karşılıkların tüm sayıları toplanacak ve -karşılıklar çevirinin durumunu doğru şekilde gösterdiği takdirde- bu toplam sayı, redaktöre çevrilen bölümün üstün kaliteyle yapılmış olma olasılığının ortalama tahminini sağlayacaktır. Kategoriler, redaktöre işin düzeltilecek yerlerinin değerlendirilmesi için objektif yöntem sağlayacak şekilde oldukça basit tasarlanmıştır. //Örneğin, çevirinin «doğruluk» üzere puanı yüksek, fakat «doğallık» ve «açıklık» üzere puanları alçak ise, çeviri takımının çeviriyi topluma daha çok yoklatmaları gerektiği anlaşılıyor.​//
 
-The rubric is intended to be used for each chapter of translated biblical content. The translation team should do an assessment of each chapter after they finish their other checks, and then the level 2 church checkers should do it again, and then the level 3 checkers should also assess the translation with this checklist. As more detailed and extensive checking of the chapter is performed by the Church at each level, the points for the chapter should be updated from each of the first four sections (overview, naturalness, clarity, accuracy), allowing the church and community to see how the translation is improving. 
+Kategoriler, çevrilen Kutsal Kitap içeriğinin her bölümü için kullanılmak üzere tasarlanmıştır. Çeviri takımı, diğer yoklamalarının ardından her bölümü değerlendirmeli, sonra 2. seviyede yoklayanlar bunu tekrar yapmalı ve 3. seviyede yoklayanlar çeviriyi bu kontrol liste ile değerlendirmelidirler. Söz konusu bölüm kilise tarafından her seviyede daha ayrıntıyla, derinlemesine yoklandıkça, ilk dört kategori (özet, doğallık, açıklık, doğruluk) üzere bölümün puanları güncelleştirilecek, öyle ki kilise ve toplum çevirinin nasıl düzeltildiğini görebilsinler.
 
-=== The Self-Assessment ===
+=== Çevirmen Tarafından Değerlendirilme ===
 
-The process is divided into five parts: the **overview** (information about the translation itself), **naturalness**, **clarity**, **accuracy**, and **Church approval**.
+Bu süreç beş kısma bölünmektedir: **özet ** (çevirinin kendisine dair bilgi), **doğallık**, **açıklık**, **doğruluk ** ve **kilise onayı**.
 
-**1. Overview**
+**1. Özet**
 
-//circle either "yes" or “no” for each statement below.// 
+//aşağıdaki cümlelerin doğru cevabını daire içine alın.​//
 
-**no | yes** This translation is a meaning-based translation that attempts to communicate the meaning of the original text in ways that are natural, clear, and accurate in the target language.\\
-**no | yes** Those involved in checking the translation are first-language speakers of the target language.\\
-**no | yes** The translation of this chapter is in agreement with the Statement of Faith.\\
-**no | yes** The translation of this chapter has been done in accordance with the Translation Guidelines.
+**hayır** **| ****evet ** Bu çeviri, orijinal metnin anlamını hedef dilde doğal, açık ve doğru bir biçimde iletmeyi amaçlayan anlama dayalı çeviridir.\\
+**hayır ****| ****evet **Çeviriyi yoklayanlar, hedef dilin anadil taşıyıcılarıdırlar.\\
+**hayır ****| ****evet ** Bu bölümün çevirisi İman Beyanı’na uygundur.\\
+**hayır**** | ****evet ** Bu bölümün çevirisi Çeviri Kuralları’na uygun olarak gerçekleştirilmiştir.
+**2. ****Doğallık**:// «bu **benim ** dilimdir»//
+Bu bölümün toplum tarafından daha çok yoklanması ile güçlendirilebilir. Bkz [[:tr:ta:vol1:checking:language_community_check|Dil Toplumu Tarafından Yoklanma]]
 
-**2. Naturalness**: //"this is **my** language"//
+**0 1 2** Bu dilde konuşanlardan bu bölümü duyan kişiler bunda kullanılan dil biçiminin düzgün olduğunu doğruluyorlar.\\
+**0 1 2** Bu dilde konuşanlar, bu bölümde kullanılan anahtar sözcüklerin bu kültüre uygun ve düzgün olduğunu doğruluyorlar.\\
+**0 1 2** Bu bölümdeki örnekler ya da öyküler bu dilde konuşan insanlar tarafından kolayca anlaşılıyor.\\
+**0 1 2** Bu dilde konuşanlar, bu bölümdeki cümle yapıları ve metnin düzeninin doğal ve akıcı olduğunu doğruluyorlar.\\
+**0 1 2** Bu bölümün çevirisinin doğallık bakımından tekrar gözden geçirilmesine bu bölümün çevirisine doğrudan katılmayan toplum mensupları katkıda bulunmuşlardır.\\
+**0 1 2** Bu bölümün çevirisinin doğallık bakımından yoklanmasına hem imanlı hem de imansız veya metni duymadan önce anlamını tahmin edemeyecek kadar Kutsal Kitap’ı az bilen imanlı kişiler katkıda bulunmuşlardır.\\
+**0 1 2** Bu bölümün çevirisinin doğallık bakımından tekrar gözden geçirilmesine birçok değişik yaş gruplarından olan dilin taşıyıcıları katkıda bulunmuşlardır.\\
+**0 1 2** Bu bölümün çevirisinin doğallık bakımından tekrar gözden geçirilmesine hem erkekler hem kadınlar katkıda bulunmuşlardır.
 
-This section can be strengthened through doing more community checking. See [[:tr:ta:vol1:checking:language_community_check]]
+**3. ****Açıklık**:// «anlam açık anlaşılıyor»//
+Bu bölüm toplum tarafından daha çok yoklanması ile güçlendirilebilir. Bkz [[:tr:ta:vol1:checking:language_community_check|Dil Toplumu Tarafından Yoklanma]]
 
-**0 1 2** Those who speak this language and have heard this chapter agree that it is translated using the correct form of the language.\\
-**0 1 2** Those who speak this language agree that the key words used in this chapter are acceptable and correct for this culture.\\
-**0 1 2** The illustrations or stories in this chapter are easy for people who speak this language to understand.\\
-**0 1 2** Those who speak this language agree that the sentence structure and order of the text in this chapter is natural and flows correctly.\\
-**0 1 2** The review of the translation of this chapter for naturalness included community members who have not been directly involved in creating the translation of this chapter.\\
-**0 1 2** The review of the translation of this chapter for naturalness included both believers and non-believers, or at least believers who are relatively unfamiliar with the Bible so that they do not know what the text is supposed to say before they hear it.\\
-**0 1 2** The review of the translation of this chapter for naturalness included speakers of the language from many different age groups.\\
-**0 1 2** The review of the translation of this chapter for naturalness included both men and women.
+**0 1 2** Bu bölümün çevirisinde dilin anadil taşıyıcılarının kolayca anlayabilecekleri dil kullanılmıştır.\\
+**0 1 2** Bu dilde konuşanlar, bu bölümdeki adların, yerlerin ve fiil zamanlarının çevirilerinin düzgün olduğunu doğruluyorlar.\\
+**0 1 2** Bu bölümdeki mecazlar bu kültürdeki insanlar tarafından anlaşılıyor.\\
+**0 1 2** Bu dilde konuşanlar, bu bölümün düzenlenişinin anlamı belirsizleştirmediğini doğruluyorlar.\\
+**0 1 2** Bu bölümün çevirisinin açıklık bakımından tekrar gözden geçirilmesine bu bölümün çevirisine doğrudan katılmayan toplum mensupları katkıda bulunmuşlardır.\\
+**0 1 2** Bu bölümün çevirisinin açıklık bakımından yoklanmasına hem imanlı hem de imansız veya metni duymadan önce anlamını tahmin edemeyecek kadar Kutsal Kitap’ı az bilen imanlı kişiler katkıda bulunmuşlardır.\\
+**0 1 2** Bu bölümün çevirisinin açıklık bakımından tekrar gözden geçirilmesine birçok değişik yaş gruplarından olan dilin taşıyıcıları katkıda bulunmuşlardır.\\
+**0 1 2** Bu bölümün çevirisinin açıklık bakımından tekrar gözden geçirilmesine hem erkekler hem kadınlar katkıda bulunmuşlardır.
 
-**3. Clarity**: //"the meaning is clear"//
+**4. ****Doğruluk**:// «çeviri orijinal kaynak metindeki anlamı iletmektedir»//
+Bu bölüm, doğruluk bakımından daha çok yoklanması ile güçlendirilebilir. Bkz [[:tr:ta:vol1:checking:accuracy_check|Çevirinin Doğruluğunu Yoklama]]
 
-This section can be strengthened through doing more community checking. See [[:tr:ta:vol1:checking:language_community_check]]
+**0 1 2** Bu bölümün kaynak metnindeki tüm önemli sözlerin tam listesi, tüm terimlerin çeviride bulunduğundan emin olmak amacıyla kullanılmıştır.\\
+**0 1 2** Bu bölümde tüm önemli sözler düzgün çevrilmiştir.\\
+**0 1 2** Bu bölümde, önemli sözlerin bulunduğu başka bölümlerde olduğu gibi, tüm önemli sözler uyumlu şekilde çevrilmiştir.\\
+**0 1 2** Olası çeviri güçlüklerinin belirlenmesi ve çözülmesi için bütün bölümde Notlar ve Çeviri Sözleri dahil olmak üzere yorumla ilgili kaynaklar kullanılmıştır.\\
+**0 1 2** Kaynak metindeki tarihsel bilgiler (adlar, yerler, olaylar gibi) çeviride aynen korunmuştur.\\
+**0 1 2** Çevrilen bölümdeki her mecazın anlamı, orijinalde kastedilen anlamla karşılaştırılmış ve ona uygun olarak çevrilmiştir.\\
+**0 1 2** Çeviri, çevirme işine katılmayan dilin anadil taşıyıcıları ile denenmiştir ve onlar kaynak metinde kastedilen anlamın çeviride doğru şekilde iletildiğini doğruluyorlar.\\
+**0 1 2** Bu bölümün çevirisi en az iki kaynak metinle karşılaştırılmıştır.\\
+**0 1 2** Bu bölümdeki herhangi anlamlar hakkındaki bütün sorular veya görüş ayrılıkları çözülmüştür.\\
+**0 1 2** Bu bölümün çevirisi orijinal (İbranice, Yunanca, Aramice) metinlerle karşılaştırılmış ve böylece orijinal metinlerin düzgün leksik tanımları ve anlamları yoklanmıştır.
 
-**0 1 2** This chapter is translated using language that native speakers of the language agree is easy to understand.\\
-**0 1 2** Speakers of this language agree that the translations of names, places, and verb tenses are all correct in this chapter.\\
-**0 1 2** Figures of speech in this chapter make sense for people in this culture.\\
-**0 1 2** Speakers of this language agree that the way this chapter is structured does not distract from the meaning.\\
-**0 1 2** The review of the translation of this chapter for clarity included community members who have not been directly involved in creating the translation of this chapter.\\
-**0 1 2** The review of the translation of this chapter for clarity included both believers and non-believers, or at least believers who are relatively unfamiliar with the Bible so that they do not know what the text is supposed to say before they hear it.\\
-**0 1 2** The review of the translation of this chapter for clarity included speakers of the language from many different age groups.\\
-**0 1 2** The review of the translation of this chapter for clarity included both men and women.
-
-**4. Accuracy**: //"the translation communicates what the original source text communicated"//
-
-This section can be strengthened through doing more accuracy checking. See [[:tr:ta:vol1:checking:accuracy_check]]
-
-**0 1 2** A complete list of all important words in the source text for this chapter has been used to help ensure all terms are present in the translation.\\
-**0 1 2** All important words are translated correctly in this chapter.\\
-**0 1 2** All important words are translated consistently in this chapter, as well as in other places where the important words appear.\\
-**0 1 2** Exegetical resources have been used for the entire chapter to identify and resolve potential translation challenges, including the Notes and Translation Words.\\
-**0 1 2** Historical details in the source text (like names, places, and events) have been preserved in the translation.\\
-**0 1 2** The meaning of each figure of speech in the translated chapter has been compared and aligned to the intent of the original.\\
-**0 1 2** The translation has been tested with native speakers who were not involved in creating the translation and they agree that the translation accurately communicates the intended meaning of the source text.\\
-**0 1 2** The translation of this chapter has been compared against at least two source texts.\\
-**0 1 2** All questions or disagreements about any of the meaning in this chapter have been resolved.\\
-**0 1 2** The translation of this chapter has been compared against the original texts (Hebrew, Greek, Aramaic) to check for correct lexical definitions and intent of the original texts.
-
-**5. Church approval**: //"the naturalness, clarity, and accuracy of the translation is approved by the Church that speaks that language"//
-
-**no | yes** Church leaders who have checked this translation are native speakers of the target language, and include someone who understands well one of the languages in which the source text is available.\\
-**no | yes** People from the language community, both men and women, old and young, have reviewed the translation of this chapter and agree that it is natural and clear. //(Note: this addresses the first part of the community check for Level 2.)// \\
-**no | yes** Church leaders from at least two different church networks have reviewed the translation of this chapter and agree that it is accurate. //(This addresses the final aspect of Level 2, the Church check).// \\
-**no | yes** The leadership or their delegates of at least two different church networks have reviewed the translation of this chapter and endorse it as a faithful translation of this chapter of the Bible in this language. //(This addresses Level 3.)// \\
-
-
-
-
+**5. ****Kilise onayı**: //«çevirinin doğallığı, açıklığı ve doğruluğu o dilde konuşan kilise tarafından onaylanmaktadır»//
+**hayır**  **| ****evet ** Bu çeviriyi yoklamış olan kilise liderleri hedef dilin anadil taşıyıcılarıdır ve onların arasında kaynak metin çevirilerinin dillerinden birini çok iyi anlayan kişi vardır.\\
+**hayır**  **| ****evet ** Dil toplumundaki insanlar, yaşlı ve genç olan erkekler ve kadınlar bu bölümün çevirisini kontrol ettiler ve onun doğal ve açık olduğunu doğruluyorlar. //(Not: bu, 2. Seviyede toplum tarafından yoklamanın birinci kısmına aittir.)​// \\
+**hayır**  **| ****evet ** En az iki ayrı kilise birliğini temsil eden kilise liderleri bu bölümün çevirisini kontrol etmişlerdir ve onun doğru olduğunu doğruluyorlar. //(Bu, 2. Seviyenin son yönü olan Kilise tarafından yoklanmaya aittir.)​// \\
+**hayır**  ** | ****evet ** En az iki ayrı kilise birliğinin liderleri veya onların temsilcileri bu bölümün çevirisini kontrol etmişlerdir ve onun Kutsal Kitap’ın söz konusu bölümünün bu dile doğru bir çevirisi olduğunu tasdik ediyorlar.// (Bu, 3. Seviyeye aittir.)​//
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:checking:good|Level 2 Affirmation]]//
-  * //[[tr:ta:vol1:checking:accuracy_check|Accuracy Check]]//
-  * //[[tr:ta:vol1:checking:language_community_check|Language Community Check]]//
-  * //[[tr:ta:vol1:checking:accurate|Accurate Translation]]//
-  * //[[tr:ta:vol1:checking:clear|Clear Translation]]//
-  * //[[tr:ta:vol1:checking:natural|Natural Translation]]//
-  * //[[tr:ta:vol1:checking:level3_questions|Questions for Checking on Level Three]]//
-  * //[[tr:ta:vol1:checking:level3_approval|Level 3 Approval]]//
 
+  * //[[:tr:ta:vol1:checking:good|Level 2 Affirmation]]//
+  * //[[:tr:ta:vol1:checking:accuracy_check|Accuracy Check]]//
+  * //[[:tr:ta:vol1:checking:language_community_check|Language Community Check]]//
+  * //[[:tr:ta:vol1:checking:accurate|Accurate Translation]]//
+  * //[[:tr:ta:vol1:checking:clear|Clear Translation]]//
+  * //[[:tr:ta:vol1:checking:natural|Natural Translation]]//
+  * //[[:tr:ta:vol1:checking:level3_questions|Questions for Checking on Level Three]]//
+  * //[[:tr:ta:vol1:checking:level3_approval|Level 3 Approval]]//
