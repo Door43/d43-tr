@@ -1,9 +1,10 @@
-===== Language Information =====
+===== Dil Hakkında Bilgiler =====
 
-This module answers the question: //How do I find language information?//
+This module answers the question: //Dil hakkında bilgileri nasıl bulabilirim?//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:tech:uw_app|unfoldingWord Mobile App]]//
+
+  * //[[:tr:ta:vol1:tech:uw_app|unfoldingWord Mobile App]]//
 
 ==== Finding My Language ===
 
