@@ -6,11 +6,11 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:checking:intro_levels|Introduction to the Checking Levels]]//
 
-==== Definition of Checking Level One ====
+==== 1. Seviyede Yoklamanın Tanımı ====
 
-Level One checking will be done primarily by the translation team, with some help from others in the language community. The translator or translation team should check their translation before they translate very many stories or chapters of the Bible, so that they can correct mistakes as early as possible in the translation process. Many of the steps in this process will need to be done several times before the translation is finished.
+1. Seviyede yoklama esasen çeviri takımı tarafından dil toplumundaki başka kişiler yardımı ile gerçekleştirilecek. Çevirmen veya çeviri takımı, hataları çeviri sürecinde olabildiğince erken düzeltebilmeleri için birçok öyküyü ya da Kutsal Kitap bölümünü çevirmeden önce çevirilerini yoklamalıdırlar. Bu süreçteki adımların çoğunun, çeviri tamamlanmadan önce birkaç kez yapılması gerekecek.
 
-For the purposes of the unfoldingWord project, translations of Bible texts and biblical content are able to be published after they reach Checking Level One. This enables the broadest reach of the content as an active project, with an open invitation to others in the language community (implied or direct) to help improve the translation. 
+UnfoldingWord projesinin amaçları için, Kutsal Kitap metinlerinin ve içeriğinin çevirileri, 1. Seviyede Yoklamaya ulaşmasından sonra yayınlanabilir. Bu, aktif bir proje olarak içeriğe olabildiğince geniş erişimi sağlar ve dil toplumundaki başka kişileri çeviriyi düzeltmeye açık şekilde davet eder (dolaylı ya da doğrudan).
 
 ==== Steps for checking under Level One: ====
 
