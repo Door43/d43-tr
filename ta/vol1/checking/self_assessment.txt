@@ -46,7 +46,12 @@ Bu bölümün toplum tarafından daha çok yoklanması ile güçlendirilebilir. 
 **0 1 2** Bu bölümün çevirisinin doğallık bakımından tekrar gözden geçirilmesine bu bölümün çevirisine doğrudan katılmayan toplum mensupları katkıda bulunmuşlardır.\\
 **0 1 2** Bu bölümün çevirisinin doğallık bakımından yoklanmasına hem imanlı hem de imansız veya metni duymadan önce anlamını tahmin edemeyecek kadar Kutsal Kitap’ı az bilen imanlı kişiler katkıda bulunmuşlardır.\\
 **0 1 2** Bu bölümün çevirisinin doğallık bakımından tekrar gözden geçirilmesine birçok değişik yaş gruplarından olan dilin taşıyıcıları katkıda bulunmuşlardır.\\
-**0 1 2** Bu bölümün çevirisinin doğallık bakımından tekrar gözden geçirilmesine hem erkekler hem kadınlar katkıda bulunmuşlardır. **3. ****Açıklık**:// «anlam açık anlaşılıyor»// Bu bölüm toplum tarafından daha çok yoklanması ile güçlendirilebilir. Bkz [[:tr:ta:vol1:checking:language_community_check|Dil Toplumu Tarafından Yoklanma]] **0 1 2** Bu bölümün çevirisinde dilin anadil taşıyıcılarının kolayca anlayabilecekleri dil kullanılmıştır.\\
+**0 1 2** Bu bölümün çevirisinin doğallık bakımından tekrar gözden geçirilmesine hem erkekler hem kadınlar katkıda bulunmuşlardır.
+
+**3. ****Açıklık**:// «anlam açık anlaşılıyor»//
+Bu bölüm toplum tarafından daha çok yoklanması ile güçlendirilebilir. Bkz [[:tr:ta:vol1:checking:language_community_check|Dil Toplumu Tarafından Yoklanma]]
+
+**0 1 2** Bu bölümün çevirisinde dilin anadil taşıyıcılarının kolayca anlayabilecekleri dil kullanılmıştır.\\
 **0 1 2** Bu dilde konuşanlar, bu bölümdeki adların, yerlerin ve fiil zamanlarının çevirilerinin düzgün olduğunu doğruluyorlar.\\
 **0 1 2** Bu bölümdeki mecazlar bu kültürdeki insanlar tarafından anlaşılıyor.\\
 **0 1 2** Bu dilde konuşanlar, bu bölümün düzenlenişinin anlamı belirsizleştirmediğini doğruluyorlar.\\
@@ -54,6 +59,7 @@ Bu bölümün toplum tarafından daha çok yoklanması ile güçlendirilebilir. 
 **0 1 2** Bu bölümün çevirisinin açıklık bakımından yoklanmasına hem imanlı hem de imansız veya metni duymadan önce anlamını tahmin edemeyecek kadar Kutsal Kitap’ı az bilen imanlı kişiler katkıda bulunmuşlardır.\\
 **0 1 2** Bu bölümün çevirisinin açıklık bakımından tekrar gözden geçirilmesine birçok değişik yaş gruplarından olan dilin taşıyıcıları katkıda bulunmuşlardır.\\
 **0 1 2** Bu bölümün çevirisinin açıklık bakımından tekrar gözden geçirilmesine hem erkekler hem kadınlar katkıda bulunmuşlardır.
+
 **4. ****Doğruluk**:// «çeviri orijinal kaynak metindeki anlamı iletmektedir»//
 Bu bölüm, doğruluk bakımından daha çok yoklanması ile güçlendirilebilir. Bkz [[:tr:ta:vol1:checking:accuracy_check|Çevirinin Doğruluğunu Yoklama]]
 
@@ -72,12 +78,14 @@ Bu bölüm, doğruluk bakımından daha çok yoklanması ile güçlendirilebilir
 **hayır** **| ****evet ** Bu çeviriyi yoklamış olan kilise liderleri hedef dilin anadil taşıyıcılarıdır ve onların arasında kaynak metin çevirilerinin dillerinden birini çok iyi anlayan kişi vardır.\\
 **hayır** **| ****evet ** Dil toplumundaki insanlar, yaşlı ve genç olan erkekler ve kadınlar bu bölümün çevirisini kontrol ettiler ve onun doğal ve açık olduğunu doğruluyorlar. //(Not: bu, 2. Seviyede toplum tarafından yoklamanın birinci kısmına aittir.)​// \\
 **hayır** **| ****evet ** En az iki ayrı kilise birliğini temsil eden kilise liderleri bu bölümün çevirisini kontrol etmişlerdir ve onun doğru olduğunu doğruluyorlar. //(Bu, 2. Seviyenin son yönü olan Kilise tarafından yoklanmaya aittir.)​// \\
-**hayır** ** | ****evet ** En az iki ayrı kilise birliğinin liderleri veya onların temsilcileri bu bölümün çevirisini kontrol etmişlerdir ve onun Kutsal Kitap’ın söz konusu bölümünün bu dile doğru bir çevirisi olduğunu tasdik ediyorlar.// (Bu, 3. Seviyeye aittir.)​// Next we recommend you learn about:
-   * //[[:tr:ta:vol1:checking:good|Level 2 Affirmation]]//
+**hayır** ** | ****evet ** En az iki ayrı kilise birliğinin liderleri veya onların temsilcileri bu bölümün çevirisini kontrol etmişlerdir ve onun Kutsal Kitap’ın söz konusu bölümünün bu dile doğru bir çevirisi olduğunu tasdik ediyorlar.// (Bu, 3. Seviyeye aittir.)​//
+Next we recommend you learn about:
+
+  * //[[:tr:ta:vol1:checking:good|Level 2 Affirmation]]//
   * //[[:tr:ta:vol1:checking:accuracy_check|Accuracy Check]]//
   * //[[:tr:ta:vol1:checking:language_community_check|Language Community Check]]//
   * //[[:tr:ta:vol1:checking:accurate|Accurate Translation]]//
   * //[[:tr:ta:vol1:checking:clear|Clear Translation]]//
   * //[[:tr:ta:vol1:checking:natural|Natural Translation]]//
   * //[[:tr:ta:vol1:checking:level3_questions|Questions for Checking on Level Three]]//
-  * //[[:tr:ta:vol1:checking:level3_approval|Level 3 Approval]]//
+//[[:tr:ta:vol1:checking:level3_approval|Level 3 Approval]]// [[:tr:ta:vol1:checking:level3_approval|​]]
