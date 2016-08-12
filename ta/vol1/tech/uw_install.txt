@@ -5,28 +5,25 @@ This module answers the question: //How do I install unfoldingWord on an Android
 Before you start this module have you learned about:
   * //[[tr:ta:vol1:tech:uw_app|unfoldingWord Mobile App]]//
 
-==== How to Install uW app ====
+==== uW Uygulamasının Kurulumu Nasıl Yapılır ====
 
-The instructions for installing unfoldingWord are below. You can also watch the __[[https://door43.org/_media/en/ta/tech/installing_translationstudio_-_android_v2.mp4|Install translationStudio]] (https://door43.org/_media/en/ta/tech/installing_translationstudio_-_android_v2.mp4)__ video to understand the process of selecting and installing an app on your device.
+unfoldingWord kurulum talimatı aşağıdadır. Uygulamayı seçip cihazınıza indirme ve kurma sürecini anlamak için ayrıca  __[[https://door43.org/_media/en/ta/tech/installing_translationstudio_-_android_v2.mp4|Install translationStudio]] ([[https://door43.org/_media/en/ta/tech/installing_translationstudio_-_android_v2.mp4|https://door43.org/_media/en/ta/tech/installing_translationstudio_-_android_v2.mp4]])__ videosunu izleyebilirsiniz.
 
-**Note:** Installing requires an Internet connection.
+**Not:** Kurulum internet bağlantısını gerektirir.
 
-   * Tap on the **Google Play Store **  icon on the Android device. Google Play Store opens.
-   * To search for the app, tap the magnifying glass at the top right of the window.
-   * Tap **Search Google Play**  and type unfoldingWord (do not use spaces).
-   * Tap the magnifying glass or close the keyboard.
-   * When the Play Store has found the program, tap on the **uW**  icon.
-   * Tap **Install**.
-   * Tap **Accept**  to use the default settings of the app.
-   * The app will download and then install. Once the program is installed, tap **Open**.
-
-
-
+   * Android cihazında **Google Play Store**  simgesine dokunun. Google Play Store açılacak.
+  * Uygulamayı aramak için pencerenin üst sağ köşesindeki büyütece dokunun.
+  * **Search Google Play’e**  dokunun ve unfoldingWord girin (boşluksuz).
+  * Büyütece dokunun veya klavyeyi kapatın.
+  * Play Store programı bulduktan sonra **uW**  simgesine dokunun.
+  * **Install’a ** dokunun.
+  * Uygulamanın varsayılan ayarlarını kabul etmek için **Accept’e**  dokunun.
+  * Uygulama cihaza indirilip kurulacaktır. Programın kurulumu bitince **Open’e**  dokunun.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:tech:uw_first|Use unfoldingWord for the First Time]]//
-  * //[[tr:ta:vol1:tech:uw_checking|About Checking Levels]]//
-  * //[[tr:ta:vol1:tech:uw_language|Language Information]]//
-  * //[[tr:ta:vol1:tech:uw_select|Select a Language]]//
-  * //[[tr:ta:vol1:tech:uw_audio|Use the Audio Feature in unfoldingWord]]//
 
+  * //[[:tr:ta:vol1:tech:uw_first|Use unfoldingWord for the First Time]]//
+  * //[[:tr:ta:vol1:tech:uw_checking|About Checking Levels]]//
+  * //[[:tr:ta:vol1:tech:uw_language|Language Information]]//
+  * //[[:tr:ta:vol1:tech:uw_select|Select a Language]]//
+  * //[[:tr:ta:vol1:tech:uw_audio|Use the Audio Feature in unfoldingWord]]//
