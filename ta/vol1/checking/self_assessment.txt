@@ -1,11 +1,12 @@
-===== Self-Assessment Rubric =====
+===== Çevirmen Tarafından Değerlendirilme Kategorisi =====
 
-This module answers the question: //How can I objectively assess the quality of the translation?//
+This module answers the question: //Çevirinin kalitesini objektif olarak nasıl değerlendirebilirim?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:checking:complete|Complete Translation]]//
-  * //[[tr:ta:vol1:checking:church_leader_check|Church Leader Check]]//
-  * //[[tr:ta:vol1:checking:level3|Checking Level Three - Authenticated Check]]//
+
+  * //[[:tr:ta:vol1:checking:complete|Complete Translation]]//
+  * //[[:tr:ta:vol1:checking:church_leader_check|Church Leader Check]]//
+  * //[[:tr:ta:vol1:checking:level3|Checking Level Three - Authenticated Check]]//
 
 ==== Self-assessment of Translation Quality ====
 
