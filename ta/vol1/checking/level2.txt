@@ -7,22 +7,19 @@ Before you start this module have you learned about:
   * //[[:tr:ta:vol1:checking:intro_levels|Introduction to the Checking Levels]]//
   * //[[:tr:ta:vol1:checking:accuracy_check|Accuracy Check]]//
 
-==== Definition of Checking Level Two ====
+==== 2. Seviyede Yoklamanın Tanımı ====
 
-The purpose of Level Two checking is to verify that representative groups from the local language community agree that the translation is a good one.
+2. Seviyede yoklamanın amacı, yerel dil toplumunun temsilci gruplarının çevirinin iyi olduğunu kabul ettiklerini doğrulamaktır.
 
-Level Two checking will be done in two ways:
+2. Seviyede yoklama iki yolla yapılacaktır:
 
-  - **Language Community Check**. The translation will be checked by members of the language community to make sure that it is clear, natural, and understandable. For the steps to follow to do the Language Community Check, click [[:tr:ta:vol1:checking:language_community_check|here]].
-  - **Church Leader Check**. The translation will be checked by a group of church leaders from the language community to make sure that it is accurate. For the steps to follow to do the Church Leader Check, click [[:tr:ta:vol1:checking:church_leader_check|here]].
-
-Once this has been done, this work needs to be [[tr:ta:vol1:checking:good|affirmed]]. 
-
-
+  - **Dil Toplumu Tarafından Yoklanma**. Çevirinin açık, doğal ve anlaşılan olduğundan emin olmak amacıyla çeviri, dil toplum mensupları tarafından yoklanacaktır. Dil Toplumu Tarafından Yoklanmayı yapmak için atılacak adımlar için [[:tr:ta:vol1:checking:language_community_check|buraya tıklayın]].
+  - **Kilise Lideri Tarafından Yoklanma**. Çevirinin doğru olduğundan emin olmak amacıyla çeviri, dil toplumuna mensup olan kilise liderleri tarafından yoklanacaktır. Kilise Lideri Tarafından Yoklanmayı yapmak için atılacak adımlar için [[:tr:ta:vol1:checking:church_leader_check|buraya tıklayın]].
+Bu yapıldıktan sonra işin [[:tr:ta:vol1:checking:good|doğrulanması]] gerekir.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:checking:language_community_check|Language Community Check]]//
-  * //[[tr:ta:vol1:checking:church_leader_check|Church Leader Check]]//
-  * //[[tr:ta:vol1:checking:self_assessment|Self-Assessment Rubric]]//
-  * //[[tr:ta:vol1:checking:good|Level 2 Affirmation]]//
 
+  * //[[:tr:ta:vol1:checking:language_community_check|Language Community Check]]//
+  * //[[:tr:ta:vol1:checking:church_leader_check|Church Leader Check]]//
+  * //[[:tr:ta:vol1:checking:self_assessment|Self-Assessment Rubric]]//
+  * //[[:tr:ta:vol1:checking:good|Level 2 Affirmation]]//
