@@ -8,19 +8,17 @@ Before you start this module have you learned about:
   * //[[:tr:ta:vol1:checking:natural|Natural Translation]]//
   * //[[:tr:ta:vol1:checking:church_leader_check|Church Leader Check]]//
 
-==== Translation in an Acceptable Style ====
+==== Uygun bir Stilde Yapılan Çeviri ====
 
-As you read the new translation, ask yourself these questions. These are questions that will help determine whether or not the translation has been done in a style that is acceptable to the language community: 
+Yeni çeviriyi okurken aşağıdaki soruları kendinize sorun. Bunlar, çevirinin dil toplumuna uygun olan bir stilde yapılıp yapılmadığını belirlemeye yardım edecek sorulardır.
 
-  - Is the translation written in a way that can be understood easily by both young and old members of the language community? (Whenever someone speaks, they can change their choice of words for either a younger or an older audience. Is this translation done using words that communicate well to both young and old people?
-  - Is the style of this translation more formal or informal? (Is the manner of speaking the way that the local community prefers, or should it be more or less formal?)
-  - Does the translation use too many words that were borrowed from another language, or are these words acceptable to the language community? 
-  - Did the writer use an appropriate form of the language acceptable to the wider language community? (Is the writer familiar with the dialects of your language found throughout the area? Did the writer use a form of the language that all of the language community understands well, or did he use a form that is used in only a small area?
+  - Çeviri, dil toplumundaki hem genç hem de yaşlı insanların kolayca anlayabilecekleri şekilde yazılmış mıdır? (Biri konuştuğu zaman daha genç yahut daha yaşlı dinleyiciye göre değişik sözcükleri kullanabilir. Bu çeviri hem genç hem de yaşlı insanlara mesajı iyi aktaracak bir şekilde yapılmış mıdır?)
+  - Bu çevirinin stili daha resmî midir yoksa gayriresmî midir? (Anlatım biçimi yerel toplumun tercih ettiği gibi midir yoksa daha çok ya da az resmî olması gerekir mi?)
+  - Çeviride başka dilden ödünç alınmış çok fazla sözcük kullanılıyor mu; yahut bu sözcükler dil toplumu tarafından kabul ediliyor mu?
+  - Yazar, daha geniş dil toplumu tarafından kabul edilen uygun bir dil biçimini kullanıyor mu? (Yazar dilinizin bölgede kullanılan lehçelerini biliyor mu? Yazarın kullandığı dil biçimi bütün dil toplumu, yoksa sadece bir kısmı tarafından iyi anlaşılıyor?)
 
-If there is a place where the translation uses language in the wrong style, make a note of that so that you can discuss it with the translation team. 
-
-
+Çevirinin dilinin yanlış bir stilde kullanıldığı bir yer bulunursa onu çeviri takımı ile tartışmak için not edin.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:checking:complete|Complete Translation]]//
 
+  * //[[:tr:ta:vol1:checking:complete|Complete Translation]]//
