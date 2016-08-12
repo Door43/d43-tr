@@ -12,25 +12,22 @@ Before you start this module have you learned about:
 
 UnfoldingWord projesinin amaçları için, Kutsal Kitap metinlerinin ve içeriğinin çevirileri, 1. Seviyede Yoklamaya ulaşmasından sonra yayınlanabilir. Bu, aktif bir proje olarak içeriğe olabildiğince geniş erişimi sağlar ve dil toplumundaki başka kişileri çeviriyi düzeltmeye açık şekilde davet eder (dolaylı ya da doğrudan).
 
-==== Steps for checking under Level One: ====
+==== 1. Seviyedeki yoklamanın adımları ====
 
-These are the steps that the translation team must follow in order to achieve Checking Level One:
-  - **Contact.**  Make contact with at least one element of the unfoldingWord network, notifying unfoldingWord that you intend to begin translation. To get information about how to do that, click [[tr:ta:vol1:intro:finding_answers|here]].
-  - **Review.**  Review the [[:tr:ta:vol1:intro:statement_of_faith]] and the [[:tr:ta:vol1:intro:translation_guidelines]].
-  - **Agree.**  Agree that the Statement of Faith is an accurate reflection of your own beliefs and that you intend to translate the content in harmony with it and also in accordance with the Translation Guidelines by signing the form [[https://unfoldingword.org/forms/|here]] (https://unfoldingword.org/forms).
-  - **Draft.**  Make a draft translation of some portions of the text. For instructions on how to make a draft translation, click [[:tr:ta:vol1:translate:first_draft|here.]]
-  - **Self Check**. For instructions on how to do a Self Check of your draft translation, click [[:tr:ta:vol1:checking:self_check|here.]]
-  - **Peer Check**. For instructions on how to do a Peer Check of your draft translation, click [[:tr:ta:vol1:checking:peer_check|here. ]]
-  - **Important Term Check**. For instructions on how to do an Important Term Check of your draft translation, click [[:tr:ta:vol1:checking:important_term_check|here. ]]
-  - **Accuracy Check**. For instructions on how to do an Accuracy Check of your draft translation, click [[:tr:ta:vol1:checking:accuracy_check|here. ]]
-  - **Affirmation**. Affirm that you, as a translation team or individual, have made full use of the Translation Notes, the definitions of Important Terms, and the other exegetical and translation checking resources in the translation process, and that you have followed the steps for checking under Level One. For instructions on how to affirm completion of Level One, click [[:tr:ta:vol1:checking:level1_affirm|here. ]]
+Bunlar, çeviri takımının 1. Seviyede Yoklamaya ulaşmak için atması gereken adımlardır:
 
-
-
-
+  - **İrtibat.**  unfoldingWord ağının hiç olmazsa bir ögesiyle irtibata geçerek çeviriye başlama niyetiniz hakkında unfoldingWord’u bilgilendirin. Bunu nasıl yapmamız konusunda bilgi edinmek için [[:tr:ta:vol1:intro:finding_answers|buraya tıklayın]].
+  - **Tekrar gözden geçirme. ** Şunları tekrar gözden geçirin [[:tr:ta:vol1:intro:statement_of_faith|Statement of Faith]] ve [[:tr:ta:vol1:intro:translation_guidelines|Çeviri Kuralları]].
+  - **Kabul.**  İman Beyanı’nın kendi inancınızı düzgün ifade ettiğini ve içeriği hem ona hem de Çeviri Kuralları’na uygun olarak yapmak niyetinde olduğunuzu şu formu imzalayarak kabul edin [[https://unfoldingword.org/forms/|here]] ([[https://unfoldingword.org/forms|https://unfoldingword.org/forms]]).
+  - **Taslak. ** Metnin bazı kısımlarının çeviri taslağını yaratın. Çeviri taslağının yaratılması ile ilgili talimatlar için [[:tr:ta:vol1:translate:first_draft|buraya tıklayın]].
+  - **Çevirinin Çevirmen Tarafından Yoklanması.**  Kendi çevirisini yoklamak ile ilgili talimatlar için [[:tr:ta:vol1:checking:self_check|buraya tıklayın.]]
+  - **Çevirinin Meslektaşlar Tarafından Yoklanması.**  Çevirinizin meslektaşlarınız tarafından yoklanması ile ilgili talimatlar için [[:tr:ta:vol1:checking:peer_check|buraya tıklayın.]]
+  - **Önemli Terimlerin Yoklanması. **Önemli terimlerin yoklanması ile ilgili talimatlar için [[:tr:ta:vol1:checking:important_term_check|buraya tıklayın.]]
+  - **Çevirinin Doğruluğunun Yoklanması. **Çevirinizin doğruluğunun yoklanması ile ilgili talimatlar için [[:tr:ta:vol1:checking:accuracy_check|buraya tıklayın.]]
+  - **Doğrulama. **Çeviri takımı ya da bir çevirmen olarak çeviri sürecinde Çeviri Notları’nı, Önemli Terimlerin tanımlarını, ayrıca yorum ve çeviri yoklama ile ilgili diğer kaynakları tam şekilde kullanmış ve 1. Seviyedeki yoklamanın adımlarını uygulamış olduğunuzu doğrulayın. 1. Seviyeyi tamamlamış olduğunuzu nasıl doğrulamakla ilgili talimatlar için [[:tr:ta:vol1:checking:level1_affirm|buraya tıklayın.]]
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:intro:statement_of_faith|Statement of Faith]]//
-  * //[[tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]]//
-  * //[[tr:ta:vol1:translate:first_draft|Make a First Draft]]//
-  * //[[tr:ta:vol1:checking:accuracy_check|Accuracy Check]]//
 
+  * //[[:tr:ta:vol1:intro:statement_of_faith|Statement of Faith]]//
+  * //[[:tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]]//
+  * //[[:tr:ta:vol1:translate:first_draft|Make a First Draft]]//
+  * //[[:tr:ta:vol1:checking:accuracy_check|Accuracy Check]]//
