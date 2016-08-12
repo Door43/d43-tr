@@ -1,9 +1,10 @@
-===== Questions for Checking on Level Three =====
+===== 3. Seviyede Yoklama İçin Sorular =====
 
-This module answers the question: //What do I look for in a level 3 check?//
+This module answers the question: //3. seviye yoklamasında ne aramalıyım?//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:checking:level3|Checking Level Three - Authenticated Check]]//
+
+  * //[[:tr:ta:vol1:checking:level3|Checking Level Three - Authenticated Check]]//
 
 ==== Questions for Level Three ====
 
