@@ -1,10 +1,11 @@
-===== Checking Level Two – External Check =====
+===== 2. Seviyede Yoklama - Dışarıdan Yoklanma =====
 
-This module answers the question: //How do I do a level 2 check?//
+This module answers the question: //2. seviye yoklamasını nasıl yapmalıyım?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:checking:intro_levels|Introduction to the Checking Levels]]//
-  * //[[tr:ta:vol1:checking:accuracy_check|Accuracy Check]]//
+
+  * //[[:tr:ta:vol1:checking:intro_levels|Introduction to the Checking Levels]]//
+  * //[[:tr:ta:vol1:checking:accuracy_check|Accuracy Check]]//
 
 ==== Definition of Checking Level Two ====
 
