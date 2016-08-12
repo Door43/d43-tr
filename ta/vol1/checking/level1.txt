@@ -10,7 +10,7 @@ Before you start this module have you learned about:
 
 1. Seviyede yoklama esasen çeviri takımı tarafından dil toplumundaki başka kişiler yardımı ile gerçekleştirilecek. Çevirmen veya çeviri takımı, hataları çeviri sürecinde olabildiğince erken düzeltebilmeleri için birçok öyküyü ya da Kutsal Kitap bölümünü çevirmeden önce çevirilerini yoklamalıdırlar. Bu süreçteki adımların çoğunun, çeviri tamamlanmadan önce birkaç kez yapılması gerekecek.
 
-UnfoldingWord projesinin amaçları için, Kutsal Kitap metinlerinin ve içeriğinin çevirileri, 1. Seviyede Yoklamaya ulaşmasından sonra yayınlanabilir. Bu, aktif bir proje olarak içeriğe olabildiğince geniş erişimi sağlar ve dil toplumundaki başka kişileri çeviriyi düzeltmeye açık şekilde davet eder (dolaylı ya da doğrudan).
+unfoldingWord projesinin amaçları için, Kutsal Kitap metinlerinin ve içeriğinin çevirileri, 1. Seviyede Yoklamaya ulaşmasından sonra yayınlanabilir. Bu, aktif bir proje olarak içeriğe olabildiğince geniş erişimi sağlar ve dil toplumundaki başka kişileri çeviriyi düzeltmeye açık şekilde davet eder (dolaylı ya da doğrudan).
 
 ==== 1. Seviyedeki yoklamanın adımları ====
 
