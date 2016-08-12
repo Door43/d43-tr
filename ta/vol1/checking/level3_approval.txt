@@ -10,7 +10,7 @@ Before you start this module have you learned about:
 
 ==== 3. Seviye Doğrulanma için Uygun Belgeleme ====
 
-Ben, __  __ dil toplumuna hizmet gösteren __  __ Kilise Birliğinin veya Kutsal Kitap Çeviri Kuruluşunun temsilcisi olarak, bu çeviriyi onaylıyor ve aşağıdakileri doğruluyorum:
+Ben, _______ dil toplumuna hizmet gösteren Kilise Birliğinin veya Kutsal Kitap Çeviri Kuruluşunun temsilcisi olarak, bu çeviriyi onaylıyor ve aşağıdakileri doğruluyorum:
 
   - Çeviri, İman Beyanı’na ve Çeviri Kuralları’na uymaktadır.
   - Çeviri, hedef dilde doğru ve açıktır.
@@ -19,8 +19,8 @@ Ben, __  __ dil toplumuna hizmet gösteren __  __ Kilise Birliğinin veya Kutsal
 
 Çeviri takımı ile ikinci kez görüştükten sonra herhangi çözülmemiş sorunlar kalırsa, lütfen onları burada not edin.
 
-İmza: __  ____ __
+İmza:
 
-Görev: __  ____ __
+Görev:
 
 Bu formu doldurduktan sonra, çevirinizin yoklamanın 3. seviyesinde yayınlanabilmesi için yayınlama talebinde bulunmanız gerekir.
