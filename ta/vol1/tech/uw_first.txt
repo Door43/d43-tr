@@ -7,9 +7,9 @@ Before you start this module have you learned about:
   * //[[:tr:ta:vol1:tech:uw_app|unfoldingWord Mobile App]]//
   * //[[:tr:ta:vol1:tech:uw_install|Install unfoldingWord on an Android Device]]//
 
-==== First-Time Use ====
+==== İlk Kez Kullanım ====
 
-The first time the unfoldingWord app opens on a device, it will open to the language selection page. Tap on the language you wish to view. The stories will open in that language. There are no other settings to change in this app.
+unfoldingWord uygulaması bir cihazda ilk kez açıldığında dil seçim sayfası açılır. Görüntülemek istediğiniz dile dokunun. Öyküler o dilde açılacak. Bu uygulamanın değiştirilebilecek başka ayarları yoktur.
 
 ==== Checking Levels ====
 
