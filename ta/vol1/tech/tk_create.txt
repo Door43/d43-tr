@@ -49,25 +49,22 @@ Bir sonraki pencerede, ekranın üst sağ köşesindeki “Edit Keyboard” (Kla
 
 Bu kutular, seçilen karakter, UTF veya Unicode seçeneği ile dolduruluncaya kadar başlangıçta boş olacaklar.
 
-==== Input the Symbols of the Desired Language in tK ====
+==== Karakterlerin veya İstenen Dilin tK’ye Girilmesi ====
 
-   * Pick the key to be edited by selecting it with the mouse button
-   * Select the Default and Shift characters desired or the corresponding UTF-8 or Unicode string for the character.
-   * Press “Save Changes”
-   * If additional characters are desired for that key
-      * Select the key again and press the “Longpress Character” key once for each additional character desired. You will not be able to enter characters into the long keys until the long key boxes are saved.
-      * Go back and enter the desired character or UTF-8 or Unicode string. 
-   * **Press “Save Changes”**
-   * Note: Unicode U+00xx usually translates to UTF-8 “xx”. For example: Unicode “U+0d38” is equal to UTF-8 “d38”. ADD: If you can find the correct unicode chart or symbol set for the language, you may be able to copy and paste symbols or codes from a Word document, Excel spreadsheet or Adobe PDF file into the keyboard keys in the "Edit" mode.
-
-
-
+  * Düzeltilecek tuşu fare düğmesiyle seçin
+  * İstenen Varsayılan veya Üst karakterleri ya da karakterin uygun UTF-8 veya Unicode dizgisini seçin.
+  * “Save Changes” (Değişiklikleri Kaydet) basın
+  * Söz konusu tuş için ek karakterler istenirse
+      * O tuşu tekrar seçin ve istenen her karakter için birer kez “Longpress Character” (Uzun Basılan Karakter) tuşunu basın. Uzun tuş kutuları kaydedilmeden önce uzun tuşlara karakter giremeyeceksiniz.
+      * Geri dönün ve istenen karakteri ya da UTF-8 veya Unicode dizgisini seçin.
+  * **“Save Changes” (Değişiklikleri Kaydet) basın**
+  * Not: Unicode U+00xx genelde UTF-8 “xx”e çevrilir. Örneğin: Unicode “U+0d38” eşittir UTF-8 “d38”. EK: Söz konusu dil için düzgün unicode çizgesini ya da simge takımını bulursanız, Word dosyası, Excel çizelgesi ya da Adobe PDF dosyasından simgeleri ya da kodları kopyalayıp klavye tuşlarına \"Edit\" (Düzenleme) modunda yapıştırabilirsiniz.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]//
-  * //[[tr:ta:vol1:tech:tk_start|Setting Up the translationKeyboard APP on an Android device]]//
-  * //[[tr:ta:vol1:tech:tk_use|How to Use the translationKeyboard in translationStudio]]//
-  * //[[tr:ta:vol1:tech:tk_enable|Enable translationKeyboard on an Android Device]]//
-  * //[[tr:ta:vol1:tech:tk_find|Select an Input Method]]//
-  * //[[tr:ta:vol1:tech:tk_update|Update translationKeyboard]]//
 
+  * //[[:tr:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]//
+  * //[[:tr:ta:vol1:tech:tk_start|Setting Up the translationKeyboard APP on an Android device]]//
+  * //[[:tr:ta:vol1:tech:tk_use|How to Use the translationKeyboard in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:tk_enable|Enable translationKeyboard on an Android Device]]//
+  * //[[:tr:ta:vol1:tech:tk_find|Select an Input Method]]//
+  * //[[:tr:ta:vol1:tech:tk_update|Update translationKeyboard]]//
