@@ -1,6 +1,6 @@
 ===== translationKeyboard =====
 
-This module answers the question: //What is the translationKeyboard App?//
+This module answers the question: //translationKeyboard uygulaması nedir?​//
 
 ==== What is tK ====
 
