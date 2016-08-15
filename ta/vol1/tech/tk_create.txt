@@ -1,9 +1,10 @@
-===== Create a Keyboard in tK =====
+===== tK’de Klavyenin Yaratılması =====
 
-This module answers the question: //How do I create a keyboard in tK?//
+This module answers the question: //tK’de klavye nasıl yaratılır?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:tech:tk_intro|translationKeyboard]]//
+
+  * //[[:tr:ta:vol1:tech:tk_intro|translationKeyboard]]//
 
 ==== Getting Started ====
 
