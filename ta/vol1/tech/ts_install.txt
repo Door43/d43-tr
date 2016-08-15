@@ -6,36 +6,34 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:tech:ts_intro|translationStudio]]//
 
-==== Installing tS ====
+==== tS’nin Kurulumu ====
 
-**Note:** This process requires an Internet connection.
-  - Tap on the **Google Play Store**  icon on the Android device. Google Play Store opens.
-  - To search for the app in the Play Store, tap on the magnifying glass at the top right of the window.
-  - Tap on the words **Search Google Play**  and type in translationStudio (do not use spaces).
-  - Tap the magnifying glass or close the keyboard.
-  - When the Play Store has found the program, tap the **tS**  icon.
-  - Tap **Install**  then tap **Accept**  to use the default settings of the program.
-  - The program will download and then install.
-  - The app will download and then install. Once the program is installed, tap **Open**.
+**Not:** Bu prosedür internet bağlantısını gerektirir.
 
-
-
+   - Android cihazında **Google Play Store ** simgesine dokunun. Google Play Store açılacak.
+  - Play Store’da uygulamayı aramak için pencerenin üst sağ köşesindeki büyütece dokunun.
+  - **Search Google Play**  sözlerine dokunun ve translationStudio’ya metni girin (boşluk bırakmayın).
+  - Büyütece dokunun veya klavyeyi kapatın.
+  - Play Store programını bulduktan sonra **tS ** simgesine dokunun.
+  - **Install’a ** dokunun sonra programın varsayılan ayarlarını kabul etmek için **Accept’e ** dokunun.
+  - Program cihaza indirilip kurulacaktır.
+  - Uygulama cihaza indirilip kurulacaktır. Programın kurulumu bitince **Open’e ** dokunun.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:tech:ts_intro|translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]//
-  * //[[tr:ta:vol1:tech:ts_select|Select Source and Target Languages]]//
-  * //[[tr:ta:vol1:tech:ts_open|Opening a Translation Project]]//
-  * //[[tr:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_request|Find my Language]]//
-  * //[[tr:ta:vol1:tech:ts_translate|Translating in translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_create|Create and Edit Text]]//
-  * //[[tr:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
-  * //[[tr:ta:vol1:tech:ts_upload|Upload Your Work]]//
-  * //[[tr:ta:vol1:tech:ts_update|Update translationStudio Projects]]//
-  * //[[tr:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]//
-  * //[[tr:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_problem|Report a Problem]]//
 
+  * //[[:tr:ta:vol1:tech:ts_intro|translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]//
+  * //[[:tr:ta:vol1:tech:ts_select|Select Source and Target Languages]]//
+  * //[[:tr:ta:vol1:tech:ts_open|Opening a Translation Project]]//
+  * //[[:tr:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_request|Find my Language]]//
+  * //[[:tr:ta:vol1:tech:ts_translate|Translating in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_create|Create and Edit Text]]//
+  * //[[:tr:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
+  * //[[:tr:ta:vol1:tech:ts_upload|Upload Your Work]]//
+  * //[[:tr:ta:vol1:tech:ts_update|Update translationStudio Projects]]//
+  * //[[:tr:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]//
+  * //[[:tr:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_problem|Report a Problem]]//
