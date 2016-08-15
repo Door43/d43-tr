@@ -23,9 +23,9 @@ Not: [[http://www.forum-intl.org/resources|Kutsal Kitap Kurumları Forumu’nun 
   * çevirinizi her zaman [[:tr:ta:vol1:intro:statement_of_faith|İman Beyanı’na]] uygun olarak yapın
   * daha iyi çeviri yapabilmeniz için [[:en:obs:notes|Çeviri Notları’nı]] ve [[:en:obe:ktobs|Önemli Terimler’i]] kullanın
 
-==== What To Start Translating ====
+==== Neyi Çevirmekten Başlayayım ====
 
-We recommend that you begin by translating Open Bible Stories. You can work your way through the Stories however you want, but we have found [[:en:obs:31|Story #31]] is a good first story to translate since it is short and easy to understand. For more information read [[tr:ta:vol1:translate:translate_what]].
+Açık Kutsal Kitap Öyküleri’ni çevirmekten başlamanızı tavsiye ederiz. Öyküleri istediğiniz sırayla çevirebilirsiniz, ancak bizim fikrimizce [[:en:obs:31|31. öykü kısa]] ve kolayca anlaşılır olduğu için onu birinci olarak çevirmek iyi olur. Daha fazla bilgi edinmek için okuyun: [[:tr:ta:vol1:translate:translate_what|What to Start Translating]].
 
 ==== Translate from the Source Language ====
 
