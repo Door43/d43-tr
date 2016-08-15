@@ -22,35 +22,31 @@ Gezinme ve menü simgeleri ekranın sol yanındadır. Üstteki üç simge çalı
 
 **Sürgü**, öyküden veya Kutsal Kitap’tan bir bölümden hızlıca geçmek için kullanılır. Noktaya dokunup parmağınızla tutun ve sürgünün alt veya üst yanına doğru çekin.
 
-==== Three Dots Menu ====
+==== Üç Nokta Menüsü ====
 
-Tap on the **three dots** to open the working menu. 
-  * My Translations [[tr:ta:vol1:tech:ts_open]]
-  * Publish [[tr:ta:vol1:tech:ts_publish]]
-  * Backup [[tr:ta:vol1:tech:ts_share]]
-  * Feedback or [[tr:ta:vol1:tech:ts_problem]]
-  * Settings
+Çalışma menüsünü açmak için **üç noktaya** dokunun.
 
-
-
-
-
+   * My Translations [[:tr:ta:vol1:tech:ts_open|Çeviri Projesinin Açılması]]
+  * Publish [[:tr:ta:vol1:tech:ts_publish|unfoldingWord’a İçeriğin Yayınlanması]]
+  * Backup [[:tr:ta:vol1:tech:ts_share|Backup and Share Your Work]]
+  * Feedback or [[:tr:ta:vol1:tech:ts_problem|Sorun Raporu]]
+  * Ayarlar
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:tech:ts_intro|translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
-  * //[[tr:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]//
-  * //[[tr:ta:vol1:tech:ts_select|Select Source and Target Languages]]//
-  * //[[tr:ta:vol1:tech:ts_open|Opening a Translation Project]]//
-  * //[[tr:ta:vol1:tech:ts_request|Find my Language]]//
-  * //[[tr:ta:vol1:tech:ts_translate|Translating in translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_create|Create and Edit Text]]//
-  * //[[tr:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
-  * //[[tr:ta:vol1:tech:ts_upload|Upload Your Work]]//
-  * //[[tr:ta:vol1:tech:ts_update|Update translationStudio Projects]]//
-  * //[[tr:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]//
-  * //[[tr:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_problem|Report a Problem]]//
 
+  * //[[:tr:ta:vol1:tech:ts_intro|translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
+  * //[[:tr:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]//
+  * //[[:tr:ta:vol1:tech:ts_select|Select Source and Target Languages]]//
+  * //[[:tr:ta:vol1:tech:ts_open|Opening a Translation Project]]//
+  * //[[:tr:ta:vol1:tech:ts_request|Find my Language]]//
+  * //[[:tr:ta:vol1:tech:ts_translate|Translating in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_create|Create and Edit Text]]//
+  * //[[:tr:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
+  * //[[:tr:ta:vol1:tech:ts_upload|Upload Your Work]]//
+  * //[[:tr:ta:vol1:tech:ts_update|Update translationStudio Projects]]//
+  * //[[:tr:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]//
+  * //[[:tr:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_problem|Report a Problem]]//
