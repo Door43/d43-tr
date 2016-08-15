@@ -2,27 +2,25 @@
 
 This module answers the question: //translationStudio uygulaması nedir?//
 
-==== Intro to the translationStudio App ====
+==== translationStudio uygulamasının tanıtımı ====
 
-The translationStudio mobile app is a mobile app where translators can do offline translating. It can be downloaded for [[https://play.google.com/store/apps/details?id=com.translationstudio.androidapp&hl=en|Android]] (https://play.google.com/store/apps/details?id=com.translationstudio.androidapp&hl=en) devices. It contains the content that needs to be translated as well as [[:tr:ta:vol1:translate:translate_help|translation helps]]. Information can be shared directly from device to device and finished content can be uploaded to Door43 and digitally published.
-
-
+translationStudio, çevirmenlerin çevrimdışı çeviri yapabilecekleri mobil uygulamasıdır.  [[https://play.google.com/store/apps/details?id=com.translationstudio.androidapp&hl=en|Android]] ([[https://play.google.com/store/apps/details?id=com.translationstudio.androidapp&hl=en|https://play.google.com/store/apps/details?id=com.translationstudio.androidapp&hl=en]]) cihazlarına indirilebilir. Çevrilmesi gereken içeriği ve [[:tr:ta:vol1:translate:translate_help|çeviriye dair yardımcı kaynakları]] içermektedir. Bilgiler doğrudan cihazdan cihaza paylaşılabilir ve tamamlanmış içerik Door43’e yüklenebilir ve dijital olarak yayınlanabilir.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
-  * //[[tr:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]//
-  * //[[tr:ta:vol1:tech:ts_select|Select Source and Target Languages]]//
-  * //[[tr:ta:vol1:tech:ts_open|Opening a Translation Project]]//
-  * //[[tr:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_request|Find my Language]]//
-  * //[[tr:ta:vol1:tech:ts_translate|Translating in translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_create|Create and Edit Text]]//
-  * //[[tr:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
-  * //[[tr:ta:vol1:tech:ts_upload|Upload Your Work]]//
-  * //[[tr:ta:vol1:tech:ts_update|Update translationStudio Projects]]//
-  * //[[tr:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]//
-  * //[[tr:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_problem|Report a Problem]]//
 
+  * //[[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
+  * //[[:tr:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]//
+  * //[[:tr:ta:vol1:tech:ts_select|Select Source and Target Languages]]//
+  * //[[:tr:ta:vol1:tech:ts_open|Opening a Translation Project]]//
+  * //[[:tr:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_request|Find my Language]]//
+  * //[[:tr:ta:vol1:tech:ts_translate|Translating in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_create|Create and Edit Text]]//
+  * //[[:tr:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
+  * //[[:tr:ta:vol1:tech:ts_upload|Upload Your Work]]//
+  * //[[:tr:ta:vol1:tech:ts_update|Update translationStudio Projects]]//
+  * //[[:tr:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]//
+  * //[[:tr:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_problem|Report a Problem]]//
