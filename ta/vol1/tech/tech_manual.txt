@@ -7,21 +7,20 @@ Before you start this module have you learned about:
   * //[[:tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]//
   * //[[:tr:ta:vol1:checking:intro_check|Introduction to the Checking Manual]]//
 
-==== The Technology Manual ====
+==== Teknoloji Kılavuzu ====
 
-Welcome to the Technology Manual! This manual will help you to understand and use the different technology tools that have been created by unfoldingWord. 
+Teknoloji Kılavuzuna hoş geldiniz! Bu kılavuz, unfoldingWord tarafından yaratılmış olan çeşitli teknoloji araçlarını anlayıp kullanmanıza yardım edecektir.
 
-Three sections are included in Volume 1 of the Technology Manual: 
-  * [[tr:ta:vol1:tech:tS_intro]]
-  * [[tr:ta:vol1:tech:tK_intro]]
-  * [[tr:ta:vol1:tech:uW_intro]]
+Teknoloji Kılavuzu’nun 1. Cildi şu bölümleri içermektedir:
 
-In these sections you will find practical helps for installing, navigating, sharing, and using these mobile apps. 
+  * [[:tr:ta:vol1:tech:ts_intro|translationStudio]]
+  * [[:tr:ta:vol1:tech:tk_intro|translationKeyboard]]
+  * [[:tr:ta:vol1:tech:uw_intro|uW_intro]]
 
-
+Bu bölümlerde bu mobil uygulamaları kurmak, kullanmak ve paylaşmak için pratik yardımcı bilgiler bulacaksınız.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:tech:ts_intro|translationStudio]]//
-  * //[[tr:ta:vol1:tech:tk_intro|translationKeyboard]]//
-  * //[[tr:ta:vol1:intro:uw_intro|The unfoldingWord Project]]//
 
+  * //[[:tr:ta:vol1:tech:ts_intro|translationStudio]]//
+  * //[[:tr:ta:vol1:tech:tk_intro|translationKeyboard]]//
+  * //[[:tr:ta:vol1:intro:uw_intro|The unfoldingWord Project]]//
