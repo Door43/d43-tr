@@ -6,9 +6,9 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
 
-==== Layout ====
+==== Tasarım ====
 
-The navigation and menu icons are on the left side of the screen. The top three icons are the working views, the slider moves through the story, the menu is the three dots.
+Gezinme ve menü simgeleri ekranın sol yanındadır. Üstteki üç simge çalışma görünümleridir, sürgü öyküden geçilmesini sağlar ve menü üç nokta simgesindedir.
 
 ==== Working Icons ====
 
