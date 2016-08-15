@@ -9,9 +9,9 @@ Before you start this module have you learned about:
 
 ==== translationStudio v2.3 ====
 
-  * When editing - click on the word 'Resources' on the top bar.
-  * Tap the word 'Notes' for the translationNotes.
-  * Tap the word 'Words' for the translationWords. 
+  * Düzeltirken - üst çubuktaki «Resources» sözüne tıklayın.
+  * translationNotes için «Notes» sözüne dokunun.
+  * translationWorks için «Words» sözüne dokunun.
 
 ==== translationStudio v3 ====
 
