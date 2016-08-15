@@ -1,9 +1,10 @@
-===== Setting Up the translationKeyboard APP on an Android device =====
+===== translationKeyboard uygulamasının Android cihazına kurulumu =====
 
-This module answers the question: //How do I set up the translationKeyboard APP on an Android device?//
+This module answers the question: //translationKeyboard uygulamasının Android cihazına kurulumu nasıl yapılır?//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]//
+
+  * //[[:tr:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]//
 
 ==== How Can I Set Up tK? ====
 
