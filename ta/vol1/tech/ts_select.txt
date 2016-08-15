@@ -1,9 +1,10 @@
-===== Select Source and Target Languages =====
+===== Kaynak ve Hedef Dillerin Seçilmesi =====
 
-This module answers the question: //How do I select source and target languages?//
+This module answers the question: //Kaynak ve hedef dilleri nasıl seçmeliyim?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
+
+  * //[[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
 
 ==== Source & Target Languages ====
 
