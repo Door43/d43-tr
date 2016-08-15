@@ -7,37 +7,35 @@ Before you start this module have you learned about:
   * //[[:tr:ta:vol1:tech:ts_create|Create and Edit Text]]//
   * //[[:tr:ta:vol1:translate:resources_intro|Introduction to Resources]]//
 
-==== Resources in tS ====
+==== tS’deki Kaynaklar ====
 
-To help translators make the best translation possible, Translation Resources have been created. The Resources include Translation Notes, Important Terms, and Translation Questions.
+Çevirmenlerin mümkün olan en iyi çeviri yapmalarına yardım etmek için Çeviri Kaynakları yaratılmıştır. Bu Kaynaklara Çeviri Notları, Önemli Terimler ve Çeviri Soruları dahildir.
 
-**Translation Notes** are cultural, linguistic, and exegetical notes that help to describe and explain the context in which the stories from Open Bible Stories and the Bible was written as well as inform the translator of translation options available to them.\\
+**Çeviri Notları**, Açık Kutsal Kitap Öyküleri’nin ve Kutsal Kitap’ın yazılmış olduğu bağlamı tasvir etmeye ve açıklamaya ve ayrıca çevirmeni mevcut olan çeviri seçenekleri konusunda bilgilendirmeye yardım edebilecek kültür, dil ve yorum ile ilgili notlardır.
 
-The **Important Terms** are key terms found in Open Bible Stories and the Bible. It is crucial that they be translated correctly. Each Important Term has a small article written about it as well as cross-references to other places that term is used in Open Bible Stories and the Bible to ensure that it has been translated correctly there, too.\\
+**Önemli Terimler**, Açık Kutsal Kitap Öyküleri’nde ve Kutsal Kitap’ta bulunan anahtar terimlerdir. Onların düzgün çevrilmesi son derece önemlidir. Her bir önemli terime dair yazılmış kısa makale ve Açık Kutsal Kitap Öyküleri’nde ve Kutsal Kitap’ta başka yerlere göndermeler bulunuyor; böylece terimin o yerlerde de doğru çevrilmesi sağlanmış olur.
 
-The **Translation Questions** are available for the translator to check their work. These questions can be asked of anyone checking the translation work. Read the question, answer the question from the information in the translated text, look at the answer. Do both of the answers match? Then the transaltion is clear and accurate.
+**Çeviri Soruları**, çevirmenin kendi işini yoklaması içindir. Bu sorular, çeviri işini yoklayan herkese sorulabilir. Soruyu okuyun, çeviri metnindeki bilgiye göre cevaplayın ve doğru cevaba bakın. Cevapları ikisi aynı mı? Aynı ise çeviri açık ve doğrudur.
 
-Once you have consulted the Translation Resources, then you are ready to make the best translation.
+Çeviri Kaynakları’ndan yararlanmaya başladıktan sonra en iyi çeviri yaratmaya hazırsınız.
 
-**Please use the Translation Resources when checking your translation!**
-
-
+**Çevirinizi yoklarken lütfen Çeviri Kaynakları’nı kullanın!**
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:tech:ts_intro|translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
-  * //[[tr:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]//
-  * //[[tr:ta:vol1:tech:ts_select|Select Source and Target Languages]]//
-  * //[[tr:ta:vol1:tech:ts_open|Opening a Translation Project]]//
-  * //[[tr:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_request|Find my Language]]//
-  * //[[tr:ta:vol1:tech:ts_translate|Translating in translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_create|Create and Edit Text]]//
-  * //[[tr:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
-  * //[[tr:ta:vol1:tech:ts_upload|Upload Your Work]]//
-  * //[[tr:ta:vol1:tech:ts_update|Update translationStudio Projects]]//
-  * //[[tr:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]//
-  * //[[tr:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_problem|Report a Problem]]//
 
+  * //[[:tr:ta:vol1:tech:ts_intro|translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
+  * //[[:tr:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]//
+  * //[[:tr:ta:vol1:tech:ts_select|Select Source and Target Languages]]//
+  * //[[:tr:ta:vol1:tech:ts_open|Opening a Translation Project]]//
+  * //[[:tr:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_request|Find my Language]]//
+  * //[[:tr:ta:vol1:tech:ts_translate|Translating in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_create|Create and Edit Text]]//
+  * //[[:tr:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
+  * //[[:tr:ta:vol1:tech:ts_upload|Upload Your Work]]//
+  * //[[:tr:ta:vol1:tech:ts_update|Update translationStudio Projects]]//
+  * //[[:tr:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]//
+  * //[[:tr:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_problem|Report a Problem]]//
