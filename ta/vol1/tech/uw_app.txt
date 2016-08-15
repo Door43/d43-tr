@@ -1,6 +1,6 @@
-===== unfoldingWord Mobile App =====
+===== unfoldingWord Mobil Uygulaması =====
 
-This module answers the question: //What is the unfoldingWord Mobile App?//
+This module answers the question: //unfoldingWord Mobil Uygulaması nedir?​//
 
 ==== What is the unfoldingWord App? ====
 
