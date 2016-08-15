@@ -15,17 +15,14 @@ unfoldingWord uygulaması bir cihazda ilk kez açıldığında dil seçim sayfas
 
 Dil listesinin altında üç seviyeli yoklama sisteminin açıklaması bulunuyor. Her seviye ayrıntıyla tasvir edilmiştir.
 
-==== Language Information ====
+==== Dil Hakkında Bilgiler ====
 
-To view the checking status of each language translation, tap the **  // i  //  **    icon to the right of the language. The screen will open to show the translators for that language, the checking level, version and publish date.
-
-
-
+Her dilin yoklama durumunu görüntülemek için dilin sağındaki  simgesine dokunun. Açılan sayfada o dilin çevirmenleri, yoklama seviyesi, versiyon ve yayınlanma tarihi belirtilecektir.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:tech:uw_checking|About Checking Levels]]//
-  * //[[tr:ta:vol1:tech:uw_language|Language Information]]//
-  * //[[tr:ta:vol1:tech:uw_select|Select a Language]]//
-  * //[[tr:ta:vol1:tech:uw_update_content|Update unfoldingWord on an Android Device]]//
-  * //[[tr:ta:vol1:tech:uw_audio|Use the Audio Feature in unfoldingWord]]//
 
+  * //[[:tr:ta:vol1:tech:uw_checking|About Checking Levels]]//
+  * //[[:tr:ta:vol1:tech:uw_language|Language Information]]//
+  * //[[:tr:ta:vol1:tech:uw_select|Select a Language]]//
+  * //[[:tr:ta:vol1:tech:uw_update_content|Update unfoldingWord on an Android Device]]//
+  * //[[:tr:ta:vol1:tech:uw_audio|Use the Audio Feature in unfoldingWord]]//
