@@ -11,9 +11,9 @@ Before you start this module have you learned about:
 
 unfoldingWord uygulaması bir cihazda ilk kez açıldığında dil seçim sayfası açılır. Görüntülemek istediğiniz dile dokunun. Öyküler o dilde açılacak. Bu uygulamanın değiştirilebilecek başka ayarları yoktur.
 
-==== Checking Levels ====
+==== Yoklama Seviyeleri ====
 
-Below the list of languages, there is an explanation of the three-level checking system. Each level is described in detail.
+Dil listesinin altında üç seviyeli yoklama sisteminin açıklaması bulunuyor. Her seviye ayrıntıyla tasvir edilmiştir.
 
 ==== Language Information ====
 
