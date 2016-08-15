@@ -1,9 +1,10 @@
-===== Translating in translationStudio =====
+===== translationStudio’da Çevirme =====
 
-This module answers the question: //How do I translate in translationStudio?//
+This module answers the question: //translationStudio’da nasıl çevirmeliyim?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
+
+  * //[[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
 
 ===== How to Translate =====
 
