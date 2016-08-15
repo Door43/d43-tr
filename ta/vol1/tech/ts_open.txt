@@ -6,9 +6,9 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
 
-==== First Time Use ====
+==== İlk Kez Kullanım ====
 
-The first time you use translationStudio, the app will prompt to set the target language and then return to the **"My Translation Projects" Menu**. Otherwise you will begin at the **My Translation Projects Menu**.
+translationStudio’yu ilk kez kullandığınızda uygulama sizi hedef dili uyarlamaya teşvik edecek, sonra **«Çeviri Projelerim»** menüsüne dönecek. Aksi hâlde siz **Çeviri Projelerim Menüsünden ** başlayacaksınız.
 
 ==== Complete these steps to open a Translation Project ====
 
