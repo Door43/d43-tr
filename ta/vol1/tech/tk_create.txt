@@ -31,17 +31,17 @@ Veya
 
 Sonra:
 
-==== Create or Edit a Keyboard in tK ====
+==== tK’de Klavye Yaratın veya Düzeltin ====
 
-At [[http://tk.unfoldingword.org/|http://tk.unfoldingword.org/]], select the keyboard that is desired if available, or select the “Create New Keyboard”* button at the top of the web page:
+ [[http://tk.unfoldingword.org/|http://tk.unfoldingword.org/]] sayfasında, varsa, istenen klavyeyi seçin ya da sitenin üst yanında bulunan “Create New Keyboard” (Yeni Klavye Yaratın)* düğmesini seçin:
 
-   * A new window titled “Create New Keyboard” will appear.
-   * Type the name of the keyboard language in the Keyboard name box
-   * Pick the ISO Language Code by typing the first three to five letters of the language desired and pick the appropriate code from the list, this should fill in the ISO Region Code.
-   * Keyboard Type: Most keyboards the Android 4 row will work, but the 5 row and IOS are also available. 
-   * Press “Go” 
-      * Note: If the Keyboard has already been added, select the appropriate keyboard from the “Languages with Keyboards” list or “Recently Updated Keyboards” list. 
-      * Note: There are plus “+” and “-“ keys at the end of each row. These keys allow more character keys to be added or deleted from each row.
+  * “Create New Keyboard” (Yeni Klavye Yaratın) şeklinde yeni bir pencere açılacak.
+  * Klavye adı kutusuna klavye dilinin adını girin
+  * İstenen dilin ilk üç-beş harfini girerek ISO Dil Kodunu seçin ve listeden uygun kodu seçin; bu, ISO Bölge Kodunu dolduracak.
+  * Klavye Türü: Klavyelerin çoğu 4 dizili ve Android olacak, ama 5 dizili ve iOS klavyeleri de bulunur.
+  * “Go” (Git) basın
+      * Not: Klavye artık eklendiyse, “Languages with Keyboards” (Klavyeli Diller) listesinden veya “Recently Updated Keyboards” (Yakında Güncelleştirilen Klavyeler) listesinden uygun klavyeleri seçin.
+      * Not: Her dizinin sonunda ek “+” ve “-“ tuşları bulunmaktadır. Bu tuşlar her diziye daha fazla karakterlerin eklenmesi veya oradan silinmesi için imkan vermektedir.
 
 ==== Edit or Add Symbols to a Keyboard ====
 
