@@ -1,10 +1,11 @@
-===== Welcome to the Technology Manual =====
+===== Teknoloji Kılavuzu’na Hoş Geldiniz =====
 
 This module answers the question: //What is the Technology Manual?//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]//
-  * //[[tr:ta:vol1:checking:intro_check|Introduction to the Checking Manual]]//
+
+  * //[[:tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]//
+  * //[[:tr:ta:vol1:checking:intro_check|Introduction to the Checking Manual]]//
 
 ==== The Technology Manual ====
 
