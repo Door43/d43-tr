@@ -1,6 +1,6 @@
-===== Finding Help for translationStudio =====
+===== translationStudio için Yardımın Bulunması =====
 
-This module answers the question: //How do I find help for translationStudio?//
+This module answers the question: //translationStudio için yardımı nerede bulabilirim?​//
 
 ==== Help ====
 
