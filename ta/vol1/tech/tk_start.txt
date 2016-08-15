@@ -12,16 +12,16 @@ Before you start this module have you learned about:
 
 Şu üç dakikalık videoyu izleyin ya da şu talimata uyun: dilinizdeki karakterlerle yazabilmeniz için translationKeyboard’u kurun. Programı açmak için tK simgesine dokunun. Kurulum Talimatları penceresi açılacak. Ekrandaki bilgileri hareket ettirmek için parmağınızla dokunup yukarıya çekin.
 
-==== Action 1: Add translationKeyboard to the system ====
+==== 1. Adım: translationKeyboard’u sisteme ekleyin ====
 
-   * Tap on the 'Enable Keyboard' button.
-   * A window with all the available keyboards opens.
-   * Find translationKeyboard on the list.
-   * Look for the on-off slide to the right of the translationKeyboard name.
-   * Tap-slide the button. The button turns green.
-   * A warning screen opens.
-   * Tap on 'OK' to allow the keyboard to work.
-   * Tap the back arrow on the Android menu to go back to the setup window.
+  * «Klavyeyi etkinleştirin» düğmesine dokunun.
+  * Bütün mevcut olan klavyelerin bulunduğu pencere açılacak.
+  * Listede translationKeyboard bulun.
+  * translationKeyboard adından sağa kayan on-off düğmesini arayın.
+  * Düğmeye dokunup parmağınızla kaydırın. Düğme yeşil renge dönecek.
+  * İkaz penceresi açılacak.
+  * Klavyenin çalışmasına izin vermek için «OK»e dokunun.
+  * Android menüsündeki kurulum penceresine geri dönmek için geri oka dokunun.
 
 ==== Action 2: Set the input method ====
 
