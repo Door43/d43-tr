@@ -43,11 +43,11 @@ Sonra:
       * Not: Klavye artık eklendiyse, “Languages with Keyboards” (Klavyeli Diller) listesinden veya “Recently Updated Keyboards” (Yakında Güncelleştirilen Klavyeler) listesinden uygun klavyeleri seçin.
       * Not: Her dizinin sonunda ek “+” ve “-“ tuşları bulunmaktadır. Bu tuşlar her diziye daha fazla karakterlerin eklenmesi veya oradan silinmesi için imkan vermektedir.
 
-==== Edit or Add Symbols to a Keyboard ====
+==== Klavyenin Düzeltilmesi veya Karakterlerin Eklenmesi ====
 
-In the next window, press the “Edit Keyboard” button in the top, right corner of the screen.
+Bir sonraki pencerede, ekranın üst sağ köşesindeki “Edit Keyboard” (Klavyenin Düzeltilmesi) düğmesine basın.
 
-In the beginning, these boxes will be blank until they are filled the selected symbol, UTF or Unicode selection.
+Bu kutular, seçilen karakter, UTF veya Unicode seçeneği ile dolduruluncaya kadar başlangıçta boş olacaklar.
 
 ==== Input the Symbols of the Desired Language in tK ====
 
