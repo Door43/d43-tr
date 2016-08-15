@@ -12,24 +12,24 @@ Before you start this module have you learned about:
   * Şuraya gidin: tk.unfoldingword.org/users/sign_in
   * Kullanıcı adı ve şifreniz ile oturum açın
 
-==== Keyboard Search ====
+==== Klavye Arayışı ====
 
-Search through the keyboards already available to ensure the language has not been created or started. Three possibilities are available:
+Dilinizdeki klavyenin henüz yaratılmamış, başlatılmamış olduğundan emin olmak için hazırda mevcut olan klavyeleri arayın. Üç olasılık vardır:
 
-   * The keyboard has been created already, you are done!
-   * If the keyboard has been started and not finished, you can:
-      * Wait to see if it is in progress and wait for the completion, or
-      * Continue the keyboard and complete it.
-   * If the desired keyboard is not available, the following suggestions are:
-      * Ask the requestor for more information about the keyboard/language desired specifics; such as the symbols needed for the keyboard
-      * Search for existing keyboards using a search engine
-      * Create a similar, but different keyboard using the information obtained through research.
+  * Klavye artık yaratıldı, tamamlandı!
+  * Klavye başlatıldı, ama tamamlanmadıysa siz:
+      * üzerinde çalışılıyor olduğunu görüp tamamlanmasının bekleyebilirsiniz; ya da
+      * Klavyeye devam edip tamamlayabilirsiniz.
+  * İstenen klavye mevcut değilse aşağıdakiler önerilmektedir:
+      * Başvurandan klavyenin/dilin istenen ayrıntıları hakkında, klavye için gerekli olan karakterler gibi daha fazla bilgi isteyin
+      * Arama motorunu kullanarak mevcut klavyeleri arayın
+      * Araştırma yoluyla edinen bilgileri kullanarak benzer, ama farklı bir klavye yaratın.
 
-Or
+Veya
 
-   * Find a Unicode or UTF website with the correct symbols.
+  * Düzgün karakterlerin bulunduğu Unicode ya da UTF sitesini bulun.
 
-Then:
+Sonra:
 
 ==== Create or Edit a Keyboard in tK ====
 
