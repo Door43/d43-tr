@@ -18,13 +18,14 @@ Bu süreçte atılan somut adımlar, çeviri projesinin diline ve bağlamına da
   - **Kilise Onaylı**  - kilise tarafından onaylanmış, tavsiye edilip kullanılmakta olan çeviri.
 Öykü çevirmenin en iyi yolunu öğrenmek için **[[:tr:ta:vol1:intro:translation_guidelines|Çeviri Kuralları]]** sayfasındaki bilgileri okuyun. İman Beyanı’nı kabul ediyor ve Çeviri Kuralları’na uymayı düşünüyorsanız kaynak metni seçtiğiniz dile çevirmeye başlayın.
 
-==== Use the Translation Notes Pages ====
-You can click here to go to [[:en:obs:notes:31|Jesus Walks on Water]] story with translation helps.
-This [[http://youtu.be/5fFl8crhglE|video]] (1 minute 20 seconds) will give a quick overview of how to use the Translation Notes on the story picture pages.
-  * The stories are separated into separate pages by the pictures (called frames).
-  * Each page has the picture and the text, in a national trade language, from the story.
-  * There are bold words in the text. These are very important words that need to be translated correctly. Click on the bold word to go to another page that will give more information on how to translate the very important word.
-  * Translation Notes explains how to translate some of the important words in the story. The definition of the word or phrase should help you understand how to translate.
+==== Çeviri Notları Sayfasını Kullanın ====
+
+Çeviriye dair yardımcı kaynaklara sunulan [[:en:obs:notes:31|«İsa Su Üstünde Yürüyor»]] öyküsüne gitmek için buraya tıklayabilirsiniz. Şu [[http://youtu.be/5fFl8crhglE|video]] (1 dakika 20 saniye) resimli öykü sayfalarında Çeviri Notları’nı nasıl kullanmak konusunda kısa bir tanıtım sunacaktır.
+
+  * Bu öyküler (çerçeve adındaki) resimlerle ayrı ayrı sayfalara bölünüyor.
+  * Her sayfada öyküye ait bir resim ve devlet dilinde metin bulunmaktadır.
+  * Metinde kalın yazılan sözler vardır. Bunlar, düzgün çevrilmesi gereken çok önemli sözlerdir. Kalın yazılan bir söze tıkladığınızda bu çok önemli sözün nasıl çevrilmesi gerektiğine dair daha fazla bilgi veren başka bir sayfaya yönlendirileceksiniz.
+  * Çeviri Notları öyküdeki önemli sözlerin bazısının nasıl çevrilmesi gerektiğini açıklamaktadır. Sözcüğün veya ifadenin tanımı, nasıl çevrilmesi gerektiği konusunda size yardımcı olacak.
 
 ==== Translate from the Source Language ====
 It is best to open the webpage of the story in your language and the webpage of the story with Translation Notes.
