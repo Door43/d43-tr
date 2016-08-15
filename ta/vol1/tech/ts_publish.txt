@@ -1,9 +1,10 @@
-===== Publish Content to unfoldingWord =====
+===== unfoldingWord’a İçeriğin Yayınlanması =====
 
-This module answers the question: //How do I publish content to unfoldingWord?//
+This module answers the question: //unfoldingWord’a içeriği nasıl yayınlamalıyım?//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
+
+  * //[[:tr:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
 
 ==== Publishing ====
 
