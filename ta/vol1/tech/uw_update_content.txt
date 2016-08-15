@@ -1,9 +1,10 @@
-===== Update unfoldingWord on an Android Device =====
+===== Android Cihazındaki unfoldingWord’un Güncelleştirilmesi =====
 
-This module answers the question: //How do I update unfoldingWord on an Android device?//
+This module answers the question: //Android cihazında unfoldingWord’u nasıl güncelleştirebilirim?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:tech:uw_app|unfoldingWord Mobile App]]//
+
+  * //[[:tr:ta:vol1:tech:uw_app|unfoldingWord Mobile App]]//
 
 ==== How can I get new content? ====
 
