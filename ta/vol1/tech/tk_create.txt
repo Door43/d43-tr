@@ -6,11 +6,11 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:tech:tk_intro|translationKeyboard]]//
 
-==== Getting Started ====
+==== Başlama ====
 
-   * Decide on the language you want to make a keyboard for
-   * Go to: tk.unfoldingword.org/users/sign_in
-   * Sign in using your username and password
+  * Klavyenin yapılmasını istediğiniz dili belirleyin
+  * Şuraya gidin: tk.unfoldingword.org/users/sign_in
+  * Kullanıcı adı ve şifreniz ile oturum açın
 
 ==== Keyboard Search ====
 
