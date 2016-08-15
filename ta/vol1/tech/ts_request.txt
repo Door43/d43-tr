@@ -1,9 +1,10 @@
-===== Find my Language =====
+===== Dilimi Bulmak =====
 
-This module answers the question: //What do I do when I cannot find my language?//
+This module answers the question: //Dilimi bulamadığımda ne yapmalıyım?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
+
+  * //[[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
 
 ==== Finding my Language ====
 
