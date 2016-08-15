@@ -10,39 +10,40 @@ Before you start this module have you learned about:
 
 translationStudio’yu ilk kez kullandığınızda uygulama sizi hedef dili uyarlamaya teşvik edecek, sonra **«Çeviri Projelerim»** menüsüne dönecek. Aksi hâlde siz **Çeviri Projelerim Menüsünden ** başlayacaksınız.
 
-==== Complete these steps to open a Translation Project ====
+==== Çeviri Projesini açmak için bu adımları tamamlayın. ====
 
-From the "My Translation Projects" Menu:
-  - Tap on the + in the blue circle icon located at the top right of the screen.
-  - Choose the target language 
-    - Tap on the language 
-    - Scroll to find the language
-  - Tap on to choose either the Bible:NT, Bible:OT, or Open Bible Stories
-    - Tap on a book of the Bible or Open Bible Stories opens on story 1, The Creation.
-  - Tap on a Source Language to choose one or more languages (See: [[tr:ta:vol1:tech:ts_select]] for more information)
-From the edit screen:
-  - Tap on 3 dots located at bottom left of the screen.
-  - Choose 'My Translations' from the menu.
-  - Follow the directions above.
+«Çeviri Projelerim» menüsünden:
 
+  - Ekranın üst sağ köşesinde bulunan mavi daire içindeki + işaretine dokunun.
+  - Hedef dili seçin
+      - Dile dokunun
+      - Dili bulmak için parmağınızla kaydırın
+  - Dokunarak seçin: ya Bible:NT (Kutsal Kitap, Yeni Ahit), ya Bible:OT (Kutsal Kitap, Eski Ahit), ya da Open Bible Stories (Açık Kutsal Kitap Öyküleri)
+      - Kutsal Kitap’ın bir kitabına dokunun ya da Açık Kutsal Kitap Öyküleri 1. Öykü, Yaradılış’ta açılır.
+  - Bir ya da birkaç dili seçmek için Source Language (Kaynak Dil)’e dokunun (Bkz: [[:tr:ta:vol1:tech:ts_select|Select Source and Target Languages]] for more information)
 
+Edit ekranından:
+
+  - Ekranın alt sol köşesindeki üç noktaya dokunun.
+  - Menüden 'My Translations' (Çevirilerim) seçin.
+  - Yukarıdaki talimata uyun.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:tech:ts_intro|translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
-  * //[[tr:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]//
-  * //[[tr:ta:vol1:tech:ts_select|Select Source and Target Languages]]//
-  * //[[tr:ta:vol1:tech:ts_open|Opening a Translation Project]]//
-  * //[[tr:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_request|Find my Language]]//
-  * //[[tr:ta:vol1:tech:ts_translate|Translating in translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_create|Create and Edit Text]]//
-  * //[[tr:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
-  * //[[tr:ta:vol1:tech:ts_upload|Upload Your Work]]//
-  * //[[tr:ta:vol1:tech:ts_update|Update translationStudio Projects]]//
-  * //[[tr:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]//
-  * //[[tr:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_problem|Report a Problem]]//
 
+  * //[[:tr:ta:vol1:tech:ts_intro|translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
+  * //[[:tr:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]//
+  * //[[:tr:ta:vol1:tech:ts_select|Select Source and Target Languages]]//
+  * //[[:tr:ta:vol1:tech:ts_open|Opening a Translation Project]]//
+  * //[[:tr:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_request|Find my Language]]//
+  * //[[:tr:ta:vol1:tech:ts_translate|Translating in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_create|Create and Edit Text]]//
+  * //[[:tr:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
+  * //[[:tr:ta:vol1:tech:ts_upload|Upload Your Work]]//
+  * //[[:tr:ta:vol1:tech:ts_update|Update translationStudio Projects]]//
+  * //[[:tr:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]//
+  * //[[:tr:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_problem|Report a Problem]]//
