@@ -6,9 +6,11 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]//
 
-==== How Can I Set Up tK? ====
+==== tK’yi Nasıl Kurabilirim? ====
 
-Watch the {{:en:ta:tech:setting_up_translationkeyboard-android_v2.mp4|Setting Up the translationKeyboard}}  three minute video or follow these directions: Set up translationKeyboard so you can type in the font of your language. Tap the tK icon to open the program. The Installation Instructions window opens. Use your finger to tap-swipe up to move the information up on the screen.
+{{:en:ta:tech:setting_up_translationkeyboard-android_v2.mp4|Setting Up the translationKeyboard}}
+
+Şu üç dakikalık videoyu izleyin ya da şu talimata uyun: dilinizdeki karakterlerle yazabilmeniz için translationKeyboard’u kurun. Programı açmak için tK simgesine dokunun. Kurulum Talimatları penceresi açılacak. Ekrandaki bilgileri hareket ettirmek için parmağınızla dokunup yukarıya çekin.
 
 ==== Action 1: Add translationKeyboard to the system ====
 
