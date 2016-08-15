@@ -49,39 +49,36 @@ O aşamada işiniz Door43’te erişilebilir, indirilebilir ve paylaşılabilir 
   - Bu metni göndermek için gerekli olan herhangi imza belgelerinin veya başka dosyaları yüklemek için **File**  (Dosya) seçin.
   - Yayınlama talebinizi tamamlamak için **Submit**  (Gönder) seçin. Bu, formu temizleyecek ve onay mesajını geri gönderecek.
 
-==== Questions Regarding the Request to Publish Form and Process ====
+==== Yayınlama Talebi Formu ve Süreci ile İlgili Sorular ====
 
-=== What Happens After Text is Approved? ===
+=== Metin Onaylandıktan Sonra Ne Olur? ===
 
-When the Request to Publish is approved, the text is made available on unfoldingword.org for online viewing, as a downloadable, print-ready PDF, and it appear in the unfoldingWord app.
+Yayınlama Talebi onaylandığında metin unfoldingword.org sitesinde indirilebilir, yazdırılmaya hazır PDF dosyası olarak görüntülenebilecek ve ayrıca unfoldingWord uygulamasında da çıkacak.
 
-=== Can Text Be Changed After Level 3 Checking? ===
+=== 3. Seviyede Yoklamadan Sonra Metin Değiştirilebilir Mi? ===
 
-Approved text can always be modified in translationStudio even after all checking levels are completed, HOWEVER if you or another user were to submit a Request to Publish for text that has already completed Level 3 checking, there would be questions regarding the reason for overwriting the previously published and checked materials. The approver will look to see who contributed to the change and may contact the requestor and others involved with the translation of the text in question to ensure the changes are valid.
+Onaylanan metin, bütün yoklama seviyeleri tamamlandıktan sonra bile her zaman translationStudio’da değiştirilebilir. ANCAK, siz ya da başka bir kullanıcı 3. Seviyede yoklanması tamamlanmış bir metin için Yayınlama Talebi gönderirseniz, daha önce yoklanmış ve yayınlanmış materyallerin değiştirilmesinin sebebi ile ilgili sorular sorulacak. Onaylayan kişi, değişikliğe katkıda bulunanların kimliğine bakacak ve değişikliklerin geçerli olduğundan emin olmak için söz konusu metnin çevirisine katkıda bulunan kişilerle irtibata geçebilir.
 
-=== Must All Contributors Be Named? ===
+**Katkıda Bulunan Herkesin İsmi Belirtilmeli Midir?**
 
-Due to copyright laws (and these exist no matter what country you are in and no matter what people tell you about laws in that country), you must list __every__ contributor on the Request to Publish form and provide a legal signature for each person. In certain cases we understand they cannot be named, however you can provide the established pseudonym for that person.\\
-
-
-
+Telif hakkı yasaları nedeniyle (hangi ülkede olursanız olun ve insanlar size o ülkedeki yasalar hakkında ne derlerse desinler bu yasalar vardır) Yayınlama Talebi formunda katkıda bulunan **herkesin** ismini belirtmeniz ve **herkesin** resmî imzasını bulundurmanız gerekir. Bazı durumlarda isimlerin açıklanmaması gerektiğini anlıyoruz, ama o kişilerin takma isimleri listede bulunabilir.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:process:publishing_process|How to Publish]]//
-  * //[[tr:ta:vol1:tech:ts_intro|translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
-  * //[[tr:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]//
-  * //[[tr:ta:vol1:tech:ts_select|Select Source and Target Languages]]//
-  * //[[tr:ta:vol1:tech:ts_open|Opening a Translation Project]]//
-  * //[[tr:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_request|Find my Language]]//
-  * //[[tr:ta:vol1:tech:ts_translate|Translating in translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_create|Create and Edit Text]]//
-  * //[[tr:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
-  * //[[tr:ta:vol1:tech:ts_upload|Upload Your Work]]//
-  * //[[tr:ta:vol1:tech:ts_update|Update translationStudio Projects]]//
-  * //[[tr:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_problem|Report a Problem]]//
 
+  * //[[:tr:ta:vol1:process:publishing_process|How to Publish]]//
+  * //[[:tr:ta:vol1:tech:ts_intro|translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
+  * //[[:tr:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]//
+  * //[[:tr:ta:vol1:tech:ts_select|Select Source and Target Languages]]//
+  * //[[:tr:ta:vol1:tech:ts_open|Opening a Translation Project]]//
+  * //[[:tr:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_request|Find my Language]]//
+  * //[[:tr:ta:vol1:tech:ts_translate|Translating in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_create|Create and Edit Text]]//
+  * //[[:tr:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
+  * //[[:tr:ta:vol1:tech:ts_upload|Upload Your Work]]//
+  * //[[:tr:ta:vol1:tech:ts_update|Update translationStudio Projects]]//
+  * //[[:tr:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_problem|Report a Problem]]//
