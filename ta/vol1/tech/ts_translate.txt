@@ -27,41 +27,40 @@ Not: [[http://www.forum-intl.org/resources|Kutsal Kitap Kurumları Forumu’nun 
 
 Açık Kutsal Kitap Öyküleri’ni çevirmekten başlamanızı tavsiye ederiz. Öyküleri istediğiniz sırayla çevirebilirsiniz, ancak bizim fikrimizce [[:en:obs:31|31. öykü kısa]] ve kolayca anlaşılır olduğu için onu birinci olarak çevirmek iyi olur. Daha fazla bilgi edinmek için okuyun: [[:tr:ta:vol1:translate:translate_what|What to Start Translating]].
 
-==== Translate from the Source Language ====
+==== Kaynak dilden çeviri yapın ====
 
-**Note:** "Source Language" refers to the language from which the translation is being done. "Target Language" refers to the language into which the translation is being done.''
+**Not:** «Kaynak Dil», çeviri hangi dilden yapılırsa, o dildir. «Hedef Dil», çeviri hangi dile yapılırsa odur.
 
-The **Chapter or Story** icon is the top left and looks like full sheets of paper. Swipe up to read the entire chapter or story. Swipe to the side for a blank page to type in the target language translation of the text.\\
+**Bölüm ** ya da **Öykü**simgesi en üst sol köşededir ve bir tabaka kâğıt gibi görünür. Bütün bölümü veya öyküyü okumak için parmağınızla yukarıya çekin. Metnin hedef dildeki çevirisini girmek amacıyla boş sayfanın açılması için parmağınızla bir yana çekin.
 
-The **Chunk** icon is the middle icon on the left and looks like a solid line square over a dotted line square. Swipe down or up to move from chunk to chunk (a small section of the story or chapter). Swipe  to the side for a blank page to type in the target language translation of the text.\\
+**Kısım ** simgesi sol yandaki orta simgedir ve noktalı çizgili karenin üstündeki bir düz çizgi kare gibi görünür. Kısımdan kısma geçmek için (burada kısım, öykünün veya bölümün küçük bir parçasıdır) parmağınızla aşağıya veya yukarıya çekin. Metnin hedef dildeki çevirisini girmek amacıyla boş sayfanın açılması için parmağınızla bir yana çekin.
 
-The **Check** icon is the bottom icon on the left and looks like a clipboard with a check mark. In this view the source text is on the left, the translation work is on the right. Swipe to the side to show the resources for that chunk. Swipe up or down to move from chunk to chunk.
+**Yoklama ** simgesi sol yandaki alt simgedir ve onay işaretli pano gibi görünür. Bu görünümde kaynak metin sol yanda, çeviri metni ise sağ yandadır. O kısma dair kaynakları göstermek için parmağınızla bir yana çekin. Kısımdan kısma geçmek için parmağınızla aşağıya veya yukarıya çekin.
 
-All of the Translation Notes, Important Terms and Translation Questions have been included in the translationStudio mobile app. See [[tr:ta:vol1:tech:ts_resources]] on how to find the translation resources.
-  * Tap on the word "Notes" for the Translation Notes. The words or phrases are listed as they appear in the story or in the ULB. Tap on the phrase for help in understanding how to translate into the target language.
-  * Tap on the word "Terms" for the Important Terms. The words are listed as they appear in the story on in the ULB.Tap on the word or phrase for help in understanding how to translate into the target language.
-  * Tap on the word "Questions" for the Translation Questions. The questions are about information as it appears in the story on in the ULB.Read the question and answer it according to the translated text. Tap on the question for the expected answer. If the given answer and the expected answer are the same then the translation might be clear and accurate.
-  * Tap on the pencil icon to make corrections to the translation.
+Bütün Çeviri Notları, Önemli Terimler ve Çeviri Soruları translationStudio mobil uygulamasına dahil edilmiştir. Çeviriye dair kaynaklar nasıl bulunur konusu hakkında bkz: [[:tr:ta:vol1:tech:ts_resources|translationStudio’da Kaynakları Bulmak]].
 
-When you are done with the Resources, swipe from left to right to make the pane go away.
+  * Çeviri Notları için \"Notes\" sözüne dokunun. Sözcük veya ifadeler öyküde ya da ULB’de sıralandığı gibi listelenmiştir. Sözün hedef dile nasıl çevrilmesi ile ilgili yardım almak için ona dokunun.
+  * Önemli Terimler için \"Terms\" sözüne dokunun. Sözler öyküde ya da ULB’de sıralandığı gibi listelenmiştir. Bir sözcüğün ya da ifadenin hedef dilde nasıl çevrilmesi ile ilgili yardım almak için sözcüğe veya ifadeye dokunun.
+  * Çeviri Soruları için \"Questions\" (Sorular) sözüne dokunun. Sorular, öyküde veya ULB Kutsal Kitap çevirisinde aktarılan bilgilere aittir. Soruyu okuyun ve çeviri metnine göre cevaplayın. Beklenen cevabı görmek için soruya dokunun. Verdiğiniz cevap ile beklenen cevap aynı ise, çevirinin açık ve doğru olması muhtemeldir.
+  * Çeviriyi düzeltmek için kurşunkalem simgesine dokunun.
 
-
+Kaynaklarla işiniz bitince o pencerenin kapatılması için parmağınızla soldan sağa çekin.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:tech:ts_intro|translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
-  * //[[tr:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]//
-  * //[[tr:ta:vol1:tech:ts_select|Select Source and Target Languages]]//
-  * //[[tr:ta:vol1:tech:ts_open|Opening a Translation Project]]//
-  * //[[tr:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_request|Find my Language]]//
-  * //[[tr:ta:vol1:tech:ts_create|Create and Edit Text]]//
-  * //[[tr:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
-  * //[[tr:ta:vol1:tech:ts_upload|Upload Your Work]]//
-  * //[[tr:ta:vol1:tech:ts_update|Update translationStudio Projects]]//
-  * //[[tr:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]//
-  * //[[tr:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_problem|Report a Problem]]//
 
+  * //[[:tr:ta:vol1:tech:ts_intro|translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
+  * //[[:tr:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]//
+  * //[[:tr:ta:vol1:tech:ts_select|Select Source and Target Languages]]//
+  * //[[:tr:ta:vol1:tech:ts_open|Opening a Translation Project]]//
+  * //[[:tr:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_request|Find my Language]]//
+  * //[[:tr:ta:vol1:tech:ts_create|Create and Edit Text]]//
+  * //[[:tr:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
+  * //[[:tr:ta:vol1:tech:ts_upload|Upload Your Work]]//
+  * //[[:tr:ta:vol1:tech:ts_update|Update translationStudio Projects]]//
+  * //[[:tr:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]//
+  * //[[:tr:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_problem|Report a Problem]]//
