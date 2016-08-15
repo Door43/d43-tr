@@ -23,11 +23,11 @@ Before you start this module have you learned about:
   * Klavyenin çalışmasına izin vermek için «OK»e dokunun.
   * Android menüsündeki kurulum penceresine geri dönmek için geri oka dokunun.
 
-==== Action 2: Set the input method ====
+==== 2. Adım: Giriş yönteminin belirlenmesi ====
 
-   * Tap the 'set input method' button.
-   * A window opens. Tap the circle by 'translationKeyboard'.
-   * The window closes.
+  * «Giriş yöntemini belirleyin» düğmesine dokunun.
+  * Bir pencere açılacak. 'translationKeyboard'un yanındaki daireye dokunun.
+  * Pencere kapanacak.
 
 ==== Action 3: Select the input languages ====
 
