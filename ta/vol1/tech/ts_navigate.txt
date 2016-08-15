@@ -18,9 +18,9 @@ Gezinme ve menü simgeleri ekranın sol yanındadır. Üstteki üç simge çalı
 
 **Yoklama ** simgesi sol yandaki alt simgedir ve onay işaretli pano gibi görünür. Bu görünümde kaynak metin sol yanda, çeviri metni ise sağ yandadır. O kısma dair kaynakları göstermek için parmağınızla bir yana çekin. (Bkz: [[:tr:ta:vol1:tech:ts_resources|translationStudio’da Kaynakları Bulmak]]) Kısımdan kısma geçmek için parmağınızla aşağıya veya yukarıya çekin.
 
-==== Slider ====
+==== Sürgü ====
 
-The **Slider** icon is a quick way to move through a story or book of the Bible.  Tap-and-hold the dot and swipe towards the bottom or the top of the slider. 
+**Sürgü**, öyküden veya Kutsal Kitap’tan bir bölümden hızlıca geçmek için kullanılır. Noktaya dokunup parmağınızla tutun ve sürgünün alt veya üst yanına doğru çekin.
 
 ==== Three Dots Menu ====
 
