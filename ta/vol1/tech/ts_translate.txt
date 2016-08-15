@@ -6,11 +6,11 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
 
-===== How to Translate =====
+===== Nasıl Çevirmeli =====
 
-A basic translation process for any unfoldingWord project is explained here.
+Herhangi unfoldingWord projesinin temel süreci burada anlatılmaktadır.
 
-Note: the recommendations of the [[http://www.forum-intl.org/resources|Forum of Bible Agencies]] is a helpful reference in the translation of any theological text.
+Not: [[http://www.forum-intl.org/resources|Kutsal Kitap Kurumları Forumu’nun tavsiyeleri]], herhangi teolojik metnin çevrilmesinde faydalı referans niteliğindedir.
 
 ==== Translating the Text ====
 
