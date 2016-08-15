@@ -6,8 +6,9 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:tech:d43_intro|Door43]]//
 
-==== Statement of Faith ====
-The [[:tr:ta:vol1:intro:statement_of_faith|Statement of Faith]] is subscribed to by all member organizations of and contributors to the unfoldingWord project. It is in agreement with the Lausanne Covenant.
+==== İman Beyanı ====
+
+UnfoldingWord projesinin üyesi olan bütün kuruluşlar ve katkıda bulunanlar, [[:tr:ta:vol1:intro:statement_of_faith|İman Beyanı’nı]] ionaylayıp imzalamak zorundadırlar. Bu İman Beyanı, Lausanne Müjdeci Antlaşması’na uygundur.
 
 ==== Translation Guidelines ====
 The specific steps involved may vary significantly, depending on the language and context of the translation project. Generally, we consider a good translation to be one that is:\\
