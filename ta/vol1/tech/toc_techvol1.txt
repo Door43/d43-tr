@@ -1,6 +1,6 @@
-===== Table of Contents - Technology Manual Volume 1 =====
+===== İçindekiler - Teknoloji Kılavuzu 1. Cilt =====
 
-This module answers the question: //What is in volume 1 of the technology manual?//
+This module answers the question: //Teknoloji kılavuzunun 1. cildinde ne var?​//
 
 ==== Technology Manual Volume 1 ====
   - [[tr:ta:vol1:tech:tech_manual]]
