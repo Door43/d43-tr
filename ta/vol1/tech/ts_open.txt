@@ -1,9 +1,10 @@
-===== Opening a Translation Project =====
+===== Çeviri Projesinin Açılması =====
 
-This module answers the question: //How do I open a translation project in translationStudio?//
+This module answers the question: //translationStudio’da bir çeviri projesini nasıl açabilirim?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
+
+  * //[[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
 
 ==== First Time Use ====
 
