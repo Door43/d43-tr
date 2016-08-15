@@ -20,7 +20,7 @@ translationStudio’yu ilk kez kullandığınızda uygulama sizi hedef dili uyar
       - Dili bulmak için parmağınızla kaydırın
   - Dokunarak seçin: ya Bible:NT (Kutsal Kitap, Yeni Ahit), ya Bible:OT (Kutsal Kitap, Eski Ahit), ya da Open Bible Stories (Açık Kutsal Kitap Öyküleri)
       - Kutsal Kitap’ın bir kitabına dokunun ya da Açık Kutsal Kitap Öyküleri 1. Öykü, Yaradılış’ta açılır.
-  - Bir ya da birkaç dili seçmek için Source Language (Kaynak Dil)’e dokunun (Bkz: [[:tr:ta:vol1:tech:ts_select|Select Source and Target Languages]] for more information)
+  - Bir ya da birkaç dili seçmek için Source Language (Kaynak Dil)’e dokunun (Bkz: [[:tr:ta:vol1:tech:ts_select|Select Source and Target Languages]])
 
 Edit ekranından:
 
