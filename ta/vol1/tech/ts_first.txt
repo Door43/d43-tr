@@ -1,9 +1,10 @@
-===== Use translationStudio for the First Time =====
+===== translationStudio’nun İlk Kullanımı =====
 
-This module answers the question: //How do I use translationStudio for the first time?//
+This module answers the question: //translationStudio’yu ilk kez nasıl kullanmalıyım?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
+
+  * //[[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
 
 ==== First Use of tS ====
 
