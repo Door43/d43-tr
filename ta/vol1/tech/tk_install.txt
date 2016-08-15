@@ -8,21 +8,21 @@ Before you start this module have you learned about:
 
 ==== Bir cihaza tK’yi nasıl kurabilirim? ====
 
-Watch the
+Şu videoyu izleyin
 {{:en:ta:tech:installing_translationkeyboard-android_v2.mp4|Installing translationKeyboard}}
-One video or follow these directions:
+ya da aşağıdaki talimatlara uyun:
 
-**Note: ** Installing requires an Internet connection.
+**Not**: Kurulum internet bağlantısını gerektirir.
 
-   * Tap the **Google Play Store**  icon on the Android device to open Google Play Store.
-  * In the Play Store, click on the magnifying glass at the top right of the window.
-  * Tap **Search Google Play**  and type translationKeyboard (do not use spaces).
-  * Tap the magnifying glass or close the keyboard.
-  * When the Play Store has found the program, tap the **tK**  icon.
-  * Tap **Install**  on the next screen.
-  * Tap **Accept**  to accept the default settings of the program.
-  * The program will download and then install.
-  * Once the program is installed, tap **Open**  or use the Android back button to close the Google Play Store. The tK icon should appear on the Android screen.
+   * **Google Play Store**  mağazasının açılması için Android cihazında Google Play Store simgesine dokunun.
+  * Google Play Store’da pencerenin üst sağ köşesindeki büyütece tıklayın.
+  * **Search Google Play’e ** dokunun ve translationKeyboard girin (boşluksuz).
+  * Büyütece dokunun veya klavyeyi kapatın.
+  * Play Store programı bulduktan sonra **tK ** simgesine dokunun.
+  * Bir sonraki ekranda **Install’a ** dokunun.
+  * Programın varsayılan ayarlarını kabul etmek için **Accept’e ** dokunun.
+  * Program cihaza indirilip kurulacaktır.
+  * Programın kurulumu bitince **Open’e ** dokunun veya Google Play Store’u kapatmak için Android geri düğmesini kullanın. Android ekranına tK simgesi çıkacaktır.
 
 Next we recommend you learn about:
 
