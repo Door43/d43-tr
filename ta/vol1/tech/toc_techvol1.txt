@@ -2,47 +2,48 @@
 
 This module answers the question: //Teknoloji kılavuzunun 1. cildinde ne var?​//
 
-==== Technology Manual Volume 1 ====
-  - [[tr:ta:vol1:tech:tech_manual]]
+==== Teknoloji Kılavuzu 1. Cilt ====
 
-=== translationStudio Mobile App ===
-  - [[tr:ta:vol1:tech:tS_intro]]
-     - [[tr:ta:vol1:tech:tS_install]]
-     - [[tr:ta:vol1:tech:tS_first]]
-     - [[tr:ta:vol1:tech:tS_select]]
-     - [[tr:ta:vol1:tech:tS_open]]
-     - [[tr:ta:vol1:tech:tS_navigate]]
-     - [[tr:ta:vol1:tech:tS_request]]
-     - [[tr:ta:vol1:tech:tS_translate]]
-     - [[tr:ta:vol1:tech:tS_create]]
-     - [[tr:ta:vol1:tech:tS_resources]]
-     - [[tr:ta:vol1:tech:tS_useresources]]
-     - [[tr:ta:vol1:tech:tS_share]]
-     - [[tr:ta:vol1:tech:tS_upload]]
-     - [[tr:ta:vol1:tech:tS_update]]
-     - [[tr:ta:vol1:tech:tS_publish]]
-     - [[tr:ta:vol1:tech:translate_helptS]]
-     - [[tr:ta:vol1:tech:tS_problem]]
+  - [[:tr:ta:vol1:tech:tech_manual|Welcome to the Technology Manual]]
 
-=== translationKeyboard Mobile App ===
-  - [[tr:ta:vol1:tech:tK_intro]] 
-     - [[tr:ta:vol1:tech:tK_install]]
-     - [[tr:ta:vol1:tech:tK_start]]
-     - [[tr:ta:vol1:tech:tK_use]]
-     - [[tr:ta:vol1:tech:tK_enable]]
-     - [[tr:ta:vol1:tech:tK_find]]
-     - [[tr:ta:vol1:tech:tK_create]]
-     - [[tr:ta:vol1:tech:tK_update]]
+=== translationStudio Mobil Uygulaması ===
 
-=== unfoldingWord Mobile App ===
-  - [[tr:ta:vol1:tech:uW_app]]
-     - [[tr:ta:vol1:tech:uW_install]]
-     - [[tr:ta:vol1:tech:uW_first]]
-     - [[tr:ta:vol1:tech:uW_checking]]
-     - [[tr:ta:vol1:tech:uW_language]]
-     - [[tr:ta:vol1:tech:uW_select]]
-     - [[tr:ta:vol1:tech:uW_update_content]]
-     - [[tr:ta:vol1:tech:uW_audio]]
+  -  [[:tr:ta:vol1:tech:ts_intro|translationStudio]]
+      - [[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
+      - [[:tr:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]
+      - [[:tr:ta:vol1:tech:ts_select|Kaynak ve Hedef Dillerin Seçilmesi]]
+      - [[:tr:ta:vol1:tech:ts_open|Çeviri Projesinin Açılması]]
+      - [[:tr:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
+      - [[:tr:ta:vol1:tech:ts_request|Dilimi Bulmak]]
+      - [[:tr:ta:vol1:tech:ts_translate|Translating in translationStudio]]
+      - [[:tr:ta:vol1:tech:ts_create|Create and Edit Text]]
+      - [[:tr:ta:vol1:tech:ts_resources|translationStudio’da Kaynakları Bulmak]]
+      - [[:tr:ta:vol1:tech:ts_useresources|translationStudio’daki Kaynaklar Nasıl Kullanılır]]
+      - [[:tr:ta:vol1:tech:ts_share|Backup and Share Your Work]]
+      - [[:tr:ta:vol1:tech:ts_upload|Upload Your Work]]
+      - [[:tr:ta:vol1:tech:ts_update|translationStudio Projelerinin Güncelleştirilmesi]]
+      - [[:tr:ta:vol1:tech:ts_publish|unfoldingWord’a İçeriğin Yayınlanması]]
+      - [[:tr:ta:vol1:tech:translate_helpts|translationStudio için Yardımın Bulunması]]
+      - [[:tr:ta:vol1:tech:ts_problem|Sorun Raporu]]
 
+=== translationKeyboard Mobil Uygulaması ===
 
+  -  [[:tr:ta:vol1:tech:tk_intro|translationKeyboard]]
+      - [[:tr:ta:vol1:tech:tk_install|translationKeyboard’un Android Cihazına Kurulumu]]
+      - [[:tr:ta:vol1:tech:tk_start|translationKeyboard uygulamasının Android cihazına kurulumu]]
+      - [[:tr:ta:vol1:tech:tk_use|How to Use the translationKeyboard in translationStudio]]
+      - [[:tr:ta:vol1:tech:tk_enable|Enable translationKeyboard on an Android Device]]
+      - [[:tr:ta:vol1:tech:tk_find|Giriş Yönteminin Seçilmesi]]
+      - [[:tr:ta:vol1:tech:tk_create|Create a Keyboard in tK]]
+      - [[:tr:ta:vol1:tech:tk_update|Update translationKeyboard]]
 
+=== unfoldingWord Mobil Uygulaması ===
+
+  -  [[:tr:ta:vol1:tech:uw_app|uW_app]]
+      - [[:tr:ta:vol1:tech:uw_install|Install unfoldingWord on an Android Device]]
+      - [[:tr:ta:vol1:tech:uw_first|unfoldingWord’un İlk Kez Kullanılması]]
+      - [[:tr:ta:vol1:tech:uw_checking|Yoklama Seviyeleri Hakkında]]
+      - [[:tr:ta:vol1:tech:uw_language|Dil Hakkında Bilgiler]]
+      - [[:tr:ta:vol1:tech:uw_select|Dili Seçin]]
+      - [[:tr:ta:vol1:tech:uw_update_content|Android Cihazındaki unfoldingWord’un Güncelleştirilmesi]]
+      - [[:tr:ta:vol1:tech:uw_audio|unfoldingWord’ta Ses Fonksiyonunun Kullanılması]]
