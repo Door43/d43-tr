@@ -10,9 +10,9 @@ Before you start this module have you learned about:
 
 Dilinizde yeni bölümü yaratmak için istenen bölüne gidin, kaynak metni okuyun, boş sayfa için parmağınızla çekin ve **Çeviriye Başla** simgesine dokunun. Simge kaybolacak, boş sayfaya dokunun, klavye açılacak ve siz işe başlayabilirsiniz. İşi bitirdikten sonra başka bir bölüme gidebilir ya da uygulamaktan çıkabilirsiniz.
 
-==== Save Translation Text ====
+==== Çeviri Metninin Kaydedilmesi ====
 
-Every five minutes, your work is saved automatically in your device memory. Your work is not saved on unfoldingWord until you upload your work. (See: [[tr:ta:vol1:tech:ts_upload]])
+İşiniz beş dakikada bir cihazınızın belleğinde otomatik olarak kaydedilir. Siz işinizi yüklemeden önce o, unfoldingWord’da kaydedilmez. (Bkz: [[:tr:ta:vol1:tech:ts_upload|Upload Your Work]])
 
 ==== Edit Translation Text ====
 
