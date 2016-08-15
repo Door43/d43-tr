@@ -1,9 +1,10 @@
-===== Create and Edit Text =====
+===== Metnin Yaratılması ve Düzeltilmesi =====
 
-This module answers the question: //How do I create and edit text?//
+This module answers the question: //Metni nasıl yaratır ve düzeltirim?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
+
+  * //[[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
 
 ==== Create Translation Text ====
 
