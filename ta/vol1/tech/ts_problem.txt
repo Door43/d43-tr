@@ -1,9 +1,10 @@
-===== Report a Problem =====
+===== Sorun Raporu =====
 
-This module answers the question: //How do I report a problem?//
+This module answers the question: //Sorunu nasıl rapor edebilirim?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:tech:ts_intro|translationStudio]]//
+
+  * //[[:tr:ta:vol1:tech:ts_intro|translationStudio]]//
 
 ==== Reporting Problems ====
 
