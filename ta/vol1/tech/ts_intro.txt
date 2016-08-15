@@ -1,6 +1,6 @@
 ===== translationStudio =====
 
-This module answers the question: //What is the translationStudio App?//
+This module answers the question: //translationStudio uygulaması nedir?//
 
 ==== Intro to the translationStudio App ====
 
