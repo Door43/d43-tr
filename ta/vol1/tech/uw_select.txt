@@ -6,21 +6,19 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:tech:uw_app|unfoldingWord Mobile App]]//
 
-==== Selecting a Language ====
+==== Dilin Seçilmesi ====
 
-To change the language of the stories in unfoldingWord, tap the arrow in the upper left corner of the screen. At the list of languages, tap the language you would like to view.
+unfoldingWord’da öykülerin dilini değiştirmek için ekranın üst sol köşesindeki oka dokunun. Diller listesinde görüntülemek istediğiniz dile dokunun.
 
-**Note: ** To update the list of languages, tap the cloud icon in the green bar at the top of the screen.
+**Not**: Diller listesini güncelleştirmek için ekranın üst yanındaki yeşil çubukta bulunan bulut simgesine dokunun.
 
-Go back to the __[[:tr:ta:vol1:tech:uw_intro|unfoldingWord]]__ page.
-
-
+__[[:tr:ta:vol1:tech:uw_intro|unfoldingWord]]__ sayfasına dönün.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:tech:uw_install|Install unfoldingWord on an Android Device]]//
-  * //[[tr:ta:vol1:tech:uw_first|Use unfoldingWord for the First Time]]//
-  * //[[tr:ta:vol1:tech:uw_checking|About Checking Levels]]//
-  * //[[tr:ta:vol1:tech:uw_language|Language Information]]//
-  * //[[tr:ta:vol1:tech:uw_update_content|Update unfoldingWord on an Android Device]]//
-  * //[[tr:ta:vol1:tech:uw_audio|Use the Audio Feature in unfoldingWord]]//
 
+  * //[[:tr:ta:vol1:tech:uw_install|Install unfoldingWord on an Android Device]]//
+  * //[[:tr:ta:vol1:tech:uw_first|Use unfoldingWord for the First Time]]//
+  * //[[:tr:ta:vol1:tech:uw_checking|About Checking Levels]]//
+  * //[[:tr:ta:vol1:tech:uw_language|Language Information]]//
+  * //[[:tr:ta:vol1:tech:uw_update_content|Update unfoldingWord on an Android Device]]//
+  * //[[:tr:ta:vol1:tech:uw_audio|Use the Audio Feature in unfoldingWord]]//
