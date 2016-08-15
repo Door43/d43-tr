@@ -10,13 +10,13 @@ Before you start this module have you learned about:
 
 Gezinme ve menü simgeleri ekranın sol yanındadır. Üstteki üç simge çalışma görünümleridir, sürgü öyküden geçilmesini sağlar ve menü üç nokta simgesindedir.
 
-==== Working Icons ====
+==== Çalışma Simgeleri ====
 
-The **Chapter or Story** icon is the top left and looks like full sheets of paper. Swipe up to read the entire chapter or story. Swipe to the side for a blank page to type in the target language translation of the text.\\
+**Bölüm ** ya da **Öykü**simgesi en üst sol köşededir ve bir tabaka kâğıt gibi görünür. Bütün bölümü veya öyküyü okumak için parmağınızla yukarıya çekin. Metnin hedef dildeki çevirisini girmek amacıyla boş sayfanın açılması için parmağınızla bir yana çekin.
 
-The **Chunk** icon is the middle icon on the left and looks like a solid line square over a dotted line square. Swipe down or up to move from chunk to chunk (a small section of the story or chapter). Swipe  to the side for a blank page to type in the target language translation of the text.\\
+**Kısım ** simgesi sol yandaki orta simgedir ve noktalı çizgili karenin üstündeki bir düz çizgi kare gibi görünür. Kısımdan kısma geçmek için (burada kısım, öykünün veya bölümün küçük bir parçasıdır) parmağınızla aşağıya veya yukarıya çekin. Metnin hedef dildeki çevirisini girmek amacıyla boş sayfanın açılması için parmağınızla bir yana çekin.
 
-The **Check** icon is the bottom icon on the left and looks like a clipboard with a check mark. In this view the source text is on the left, the translation work is on the right. Swipe to the side to show the resources for that chunk. (See: [[tr:ta:vol1:tech:ts_resources]]) Swipe up or down to move from chunk to chunk.
+**Yoklama ** simgesi sol yandaki alt simgedir ve onay işaretli pano gibi görünür. Bu görünümde kaynak metin sol yanda, çeviri metni ise sağ yandadır. O kısma dair kaynakları göstermek için parmağınızla bir yana çekin. (Bkz: [[:tr:ta:vol1:tech:ts_resources|translationStudio’da Kaynakları Bulmak]]) Kısımdan kısma geçmek için parmağınızla aşağıya veya yukarıya çekin.
 
 ==== Slider ====
 
