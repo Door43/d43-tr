@@ -1,9 +1,10 @@
-===== Update translationKeyboard =====
+===== translationKeyboard’un Güncelleştirilmesi =====
 
-This module answers the question: //How do I update translationKeyboard?//
+This module answers the question: //translationKeyboard’u nasıl güncelleştirebilirim?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:tech:tk_intro|translationKeyboard]]//
+
+  * //[[:tr:ta:vol1:tech:tk_intro|translationKeyboard]]//
 
 ==== Updating tK ====
 
