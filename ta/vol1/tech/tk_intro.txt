@@ -2,18 +2,16 @@
 
 This module answers the question: //translationKeyboard uygulaması nedir?​//
 
-==== What is tK ====
+==== tK nedir ====
 
-The translationKeyboard is a mobile app where users can create custom keyboards for languages not supported by their mobile device. You may download translationKeyboard for Android devices. 
-
-
+translationKeyboard bir mobil uygulamadır. Bu uygulama kullanıcıların mobil cihazlarından desteklenmeyen diller için özel klavyelerin oluşturulmasına imkan verir. Android cihazları için translationKeyboard’u indirebilirsiniz.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]//
-  * //[[tr:ta:vol1:tech:tk_start|Setting Up the translationKeyboard APP on an Android device]]//
-  * //[[tr:ta:vol1:tech:tk_use|How to Use the translationKeyboard in translationStudio]]//
-  * //[[tr:ta:vol1:tech:tk_enable|Enable translationKeyboard on an Android Device]]//
-  * //[[tr:ta:vol1:tech:tk_find|Select an Input Method]]//
-  * //[[tr:ta:vol1:tech:tk_create|Create a Keyboard in tK]]//
-  * //[[tr:ta:vol1:tech:tk_update|Update translationKeyboard]]//
 
+  * //[[:tr:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]//
+  * //[[:tr:ta:vol1:tech:tk_start|Setting Up the translationKeyboard APP on an Android device]]//
+  * //[[:tr:ta:vol1:tech:tk_use|How to Use the translationKeyboard in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:tk_enable|Enable translationKeyboard on an Android Device]]//
+  * //[[:tr:ta:vol1:tech:tk_find|Select an Input Method]]//
+  * //[[:tr:ta:vol1:tech:tk_create|Create a Keyboard in tK]]//
+  * //[[:tr:ta:vol1:tech:tk_update|Update translationKeyboard]]//
