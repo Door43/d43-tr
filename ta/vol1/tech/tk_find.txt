@@ -1,9 +1,10 @@
-===== Select an Input Method =====
+===== Giriş Yönteminin Seçilmesi =====
 
-This module answers the question: //How do I select an input method?//
+This module answers the question: //Giriş yöntemini nasıl seçmeliyim?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]//
+
+  * //[[:tr:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]//
 
 ==== Selecting Input Method ====
 
