@@ -6,44 +6,42 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
 
-==== Source & Target Languages ====
+==== Kaynak ve Hedef Dilleri ====
 
-You can select and change your source language and target language whenever you use translationStudio.\\
+translationStudio’yu her kullandığınızda kaynak dili ve hedef dili seçip değiştirebilirsiniz.
 
-**Note:** The first time you use the application, translationStudio opens at the **Translation Projects** screen so you can select the target language. \\
+**Not**: uygulamayı ilk kez kullandığınızda hedef dili seçebilmeniz için **Çeviri Projeleri ** ekranı translationStudio’da açılır.
 
-Complete these steps to select or change the target language, which is the language you are translating TO:
-  - Tap the three dots icon.
-  - Choose **My Translations**
-  - Tap the blue circle with a + sign.
-  - Swipe up to find the target language or tap the look-up icon. The search field opens and the keyboard appears. Type the first few letters of your language to navigate to that portion of the list.
-  - Tap on your language. If you wish to hide the keyboard, tap the triangle in the black bar below the list.
-  - Choose a project to start translating.
+Hedef dili -yani çeviriyi hangi dile yapıyorsanız o dili- seçmek veya değiştirmek için bu adımları tamamlayın:
 
+  - Üç noktalı simgeye dokunun.
+  - **My Translations**  (**Çevirilerim**) seçin
+  - Üzerinde + işareti olan mavi daireye dokunun.
+  - Hedef dili bulmak için parmağınızla yukarıya çekin ya da arama simgesine dokunun. Arama alanı açılır ve klavye ortaya çıkar. Listenin istenen kısmına ulaşmak için dilinizin ilk harflerini girin.
+  - Dilinize dokunun. Klavyeyi gizlemek isterseniz, listenin altında bulunan siyah çubuğun içindeki üçgene dokunun.
+  - Çevirmeye başlamak için projeyi seçin.
 
-Complete these steps to select or change the source language, which is the language you are translating FROM:
-In the translation project:
-  - Tap the square icon with the + and - sign found at the top right of the source text window.
-  - Tap the empty square box next to the desired source language.
-  - Tap on "Confirm" at the bottom of the window to save the selection. Or, tap on "Cancel" to close and not save the selected language.
+Kaynak dili -yani çeviriyi hangi dilden yapıyorsanız o dili- seçmek veya değiştirmek için bu adımları tamamlayın: Çeviri projesinde:
 
-
+  - Kaynak metin penceresinin sağ üst köşesinde bulunan + ve - işaretli kare simgesine dokunun.
+  - İstenen kaynak dilin yanındaki boş kare kutuya dokunun.
+  - Seçilen dili kaydetmek için pencerenin altındaki \"Confirm» (Doğrula)’a dokunun. Yahut, seçilen dili kaydetmeksizin kapatmak için \"Cancel» (İptal)’a dokunun.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:tech:ts_intro|translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
-  * //[[tr:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]//
-  * //[[tr:ta:vol1:tech:ts_open|Opening a Translation Project]]//
-  * //[[tr:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_request|Find my Language]]//
-  * //[[tr:ta:vol1:tech:ts_translate|Translating in translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_create|Create and Edit Text]]//
-  * //[[tr:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
-  * //[[tr:ta:vol1:tech:ts_upload|Upload Your Work]]//
-  * //[[tr:ta:vol1:tech:ts_update|Update translationStudio Projects]]//
-  * //[[tr:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]//
-  * //[[tr:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]//
-  * //[[tr:ta:vol1:tech:ts_problem|Report a Problem]]//
 
+  * //[[:tr:ta:vol1:tech:ts_intro|translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
+  * //[[:tr:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]//
+  * //[[:tr:ta:vol1:tech:ts_open|Opening a Translation Project]]//
+  * //[[:tr:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_request|Find my Language]]//
+  * //[[:tr:ta:vol1:tech:ts_translate|Translating in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_create|Create and Edit Text]]//
+  * //[[:tr:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
+  * //[[:tr:ta:vol1:tech:ts_upload|Upload Your Work]]//
+  * //[[:tr:ta:vol1:tech:ts_update|Update translationStudio Projects]]//
+  * //[[:tr:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]//
+  * //[[:tr:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]//
+  * //[[:tr:ta:vol1:tech:ts_problem|Report a Problem]]//
