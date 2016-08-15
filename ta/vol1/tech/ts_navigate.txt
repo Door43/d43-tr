@@ -1,9 +1,10 @@
-===== Navigate in translationStudio =====
+===== translationStudio’da Gezinme =====
 
-This module answers the question: //How do I navigate in translationStudio?//
+This module answers the question: //translationStudio’da nasıl gezinirim?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
+
+  * //[[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
 
 ==== Layout ====
 
