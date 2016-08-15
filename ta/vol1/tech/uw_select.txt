@@ -1,9 +1,10 @@
-===== Select a Language =====
+===== Dili Seçin =====
 
-This module answers the question: //How do I select a language?//
+This module answers the question: //Dili nasıl seçmeliyim?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:tech:uw_app|unfoldingWord Mobile App]]//
+
+  * //[[:tr:ta:vol1:tech:uw_app|unfoldingWord Mobile App]]//
 
 ==== Selecting a Language ====
 
