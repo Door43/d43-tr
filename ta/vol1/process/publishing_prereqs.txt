@@ -1,9 +1,10 @@
-===== Publishing Prerequisites =====
+===== Yayınlama Önkoşulları =====
 
-This module answers the question: //What must be done before publishing?//
+This module answers the question: //Yayınlamadan önce ne yapılmalıdır?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:process:intro_publishing|Introduction to Publishing]]//
+
+  * //[[:tr:ta:vol1:process:intro_publishing|Introduction to Publishing]]//
 
 ==== Before Publishing ====
 
