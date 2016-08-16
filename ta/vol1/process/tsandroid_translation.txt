@@ -13,10 +13,10 @@ Before you start this module have you learned about:
   - Çeviri yaparken çeviri notları ve anahtar terimlerinden yararlanmanız önemle tavsiye edilir
   - translationStudio’da çeviri notlarını kullanmanın en iyi yolunu öğrenmek için lütfen şunu okuyun: [[:tr:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]
 
-==== Editing a page ====
+==== Sayfa düzeltme ====
 
-  * To learn how to create or edit a page see [[en:ta:vol1:tech:ts_create]]
-  * If your language has letters that do not appear on your device's keyboard, you may need to install and use translationKeyboard. See [[en:ta:vol1:tech:tk_intro]] and https://unfoldingword.org/translationkeyboard/ .
+  * Sayfayı nasıl [[:tr:ta:vol1:tech:ts_create|yaratacak veya düzelteceğinizi]] öğrenmek için buraya tıklayın
+  * Dilinizde cihazınızın klavyesinde çıkmayan harfler varsa, [[:tr:ta:vol1:tech:tk_intro|translationKeyboard’u]] kurup kullanmanız gerekli olabilir. (Ayrıca bkz: [[https://unfoldingword.org/translationkeyboard/|https://unfoldingword.org/translationkeyboard/]])
 
 ==== Saving My Work ====
 
