@@ -10,28 +10,25 @@ Before you start this module have you learned about:
 
 translationStudio’da bulunan yayınlanmamış içeriği paylaşmak kolaydır. Nasıl paylaşmayı öğrenmek için [[:tr:ta:vol1:tech:ts_share|buraya]] tıklayın.
 
-==== Sharing Unpublished Content from Door43 ====
+==== Yayınlanmamış İçeriği Door43’ten Paylaşma ====
 
-If someone has access to the internet, simply send them the link and they will be able to access the content online. 
+İnternete erişimi olan bir kişiye sadece bağlantıyı gönderin ve onun çevrim içi içeriğe erişimi sağlanmış olacaktır.
 
-To share the content offline, 
+İçeriği çevrim dışı paylaşmak için,
 
-   * Log in to Door43
-   * Go to the page you want to share
-   * On the right-hand side, click on the icon of a page with birds on it for a .odt file, or click on the icon underneath that for a .pdf download. 
-   * These files can be merged to create a resource and shared as desired. 
+  * Door43’te oturum açın
+  * Paylaşmak istediğiniz sayfaya gidin
+  * Sağ yanda, .odt dosyasını indirmek için üzerinde kuşlar resminin bulunduğu sayfa simgesine; ya da .pdf dosyasını indirmek için onun altındaki simgeye tıklayın.
+  * Bu dosyalar kaynak oluşturmak için birleştirilebilir ve arzu edildiği gibi paylaşılabilir.
 
-In addition to this, 
+Buna ek olarak,
 
-   * At the bottom right of each page are three export buttons:
-       * TXT - exports the page as a .txt file
-       * HTM - exports the page as a .html file
-       * ODT - exports the page as a .odt file
-   * These files can be merged to create a resource and shared as desired.
-
-
-
+  * Her sayfanın sağ alt köşesinde üç Ver düğmesi var:
+      * TXT - sayfayı .txt dosyası ver
+      * HTM - dosyayı .html dosyası ver
+      * ODT - sayfayı .odt dosyası ver
+  * Bu dosyalar kaynak oluşturmak için birleştirilebilir ve arzu edildiği gibi paylaşılabilir.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:process:share_published|How to Share Published Content]]//
 
+  * //[[:tr:ta:vol1:process:share_published|How to Share Published Content]]//
