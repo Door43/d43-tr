@@ -28,11 +28,8 @@ Before you start this module have you learned about:
 Çeviri takımının vereceği kararlar olacak ve bu kararların çoğu projenin başında verilecek. Aşağıdakiler dahildir:
 
   * [[:tr:ta:vol1:translate:translate_source_text|Kaynak Metin Seçme]] - İyi kaynak metni seçmek çok önemlidir
-
-      *  [[:tr:ta:vol1:translate:translate_source_licensing|Telif, Lisans ve Kaynak Metinler]]
- - Kaynak metin seçerken telif hakkı ile ilgili meseleler hesaba katılmalıdır
-      *  [[:tr:ta:vol1:translate:translate_source_version|Kaynak Metinler ve Versiyon Numaraları]]
- - Kaynak metnin en son versiyonundan çeviri yapmak en iyidir
+  * [[:tr:ta:vol1:translate:translate_source_licensing|Telif, Lisans ve Kaynak Metinler]] - Kaynak metin seçerken telif hakkı ile ilgili meseleler hesaba katılmalıdır
+  * [[:tr:ta:vol1:translate:translate_source_version|Kaynak Metinler ve Versiyon Numaraları]] - Kaynak metnin en son versiyonundan çeviri yapmak en iyidir
   * [[:tr:ta:vol1:translate:translate_alphabet|Alfabe/Ortografi]] - Birçok dilde alfabe ile ilgili kararların verilmesi gerekecek
   * [[:tr:ta:vol1:translate:writing_decisions|Dilinizde Yazmaya Dair Kararlar]] - Yazar stili, noktalama, isimlerin çevirisi, yazılış vs. konulara dair kararların verilmesi gerekecek
   * [[:tr:ta:vol1:translate:translate_what|What to Start Translating]] - Ayrıca en birinci çevrilecek metin hakkında karar verilecek
