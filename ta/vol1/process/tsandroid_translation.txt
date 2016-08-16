@@ -7,11 +7,12 @@ Before you start this module have you learned about:
   * //[[:tr:ta:vol1:process:pretranslation_training|Training Before Translation Begins]]//
   * //[[:tr:ta:vol1:process:setup_tsandroid|Setting Up translationStudio]]//
 
-==== Using Translation Helps ====
+==== Çeviriye Dair Yardımcı Kaynakların Kullanılması ====
 
-  - Once the source text is setup on translationStudio (for help see [[en:ta:vol1:process:setup_tsandroid]]), then you are ready to start translating. 
-    * It is strongly recommended that you consult the translationNotes and translationWords while doing your translation
-  - For the best way to use translationNotes in translationStudio, please read [[en:ta:vol1:tech:ts_resources]]
+  - Kaynak metnin translationStudio’da ayarlanmasının ardından siz çeviriye başlamaya hazır olursunuz (bkz: [[:tr:ta:vol1:process:setup_tsandroid|Setting Up translationStudio-Android]]).
+
+      * Çeviri yaparken çeviri notları ve anahtar terimlerinden yararlanmanız önemle tavsiye edilir
+  - translationStudio’da çeviri notlarını kullanmanın en iyi yolunu öğrenmek için lütfen şunu okuyun: [[:tr:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]
 
 ==== Editing a page ====
 
