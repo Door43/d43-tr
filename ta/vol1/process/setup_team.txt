@@ -23,23 +23,25 @@ Before you start this module have you learned about:
   * [[:tr:ta:vol1:translate:choose_team|Çeviri Takımının Seçilmesi]] - Gerekli olan birçok rol tanımlanır
   * [[:tr:ta:vol1:translate:qualifications|Translator Qualifications]] - Çevirmenlerin sahip olmaları gereken bazı beceriler tanımlanır
 
-==== Translation Decisions ====
+==== Çeviriye Dair Kararlar ====
 
-There are many decisions the translation team will have to make, many of them right at the beginning of the project. Included are the following:
-  * [[tr:ta:vol1:translate:translate_source_text]] - Choosing a good source text is very important
-    * [[tr:ta:vol1:translate:translate_source_licensing]] - Copyright issues must be considered when choosing a source text
-    * [[tr:ta:vol1:translate:translate_source_version]] - Translating from the latest version of a source text is best
-  * [[tr:ta:vol1:translate:translate_alphabet]] - Many languages have alphabet decisions that need to be made
-  * [[tr:ta:vol1:translate:writing_decisions]] - Writing style, punctuation, translating names, spelling, and other decisions have to be made
-  * [[tr:ta:vol1:translate:translate_what]] - Choosing what to translate first is another decision to be made
+Çeviri takımının vereceği kararlar olacak ve bu kararların çoğu projenin başında verilecek. Aşağıdakiler dahildir:
 
+  * [[:tr:ta:vol1:translate:translate_source_text|Kaynak Metin Seçme]] - İyi kaynak metni seçmek çok önemlidir
 
+      *  [[:tr:ta:vol1:translate:translate_source_licensing|Telif, Lisans ve Kaynak Metinler]]
+ - Kaynak metin seçerken telif hakkı ile ilgili meseleler hesaba katılmalıdır
+      *  [[:tr:ta:vol1:translate:translate_source_version|Kaynak Metinler ve Versiyon Numaraları]]
+ - Kaynak metnin en son versiyonundan çeviri yapmak en iyidir
+  * [[:tr:ta:vol1:translate:translate_alphabet|Alfabe/Ortografi]] - Birçok dilde alfabe ile ilgili kararların verilmesi gerekecek
+  * [[:tr:ta:vol1:translate:writing_decisions|Dilinizde Yazmaya Dair Kararlar]] - Yazar stili, noktalama, isimlerin çevirisi, yazılış vs. konulara dair kararların verilmesi gerekecek
+  * [[:tr:ta:vol1:translate:translate_what|What to Start Translating]] - Ayrıca en birinci çevrilecek metin hakkında karar verilecek
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:translate:choose_team|Choosing a Translation Team]]//
-  * //[[tr:ta:vol1:translate:qualifications|Translator Qualifications]]//
-  * //[[tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
-  * //[[tr:ta:vol1:translate:translate_alphabet|Alphabet/Orthography]]//
-  * //[[tr:ta:vol1:translate:writing_decisions|Decisions for Writing Your Language]]//
-  * //[[tr:ta:vol1:translate:translate_what|What to Start Translating]]//
 
+  * //[[:tr:ta:vol1:translate:choose_team|Choosing a Translation Team]]//
+  * //[[:tr:ta:vol1:translate:qualifications|Translator Qualifications]]//
+  * //[[:tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
+  * //[[:tr:ta:vol1:translate:translate_alphabet|Alphabet/Orthography]]//
+  * //[[:tr:ta:vol1:translate:writing_decisions|Decisions for Writing Your Language]]//
+  * //[[:tr:ta:vol1:translate:translate_what|What to Start Translating]]//
