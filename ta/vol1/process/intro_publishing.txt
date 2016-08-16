@@ -6,15 +6,15 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:process:prechecking_training|Training Before Checking Begins]]//
 
-==== Publishing Overview ====
+==== Yayınlama Özeti ====
 
-There are two translation platforms that we use - translationStudio and Door43. Once translations have been completed, we encourage these translations to be checked. Once a translation has been checked to at least Level 1, it becomes eligible to be published. Published content is placed on a platform where it remains static. While the content on Door43 can change frequently, the published content is static and assurance of quality remains high. 
+Kullandığımız iki çeviri platformu vardır - translationStudio ve Door43. Çevirilerin tamamlandıktan sonra yoklanmasını teşvik ederiz. Çeviri, en az 1. Seviyeye kadar yoklanmasının ardından yayınlanmaya uygun olur. Yayınlanmış içerik platforma yerleştirilir ve orada sabit kalır. Door43’teki içerik sık sık değişebilir, ama yayınlanmış içerik sabittir ve kalite beklentisi yüksek kalır.
 
-When content is published, a copy of what is found on Door43 is published to the [[https://unfoldingword.org/stories|unfoldingWord website]] in several formats:
+İçerik yayınladığında Door43’te bulunanın bir kopyası birkaç formatta [[https://unfoldingword.org/stories|unfoldingWord sitesinde]] de yayınlanır:
 
-   * To be viewed online
-   * In a print-ready PDF for Print-on-Demand
-   * On the free [[https://unfoldingword.org/app|unfoldingWord mobile app]] for offline consumption
+  * Çevrim içi görüntülenecek biçimde
+  * Talep üzerine baskı için yazdırılmaya hazır PDF olarak
+  * Çevrim dışı kullanım için ücretsiz [[https://unfoldingword.org/app|unfoldingWord mobil uygulamasında]]
 
 ==== Publishable Content ====
 
