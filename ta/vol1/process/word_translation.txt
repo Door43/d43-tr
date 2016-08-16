@@ -14,11 +14,11 @@ Before you start this module have you learned about:
       * Çeviri yaparken çeviri notları ve anahtar terimlerinden yararlanmanız önemle tavsiye edilir
   - Çeviri notları ve anahtar terimlerini kullanmanın en iyi yolu söz konusu dosyanın başka pencerede açılmasını sağlamaktır, öyle ki çeviri yaparken onlardan hızlı ve kolay bir şekilde yararlanabilesiniz.
 
-==== Changing a page ====
+==== Sayfa değiştirme ====
 
-  * It is recommended that you keep a copy of the source text so that the translation can be compared against the original. This can be done in one of two ways: 
-    * Put the translation above (or below) the source language but not deleting the source text. (Note: The source text will have to be deleted before uploading.)
-    * Make an extra copy of the source text, then delete the source text from the one copy after the translation has been made. When reference to the source text needs to be made, the other copy with the source text can be referenced. 
+  * Çevirinin orijinal ile karşılaştırılabilmesi için kaynak metnin bir kopyasını saklamanız tavsiye edilir. Bu, aşağıdaki iki yoldan biri ile yapılabilir:
+      * Çeviriyi kaynak dilin üstüne (ya da altına) koyun, ama kaynak metni silmeyin. (Not: Yüklenmeden önce kaynak metnin silinmesi gerekecek.)
+      * Kaynak metnin ek bir kopyasını oluşturun, çeviri yapıldıktan sonra bir kopyadan kaynak metni silin. Kaynak metne gönderme yapılması gerekirse kaynak metnin de bulunduğu öbür kopyadan yararlanılabilir.
 
 ==== Saving My Work ====
 
