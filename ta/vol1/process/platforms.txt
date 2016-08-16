@@ -1,9 +1,10 @@
-===== Selecting a Platform =====
+===== Platformun Seçilmesi =====
 
-This module answers the question: //How do I choose a translation platform?//
+This module answers the question: //Çeviri platformunu nasıl seçerim?//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:process:getting_started|Getting Started]]//
+
+  * //[[:tr:ta:vol1:process:getting_started|Getting Started]]//
 
 ==== Choosing a Translation Platform ====
 
