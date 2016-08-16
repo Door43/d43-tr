@@ -1,9 +1,10 @@
-===== Getting Started =====
+===== Başlama =====
 
-This module answers the question: //What do I need to have in place before getting started?//
+This module answers the question: //Başlamadan önce nasıl hazırlık yapmam gerekir?//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:process:process_manual|Introduction to the Process Manual]]//
+
+  * //[[:tr:ta:vol1:process:process_manual|Introduction to the Process Manual]]//
 
 ==== How to Get Started ====
 
