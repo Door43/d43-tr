@@ -11,7 +11,7 @@ Before you start this module have you learned about:
 
   - Kaynak metnin Door43’te ayarlanmasının ardından siz çeviriye başlamaya hazırsınız.
       * Çeviri yaparken çeviri notları ve anahtar terimlerinden yararlanmanız önemle tavsiye edilir
-  - Door43’te çeviri notlarını kullanmanın en iyi yolunu öğrenmek için lütfen şunu okuyun: [[:tr:ta:vol2:tech:translate_helpd43|Use the translationNotes on Door43]]
+  - Door43’te çeviri notlarını kullanmanın en iyi yolunu öğrenmek için lütfen şunu okuyun: [[:en:ta:vol2:tech:translate_helpd43|Use the translationNotes on Door43]]
 
 ==== Editing a page ====
 
