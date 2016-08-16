@@ -7,13 +7,14 @@ Before you start this module have you learned about:
   * //[[:tr:ta:vol1:translate:translate_process|The Translation Process]]//
   * //[[:tr:ta:vol1:process:getting_started|Getting Started]]//
 
-==== Translation Teams and the Definition of a Good Translation ====
+==== Çeviri Takımları ve İyi Çevirinin Tanımlanması ====
 
-There are many important questions that must be considered when setting up a translation and checking team. Perhaps the most important thing to keep in mind is that the goal is a [[tr:ta:vol1:translate:guidelines_intro|good translation]] which has four basic characteristics:
-  * [[tr:ta:vol1:translate:guidelines_clear|Clear]] - Clear translations can only be produced by including native-speakers of the target language, preferably many of them, as translators and checkers
-  * [[tr:ta:vol1:translate:guidelines_natural|Natural]] - Natural translations can only be produced by including native-speakers of the target language, preferably many of them, as translators and checkers
-  * [[tr:ta:vol1:translate:guidelines_accurate|Accurate]] - Accurate translations can only be produced by people who understand well the language of the source text and notes and preferably the original text, too
-  * [[tr:ta:vol1:translate:guidelines_church_approved|Church-Approved]] - Church-Approved translations are most easily produced by including in the translation and checking process as many church networks who speak the target language as possible
+Çeviri ve yoklama takımı kurarken göz önüne alınacak birçok önemli soru vardır. Dikkate alınacak belki de en önemli şey şu ki, amaç, aşağıdaki dört temel niteliğe sahip olan [[:tr:ta:vol1:translate:guidelines_intro|iyi çeviridir]]:
+
+  * [[:tr:ta:vol1:translate:guidelines_clear|Açık]] - Açık çeviriler sadece hedef dilin anadil taşıyıcıları tarafından yapılabilir ve birçok anadil taşıyıcısının çevirmen ve yoklayan olarak çeviriye katılması tercih edilir
+  * [[:tr:ta:vol1:translate:guidelines_natural|Doğal]] - Doğal çeviriler sadece hedef dilin anadil taşıyıcıları tarafından yapılabilir ve birçok anadil taşıyıcısının çevirmen ve yoklayan olarak çeviriye katılması tercih edilir
+  * [[:tr:ta:vol1:translate:guidelines_accurate|Doğru]] - Doğru çeviriler sadece kaynak metnin ve notların dilini (ve tercihen orijinal dilini de) iyi anlayan kişiler tarafından yapılabilir
+  * [[:tr:ta:vol1:translate:guidelines_church_approved|Kilise Onaylı]] - Kilise onaylı çeviriler, hedef dilde konuşan olabildiğince çok kilise birliklerinin çeviri ve yoklama sürecine katılmasını sağlamak yolu ile en kolay yapılır
 
 ==== Choosing a Team ====
 
