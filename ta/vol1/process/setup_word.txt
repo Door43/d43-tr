@@ -16,12 +16,10 @@ Before you start this module have you learned about:
 
   * Açık Kutsal Kitap Öyküleri için çeviriye dair yardımcı kaynakların indirilmesi şu anda otomatik değildir. Yardım için lütfen [[:tr:ta:vol1:intro:finding_answers|Yardım Masası’yla]] iletişime geçin
 
-==== Obtaining the Source Text & Helps for the Bible ====
+==== Kutsal Kitap için Kaynak Metni ve Yardımcı Kaynakları Alma ====
 
-  * This process is not presently automated. Please contact the [[tr:ta:vol1:intro:finding_answers|Helpdesk]] for further assistance.
-
-
+  * Bu prosedür şu anda otomatik değildir. Yardım için lütfen [[:tr:ta:vol1:intro:finding_answers|Yardım Masası’yla]] iletişime geçin.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:process:word_translation|Translating in a Word Processor]]//
 
+  * //[[:tr:ta:vol1:process:word_translation|Translating in a Word Processor]]//
