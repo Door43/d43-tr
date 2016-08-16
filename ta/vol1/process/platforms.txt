@@ -10,9 +10,9 @@ Before you start this module have you learned about:
 
 Şimdi bir çeviri ve yoklama platformu seçmeniz gerekiyor. Çeviri ve yoklama takımlarınız burada işlerini görecekler. Dört seçenek mevcuttur:
 
-  * Web tarayıcısında çevrim içi - Devamlı internet bağlantısına sahip olanlar doğrudan Door43’te çalışabilirler. Door43’ü çeviriye ayarlamak için [[:tr:ta:vol1:process:setup_door43|buraya tıklayın]].
-  * Mobil cihazda çevrim dışı - Android tableti veya mobil cihazı sahipleri, translationStudio adındaki çeviri uygulamamızda çevrim dışı çalışabilirler. translationStudio’yu ayarlamak için [[:tr:ta:vol1:process:setup_tsandroid|buraya tıklayın]].
-  * Word işlemcisinde çevrim dışı olarak - Word işlemcisinde çalışmak isteyenler bunu yapmak için gerekli olan dosyaları indirebilirler. Word işlemcisini ayarlamak için [[:tr:ta:vol1:process:setup_word|buraya tıklayın]].
+  * Web tarayıcısında çevrim içi - Devamlı internet bağlantısına sahip olanlar doğrudan Door43’te çalışabilirler. Door43’ü çeviriye ayarlamak için [[:tr:ta:vol1:process:setup_door43|buraya]] tıklayın.
+  * Mobil cihazda çevrim dışı - Android tableti veya mobil cihazı sahipleri, translationStudio adındaki çeviri uygulamamızda çevrim dışı çalışabilirler. translationStudio’yu ayarlamak için [[:tr:ta:vol1:process:setup_tsandroid|buraya]] tıklayın.
+  * Word işlemcisinde çevrim dışı olarak - Word işlemcisinde çalışmak isteyenler bunu yapmak için gerekli olan dosyaları indirebilirler. Word işlemcisini ayarlamak için [[:tr:ta:vol1:process:setup_word|buraya]] tıklayın.
 
 Next we recommend you learn about:
 
