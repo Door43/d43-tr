@@ -16,18 +16,18 @@ Kullandığımız iki çeviri platformu vardır - translationStudio ve Door43. �
   * Talep üzerine baskı için yazdırılmaya hazır PDF olarak
   * Çevrim dışı kullanım için ücretsiz [[https://unfoldingword.org/app|unfoldingWord mobil uygulamasında]]
 
-==== Publishable Content ====
+==== Yayınlanabilen İçerik ====
 
-Presently, there are two text resources that can be published using the unfoldingWord publishing engine: 
+Şu anda unfoldingWord yayınlama motorunu kullanarak yayınlanabilecek iki metin kaynağı vardır:
 
-   * [[en:obs|Open Bible Stories]]
-   * [[en:bible:intro|the Bible]]
+  * [[:tr:obs|Açık Kutsal Kitap Öyküleri]]
+  * [[:tr:bible:intro|Kutsal Kitap]]
 
 Capacity is being built to be able to handle multimedia formats as well:
 
-   * Audio Open Bible Stories
-   * Video Open Bible Stories
-   * Audio Bible
+  * Audio Open Bible Stories
+  * Video Open Bible Stories
+  * Audio Bible
 
 ==== Published Content ====
 
