@@ -25,14 +25,12 @@ Yayınlama Talebi formunun gönderilmesi üzerine yapılacak olan şudur:
   * **Belgelerin yoklaması**  - unfoldingWord takımından bir kişi tüm belgelerin yerinde olmasını ve yoklama sürecinde izlenen prosedürlerin [[https://unfoldingword.org/quality/|Yoklama Seviyelerinde]] açıklanmış kurallara uymasını yoklayacaktır.
 Belgelerden herhangi biri düzgün değilse başvuranın e-posta adresine mesaj gönderilecek ve sorun çözülüp «Yayınlamaya Devam Etme Talebi» formu gönderilinceye kadar süreç askıya alınacaktır.
 
-==== Finishing the Publishing Process ====
+==== Yayınlama Sürecini Sona Erdirme ====
 
-When the publishing process is complete, the content will be published to the unfoldingWord catalogue which makes it available on the [[http://unfoldingword.org/stories|unfoldingWord website]] as a print-ready PDF and viewable online. It will also be published to the [[https://unfoldingword.org/app/|unfoldingWord mobile app]]. (In order for this newly published content to appear on your unfoldingWord app, you may need to download the latest content from the web.)
+Yayınlama süreci tamamlandığında içerik unfoldingWord katalogunda yayınlanacak ve [[http://unfoldingword.org/stories|unfoldingWord web sitesinde]] yazdırılmaya hazır PDF olarak ve çevrim içi görüntülenebilir şekilde erişilir duruma gelecek. Ayrıca [[https://unfoldingword.org/app/|unfoldingWord mobil uygulamasına]] yayınlanacak. (Bu yeni yayınlanmış içeriğin unfoldingWord uygulamanızda çıkması için internetten en son içeriği indirmeniz gerekebilir.)
 
-The requester will be emailed and informed that the publishing process has been completed and they will be requested to look over the published content to ensure that everything "looks right." 
-
-
+Başvuranın e-posta adresine mesaj gönderilecek ve bu mesajla yayınlama sürecinin tamamlanmış olduğu bildirilecek; ve söz konusu yayınlanmış içeriği gözden geçirip her şeyin «doğru göründüğünden» emin olmaları istenecektir.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:process:intro_share|Introduction to Distribution]]//
 
+  * //[[:tr:ta:vol1:process:intro_share|Introduction to Distribution]]//
