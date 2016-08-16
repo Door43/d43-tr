@@ -1,9 +1,10 @@
-===== Upload Your Work =====
+===== İşinizi Yükleme =====
 
-This module answers the question: //How do I upload my work?//
+This module answers the question: //İşimi nasıl yükleyebilirim?//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
+
+  * //[[:tr:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
 
 ==== Uploading ====
 
