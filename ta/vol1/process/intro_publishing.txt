@@ -33,7 +33,7 @@ Ayrıca çoklu ortamlı formatların kullanılabilmesi için kapasite geliştiri
 
 Yayınlanmış İçerik [[https://unfoldingword.org/stories/|https://unfoldingword.org/stories/]] sitesinde ve [[https://unfoldingword.org/app|unfoldingWord mobil uygulamasında]] bulunabilir.
 
-Door43’te, kaynaklarda yayınlama durumunu açıklayan kısa bildiri çıkar. Örneğin, [[:en:obs|Açık Kutsal Kitap Öyküleri’nin İngilizce versiyonunda]] «Bu kaynak unfoldingWord’da 3. yoklama seviyesinde 4. versiyon olarak yayınlanmıştır. Onu https://unfoldingword.org/stories adresinde bulabilirsiniz.» bildirisi çıkıyor.
+Door43’te, kaynaklarda yayınlama durumunu açıklayan kısa bildiri çıkar. Örneğin, [[:tr:obs|Açık Kutsal Kitap Öyküleri’nin İngilizce versiyonunda]] «Bu kaynak unfoldingWord’da 3. yoklama seviyesinde 4. versiyon olarak yayınlanmıştır. Onu [[https://unfoldingword.org/stories|https://unfoldingword.org/stories]] adresinde bulabilirsiniz.» bildirisi çıkıyor.
 
 Next we recommend you learn about:
 
