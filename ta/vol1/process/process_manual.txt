@@ -6,18 +6,15 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:intro:finding_answers|Finding Answers]]//
 
-==== Welcome ====
+==== Hoş Gediniz ====
 
-The Process Manual is a practical guide to help translation teams know what steps need to be taken from start to finish and how those steps are to be taken. While the Translation Manual is a how-to guide for translation theory and the Checking Manual is a how-to guide for checking theory and the Technology Manual is a how-to guide for using certain technology pieces, the Process Manual seeks to give a step-by-step process the translation team can follow. The Process Manual guides the translation team from initial setup to final publishing of translated and checked content. 
-
-
-
+Prosedür Kılavuzu, çeviri takımlarına baştan sona kadar atılacak adımları bilmelerine yardım edecek olan pratik rehberdir. Çeviri Kılavuzu çeviri kuramı için el kitabı, Yoklama Kılavuzu yoklama kuramı için el kitabı ve Teknoloji Kılavuzu bazı teknolojilerin kullanımı için el kitabı olduğu gibi Prosedür Kılavuzu çeviri takımının adım adım izleyebileceği prosedürü anlatmayı amaçlar. Prosedür Kılavuzu, başlangıç ayarlarından çevrilen ve yoklanan içeriğin son yayınlanmasına kadar çeviri takımını yönlendirir.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:process:getting_started|Getting Started]]//
-  * //[[tr:ta:vol1:process:platforms|Selecting a Platform]]//
-  * //[[tr:ta:vol1:process:pretranslation_training|Training Before Translation Begins]]//
-  * //[[tr:ta:vol1:process:prechecking_training|Training Before Checking Begins]]//
-  * //[[tr:ta:vol1:process:intro_publishing|Introduction to Publishing]]//
-  * //[[tr:ta:vol1:process:intro_share|Introduction to Distribution]]//
 
+  * //[[:tr:ta:vol1:process:getting_started|Getting Started]]//
+  * //[[:tr:ta:vol1:process:platforms|Selecting a Platform]]//
+  * //[[:tr:ta:vol1:process:pretranslation_training|Training Before Translation Begins]]//
+  * //[[:tr:ta:vol1:process:prechecking_training|Training Before Checking Begins]]//
+  * //[[:tr:ta:vol1:process:intro_publishing|Introduction to Publishing]]//
+  * //[[:tr:ta:vol1:process:intro_share|Introduction to Distribution]]//
