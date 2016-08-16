@@ -10,8 +10,7 @@ Before you start this module have you learned about:
 ==== Çeviriye Dair Yardımcı Kaynakların Kullanılması ====
 
   - Kaynak metnin translationStudio’da ayarlanmasının ardından siz çeviriye başlamaya hazır olursunuz (bkz: [[:tr:ta:vol1:process:setup_tsandroid|Setting Up translationStudio-Android]]).
-
-      - Çeviri yaparken çeviri notları ve anahtar terimlerinden yararlanmanız önemle tavsiye edilir
+  - Çeviri yaparken çeviri notları ve anahtar terimlerinden yararlanmanız önemle tavsiye edilir
   - translationStudio’da çeviri notlarını kullanmanın en iyi yolunu öğrenmek için lütfen şunu okuyun: [[:tr:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]
 
 ==== Editing a page ====
