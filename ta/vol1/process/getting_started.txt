@@ -6,22 +6,19 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:process:process_manual|Introduction to the Process Manual]]//
 
-==== How to Get Started ====
+==== Nasıl Başlayabiliriz ====
 
-Before getting started, you must be able to:
+Başlamadan önce şunları yapmanız zorunludur:
 
-   * Agree with the [[tr:ta:vol1:intro:statement_of_faith|Statement of Faith]], [[tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]], and the [[tr:ta:vol1:intro:open_license|Open License]]. (Everyone involved in the translation and checking will need to [[https://unfoldingword.org/forms|sign a statement]] that work is being done according to those standards.)
-   * Read with fluency the source language in which the text and translation helps are available.
-   * Gain access to the source text and translation helps either in print form, or online at https://door43.org, or through translationStudio - our mobile app platform (see https://unfoldingword.org/translationstudio/).
-   * Have access to an internet-connected computer or tablet where the translation can be uploaded and audio (if desired) can be recorded. See "[[tr:ta:vol1:tech:hardware|Suggested Hardware]]".
+  * [[:tr:ta:vol1:intro:statement_of_faith|İman Beyanı]], [[:tr:ta:vol1:intro:translation_guidelines|Çeviri Kuralları]] ve [[:tr:ta:vol1:intro:open_license|Açık Lisans’ı]] kabul edeceksiniz. (Çeviri ve yoklama işine katılan herkes, bu standartlara göre çalışacağını [[https://unfoldingword.org/forms|beyan edip imzalamak zorundadır]].)
+  * Metnin ve çeviriye dair yardımcı kaynakların yazılmış olduğu kaynak dilde akıcı okuyabilmeniz şarttır.
+  * Ya basılı yazı formatında ya [[https://door43.org|https://door43.org]] sitesinde çevrim içi ya da mobil uygulama platformumuz translationStudio (bkz: [[https://unfoldingword.org/translationstudio/|https://unfoldingword.org/translationstudio/]]) aracılığıyla kaynak metne ve çeviriye dair yardımcı kaynaklara erişim sağlanacak.
+  * Çevirinin yüklenebileceği ve (arzu edilirse) audionun kaydedilebileceği internet bağlantılı bilgisayar veya tablete sahip olacaksınız. Bkz: "[[:tr:ta:vol1:tech:hardware|Önerilen Donanım]]"
 
-You should be able to: 
+Siz şunu yapabilmelisiniz:
 
-   * Know where to get answers to your questions. See "[[tr:ta:vol1:intro:finding_answers|Get answers to my questions]]".
-
-
-
+  * Sorularınıza cevap alabileceğiniz yeri bilmelisiniz. Bkz: "[[:tr:ta:vol1:intro:finding_answers|Sorularıma cevap almak]]"
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:process:platforms|Selecting a Platform]]//
 
+  * //[[:tr:ta:vol1:process:platforms|Selecting a Platform]]//
