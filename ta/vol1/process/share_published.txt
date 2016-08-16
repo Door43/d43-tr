@@ -19,12 +19,10 @@ Yayınlanmış içeriğin yazdırılmaya hazır PDF’leri [[https://unfoldingwo
 
 Bu dosyalar ayrıca email, bluetooth, sD kartı vs. aracılığıyla paylaşılabilir.
 
-==== Sharing Published Content with the unfoldingWord Mobile App ====
+==== Yayınlanmış İçeriği unfoldingWord Mobil Uygulaması Aracılığıyla Paylaşma ====
 
-[[tr:ta:vol1:tech:uw_install|Installing]] the [[https://unfoldingword.org/app/|unfoldingWord App]] provides access to all published content contained in the unfoldingWord catalogue. 
-
-
+ [[https://unfoldingword.org/app/|unfoldingWord Uygulamasının]] [[:tr:ta:vol1:tech:uw_install|Kurulması]], unfoldingWord katalogunda yer alan bütün yayınlanmış içeriğe erişimi sağlar.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:process:share_unpublished|How to Share Unpublished Content]]//
 
+  * //[[:tr:ta:vol1:process:share_unpublished|How to Share Unpublished Content]]//
