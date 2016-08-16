@@ -1,10 +1,11 @@
-===== Setting Up A Translation Team =====
+===== Çeviri Takımının Kurulması =====
 
-This module answers the question: //How can I set up a translation team?//
+This module answers the question: //Çeviri takımını nasıl kurabilirim?//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:translate:translate_process|The Translation Process]]//
-  * //[[tr:ta:vol1:process:getting_started|Getting Started]]//
+
+  * //[[:tr:ta:vol1:translate:translate_process|The Translation Process]]//
+  * //[[:tr:ta:vol1:process:getting_started|Getting Started]]//
 
 ==== Translation Teams and the Definition of a Good Translation ====
 
