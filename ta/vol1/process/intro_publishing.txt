@@ -1,9 +1,10 @@
-===== Introduction to Publishing =====
+===== Yayınlamanın Tanıtımı =====
 
-This module answers the question: //What is publishing?//
+This module answers the question: //Yayınlama nedir?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:process:prechecking_training|Training Before Checking Begins]]//
+
+  * //[[:tr:ta:vol1:process:prechecking_training|Training Before Checking Begins]]//
 
 ==== Publishing Overview ====
 
