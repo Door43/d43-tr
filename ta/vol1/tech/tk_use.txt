@@ -6,24 +6,20 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]//
 
-==== How Do I Use tK ====
+==== tK’yi Nasıl Kullanmalıyım? ====
 
-   * Tap the tS icon to open the program
-   * the Edit window opens
-   * Tap to type - the keyboard slides up.
-   * Notice that the default language is written on the space bar of the keyboard.
-   * Tap-slide your finger on the keyboard's space bar to choose another language.
-   * Stop sliding the finger when the desired language shows.
-
-
-
-
+  * Programı açmak için tS simgesine dokunun
+  * Edit (Redaksiyon) penceresi açılacak
+  * Metni girmek için dokunun - klavye çıkacak.
+  * Varsayılan dilin klavyenin ara tuşunda yazılı olduğuna dikkat edin.
+  * Başka dili seçmek için klavyenin ara tuşuna dokunup parmağınızla kaydırın.
+  * İstediğiniz dil ekrana göründüğünde parmağınızla kaydırmayı durdurun.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]//
-  * //[[tr:ta:vol1:tech:tk_start|Setting Up the translationKeyboard APP on an Android device]]//
-  * //[[tr:ta:vol1:tech:tk_enable|Enable translationKeyboard on an Android Device]]//
-  * //[[tr:ta:vol1:tech:tk_find|Select an Input Method]]//
-  * //[[tr:ta:vol1:tech:tk_create|Create a Keyboard in tK]]//
-  * //[[tr:ta:vol1:tech:tk_update|Update translationKeyboard]]//
 
+  * //[[:tr:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]//
+  * //[[:tr:ta:vol1:tech:tk_start|Setting Up the translationKeyboard APP on an Android device]]//
+  * //[[:tr:ta:vol1:tech:tk_enable|Enable translationKeyboard on an Android Device]]//
+  * //[[:tr:ta:vol1:tech:tk_find|Select an Input Method]]//
+  * //[[:tr:ta:vol1:tech:tk_create|Create a Keyboard in tK]]//
+  * //[[:tr:ta:vol1:tech:tk_update|Update translationKeyboard]]//
