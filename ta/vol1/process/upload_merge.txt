@@ -15,20 +15,16 @@ Before you start this module have you learned about:
   * **translationStudio**  - İşinizi nasıl yükleyeceğinizi öğrenmek için buraya tıklayın  [[:tr:ta:vol1:tech:ts_upload|Upload Your Work]]
       * //Not: Söz konusu kaynağın söz konusu dilde bir içeriği bulunmuyorsa, yüklenen içerik otomatik olarak Door43’e yerleştirilecektir. Herhangi uyuşmazlığın bulunması durumunda içeriğin elle yerleştirilmesi gerekecektir.​//
 
-==== Merging Uploaded Work Onto Door43 ====
+==== Yüklenen İşin Door43’e Yerleştirilmesi ====
 
-To merge content uploaded by translationStudio:
+translationStudio ile yüklenen içeriği yerleştirmek için:
 
-  - Login to Door43.
-  - Go to the page needing to be merged.
-  - On the right-hand side above the icon of the "Edit" pencil will appear an icon of two lines merging into one arrow which is labeled "Apply Updates". Click on "Apply Updates". 
-  - Then you may go through and "Dismiss" or "Apply" changes on Door43. If you choose "Apply" it will overwrite what was on Door43 with what was uploaded, "Dismiss" discards what was uploaded and keeps what was on Door43. 
-
-
-
-
+  - Door43’te oturum açın.
+  - Yerleştirilmesi gereken sayfaya gidin.
+  - \"Edit\" (Düzelt) kurşunkalem simgesinin üst sağ yanında \"Apply Updates\" (Güncelleştirmeyi Uygula) etiketli olan, bir ok şeklinde birleşen iki hat simgesi çıkacak. \"Apply Updates\"e tıklayın.
+  - Bunun ardından Door43’te değişiklikleri \"Dismiss\" (İptal) veya \"Apply\" (Uygula) seçebilirsiniz. \"Apply\" seçerseniz, Door43’te daha önce bulunan metnin üzerine yeni metin yazılacak; \"Dismiss\" ise yüklenmiş olan metni iptal edecek ve Door43’te önceden bulunduğunu koruyacak.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:process:prechecking_training|Training Before Checking Begins]]//
-  * //[[tr:ta:vol1:process:intro_publishing|Introduction to Publishing]]//
 
+  * //[[:tr:ta:vol1:process:prechecking_training|Training Before Checking Begins]]//
+  * //[[:tr:ta:vol1:process:intro_publishing|Introduction to Publishing]]//
