@@ -21,10 +21,10 @@ Before you start this module have you learned about:
   - Değiştirilmesi gereken yeri değiştirin.
   - İşinizi kaydetmeye dikkat edin (aşağıya bkz)
 
-==== Saving My Work ====
+==== İşimi Kaydetme ====
 
-  - Before you close the edit page, you need to save your work. (If you close the tab or browser or navigate to another page before saving your work, the edits you made will be lost.)
-  - Click the "Save" button. A revision of that page will be saved. 
+  - Sayda düzeltmeyi kapatmadan önce işinizi kaydetmeniz gerekir. (İşinizi kaydetmeden sekmeyi veya tarayıcıyı kapatırsanız yaptığınız düzeltmeler kaybolmuş olacak.)
+  - "Save" (Kaydet) düğmesine tıklayın. O sayfanın revizyonu kaydedilecek.
 
 ==== Sharing Your Work ====
 
