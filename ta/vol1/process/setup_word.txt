@@ -1,9 +1,10 @@
-===== Setting Up a Word Processor =====
+===== Word İşlemcisinin Kurulması =====
 
-This module answers the question: //How do I set up a Word Processor?//
+This module answers the question: //Word İşlemcisini Nasıl Kurabilirim?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:process:platforms|Selecting a Platform]]//
+
+  * //[[:tr:ta:vol1:process:platforms|Selecting a Platform]]//
 
 ==== Obtaining the Source Text for Open Bible Stories ====
 
