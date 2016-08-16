@@ -1,9 +1,10 @@
-===== How to Share Unpublished Content =====
+===== Yayınlanmamış İçeriği Nasıl Paylaşmalı =====
 
-This module answers the question: //How can I share unpublished content?//
+This module answers the question: //Yayınlanmamış içeriği nasıl paylaşabilirim?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:process:intro_share|Introduction to Distribution]]//
+
+  * //[[:tr:ta:vol1:process:intro_share|Introduction to Distribution]]//
 
 ==== Sharing Unpublished Content from translationStudio ====
 
