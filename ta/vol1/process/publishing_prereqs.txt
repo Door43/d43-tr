@@ -6,22 +6,19 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:process:intro_publishing|Introduction to Publishing]]//
 
-==== Before Publishing ====
+==== Yayınlamadan Önce ====
 
-Before a resource can be published, the following prerequisites must all be met:
+Bir kaynak yayınlanmadan önce aşağıdaki önkoşulların sağlanması gerekir:
 
-   * **Whole Resource** - The whole resource must be translated and checked, in other words, parts of resources (e.g. half of the Open Bible Stories, only a few chapters of a book of the Bible) cannot be published.
-   * **At Least Level 1** - A translation must have reached at least [[tr:ta:vol1:checking:level1|Checking Level 1]]
-   * **On Door43** - Door43 must have the version that will be published (if translation or checking was done in translationStudio, you may need to [[tr:ta:vol1:process:upload_merge|merge]] your work into Door43). 
-   * **Signatures** - Everyone involved in the translation and checking must have signed the [[tr:ta:vol1:intro:statement_of_faith|Statement of Faith]], the [[tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]], and the [[tr:ta:vol1:intro:open_license|Open License]]. This can be done in a number of ways:
-     * Everyone create a Door43 account
-     * Everyone sign a [[https://unfoldingword.org/forms|guidelines and license form]]
+  * **Tam Kaynak**  - Tam kaynak çevrilip yoklanmalı, başka bir deyişle, kaynağın ayrı parçaları (örn., Açık Kutsal Kitap Öyküleri’nin yarısı ya da Kutsal Kitap’taki bir kitabın sadece birkaç bölümü) yayınlanamaz.
+  * **En az 1. Seviye**  - Çeviri en az [[:tr:ta:vol1:checking:level1|Yoklama 1. Seviyeye]] ulaşmış olmalıdır
+  * **Door43’te**  - Door43 yayınlanacak versiyonunda olmalıdır (çeviriler veya yoklamalar translationStudio’da yapıldıysa, işinizi Door43’e yerleştirmeniz gerekli olabilir).
+  * **İmzalar**  - Çeviriye ve yoklamaya katılan herkesin [[:tr:ta:vol1:intro:statement_of_faith|İman Beyanı]], the [[:tr:ta:vol1:intro:translation_guidelines|Çeviri Kuralları]] ve [[:tr:ta:vol1:intro:open_license|Açık Lisans’ı]] imzalaması gerekir. Bu birkaç yolla yapılabilir:
+      * Herkes Door43 hesabını yaratır
+      * Herkes [[https://unfoldingword.org/forms|kuralları ve lisans formunu]] imzalar
 
-When all these are completed, you are ready to start the [[tr:ta:vol1:process:publishing_process|Publishing Engine]]. 
-
-
-
+Bütün bunlar tamamlandığında siz [[:tr:ta:vol1:process:publishing_process|Yayınlama Motoruna]] başlamaya hazır olursunuz.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:process:publishing_process|How to Publish]]//
 
+  * //[[:tr:ta:vol1:process:publishing_process|How to Publish]]//
