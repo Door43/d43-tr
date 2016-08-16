@@ -1,9 +1,10 @@
-===== Merging an Upload Into Door43 =====
+===== Yüklenen İçeriğin Door43’e Yerleştirilmesi =====
 
-This module answers the question: //How can I merge my uploaded content into Door43?//
+This module answers the question: //Yüklenen içeriğimi Door43’e nasıl yerleştirebilirim?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:process:pretranslation_training|Training Before Translation Begins]]//
+
+  * //[[:tr:ta:vol1:process:pretranslation_training|Training Before Translation Begins]]//
 
 ==== Uploading Content Onto Door43 ====
 
