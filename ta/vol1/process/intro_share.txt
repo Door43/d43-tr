@@ -6,9 +6,9 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:process:intro_publishing|Introduction to Publishing]]//
 
-==== Distribution Overview ====
+==== Dağıtım Özeti ====
 
-Content is worthless unless it is disseminated and used. One advantage of using the Door43/unfoldingWord translation and publishing platform is that it provides multiple, simple ways of distributing both published and unpublished content. 
+İçerik yayılıp kullanılmadıkça değersiz olur. Door43/unfoldingWord çeviri ve yayınlama platformunun kullanılmasında bir yarar, onun hem yayınlanmış hem de yayınlanmamış içeriği dağıtmanın çoklu basit yollarını sağlamasıdır.
 
 ==== Open License ====
 
