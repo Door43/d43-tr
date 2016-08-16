@@ -1,9 +1,10 @@
-===== How to Check =====
+===== Nasıl Yoklamak =====
 
-This module answers the question: //How do I check a translation?//
+This module answers the question: //Çeviriyi nasıl yoklamalıyım?//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:process:prechecking_training|Training Before Checking Begins]]//
+
+  * //[[:tr:ta:vol1:process:prechecking_training|Training Before Checking Begins]]//
 
 ==== Purpose of Checking Levels ====
 
