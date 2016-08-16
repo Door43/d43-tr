@@ -1,9 +1,10 @@
-===== Enable translationKeyboard on an Android Device =====
+===== translationKeyboard’un Android Cihazında Etkinleştirilmesi =====
 
-This module answers the question: //How do I enable translationKeyboard on an Android device?//
+This module answers the question: //Android cihazında translationKeyboard’u nasıl etkinleştirebilirim?//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]//
+
+  * //[[:tr:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]//
 
 ==== Enabling tK ====
 
