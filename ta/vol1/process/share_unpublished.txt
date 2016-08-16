@@ -6,9 +6,9 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:process:intro_share|Introduction to Distribution]]//
 
-==== Sharing Unpublished Content from translationStudio ====
+==== Yayınlanmamış İçeriği translationStudio’dan Paylaşma ====
 
-Sharing unpublished content that is contained on translationStudio is easy. Click [[tr:ta:vol1:tech:ts_share|here]] to see how.
+translationStudio’da bulunan yayınlanmamış içeriği paylaşmak kolaydır. Nasıl paylaşmayı öğrenmek için [[:tr:ta:vol1:tech:ts_share|buraya]] tıklayın.
 
 ==== Sharing Unpublished Content from Door43 ====
 
