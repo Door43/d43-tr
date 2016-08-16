@@ -6,12 +6,12 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:process:intro_share|Introduction to Distribution]]//
 
-==== Sharing Published Content Online ====
+==== Yayınlanmış İçeriği Çevrim İçi Paylaşma ====
 
-All published content can be found online at https://unfoldingword.org. 
+Yayınlanmış içeriğim tümü çevrim içi [[https://unfoldingword.org|https://unfoldingword.org]] sitesinde bulunabilir.
 
-   * Open Bible Stories can be found at https://unfoldingword.org/stories/
-   * The Bible can be found at https://bible.unfoldingword.org/
+  * Açık Kutsal Kitap Öyküleri [[https://unfoldingword.org/stories/|https://unfoldingword.org/stories/]] sitesinde bulunabilir
+  * Kutsal Kitap [[https://bible.unfoldingword.org/|https://bible.unfoldingword.org/]] sitesinde bulunabilir
 
 ==== Sharing Printed Published Content ====
 
