@@ -8,7 +8,7 @@ Before you start this module have you learned about:
 
 Door43’te çalışmaya başlamak için lütfen aşağıdaki adımları izleyin:
 
-{{page>tr:get-started}}
+{{page>en:get-started}}
 
 Next we recommend you learn about:
 
