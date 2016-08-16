@@ -18,13 +18,12 @@ Yayınlama sürecine başlamak için takımdan bir kişinin [[http://td.unfoldin
       * Not: Katkıda bulunanlar listelerinde, arzu edenlerin kimliğinin korunmasına yardım etmek için gerçek isimleri yerine takma isimleri/kullanıcı isimleri kullanılacak (sağlandığı takdirde).
   * **«Uçuş öncesi» yoklama**  - Yayınlama Talebi formunu gönderdikten hemen sonra bilgisayarlı yoklama yer alacak. Bu yoklama her şeyin çevrilmiş olduğundan ve içeriğin Door43’te düzgün web sayfalarında ortaya çıktığından emin olmalıdır. Ayrıca kaynak dilden hedef dile standart ayrılışını karşılaştıran istatistik yoklanır. Anormal derecede çok veya az fark işaretlenir ve «uçuş öncesi» yoklamanın tüm sonuçları başvurana bir iki dakika içinde sunulur. Yapılacak olan herhangi değişikliğin devam etmeden önce yapılması gerekir.
 
-==== During the Publishing Process ====
+==== Yayınlama Süreci Sırasında ====
 
-After the Request to Publish form has been submitted, the following will happen:
+Yayınlama Talebi formunun gönderilmesi üzerine yapılacak olan şudur:
 
-   * **A documentation check** - someone from the unfoldingWord team will check to make sure all the documentation is in place and that the procedures followed during the checking process correspond to the guidelines laid out in the [[https://unfoldingword.org/quality/|Checking Levels]]. 
-
-If any of the documentation is not correct, the requester will be emailed and the publishing process will stop until the problem is resolved and a "Request to Continue Publishing" form is filled out and submitted. 
+  * **Belgelerin yoklaması**  - unfoldingWord takımından bir kişi tüm belgelerin yerinde olmasını ve yoklama sürecinde izlenen prosedürlerin [[https://unfoldingword.org/quality/|Yoklama Seviyelerinde]] açıklanmış kurallara uymasını yoklayacaktır.
+Belgelerden herhangi biri düzgün değilse başvuranın e-posta adresine mesaj gönderilecek ve sorun çözülüp «Yayınlamaya Devam Etme Talebi» formu gönderilinceye kadar süreç askıya alınacaktır.
 
 ==== Finishing the Publishing Process ====
 
