@@ -23,11 +23,11 @@ Kullandığımız iki çeviri platformu vardır - translationStudio ve Door43. �
   * [[:tr:obs|Açık Kutsal Kitap Öyküleri]]
   * [[:tr:bible:intro|Kutsal Kitap]]
 
-Capacity is being built to be able to handle multimedia formats as well:
+Ayrıca çoklu ortamlı formatların kullanılabilmesi için kapasite geliştirilir:
 
-  * Audio Open Bible Stories
-  * Video Open Bible Stories
-  * Audio Bible
+  * Audio Açık Kutsal Kitap Öyküleri
+  * Video Açık Kutsal Kitap Öyküleri
+  * Audio Kutsal Kitap
 
 ==== Published Content ====
 
