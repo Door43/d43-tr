@@ -2,44 +2,42 @@
 
 This module answers the question: //Prosedür kılavuzu 1. ciltte ne vardır?​//
 
-==== Process Manual Volume 1 ====
+==== Prosedür Kılavuzu 1. Cilt ====
 
-=== 1. Getting Started ====
-   - [[tr:ta:vol1:process:process_manual|Introduction]]
-   - [[tr:ta:vol1:process:getting_started|Getting Started]]
-   - [[tr:ta:vol1:process:setup_team]]
+=== 1. Başlama ===
 
-=== 2. Setting Up A Translation Platform ===
+  - [[:tr:ta:vol1:process:process_manual|Giriş]]
+  - [[:tr:ta:vol1:process:getting_started|Başlama]]
+  - [[:tr:ta:vol1:process:setup_team|Çeviri Takımının Kurulması]]
 
-  - [[tr:ta:vol1:process:platforms|Choosing a translation platforms]]
-    - [[tr:ta:vol1:process:setup_door43|Setting up Door43]]  
-    - [[tr:ta:vol1:process:setup_tsandroid|Setting up translationStudio - Android]] 
-    - [[tr:ta:vol1:process:setup_word|Setting up for a Word Processor]]  
+=== 2. Çeviri Platformunun Kurulması ===
 
-=== 3. Translating ===
+  -  [[:tr:ta:vol1:process:platforms|Çeviri seçme platformları]]
+      - [[:tr:ta:vol1:process:setup_door43|Door43’ün ayarlanması]]
+      - [[:tr:ta:vol1:process:setup_tsandroid|translationStudio’nun ayarlanması - Android]]
+      - [[:tr:ta:vol1:process:setup_word|Word İşlemcisinin ayarlanması]]
 
-  - [[tr:ta:vol1:process:pretranslation_training|Training before translation begins]]
-    - [[tr:ta:vol1:process:door43_translation|Translating Using Door43]]  
-    - [[tr:ta:vol1:process:tsandroid_translation|Translating Using translationStudio]]  
-    - [[tr:ta:vol1:process:word_translation|Translating Using a Word Processor]]
-  - [[tr:ta:vol1:process:upload_merge|Merging an Upload into Door43]]
+=== 3. Çeviri Yapma ===
 
-=== 4. Checking ===
+  -  [[:tr:ta:vol1:process:pretranslation_training|Çeviriye başlamadan önceki eğitim]]
+      - [[:tr:ta:vol1:process:door43_translation|Door43’ü kullanarak çeviri yapma]]
+      - [[:tr:ta:vol1:process:tsandroid_translation|translationStudio’yu kullanarak çeviri yapma]]
+      - [[:tr:ta:vol1:process:word_translation|Word İşlemcisini kullanarak çeviri yapma]]
+  - [[:tr:ta:vol1:process:upload_merge|Yüklenen İşin Door43’e Yerleştirme]]
 
-   - [[tr:ta:vol1:process:prechecking_training|Training before checking begins]]
-   - [[tr:ta:vol1:process:required_checking|How to Check]]
+=== 4. Yoklama ===
 
-=== 5. Publishing ===
+  - [[:tr:ta:vol1:process:prechecking_training|Yoklamaya başlamadan önce eğitim]]
+  - [[:tr:ta:vol1:process:required_checking|Nasıl Yoklamak]]
 
-   - [[tr:ta:vol1:process:intro_publishing|Introduction to publishing]]
-   - [[tr:ta:vol1:process:publishing_prereqs|Publishing prerequisites]]
-   - [[tr:ta:vol1:process:publishing_process|How to Publish]]
+=== 5. Yayınlama ===
 
-=== 6. Distributing ===
+  - [[:tr:ta:vol1:process:intro_publishing|Yayınlamanın tanıtımı]]
+  - [[:tr:ta:vol1:process:publishing_prereqs|Yayınlama önkoşulları]]
+  - [[:tr:ta:vol1:process:publishing_process|Nasıl Yayınlamalı]]
 
-   - [[tr:ta:vol1:process:intro_share|Introduction to Distribution]]
-   - [[tr:ta:vol1:process:share_unpublished|Sharing Unpublished Content]]
-   - [[tr:ta:vol1:process:share_published|Sharing Published content]]
+=== 6. Dağıtım ===
 
-
-
+  - [[:tr:ta:vol1:process:intro_share|Dağıtımın Tanıtımı]]
+  - [[:tr:ta:vol1:process:share_unpublished|Yayınlanmamış İçeriği Paylaşma]]
+  - [[:tr:ta:vol1:process:share_published|Yayınlanmış İçeriği Paylaşma]]
