@@ -1,9 +1,10 @@
-===== Introduction to Distribution =====
+===== Dağıtımın Tanıtımı =====
 
-This module answers the question: //How can I distribute content?//
+This module answers the question: //İçeriği nasıl dağıtabilirim?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:process:intro_publishing|Introduction to Publishing]]//
+
+  * //[[:tr:ta:vol1:process:intro_publishing|Introduction to Publishing]]//
 
 ==== Distribution Overview ====
 
