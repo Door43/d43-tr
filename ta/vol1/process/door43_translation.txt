@@ -33,13 +33,11 @@ Door43’te işinizi kolayca paylaşabilirsiniz.
   * Çevrimiçi: Herkes çalıştığınız sayfalara gidip işinizi görebilir.
   * İndirme: Ayrıca sayfanın sağ alt köşesindeki üç simgeden birine tıklayarak her sayfayı indirebilirsiniz. İndirmeler .txt, .html ve .odt formatlarında yapılabilir. Bu indirmeler başkaları ile çevrim dışı paylaşılabilir.
 
-==== After Translating on Door43 ====
+==== Door43’te Çeviri Yaptıktan Sonra ====
 
-  * Once your translation is complete, you should proceed to Checking (see [[en:ta:vol1:process:prechecking_training]])
-
-
+  * Çeviriniz tamamlandıktan sonra redaksiyona geçebilirsiniz.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:process:prechecking_training|Training Before Checking Begins]]//
-  * //[[tr:ta:vol1:process:required_checking|How to Check]]//
 
+  * //[[:tr:ta:vol1:process:prechecking_training|Training Before Checking Begins]]//
+  * //[[:tr:ta:vol1:process:required_checking|How to Check]]//
