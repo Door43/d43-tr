@@ -18,9 +18,9 @@ Before you start this module have you learned about:
   * Sayfayı nasıl [[:tr:ta:vol1:tech:ts_create|yaratacak veya düzelteceğinizi]] öğrenmek için buraya tıklayın
   * Dilinizde cihazınızın klavyesinde çıkmayan harfler varsa, [[:tr:ta:vol1:tech:tk_intro|translationKeyboard’u]] kurup kullanmanız gerekli olabilir. (Ayrıca bkz: [[https://unfoldingword.org/translationkeyboard/|https://unfoldingword.org/translationkeyboard/]])
 
-==== Saving My Work ====
+==== İşimi Kaydetme ====
 
-  * To learn how to save your work see [[en:ta:vol1:tech:ts_create]]
+  * İşinizi nasıl kaydedeceğinizi öğrenmek için [[:tr:ta:vol1:tech:ts_create|buraya]] tıklayın
 
 ==== Sharing Your Work ====
 
