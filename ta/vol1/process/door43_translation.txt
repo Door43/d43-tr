@@ -13,13 +13,13 @@ Before you start this module have you learned about:
       * Çeviri yaparken çeviri notları ve anahtar terimlerinden yararlanmanız önemle tavsiye edilir
   - Door43’te çeviri notlarını kullanmanın en iyi yolunu öğrenmek için lütfen şunu okuyun: [[:en:ta:vol2:tech:translate_helpd43|Use the translationNotes on Door43]]
 
-==== Editing a page ====
+==== Sayfa düzeltme ====
 
-  - Login to Door43
-  - Navigate to the page you want to edit. 
-  - Click on the pencil icon on the right side of the page. (If you don't see a pencil, you probably have not logged in.)
-  - Change whatever is needed.
-  - Be sure to save your work (see below)
+  - Door43’te oturum açın
+  - Düzeltmek istediğiniz sayfaya gidin.
+  - Sayfanın sağındaki kurşunkalem simgesine tıklayın.
+  - Değiştirilmesi gereken yeri değiştirin.
+  - İşinizi kaydetmeye dikkat edin (aşağıya bkz)
 
 ==== Saving My Work ====
 
