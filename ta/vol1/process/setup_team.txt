@@ -16,11 +16,12 @@ Before you start this module have you learned about:
   * [[:tr:ta:vol1:translate:guidelines_accurate|Doğru]] - Doğru çeviriler sadece kaynak metnin ve notların dilini (ve tercihen orijinal dilini de) iyi anlayan kişiler tarafından yapılabilir
   * [[:tr:ta:vol1:translate:guidelines_church_approved|Kilise Onaylı]] - Kilise onaylı çeviriler, hedef dilde konuşan olabildiğince çok kilise birliklerinin çeviri ve yoklama sürecine katılmasını sağlamak yolu ile en kolay yapılır
 
-==== Choosing a Team ====
+==== Takım Seçme ====
 
-As you begin selecting a translation and checking team, there are many different types of people and roles that are needed. There are also specific qualifications that are needed for each team. 
-  * [[tr:ta:vol1:translate:choose_team]] - Describes many of the roles that are needed
-  * [[tr:ta:vol1:translate:qualifications]] - Describes some of the skills needed by the translators
+Çeviri ve yoklama takımını seçmeye başlarken çok türlü insan ve görev gerekli olur. Ayrıca her takım için özel yetenek ve nitelikler gerekli olur.​
+
+  * [[:tr:ta:vol1:translate:choose_team|Çeviri Takımının Seçilmesi]] - Gerekli olan birçok rol tanımlanır
+  * [[:tr:ta:vol1:translate:qualifications|Translator Qualifications]] - Çevirmenlerin sahip olmaları gereken bazı beceriler tanımlanır
 
 ==== Translation Decisions ====
 
