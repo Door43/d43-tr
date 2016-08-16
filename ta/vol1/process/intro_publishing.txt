@@ -29,15 +29,13 @@ Ayrıca çoklu ortamlı formatların kullanılabilmesi için kapasite geliştiri
   * Video Açık Kutsal Kitap Öyküleri
   * Audio Kutsal Kitap
 
-==== Published Content ====
+==== Yayınlanmış İçerik ====
 
-Published content can be found at https://unfoldingword.org/stories/ and on the [[https://unfoldingword.org/app|unfoldingWord mobile app]]. 
+Yayınlanmış İçerik [[https://unfoldingword.org/stories/|https://unfoldingword.org/stories/]] sitesinde ve [[https://unfoldingword.org/app|unfoldingWord mobil uygulamasında]] bulunabilir.
 
-In Door43, a brief statement will appear in resources that may be eligible for publishing which states the status of publishing in that namespace. For instance, at the time of writing the [[en:obs|Open Bible Stories in English]] says "This resource is published on unfoldingWord as checking level 3 and version 4. See it at https://unfoldingword.org/stories."
-
-
+Door43’te, kaynaklarda yayınlama durumunu açıklayan kısa bildiri çıkar. Örneğin, [[:en:obs|Açık Kutsal Kitap Öyküleri’nin İngilizce versiyonunda]] «Bu kaynak unfoldingWord’da 3. yoklama seviyesinde 4. versiyon olarak yayınlanmıştır. Onu https://unfoldingword.org/stories adresinde bulabilirsiniz.» bildirisi çıkıyor.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:process:publishing_prereqs|Publishing Prerequisites]]//
-  * //[[tr:ta:vol1:process:publishing_process|How to Publish]]//
 
+  * //[[:tr:ta:vol1:process:publishing_prereqs|Publishing Prerequisites]]//
+  * //[[:tr:ta:vol1:process:publishing_process|How to Publish]]//
