@@ -12,9 +12,9 @@ Before you start this module have you learned about:
   - Kaynak dilinizi (çeviri bu dilden yapılır) seçin ve \"Save\" (Kaydet) tıklayın. (Not: Eğer siz \"Add all images in the file\" (Dosyadaki tüm imgeleri ekle) tıklarsanız, indirme boyutu oldukça artacak.) **Şablon docx dosyası olarak indirilecektir.​**
   - Bu şablonu seçtiğiniz Word işlemcisinde açın.
 
-==== Obtaining Translation Helps for Open Bible Stories ====
+==== Açık Kutsal Kitap Öyküleri için Çeviriye Dair Yardımcı Kaynaklar’ı Alma ====
 
-  * The download for Open Bible Stories translation helps is not currently automated. Please contact [[tr:ta:vol1:intro:finding_answers|Helpdesk]] for assistance
+  * Açık Kutsal Kitap Öyküleri için çeviriye dair yardımcı kaynakların indirilmesi şu anda otomatik değildir. Yardım için lütfen [[:tr:ta:vol1:intro:finding_answers|Yardım Masası’yla]] iletişime geçin
 
 ==== Obtaining the Source Text & Helps for the Bible ====
 
