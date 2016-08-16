@@ -6,14 +6,14 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:process:pretranslation_training|Training Before Translation Begins]]//
 
-==== Uploading Content Onto Door43 ====
+==== Door43’e İçerik Yükleme ====
 
-Content can be uploaded from:
+İçerik şunlardan yüklenebilir:
 
-  * **Word Processor** - to see how to upload your work, see [[en:ta:vol1:process:word_translation]]
-    * //Note: Content uploaded using the above process will automatically merge onto Door43.//
-  * **translationStudio** - to see how to upload your work from translationStudio, see  [[en:ta:vol1:tech:ts_upload]]
-    * //Note: If there is no content for a given resource in given language, then the uploaded content will automatically be merged onto Door43. If there is any conflict, the content must be manually merged.//
+  * **Word İşlemcisi**  - İşinizi Nasıl Yükleyeceğinizi öğrenmek için buraya tıklayın  [[:tr:ta:vol1:process:word_translation|Translating in a Word Processor]]
+      * //Not: Yukarıdaki prosedürle yüklenen içerik otomatik olarak Door43’e yerleştirilecektir.​//
+  * **translationStudio**  - İşinizi nasıl yükleyeceğinizi öğrenmek için buraya tıklayın  [[:tr:ta:vol1:tech:ts_upload|Upload Your Work]]
+      * //Not: Söz konusu kaynağın söz konusu dilde bir içeriği bulunmuyorsa, yüklenen içerik otomatik olarak Door43’e yerleştirilecektir. Herhangi uyuşmazlığın bulunması durumunda içeriğin elle yerleştirilmesi gerekecektir.​//
 
 ==== Merging Uploaded Work Onto Door43 ====
 
