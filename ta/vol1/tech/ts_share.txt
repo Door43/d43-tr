@@ -1,9 +1,10 @@
-===== Backup and Share Your Work =====
+===== İşinizi Yedekleme ve Paylaşma =====
 
-This module answers the question: //How do I backup and share my work?//
+This module answers the question: //İşimi nasıl yedekleyebilir ve paylaşabilirim?//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:tech:ts_create|Create and Edit Text]]//
+
+  * //[[:tr:ta:vol1:tech:ts_create|Create and Edit Text]]//
 
 ==== Backup & Share ====
 
