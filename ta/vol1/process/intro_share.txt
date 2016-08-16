@@ -10,20 +10,16 @@ Before you start this module have you learned about:
 
 İçerik yayılıp kullanılmadıkça değersiz olur. Door43/unfoldingWord çeviri ve yayınlama platformunun kullanılmasında bir yarar, onun hem yayınlanmış hem de yayınlanmamış içeriği dağıtmanın çoklu basit yollarını sağlamasıdır.
 
-==== Open License ====
+==== Açık Lisans ====
 
-The biggest factor that encourages distribution of content is the [[tr:ta:vol1:intro:open_license|Open License]] that is used with all content on Door43 and unfoldingWord. This license gives everybody the freedom they need to:
+İçeriğin dağıtımını sağlayan en büyük faktör, Door43 ve unfoldingWord’daki tüm içerik için kullanılan Açık Lisanstır. Bu lisans herkese şu konularda gerekli olan serbestliği sağlamaktadır:
 
-   * Share — copy and redistribute the material in any medium or format
-   * Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+  * Paylaşma serbestliği — bu ürünü her vasıta veya formatta kopyalayıp dağıtabilirsiniz
+  * Uyarlama serbestliği — remiks yapıp dönüştürebilirsiniz, ticari amaç dahil olmak üzere her amaçla bu malzemeden yararlanabilirsiniz.
 
-Under the terms of the license. 
-
-
-
-
+Lisansın koşulları altında.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:process:share_unpublished|How to Share Unpublished Content]]//
-  * //[[tr:ta:vol1:process:share_published|How to Share Published Content]]//
 
+  * //[[:tr:ta:vol1:process:share_unpublished|How to Share Unpublished Content]]//
+  * //[[:tr:ta:vol1:process:share_published|How to Share Published Content]]//
