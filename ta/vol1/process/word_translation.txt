@@ -24,9 +24,9 @@ Before you start this module have you learned about:
 
   * İşinizi, kaybolmasını önlemek için sık sık kaydetmeye dikkat edin.
 
-==== Sharing Your Work ==== 
+==== İşinizi Paylaşma ====
 
-  * These files can be printed, emailed, or otherwise shared so others can be involved in the translation and checking process. 
+  * Bu dosyalar, başkalarının da çeviri ve yoklama sürecine katılabilmeleri için basılabilir, e-postayla gönderilebilir ya da başka yollarla paylaşılabilir.
 
 ==== After Translating in a Word Processor ====
 
