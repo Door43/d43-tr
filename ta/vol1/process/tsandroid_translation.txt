@@ -22,9 +22,9 @@ Before you start this module have you learned about:
 
   * İşinizi nasıl kaydedeceğinizi öğrenmek için [[:tr:ta:vol1:tech:ts_create|buraya]] tıklayın
 
-==== Sharing Your Work ====
+==== İşinizi Paylaşma ====
 
-  * To learn how to share your work see [[en:ta:vol1:tech:ts_share]]
+  * İşinizi nasıl paylaşacağınızı öğrenmek için [[:tr:ta:vol1:tech:ts_share|buraya]] tıklayın
 
 ==== After Translating on translationStudio ====
 
