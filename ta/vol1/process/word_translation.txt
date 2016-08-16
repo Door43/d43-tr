@@ -20,9 +20,9 @@ Before you start this module have you learned about:
       * Çeviriyi kaynak dilin üstüne (ya da altına) koyun, ama kaynak metni silmeyin. (Not: Yüklenmeden önce kaynak metnin silinmesi gerekecek.)
       * Kaynak metnin ek bir kopyasını oluşturun, çeviri yapıldıktan sonra bir kopyadan kaynak metni silin. Kaynak metne gönderme yapılması gerekirse kaynak metnin de bulunduğu öbür kopyadan yararlanılabilir.
 
-==== Saving My Work ====
+==== İşimi Kaydetme ====
 
-  * Be sure you save your work frequently to avoid losing your work. 
+  * İşinizi, kaybolmasını önlemek için sık sık kaydetmeye dikkat edin.
 
 ==== Sharing Your Work ==== 
 
