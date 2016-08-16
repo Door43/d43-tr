@@ -6,20 +6,17 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]//
 
-==== Enabling tK ====
+==== tK’nin Etkinleştirilmesi ====
 
-   * Open translationKeyboard and tap the **Enable keyboard **  button at the top of the screen. This will open the Settings window on your device.
-   * Select the checkbox in front of translationKeyboard and tap **OK **  to accept the notifications about this app.
-   * Tap the **Home **  icon at the bottom of the screen to exit the Settings window.
-
-
-
+  * translationKeyboard’u açın ve ekranın üstündeki Klavyeyi Etkinleştir düğmesine dokunun. Cihazınızda Ayarlar penceresi açılacak.
+  * Bu uygulama hakkındaki bildirileri kabul etmek için translationKeyboard’un karşısındaki onay kutusunu işaretleyip OK’e dokunun.
+  * Ayarlar penceresinden çıkmak için ekranın altındaki Home (Baş konum) simgesine dokunun.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]//
-  * //[[tr:ta:vol1:tech:tk_start|Setting Up the translationKeyboard APP on an Android device]]//
-  * //[[tr:ta:vol1:tech:tk_use|How to Use the translationKeyboard in translationStudio]]//
-  * //[[tr:ta:vol1:tech:tk_find|Select an Input Method]]//
-  * //[[tr:ta:vol1:tech:tk_create|Create a Keyboard in tK]]//
-  * //[[tr:ta:vol1:tech:tk_update|Update translationKeyboard]]//
 
+  * //[[:tr:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]//
+  * //[[:tr:ta:vol1:tech:tk_start|Setting Up the translationKeyboard APP on an Android device]]//
+  * //[[:tr:ta:vol1:tech:tk_use|How to Use the translationKeyboard in translationStudio]]//
+  * //[[:tr:ta:vol1:tech:tk_find|Select an Input Method]]//
+  * //[[:tr:ta:vol1:tech:tk_create|Create a Keyboard in tK]]//
+  * //[[:tr:ta:vol1:tech:tk_update|Update translationKeyboard]]//
