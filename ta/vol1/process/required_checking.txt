@@ -6,32 +6,30 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:process:prechecking_training|Training Before Checking Begins]]//
 
-==== Purpose of Checking Levels ====
+==== Yoklama Seviyelerinin Amacı ====
 
-The purpose the [[tr:ta:vol1:checking:toc_checkvol1_2|checking levels]] is primarily to help ensure that the translation has been made in accordance with the [[tr:ta:vol1:intro:statement_of_faith|Statement of Faith]] and the [[tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]]. Another purpose for the checking levels is to increase the input and ownership of the translation among the community that will be using it. 
+Yoklama [[:tr:ta:vol1:checking:toc_checkvol1_2|seviyelerinin amacı öncelikle]] çevirinin İman Beyanı ve Çeviri Kuralları’na uygun olarak yapılmış olduğundan emin olmaktır. Yoklama seviyelerinin daha bir amacı, çeviriyi kullanacak toplumun çeviriye katkısını ve sahipliğini artırmaktır.
 
-=== Checking Level 1 ===
+=== Yoklama 1. Seviye ===
 
-[[tr:ta:vol1:checking:level1|Checking Level 1]] is done primarily by the translation team, with some input from the language community. 
+[[:tr:ta:vol1:checking:level1|Yoklama 1. Seviye]] öncelikle çeviri takımı tarafından yapılır, dil toplumu da katkıda bulunur.
 
-Please follow the [[tr:ta:vol1:checking:level1|Steps for checking under Level One]] to complete a Level 1 check. 
+1. Seviyedeki yoklamayı bitirmek için lütfen Yoklama 1. [[:tr:ta:vol1:checking:level1|Seviyenin adımlarını]] izleyin
 
-After completing the Level 1 Check, you are encouraged to [[tr:ta:vol1:process:intro_publishing|publish]] your translation and continue on to Checking Level 2 (see below). 
+1. Seviyede yoklamayı tamamladıktan sonra çevirinizi [[:tr:ta:vol1:process:intro_publishing|yayınlamanız]] ve Yoklama 2. Seviye’ye devam etmeniz teşvik edilir (aşağıya bkz).
 
-=== Checking Level 2 ===
+=== Yoklama 2. Seviye ===
 
-[[tr:ta:vol1:checking:level2|Checking Level 2]] is done to verify that representative groups from the local language community agree that the translation is a good one. It is done with a [[tr:ta:vol1:checking:language_community_check|language community check]] and a [[tr:ta:vol1:checking:church_leader_check|church leader check]]. 
+[[:tr:ta:vol1:checking:level2|Yoklama 2. Seviye]], yerel dil toplumunun temsilci gruplarının çevirinin iyi olduğunu kabul ettiklerini doğrulamak için yapılır. [[:tr:ta:vol1:checking:language_community_check|Dil toplumu tarafından yoklanma]] ve [[:tr:ta:vol1:checking:church_leader_check|kilise lideri tarafından yoklanma]] ile gerçekleştirilir.
 
-After completing the Level 2 Check, you are encouraged to [[tr:ta:vol1:process:intro_publishing|publish]] your translation and continue on to Checking Level 3 (see below), if you so desire. 
+2. Seviyede yoklamayı tamamladıktan sonra çevirinizi [[:tr:ta:vol1:process:intro_publishing|yayınlamanız]] ve -arzu ederseniz- Yoklama 3. Seviyeye devam etmeniz teşvik edilir (aşağıya bkz).
 
-=== Checking Level 3 === 
+=== Yoklama 3. Seviye ===
 
-[[tr:ta:vol1:checking:level3|Checking Level 3]] has two possible tracks: track one requires church networks to approve the translation and track two requires one church network and one trained translation consultant. Be sure you work through the [[tr:ta:vol1:checking:level3_questions|Level 3 Checking Questions]] while you complete this checking level. 
+[[:tr:ta:vol1:checking:level3|Yoklama 3. Seviyede]] iki mümkün yol bulunmaktadır: birinci yol kilise birliklerinin çeviriyi onaylamasını, ikinci yol ise bir kilise birliği ve bir eğitimli çeviri danışmanının çeviriyi onaylamasını gerektirir. Bu yoklama seviyesini tamamlarken [[:tr:ta:vol1:checking:level3_questions|3. Seviye Yoklama Soruları]] üzerinde çalışmaya dikkat edin.
 
-After completing the Level 3 Check, you are encouraged to [[tr:ta:vol1:process:intro_publishing|publish]] your translation. This is the highest checking level. 
-
-
+3. Seviyede yoklamayı tamamladıktan sonra çevirinizi [[:tr:ta:vol1:process:intro_publishing|yayınlamanız]] teşvik edilir. Bu, en yüksek yoklama seviyesidir.
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:process:intro_publishing|Introduction to Publishing]]//
 
+  * //[[:tr:ta:vol1:process:intro_publishing|Introduction to Publishing]]//
