@@ -28,18 +28,16 @@ Before you start this module have you learned about:
 
   * Bu dosyalar, başkalarının da çeviri ve yoklama sürecine katılabilmeleri için basılabilir, e-postayla gönderilebilir ya da başka yollarla paylaşılabilir.
 
-==== After Translating in a Word Processor ====
+==== Word İşlemcisinde Çeviri Yaptıktan Sonra ====
 
-  - We strongly recommend that your translation be checked. See [[en:ta:vol1:process:prechecking_training]].
-  - Once the checking is complete (to any level), you may upload your work. 
-    - This feature is presently automated for Open Bible Stories. Please follow the instructions on https://door43.org/obs-upload . 
-    - Please contact the Helpdesk if you have any questions. See [[en:ta:vol1:intro:finding_answers]]
-  - Once uploaded, you will need to merge your work into Door43. See  [[en:ta:vol1:process:upload_merge]]
-
-
+  - Çevirinizin yoklanmasını önemle tavsiye ediyoruz ([[:tr:ta:vol1:process:prechecking_training|Training Before Checking Begins]]).
+  - Once the checking is complete (to any level), you may upload your work.
+      - This feature is presently automated for Open Bible Stories. Please follow the instructions on [[https://door43.org/obs-upload|https://door43.org/obs-upload]] .
+      - Please contact the Helpdesk if you have any questions. See [[:en:ta:vol1:intro:finding_answers|Finding Answers]]
+  - Once uploaded, you will need to merge your work into Door43. See [[:en:ta:vol1:process:upload_merge|Merging an Upload Into Door43]]
 
 Next we recommend you learn about:
-  * //[[tr:ta:vol1:process:upload_merge|Merging an Upload Into Door43]]//
-  * //[[tr:ta:vol1:process:prechecking_training|Training Before Checking Begins]]//
-  * //[[tr:ta:vol1:process:required_checking|How to Check]]//
 
+  * //[[:tr:ta:vol1:process:upload_merge|Merging an Upload Into Door43]]//
+  * //[[:tr:ta:vol1:process:prechecking_training|Training Before Checking Begins]]//
+  * //[[:tr:ta:vol1:process:required_checking|How to Check]]//
