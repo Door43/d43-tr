@@ -1,7 +1,8 @@
-===== Setting up Door43 =====
+===== Door43’ün Kurulması =====
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:process:platforms|Selecting a Platform]]//
+
+  * //[[:tr:ta:vol1:process:platforms|Selecting a Platform]]//
 
 ==== Getting Started with Door43 ====
 
