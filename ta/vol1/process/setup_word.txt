@@ -6,11 +6,11 @@ Before you start this module have you learned about:
 
   * //[[:tr:ta:vol1:process:platforms|Selecting a Platform]]//
 
-==== Obtaining the Source Text for Open Bible Stories ====
+==== Açık Kutsal Kitap Öyküleri için kaynak metinlerin sağlanması ====
 
-  - Go to [[:obs-template|Get Open Bible Stories Word Template]]
-  - Select your source language (the language from which you will translate) and click "Save". (Note: If you click the "Add all images in the file", the download size will increase greatly.) **The template will download as a docx file.**
-  - Open this template in your word processor of choice. 
+  - [[:obs-template|Açık Kutsal Kitap Öyküleri Word Şablonunu Almaya]] Gidin
+  - Kaynak dilinizi (çeviri bu dilden yapılır) seçin ve \"Save\" (Kaydet) tıklayın. (Not: Eğer siz \"Add all images in the file\" (Dosyadaki tüm imgeleri ekle) tıklarsanız, indirme boyutu oldukça artacak.) **Şablon docx dosyası olarak indirilecektir.​**
+  - Bu şablonu seçtiğiniz Word işlemcisinde açın.
 
 ==== Obtaining Translation Helps for Open Bible Stories ====
 
