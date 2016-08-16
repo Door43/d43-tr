@@ -7,16 +7,16 @@ Before you start this module have you learned about:
   * //[[:tr:ta:vol1:process:intro_publishing|Introduction to Publishing]]//
   * //[[:tr:ta:vol1:process:publishing_prereqs|Publishing Prerequisites]]//
 
-==== Starting the Publishing Process ====
+==== Yayınlama Sürecine Başlama ====
 
-Before you start the Publishing Process, please be sure that you have met all the [[tr:ta:vol1:process:publishing_prereqs|Publishing Prerequisites]]. 
+Siz Yayınlama Sürecine başlamadan önce lütfen tüm [[:tr:ta:vol1:process:publishing_prereqs|Yayınlama Önkoşulları’nı]] karşıladığınızdan emin olun.
 
-To start the publishing process, someone from the team will need fill out the [[http://td.unfoldingword.org/publishing/publish/request/|Request to Publish Form]]. A few things to note about this form: 
+Yayınlama sürecine başlamak için takımdan bir kişinin [[http://td.unfoldingword.org/publishing/publish/request/|Yayınlama Talebi Formunu]] doldurması gerekir. Bu forma dair birkaç not:
 
-   * **An email address is required** - During the publishing process, the requester will be emailed if there are any problems, and also at the end of the process, requesting a final check be made. 
-   * **Documentation of Contributors is required** - To document who was involved, each Checking Level requires that all contributors sign the [[tr:ta:vol1:intro:statement_of_faith|Statement of Faith]], the [[tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]], and the [[tr:ta:vol1:intro:open_license|Open License]]. This documentation is required to start the publishing process. You can download [[https://unfoldingword.org/forms/|signature forms]].
-     * Note: To help protect the identity of those who might desire it, pseudonyms/usernames will be cited (if provided) rather than real names in the list of contributors. 
-   * **A "pre-flight" check** - Immediately after submitting the Request to Publish form, a computerized check will take place. This check ensures that everything has been translated and that content appears in the correct web pages in Door43. It also does a statistical check which compares the standard deviation from the source language to the target language. Abnormally high or low deviations are flagged and all results of the "pre-flight" check are processed and returned to the requester within a minute or so. If any changes need to be made, they should be made before proceeding.
+  * **E-posta adresi talep edilmektedir**  - yayınlama süreci sırasında herhangi sorun oluşursa başvuranın e-posta adresine mesaj gönderilecek ve sürecin sonunda son yoklamanın yapılması talebi gönderilecektir.
+  * **Katkıda Bulunanların Belgelenmesi talep edilmektedir**  - Katılanların belgelenmesi için her Yoklama Seviyesinde bütün katkıda bulunanların [[:tr:ta:vol1:intro:statement_of_faith|İman Beyanı]], [[:tr:ta:vol1:intro:translation_guidelines|Çeviri Kuralları]] ve [[:tr:ta:vol1:intro:open_license|Açık Lisans’ı]] imzalamaları gerekir. Bu belgelenme, yayınlama sürecine başlamak için talep edilir.  [[https://unfoldingword.org/forms/|İmza formlarını]] indirebilirsiniz.
+      * Not: Katkıda bulunanlar listelerinde, arzu edenlerin kimliğinin korunmasına yardım etmek için gerçek isimleri yerine takma isimleri/kullanıcı isimleri kullanılacak (sağlandığı takdirde).
+  * **«Uçuş öncesi» yoklama**  - Yayınlama Talebi formunu gönderdikten hemen sonra bilgisayarlı yoklama yer alacak. Bu yoklama her şeyin çevrilmiş olduğundan ve içeriğin Door43’te düzgün web sayfalarında ortaya çıktığından emin olmalıdır. Ayrıca kaynak dilden hedef dile standart ayrılışını karşılaştıran istatistik yoklanır. Anormal derecede çok veya az fark işaretlenir ve «uçuş öncesi» yoklamanın tüm sonuçları başvurana bir iki dakika içinde sunulur. Yapılacak olan herhangi değişikliğin devam etmeden önce yapılması gerekir.
 
 ==== During the Publishing Process ====
 
