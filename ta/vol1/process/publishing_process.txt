@@ -1,10 +1,11 @@
-===== How to Publish =====
+===== Nasıl Yayınlamalı =====
 
-This module answers the question: //How do I publish my content?//
+This module answers the question: //İçeriğimi nasıl yayınlamalıyım?​//
 
 Before you start this module have you learned about:
-  * //[[tr:ta:vol1:process:intro_publishing|Introduction to Publishing]]//
-  * //[[tr:ta:vol1:process:publishing_prereqs|Publishing Prerequisites]]//
+
+  * //[[:tr:ta:vol1:process:intro_publishing|Introduction to Publishing]]//
+  * //[[:tr:ta:vol1:process:publishing_prereqs|Publishing Prerequisites]]//
 
 ==== Starting the Publishing Process ====
 
