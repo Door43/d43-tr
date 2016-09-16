@@ -1,11 +1,11 @@
 ===== İman Beyanı =====
 
-Bu modül şu soruyu cevaplar: Neye inanıyoruz?
+Bu modül şu soruyu cevaplar: //Neye inanıyoruz?//
 
 Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:intro:uw_intro|The unfoldingWord Project]]//
-Bu belgenin resmî versiyonu// [[https://unfoldingword.org/faith|unfoldingword.org/faith]] //adresinde yer almaktadır.
+Bu belgenin resmî versiyonu// [[https://unfoldingword.org/faith|unfoldingword.org/faith]] // adresinde yer almaktadır.
 
 ==== İman Beyanı ====
 
