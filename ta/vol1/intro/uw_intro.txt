@@ -75,7 +75,7 @@ Ne yapıyoruz?
 
 - sonra ne adım atmalı
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:intro:statement_of_faith|Statement of Faith]]//
   * //[[:tr:ta:vol1:intro:gl_strategy|Gateway Languages Strategy]]//
