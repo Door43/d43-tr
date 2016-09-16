@@ -1,8 +1,8 @@
 ===== Çeviri Kuralları =====
 
-This module answers the question: //Hangi ilkelere dayalı olarak çeviri yaparız?//
+Bu modül şu soruyu cevaplar: //Hangi ilkelere dayalı olarak çeviri yaparız?//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:intro:uw_intro|The unfoldingWord Project]]//
   * //[[:tr:ta:vol1:intro:statement_of_faith|Statement of Faith]]//
