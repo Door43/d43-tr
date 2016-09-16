@@ -31,7 +31,7 @@ Ayrıca çeviri işinde şunları tavsiye ederiz:
 
   - **[[:tr:ta:vol2:translate:guidelines_collaborative|İşbirliği]]** — Mümkün olduğu takdirde, çevirinin olabildiğince yüksek kalitesini ve olabildiğince çok insana ulaşmasını sağlamak amacıyla çevirme, çevrilen içeriğin yoklanması ve dağıtımı işlerinde dilinizde konuşan diğer imanlılarla birlikte çalışın.
   - **[[:tr:ta:vol2:translate:guidelines_ongoing|Süreklilik]]** — Çeviri işi hiçbir zaman tamamen bitmiş olmaz. Dil yeteneği daha güçlü olan kişileri teşvik edin ki, farkında oldukları daha iyi söylenebilecek şeyleri söylesinler. Çevirideki yanlışlıklar da tespit edilince hemen düzeltilmeli. Ayrıca bir revizyonun ya da yeni çevirinin gerektiği zamanı tespit etmek amacıyla çevirinin düzenli aralıklarla tekrar gözden geçirilmesini teşvik edin. Her dil toplumunun bu sürekli işi yönetecek bir çeviri kurulu yaratmasını tavsiye ederiz. unfoldingWord çevrimiçi araçlarıyla çeviride hızlı ve kolayca değişiklikler yapılabilir.
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:intro:open_license|Open License]]//
   * //[[:tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]//
