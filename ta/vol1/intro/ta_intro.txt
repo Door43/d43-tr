@@ -1,6 +1,6 @@
-===== Introduction to translationAcademy =====
+===== translationAcademy’nin Tanıtımı =====
 
-This module answers the question: //What is translationAcademy?//
+Bu modül şu soruyu cevaplar:// translationAcademy nedir?//
 
 ==== Welcome to translationAcademy ====
 
