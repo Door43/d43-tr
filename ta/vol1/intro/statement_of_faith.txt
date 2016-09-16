@@ -1,8 +1,8 @@
-===== Statement of Faith =====
+===== İman Beyanı =====
 
-This module answers the question: //What do we believe?//
+Bu modül şu soruyu cevaplar: Neye inanıyoruz?
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:intro:uw_intro|The unfoldingWord Project]]//
 //The official version of this document is found at [[https://unfoldingword.org/faith|unfoldingword.org/faith]].//
