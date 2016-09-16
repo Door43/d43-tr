@@ -29,7 +29,7 @@ Bu kaynak (örn., kitap, Kutsal Kitap etüdü vs.) Door43’e aktarıldığında
 
 Door43’teki projelere katkıda bulunanlar, **her sayfanın revizyon geçmişinde otomatik olarak kaydedilen atfetmenin onların işine yeterli atfetme olduğunu kabul ederler**. Yani Açık Kutsal Kitap Öyküleri’nin başka bir dile çevirisine katkıda bulunan herkes «Door43 World Missions Community» gibi bir listeye dahil edilir. Katkıda bulunan her bireyin özel katkıları o çevirinin revizyon geçmişinde saklanmaktadır.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:intro:gl_strategy|Gateway Languages Strategy]]//
   * //[[:tr:ta:vol1:translate:translate_source_licensing|Copyrights, Licensing, and Source Texts]]//
