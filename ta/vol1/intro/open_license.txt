@@ -1,8 +1,8 @@
 ===== Açık Lisans =====
 
-This module answers the question: //Kullanıcıların unfoldingWord içeriği ile ilgili ne gibi serbestlikleri vardır?//
+Bu modül şu soruyu cevaplar: //Kullanıcıların unfoldingWord içeriği ile ilgili ne gibi serbestlikleri vardır?//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:intro:uw_intro|The unfoldingWord Project]]//
   * //[[:tr:ta:vol1:intro:statement_of_faith|Statement of Faith]]//
