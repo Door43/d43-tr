@@ -48,6 +48,6 @@ AŞAMA 2
       * translationAcademy Cilt 2 - Seviye 2
   * translationAcademy vol 2 - Level 2
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:intro:finding_answers|Finding Answers]]//
