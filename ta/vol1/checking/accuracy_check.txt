@@ -1,8 +1,8 @@
 ===== Çevirinin Doğruluğunu Yoklama =====
 
-This module answers the question: //Çevirinin doğruluğunu nasıl yoklayabilirim?​//
+Bu modül şu soruyu cevaplar: //Çevirinin doğruluğunu nasıl yoklayabilirim?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:checking:level1|Checking Level One – Translation Team Check]]//
   * //[[:tr:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]//
