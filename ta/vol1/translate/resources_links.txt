@@ -1,8 +1,8 @@
 ===== Notlar’daki Bağlantılar =====
 
-This module answers the question: //Neden Notlar’daki bağlantıları kullanmam gerekiyor?​//
+Bu modül şu soruyu cevaplar: //Neden Notlar’daki bağlantıları kullanmam gerekiyor?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:translate:translate_help|Help with Translating]]//
   * //[[:tr:ta:vol1:translate:resources_intro|Introduction to Resources]]//
