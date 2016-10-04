@@ -18,6 +18,6 @@ Bu sorular, çevirmenin yerel halkın yazılı dili için noktalama işaretleri,
   * Kutsal Kitap’ta adları yazmada hangi kuralara uyuyorsunuz? Kutsal Kitap’ın devlet diline çevirisinde yazılan adları kullanıyor musunuz? Sizin dilinizde adların telaffuzuna ve adlara unvan ekleme gereğine dair kurallarınız var mı? (Toplum bu kararı nasıl kabul etti?)
   * Dilinize uygun gördüğünüz ve başkalarıyla paylaşmak istediğiniz herhangi ortografi kuralları (örneğin, bir sözcüğün biçimini değişmesi veya iki sözcüğün birleşmesi gibi) var mı? Toplum bu kuralları kabul edecek mi?
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:translate_what|What to Start Translating]]//
