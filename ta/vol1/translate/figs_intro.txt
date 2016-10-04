@@ -26,7 +26,7 @@ Aşağıda Mecazların türleri listelenmiştir. Daha fazla bilgi edinmek isters
   * **[[:tr:ta:vol1:translate:figs_rquestion|Retorik Soru]]**- Retorik soru, bilgi edinmekten başka bir amaçla sorulan sorudur. Çoğu zaman anlatıcının konuya veya dinleyiciye karşı tutumunu gösterir. Sık sık azarlama amacıyla kullanılır, fakat bazı dillerin başka amaçları da olur.
   * **[[:tr:ta:vol1:translate:figs_simile|Teşbih]]**- Teşbihte, aralarındaki ortak bir niteliğin vurgulanması yolu ile bir şey başka bir şeye benzetilir. Metafordan farklı olarak, teşbihte benzetme «gibi» edatıyla açıklanır. Bahsedilen şeye «konu»; benzetilen şeye «timsal»; birbirlerine benzetilenlerin arasındaki ortak niteliğe «benzetme yönü» denir.
   * **[[:tr:ta:vol2:translate:figs_synecdoche|figs_synecdoche]]**- Synecdoche denen mecazda: 1) bir şeyin parçasının adı bütününe ait olarak kullanılır; ya da 2) bir şeyin adı sadece bir parçasına ait olarak kullanılır.
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:figs_metaphor|Metaphor]]//
   * //[[:tr:ta:vol1:translate:figs_simile|Simile]]//
