@@ -1,8 +1,8 @@
 ===== Anlamı Yeniden Anlatma =====
 
-This module answers the question: //Anlamı Nasıl Yeniden Anlatmalıyım?​//
+Bu modül şu soruyu cevaplar: //Anlamı Nasıl Yeniden Anlatmalıyım?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:translate:translate_process|The Translation Process]]//
   * //[[:tr:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]//
