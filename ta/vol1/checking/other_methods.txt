@@ -15,7 +15,7 @@ Soru sormaktan başka çevirinin kolayca okunabildiğinden ve dinleyicilere doğ
   * **Çeviri seçeneklerini önerin**: Bir sözü ifade etmenin en iyi yolundan emin olmadığınız yerlerde başkalarından diğer çeviri seçeneğini isteyin veya iki seçenek arasında seçmeyi önerin ve bakın, insanlar hangisinin daha açık olduğunu düşünüyorlar.
   * **Revize edenlerin katkısı**: Saygı gösterdiğiniz başka insanlar çevirinizi okusunlar. Geliştirilebilecek yerleri not alıp size bildirmelerini isteyin. Daha iyi söz seçimleri, doğal ifadeleri, hatta daha düzgün yazılışı amaçlayın.
   * **Tartışma Grupları**: İnsanlara bir grupta çeviriyi yüksek sesle okutun ve hem kendilerinin hem başkalarının açıklık için soru sormasına izin verin. Kullandıkları sözlere dikkat edin, çünkü biri zor bir anlamı iletmeye çalışırken başka söz ve ifade seçenekleri bulunabilir ve bu söz ve ifade seçenekleri, çeviridekilerden daha iyi olabilir. İnsanların çeviriyi anlamadıkları yerlere dikkat edin ve o yerleri açıklamaya gayret edin.
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:writing_decisions|Decisions for Writing Your Language]]//
   * //[[:tr:ta:vol1:checking:community_evaluation|Language Community Evaluation Questions]]//
