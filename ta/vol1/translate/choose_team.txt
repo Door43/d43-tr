@@ -42,7 +42,7 @@ Bu kişiler ilk taslak yaratmaktan başka ayrıca çeviri takımının özünü 
 
 Çevirinin doğruluğunu yoklamak için seçilenler, Kutsal Kitap’ı kaynak dilde zaten iyi bilen kişiler olacaklar. Kaynak dilde pek iyi okuyabilmeleri gerekir. Onlar çevirinin kaynak Kutsal Kitap’taki her şeyi ilettiğinden emin olmak için çeviriyi kaynak Kutsal Kitap’la karşılaştıracaklar. Onlar çeviri işiyle ilgilenen ve iyi yoklama işi yapmak için vakitleri olan kişiler olacaklar. Onların arasında hedef dilde konuşan ve çeviriyi kullanacak olan çeşitli kiliselerin üyeleri olsalar, çok iyi olur. 2. seviyede yoklayanlar yerel kilise liderleri olmalılar. 3. seviye yoklayanlar kilise gruplarının liderleri ya da dilin konuşulduğu bölgede birçoklarının itibarını kazanmış kişiler olmalılar. Bu insanların çoğu son derece meşgul oldukları için bütün çeviriyi bir veya iki kişiye yüklemek yerine değişik bölümleri değişik insanlara göndermek daha iyi olabilir.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:qualifications|Translator Qualifications]]//
   * //[[:tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
