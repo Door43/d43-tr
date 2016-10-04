@@ -51,7 +51,7 @@ Biçimin anlamını anladığımızda hedef dilde ve kültüründe aynı anlamı
 
 Biçimlerin anlamını kültür belirler. Aynı biçimin değişik kültürlerde değişik anlamları olabilir. Biçimin anlamı dahil olmak üzere anlamın çeviride aynı kalması gerekir. Yani metnin biçimi kültüre uygun olarak değişmeli. Form, metnin dilini, düzenlenişini, herhangi tekrarları ya da «Ah» gibi ses taklidi niteliğinde olan sözleri içerir. Bu şeylerin hepsini incelemeniz, anlamlarını belirlemeniz ve sonra hedef dilde ve kültürde hangi biçimin bu anlamı en iyi ilettiğine karar vermeniz gerekir.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:translate_literal|Literal Translations]]//
   * //[[:tr:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]//
