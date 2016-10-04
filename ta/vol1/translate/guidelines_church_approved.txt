@@ -33,7 +33,7 @@ Kilisenin çeviriyi aktif olarak yönetip bütün çabaları koordine etmesi ger
 
 Her seviyede çeviriyi yöneten kişilerin kilise birliklerinin katılımını ve katkısını teşvik etmeleri gerekir. Bu süreçle biz olabildiğince çok kilise birliklerindeki kiliselerin bu çeviriye sahip çıkmasını teşvik edeceğimizi ümit ediyoruz. Bu onay ile çevirinin kiliseyi güçlendirmesine ve teşvik etmesine herhangi bir engel kalmamalı.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:guidelines_clear|Create Clear Translations]]//
   * //[[:tr:ta:vol1:translate:guidelines_natural|Create Natural Translations]]//
