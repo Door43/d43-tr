@@ -1,6 +1,6 @@
 ===== Açık ve Örtülü =====
 
-This module answers the question: //Açık ve Örtülü Sözleri Ne Anlama Geliyor?​//
+Bu modül şu soruyu cevaplar: //Açık ve Örtülü Sözleri Ne Anlama Geliyor?​//
 
 ==== Definition ====
 
