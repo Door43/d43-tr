@@ -1,8 +1,8 @@
 ===== Deyim =====
 
-This module answers the question: //Deyim nedir?​//
+Bu modül şu soruyu cevaplar: //Deyim nedir?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:translate:figs_intro|Figures of Speech]]//
 
