@@ -1,8 +1,8 @@
 ===== 3. Seviyede Yoklama - Doğrulanmış Yoklama =====
 
-This module answers the question: //3. seviye yoklamasını nasıl yapmalıyım?​//
+Bu modül şu soruyu cevaplar: //3. seviye yoklamasını nasıl yapmalıyım?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:checking:intro_levels|Introduction to the Checking Levels]]//
   * //[[:tr:ta:vol1:checking:level2|Checking Level Two – External Check]]//
