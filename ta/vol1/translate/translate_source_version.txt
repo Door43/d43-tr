@@ -46,6 +46,6 @@ Birçok çeviride versiyon numarası listelemiştir. Versiyon numarası bulunmuy
 
 Açık Kutsal Kitap Öyküleri’nin sizin dilinize çevirisinin hangi versiyonundan yapılmış olduğunu belirledikten sonra dilinizdeki çeviriyi en son versiyonuna güncelleştirmeniz gerekecek. Güncelleştirme sürecini basitleştirmek için [[https://door43.org/obs-diffs/ver_1-to-ver_3.html|1.x]] ve en son versiyonu ile [[https://door43.org/obs-diffs/ver_2-to-ver_3.html|2.x]] ve en son versiyonu arasındaki bütün farklılıkları gösteren değişiklik günlüklerini hazırladık. Sadece bu farklılıkları izleyerek bunlara göre dilinizdeki metni güncelleştirin ve Açık Kutsal Kitap Öyküleri çeviriniz güncel hâle gelmiş olacak.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:translate_original|The Original and Source Languages]]//
