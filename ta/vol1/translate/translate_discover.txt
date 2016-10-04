@@ -1,8 +1,8 @@
 ===== Metnin Anlamını Keşfetme =====
 
-This module answers the question: //Metnin Anlamını Nasıl Keşfetmeliyim?​//
+Bu modül şu soruyu cevaplar: //Metnin Anlamını Nasıl Keşfetmeliyim?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:translate:translate_process|The Translation Process]]//
 
