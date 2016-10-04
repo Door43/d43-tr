@@ -16,7 +16,7 @@ eviride yapmanız gereken iki şey var:
 
 Çeviri için talimat bazen bu iki şeyi daha küçük adımlara bölüyor. Aşağıdaki çizelgede bunların ikisinin çeviri sürecine nasıl uyduğunu gösterilir.{{:en:ta:translation_process.png?nolink&600x360}}
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]//
   * //[[:tr:ta:vol1:translate:translate_retell|Re-telling the Meaning]]//
