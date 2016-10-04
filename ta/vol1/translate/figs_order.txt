@@ -1,8 +1,8 @@
 ===== Söz Sırası =====
 
-This module answers the question: //Söz sırası önemli midir?​//
+Bu modül şu soruyu cevaplar: //Söz sırası önemli midir?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
 ==== Cümlenin Ögeleri ====
 
