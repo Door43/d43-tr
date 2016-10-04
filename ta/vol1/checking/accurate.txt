@@ -12,7 +12,7 @@ Yeni çevirinin doğru olduğundan emin olmak çok önemlidir. Çeviriyi doğrul
 
 Bunun nasıl yapılması ile ilgili talimatlar için şuraya gidin [[:tr:ta:vol1:checking:accuracy_check|Accuracy Check]] ve «Tüm Seviyeler» başlığı altındaki adımları izleyin.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:checking:complete|Complete Translation]]//
   * //[[:tr:ta:vol1:checking:accuracy_check|Accuracy Check]]//
