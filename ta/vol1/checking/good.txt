@@ -1,8 +1,8 @@
 ===== 2. Seviye Doğrulanma =====
 
-This module answers the question: //Kilise liderleri çevirinin iyi olduğunu nasıl doğrulayabilirler?​//
+Bu modül şu soruyu cevaplar: //Kilise liderleri çevirinin iyi olduğunu nasıl doğrulayabilirler?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:checking:complete|Complete Translation]]//
 
