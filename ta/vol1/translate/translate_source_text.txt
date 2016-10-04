@@ -1,8 +1,8 @@
 ===== Kaynak Metin Seçme =====
 
-This module answers the question: //Kaynak metin seçerken hangi etkenlere dikkat edilmelidir?//
+Bu modül şu soruyu cevaplar: //Kaynak metin seçerken hangi etkenlere dikkat edilmelidir?//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:translate:choose_team|Choosing a Translation Team]]//
 
