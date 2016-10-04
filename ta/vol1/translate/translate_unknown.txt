@@ -1,6 +1,6 @@
 ===== Bilinmeyenler Sözlerin Çevrilmesi =====
 
-This module answers the question: //Bilmediğim sözleri nasıl çevirmeliyim?​//
+Bu modül şu soruyu cevaplar: //Bilmediğim sözleri nasıl çevirmeliyim?​//
 
 ==== Bilinmeyenler Nasıl Çevrilir ====
 
