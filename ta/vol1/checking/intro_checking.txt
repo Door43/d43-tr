@@ -36,6 +36,6 @@ Birkaç Yoklama Seviyesinin bulunmasında amaç, çevrilen içeriği en kısa za
 
 //Credits: Quotation used by permission, © 2013, SIL International, Sharing Our Native Culture, p. 69.//
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:checking:intro_levels|Introduction to the Checking Levels]]//
