@@ -19,7 +19,7 @@ Bir çevirinin doğallığını yoklamak için sizin veya başka dil toplumuna m
 
 Köyünüzde insanların çevirinizdekine benzer bir durumda ne söylediklerini düşünmekte yarar olabilir. Tanıdığınız insanların bu durumda ne söyleyebileceklerini tasavvur edin ve o sözleri yüksek sesle söyleyin. Başkaları bunun iyi ve doğal olduğunu kabul ederlerse, bu sözleri çeviride yazacaksınız.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:checking:acceptable|Acceptable Style]]//
   * //[[:tr:ta:vol1:translate:guidelines_natural|Create Natural Translations]]//
