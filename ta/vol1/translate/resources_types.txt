@@ -1,8 +1,8 @@
 ===== Not Türleri =====
 
-This module answers the question: //Çeşitli not türleri hangileridir?//
+Bu modül şu soruyu cevaplar: //Çeşitli not türleri hangileridir?//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:translate:translate_help|Help with Translating]]//
   * //[[:tr:ta:vol1:translate:resources_intro|Introduction to Resources]]//
