@@ -1,8 +1,8 @@
 ===== Çevirinin Meslektaşlar Tarafından Yoklanması =====
 
-This module answers the question: //Başkaları işimi yoklamama nasıl yardım edebilirler?​//
+Bu modül şu soruyu cevaplar: //Başkaları işimi yoklamama nasıl yardım edebilirler?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:checking:level1|Checking Level One – Translation Team Check]]//
   * //[[:tr:ta:vol1:checking:self_check|Self Check]]//
