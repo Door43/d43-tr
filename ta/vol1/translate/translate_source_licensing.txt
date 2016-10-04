@@ -31,6 +31,6 @@ Not:
   * TranslationStudio’da kaynak metinler olarak görünen bütün kaynak metinler kontrol edilmiştir ve herkesin bunları kaynak metin olarak kullanması yasaldır.
   * Herhangi bir metin unfoldingWord tarafından yayınlanmadan önce kaynak metnin kontrol edilmesi ve yukarıda listelenen lisansların biriyle sunulması zorunludur. Çevirinizin yayınlanamamasını önlemek amacıyla çevirmeye başlamadan önce lütfen kaynak metninizi yoklayınız.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:translate_source_version|Source Texts and Version Numbers]]//
