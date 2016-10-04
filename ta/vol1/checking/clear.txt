@@ -19,7 +19,7 @@ Ek yardım:
   * Metnin açık olup olmadığını belirlemenin bir yolu, bir defaya birkaç ayeti yüksek sesle okumak ve dinleyen bir kişiden her kısımdan sonra öyküyü yeniden anlatmasını istemektir. O kişi, ilettiğiniz mesajı kolayca yeniden anlatabiliyorsa, yazı açık sayılabilir.
   * Çevirinin açık olmadığı bir yer bulunursa onu çeviri takımı ile tartışmak için not edin.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:checking:acceptable|Acceptable Style]]//
   * //[[:tr:ta:vol1:checking:natural|Natural Translation]]//
