@@ -1,8 +1,8 @@
 ===== Orijinal El Yazmaları =====
 
-This module answers the question: //Orijinal dildeki metne dair daha çok bilgi var mıdır?​//
+Bu modül şu soruyu cevaplar: //Orijinal dildeki metne dair daha çok bilgi var mıdır?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:translate:translate_process|The Translation Process]]//
   * //[[:tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
