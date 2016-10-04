@@ -62,6 +62,6 @@ Anlama Dayalı çevirilerde ise çevirmenlerin anlamı açıklamak için yararl�
 
 Dikkat edin, TC çevirisinde «tövbe» sözcüğü hiç kullanılmamış, «günahlarından dönmek» şeklinde anlamı açıklanmıştır. HADİ çevirisinde «tövbe» sözcüğü kullanılmış, ama ardından onu açıklayan «değişmek» fiili da kullanılmıştır. «Semere» sözcüğü de kullanılmamıştır. Anlama dayalı çeviride «semere» metaforunun «insanın yaptıkları, amelleri» anlamı aktarılmaya çalışılır. (Metaforu öğreten modüle bakın.) Dolayısıyla anlam bağlama göre belirlenerek daha iyi anlaşılacak şekilde çevrilir. TC çevirisinde bu metafor «kanıtlayan ürünler» şeklinde çevrilmiş, HADİ’de ise insanın hakikaten değiştiğini gösteren «ameller» ifadesi kullanılmıştır. Anlam aynı kalır, sadece biçim değişir. Anlama dayalı çevirilerde anlam daha çok açık olur.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:translate_tform|Translate for Meaning]]//
