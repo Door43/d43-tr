@@ -1,8 +1,8 @@
 ===== Çeviri Nedir? =====
 
-This module answers the question: //Çeviri Nedir?​//
+Bu modül şu soruyu cevaplar: //Çeviri Nedir?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]//
 
