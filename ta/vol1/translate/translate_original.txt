@@ -1,8 +1,8 @@
 ===== Orijinal ve Kaynak Diller =====
 
-This module answers the question: //Orijinal dil ile kaynak dil arasındaki fark nedir?//
+Bu modül şu soruyu cevaplar: //Orijinal dil ile kaynak dil arasındaki fark nedir?//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:translate:translate_process|The Translation Process]]//
   * //[[:tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
