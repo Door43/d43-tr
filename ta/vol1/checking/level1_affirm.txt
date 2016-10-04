@@ -38,6 +38,6 @@ Biz, çeviri takımı üyeleri, 1. seviyede yoklama için aşağıdaki adımlar�
 
 Bu formu doldurduktan sonra, çevirinizin yoklamanın 1. seviyesinde yayınlanabilmesi için [[:tr:ta:vol1:process:publishing_process|yayınlama talebinde]] bulunmanız gerekir.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:checking:level2|Checking Level Two – External Check]]//
