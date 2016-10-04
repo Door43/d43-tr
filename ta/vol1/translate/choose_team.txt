@@ -1,8 +1,8 @@
 ===== Çeviri Takımının Seçilmesi =====
 
-This module answers the question: //Çeviri takımını nasıl seçerim?​//
+Bu modül şu soruyu cevaplar: //Çeviri takımını nasıl seçerim?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]//
   * //[[:tr:ta:vol1:translate:translate_whatis|What is Translation]]//
