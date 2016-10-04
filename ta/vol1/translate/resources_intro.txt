@@ -1,8 +1,8 @@
 ===== Kaynakların Tanıtımı =====
 
-This module answers the question: //Kaynaklar Nedir?​//
+Bu modül şu soruyu cevaplar: //Kaynaklar Nedir?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:intro:gl_strategy|Gateway Languages Strategy]]//
   * //[[:tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]//
