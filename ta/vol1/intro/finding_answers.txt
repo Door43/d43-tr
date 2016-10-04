@@ -17,6 +17,6 @@ Soruların cevaplarını bulmak için birkaç kaynak bulunmaktadır:
       * **[[:tr:ta:vol1:process:toc_processvol1_2|İşlem Kılavuzu]]**- «sonra ne?» sorusuna cevap verir
   * **[[:en:slack|Rahat Sohbet Odası]]**- unfoldingWord topluluğuna katılın, sorularınızı yardım masasında (helpdesk) yayınlayın ve sorularınıza gerçek zamanda cevap alın.
   * **Yardım Masası (Helpdesk)**  - sorularınızı help@door43.org e-posta adresine gönderin
-Bundan sonra su konuda bilgi alman?z? tavsiye ederiz:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]//
