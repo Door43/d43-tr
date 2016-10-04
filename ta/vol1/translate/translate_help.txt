@@ -20,7 +20,7 @@ Translation Words (Çeviri Sözleri), Açık Kutsal Kitap Öyküleri’nde ve Ku
 
 **Çeviri yaparken Çeviri Notları ve Çeviri Sözleri’ni kullanmanızı rica ederiz!​**
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:resources_types|Types of Notes]]//
   * //[[:tr:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]//
