@@ -35,6 +35,6 @@ Kutsal Kitap çevirmeninin böyle pasajları çevirirken şu ilkelere uymasını
   - Eğer çevirmenler ULB’ye uyar, oradaki ayetleri çevirir, ULB’de bulunmayan ayetleri ise çevirmezlerse, USB’nin o yerlerdeki dipnotları da aynen çevirmeleri gerekir.
   - Başka el yazmalarına göre çeviri yapan çevirmenler (örneğin, ULB’de dahil edilmeyen Elçilerin İşleri 8:37 ayetini metne dahil ederlerse) dipnottaki yazısı farklı olacak, örneğin «Bazı eski metinlerde 37. ayet bulunmamaktadır.»
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:translate_alphabet|Alphabet/Orthography]]//
