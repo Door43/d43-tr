@@ -1,8 +1,8 @@
 ===== Neden Kutsal Kitap’ı Çeviriyoruz? =====
 
-This module answers the question: //Neden Kutsal Kitap’ı çevirmeliyiz?​//
+Bu modül şu soruyu cevaplar: //Neden Kutsal Kitap’ı çevirmeliyiz?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:intro:uw_intro|The unfoldingWord Project]]//
   * //[[:tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]//
