@@ -1,8 +1,8 @@
 ===== Dilinizde Yazmaya Dair Kararlar =====
 
-This module answers the question: //Dilimizde yazmak için hangi kararları vermemiz gerekir?​//
+Bu modül şu soruyu cevaplar: //Dilimizde yazmak için hangi kararları vermemiz gerekir?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
   * //[[:tr:ta:vol1:translate:choose_team|Choosing a Translation Team]]//
