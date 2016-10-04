@@ -1,8 +1,8 @@
 ===== Doğru Çeviri =====
 
-This module answers the question: //Çeviri doğru mu?​//
+Bu modül şu soruyu cevaplar: //Çeviri doğru mu?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:checking:church_leader_check|Church Leader Check]]//
 
