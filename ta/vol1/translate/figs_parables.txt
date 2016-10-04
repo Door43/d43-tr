@@ -26,7 +26,7 @@ Meseller kişilerin adlarını nadiren içerir (Bu, meseli gerçek olaydan ayır
 
 >//«İsa onlara şu benzetmeyi de anlattı: “Kör köre kılavuzluk edebilir mi? İkisi de çukura düşmez mi?»// (Luka 6:39)
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:figs_metaphor|Metaphor]]//
   * //[[:tr:ta:vol1:translate:figs_simile|Simile]]//
