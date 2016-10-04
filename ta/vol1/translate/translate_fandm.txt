@@ -33,7 +33,7 @@ Bu örnekte **biçim**, mesaj metninin tamamıdır. **Anlamı ** ise şu: «Bana
 
 Biz bu terimleri benzer şekilde kullanırız. **Biçim**, çevirdiğimiz ayetlerin metninin tamamına ait olacaktır. **Anlam**, metinde iletilmeye çalışılan düşünceye veya düşüncelere aittir. Belirli anlamı iletmek için en iyi biçim değişik dillerde ve kültürlerde farklı olacaktır.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:translate_literal|Literal Translations]]//
   * //[[:tr:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]//
