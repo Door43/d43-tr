@@ -1,8 +1,8 @@
 ===== 1. Seviye Doğrulanma =====
 
-This module answers the question: //1. seviyede yoklamayı bitirdiğimi nasıl doğrularım?​//
+Bu modül şu soruyu cevaplar: //1. seviyede yoklamayı bitirdiğimi nasıl doğrularım?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:intro:statement_of_faith|Statement of Faith]]//
   * //[[:tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]]//
