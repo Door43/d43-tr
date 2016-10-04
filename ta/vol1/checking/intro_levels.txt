@@ -1,8 +1,8 @@
 ===== Yoklama Seviyelerinin Tanıtımı =====
 
-This module answers the question: //Yoklama seviyeleri nasıl çalışır?​//
+Bu modül şu soruyu cevaplar: //Yoklama seviyeleri nasıl çalışır?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:checking:intro_checking|Introduction to Translation Checking]]//
 
