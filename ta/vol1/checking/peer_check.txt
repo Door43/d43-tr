@@ -13,6 +13,6 @@ Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
   * Çeviriyi birlikte tekrar gözden geçirin ve o yerleri düzeltin.
   * Revize edilmiş çeviriyi o kişiye yüksek sesle okuyun ve toplumunuzdan birinin söyleyebileceğine benzemeyen herhangi yerleri düzeltin.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:checking:important_term_check|Important Term Check]]//
