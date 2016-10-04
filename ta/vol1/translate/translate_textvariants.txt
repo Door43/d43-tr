@@ -1,8 +1,8 @@
 ===== Metin Versiyonları =====
 
-This module answers the question: //Neden ULB’de eksik veya ek ayetler vardır?​//
+Bu modül şu soruyu cevaplar: //Neden ULB’de eksik veya ek ayetler vardır?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:translate:translate_manuscripts|Original Manuscripts]]//
   * //[[:tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
