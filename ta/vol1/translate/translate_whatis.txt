@@ -15,7 +15,7 @@ Esasen birebir ve dinamik (ya da anlama dayalı) olmak üzere iki çeviri türü
   * Birebir çeviriler kaynak dildeki sözcükleri hedef dilde temel anlamları benzer olan sözcüklerle çevirmeyi amaçlar. Böyle çeviride ayrıca kaynak dildeki ifadelere benzeyen ifadeler kullanılır. Birebir çeviri okuyucuya kaynak metnin yapısını görme imkanını verir, ama çoğu zaman okuyucunun kaynak metnin anlamını anlamasını zorlaştırır ya da imkansızlaştırır.
   * Dinamik, anlama dayalı çeviriler kaynak dil cümlesinin bağlamındaki anlamını çevirmeyi amaçlar ve böyle çeviride hedef dilin bu anlamı en uygun bir şekilde aktaracak sözcük ve ifadeleri kullanılır. Dinamik çevirinin amacı, okuyucunun kaynak metnin anlamını anlamasını kolaylaştırmaktır. Bu çeviri türü bu Çeviri Kılavuzu’nda tavsiye edilmektedir.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:translate_why|Why We Translate the Bible]]//
   * //[[:tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]//
