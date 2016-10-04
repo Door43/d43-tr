@@ -47,7 +47,7 @@ Açık çeviri yaratmak için ayrıca «-ın» hâli ile bağlanan isimlerin ara
 
 Çeviri, orijinal mesajın anlamını hedef dilde olabildiğince açık ve doğal bir biçimde yeniden anlatmadır.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:guidelines_natural|Create Natural Translations]]//
   * //[[:tr:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]//
