@@ -1,8 +1,8 @@
 ===== Çeviri Yoklamanın Tanıtımı =====
 
-This module answers the question: //Neden çevirileri yoklarız?​//
+Bu modül şu soruyu cevaplar: //Neden çevirileri yoklarız?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:checking:intro_check|Introduction to the Checking Manual]]//
 
