@@ -19,7 +19,7 @@ Bu kılavuz çeviri kuramını ve iyi çeviriyi yaratma yolunu öğretir. Birço
   * [[:tr:ta:vol1:translate:choose_team|Choosing a Translation Team]] - çeviri projesine başlamadan önce hesaba katılacak bazı noktalar
   * [[:tr:ta:vol1:translate:translate_what|What to Start Translating]] - çeviriye nasıl başlanmalı
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:translate_why|Why We Translate the Bible]]//
   * //[[:tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]//
