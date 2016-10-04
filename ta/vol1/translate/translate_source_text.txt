@@ -19,7 +19,7 @@ When choosing a source text, there are a number of factors that must be consider
   * **[[:tr:ta:vol1:translate:translate_manuscripts|Orijinal El Yazmaları]]**- Çeviri takımı Orijinal El Yazmaları ve versiyonları konusunda biliyorlar mı [[:tr:ta:vol1:translate:translate_textvariants|Metin Versiyonları]]?
 Dil toplumundaki kilise liderlerinin kaynak metnin iyi olduğu konusunda hemfikir olmaları önemlidir. [[https://unfoldingword.org/stories/|https://unfoldingword.org/stories/]] sitesinde Açık Kutsal Kitap Öyküleri’nin birçok dile çevirileri bulunuyor. Ayrıca Kutsal Kitap’ın İngilizceye ve gelecekte başka dillere de çevrilmesi amacıyla kullanılacak Kutsal Kitap çevirileri de vardır.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:translate_source_licensing|Copyrights, Licensing, and Source Texts]]//
   * //[[:tr:ta:vol1:translate:translate_source_version|Source Texts and Version Numbers]]//
