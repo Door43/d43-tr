@@ -1,8 +1,8 @@
 ===== Anlam Seviyeleri =====
 
-This module answers the question: //Anlam Seviyeleri Nelerdir?//
+Bu modül şu soruyu cevaplar: //Anlam Seviyeleri Nelerdir?//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:translate:translate_fandm|Form and Meaning]]//
   * //[[:tr:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]//
