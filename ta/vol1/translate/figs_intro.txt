@@ -1,6 +1,6 @@
 ===== Mecazlar =====
 
-This module answers the question: //Bazı mecazlar nelerdir?​//
+Bu modül şu soruyu cevaplar: //Bazı mecazlar nelerdir?​//
 
 ==== Definition ====
 
