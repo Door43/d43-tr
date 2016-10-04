@@ -11,12 +11,12 @@ Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 Bu bölümün amacı, çevirinin tam olduğundan emin olmaktır. Bu bölümde yeni çeviri kaynak çeviriyle karşılaştırılmalı. İki çeviriyi karşılaştırırken kendinize şu soruları sorun:
 
   - Çevirinin herhangi kısımları eksik mi? Başka bir deyişle, çeviri, çevrilen kitaptaki tüm olayları içeriyor mu?
-  - Çeviri, çevrilen kitabın tüm ayetlerini içeriyor mu? (Kaynak dil çevirisinin ayet numaralarına bakarken, tüm ayetler hedef dil çevirisinde bulunuyor mu?)  Bazen değişik çevirilerde ayet numaraları değişebilir. Örneğin, bazı çevirilerde bazı ayetler birleştirilmiş ve hatta dipnotta yazılmış olabilir. Kaynak çeviri ile hedef çeviri arasında böyle farkların bulunabilmesine rağmen kaynak çeviri her hâlde tam sayılır.
+  - Çeviri, çevrilen kitabın tüm ayetlerini içeriyor mu? (Kaynak dil çevirisinin ayet numaralarına bakarken, tüm ayetler hedef dil çevirisinde bulunuyor mu?) Bazen değişik çevirilerde ayet numaraları değişebilir. Örneğin, bazı çevirilerde bazı ayetler birleştirilmiş ve hatta dipnotta yazılmış olabilir. Kaynak çeviri ile hedef çeviri arasında böyle farkların bulunabilmesine rağmen kaynak çeviri her hâlde tam sayılır.
   - Çeviride bir şey atlatılmış veya kaynak dil çevirisindeki anlamdan farklı bir anlam iletilmiş gibi görünen yerler var mı? (Kullanılan sözcükler ve söz sırası değişik olabilir, ama çevirmenin kullandığı dil, kaynak dil çevirisindeki anlamın aynısını iletmelidir.)
 
 Çevirinin tam olmadığı bir yer bulunursa onu çeviri takımı ile tartışmak için not edin.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:checking:self_assessment|Self-Assessment Rubric]]//
   * //[[:tr:ta:vol1:checking:good|Level 2 Affirmation]]//
