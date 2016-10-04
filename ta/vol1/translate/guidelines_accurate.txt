@@ -56,7 +56,7 @@ Pasajı gözden geçirin, onu kendi dilinizde nasıl anlatabileceğinizi düşü
 
 **Aklınızda tutun:**  Çeviri, orijinal mesajın anlamını hedef dilde olabildiğince açık ve doğal bir biçimde yeniden anlatmadır.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:guidelines_clear|Create Clear Translations]]//
   * //[[:tr:ta:vol1:translate:guidelines_natural|Create Natural Translations]]//
