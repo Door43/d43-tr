@@ -1,8 +1,8 @@
 ===== Doğal Çeviri Yaratma =====
 
-This module answers the question: //Doğal çevirileri nasıl yaratırız?​//
+Bu modül şu soruyu cevaplar:  //Doğal çevirileri nasıl yaratırız?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]//
   * //[[:tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]]//
