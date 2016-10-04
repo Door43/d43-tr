@@ -39,7 +39,7 @@ Bu soru, birinden nazik şekilde bir şey yapmasını istemek için sorulabilir.
 
 Bir anne bu sözlerle çocuğunu azarlayabilir.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:figs_metaphor|Metaphor]]//
   * //[[:tr:ta:vol1:translate:figs_simile|Simile]]//
