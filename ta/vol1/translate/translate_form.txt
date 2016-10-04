@@ -1,8 +1,8 @@
 ===== Biçimin Önemi =====
 
-This module answers the question: //Biçimin önemi nedir?​//
+Bu modül şu soruyu cevaplar: //Biçimin önemi nedir?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:translate:translate_fandm|Form and Meaning]]//
   * //[[:tr:ta:vol1:translate:translate_process|The Translation Process]]//
