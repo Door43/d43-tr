@@ -34,7 +34,7 @@ Bu sorular ayrıca çeviride yanlış bir şeyin bulunması için faydalı olabi
   * Kaynak dil çevirisinde anlatılan her şey aynen yeni (yerel dile) çeviri metninde de anlatılmış mıdır? (Yeni çevirinin anlamı, kaynak çevirinin bildirisini (kullanılan sözcüklerini değil) aktarmış mıdır? Sözcüklerin veya kavramların düzenlenmesi bazen kaynak dildekinden farklı olur; böyle daha iyi görünür ve aynen doğru olur.)
   * Her öyküde tanıtılan kişiler kaynak dil çevirisinde bahsedilenlerle aynı şeyleri yaparlar mı? (Yeni çeviriyi kaynak dil ile karşılaştırırken kimin ne yaptığını görmek kolay mıydı?)
   * Yeni çeviride kullanılan ve kaynak versiyonundaki anlamına uymayan Önemli Terimler var mıdır? (Şu şeyleri düşünün: Sizin halkınız, kâhin (Tanrı’ya kurban sunan) ya da tapınak (Yahudilerin kurban yeri) hakkında konuşurken ne der? Kaynak dildeki sözü ödünç almaksızın kullanabileceği bir terim var mı?)
-  * Yeni çeviride kullanılan ifadeler kaynak çevirinin daha zor ifadelerinin anlaşılması bakımından faydalı mıdır? (Yeni çevirinin ifadelerinin düzenlenmesi  daha iyi anlaşılmasını sağlamakla beraber kaynak dil çevirisinin anlamına uymakta mıdır?)
+  * Yeni çeviride kullanılan ifadeler kaynak çevirinin daha zor ifadelerinin anlaşılması bakımından faydalı mıdır? (Yeni çevirinin ifadelerinin düzenlenmesi daha iyi anlaşılmasını sağlamakla beraber kaynak dil çevirisinin anlamına uymakta mıdır?)
   * Metnin doğru olup olmadığını belirlemenin başka yolu, çeviri hakkında «kim ne yaptı, ne zaman, nerede, nasıl ve neden yaptı» gibi kavrama soruları sormaktır. Buna yardım etmek amacıyla önceden hazırlanmış olan sorular vardır. [[:en:obs:notes:questions:home|Açık Kutsal Kitap Öyküleri sorularına]] ya da [[:en:bible:questions:comprehension:home|Kutsal Kitap sorularına]] tıklayın. Bu soruların cevapları, kaynak dil çevirisine sorulan soruların cevaplarının aynısı olmalıdır. Aksi hâlde çeviride bir sorun söz konusudur.
 
 2. Yoklayan kişinin bir sorunun veya düzeltilebilecek bir yerin olabileceğini düşündüğü yerleri not etmesi gerekir. Her yoklayan kişi bu notları çeviri takımı ile görüşecek.
@@ -47,7 +47,7 @@ Bu sorular ayrıca çeviride yanlış bir şeyin bulunması için faydalı olabi
 
 6. Çevirmen (ya da takım) hâlâ zor anlaşılan Kutsal Kitap ayetlerini ve başka Kutsal Kitap yoklayanlarından ek yardım isteyecekleri yerleri not edecekler. Bu notlar, 2. ve 3. seviyelerde kilise liderleri ve yoklayan kişiler tarafından kullanılacak; öyle ki, onlar çevirmenlerin anlamı kavramalarına ve daha açık şekilde iletmelerine yardım etsinler.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:checking:level2|Checking Level Two – External Check]]//
   * //[[:tr:ta:vol1:checking:language_community_check|Language Community Check]]//
