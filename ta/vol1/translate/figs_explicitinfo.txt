@@ -1,8 +1,8 @@
 ===== Örtülü Bilgiyi Açık Yapma =====
 
-This module answers the question: //Örtülü bilgiyi nasıl açık yaparım?​//
+Bu modül şu soruyu cevaplar: //Örtülü bilgiyi nasıl açık yaparım?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:translate:figs_explicit|Explicit and Implicit]]//
 
