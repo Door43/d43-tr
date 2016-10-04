@@ -1,8 +1,8 @@
 ===== İlk Taslağı Yapma =====
 
-This module answers the question: //İlk taslağı nasıl yaparım?​//
+Bu modül şu soruyu cevaplar: //İlk taslağı nasıl yaparım?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:translate:translate_what|What to Start Translating]]//
   * //[[:tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
