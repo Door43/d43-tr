@@ -1,6 +1,6 @@
 ===== İçindekiler - Giriş =====
 
-This module answers the question: //Giriş’te ne bulunuyor?//
+Bu modül şu soruyu cevaplar: //Giriş’te ne bulunuyor?//
 
 ==== Introduction ====
 
