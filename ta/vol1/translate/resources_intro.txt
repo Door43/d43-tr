@@ -35,7 +35,7 @@ Bu kaynaklar şunlardır:
   * translationQuestions, dilinizi bilen başka insanlarla çevirinizi yoklamak için kullanabileceğiniz soru-cevap setidir.
   * translationAcademy nasıl çeviri yapmak, çeviriyi nasıl yoklamak ve unfoldingWord çeviri araçlarını nasıl kullanmak konusunda bilgileri içerir.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//
   * //[[:tr:ta:vol1:tech:resources_d43|Find the Resources in Door43]]//
