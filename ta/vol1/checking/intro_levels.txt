@@ -29,7 +29,7 @@ Kullandığımız üç seviyeli yoklama ölçeği şunlara dayalıdır: unfoldin
 
 Bu belgede açıklanan prosedür ve yoklama sistemi, içeriği kullanan Kilise tarafından belirlenen devamlı içeriği yoklama ve revize etme sürecine dayalıdır. İçeriğin kullanıcılarının katkılarını olabildiğince artırmak amacıyla geribildirimler teşvik edilir (ve mümkün olduğu kadar çeviri yazılımında örneklendirilir). İçeriğin çevirileri, kullanıcıların işbirliği ile zamanla kalitesi artan içeriğin yaratılmasını kolaylaştıracak ([[http://door43.org|http://door43.org]]) çeviri platformunda bulundurulur.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:checking:intro_levels|Introduction to the Checking Levels]]//
   * //[[:tr:ta:vol1:checking:level1|Checking Level One – Translation Team Check]]//
