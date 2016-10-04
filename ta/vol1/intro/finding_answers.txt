@@ -1,9 +1,10 @@
-===== Finding Answers =====
+===== Cevap Bulma =====
 
-This module answers the question: //Where can I find answers to my questions?//
+Bu modul su soruyu cevaplar: //Sorularıma nereden cevap bulabilirim?​//
 
-Before you start this module have you learned about:
-  * //[[tr:ta:vol1:intro:ta_intro|Introduction to translationAcademy]]//
+Bu module baslamadan once su konuda bilgi edindiniz mi:
+
+  * //[[:tr:ta:vol1:intro:ta_intro|Introduction to translationAcademy]]//
 
 ==== How to Get Answers ====
 
