@@ -1,8 +1,8 @@
 ===== Bilinmesi Gereken Terimler =====
 
-This module answers the question: //Hangi terimleri bilmem gerekir?​//
+Bu modül şu soruyu cevaplar: //Hangi terimleri bilmem gerekir?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]//
 
