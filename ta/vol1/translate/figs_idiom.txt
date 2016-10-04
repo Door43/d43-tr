@@ -48,7 +48,7 @@ anlamı: «Doğaçlama çalalım» ya da «Ne olacağına bakalım ve buna göre
 
 anlamı: «O endişeliydi.»
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:figs_metaphor|Metaphor]]//
   * //[[:tr:ta:vol1:translate:figs_simile|Simile]]//
