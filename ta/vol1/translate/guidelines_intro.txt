@@ -48,7 +48,7 @@ Açık, doğal ve doğru olduğu hâlde kilisece onaylanmayan ya da kabul edilme
   * [[:tr:ta:vol2:translate:guidelines_collaborative|Müşterek]]
   * [[:tr:ta:vol2:translate:guidelines_ongoing|Devamlı]]
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:guidelines_clear|Create Clear Translations]]//
   * //[[:tr:ta:vol1:translate:guidelines_natural|Create Natural Translations]]//
