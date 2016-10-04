@@ -1,8 +1,8 @@
 ===== Diğer Yöntemler =====
 
-This module answers the question: //Çeviriyi yoklayabileceğim hangi diğer yöntemler vardır?​//
+Bu modül şu soruyu cevaplar: //Çeviriyi yoklayabileceğim hangi diğer yöntemler vardır?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:checking:language_community_check|Language Community Check]]//
 
