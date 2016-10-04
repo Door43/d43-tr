@@ -101,6 +101,6 @@ Bazen bir ifadeye dair notlar olduğu gibi aynı ifadenin kısımlarına dair ay
   * **diyorsunuz ki, ‘Şu obur adama bakın!’**  - Bu dolaylı alıntı olarak da çevrilebilir: «O’nun obur adam olduğunu diyorsunuz» ya da «O’nu obur adam olmakla suçluyorsunuz.»
   * ​**Şu adam oburdur**  - «Şu adam çok yemek yiyendir» veya «Şu adam her zaman haddinden fazla yemek yer.»
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
 //[[:tr:ta:vol1:translate:resources_links|Links in the Notes]]//
