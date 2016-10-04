@@ -1,8 +1,8 @@
 ===== Kilise Lideri Tarafından Yoklanma =====
 
-This module answers the question: //Kilise liderleri çeviriyi geliştirmeye nasıl yardım edebilirler?​//
+Bu modül şu soruyu cevaplar: //Kilise liderleri çeviriyi geliştirmeye nasıl yardım edebilirler?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:checking:level2|Checking Level Two – External Check]]//
 
