@@ -1,8 +1,8 @@
 ===== Metaphor =====
 
-This module answers the question: //Metafor nedir?​//
+Bu modül şu soruyu cevaplar: //Metafor nedir?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:translate:figs_intro|Figures of Speech]]//
 
