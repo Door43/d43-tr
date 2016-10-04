@@ -13,6 +13,6 @@ Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
   * Door43’ün translationWords kısmındaki veya translationStudio’daki sözcük ve tanım listesinin yardımıyla bu sözlerin listesini oluşturun ve ne anlama geldiklerini anlayın.
   * Kaynak metinde önemli terim kullanıldığı her kez çeviri için seçtiğiniz sözün bu bağlamda gereken anlamı ilettiğinden emin olun. Aksi hâlde çeviri takımının başka üyeleriyle sorunu tartışın ve birlikte bir çözüm bulmaya çalışın. Başka bir terim kullanmanız, bağlama göre birkaç ayrı terim veya bu önemli terimi iletmek için daha uzun ifade kullanmanız gerekli olabilir.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:checking:accuracy_check|Accuracy Check]]//
