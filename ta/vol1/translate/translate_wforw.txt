@@ -1,8 +1,8 @@
 ===== Harfi Harfine Çeviri =====
 
-This module answers the question: //Neden harfi harfine çevirmemem gerekir?​//
+Bu modül şu soruyu cevaplar: //Neden harfi harfine çevirmemem gerekir?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:translate:translate_literal|Literal Translations]]//
   * //[[:tr:ta:vol1:translate:translate_fandm|Form and Meaning]]//
