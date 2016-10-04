@@ -12,7 +12,7 @@ Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 Aşağıda bir dizi düzenli adımlar sunulmaktadır. Bu adımların amacı çevirmenin doğal, anlaşılabilir ve doğru bir çeviri yapmasına yardım etmektir. Çevirmenlerin yaptıkları en yaygın hatalardan biri, hedef dilde tutarlı metin yaratmak için doğal biçimlerini kullanmamalarıdır. Bu adımları izlemekle çevirmen daha doğal ve anlaşılır çeviri yaratabilir.
 
   - Seçilen pasajın tamamını kaynak dilde okuyun. Pasaj bir kısım olacak (Kutsal Kitap’ta bir başlıktan bir sonraki başlığa kadar.)
-  - Kaynak dilde metne bakmadan  onu hedef dilde sözlü olarak anlatın. Bazı kısımlarını unutursanız bile, hatırladığınızı sona kadar anlatın.
+  - Kaynak dilde metne bakmadan onu hedef dilde sözlü olarak anlatın. Bazı kısımlarını unutursanız bile, hatırladığınızı sona kadar anlatın.
   - Yine kaynak metne bakın. Sonra her şeyi tekrar hedef dilde anlatın.
   - Yine kaynak metne bakın ve sadece unutmuş olduğunuz kısımlarda odaklanın, sonra her şeyi hatırladığınız gibi hedef dilde anlatın.
   - Bütün pasajı hatırladıktan sonra onu tam anlattığınız gibi yazın.
@@ -23,7 +23,7 @@ Aşağıda bir dizi düzenli adımlar sunulmaktadır. Bu adımların amacı çev
 
 //Credits: Used by permission, © 2013, SIL International, Sharing Our Native Culture, p. 59.//
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:translate_fandm|Form and Meaning]]//
   * //[[:tr:ta:vol1:translate:translate_terms|Terms to Know]]//
