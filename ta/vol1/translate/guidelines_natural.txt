@@ -32,7 +32,7 @@ Ayrıca kendinize şu soruları sorun:
 
 Bunlar, çevirinin doğal olması için önemli olan noktalardır.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:guidelines_clear|Create Clear Translations]]//
   * //[[:tr:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]//
