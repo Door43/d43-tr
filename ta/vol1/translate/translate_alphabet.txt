@@ -1,8 +1,8 @@
 ===== Alfabe/Ortografi =====
 
-This module answers the question: //Dilim için alfabeyi nasıl yaratabilirim?​//
+Bu modül şu soruyu cevaplar: //Dilim için alfabeyi nasıl yaratabilirim?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:translate:choose_team|Choosing a Translation Team]]//
   * //[[:tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
