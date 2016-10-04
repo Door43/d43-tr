@@ -1,8 +1,8 @@
 ===== Olayların Sırası =====
 
-This module answers the question: //Olayların sırasını doğru yazmak önemli midir?//
+Bu modül şu soruyu cevaplar: //Olayların sırasını doğru yazmak önemli midir?//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:translate:figs_intro|Figures of Speech]]//
 
