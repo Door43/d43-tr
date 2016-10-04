@@ -1,8 +1,8 @@
 ===== Telif, Lisans ve Kaynak Metinler =====
 
-This module answers the question: //Kaynak metin seçerken telif ve lisans ile ilgili nelere dikkat etmeniz gerekir?​//
+Bu modül şu soruyu cevaplar: //Kaynak metin seçerken telif ve lisans ile ilgili nelere dikkat etmeniz gerekir?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
   * //[[:tr:ta:vol1:intro:open_license|Open License]]//
