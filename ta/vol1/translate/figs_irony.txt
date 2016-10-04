@@ -39,7 +39,7 @@ Bu örnekte konuşan kişi satın aldığı arabanın satıcının dediğinden t
 
 Bu, konuşan kişi için kapıyı açık tutmayan birine söylenen kinayeli sözdür. Karşı tarafın kapıyı açık tutacak kadar nezaket göstermesi gerektiğini ve konuşan kişinin bunun yapılmadığına kızdığını ifade eden bu kinayede her iki kişi yapılmadığı bilinen bir iş için söylenen teşekkürlerin aslında azarlama anlamına geldiğini anlarlar.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:figs_metaphor|Metaphor]]//
   * //[[:tr:ta:vol1:translate:figs_simile|Simile]]//
