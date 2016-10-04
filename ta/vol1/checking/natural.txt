@@ -1,8 +1,8 @@
 ===== Doğal Çeviri =====
 
-This module answers the question: //Çeviri doğal mı?​//
+Bu modül şu soruyu cevaplar: //Çeviri doğal mı?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:checking:level2|Checking Level Two – External Check]]//
   * //[[:tr:ta:vol1:checking:clear|Clear Translation]]//
