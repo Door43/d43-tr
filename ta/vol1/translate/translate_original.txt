@@ -25,7 +25,7 @@ Eğer siz Kutsal Kitap’ı geniş iletişim dilinden çeviriyorsanız, hedef di
 
 Çevirinin olabildiğince doğru olduğundan emin olmanın tek yolu yeni yapılan çevirinin orijinal dillerle karşılaştırılmasıdır. Bu mümkün değilse, kaynak metinler olarak ULB ve UDB versiyonlarını ve Kutsal Kitap’ın orijinal dillerden yapılmış olan diğer çevrilerini kullanın.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:translate_manuscripts|Original Manuscripts]]//
   * //[[:tr:ta:vol1:translate:translate_terms|Terms to Know]]//
