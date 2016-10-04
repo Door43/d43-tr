@@ -67,7 +67,7 @@ Bu dillerden başka dillere çevirirken, söz sırasını hedef dilde tercih edi
 
 Ayrıca şu videoları izleyebilirsiniz: [[http://youtu.be/PzMpNyCNlLQ|bilgisayarda]] ([[http://youtu.be/PzMpNyCNlLQ|http://youtu.be/PzMpNyCNlLQ]]) ve [[http://youtu.be/jxeGp2-TuZg|taşınabilir cihazda]] ([[http://youtu.be/jxeGp2-TuZg|http://youtu.be/jxeGp2-TuZg]]).
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:figs_you|Forms of You]]//
   * //[[:tr:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]//
