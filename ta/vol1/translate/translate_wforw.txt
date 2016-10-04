@@ -34,7 +34,7 @@ Bu çeviri açık ve kolay anlaşılandır. Ama çevirmenler bu ayeti harfi harf
 
 Aşağıda orijinal Yunanca metindeki kelimelerin tek tek Türkçe karşılıkları sunuluyor:
 
->//yanıtladı diye hepsine bu Yahya ben gerçekten suyla vaftiz ediyorum sizi gelecek ama o güçlü benden o ki değilim layık bağlayayım bağını çarığının onun kendisi sizi vaftiz edecek Kutsal Ruh’la ve ateşle​//// //
+>//yanıtladı diye hepsine bu Yahya ben gerçekten suyla vaftiz ediyorum sizi gelecek ama o güçlü benden o ki değilim layık bağlayayım bağını çarığının onun kendisi sizi vaftiz edecek Kutsal Ruh’la ve ateşle​//
 
 Bu çeviri Türkçe zor anlaşılıyor. Bu, dilinizde nasıl seslenir?
 
@@ -62,7 +62,7 @@ Sonuç itibarile, harfi harfine çeviri mecazın anlamını iletmez.
 
 Mecazların anlamları, oluştukları ayrı sözcüklerin anlamlarından farklı olur. Onlar harfi harfine çevrildiğinde anlamları açık değil. Hatta hedef dilin doğal söz sırasına uygun olarak çevrildiğinde bile anlamları açık olmayabilir. Mecazları düzgün çevirmek konusunda daha çok öğrenmek için Mecazlar modülüne gidin.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:translate_problem|Problems with Literal Translations]]//
   * //[[:tr:ta:vol1:translate:figs_intro|Figures of Speech]]//
