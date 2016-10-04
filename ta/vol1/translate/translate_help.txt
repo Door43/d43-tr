@@ -1,8 +1,8 @@
 ===== Çeviri için Yardım =====
 
-This module answers the question: //Çeviri için yardımı nerede bulabilirim?​//
+Bu modül şu soruyu cevaplar: //Çeviri için yardımı nerede bulabilirim?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:translate:translate_what|What to Start Translating]]//
   * //[[:tr:ta:vol1:translate:first_draft|Make a First Draft]]//
