@@ -1,8 +1,8 @@
 ===== 3. Seviyede Yoklama İçin Sorular =====
 
-This module answers the question: //3. seviye yoklamasında ne aramalıyım?//
+Bu modül şu soruyu cevaplar: //3. seviye yoklamasında ne aramalıyım?//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:checking:level3|Checking Level Three - Authenticated Check]]//
 
