@@ -36,7 +36,7 @@ Biz, dil toplumumuzdaki kilise liderleri olarak, aşağıdakileri doğruluyoruz:
 
 Bu formu doldurduktan sonra, çevirinizin yoklamanın 2. seviyesinde yayınlanabilmesi için yayınlama talebinde bulunmanız gerekir.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:checking:self_assessment|Self-Assessment Rubric]]//
   * //[[:tr:ta:vol1:checking:level3|Checking Level Three - Authenticated Check]]//
