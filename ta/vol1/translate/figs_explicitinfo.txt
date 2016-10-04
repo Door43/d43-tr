@@ -51,7 +51,7 @@ Hanok’un İrat adındaki çocuğu ve İrat’ın Mehuyael adındaki çocuğu o
   * Davut Semra’ya sorar: «Cemal nerede?» Davut’un sorusu açıktır ve Semra tarafından anlaşılır.
   * Semra cevap verir: «İşte.» Şemra’nın cevabında bahsedilen kişi belirtilmedi, bu bilgi örtülüdür. Ama Davut bu bilgiye sahiptir ve Semra’nın «İşte Cemal» kastettiğini anlar.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:figs_explicit|Explicit and Implicit]]//
   * //[[:tr:ta:vol1:translate:figs_metaphor|Metaphor]]//
