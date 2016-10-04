@@ -22,7 +22,7 @@ Bu seviyede amaç, dilin taşıyıcısı olan kilise liderlerinin revizyonu ve o
 
 [[:tr:ta:vol1:checking:level3_questions|3. Seviye yoklama sorularına gidin]].
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:checking:level3_questions|Questions for Checking on Level Three]]//
   * //[[:tr:ta:vol1:checking:self_assessment|Self-Assessment Rubric]]//
