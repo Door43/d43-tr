@@ -1,8 +1,8 @@
 ===== Birebir Çevirilerdeki Sorunlar =====
 
-This module answers the question: //Oldukça birebir yapılan çevirilerde hangi sorunlar vardır?​//
+Bu modül şu soruyu cevaplar: //Oldukça birebir yapılan çevirilerde hangi sorunlar vardır?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:translate:translate_literal|Literal Translations]]//
   * //[[:tr:ta:vol1:translate:translate_wforw|Word for Word Substitution]]//
