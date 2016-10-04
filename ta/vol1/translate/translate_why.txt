@@ -16,7 +16,7 @@ Kutsal Kitap, tarihin en etkili kitabıdır. Tanrı’nın insanlığa mesajıd�
 
 Orijinal Kutsal Kitap eski İbranice, Aramice ve Yunanca yazılmıştır. Bugün o dilleri anlayanlar azdır. Bu nedenle, insanlar tarafından okunup anlaşılması için Kutsal Kitap’ın çevrilmesi gerekiyor. İnsanlar Kutsal Kitap’ı her etnik grubun diline çevirmeye devam ediyorlar ki, Tanrı’nın mesajı hayatları değiştirsin.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]//
   * //[[:tr:ta:vol1:translate:translate_process|The Translation Process]]//
