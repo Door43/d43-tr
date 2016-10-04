@@ -1,8 +1,8 @@
 ===== Cevap Bulma =====
 
-Bu modul su soruyu cevaplar: //Sorularıma nereden cevap bulabilirim?​//
+Bu modül şu soruyu cevaplar: //Sorularıma nereden cevap bulabilirim?​//
 
-Bu module baslamadan once su konuda bilgi edindiniz mi:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:intro:ta_intro|Introduction to translationAcademy]]//
 
