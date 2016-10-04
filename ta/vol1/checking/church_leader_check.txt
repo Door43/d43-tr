@@ -21,7 +21,7 @@ Bu revize yapan kişilerin şu adımları izlemeleri gerekir:
   - Çeviri takımının sorunları çözmüş olduğunu tasdik etmek için çeviri takımı ile tekrar görüşün.
   - Çevirinin iyi olduğunu doğrulayın. Bunu 2. Seviye Doğrulama sayfasında yapmak için [[:tr:ta:vol1:checking:good|burayı tıklayın]]
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:checking:accuracy_check|Accuracy Check]]//
   * //[[:tr:ta:vol1:checking:accurate|Accurate Translation]]//
