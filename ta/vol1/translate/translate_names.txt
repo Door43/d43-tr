@@ -1,8 +1,8 @@
 ===== Adları Çevirmek =====
 
-This module answers the question: //Adları nasıl çevirmeliyiz?​//
+Bu modül şu soruyu cevaplar: //Adları nasıl çevirmeliyiz?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:translate:translate_unknown|Translate Unknowns]]//
 
