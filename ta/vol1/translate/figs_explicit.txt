@@ -17,7 +17,7 @@ Yazar bir metin yazarken, yazdığını okuyacak belirli okuyucu kitlesini aklı
 
 Biz Kutsal Kitap’ı çevirdiğimiz zaman onu yeni okuyucu kitlesine sunmayı amaçlarız. Bu yeni okuyucu kitlesi Kutsal Kitap’ta olan bazı şeyler hakkında belirli bilgiye sahip olacak, ama çoğu zaman orijinal yazarın orijinal okuyucu kitlesinin zaten bildikleri için dahil etmediği bazı örtülü bilgilere sahip olmayacak. Dolayısıyla yeni hedef okuyucu kitlesinin metnin bazı kısımlarını anlamak için o örtülü bilgilerin bazısını bilmesi gerekecek. Bu nedenle, Kutsal Kitap’ın anlamını başarılı bir şekilde aktarmak için çevirmenin, orijinal okuyucu kitlesinin zaten bildiği örtülü bilgilerin bazısını dahil etmesi gerekecek. Bu bilgi birkaç kelimeyle iletilebilirse çevirmen onu çeviri metnine dahil olmaya karar verebilir. Fakat birkaç kelimeden uzun bir açıklama zorunlu olursa, böyle bilgiyi dipnotta sunmak iyi olur. Çevirmenin hedef okuyucu kitlesi hakkında düşünerek bu örtülü bilgilerden bazısını ne zaman dahil edeceğini düşünmesi gerekecek. Çevirinin topluluk tarafından yoklanması, çevirmenin çeviri metnini anlamaları için bazı örtülü bilgileri dahil edeceği yerleri bulması için iyi bir yoldur.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:figs_explicitinfo|Making Implicit Information Explicit]]//
   * //[[:tr:ta:vol1:translate:figs_metaphor|Metaphor]]//
