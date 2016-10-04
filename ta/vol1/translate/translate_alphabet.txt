@@ -21,6 +21,6 @@ Ses listenizi dilinizin taşıyıcılarından devlet dilinde okuyabilen birkaç�
 
 Dilinizin taşıyıcılarından devlet dilinde iyi okuyabilen öbür kişilerle birlikte bu işi sürdürmeniz iyi olur. Çeşitli sesleri tartışarak onların işaretlenmesi için en iyi yolları hakkında birlikte karar verebilirsiniz.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:writing_decisions|Decisions for Writing Your Language]]//
