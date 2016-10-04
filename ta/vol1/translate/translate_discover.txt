@@ -17,7 +17,7 @@ Metnin anlamını keşfetmemize yardım edebilecek, yani metinde ne söylenmeye 
   - Bilmediğiniz terimleri öğrenmek için Önemli Terimler kaynaklarını kullanın. Bazen sözcüklerin birden fazla anlamları olur. Pasajdaki sözcüğün doğru anlamını anlamış olduğunuzdan emin olun.
   - Ayrıca ULB versiyonuna ait olan translationNotes’u kullanın. Bunlar translationStudio programında ve Door43 sitesinde bulunmaktadır. Mümkünse, başka referans kitaplarını, örneğin, Kutsal Kitap’ın başka versiyonları, Kutsal Kitap sözlüğünü veya Kutsal Kitap yorum kitaplarını da kullanın.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:translate_terms|Terms to Know]]//
   * //[[:tr:ta:vol1:translate:translate_retell|Re-telling the Meaning]]//
