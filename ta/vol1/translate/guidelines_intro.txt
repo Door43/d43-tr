@@ -1,8 +1,8 @@
 ===== İyi Çevirinin Nitelikleri =====
 
-This module answers the question: //İyi çevirinin nitelikleri nelerdir?​//
+Bu modül şu soruyu cevaplar: //İyi çevirinin nitelikleri nelerdir?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]]//
   * //[[:tr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]//
