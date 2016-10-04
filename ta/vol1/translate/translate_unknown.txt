@@ -57,6 +57,6 @@ Dilinizde bilinmeyen bir terimi çevirirken aklınızda tutacağınız öneriler
   * Anlamca daha genel olan bir terim kullanın. Örneğin, «eşek» sözcüğünden daha genel olan «hizmet hayvanı» kullanılabilir. Eşek bir hizmet hayvanı olduğu için bunu yapabilirsiniz.
   * Anlamca daha özel olan bir ifade kullanın. Bazen hedef dilde terimi tanımlayabilecek genel bir terim bulunmuyor, dolayısıyla söz konusu terime ait olan özel örnekleri kullanabilirsiniz. Örneğin, gök cisimlerine ait genel «ışıklar» terimi bulunmuyorsa, muhtemelen «güneş, ay ve yıldızlar» şeklinde özel sözcükler kullanabilirsiniz.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:translate_names|Translate Names]]//
