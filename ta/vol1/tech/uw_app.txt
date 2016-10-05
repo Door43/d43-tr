@@ -4,11 +4,11 @@ Bu modül şu soruyu cevaplar: //unfoldingWord Mobil Uygulaması nedir?​//
 
 ==== UnfoldingWord uygulaması nedir? ====
 
-unfoldingWord mobil uygulaması Kutsal Kitap öykülerinin yoklanmış çevirilerinin yayınlanması için kullanılmaktadır. Kullanıcılar ayrıca her öyküye dair  bilgileri ve yoklama seviyesini görüntüleyebilirler. Bu uygulama [[https://play.google.com/store/apps/details?id=com.unfoldingword.androidapp&hl=en|Android]] ([[https://play.google.com/store/apps/details?id=com.unfoldingword.androidapp&hl=en|https://play.google.com/store/apps/details?id=com.unfoldingword.androidapp&hl=en]]) veya [[https://itunes.apple.com/us/app/unfoldingword/id925570688?mt=8|iOS]] ([[https://itunes.apple.com/us/app/unfoldingword/id925570688?mt=8|https://itunes.apple.com/us/app/unfoldingword/id925570688?mt=8]]) cihazlarında kullanılabilir.
+unfoldingWord mobil uygulaması Kutsal Kitap öykülerinin yoklanmış çevirilerinin yayınlanması için kullanılmaktadır. Kullanıcılar ayrıca her öyküye dair bilgileri ve yoklama seviyesini görüntüleyebilirler. Bu uygulama [[https://play.google.com/store/apps/details?id=com.unfoldingword.androidapp&hl=en|Android]] ([[https://play.google.com/store/apps/details?id=com.unfoldingword.androidapp&hl=en|https://play.google.com/store/apps/details?id=com.unfoldingword.androidapp&hl=en]]) veya [[https://itunes.apple.com/us/app/unfoldingword/id925570688?mt=8|iOS]] ([[https://itunes.apple.com/us/app/unfoldingword/id925570688?mt=8|https://itunes.apple.com/us/app/unfoldingword/id925570688?mt=8]]) cihazlarında kullanılabilir.
 
 Daha fazla bilgi edinmek için bkz: [[https://unfoldingword.org/app|https://unfoldingword.org/app]] .
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:tech:uw_install|Install unfoldingWord on an Android Device]]//
   * //[[:tr:ta:vol1:tech:uw_first|Use unfoldingWord for the First Time]]//
