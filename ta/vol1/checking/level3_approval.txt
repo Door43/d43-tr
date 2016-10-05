@@ -1,8 +1,8 @@
 ===== 3. Seviyede Onay =====
 
-This module answers the question: //Çevirinin 3. seviyede onaylanmasını nasıl doğrulayabilirim?​//
+Bu modül şu soruyu cevaplar: //Çevirinin 3. seviyede onaylanmasını nasıl doğrulayabilirim?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:checking:level3|Checking Level Three - Authenticated Check]]//
   * //[[:tr:ta:vol1:checking:level3_questions|Questions for Checking on Level Three]]//
