@@ -1,8 +1,8 @@
 ===== Çeviriye Başlamadan Önce Eğitim =====
 
-This module answers the question: //Başlamadan önce çeviri hakkında neleri bilmem gerekiyor?​//
+Bu modül şu soruyu cevaplar: //Başlamadan önce çeviri hakkında neleri bilmem gerekiyor?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:translate:translate_process|The Translation Process]]//
   * //[[:tr:ta:vol1:translate:translate_why|Why We Translate the Bible]]//
