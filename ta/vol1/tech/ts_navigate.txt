@@ -1,8 +1,8 @@
 ===== translationStudio’da Gezinme =====
 
-This module answers the question: //translationStudio’da nasıl gezinirim?​//
+Bu modül şu soruyu cevaplar: //translationStudio’da nasıl gezinirim?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
 
