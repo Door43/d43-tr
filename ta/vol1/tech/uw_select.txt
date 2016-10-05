@@ -1,8 +1,8 @@
 ===== Dili Seçin =====
 
-This module answers the question: //Dili nasıl seçmeliyim?​//
+Bu modül şu soruyu cevaplar: //Dili nasıl seçmeliyim?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:tech:uw_app|unfoldingWord Mobile App]]//
 
