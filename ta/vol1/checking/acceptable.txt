@@ -1,8 +1,8 @@
 ===== Uygun Stil =====
 
-This module answers the question: //Çeviri takımı uygun bir stil kullanmış mıdır?​//
+Bu modül şu soruyu cevaplar: //Çeviri takımı uygun bir stil kullanmış mıdır?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:checking:clear|Clear Translation]]//
   * //[[:tr:ta:vol1:checking:natural|Natural Translation]]//
