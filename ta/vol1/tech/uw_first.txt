@@ -17,9 +17,9 @@ Dil listesinin altında üç seviyeli yoklama sisteminin açıklaması bulunuyor
 
 ==== Dil Hakkında Bilgiler ====
 
-Her dilin yoklama durumunu görüntülemek için dilin sağındaki  simgesine dokunun. Açılan sayfada o dilin çevirmenleri, yoklama seviyesi, versiyon ve yayınlanma tarihi belirtilecektir.
+Her dilin yoklama durumunu görüntülemek için dilin sağındaki simgesine dokunun. Açılan sayfada o dilin çevirmenleri, yoklama seviyesi, versiyon ve yayınlanma tarihi belirtilecektir.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:tech:uw_checking|About Checking Levels]]//
   * //[[:tr:ta:vol1:tech:uw_language|Language Information]]//
