@@ -63,7 +63,7 @@ Onaylanan metin, bütün yoklama seviyeleri tamamlandıktan sonra bile her zaman
 
 Telif hakkı yasaları nedeniyle (hangi ülkede olursanız olun ve insanlar size o ülkedeki yasalar hakkında ne derlerse desinler bu yasalar vardır) Yayınlama Talebi formunda katkıda bulunan **herkesin** ismini belirtmeniz ve **herkesin** resmî imzasını bulundurmanız gerekir. Bazı durumlarda isimlerin açıklanmaması gerektiğini anlıyoruz, ama o kişilerin takma isimleri listede bulunabilir.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:process:publishing_process|How to Publish]]//
   * //[[:tr:ta:vol1:tech:ts_intro|translationStudio]]//
