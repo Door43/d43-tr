@@ -1,8 +1,8 @@
 ===== translationStudio’da Çevirme =====
 
-This module answers the question: //translationStudio’da nasıl çevirmeliyim?​//
+Bu modül şu soruyu cevaplar: //translationStudio’da nasıl çevirmeliyim?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
 
