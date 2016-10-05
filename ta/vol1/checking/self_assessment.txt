@@ -35,8 +35,7 @@ Bu süreç beş kısma bölünmektedir: **özet ** (çevirinin kendisine dair bi
 **hayır** **| ****evet ** Bu çeviri, orijinal metnin anlamını hedef dilde doğal, açık ve doğru bir biçimde iletmeyi amaçlayan anlama dayalı çeviridir.\\
 **hayır ****| ****evet **Çeviriyi yoklayanlar, hedef dilin anadil taşıyıcılarıdırlar.\\
 **hayır ****| ****evet ** Bu bölümün çevirisi İman Beyanı’na uygundur.\\
-**hayır**** | ****evet ** Bu bölümün çevirisi Çeviri Kuralları’na uygun olarak gerçekleştirilmiştir. **2. ****Doğallık**:// «bu **benim ** dilimdir»// Bu bölümün toplum tarafından daha çok yoklanması ile güçlendirilebilir. Bkz [[:tr:ta:vol1:checking:language_community_check|Dil Toplumu Tarafından Yoklanma]]
-**0 1 2** Bu dilde konuşanlardan bu bölümü duyan kişiler bunda kullanılan dil biçiminin düzgün olduğunu doğruluyorlar.\\
+**hayır**** | ****evet ** Bu bölümün çevirisi Çeviri Kuralları’na uygun olarak gerçekleştirilmiştir. **2. ****Doğallık**:// «bu **benim ** dilimdir»// Bu bölümün toplum tarafından daha çok yoklanması ile güçlendirilebilir. Bkz [[:tr:ta:vol1:checking:language_community_check|Dil Toplumu Tarafından Yoklanma]] **0 1 2** Bu dilde konuşanlardan bu bölümü duyan kişiler bunda kullanılan dil biçiminin düzgün olduğunu doğruluyorlar.\\
 **0 1 2** Bu dilde konuşanlar, bu bölümde kullanılan anahtar sözcüklerin bu kültüre uygun ve düzgün olduğunu doğruluyorlar.\\
 **0 1 2** Bu bölümdeki örnekler ya da öyküler bu dilde konuşan insanlar tarafından kolayca anlaşılıyor.\\
 **0 1 2** Bu dilde konuşanlar, bu bölümdeki cümle yapıları ve metnin düzeninin doğal ve akıcı olduğunu doğruluyorlar.\\
@@ -44,8 +43,11 @@ Bu süreç beş kısma bölünmektedir: **özet ** (çevirinin kendisine dair bi
 **0 1 2** Bu bölümün çevirisinin doğallık bakımından yoklanmasına hem imanlı hem de imansız veya metni duymadan önce anlamını tahmin edemeyecek kadar Kutsal Kitap’ı az bilen imanlı kişiler katkıda bulunmuşlardır.\\
 **0 1 2** Bu bölümün çevirisinin doğallık bakımından tekrar gözden geçirilmesine birçok değişik yaş gruplarından olan dilin taşıyıcıları katkıda bulunmuşlardır.\\
 **0 1 2** Bu bölümün çevirisinin doğallık bakımından tekrar gözden geçirilmesine hem erkekler hem kadınlar katkıda bulunmuşlardır.
+**3. ****Açıklık**:// //
+//«anlam açık anlaşılıyor»//
 
-**3. ****Açıklık**:// «anlam açık anlaşılıyor»// Bu bölüm toplum tarafından daha çok yoklanması ile güçlendirilebilir. Bkz [[:tr:ta:vol1:checking:language_community_check|Dil Toplumu Tarafından Yoklanma]]
+Bu bölüm toplum tarafından daha çok yoklanması ile güçlendirilebilir. Bkz [[:tr:ta:vol1:checking:language_community_check|Dil Toplumu Tarafından Yoklanma]]
+
 **0 1 2** Bu bölümün çevirisinde dilin anadil taşıyıcılarının kolayca anlayabilecekleri dil kullanılmıştır.\\
 **0 1 2** Bu dilde konuşanlar, bu bölümdeki adların, yerlerin ve fiil zamanlarının çevirilerinin düzgün olduğunu doğruluyorlar.\\
 **0 1 2** Bu bölümdeki mecazlar bu kültürdeki insanlar tarafından anlaşılıyor.\\
@@ -55,7 +57,11 @@ Bu süreç beş kısma bölünmektedir: **özet ** (çevirinin kendisine dair bi
 **0 1 2** Bu bölümün çevirisinin açıklık bakımından tekrar gözden geçirilmesine birçok değişik yaş gruplarından olan dilin taşıyıcıları katkıda bulunmuşlardır.\\
 **0 1 2** Bu bölümün çevirisinin açıklık bakımından tekrar gözden geçirilmesine hem erkekler hem kadınlar katkıda bulunmuşlardır.
 
-**4. ****Doğruluk**:// «çeviri orijinal kaynak metindeki anlamı iletmektedir»// Bu bölüm, doğruluk bakımından daha çok yoklanması ile güçlendirilebilir. Bkz [[:tr:ta:vol1:checking:accuracy_check|Çevirinin Doğruluğunu Yoklama]]
+**4. ****Doğruluk**:// //
+//«çeviri orijinal kaynak metindeki anlamı iletmektedir»//
+
+Bu bölüm, doğruluk bakımından daha çok yoklanması ile güçlendirilebilir. Bkz [[:tr:ta:vol1:checking:accuracy_check|Çevirinin Doğruluğunu Yoklama]]
+
 **0 1 2** Bu bölümün kaynak metnindeki tüm önemli sözlerin tam listesi, tüm terimlerin çeviride bulunduğundan emin olmak amacıyla kullanılmıştır.\\
 **0 1 2** Bu bölümde tüm önemli sözler düzgün çevrilmiştir.\\
 **0 1 2** Bu bölümde, önemli sözlerin bulunduğu başka bölümlerde olduğu gibi, tüm önemli sözler uyumlu şekilde çevrilmiştir.\\
@@ -67,7 +73,9 @@ Bu süreç beş kısma bölünmektedir: **özet ** (çevirinin kendisine dair bi
 **0 1 2** Bu bölümdeki herhangi anlamlar hakkındaki bütün sorular veya görüş ayrılıkları çözülmüştür.\\
 **0 1 2** Bu bölümün çevirisi orijinal (İbranice, Yunanca, Aramice) metinlerle karşılaştırılmış ve böylece orijinal metinlerin düzgün leksik tanımları ve anlamları yoklanmıştır.
 
-**5. ****Kilise onayı**: «çevirinin doğallığı, açıklığı ve doğruluğu o dilde konuşan kilise tarafından onaylanmaktadır»// //
+**5. ****Kilise onayı**:
+«çevirinin doğallığı, açıklığı ve doğruluğu o dilde konuşan kilise tarafından onaylanmaktadır»
+
 **hayır** **| ****evet ** Bu çeviriyi yoklamış olan kilise liderleri hedef dilin anadil taşıyıcılarıdır ve onların arasında kaynak metin çevirilerinin dillerinden birini çok iyi anlayan kişi vardır.\\
 **hayır** **| ****evet ** Dil toplumundaki insanlar, yaşlı ve genç olan erkekler ve kadınlar bu bölümün çevirisini kontrol ettiler ve onun doğal ve açık olduğunu doğruluyorlar. //(Not: bu, 2. Seviyede toplum tarafından yoklamanın birinci kısmına aittir.)​// \\
 **hayır** **| ****evet ** En az iki ayrı kilise birliğini temsil eden kilise liderleri bu bölümün çevirisini kontrol etmişlerdir ve onun doğru olduğunu doğruluyorlar. //(Bu, 2. Seviyenin son yönü olan Kilise tarafından yoklanmaya aittir.)​// \\
