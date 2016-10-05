@@ -21,7 +21,7 @@ translationStudio projelerini güncelleştirmek için:
   - Dile dokunun. Başka bir pencere açılacak - indirmeyi seçmek yahut seçmemek.
   - Bütün istenen diller indirildikten sonra pencerenin sol üst köşesindeki siyah oka dokunup **Çeviri Projeleri**  bölümüne dönün.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:tech:ts_intro|translationStudio]]//
   * //[[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
