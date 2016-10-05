@@ -16,15 +16,15 @@ ya da aşağıdaki talimatlara uyun:
 
    * **Google Play Store**  mağazasının açılması için Android cihazında Google Play Store simgesine dokunun.
   * Google Play Store’da pencerenin üst sağ köşesindeki büyütece tıklayın.
-  * **Search Google Play’e ** dokunun ve translationKeyboard girin (boşluksuz).
+  * **Search Google Play’e **  dokunun ve translationKeyboard girin (boşluksuz).
   * Büyütece dokunun veya klavyeyi kapatın.
-  * Play Store programı bulduktan sonra **tK ** simgesine dokunun.
-  * Bir sonraki ekranda **Install’a ** dokunun.
-  * Programın varsayılan ayarlarını kabul etmek için **Accept’e ** dokunun.
+  * Play Store programı bulduktan sonra **tK **  simgesine dokunun.
+  * Bir sonraki ekranda **Install’a **  dokunun.
+  * Programın varsayılan ayarlarını kabul etmek için **Accept’e **  dokunun.
   * Program cihaza indirilip kurulacaktır.
-  * Programın kurulumu bitince **Open’e ** dokunun veya Google Play Store’u kapatmak için Android geri düğmesini kullanın. Android ekranına tK simgesi çıkacaktır.
+  * Programın kurulumu bitince **Open’e **  dokunun veya Google Play Store’u kapatmak için Android geri düğmesini kullanın. Android ekranına tK simgesi çıkacaktır.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:tech:tk_start|Setting Up the translationKeyboard APP on an Android device]]//
   * //[[:tr:ta:vol1:tech:tk_use|How to Use the translationKeyboard in translationStudio]]//
