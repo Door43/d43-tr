@@ -10,6 +10,6 @@ Door43’te çalışmaya başlamak için lütfen aşağıdaki adımları izleyin
 
 {{page>en:get-started}}
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:process:door43_translation|Translating in Door43]]//
