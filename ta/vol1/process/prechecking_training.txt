@@ -12,7 +12,7 @@ Bu içeriği yoklarken [[:tr:ta:vol1:checking:toc_checkvol1_2|Yoklama Kılavuzu�
 
 Not: İçerik, en az 1. seviyede yoklanması yapılıncaya kadar unfoldingWord sitesine ya da mobil uygulamasına yayınlanmayacaktır.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:checking:intro_check|Introduction to the Checking Manual]]//
   * //[[:tr:ta:vol1:checking:goal_checking|The Goal of Checking]]//
