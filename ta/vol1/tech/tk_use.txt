@@ -1,8 +1,8 @@
 ===== translationStudio’da translationKeyboard Nasıl Kullanılır =====
 
-This module answers the question: //translationKeyboard’u Nasıl Kullanmalıyım?​//
+Bu modül şu soruyu cevaplar: //translationKeyboard’u Nasıl Kullanmalıyım?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]//
 
