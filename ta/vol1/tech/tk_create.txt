@@ -60,7 +60,7 @@ Bu kutular, seçilen karakter, UTF veya Unicode seçeneği ile dolduruluncaya ka
   * **“Save Changes” (Değişiklikleri Kaydet) basın**
   * Not: Unicode U+00xx genelde UTF-8 “xx”e çevrilir. Örneğin: Unicode “U+0d38” eşittir UTF-8 “d38”. EK: Söz konusu dil için düzgün unicode çizgesini ya da simge takımını bulursanız, Word dosyası, Excel çizelgesi ya da Adobe PDF dosyasından simgeleri ya da kodları kopyalayıp klavye tuşlarına \"Edit\" (Düzenleme) modunda yapıştırabilirsiniz.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]//
   * //[[:tr:ta:vol1:tech:tk_start|Setting Up the translationKeyboard APP on an Android device]]//
