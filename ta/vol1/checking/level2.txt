@@ -17,7 +17,7 @@ Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
   - **Kilise Lideri Tarafından Yoklanma**. Çevirinin doğru olduğundan emin olmak amacıyla çeviri, dil toplumuna mensup olan kilise liderleri tarafından yoklanacaktır. Kilise Lideri Tarafından Yoklanmayı yapmak için atılacak adımlar için [[:tr:ta:vol1:checking:church_leader_check|buraya tıklayın]].
 Bu yapıldıktan sonra işin [[:tr:ta:vol1:checking:good|doğrulanması]] gerekir.
 
-Next we recommend you learn about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:checking:language_community_check|Language Community Check]]//
   * //[[:tr:ta:vol1:checking:church_leader_check|Church Leader Check]]//
