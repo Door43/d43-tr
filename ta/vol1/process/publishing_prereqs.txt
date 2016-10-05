@@ -1,8 +1,8 @@
 ===== Yayınlama Önkoşulları =====
 
-This module answers the question: //Yayınlamadan önce ne yapılmalıdır?​//
+Bu modül şu soruyu cevaplar: //Yayınlamadan önce ne yapılmalıdır?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:process:intro_publishing|Introduction to Publishing]]//
 
