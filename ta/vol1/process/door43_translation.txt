@@ -37,7 +37,7 @@ Door43’te işinizi kolayca paylaşabilirsiniz.
 
   * Çeviriniz tamamlandıktan sonra redaksiyona geçebilirsiniz.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:process:prechecking_training|Training Before Checking Begins]]//
   * //[[:tr:ta:vol1:process:required_checking|How to Check]]//
