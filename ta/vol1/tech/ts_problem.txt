@@ -1,8 +1,8 @@
 ===== Sorun Raporu =====
 
-This module answers the question: //Sorunu nasıl rapor edebilirim?​//
+Bu modül şu soruyu cevaplar: //Sorunu nasıl rapor edebilirim?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:tech:ts_intro|translationStudio]]//
 
