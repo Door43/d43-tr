@@ -1,8 +1,8 @@
 ===== translationKeyboard’un Android Cihazına Kurulumu =====
 
-This module answers the question:// translationKeyboard’un Android cihazına kurulumu nasıl yapılır?​//
+Bu modül şu soruyu cevaplar:// translationKeyboard’un Android cihazına kurulumu nasıl yapılır?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:tech:tk_intro|translationKeyboard]]//
 
