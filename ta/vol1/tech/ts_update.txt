@@ -1,8 +1,8 @@
 ===== translationStudio Projelerinin Güncelleştirilmesi =====
 
-This module answers the question: //translationStudio projelerini nasıl güncelleştirebilirim?​//
+Bu modül şu soruyu cevaplar: //translationStudio projelerini nasıl güncelleştirebilirim?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
 
