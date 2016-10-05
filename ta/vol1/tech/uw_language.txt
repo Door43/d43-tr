@@ -6,7 +6,7 @@ Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:tech:uw_app|unfoldingWord Mobile App]]//
 
-==== = Dilimi Bulmak ====
+==== Dilimi Bulmak ====
 
 Her kaynak için üst sağ köşede açılan menü bulunmaktadır.
 
