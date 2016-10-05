@@ -19,6 +19,6 @@ Yeni çeviriyi okurken aşağıdaki soruları kendinize sorun. Bunlar, çevirini
 
 Çevirinin dilinin yanlış bir stilde kullanıldığı bir yer bulunursa onu çeviri takımı ile tartışmak için not edin.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:checking:complete|Complete Translation]]//
