@@ -1,8 +1,8 @@
 ===== Nasıl Yoklamak =====
 
-This module answers the question: //Çeviriyi nasıl yoklamalıyım?//
+Bu modül şu soruyu cevaplar: //Çeviriyi nasıl yoklamalıyım?//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:process:prechecking_training|Training Before Checking Begins]]//
 
