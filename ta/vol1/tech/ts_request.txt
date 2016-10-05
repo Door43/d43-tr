@@ -15,13 +15,13 @@ Yeni dilin talep edilmesinin ardından translationStudio’ya eklenmeden önce b
 Yeni dili talep etmek için üç noktalı menüdeki **geribildirimi ** kullanın:
 
    - Çeviri projesi redaksiyonu penceresinin solundaki üç noktaya dokunun.
-  - Seçenekler listesinde **Feedback ** (**Geribildirim**)’e dokunun.
-  - **Geribildirim ** ekranı açılacak. translationStudio’ya eklemek istediğiniz dilin adını girin.
-  - Talebinizi göndermek için **Confirm ** (**Doğrula**)’a dokunun.
+  - Seçenekler listesinde **Feedback **  (**Geribildirim**)’e dokunun.
+  - **Geribildirim **  ekranı açılacak. translationStudio’ya eklemek istediğiniz dilin adını girin.
+  - Talebinizi göndermek için **Confirm **  (**Doğrula**)’a dokunun.
 
-[[:tr:ta:vol1:tech:ts_intro|translationStudio ]]sayfasına dönün.// //
+[[:tr:ta:vol1:tech:ts_intro|translationStudio ]]sayfasına dönün.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:tech:ts_intro|translationStudio]]//
   * //[[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
