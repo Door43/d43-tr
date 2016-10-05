@@ -1,8 +1,8 @@
 ===== Giriş Yönteminin Seçilmesi =====
 
-This module answers the question: //Giriş yöntemini nasıl seçmeliyim?​//
+Bu modül şu soruyu cevaplar: //Giriş yöntemini nasıl seçmeliyim?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]//
 
