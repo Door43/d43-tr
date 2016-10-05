@@ -20,7 +20,7 @@ translationStudio’yu ilk kez kullanmak için şu adımları tamamlayın:
 
 translationStudio uygulaması açılmadan önce otomatik güncelleşme yapılabilir.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:tech:ts_intro|translationStudio]]//
   * //[[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
