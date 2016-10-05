@@ -1,8 +1,8 @@
 ===== translationStudio’da Kaynakları Bulmak =====
 
-This module answers the question: //translationStudio’da Kaynakları nasıl bulabilirim?//
+Bu modül şu soruyu cevaplar: //translationStudio’da Kaynakları nasıl bulabilirim?//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:tech:ts_create|Create and Edit Text]]//
   * //[[:tr:ta:vol1:translate:resources_intro|Introduction to Resources]]//
