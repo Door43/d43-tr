@@ -1,8 +1,8 @@
 ===== translationStudio’daki Kaynaklar Nasıl Kullanılır =====
 
-This module answers the question: //translationStudio’daki Kaynakları nasıl kullanmalıyım?//
+Bu modül şu soruyu cevaplar: //translationStudio’daki Kaynakları nasıl kullanmalıyım?//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:tech:ts_create|Create and Edit Text]]//
   * //[[:tr:ta:vol1:translate:resources_intro|Introduction to Resources]]//
