@@ -19,7 +19,7 @@ Teknoloji Kılavuzu’nun 1. Cildi şu bölümleri içermektedir:
 
 Bu bölümlerde bu mobil uygulamaları kurmak, kullanmak ve paylaşmak için pratik yardımcı bilgiler bulacaksınız.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:tech:ts_intro|translationStudio]]//
   * //[[:tr:ta:vol1:tech:tk_intro|translationKeyboard]]//
