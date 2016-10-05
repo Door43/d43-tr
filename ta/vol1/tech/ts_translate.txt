@@ -46,7 +46,7 @@ Bütün Çeviri Notları, Önemli Terimler ve Çeviri Soruları translationStudi
 
 Kaynaklarla işiniz bitince o pencerenin kapatılması için parmağınızla soldan sağa çekin.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:tech:ts_intro|translationStudio]]//
   * //[[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
