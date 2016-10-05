@@ -1,8 +1,8 @@
 ===== Platformun Seçilmesi =====
 
-This module answers the question: //Çeviri platformunu nasıl seçerim?//
+Bu modül şu soruyu cevaplar: //Çeviri platformunu nasıl seçerim?//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:process:getting_started|Getting Started]]//
 
