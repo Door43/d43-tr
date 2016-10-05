@@ -1,8 +1,8 @@
 ===== tK’de Klavyenin Yaratılması =====
 
-This module answers the question: //tK’de klavye nasıl yaratılır?​//
+Bu modül şu soruyu cevaplar: //tK’de klavye nasıl yaratılır?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:tech:tk_intro|translationKeyboard]]//
 
