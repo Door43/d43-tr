@@ -14,7 +14,7 @@ Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
   * Mobil cihazda çevrim dışı - Android tableti veya mobil cihazı sahipleri, translationStudio adındaki çeviri uygulamamızda çevrim dışı çalışabilirler. translationStudio’yu ayarlamak için [[:tr:ta:vol1:process:setup_tsandroid|buraya]] tıklayın.
   * Word işlemcisinde çevrim dışı olarak - Word işlemcisinde çalışmak isteyenler bunu yapmak için gerekli olan dosyaları indirebilirler. Word işlemcisini ayarlamak için [[:tr:ta:vol1:process:setup_word|buraya]] tıklayın.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:process:setup_door43|Setting up Door43]]//
   * //[[:tr:ta:vol1:process:setup_tsandroid|Setting Up translationStudio]]//
