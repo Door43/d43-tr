@@ -24,7 +24,7 @@ translationStudio ile yüklenen içeriği yerleştirmek için:
   - \"Edit\" (Düzelt) kurşunkalem simgesinin üst sağ yanında \"Apply Updates\" (Güncelleştirmeyi Uygula) etiketli olan, bir ok şeklinde birleşen iki hat simgesi çıkacak. \"Apply Updates\"e tıklayın.
   - Bunun ardından Door43’te değişiklikleri \"Dismiss\" (İptal) veya \"Apply\" (Uygula) seçebilirsiniz. \"Apply\" seçerseniz, Door43’te daha önce bulunan metnin üzerine yeni metin yazılacak; \"Dismiss\" ise yüklenmiş olan metni iptal edecek ve Door43’te önceden bulunduğunu koruyacak.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:process:prechecking_training|Training Before Checking Begins]]//
   * //[[:tr:ta:vol1:process:intro_publishing|Introduction to Publishing]]//
