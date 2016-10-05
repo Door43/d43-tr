@@ -1,8 +1,8 @@
 ===== unfoldingWord’un İlk Kez Kullanılması =====
 
-This module answers the question: //unfoldingWord’u ilk kez nasıl kullanmalıyım?//
+Bu modül şu soruyu cevaplar: //unfoldingWord’u ilk kez nasıl kullanmalıyım?//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:tech:uw_app|unfoldingWord Mobile App]]//
   * //[[:tr:ta:vol1:tech:uw_install|Install unfoldingWord on an Android Device]]//
