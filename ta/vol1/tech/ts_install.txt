@@ -10,16 +10,16 @@ Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
 **Not:** Bu prosedür internet bağlantısını gerektirir.
 
-   - Android cihazında **Google Play Store ** simgesine dokunun. Google Play Store açılacak.
+   - Android cihazında **Google Play Store **  simgesine dokunun. Google Play Store açılacak.
   - Play Store’da uygulamayı aramak için pencerenin üst sağ köşesindeki büyütece dokunun.
   - **Search Google Play**  sözlerine dokunun ve translationStudio’ya metni girin (boşluk bırakmayın).
   - Büyütece dokunun veya klavyeyi kapatın.
-  - Play Store programını bulduktan sonra **tS ** simgesine dokunun.
-  - **Install’a ** dokunun sonra programın varsayılan ayarlarını kabul etmek için **Accept’e ** dokunun.
+  - Play Store programını bulduktan sonra **tS **  simgesine dokunun.
+  - **Install’a **  dokunun sonra programın varsayılan ayarlarını kabul etmek için **Accept’e **  dokunun.
   - Program cihaza indirilip kurulacaktır.
-  - Uygulama cihaza indirilip kurulacaktır. Programın kurulumu bitince **Open’e ** dokunun.
+  - Uygulama cihaza indirilip kurulacaktır. Programın kurulumu bitince **Open’e **  dokunun.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:tech:ts_intro|translationStudio]]//
   * //[[:tr:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]//
