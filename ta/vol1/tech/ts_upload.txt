@@ -1,8 +1,8 @@
 ===== İşinizi Yükleme =====
 
-This module answers the question: //İşimi nasıl yükleyebilirim?//
+Bu modül şu soruyu cevaplar: //İşimi nasıl yükleyebilirim?//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
 
