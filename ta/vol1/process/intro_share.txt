@@ -1,8 +1,8 @@
 ===== Dağıtımın Tanıtımı =====
 
-This module answers the question: //İçeriği nasıl dağıtabilirim?​//
+Bu modül şu soruyu cevaplar: //İçeriği nasıl dağıtabilirim?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:process:intro_publishing|Introduction to Publishing]]//
 
