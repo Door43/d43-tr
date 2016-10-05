@@ -19,7 +19,7 @@ Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
 Lisansın koşulları altında.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:process:share_unpublished|How to Share Unpublished Content]]//
   * //[[:tr:ta:vol1:process:share_published|How to Share Published Content]]//
