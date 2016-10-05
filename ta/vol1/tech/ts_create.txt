@@ -24,7 +24,7 @@ translationStudio’yu kullandığınızda metni yaratıp değiştirebilirsiniz.
 
 İşin büyük bir kısmını kazara silerseniz, [[help@door43.org|help@door43.org]] ile irtibata geçin.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:tech:ts_intro|translationStudio]]//
   * //[[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
