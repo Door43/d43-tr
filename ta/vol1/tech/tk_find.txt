@@ -10,13 +10,13 @@ Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
 Giriş dilinizi seçmek için bu adımları tamamlayın.
 
-  * **Settings ** (**Ayarlar**)’e dokunun.
+  * **Settings **  (**Ayarlar**)’e dokunun.
   * **Giriş Dili**  düğmesine dokunun.
   * Giriş Dilleri listesinde tüm dilleri görmek ve kullanmak istediğiniz hedef dili bulmak için dokunma-yukarıya çekme hareketini kullanın.
   * Dili seçmek için dilin sağındaki kutuya dokunun.
-  * Android menüsündeki **Setup ** (**Kurulum**) penceresine geri dönmek için geri oku kullanın.
+  * Android menüsündeki **Setup **  (**Kurulum**) penceresine geri dönmek için geri oku kullanın.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]//
   * //[[:tr:ta:vol1:tech:tk_start|Setting Up the translationKeyboard APP on an Android device]]//
