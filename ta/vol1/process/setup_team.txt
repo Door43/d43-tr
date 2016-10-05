@@ -34,7 +34,7 @@ Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
   * [[:tr:ta:vol1:translate:writing_decisions|Dilinizde Yazmaya Dair Kararlar]] - Yazar stili, noktalama, isimlerin çevirisi, yazılış vs. konulara dair kararların verilmesi gerekecek
   * [[:tr:ta:vol1:translate:translate_what|What to Start Translating]] - Ayrıca en birinci çevrilecek metin hakkında karar verilecek
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:choose_team|Choosing a Translation Team]]//
   * //[[:tr:ta:vol1:translate:qualifications|Translator Qualifications]]//
