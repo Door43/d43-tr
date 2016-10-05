@@ -15,10 +15,13 @@ Bu içeriği çevirirken [[:tr:ta:vol1:translate:toc_transvol1_2|Çeviri Kılavu
 
   * [[:tr:ta:vol1:translate:guidelines_intro|İyi Çevirinin Nitelikleri]] - İyi çevirinin tanımlanması
   * [[:tr:ta:vol1:translate:translate_process|Çeviri Süreci]] - İyi çeviri nasıl yapılır
-      *  [[:tr:ta:vol1:translate:translate_fandm|Biçim ve Anlam]]
- - Biçim ile anlam arasındaki fark
-      *  [[:tr:ta:vol1:translate:translate_dynamic|Anlama Dayalı Çeviriler]]
- - Anlama dayalı çeviri nasıl yapılır
+      * [[:tr:ta:vol1:translate:translate_fandm|Biçim ve Anlam]]
+
+- Biçim ile anlam arasındaki fark
+
+  * [[:tr:ta:vol1:translate:translate_dynamic|Anlama Dayalı Çeviriler]]
+
+- Anlama dayalı çeviri nasıl yapılır
 
 Başlarken önemli olabilecek başka konulardan bazısı şunlardır:
 
@@ -26,7 +29,7 @@ Başlarken önemli olabilecek başka konulardan bazısı şunlardır:
   * [[:tr:ta:vol1:translate:first_draft|İlk Taslağı Yapma]] - İlk taslak nasıl yapılır
   * [[:tr:ta:vol1:translate:translate_help|Çeviri için Yardım]] - Çeviriye dair yardımcı kaynakların kullanılması
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:translate:choose_team|Choosing a Translation Team]]//
   * //[[:tr:ta:vol1:translate:translate_source_text|Choosing a Source Text]]//
