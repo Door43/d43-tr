@@ -1,8 +1,8 @@
 ===== Dilimi Bulmak =====
 
-This module answers the question: //Dilimi bulamadığımda ne yapmalıyım?​//
+Bu modül şu soruyu cevaplar: //Dilimi bulamadığımda ne yapmalıyım?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
 
