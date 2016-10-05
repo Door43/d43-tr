@@ -1,6 +1,6 @@
 ===== translationStudio =====
 
-This module answers the question: //translationStudio uygulaması nedir?//
+Bu modül şu soruyu cevaplar: //translationStudio uygulaması nedir?//
 
 ==== translationStudio uygulamasının tanıtımı ====
 
