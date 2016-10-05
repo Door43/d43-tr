@@ -1,8 +1,8 @@
 ===== Dil Hakkında Bilgiler =====
 
-This module answers the question: //Dil hakkında bilgileri nasıl bulabilirim?//
+Bu modül şu soruyu cevaplar: //Dil hakkında bilgileri nasıl bulabilirim?//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:tech:uw_app|unfoldingWord Mobile App]]//
 
