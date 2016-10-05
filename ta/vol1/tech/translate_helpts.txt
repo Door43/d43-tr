@@ -1,6 +1,6 @@
 ===== translationStudio için Yardımın Bulunması =====
 
-This module answers the question: //translationStudio için yardımı nerede bulabilirim?​//
+Bu modül şu soruyu cevaplar: //translationStudio için yardımı nerede bulabilirim?​//
 
 ==== Yardım ====
 
