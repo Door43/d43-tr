@@ -15,7 +15,7 @@ unfoldingWord uygulamasının içeriğini güncelleştirmek için:
   - Güncelleştirme internet bağlantısını gerektirir.
   - Güncelleştirme sürecinde hareket eden hat görüntülenecektir.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:tech:uw_install|Install unfoldingWord on an Android Device]]//
   * //[[:tr:ta:vol1:tech:uw_first|Use unfoldingWord for the First Time]]//
