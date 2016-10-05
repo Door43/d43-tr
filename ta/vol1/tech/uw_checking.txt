@@ -1,8 +1,8 @@
 ===== Yoklama Seviyeleri Hakkında =====
 
-This module answers the question: //Yoklama seviyelerine nasıl başlamalıyım?​//
+Bu modül şu soruyu cevaplar: //Yoklama seviyelerine nasıl başlamalıyım?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:tech:uw_app|unfoldingWord Mobile App]]//
 
