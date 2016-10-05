@@ -1,8 +1,8 @@
 ===== unfoldingWord’ta Ses Fonksiyonunun Kullanılması =====
 
-This module answers the question: //unfoldingWord’ta ses fonksiyonu nasıl kullanılır?​//
+Bu modül şu soruyu cevaplar: //unfoldingWord’ta ses fonksiyonu nasıl kullanılır?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:tech:uw_app|unfoldingWord Mobile App]]//
 
