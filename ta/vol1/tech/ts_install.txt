@@ -1,8 +1,8 @@
 ===== translationStudio’nun Android Cihazına Kurulumu =====
 
-This module answers the question: //translationStudio’nun Android cihazına kurulumu nasıl yapılır?​//
+Bu modül şu soruyu cevaplar: //translationStudio’nun Android cihazına kurulumu nasıl yapılır?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:tech:ts_intro|translationStudio]]//
 
