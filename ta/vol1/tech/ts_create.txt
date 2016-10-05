@@ -1,8 +1,8 @@
 ===== Metnin Yaratılması ve Düzeltilmesi =====
 
-This module answers the question: //Metni nasıl yaratır ve düzeltirim?​//
+Bu modül şu soruyu cevaplar: //Metni nasıl yaratır ve düzeltirim?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
 
