@@ -10,7 +10,7 @@ Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
 Prosedür Kılavuzu, çeviri takımlarına baştan sona kadar atılacak adımları bilmelerine yardım edecek olan pratik rehberdir. Çeviri Kılavuzu çeviri kuramı için el kitabı, Yoklama Kılavuzu yoklama kuramı için el kitabı ve Teknoloji Kılavuzu bazı teknolojilerin kullanımı için el kitabı olduğu gibi Prosedür Kılavuzu çeviri takımının adım adım izleyebileceği prosedürü anlatmayı amaçlar. Prosedür Kılavuzu, başlangıç ayarlarından çevrilen ve yoklanan içeriğin son yayınlanmasına kadar çeviri takımını yönlendirir.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:process:getting_started|Getting Started]]//
   * //[[:tr:ta:vol1:process:platforms|Selecting a Platform]]//
