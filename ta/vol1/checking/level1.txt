@@ -1,8 +1,8 @@
-===== 1. Seviyede Yoklama  – Çevirinin Takımı Tarafından Doğrulanması =====
+===== 1. Seviyede Yoklama – Çevirinin Takımı Tarafından Doğrulanması =====
 
-This module answers the question: //1. seviye yoklamasını nasıl yapmalıyım?//
+Bu modül şu soruyu cevaplar: //1. seviye yoklamasını nasıl yapmalıyım?//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:checking:intro_levels|Introduction to the Checking Levels]]//
 
