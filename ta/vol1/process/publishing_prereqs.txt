@@ -19,6 +19,6 @@ Bir kaynak yayınlanmadan önce aşağıdaki önkoşulların sağlanması gereki
 
 Bütün bunlar tamamlandığında siz [[:tr:ta:vol1:process:publishing_process|Yayınlama Motoruna]] başlamaya hazır olursunuz.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:process:publishing_process|How to Publish]]//
