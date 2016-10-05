@@ -13,6 +13,6 @@ Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
   * Kutsal Kitap’ı çeviriyorsanız çevirinizi aynı Kutsal Kitap pasajının başka çevirileri ile karşılaştırın. Eğer o çevirilerden birini okurken bir şeyin daha iyi söylenebilecek yol aklınıza gelirse, çevirinizi o şekilde düzeltebilirsiniz. O çevirilerden biri bir şeyi öncekinden daha iyi anlamanıza yardım ederse, çevirinizi anlamı daha iyi iletecek şekilde değiştirin.
   * Bu adımlardan sonra çevirinizi kendinize yüksek sesle okuyun. Toplumunuzdan birinin söyleyebileceğine benzemeyen herhangi yerleri düzeltin. Bazen cümlenin ayrı ayrı kısımlarının değişik bir şekilde sıralanması gerekir.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:checking:peer_check|Peer Check]]//
