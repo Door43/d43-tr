@@ -31,6 +31,6 @@ Yayınlama süreci tamamlandığında içerik unfoldingWord katalogunda yayınla
 
 Başvuranın e-posta adresine mesaj gönderilecek ve bu mesajla yayınlama sürecinin tamamlanmış olduğu bildirilecek; ve söz konusu yayınlanmış içeriği gözden geçirip her şeyin «doğru göründüğünden» emin olmaları istenecektir.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:process:intro_share|Introduction to Distribution]]//
