@@ -29,6 +29,6 @@ Buna ek olarak,
       * ODT - sayfayı .odt dosyası ver
   * Bu dosyalar kaynak oluşturmak için birleştirilebilir ve arzu edildiği gibi paylaşılabilir.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:process:share_published|How to Share Published Content]]//
