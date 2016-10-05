@@ -12,7 +12,7 @@ Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
 Yoklama seviyeleri konusunda daha fazla öğrenmek için bkz: [[:tr:ta:vol1:checking:intro_check|Introduction to the Checking Manual]] ve [[https://unfoldingword.org/quality|https://unfoldingword.org/quality]] .
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:tech:uw_install|Install unfoldingWord on an Android Device]]//
   * //[[:tr:ta:vol1:tech:uw_first|Use unfoldingWord for the First Time]]//
