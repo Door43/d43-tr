@@ -35,7 +35,7 @@ Yayınlanmış İçerik [[https://unfoldingword.org/stories/|https://unfoldingwo
 
 Door43’te, kaynaklarda yayınlama durumunu açıklayan kısa bildiri çıkar. Örneğin, [[:tr:obs|Açık Kutsal Kitap Öyküleri’nin İngilizce versiyonunda]] «Bu kaynak unfoldingWord’da 3. yoklama seviyesinde 4. versiyon olarak yayınlanmıştır. Onu [[https://unfoldingword.org/stories|https://unfoldingword.org/stories]] adresinde bulabilirsiniz.» bildirisi çıkıyor.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:process:publishing_prereqs|Publishing Prerequisites]]//
   * //[[:tr:ta:vol1:process:publishing_process|How to Publish]]//
