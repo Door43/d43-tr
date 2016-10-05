@@ -30,6 +30,6 @@ Yoklama [[:tr:ta:vol1:checking:toc_checkvol1_2|seviyelerinin amacı öncelikle]]
 
 3. Seviyede yoklamayı tamamladıktan sonra çevirinizi [[:tr:ta:vol1:process:intro_publishing|yayınlamanız]] teşvik edilir. Bu, en yüksek yoklama seviyesidir.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:process:intro_publishing|Introduction to Publishing]]//
