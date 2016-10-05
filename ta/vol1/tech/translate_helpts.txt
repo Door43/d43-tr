@@ -8,7 +8,7 @@ Door43, iletişim için Slack uygulamasını kullanmaktadır. Bizim Slack kanall
 
 Ayrıca [[help@door43.org|help@door43.org]] adresine mesaj gönderebilrisiniz.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:tech:ts_intro|translationStudio]]//
   * //[[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
