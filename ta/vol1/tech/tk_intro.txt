@@ -6,7 +6,7 @@ Bu modül şu soruyu cevaplar: //translationKeyboard uygulaması nedir?​//
 
 translationKeyboard bir mobil uygulamadır. Bu uygulama kullanıcıların mobil cihazlarından desteklenmeyen diller için özel klavyelerin oluşturulmasına imkan verir. Android cihazları için translationKeyboard’u indirebilirsiniz.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]//
   * //[[:tr:ta:vol1:tech:tk_start|Setting Up the translationKeyboard APP on an Android device]]//
