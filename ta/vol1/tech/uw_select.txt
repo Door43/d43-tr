@@ -14,7 +14,7 @@ unfoldingWord’da öykülerin dilini değiştirmek için ekranın üst sol kö�
 
 __[[:tr:ta:vol1:tech:uw_intro|unfoldingWord]]__ sayfasına dönün.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:tech:uw_install|Install unfoldingWord on an Android Device]]//
   * //[[:tr:ta:vol1:tech:uw_first|Use unfoldingWord for the First Time]]//
