@@ -1,8 +1,8 @@
 ===== Prosedür Kılavuzu’nun Tanıtımı =====
 
-This module answers the question: //Prosedür Kılavuzu nedir?//
+Bu modül şu soruyu cevaplar: //Prosedür Kılavuzu nedir?//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:intro:finding_answers|Finding Answers]]//
 
