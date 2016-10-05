@@ -1,8 +1,8 @@
 ===== 2. Seviyede Yoklama - Dışarıdan Yoklanma =====
 
-This module answers the question: //2. seviye yoklamasını nasıl yapmalıyım?​//
+Bu modül şu soruyu cevaplar: //2. seviye yoklamasını nasıl yapmalıyım?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:checking:intro_levels|Introduction to the Checking Levels]]//
   * //[[:tr:ta:vol1:checking:accuracy_check|Accuracy Check]]//
