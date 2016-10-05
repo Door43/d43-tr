@@ -27,7 +27,7 @@ Kaynak dili -yani çeviriyi hangi dilden yapıyorsanız o dili- seçmek veya de�
   - İstenen kaynak dilin yanındaki boş kare kutuya dokunun.
   - Seçilen dili kaydetmek için pencerenin altındaki \"Confirm» (Doğrula)’a dokunun. Yahut, seçilen dili kaydetmeksizin kapatmak için \"Cancel» (İptal)’a dokunun.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:tech:ts_intro|translationStudio]]//
   * //[[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
