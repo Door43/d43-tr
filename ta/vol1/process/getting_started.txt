@@ -1,8 +1,8 @@
 ===== Başlama =====
 
-This module answers the question: //Başlamadan önce nasıl hazırlık yapmam gerekir?//
+Bu modül şu soruyu cevaplar: //Başlamadan önce nasıl hazırlık yapmam gerekir?//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:process:process_manual|Introduction to the Process Manual]]//
 
