@@ -1,8 +1,8 @@
 ===== Yayınlanmamış İçeriği Nasıl Paylaşmalı =====
 
-This module answers the question: //Yayınlanmamış içeriği nasıl paylaşabilirim?​//
+Bu modül şu soruyu cevaplar: //Yayınlanmamış içeriği nasıl paylaşabilirim?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:process:intro_share|Introduction to Distribution]]//
 
