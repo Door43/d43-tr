@@ -4,9 +4,9 @@ Bu modül şu soruyu cevaplar: //translationStudio uygulaması nedir?//
 
 ==== translationStudio uygulamasının tanıtımı ====
 
-translationStudio, çevirmenlerin çevrimdışı çeviri yapabilecekleri mobil uygulamasıdır.  [[https://play.google.com/store/apps/details?id=com.translationstudio.androidapp&hl=en|Android]] ([[https://play.google.com/store/apps/details?id=com.translationstudio.androidapp&hl=en|https://play.google.com/store/apps/details?id=com.translationstudio.androidapp&hl=en]]) cihazlarına indirilebilir. Çevrilmesi gereken içeriği ve [[:tr:ta:vol1:translate:translate_help|çeviriye dair yardımcı kaynakları]] içermektedir. Bilgiler doğrudan cihazdan cihaza paylaşılabilir ve tamamlanmış içerik Door43’e yüklenebilir ve dijital olarak yayınlanabilir.
+translationStudio, çevirmenlerin çevrimdışı çeviri yapabilecekleri mobil uygulamasıdır. [[https://play.google.com/store/apps/details?id=com.translationstudio.androidapp&hl=en|Android]] ([[https://play.google.com/store/apps/details?id=com.translationstudio.androidapp&hl=en|https://play.google.com/store/apps/details?id=com.translationstudio.androidapp&hl=en]]) cihazlarına indirilebilir. Çevrilmesi gereken içeriği ve [[:tr:ta:vol1:translate:translate_help|çeviriye dair yardımcı kaynakları]] içermektedir. Bilgiler doğrudan cihazdan cihaza paylaşılabilir ve tamamlanmış içerik Door43’e yüklenebilir ve dijital olarak yayınlanabilir.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
   * //[[:tr:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]//
