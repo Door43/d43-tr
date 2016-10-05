@@ -1,8 +1,8 @@
 ===== Word İşlemcisinin Kurulması =====
 
-This module answers the question: //Word İşlemcisini Nasıl Kurabilirim?​//
+Bu modül şu soruyu cevaplar: //Word İşlemcisini Nasıl Kurabilirim?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:process:platforms|Selecting a Platform]]//
 
