@@ -1,8 +1,8 @@
 ===== Yüklenen İçeriğin Door43’e Yerleştirilmesi =====
 
-This module answers the question: //Yüklenen içeriğimi Door43’e nasıl yerleştirebilirim?​//
+Bu modül şu soruyu cevaplar: //Yüklenen içeriğimi Door43’e nasıl yerleştirebilirim?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:process:pretranslation_training|Training Before Translation Begins]]//
 
