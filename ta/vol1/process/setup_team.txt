@@ -1,8 +1,8 @@
 ===== Çeviri Takımının Kurulması =====
 
-This module answers the question: //Çeviri takımını nasıl kurabilirim?//
+Bu modül şu soruyu cevaplar: //Çeviri takımını nasıl kurabilirim?//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:translate:translate_process|The Translation Process]]//
   * //[[:tr:ta:vol1:process:getting_started|Getting Started]]//
