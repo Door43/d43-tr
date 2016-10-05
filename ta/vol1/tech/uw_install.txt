@@ -8,7 +8,7 @@ Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
 ==== uW Uygulamasının Kurulumu Nasıl Yapılır ====
 
-unfoldingWord kurulum talimatı aşağıdadır. Uygulamayı seçip cihazınıza indirme ve kurma sürecini anlamak için ayrıca  __[[https://door43.org/_media/en/ta/tech/installing_translationstudio_-_android_v2.mp4|Install translationStudio]] ([[https://door43.org/_media/en/ta/tech/installing_translationstudio_-_android_v2.mp4|https://door43.org/_media/en/ta/tech/installing_translationstudio_-_android_v2.mp4]])__ videosunu izleyebilirsiniz.
+unfoldingWord kurulum talimatı aşağıdadır. Uygulamayı seçip cihazınıza indirme ve kurma sürecini anlamak için ayrıca __[[https://door43.org/_media/en/ta/tech/installing_translationstudio_-_android_v2.mp4|Install translationStudio]] ([[https://door43.org/_media/en/ta/tech/installing_translationstudio_-_android_v2.mp4|https://door43.org/_media/en/ta/tech/installing_translationstudio_-_android_v2.mp4]])__ videosunu izleyebilirsiniz.
 
 **Not:** Kurulum internet bağlantısını gerektirir.
 
@@ -17,11 +17,11 @@ unfoldingWord kurulum talimatı aşağıdadır. Uygulamayı seçip cihazınıza 
   * **Search Google Play’e**  dokunun ve unfoldingWord girin (boşluksuz).
   * Büyütece dokunun veya klavyeyi kapatın.
   * Play Store programı bulduktan sonra **uW**  simgesine dokunun.
-  * **Install’a ** dokunun.
+  * **Install’a **  dokunun.
   * Uygulamanın varsayılan ayarlarını kabul etmek için **Accept’e**  dokunun.
   * Uygulama cihaza indirilip kurulacaktır. Programın kurulumu bitince **Open’e**  dokunun.
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:tech:uw_first|Use unfoldingWord for the First Time]]//
   * //[[:tr:ta:vol1:tech:uw_checking|About Checking Levels]]//
