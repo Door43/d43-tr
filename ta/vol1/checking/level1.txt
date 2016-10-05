@@ -17,15 +17,15 @@ unfoldingWord projesinin amaçları için, Kutsal Kitap metinlerinin ve içeriğ
 Bunlar, çeviri takımının 1. Seviyede Yoklamaya ulaşmak için atması gereken adımlardır:
 
   - **İrtibat.**  unfoldingWord ağının hiç olmazsa bir ögesiyle irtibata geçerek çeviriye başlama niyetiniz hakkında unfoldingWord’u bilgilendirin. Bunu nasıl yapmamız konusunda bilgi edinmek için [[:tr:ta:vol1:intro:finding_answers|buraya tıklayın]].
-  - **Tekrar gözden geçirme. ** Şunları tekrar gözden geçirin [[:tr:ta:vol1:intro:statement_of_faith|Statement of Faith]] ve [[:tr:ta:vol1:intro:translation_guidelines|Çeviri Kuralları]].
+  - **Tekrar gözden geçirme. **  Şunları tekrar gözden geçirin [[:tr:ta:vol1:intro:statement_of_faith|Statement of Faith]] ve [[:tr:ta:vol1:intro:translation_guidelines|Çeviri Kuralları]].
   - **Kabul.**  İman Beyanı’nın kendi inancınızı düzgün ifade ettiğini ve içeriği hem ona hem de Çeviri Kuralları’na uygun olarak yapmak niyetinde olduğunuzu şu formu imzalayarak kabul edin [[https://unfoldingword.org/forms/|here]] ([[https://unfoldingword.org/forms|https://unfoldingword.org/forms]]).
-  - **Taslak. ** Metnin bazı kısımlarının çeviri taslağını yaratın. Çeviri taslağının yaratılması ile ilgili talimatlar için [[:tr:ta:vol1:translate:first_draft|buraya tıklayın]].
+  - **Taslak. **  Metnin bazı kısımlarının çeviri taslağını yaratın. Çeviri taslağının yaratılması ile ilgili talimatlar için [[:tr:ta:vol1:translate:first_draft|buraya tıklayın]].
   - **Çevirinin Çevirmen Tarafından Yoklanması.**  Kendi çevirisini yoklamak ile ilgili talimatlar için [[:tr:ta:vol1:checking:self_check|buraya tıklayın.]]
   - **Çevirinin Meslektaşlar Tarafından Yoklanması.**  Çevirinizin meslektaşlarınız tarafından yoklanması ile ilgili talimatlar için [[:tr:ta:vol1:checking:peer_check|buraya tıklayın.]]
   - **Önemli Terimlerin Yoklanması. **Önemli terimlerin yoklanması ile ilgili talimatlar için [[:tr:ta:vol1:checking:important_term_check|buraya tıklayın.]]
   - **Çevirinin Doğruluğunun Yoklanması. **Çevirinizin doğruluğunun yoklanması ile ilgili talimatlar için [[:tr:ta:vol1:checking:accuracy_check|buraya tıklayın.]]
   - **Doğrulama. **Çeviri takımı ya da bir çevirmen olarak çeviri sürecinde Çeviri Notları’nı, Önemli Terimlerin tanımlarını, ayrıca yorum ve çeviri yoklama ile ilgili diğer kaynakları tam şekilde kullanmış ve 1. Seviyedeki yoklamanın adımlarını uygulamış olduğunuzu doğrulayın. 1. Seviyeyi tamamlamış olduğunuzu nasıl doğrulamakla ilgili talimatlar için [[:tr:ta:vol1:checking:level1_affirm|buraya tıklayın.]]
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:intro:statement_of_faith|Statement of Faith]]//
   * //[[:tr:ta:vol1:intro:translation_guidelines|Translation Guidelines]]//
