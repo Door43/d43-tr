@@ -1,8 +1,8 @@
 ===== Çevirmen Tarafından Değerlendirilme Kategorisi =====
 
-This module answers the question: //Çevirinin kalitesini objektif olarak nasıl değerlendirebilirim?​//
+Bu modül şu soruyu cevaplar: //Çevirinin kalitesini objektif olarak nasıl değerlendirebilirim?​//
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:checking:complete|Complete Translation]]//
   * //[[:tr:ta:vol1:checking:church_leader_check|Church Leader Check]]//
