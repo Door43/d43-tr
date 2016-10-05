@@ -1,9 +1,10 @@
-===== Install unfoldingWord on an Android Device =====
+===== unfoldingWord’un Android Cihazına Kurulumu =====
 
-This module answers the question: //How do I install unfoldingWord on an Android device?//
+Bu modül şu soruyu cevaplar: //How do I install unfoldingWord on an Android device?//
 
-Before you start this module have you learned about:
-  * //[[tr:ta:vol1:tech:uw_app|unfoldingWord Mobile App]]//
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
+
+  * //[[:tr:ta:vol1:tech:uw_app|unfoldingWord Mobile App]]//
 
 ==== uW Uygulamasının Kurulumu Nasıl Yapılır ====
 
