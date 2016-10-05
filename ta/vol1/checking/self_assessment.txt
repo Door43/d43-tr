@@ -38,7 +38,7 @@ Bu süreç beş kısma bölünmektedir: **özet ** (çevirinin kendisine dair bi
 **hayır**** | ****evet ** Bu bölümün çevirisi Çeviri Kuralları’na uygun olarak gerçekleştirilmiştir.
 2. Doğallık:
 
-//«bu **benim ** dilimdir»// Bu bölümün toplum tarafından daha çok yoklanması ile güçlendirilebilir. Bkz [[:tr:ta:vol1:checking:language_community_check|Dil Toplumu Tarafından Yoklanma]]
+//«bu benim dilimdir»// Bu bölümün toplum tarafından daha çok yoklanması ile güçlendirilebilir. Bkz [[:tr:ta:vol1:checking:language_community_check|Dil Toplumu Tarafından Yoklanma]]
 
 **0 1 2** Bu dilde konuşanlardan bu bölümü duyan kişiler bunda kullanılan dil biçiminin düzgün olduğunu doğruluyorlar.\\
 **0 1 2** Bu dilde konuşanlar, bu bölümde kullanılan anahtar sözcüklerin bu kültüre uygun ve düzgün olduğunu doğruluyorlar.\\
