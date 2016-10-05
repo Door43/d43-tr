@@ -30,10 +30,12 @@ Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   - Çevirinizin yoklanmasını önemle tavsiye ediyoruz (bkz: [[:tr:ta:vol1:process:prechecking_training|Training Before Checking Begins]]).
   - Yoklamanın (her seviyede) tamamlanması üzerine işinizi yükleyebilirsiniz (bkz:
-  [[:tr:ta:vol1:tech:ts_upload|Upload Your Work]]).
+
+[[:tr:ta:vol1:tech:ts_upload|Upload Your Work]]).
+
   - İşinizi yüklemenizin ardından Door43’e yerleştirebilirsiniz (bkz: [[:tr:ta:vol1:process:upload_merge|Merging an Upload Into Door43]]).
 
-Next we recommend you learn about:
+Bundan sonra şu konuda bilgi almanızı tavsiye ederiz:
 
   * //[[:tr:ta:vol1:process:upload_merge|Merging an Upload Into Door43]]//
   * //[[:tr:ta:vol1:process:prechecking_training|Training Before Checking Begins]]//
