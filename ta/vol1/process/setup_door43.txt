@@ -1,6 +1,6 @@
 ===== Door43’ün Kurulması =====
 
-Before you start this module have you learned about:
+Bu modüle başlamadan önce şu konuda bilgi edindiniz mi:
 
   * //[[:tr:ta:vol1:process:platforms|Selecting a Platform]]//
 
