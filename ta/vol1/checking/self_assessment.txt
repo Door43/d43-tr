@@ -35,9 +35,7 @@ Bu süreç beş kısma bölünmektedir: **özet ** (çevirinin kendisine dair bi
 **hayır** **| ****evet ** Bu çeviri, orijinal metnin anlamını hedef dilde doğal, açık ve doğru bir biçimde iletmeyi amaçlayan anlama dayalı çeviridir.\\
 **hayır ****| ****evet **Çeviriyi yoklayanlar, hedef dilin anadil taşıyıcılarıdırlar.\\
 **hayır ****| ****evet ** Bu bölümün çevirisi İman Beyanı’na uygundur.\\
-**hayır**** | ****evet ** Bu bölümün çevirisi Çeviri Kuralları’na uygun olarak gerçekleştirilmiştir.
-2. Doğallık:
-
+**hayır**** | ****evet ** Bu bölümün çevirisi Çeviri Kuralları’na uygun olarak gerçekleştirilmiştir. 2. Doğallık:
 //«bu benim dilimdir»// Bu bölümün toplum tarafından daha çok yoklanması ile güçlendirilebilir. Bkz [[:tr:ta:vol1:checking:language_community_check|Dil Toplumu Tarafından Yoklanma]]
 
 **0 1 2** Bu dilde konuşanlardan bu bölümü duyan kişiler bunda kullanılan dil biçiminin düzgün olduğunu doğruluyorlar.\\
@@ -49,7 +47,9 @@ Bu süreç beş kısma bölünmektedir: **özet ** (çevirinin kendisine dair bi
 **0 1 2** Bu bölümün çevirisinin doğallık bakımından tekrar gözden geçirilmesine birçok değişik yaş gruplarından olan dilin taşıyıcıları katkıda bulunmuşlardır.\\
 **0 1 2** Bu bölümün çevirisinin doğallık bakımından tekrar gözden geçirilmesine hem erkekler hem kadınlar katkıda bulunmuşlardır.
 
-3. Açıklık: //«anlam açık anlaşılıyor»//
+3. Açıklık:
+
+//«anlam açık anlaşılıyor»//
 
 Bu bölüm toplum tarafından daha çok yoklanması ile güçlendirilebilir. Bkz [[:tr:ta:vol1:checking:language_community_check|Dil Toplumu Tarafından Yoklanma]]
 
